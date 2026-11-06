@@ -274,7 +274,7 @@
 .mf-article ul, .mf-article ol { margin: 0 0 1.25rem 1.25rem; }
 .mf-article ul { list-style: disc; } .mf-article ol { list-style: decimal; }
 .mf-article li { margin-bottom: 0.4rem; }
-.mf-article a { color: var(--color-cta); font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
+.mf-article a:not([class]) { color: var(--color-cta); font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
 .mf-article strong { color: var(--color-ink); }
 .mf-article figure { margin: 2rem 0; }
 .mf-article figure img { width: 100%; height: auto; border-radius: 0.75rem; border: 1px solid var(--color-border); }
