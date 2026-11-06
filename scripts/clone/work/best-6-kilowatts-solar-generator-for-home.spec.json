@@ -1,0 +1,698 @@
+{
+ "guideSlug": "best-6-kilowatts-solar-generator-for-home",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "6 kilowatts solar generator for home",
+ "guideTitle": "Best 6 kW Solar Generators for Home (2026)",
+ "metaTitle": "Best 6kW Solar Generators for Home Backup",
+ "metaDescription": "Seven solar generators and home systems compared for 6kW backup, with 240V output, surge, solar input and expansion explained for real home loads.",
+ "lastUpdated": "2026-11-06",
+ "readTime": "17 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
+ "expertTake": "If you truly need six kilowatts or more from a single unit, buy the Jackery Solar Generator 5000 Plus: 7,200 watts, 5,040 watt-hours and a 4,000 watt solar input. The OSCAL PowerMax 6000 is the value pick for big starting watts with short runtime. Most households do not need six kilowatts at once and would be better served by a pair of Jackery HomePower 3600 Plus units or a fixed WattCycle-style rack system. Renters and campers should skip this class entirely.",
+ "introParagraphs": [
+  "Six kilowatts of solar generator sounds like one number, but it combines two different questions: how much power you can draw at once, and how much energy the battery holds. Many boxes advertise high output with a small battery, and many advertise big storage with a modest inverter, so the label alone cannot tell you whether a unit will run a house.",
+  "This guide explains how to size output, storage and solar input for home backup, which configurations really deliver six kilowatts, and when a fixed rack system beats a portable station. The quick picks are above, and the reviews below show who each model fits and who should choose a different approach."
+ ],
+ "products": [
+  {
+   "id": "B0GWM1V7P6",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Jackery Solar Generator 5000 Plus 5,040Wh 7,200W with 2x200W Panels",
+   "amazonUrl": "https://www.amazon.com/dp/B0GWM1V7P6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "5,040Wh LFP",
+    "7,200W (14,400W surge)",
+    "4,000W solar input",
+    "Expands to 60kWh"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "5,040Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "7,200W, 14,400W surge, 120V and 240V"
+    },
+    {
+     "label": "Solar input",
+     "value": "Up to 4,000W"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 60kWh"
+    },
+    {
+     "label": "Transfer switch",
+     "value": "Optional 60A smart switch, 12 circuits at 120V or 6 at 240V"
+    },
+    {
+     "label": "Design life",
+     "value": "Up to 11 years daily use"
+    }
+   ],
+   "description": "If you want a literal six kilowatts and more, this is the machine that gets there from a single box. A 7,200 watt inverter with a 14,400 watt surge capability supports both 120 volt and 240 volt loads, and Jackery states it can run a five-ton air conditioner, which is a heavier motor load than any other unit in this roundup is claimed to handle. A 5,040 watt-hour LiFePO4 battery is the energy side, and expansion reaches 60 kilowatt-hours, which Jackery frames as about 13 days of essentials in an extended outage with careful use.\n\nSolar charging is the other standout. Input is stated at up to 4,000 watts and compatible with both high-voltage and low-voltage panels, so a full recharge in about two hours is possible under ideal sun with a big array. That figure is the best case, and real winter sun produces far less, but the input ceiling is far above the 1,000 to 2,400 watts of the other stations. Paired with Jackery's 60 amp smart transfer switch, it can feed up to 12 circuits at 120 volts or 6 at 240 volts, which is closer to a home battery install than a plug-in station.\n\nThat brings the ownership reality: this is a heavy, high-output system that wants a planned location and an electrician for the transfer switch. The bundle with two 200 watt panels is a token array for a 5 kWh battery, so budget for more. Against the PowerMax 6000, it offers 40 percent more energy and a higher inverter rating, but it costs more as a result. It is not a casual camping unit.",
+   "bestFor": "Homes that want true 6kW-plus output, 240V loads and a growth path to 60kWh.",
+   "pros": [
+    "7,200W 120/240V inverter exceeds a true 6kW requirement",
+    "Stated 4,000W solar input refills large batteries fast",
+    "Expandable to 60kWh for multi-day outages",
+    "Smart transfer switch option supports 12 or 6 home circuits"
+   ],
+   "cons": [
+    "Heavy and costly, with installation needed for a transfer switch",
+    "Bundled 2x200W panels are small for a 5kWh battery"
+   ]
+  },
+  {
+   "id": "B0F9KL9168",
+   "rank": 2,
+   "badge": "Best 6kW Value",
+   "name": "OSCAL PowerMax 6000 3,600Wh 6,000W with 2x200W Panels",
+   "amazonUrl": "https://www.amazon.com/dp/B0F9KL9168?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lb4NnQXRL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "3,600Wh LFP",
+    "6,000W (9,000W surge)",
+    "2,400W solar input",
+    "120/240V output"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "3,600Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "6,000W, 9,000W surge, 120V and 240V"
+    },
+    {
+     "label": "Solar input",
+     "value": "Up to 2,400W"
+    },
+    {
+     "label": "AC input",
+     "value": "2,200W"
+    },
+    {
+     "label": "Full charge",
+     "value": "About 1.44 hr stated"
+    },
+    {
+     "label": "Switchover",
+     "value": "5 to 8 ms EPS"
+    }
+   ],
+   "description": "The PowerMax 6000 matches the six kilowatt target on its nameplate with a 6,000 watt inverter and a 9,000 watt surge, from a battery of 3,600 watt-hours. That combination is power-heavy and energy-light: at full output it would drain in about 36 minutes, which is why it is better understood as a unit that can start and run big loads for short periods rather than carry a whole home for days. The bi-directional inverter supports 120 and 240 volts, and the maker states a charge from empty to full in about 1.44 hours using 2,200 watts of AC input and 2,400 watts of solar.\n\nIts value case is the output per unit of cost. Compared with the Jackery 5000 Plus, you get 1,200 watts less inverter and about 30 percent less energy, but a much lower price tier. Compared with a 3,600 watt-hour unit such as the Jackery HomePower 3600 Plus, it doubles the continuous output at the same energy. It states a 5 to 8 millisecond switchover, which is fast enough for most computers, and an app that shows power and lets you execute commands.\n\nTwo caveats apply. The brand is newer, and the warranty is two years, so support history matters. Second, 6,000 watts of output draws huge current, so cable gauge and breaker selection are critical. Do not connect it to a home panel except through an electrician-installed transfer switch.",
+   "bestFor": "People who need big starting watts for 240V loads but not many hours of runtime.",
+   "pros": [
+    "6,000W inverter with 9,000W surge starts large motors",
+    "Dual 120/240V output from one unit",
+    "2,200W AC and 2,400W solar charging fill it in about 1.44 hours",
+    "5 to 8 ms switchover protects electronics"
+   ],
+   "cons": [
+    "3,600Wh drains in well under an hour at full output",
+    "Two-year warranty and newer brand carry support risk"
+   ]
+  },
+  {
+   "id": "B0FSL6HRRJ",
+   "rank": 3,
+   "badge": "Best Plug-and-Play Home Backup",
+   "name": "Jackery HomePower 3600 Plus 3,584Wh 3,600W with 2x200W Panels",
+   "amazonUrl": "https://www.amazon.com/dp/B0FSL6HRRJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41NYZ-MXY1L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "3,584Wh LFP",
+    "3,600W (7,200W parallel)",
+    "Expands to 21kWh",
+    "2 hr hybrid charge"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "3,584Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3,600W, 7,200W in parallel"
+    },
+    {
+     "label": "Voltage",
+     "value": "120V, and 120/240V in parallel"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 21kWh"
+    },
+    {
+     "label": "Full charge",
+     "value": "About 2 hr hybrid AC and DC"
+    },
+    {
+     "label": "Cell safety",
+     "value": "Ceramic membrane cells tested at 302F"
+    }
+   ],
+   "description": "The HomePower 3600 Plus reaches six kilowatts only by pairing, so it is not a one-box answer to a six kilowatt target, but it is the most balanced unit in this roundup. Two units in parallel give 7,200 watts and 240 volts, with a combined 7,168 watt-hours, which is a better energy-to-power ratio than the 3,600 watt-hour PowerMax 6000. A single unit alone delivers 3,600 watts, enough for a fridge, a well-run kitchen circuit and lights.\n\nJackery states the unit is the lightest 3.6 kilowatt-hour LFP station and uses ceramic membrane cells tested at 302 degrees F to resist thermal runaway. It recharges in about 2 hours with hybrid AC and DC and expands to 21 kilowatt-hours, though that is well below the 60 kilowatt-hour ceiling of the 5000 Plus. The plug-and-play approach with a manual transfer switch avoids complex installation for essential circuits.\n\nBuying two units doubles the cost, which makes the 5000 Plus a more sensible single purchase if you truly need over 6 kilowatts. The listing here includes a cable and two 200 watt panels, with a separate shipment for panels. Place it in a dry, ventilated spot and size your panels for your recharge goal.",
+   "bestFor": "Homes that want a lighter, plug-and-play start and may pair two units for 240V.",
+   "pros": [
+    "Pairs for 7,200W and 240V, covering a six kilowatt need",
+    "Lighter and smaller than comparable 3.6kWh stations by the maker's claim",
+    "Ceramic membrane cells tested at 302F aim to resist thermal runaway",
+    "Expandable to 21kWh with a manual transfer switch option"
+   ],
+   "cons": [
+    "Six kilowatts needs two units, doubling the cost",
+    "Expansion ceiling is far below the 5000 Plus"
+   ]
+  },
+  {
+   "id": "B0GTCZLRWY",
+   "rank": 4,
+   "badge": "Best High-Capacity Dual Voltage",
+   "name": "OUKITEL P5000 Plus 5,120Wh 3,600W 120/240V Power Station",
+   "amazonUrl": "https://www.amazon.com/dp/B0GTCZLRWY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41OkvDQjtIL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "5,120Wh LiFePO4",
+    "3,600W 120/240V",
+    "1,000W MPPT solar",
+    "0 to 100% in 2.2 hr"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "5,120Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "3,600W, 5,000W surge, 5 AC outlets"
+    },
+    {
+     "label": "Voltage",
+     "value": "120V and 240V"
+    },
+    {
+     "label": "AC charge",
+     "value": "1,800W, 0 to 100% in 2.2 hr"
+    },
+    {
+     "label": "Solar input",
+     "value": "1,000W MPPT"
+    },
+    {
+     "label": "Switchover",
+     "value": "Under 0.01 s EPS"
+    }
+   ],
+   "description": "The P5000 Plus offers the most stored energy of the single units here at 5,120 watt-hours, with dual voltage and 3,600 watts. It does not reach six kilowatts, but it fills the role of a long-runtime, medium-output backup unit, and its 5,000 watt surge covers motor starts. The inverter provides 120 and 240 volt output across five AC outlets, and the listed 1,800 watt AC input recharges it in about 2.2 hours.\n\nIts weak point is solar: the 1,000 watt MPPT caps the recharge rate from panels, which means a day of strong sun only recovers a fraction of the pack, compared with the 4,000 watt input of the Jackery 5000 Plus. The maker lists over 3,500 charge cycles and a 20-year lifespan claim, which assumes lighter use, and a sub-0.01 second UPS switchover.\n\nIt suits a household that needs a day or two of essentials, where the heavy loads are limited to 3,600 watts. For a true six kilowatt need, consider the Jackery 5000 Plus or the PowerMax 6000. The app lets you monitor real-time input and output and adjust settings, and you should keep the unit ventilated and out of heat.",
+   "bestFor": "Cabins and homes that want long runtime at up to 3,600W with 240V available.",
+   "pros": [
+    "5,120Wh is the largest battery of the single units here",
+    "5 AC outlets with 120/240V and 5,000W surge",
+    "1,800W AC input recharges in about 2.2 hours",
+    "Sub-0.01 s UPS switchover and app monitoring"
+   ],
+   "cons": [
+    "1,000W MPPT limits solar recharge speed",
+    "Does not reach six kilowatts of output alone"
+   ]
+  },
+  {
+   "id": "B0HGY5S9JX",
+   "rank": 5,
+   "badge": "Best Expandable DIY System",
+   "name": "WattCycle 48V 6kW Hybrid Inverter with 5.12kWh Rack Battery Kit",
+   "amazonUrl": "https://www.amazon.com/dp/B0HGY5S9JX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31JJv5crgWL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6,000W split-phase",
+    "5.12kWh rack battery",
+    "9,000W MPPT",
+    "Expands to 20 batteries"
+   ],
+   "specList": [
+    {
+     "label": "Inverter",
+     "value": "6,000W split-phase, 120/240V"
+    },
+    {
+     "label": "Single-phase output",
+     "value": "Up to 4,800W at 120V"
+    },
+    {
+     "label": "Battery",
+     "value": "48V 100Ah, 5.12kWh LiFePO4"
+    },
+    {
+     "label": "Solar charger",
+     "value": "9,000W MPPT"
+    },
+    {
+     "label": "Transfer time",
+     "value": "10 ms or less UPS"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 20 batteries, 6 inverters in parallel"
+    }
+   ],
+   "description": "This is the odd one out, and it is here because it is the honest route to a six kilowatt home system. It combines a 6,000 watt hybrid inverter, giving 6,000 watts at 120 and 240 volts split-phase, with a 48 volt, 100 amp-hour LiFePO4 server rack battery of 5.12 kilowatt-hours and a built-in 9,000 watt MPPT charger. It is a fixed home-energy kit rather than a portable generator, with WiFi monitoring and a 10 millisecond UPS transfer.\n\nIts advantage is how it scales and what it costs in watts per unit of cost: a 9,000 watt MPPT accepts a large array, the rack battery supports 1C charging at 200 amp peak, and the system can grow to 20 batteries and run up to six inverters in parallel. Compared with the Jackery 5000 Plus, it holds about the same energy as one kit, but can scale well past 60 kilowatt-hours at a lower cost per kilowatt-hour.\n\nThe tradeoff is that it requires wiring, a cabinet or rack, breakers and proper installation by a qualified installer, plus local permits. It is not plug and play and it is not portable. If you want a backup you can wheel to a campsite, this is the wrong tool. If you are building a home system, it is the best match for six kilowatts in this roundup.",
+   "bestFor": "Owners who want a fixed, scalable 6kW home system and will hire an installer.",
+   "pros": [
+    "6,000W split-phase inverter with 9,000W MPPT input",
+    "Rack battery expands to 20 units for large storage",
+    "Up to six inverters can run in parallel",
+    "10 ms or less UPS and WiFi monitoring included"
+   ],
+   "cons": [
+    "Needs professional installation, wiring and permits",
+    "Not portable, so it is no camping or RV unit"
+   ]
+  },
+  {
+   "id": "B0FFSDCNR4",
+   "rank": 6,
+   "badge": "Best Lighter 3kWh Option",
+   "name": "Jackery HomePower 3000 3,072Wh 3,600W with 2x200W Panels",
+   "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "3,072Wh LFP",
+    "3,600W (7,200W surge)",
+    "20 ms UPS",
+    "1.7 hr hybrid charge"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "3,072Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3,600W, 7,200W surge"
+    },
+    {
+     "label": "UPS",
+     "value": "20 ms or less, UL certified"
+    },
+    {
+     "label": "Full charge",
+     "value": "1.7 hr hybrid AC and DC, 2.2 hr AC"
+    },
+    {
+     "label": "Technology",
+     "value": "ChargeShield 2.0"
+    },
+    {
+     "label": "Size claim",
+     "value": "47% smaller, 43% lighter than comparable"
+    }
+   ],
+   "description": "The HomePower 3000 is the smaller sibling of the 3600 Plus and a sensible choice if a full six kilowatts is not required. It has 3,072 watt-hours and a 3,600 watt inverter with 7,200 watt surge, enough for a refrigerator, a sump pump and lights, and a UL-certified UPS that switches in 20 milliseconds or less. Charging is quick: 1.7 hours with hybrid AC and DC and 2.2 hours from AC alone, per the listing.\n\nJackery says it was the first 3 kilowatt-hour power station with CTB technology, making it 47 percent smaller and 43 percent lighter than comparable models. Against the 3600 Plus it offers about 15 percent less energy. At 120 volts it cannot run 240 volt appliances alone, so it is for essential circuits, not whole-home loads.\n\nIt fits people who want a brand with a long record and a lighter box. Check which solar panels are in your bundle and confirm that the unit's solar input and voltage window match your array. A 20 millisecond switchover is slower than the 10 millisecond figure on some rivals, so very sensitive equipment may need a dedicated UPS.",
+   "bestFor": "Households wanting 3kWh and 3,600W of essential backup from an established brand.",
+   "pros": [
+    "3,600W inverter with 7,200W surge runs fridge and pumps",
+    "UL-certified UPS switches within 20 ms",
+    "Hybrid AC and DC fills it in about 1.7 hours",
+    "Compact for 3kWh, per the maker's size claim"
+   ],
+   "cons": [
+    "No 240V output from a single unit",
+    "20 ms UPS is slower than 10 ms rivals for sensitive gear"
+   ]
+  },
+  {
+   "id": "B0F47FKBQ4",
+   "rank": 7,
+   "badge": "Best Value Expandable",
+   "name": "ABOK Ark3600 3,840Wh 3,600W with 3x200W Panels",
+   "amazonUrl": "https://www.amazon.com/dp/B0F47FKBQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "3,840Wh LiFePO4",
+    "3,600W rated",
+    "3,500W combined input",
+    "Expands to 11,520Wh"
+   ],
+   "specList": [
+    {
+     "label": "Battery",
+     "value": "3,840Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "3,600W rated"
+    },
+    {
+     "label": "Fast charge",
+     "value": "0 to 80% in about 1.1 hr"
+    },
+    {
+     "label": "Combined input",
+     "value": "Up to 3,500W AC plus solar"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 11,520Wh"
+    },
+    {
+     "label": "Ports",
+     "value": "15 including TT-30"
+    }
+   ],
+   "description": "The Ark3600 is a mid-size, expandable station that gives a large battery for its output class. A 3,840 watt-hour LiFePO4 battery with EVE cells feeds a 3,600 watt inverter, and combined AC and solar input of up to 3,500 watts can take it from empty to 80 percent in about 1.1 hours under ideal conditions. Expansion to 11,520 watt-hours triples capacity, and the unit has 15 ports including a TT-30 RV outlet.\n\nIt does not deliver six kilowatts, and the listing data we reviewed does not state 240 volt output, so for a 240 volt or six kilowatt need it is not the answer. Where it shines is as a value-oriented backup for essential circuits, with more energy than the 3,072 watt-hour Jackery HomePower 3000 and the PowerMax 6000. The bundle includes three 200 watt panels, 600 watts, which is a more useful starter than a single panel.\n\nSupport matters with a newer brand, so check warranty terms. The app can schedule charging for off-peak rates, and the unit has a telescoping handle and wheels. It is heavy and should live where it can stay.",
+   "bestFor": "Value-minded buyers who want 3.8kWh with expansion and an RV outlet.",
+   "pros": [
+    "3,840Wh with EVE LiFePO4 cells and a 3,600W inverter",
+    "Combined 3,500W input charges 0 to 80% in about 1.1 hours",
+    "Expands to 11,520Wh and has a TT-30 RV port",
+    "Bundled 3x200W panels are a useful starter array"
+   ],
+   "cons": [
+    "No stated 240V output, so no six kilowatt 240V need",
+    "Newer brand with a short support history"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Kilowatts are not kilowatt-hours",
+   "explanation": "A 6 kilowatt inverter can deliver 6,000 watts, but the battery decides how long. The PowerMax 6000 pairs 6,000 watts with 3,600 watt-hours, so at full load it empties in about 36 minutes, while the Jackery 5000 Plus has 5,040 watt-hours behind 7,200 watts. Most homes run far below peak, so an average of 500 to 1,500 watts is more realistic. Add your essential loads in watts for the hours you need and size the battery for that, not for the inverter."
+  },
+  {
+   "criterion": "Who actually needs 6kW at once",
+   "explanation": "Six kilowatts matters when 240 volt motor loads must start: a central air conditioner, a well pump, an electric dryer. A single 3,600 watt unit cannot start a five-ton air conditioner, which the Jackery 5000 Plus is stated to handle. If your must-run list is a refrigerator, lights and a router, 3,600 watts is plenty, and paying for 6,000 buys little. Add up the starting watts of your biggest motor and keep headroom of about 25 percent."
+  },
+  {
+   "criterion": "Single unit versus paired units",
+   "explanation": "You can reach 7,200 watts by pairing two Jackery HomePower 3600 Plus units in parallel, which also yields 240 volts, or you can buy a single high-output unit like the Jackery 5000 Plus or PowerMax 6000. Paired units are more portable, because each half moves separately, and one can be used alone. A single unit is a simpler install with one point to maintain. The cost and the balance of energy to power differ, so compare the total watt-hours as well."
+  },
+  {
+   "criterion": "Solar input decides recovery",
+   "explanation": "A 5 kilowatt-hour battery needs about 5 kilowatt-hours of sun to refill, and the station's input limit sets the pace. The Jackery 5000 Plus lists 4,000 watts, the PowerMax 6000 2,400 watts, the ABOK Ark3600 up to 3,500 watts combined AC and solar and the OUKITEL P5000 Plus only 1,000 watts. A low input cap makes a large array pointless. Real panel output is usually well under nameplate, so oversize the array by 20 to 30 percent."
+  },
+  {
+   "criterion": "Portable station versus fixed rack system",
+   "explanation": "A rack system like the WattCycle 6kW kit with a 5.12 kilowatt-hour battery is built into the home, with a 9,000 watt MPPT and a path to 20 batteries. It costs less per kilowatt-hour at scale and is more serviceable, but it needs an installer, a breaker and permits. A portable station can be wheeled out and is largely plug and play. If you own your home and want years of daily solar shifting, the rack system is the better long-term tool."
+  },
+  {
+   "criterion": "Transfer switch and code",
+   "explanation": "Never feed a house through a dryer outlet or an extension cord with two male ends. A transfer switch, such as Jackery's 60 amp smart switch that supports 12 circuits at 120 volts or 6 at 240 volts, isolates the home from the grid and the generator. Many jurisdictions require a permit and inspection for panel work. Plan the installation as part of the purchase, not as an afterthought."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Continuous output (kW)",
+   "meaning": "The sustained power an inverter can deliver, in watts or kilowatts.",
+   "watchFor": "The PowerMax 6000 lists 6,000W continuous and the 5000 Plus 7,200W. Many 3,600W units are described as whole-home, which is optimistic."
+  },
+  {
+   "spec": "Surge rating",
+   "meaning": "A short overload allowed for motor starting, often a second or two.",
+   "watchFor": "A 14,400W surge on the 5000 Plus or 9,000W on the PowerMax is for starts, not continuous running."
+  },
+  {
+   "spec": "Split-phase output",
+   "meaning": "120 volts from each leg and 240 volts across both legs, as a US home panel is wired.",
+   "watchFor": "Units that list 120/240V from one inverter, like the PowerMax 6000 and WattCycle kit, can feed 240 volt loads. Others need two units."
+  },
+  {
+   "spec": "MPPT input",
+   "meaning": "A solar charge controller that tracks the best operating point and sets the max solar watts and voltage.",
+   "watchFor": "The WattCycle kit lists 9,000W, but only at a high-voltage window. The OUKITEL caps at 1,000W."
+  },
+  {
+   "spec": "Parallel operation",
+   "meaning": "Linking identical units or inverters to add output or capacity.",
+   "watchFor": "The Jackery HomePower 3600 Plus pairs for 7,200W, and the WattCycle can run six inverters. Mixing models is generally not supported."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Output and voltage class",
+   "description": "We ranked units by continuous output and by whether they supply 240 volts without pairing: Jackery 5000 Plus at 7,200W, PowerMax 6000 and WattCycle at 6,000W, and the 3,600W group below. Pairing options were considered for the Jackery 3600 Plus."
+  },
+  {
+   "title": "Energy storage and expansion",
+   "description": "We compared base capacity and expansion, from 3,072Wh on the HomePower 3000 to 5,120Wh on the OUKITEL, plus ceilings of 60kWh on the 5000 Plus and up to 20 batteries on the WattCycle rack. Energy-to-power ratio mattered as much as raw size."
+  },
+  {
+   "title": "Solar input and recharge",
+   "description": "We looked at stated input, 4,000W on the 5000 Plus down to 1,000W on the OUKITEL, and recharge times such as 1.44 hours on the PowerMax. We treated all as ideal and favored systems whose input matches realistic arrays."
+  },
+  {
+   "title": "Installation and code readiness",
+   "description": "Based on spec sheets and owner feedback patterns, we considered transfer switch support, certifications and whether a licensed install is needed. Plug-and-play stations scored differently from fixed systems like the WattCycle kit, and each was judged for its intended role."
+  },
+  {
+   "title": "Support and platform risk",
+   "description": "We weighed warranty terms, brand track record and parts supply. Jackery has an established record, while PowerMax, OUKITEL, ABOK and WattCycle are newer to this segment. A two-year term, as on the PowerMax, counted against it for long-term home backup."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What You Need to Start",
+   "intro": "Match the biggest motor you must start, then the hours you need.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Central air or a five-ton motor",
+      "Jackery Solar Generator 5000 Plus",
+      "7,200W with 14,400W surge"
+     ],
+     [
+      "240V well pump and workshop tools",
+      "OSCAL PowerMax 6000",
+      "6,000W with 9,000W surge, 120/240V"
+     ],
+     [
+      "Fridge, sump pump and lights",
+      "Jackery HomePower 3600 Plus",
+      "3,600W, pairs for 240V later"
+     ],
+     [
+      "Multi-day cabin essentials",
+      "OUKITEL P5000 Plus",
+      "5,120Wh, 3,600W dual voltage"
+     ],
+     [
+      "Fixed home system with big solar",
+      "WattCycle 48V 6kW Hybrid Kit",
+      "9,000W MPPT, expandable rack"
+     ],
+     [
+      "Essentials from a lighter unit",
+      "Jackery HomePower 3000",
+      "3,072Wh and 3,600W"
+     ],
+     [
+      "Expandable value backup",
+      "ABOK Ark3600",
+      "3,840Wh and 11.5kWh ceiling"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers only since prices change.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "What you give up"
+    ],
+    "rows": [
+     [
+      "Lowest cost of the group",
+      "OUKITEL P5000 Plus",
+      "Low solar input and no six kilowatt output"
+     ],
+     [
+      "Lower mid-range",
+      "ABOK Ark3600",
+      "No stated 240V output and a newer brand"
+     ],
+     [
+      "Mid-range brand",
+      "Jackery HomePower 3000",
+      "No 240V from one unit"
+     ],
+     [
+      "Mid-range DIY",
+      "WattCycle 48V 6kW Hybrid Kit",
+      "Installation and permits"
+     ],
+     [
+      "Mid-range output",
+      "OSCAL PowerMax 6000",
+      "Short runtime, two-year warranty"
+     ],
+     [
+      "Premium brand",
+      "Jackery HomePower 3600 Plus",
+      "Pair needed for 6kW"
+     ],
+     [
+      "Top tier",
+      "Jackery Solar Generator 5000 Plus",
+      "Weight, size and cost"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Portable Station vs Fixed Rack System",
+   "cards": [
+    {
+     "label": "Portable station",
+     "text": "The Jackery 5000 Plus, PowerMax 6000, HomePower units, OUKITEL and ABOK roll out of the box with their own outlets. They are quick to deploy and can serve a camp or a trailer, and some connect to a home through a transfer switch."
+    },
+    {
+     "label": "Fixed rack system",
+     "text": "The WattCycle kit mounts a 48 volt battery and a split-phase inverter in the home, with 9,000W of solar input and room for 20 batteries. It is cheaper per kilowatt-hour at scale and easier to service, but it needs wiring, breakers and permits."
+    }
+   ],
+   "note": "Choose a portable station for plug-and-play flexibility. Choose a rack system if you own the home and want long-term solar shifting."
+  },
+  {
+   "subheading": "Solar Capacity",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Note"
+    ],
+    "rows": [
+     [
+      "Largest solar input",
+      "Jackery Solar Generator 5000 Plus",
+      "Up to 4,000W"
+     ],
+     [
+      "Big array on a fixed system",
+      "WattCycle 48V 6kW Hybrid Kit",
+      "9,000W MPPT"
+     ],
+     [
+      "Fast 240V recharge",
+      "OSCAL PowerMax 6000",
+      "2,400W solar, 2,200W AC"
+     ],
+     [
+      "Fast combined input",
+      "ABOK Ark3600",
+      "3,500W combined"
+     ],
+     [
+      "Small array only",
+      "OUKITEL P5000 Plus",
+      "1,000W MPPT cap"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Whole-Home Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "240 volt output, enough surge for your largest motor, expansion for multi-day use and a transfer switch for a safe home connection. Pair that with a solar input large enough to recover your daily use."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Jackery 5000 Plus is the best single unit, two HomePower 3600 Plus units are the best plug-and-play pair, and the WattCycle kit is the best fixed system."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need to start a central air conditioner, want 60kWh of growth or want the strongest brand support. The Jackery 5000 Plus and the HomePower 3600 Plus are the choices."
+    },
+    {
+     "label": "Save if",
+     "text": "Your essentials total under 3,600W. The Jackery HomePower 3000, ABOK Ark3600 or OUKITEL P5000 Plus fit, and you avoid paying for output you will never use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Charge to 40 to 60 percent for storage",
+   "interval": "Every 3 to 6 months",
+   "why": "LFP cells age slowly at partial charge. A long deep discharge can damage them."
+  },
+  {
+   "task": "Inspect connectors and breakers",
+   "interval": "Every 6 months",
+   "why": "High-current connections heat up when loose. Check torque and signs of discoloration."
+  },
+  {
+   "task": "Keep vents clear",
+   "interval": "Always",
+   "why": "Blocked airflow raises temperatures and derates output. Leave space on all sides."
+  },
+  {
+   "task": "Update firmware and monitor the app",
+   "interval": "When prompted",
+   "why": "Updates improve charge control. Watch for fault codes that signal issues."
+  },
+  {
+   "task": "Test the transfer switch",
+   "interval": "Twice a year",
+   "why": "A switch that never operates can seize. Run a real outage drill with essential circuits."
+  },
+  {
+   "task": "Clean panels and check MC4 leads",
+   "interval": "Each season",
+   "why": "Dirt and loose connectors cut solar input. Wipe panels and check polarity and strain relief."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I really need six kilowatts?",
+   "a": "Most homes do not run six kilowatts at once. Six kilowatts matters when a 240 volt motor such as central air or a well pump must start. If your essentials are a fridge, lights and a router, a 3,600 watt unit is enough."
+  },
+  {
+   "q": "What is the difference between 6kW and 6kWh?",
+   "a": "Kilowatts measure power, how much you can use at once, and kilowatt-hours measure energy, how long it lasts. The PowerMax 6000 has 6,000 watts but 3,600 watt-hours, so at full load it runs about 36 minutes. Size both separately."
+  },
+  {
+   "q": "Can I power a whole house with a portable solar generator?",
+   "a": "Only a limited set of circuits, unless it is a big system with expansion. A 5 kilowatt-hour battery runs a fridge and lights for a day or two, but central air drains it in hours. Use a transfer switch and choose which circuits to back up."
+  },
+  {
+   "q": "How many solar panels do I need for six kilowatts?",
+   "a": "The inverter size does not set panel count. The solar input limit and your daily energy use do. A 4,000 watt input like the Jackery 5000 Plus can use a large array, while a 1,000 watt limit gains nothing from more panels."
+  },
+  {
+   "q": "Is a rack battery system better than a portable station?",
+   "a": "For a permanent home install, usually yes, since cost per kilowatt-hour is lower and it scales. It requires professional installation and permits. A portable station is better if you want flexibility and plug-and-play use."
+  },
+  {
+   "q": "Can I connect it to my house panel?",
+   "a": "Only through a proper transfer switch or an installed inlet, ideally by a licensed electrician. Never back-feed through a dryer outlet or a cable with two male ends. Follow local code and permit rules."
+  }
+ ],
+ "relatedGuides": []
+}

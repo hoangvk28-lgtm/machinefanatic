@@ -4,6 +4,11 @@
 
 ---
 
+## MachineFanatic rule: best-guide length standard (changed 2026-11-06, per explicit user instruction: first 2,500 to 3,000, then raised to 3,300 to 3,800)
+Best guides target **3,300 to 3,800 words**, with 5 to 6 products and 3-paragraph "About this pick" descriptions (8 to 9 sentences). This overrides the inherited WorthRated rules below that ask for 3 paragraphs, 8 to 10 sentences, 5 to 7 FAQ entries and so on. `docs/BEST-GUIDE-WRITER-BRIEF.md` holds the exact per-section counts. The user cut the length to reduce cost. Specific numbers and named comparisons are still required; cut repetition, not substance.
+
+---
+
 ## MachineFanatic rule: article images must be real photos (added 2026-11-06, per explicit user instruction)
 - Every illustration inside an article must be a **real, authentic photograph** of the actual machine, tool or process. No AI-generated images, no renders, clip art, diagrams posing as photos or stock illustrations. Use real product photos from the Amazon Creators API (served from `m.media-amazon.com`, not downloaded) or real photos from Wikimedia Commons with a reuse-compatible license (CC0, public domain, CC BY, CC BY-SA), downloaded to `public/images/articles/` as webp.
 - **Do NOT put a source or credit line under each image.** Captions may describe what the photo shows, never who took it. If a license requires attribution (CC BY / CC BY-SA), credit it **once, at the end of the article** in the "Image credits" block (`imageCredits[]` in the article module).

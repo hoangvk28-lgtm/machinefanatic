@@ -31,11 +31,11 @@ Write to `scripts/clone/work/<guideSlug>.spec.json` (repo-relative) with these k
 - `introParagraphs`: exactly 2 short paragraphs, 50 to 80 words each, category level only. P1: what the machine is for and the core buying problem (why the box numbers mislead). P2: what this guide explains, then point to the top picks above and the reviews below.
   - **NEVER put product-level review content in the intro**: no model names, no per-model specs, no spec lists or comparisons between named picks. The intro renders right under "At a Glance", so model detail there reads as a misplaced review. All model names and numbers belong in products[], buyingCriteria, specDecoder and howToChoose. (Rule added 2026-11-06 after the user flagged the blender guide.)
 - `products[]`: each `{ id: ASIN, rank, badge, name, amazonUrl, imageUrl, price: "", specs: [3 to 4 short chips, ≤ 24 chars each, e.g. "3000 max PSI", "1.76 GPM", "Induction motor"], specList: [{label, value}] 5 to 7 rows of real specs from the input, description, bestFor (one sentence), pros (4, each 50 to 90 chars, one clause), cons (2 to 3, same length, at least one substantive tradeoff) }`.
-  - `description`: exactly 3 paragraphs separated by `\n\n`, 9 to 11 sentences total. P1: the engineering approach and what it means in use. P2: tradeoffs and who it fits, with at least one comparison naming a sibling product from this roundup with a number. P3: ownership detail (maintenance, setup, storage, parts, battery platform, noise, fuel, etc.).
+  - `description`: exactly 3 paragraphs separated by `\n\n`, 8 to 9 sentences total. P1: the engineering approach and what it means in use. P2: tradeoffs and who it fits, with at least one comparison naming a sibling product from this roundup with a number. P3: one ownership detail (maintenance, setup, parts, noise, fuel).
   - Badges: distinct, specific (e.g. "Best Overall", "Best Dual Fuel", "Best for Electronics", "Best Value", "Best for Firewood").
-- `buyingCriteria[]`: 6 entries `{ criterion: 3 to 6 words, explanation }`. Each explanation 4 to 6 sentences: the mechanism, the threshold or rule of thumb with real numbers, a common buyer mistake, and at least one sentence naming specific products from this lineup with their numbers.
-- `specDecoder[]`: 5 entries `{ spec, meaning, watchFor }`. `spec` is a spec-sheet term (e.g. "Max PSI", "Running watts", "DOE 2019 pints"). `meaning` 2 to 3 sentences explaining it technically. `watchFor` 1 to 2 sentences on how manufacturers inflate or misuse it, referencing this lineup where possible.
-- `howWeEvaluated[]`: 5 entries `{ title, description }`, each 3 to 4 sentences of category-specific methodology; at least one names lineup positions with real specs.
+- `buyingCriteria[]`: 6 entries `{ criterion: 3 to 6 words, explanation }`. Each explanation 3 to 4 sentences: the mechanism, the threshold or rule of thumb with real numbers, a common buyer mistake, and at least one sentence naming specific products from this lineup with their numbers.
+- `specDecoder[]`: 4 entries `{ spec, meaning, watchFor }`. `spec` is a spec-sheet term (e.g. "Max PSI", "Running watts", "DOE 2019 pints"). `meaning` 2 to 3 sentences explaining it technically. `watchFor` 1 to 2 sentences on how manufacturers inflate or misuse it, referencing this lineup where possible.
+- `howWeEvaluated[]`: 4 entries `{ title, description }`, each 2 to 3 sentences of category-specific methodology; at least one names lineup positions with real specs.
 - `howToChoose[]`: 6 subsections in this order, each `{ subheading, intro?, table?: {headers, rows}, cards?: [{label, text}], note? }`. Every row and card must name an actual product from the lineup.
   1. "By [primary attribute]" table (scenario → pick, plus a "Why" column)
   2. "By Budget" table (relative tiers, no dollar figures)
@@ -43,11 +43,11 @@ Write to `scripts/clone/work/<guideSlug>.spec.json` (repo-relative) with these k
   4. A secondary decision axis specific to the category, as a table
   5. "For [common specific use] Specifically": cards labeled "Look for" and "In this comparison"
   6. "When to Spend More": cards labeled "Spend more if" and "Save if", each tied to named products
-- `maintenance[]`: 5 to 6 entries `{ task, interval, why }`. Real upkeep for this machine type (e.g. "Change engine oil", "First 5 hours, then every 50", why it matters). `why` is 2 sentences.
-- `faq[]`: 6 entries `{ q, a }`, answers 3 to 4 sentences. Cover: choosing between two types, budget, maintenance/durability, a spec misconception, safety or code/regulation (only if you are certain it is accurate, e.g. CO sensors, EPA/CARB, GFCI), and one category-specific question.
+- `maintenance[]`: 4 to 5 entries `{ task, interval, why }`. Real upkeep for this machine type (e.g. "Change engine oil", "First 5 hours, then every 50", why it matters). `why` is 2 sentences.
+- `faq[]`: 6 entries `{ q, a }`, answers 2 to 3 sentences. Cover: choosing between two types, budget, maintenance/durability, a spec misconception, safety or code/regulation (only if you are certain it is accurate, e.g. CO sensors, EPA/CARB, GFCI), and one category-specific question.
 - `relatedGuides`: `[]` (we will fill it later).
 
-Target total length: 3,500 to 4,500 words of prose per guide. Depth over padding.
+Target total length: **3,300 to 3,800 words** of prose per guide (changed 2026-11-06 to cut cost). Products: 5 to 6. Depth over padding: keep the specific numbers and named comparisons, cut repetition.
 
 ## Research step (required)
 Before writing each guide, run 2 or 3 WebSearch queries on the category ("how to choose X", "X buying mistakes", "X rated vs peak", etc.) to find buyer knowledge competitors explain poorly. Work those findings into buyingCriteria, specDecoder and faq as established knowledge. Do not cite sources in the copy and do not fabricate statistics.

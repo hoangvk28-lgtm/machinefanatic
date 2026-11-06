@@ -1,13 +1,14 @@
 // Picks the next N "todo" topics from source-index.json (optionally one category),
 // fetches live Amazon data for the source ASINs (picks) plus fresh keyword-search results (candidates),
 // writes scripts/clone/work/<slug>.input.json and marks rows "inprogress".
-// Usage: node scripts/clone/next-batch.mjs 20 [category]
+// Usage: node scripts/clone/next-batch.mjs 20 [category]   (SLUGS_FILE=list.txt to restrict to a curated slug list)
 import { readFileSync, writeFileSync, mkdirSync } from "fs";
 import { token, getItems, search, sleep } from "./env.mjs";
 const [n = "20", cat] = process.argv.slice(2);
 const IDX = "scripts/clone/source-index.json";
 const rows = JSON.parse(readFileSync(IDX, "utf-8"));
-const pick = rows.filter((r) => r.status === "todo" && (!cat || r.category === cat)).slice(0, +n);
+const list = process.env.SLUGS_FILE ? new Set(readFileSync(process.env.SLUGS_FILE, "utf-8").split(/\s+/).filter(Boolean)) : null;
+const pick = rows.filter((r) => r.status === "todo" && (!cat || r.category === cat) && (!list || list.has(r.slug))).slice(0, +n);
 mkdirSync("scripts/clone/work", { recursive: true });
 const tok = await token();
 for (const r of pick) {

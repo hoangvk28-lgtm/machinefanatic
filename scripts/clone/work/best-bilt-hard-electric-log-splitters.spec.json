@@ -1,0 +1,638 @@
+{
+ "guideTitle": "Best BILT HARD Log Splitters (2026)",
+ "metaTitle": "Best BILT HARD Log Splitters in 2026",
+ "metaDescription": "Six BILT HARD log splitters compared by tonnage, engine, pump flow, cycle time and towing, from a 6.5 ton electric to a 40 ton gas machine.",
+ "expertTake": "The BILT HARD 22 Ton is the pick for most homeowners because its 14 GPM pump gives a listed 7 second cycle that beats the larger models. The 6.5 Ton Electric is the value pick for seasoned softwood near an outlet, and the 40 Ton is for people who split knotty hardwood every week. Skip the range entirely if you burn less than a cord a year.",
+ "introParagraphs": [
+  "A log splitter pushes a wedge through wood with hydraulic force, and brands in this category sell models with very different engines, pumps and cylinders under similar names. The tonnage number is the loudest claim, but the cycle time and log capacity decide how much firewood you actually split.",
+  "This guide explains how engine size, pump flow and cylinder size interact, why a smaller machine can outrun a larger one, and how to choose between gas and electric power. The quick picks are above, and the reviews below show which model fits which wood pile."
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Tonnage vs Cycle Time",
+   "explanation": "A hydraulic splitter's rated tons come from cylinder area times working pressure, while cycle time comes from pump flow and cylinder volume. A machine can have high force and a slow cycle, as the 40 ton at about 16 seconds shows. The 22 ton model, with its 14 GPM pump and a listed 7 second cycle, can split more logs per hour than the 35 ton at 15 seconds. Pick the tonnage you need for your toughest log, then compare cycle times."
+  },
+  {
+   "criterion": "Engine Size and Pump Flow",
+   "explanation": "Engine size sets how much oil the pump can move at working pressure. The 209cc engine on the 18, 22 and 27 ton models is the middle tier, while the 35 ton uses 306cc and the 40 ton uses 389cc. Pump flow in GPM, such as the 11 GPM on the 27 ton and 18 GPM on the 35 ton, tells you more about speed than tonnage."
+  },
+  {
+   "criterion": "Log Length and Diameter",
+   "explanation": "The listed log length limits how long a log you can load, and diameter limits what fits between the wedge and the stop. The 18 ton handles 20 inch by 16 inch logs, the 22 ton splits up to 21 inches long, and the 35 ton handles 24 inches long and 20 inches across. The electric 6.5 ton takes only 9.8 inches in diameter, so measure your biggest rounds first."
+  },
+  {
+   "criterion": "Horizontal vs Vertical",
+   "explanation": "A vertical mode lets you stand a heavy round on the base and drive the wedge down through it, without lifting. The 27 ton and 40 ton convert to vertical, while the 18 and 22 ton are horizontal only. A log lift, like the 700 lb lift on the 35 ton, solves a similar problem on a horizontal beam. If you split rounds heavier than you can lift, plan for one of these."
+  },
+  {
+   "criterion": "Towing and Mobility",
+   "explanation": "Some models are road-towable and some are not. The 27 ton and 40 ton use 16 inch DOT tires and a 2 inch ball hitch, and the 27 ton lists a 45 MPH tow speed. The 22 ton has 13 inch wheels for towing up to 25 MPH. The 18 ton listing states it is not intended to be towed, so choose according to where the wood is."
+  },
+  {
+   "criterion": "Fluids and Setup",
+   "explanation": "Some kits include hydraulic fluid and engine oil, and some do not. The 27 ton and 40 ton list the oils as included, while the 18 ton states fluids are not included and recommends AW32 hydraulic fluid. Failing to buy fluid delays your first split and running it low damages the pump. Check every listing and budget for oil."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Rated tons",
+   "meaning": "Tons describe the maximum force at the wedge, based on cylinder area and relief valve pressure. It is an upper limit that you reach only when the log resists.",
+   "watchFor": "Some listings show two numbers. The 27 ton lists 25 tons in its description, so trust the lower figure."
+  },
+  {
+   "spec": "GPM pump flow",
+   "meaning": "GPM is the volume of oil the pump moves each minute. Higher flow moves the ram faster, which shortens cycle time.",
+   "watchFor": "Two-stage pumps flow more oil at low pressure for speed, then less at high pressure for force. A bigger number does not guarantee speed if the cylinder is huge."
+  },
+  {
+   "spec": "Cycle time",
+   "meaning": "Cycle time is the time for the ram to extend and retract. It sets how many splits you finish per hour.",
+   "watchFor": "Cycle times quoted on a listing can describe the ram stroke only. The 18 ton lists 4.75 seconds forward, but a full cycle takes longer."
+  },
+  {
+   "spec": "Engine displacement",
+   "meaning": "Displacement in cc describes engine size, and with it horsepower and torque. A larger engine can drive more pump flow at high pressure.",
+   "watchFor": "Horsepower claims vary by test method. Compare 209cc, 306cc and 389cc engines by torque and pump results."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Force and cycle time",
+   "description": "We compared rated tonnage against listed cycle time, from the 22 ton's 7 seconds to the 40 ton's 16 seconds, to see which machines are fast for their size."
+  },
+  {
+   "title": "Pump and engine pairing",
+   "description": "We looked at engine size alongside pump flow, such as the 209cc engine with 14 GPM on the 22 ton and the 306cc engine with 18 GPM on the 35 ton."
+  },
+  {
+   "title": "Capacity and handling",
+   "description": "We checked log length and diameter, vertical conversion, log lifts and towing ability, since they determine how easily you can load a round."
+  },
+  {
+   "title": "Fluids, setup and upkeep",
+   "description": "We noted whether oil is included, how many moving parts the machine has and how much maintenance each design needs."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Log Size",
+   "intro": "Match the machine to the biggest, toughest round you will actually split.",
+   "table": {
+    "headers": [
+     "Your wood",
+     "Recommended pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Seasoned softwood under 9 inches",
+      "BILT HARD 6.5 Ton Electric",
+      "Quiet, clean and enough force"
+     ],
+     [
+      "Hardwood up to 16 inches",
+      "BILT HARD 18 Ton",
+      "Gas power with a fast ram"
+     ],
+     [
+      "Hardwood up to 21 inches",
+      "BILT HARD 22 Ton",
+      "Fast listed 7 second cycle"
+     ],
+     [
+      "Heavy rounds that you cannot lift",
+      "BILT HARD 27 Ton",
+      "Vertical mode and towing"
+     ],
+     [
+      "20 inch rounds in volume",
+      "BILT HARD 35 Ton",
+      "Log lift and multi-way wedges"
+     ],
+     [
+      "Knotty, gnarled hardwood",
+      "BILT HARD 40 Ton",
+      "Biggest engine and force"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers only.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Recommended pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Least expensive",
+      "BILT HARD 6.5 Ton Electric",
+      "No engine, small and simple"
+     ],
+     [
+      "Lower mid",
+      "BILT HARD 18 Ton",
+      "Entry gas power"
+     ],
+     [
+      "Mid",
+      "BILT HARD 22 Ton",
+      "Best speed per dollar"
+     ],
+     [
+      "Mid to upper",
+      "BILT HARD 27 Ton",
+      "Adds vertical and towing"
+     ],
+     [
+      "Upper",
+      "BILT HARD 35 Ton",
+      "Log lift and wedges"
+     ],
+     [
+      "Premium",
+      "BILT HARD 40 Ton",
+      "Largest engine in the range"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gas vs Electric",
+   "cards": [
+    {
+     "label": "Gas",
+     "text": "The 18, 22, 27, 35 and 40 ton models use 209cc to 389cc engines, work anywhere and split bigger rounds. They need fuel, oil and engine upkeep, and cannot run in a closed garage."
+    },
+    {
+     "label": "Electric",
+     "text": "The 6.5 Ton Electric runs on 120V and is quiet and clean. It is limited to about 9.8 inch rounds and needs a strong circuit."
+    }
+   ],
+   "note": "Pick the electric if your rounds are small and you have an outlet. Choose gas for anything bigger or if you work in the field."
+  },
+  {
+   "subheading": "Horizontal vs Vertical vs Lift",
+   "table": {
+    "headers": [
+     "Preference",
+     "Recommended pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Simplest horizontal",
+      "BILT HARD 22 Ton",
+      "Fast and mechanically simple"
+     ],
+     [
+      "Stand heavy rounds upright",
+      "BILT HARD 27 Ton",
+      "Converts to vertical"
+     ],
+     [
+      "Raise logs hydraulically",
+      "BILT HARD 35 Ton",
+      "700 lb log lift"
+     ],
+     [
+      "Vertical with maximum force",
+      "BILT HARD 40 Ton",
+      "Vertical mode and big engine"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Oak and Hickory Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Enough force to power through knots, an 18 GPM or similar high-flow pump and a wedge that can fit the round. Dense hardwoods stall small machines."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BILT HARD 22 Ton is the best fit for most people, with its fast cycle. The 40 Ton is the choice for very knotty rounds."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You split many cords a year, which points to the 35 Ton with a lift or the 40 Ton. You also tow the machine to the woodlot, which points to the 27 Ton."
+    },
+    {
+     "label": "Save if",
+     "text": "You split a cord or two of softwood, where the 6.5 Ton Electric is enough. You work on level ground, where the 18 Ton does the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check engine oil",
+   "interval": "Before each use",
+   "why": "Low oil ruins small engines quickly. Check on level ground and top up as needed."
+  },
+  {
+   "task": "Check hydraulic fluid level",
+   "interval": "Before each use",
+   "why": "Low fluid makes the pump cavitate and run hot. Use the recommended AW32 fluid."
+  },
+  {
+   "task": "Change hydraulic fluid and filter",
+   "interval": "Annually or per manual",
+   "why": "Contamination wears the pump. A fresh filter protects the gear pump."
+  },
+  {
+   "task": "Stabilize fuel",
+   "interval": "Before storage",
+   "why": "Ethanol fuel varnishes carburetors in a few months. Add stabilizer or run the tank dry."
+  },
+  {
+   "task": "Grease pivots and sharpen the wedge",
+   "interval": "Each season",
+   "why": "Greased hinges move freely. A clean edge splits with less force."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which BILT HARD log splitter is best for most people?",
+   "a": "The 22 Ton is the best balance of force and speed, with a listed 7 second cycle. It splits seasoned hardwood quickly and is simpler than the towable models. Choose a bigger model only if you need vertical mode or a lift."
+  },
+  {
+   "q": "Is a bigger tonnage always better?",
+   "a": "No. Force matters for the toughest logs, but cycle time sets how fast you finish the pile. The 22 Ton outpaces the 35 Ton per log, while the 35 Ton handles larger rounds."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "The electric 6.5 Ton and 18 Ton are the least expensive tiers. The 22 and 27 Ton sit in the middle, and the 35 and 40 Ton are the premium end. Include oil and fuel in the cost."
+  },
+  {
+   "q": "Can I tow a log splitter on the road?",
+   "a": "Only models with DOT tires and a hitch, such as the 27 and 40 Ton, are designed for towing. The 18 Ton listing says it is not intended for towing. Check lights, tire pressure and local rules."
+  },
+  {
+   "q": "Do I need a special circuit for the electric model?",
+   "a": "The listing recommends a 40 amp breaker and a standard 120V outlet. Avoid sharing the circuit with other tools and use a short, heavy cord. Voltage drop causes slow splits and motor heat."
+  },
+  {
+   "q": "How often should I change the hydraulic fluid?",
+   "a": "Follow the manual, usually annually or after a set number of hours. Check the level before each use. Dirty fluid wears the pump quickly."
+  }
+ ],
+ "guideSlug": "best-bilt-hard-electric-log-splitters",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "bilt hard electric log splitters",
+ "lastUpdated": "2026-11-06",
+ "readTime": "15 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41m2MDa0VaL._SL500_.jpg",
+ "products": [
+  {
+   "id": "B0GQY8N389",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "BILT HARD 22 Ton Gas Log Splitter, 209cc, 14 GPM Pump",
+   "amazonUrl": "https://www.amazon.com/dp/B0GQY8N389?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41m2MDa0VaL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "22-ton rated",
+    "209cc OHV engine",
+    "14 GPM 2-stage pump",
+    "7 second cycle"
+   ],
+   "specList": [
+    {
+     "label": "Rated force",
+     "value": "22 tons"
+    },
+    {
+     "label": "Engine",
+     "value": "209cc gas"
+    },
+    {
+     "label": "Pump",
+     "value": "14 GPM two-stage gear pump"
+    },
+    {
+     "label": "Cylinder",
+     "value": "3.5 x 19 in"
+    },
+    {
+     "label": "Log length",
+     "value": "Up to 21 in"
+    },
+    {
+     "label": "Cycle time",
+     "value": "About 7 seconds listed"
+    },
+    {
+     "label": "Wheels",
+     "value": "13 in, tow up to 25 MPH"
+    }
+   ],
+   "description": "The 22 ton model is the most balanced machine in the BILT HARD range because it pairs a mid-size 209cc engine with a high-flow pump. A 14 GPM two-stage gear pump moves a lot of oil, and that is why the listing quotes a 7 second cycle, which is fast for a horizontal splitter. Rated force of 22 tons from a 3.5 by 19 inch cylinder at up to 25.5 MPa working pressure gives it enough force for seasoned oak and hickory rounds without stalling on every knot.\n\nIt is a horizontal-only design with a 21 inch log length, so you lift rounds onto the beam, unlike the 27 and 40 ton models that also stand vertical. Against the 18 ton unit, you gain more force and a larger cylinder. Compared with the 35 ton machine, which cycles at 15 seconds, this one splits more logs per hour even though it is rated lower. Its 13 inch wheels allow low-speed towing at up to 25 MPH, so it is a yard-and-driveway tool rather than a road-towable one.\n\nExpect to buy engine oil and hydraulic fluid if the kit does not include them, and check fluid levels before every run. Stabilize fuel for the off season, and change hydraulic fluid on the schedule in the manual.",
+   "bestFor": "Homeowners with a few cords to split every year who want fast cycles without a trailer-class machine.",
+   "pros": [
+    "Fast listed 7 second cycle from a 14 GPM two-stage pump",
+    "22 tons of force handles seasoned hardwood rounds without stalling",
+    "21 inch log capacity covers standard stove lengths",
+    "13 inch wheels are easy to roll around the yard and driveway"
+   ],
+   "cons": [
+    "Horizontal only, so you lift every round onto the beam",
+    "Low towing speed limits moving it far on public roads",
+    "Hydraulic fluid and engine oil may need separate purchase"
+   ]
+  },
+  {
+   "id": "B0G4W5864N",
+   "rank": 2,
+   "badge": "Best Towable Midrange",
+   "name": "BILT HARD 27 Ton Towable Gas Log Splitter, Horizontal and Vertical",
+   "amazonUrl": "https://www.amazon.com/dp/B0G4W5864N?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412hcLjMEKL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "27-ton rated",
+    "209cc OHV engine",
+    "Vertical and horizontal",
+    "16 in DOT tires"
+   ],
+   "specList": [
+    {
+     "label": "Rated force",
+     "value": "27 tons listed"
+    },
+    {
+     "label": "Engine",
+     "value": "209cc, 7 HP"
+    },
+    {
+     "label": "Pump",
+     "value": "11 GPM two-stage"
+    },
+    {
+     "label": "Reservoir",
+     "value": "6 gal hydraulic"
+    },
+    {
+     "label": "Cycle",
+     "value": "About 13 seconds"
+    },
+    {
+     "label": "Towing",
+     "value": "2 in ball hitch, up to 45 MPH"
+    },
+    {
+     "label": "Log length",
+     "value": "Up to 24 in"
+    }
+   ],
+   "description": "The 27 ton splitter adds the one feature that changes the work most: it converts to vertical splitting. Large, heavy rounds are far easier to split upright than to lift onto a beam, and the 16 inch DOT tires and a 2 inch ball coupler mean you can tow it behind an ATV, UTV or truck at up to 45 MPH. It is the first model in the range that you would comfortably move between a woodlot and the house.\n\nThe tradeoff is speed. It uses the same 209cc engine as the 22 ton but an 11 GPM pump, so the cycle is about 13 seconds versus 7 seconds for the 22 ton. The listing also states a 25 ton force alongside the 27 ton title, so treat the larger figure as a marketing number and plan on the lower one. A 7 inch hardened steel wedge and a 6 gallon hydraulic reservoir are listed, and the oil is included in the box.\n\nBecause it is a towable machine, check tire pressure and lights if you plan to move it on roads, and grease the hitch. If you only split on flat ground near a garage, the 22 ton will be faster and simpler.",
+   "bestFor": "Rural owners who split large rounds and need to tow the machine to the wood rather than carry the wood to it.",
+   "pros": [
+    "Converts to vertical mode so you can split heavy rounds upright",
+    "16 inch DOT tires and a hitch allow towing up to 45 MPH",
+    "Hydraulic fluid and engine oil are included in the box",
+    "6 gallon reservoir helps keep oil temperature stable"
+   ],
+   "cons": [
+    "About 13 second cycle is nearly twice the 22 ton model",
+    "Listing shows both 27 and 25 ton force, so the rating is soft",
+    "Heavier and bulkier to store than the horizontal-only units"
+   ]
+  },
+  {
+   "id": "B0FZ8GPVSR",
+   "rank": 3,
+   "badge": "Best with Log Lift",
+   "name": "BILT HARD 35 Ton Gas Log Splitter with Log Lift and 4/6-Way Wedge",
+   "amazonUrl": "https://www.amazon.com/dp/B0FZ8GPVSR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4139sZr6dsL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "35-ton rated",
+    "306cc, 10 HP engine",
+    "700 lb log lift",
+    "4 and 6-way wedges"
+   ],
+   "specList": [
+    {
+     "label": "Rated force",
+     "value": "35 tons"
+    },
+    {
+     "label": "Engine",
+     "value": "306cc, 10 HP"
+    },
+    {
+     "label": "Pump",
+     "value": "18 GPM Bucher two-stage"
+    },
+    {
+     "label": "Cycle",
+     "value": "About 15 seconds"
+    },
+    {
+     "label": "Log capacity",
+     "value": "24 in long, 20 in diameter"
+    },
+    {
+     "label": "Log lift",
+     "value": "700 lb, 5 in stroke"
+    },
+    {
+     "label": "Beam",
+     "value": "Box shape"
+    }
+   ],
+   "description": "This machine is built for people who split big, heavy rounds all season. A 306cc, 10 HP engine drives an 18 GPM Bucher two-stage pump, and the 35 ton rating comes with a hydraulic log lift rated to 700 pounds so you do not have to heave rounds onto the beam. The interchangeable 4-way and 6-way wedges turn a 20 inch diameter round into four or six pieces in a single stroke, which matters more for volume than raw force.\n\nIts 15 second cycle is much slower than the 22 ton model's 7 seconds, and about level with the 40 ton's 16 seconds, so the 35 ton is not about speed. What you gain is the lift, the wedge options and a box-shape beam that the listing says resists twisting better than an I-beam. It is the practical choice for a splitter that sees heavy daily use, while the 40 ton is the brute force option and the 27 ton is the lighter towable.\n\nThe lift and multi-way wedge add more moving parts to maintain. Grease the lift pivots, keep the hydraulic filter clean and watch hose condition because the lift draws oil from the same circuit. Allow the engine to warm up in cold weather, and follow the engine manual for oil and valve checks.",
+   "bestFor": "Serious firewood producers who split 20 inch rounds and want a lift and multi-way wedges to do the heavy lifting.",
+   "pros": [
+    "Hydraulic log lift raises rounds up to 700 lb without lifting",
+    "Interchangeable 4-way and 6-way wedges multiply each stroke",
+    "Box-shape beam is listed as resisting twisting under heavy load",
+    "18 GPM Bucher pump is a quality hydraulic component"
+   ],
+   "cons": [
+    "15 second cycle is much slower than the 22 ton model",
+    "Lift and wedge add more moving parts to grease and maintain",
+    "Large and heavy to store and move without a tow vehicle"
+   ]
+  },
+  {
+   "id": "B0DPX5JCTP",
+   "rank": 4,
+   "badge": "Best for Hardwood Rounds",
+   "name": "BILT HARD 40 Ton Gas Log Splitter, 389cc, Full Beam",
+   "amazonUrl": "https://www.amazon.com/dp/B0DPX5JCTP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ACt013AfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "40-ton rated",
+    "389cc, 13 HP engine",
+    "14 GPM pump",
+    "8 in wedge"
+   ],
+   "specList": [
+    {
+     "label": "Rated force",
+     "value": "40 tons"
+    },
+    {
+     "label": "Engine",
+     "value": "389cc, 13 HP"
+    },
+    {
+     "label": "Pump",
+     "value": "14 GPM two-stage gear pump"
+    },
+    {
+     "label": "Cycle",
+     "value": "About 16 seconds"
+    },
+    {
+     "label": "Reservoir",
+     "value": "7 gal"
+    },
+    {
+     "label": "Log length",
+     "value": "Up to 24 in"
+    },
+    {
+     "label": "Wheels",
+     "value": "16 in DOT, 2 in ball hitch"
+    }
+   ],
+   "description": "The 40 ton is the largest machine in the BILT HARD lineup and the one to buy if you routinely split knotty elm, gnarled oak or rounds nearly two feet across. A 389cc, 13 HP engine delivers about 17 ft-lb of torque, and the 8 inch hardened wedge on a full beam transfers that force to the log. The 7 gallon reservoir and 14 GPM pump keep the oil cooler than smaller systems during long days.\n\nIt shares the 14 GPM pump class with the 22 ton, but the cylinder moves much more oil, so the cycle is about 16 seconds compared with 7 seconds. That makes it slower per log than the 22 ton and similar to the 35 ton, and the difference is that it does not stall on the toughest rounds. Like the 27 ton it converts to vertical, uses 16 inch DOT tires, and tows with a 2 inch ball hitch.\n\nThe bigger engine needs more attention. Change engine oil on schedule, stabilize fuel and replace the hydraulic filter. For a household that burns two or three cords a year, this is more machine than needed, and the 22 ton will do the same work faster.",
+   "bestFor": "Heavy users who split large, knotty hardwood and want a reserve of force and oil capacity.",
+   "pros": [
+    "Largest engine and highest 40 ton rating in the whole lineup",
+    "8 inch hardened wedge on a full beam transfers force well",
+    "7 gallon reservoir helps keep oil cool in long sessions",
+    "Vertical mode and towing hitch for big rounds in the field"
+   ],
+   "cons": [
+    "About 16 second cycle is slower than the smaller models",
+    "Heavy and bulky, so it needs storage space and a tow vehicle",
+    "Overkill for a household splitting only a couple of cords"
+   ]
+  },
+  {
+   "id": "B0GRCTDY2W",
+   "rank": 5,
+   "badge": "Best Value Gas",
+   "name": "BILT HARD 18 Ton Gas Log Splitter, 209cc, Auto Return",
+   "amazonUrl": "https://www.amazon.com/dp/B0GRCTDY2W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BQUMOfLtL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "18-ton rated",
+    "209cc 4-stroke",
+    "Auto return ram",
+    "Up to 20 in logs"
+   ],
+   "specList": [
+    {
+     "label": "Rated force",
+     "value": "18 tons"
+    },
+    {
+     "label": "Engine",
+     "value": "209cc 4-stroke gas"
+    },
+    {
+     "label": "Pump",
+     "value": "Two-stage, listed 4.75 s forward"
+    },
+    {
+     "label": "Log capacity",
+     "value": "20 in long, 16 in diameter"
+    },
+    {
+     "label": "Wheels",
+     "value": "10 in"
+    },
+    {
+     "label": "Towing",
+     "value": "Not designed for towing"
+    }
+   ],
+   "description": "The 18 ton is the entry point to gas power in the BILT HARD range. It uses the same 209cc four-stroke engine as the 22 and 27 ton machines, a full beam steel wedge, and an auto-return ram. The listing quotes a 4.75 second forward stroke and a 3.92 second return, which are the fastest figures in this lineup, though those describe the ram stroke rather than a complete split on a tough log.\n\nIt handles logs up to 20 inches long and 16 inches in diameter, which covers the usual firewood. The 10 inch wheels and a handle move it around a level yard, but the listing states it is not intended to be towed. Compared with the 22 ton you give up some force and cylinder size, and compared with the electric 6.5 ton you gain gas power and the ability to work away from an outlet.\n\nEngine oil and hydraulic fluid are not included, with AW32 hydraulic fluid recommended, so budget for both. Check levels before each use, work on level ground and run it outdoors in ventilated space. It is a simple, low-maintenance gas splitter for a few cords a year.",
+   "bestFor": "Homeowners who want gas power for hardwood without paying for towing, vertical mode or big-engine upkeep.",
+   "pros": [
+    "Fast listed ram stroke with an automatic return on release",
+    "209cc engine is the same size as on the 22 and 27 ton models",
+    "Handles 20 inch long logs up to 16 inches across in diameter",
+    "Simple horizontal design keeps maintenance low and setup quick"
+   ],
+   "cons": [
+    "Not designed for towing behind an ATV, truck or other vehicle",
+    "Fluids are not included and must be bought separately",
+    "Less force and cylinder size than the 22 ton model"
+   ]
+  },
+  {
+   "id": "B0FD8Y71TJ",
+   "rank": 6,
+   "badge": "Best BILT HARD Electric",
+   "name": "BILT HARD 6.5 Ton Electric Log Splitter with Stand, 15 Amp",
+   "amazonUrl": "https://www.amazon.com/dp/B0FD8Y71TJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zeNlrrJXL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6.5-ton rated",
+    "15 amp, 120V motor",
+    "Included stand",
+    "20.5 in logs"
+   ],
+   "specList": [
+    {
+     "label": "Rated force",
+     "value": "6.5 tons"
+    },
+    {
+     "label": "Motor",
+     "value": "15 amp, 120V"
+    },
+    {
+     "label": "Log capacity",
+     "value": "20.5 in long, 9.8 in diameter"
+    },
+    {
+     "label": "Stand height",
+     "value": "33 in working height"
+    },
+    {
+     "label": "Wheels",
+     "value": "5.7 in"
+    },
+    {
+     "label": "Controls",
+     "value": "Two-hand safety"
+    }
+   ],
+   "description": "This is the only electric BILT HARD in this guide, and it is a different machine from the gas models. A 15 amp motor on a standard 120V outlet drives a hydraulic ram rated for 6.5 tons, which suits seasoned softwood and small hardwood rounds. It runs quietly, has no engine to maintain and works in a garage doorway, which none of the gas machines here can safely do.\n\nA two-hand safety control means both hands are needed to operate the ram, and the ram returns automatically. The included stand puts the work surface at 33 inches, so you split at a comfortable height instead of kneeling. Capacity is modest, at 9.8 inches in diameter and 20.5 inches long, versus 16 inches on the 18 ton gas model. If your rounds are larger than a dinner plate, step up to a gas unit.\n\nThe listing recommends a 40 amp breaker for best performance, so do not share the circuit with other tools, and avoid long thin extension cords that cause voltage drop. For a household that burns a cord or two of seasoned wood, it is the lowest-upkeep option here.",
+   "bestFor": "Small households with seasoned softwood and small rounds who want a quiet, clean splitter near an outlet.",
+   "pros": [
+    "Runs on a household outlet with no engine upkeep or fuel needed",
+    "Included stand sets a comfortable 33 inch working height",
+    "Two-hand safety controls reduce accidental operation",
+    "Quiet and clean enough to use in a garage doorway or shed"
+   ],
+   "cons": [
+    "Only 9.8 inch diameter capacity limits larger rounds",
+    "Needs a strong circuit and a short heavy-gauge cord",
+    "Slower and much less forceful than any of the gas machines"
+   ]
+  }
+ ],
+ "relatedGuides": []
+}

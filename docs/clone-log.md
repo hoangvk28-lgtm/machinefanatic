@@ -1,0 +1,24 @@
+# Clone log: topics skipped in clone-round-1 (slug: reason)
+
+best-12-inch-wood-chippers: no real 12 inch capacity chippers exist; input is replacement blades plus 3 to 6 inch chippers, topic does not match
+best-garden-augers-for-drills: drill bit accessories, not a machine or power tool
+best-multi-tool-under-50: pocket multitools (hand tools), not a machine or power tool
+best-non-electric-dehumidifiers: desiccant moisture absorbers, not machines
+best-10-inch-wood-chippers: no 10-inch consumer wood chipper exists on Amazon (results are 3-6 inch chippers, knife sets, craft wood slices); a 10-inch guide would be misleading
+best-bike-multi-tool-for-bikepacking: topic is a hand tool (bicycle multitool), not a machine or power tool
+best-garden-multi-tools: topic is hand tools (pruners, hori hori, pliers multitools), not a machine or power tool
+best-multi-tool-for-handyman: topic is pliers-style hand multitools, not a machine or power tool
+best-multi-tools-under-20: topic is pliers-style hand multitools, not a machine or power tool
+best-100-amp-generator-transfer-switch: duplicate of best-100-amp-generator-transfer-switch-kit
+best-10000-watt-generator-transfer-switch: duplicate of best-100-amp-generator-transfer-switch-kit
+best-no-drill-room-dividers-for-renters: topic is a room divider (furniture), not a machine or power tool
+best-14-ton-electric-log-splitters: only 2 true 14 ton electric splitters exist on Amazon (BILT HARD, SuperHandy), both already covered in best-10-ton-electric-log-splitters; the rest are 7 ton or kinetic units, fewer than 4 on-topic products
+best-bike-multi-tool: hand tool (pocket bicycle multitool), not a machine or power tool
+best-garden-auger-drill-bits: drill bit accessory, not a machine or power tool
+best-multi-tool-under-100: pocket pliers multitools (hand tools), not a machine or power tool
+best-multi-tools-under-30: pocket pliers multitools (hand tools), not a machine or power tool
+best-mc4-adapters-for-power-stations: accessory, pre-screened by coordinator
+best-generator-hour-meters: accessory (hour meter), not a machine
+best-generator-inlet-boxes: accessory (power inlet box), not a machine
+best-generator-interlock-kits: accessory (panel interlock kit), not a machine
+best-ecoflow-delta-pro-solar-generator-models-costs-and-buyer-notes: duplicate of best-ecoflow-delta-pro-3-solar-generator-models-costs-and-buyer-notes

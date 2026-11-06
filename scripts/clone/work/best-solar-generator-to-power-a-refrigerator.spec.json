@@ -1,0 +1,651 @@
+{
+ "guideTitle": "Best Solar Generators to Power a Refrigerator (2026)",
+ "metaTitle": "Best Solar Generators for a Refrigerator",
+ "metaDescription": "Six power stations compared on watt-hours, idle draw, surge and expansion to keep a refrigerator running through an outage, from 292 Wh to 2,042 Wh.",
+ "readTime": "15 min",
+ "expertTake": "The Anker SOLIX S2000 is the pick for most homes, with 2,010 Wh and a 6 W idle draw that Anker says runs a fridge for up to 35 hours. The Jackery Explorer 2000 v2 is the established-brand alternative, and the UDPOWER S1200 is the budget bundle. A mini fridge only needs the Jackery 300. Skip a battery entirely for multi-day outages if you cannot recharge it, and consider a fuel generator.",
+ "introParagraphs": [
+  "A refrigerator is a deceptively easy load for a battery. The compressor runs only part of the day, so the average draw is far below the label, but it needs a brief surge to start and has to run continuously for days to keep food safe. That means the useful numbers are energy over 24 hours and compressor start capability, not the headline output.",
+  "This guide explains how to estimate a fridge's daily watt-hours, why idle losses and surge matter, and how to match a station to a mini, standard or large refrigerator. Start with the picks above for the shortlist, then read the reviews below to match a unit to your fridge, your outage length and your charging options."
+ ],
+ "products": [
+  {
+   "id": "B0GY4TQ2P8",
+   "rank": 1,
+   "badge": "Best Overall for a Fridge",
+   "name": "Anker SOLIX S2000 2,010Wh Power Station",
+   "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2,010 Wh LFP",
+    "1,500 W (3,000 W peak)",
+    "6 W idle draw",
+    "35.7 lb"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2,010 Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1,500 W, 3,000 W peak"
+    },
+    {
+     "label": "Idle draw",
+     "value": "6 W"
+    },
+    {
+     "label": "Fridge runtime",
+     "value": "Up to 35 h (maker estimate)"
+    },
+    {
+     "label": "Cycle life",
+     "value": "10,000 cycles, 15 year life"
+    },
+    {
+     "label": "Weight",
+     "value": "35.7 lb"
+    },
+    {
+     "label": "Solar input",
+     "value": "Up to 400 W"
+    }
+   ],
+   "description": "For a refrigerator, the number that matters most is not the headline wattage but the energy the whole system wastes while it waits. The S2000 quotes a 6 watt idle draw and a design Anker says runs a fridge for up to 35 hours, which works out to roughly 57 watts average draw from 2,010 watt-hours. Real figures depend on the fridge, the room temperature and how often the door opens, but the principle holds: a low idle draw gives you more fridge hours per watt-hour.\n\nIts 1,500 watt continuous and 3,000 watt peak are plenty for the compressor start of even a large refrigerator, which typically draws a few hundred watts running and two to three times that for a second at start. It weighs 35.7 pounds, light for 2 kWh, and the rear outlets are positioned so always-on appliances plug into the back. Compared with the Jackery 2000 v2, it matches the capacity but quotes a much longer cell life of 10,000 cycles. Compared with the Anker C1000 Gen 2, it doubles the runtime for a similar footprint class.\n\nThere is no 12 volt DC port, and the unit is a bare station with no panel. It supports up to 400 watts of solar and six charging routes, including a generator and a wall outlet. Plan to keep it plugged in as a standby UPS with under 10 millisecond switchover, and let the fridge run through the outage on the battery.",
+   "bestFor": "Homeowners who want the longest fridge runtime from a 2 kWh station and the longest cycle life.",
+   "pros": [
+    "Six watt idle draw wastes little energy between loads",
+    "Ten thousand cycle LFP cells give a 15 year design life",
+    "Under 10 ms UPS switchover keeps the fridge running through cuts",
+    "Rear outlets keep always-on appliances out of the way"
+   ],
+   "cons": [
+    "No 12 V DC port for a car fridge or accessories",
+    "Bare station with no solar panel in the box",
+    "Fifteen hundred watts of output is limited for large extra loads"
+   ]
+  },
+  {
+   "id": "B0DFG2WDQH",
+   "rank": 2,
+   "badge": "Best Established Brand",
+   "name": "Jackery Explorer 2000 v2 Power Station",
+   "amazonUrl": "https://www.amazon.com/dp/B0DFG2WDQH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41-aYRSzjEL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2,042 Wh LiFePO4",
+    "2,200 W AC",
+    "39.5 lb",
+    "20 ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2,042 Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2,200 W, 3 AC ports"
+    },
+    {
+     "label": "Weight",
+     "value": "39.5 lb"
+    },
+    {
+     "label": "AC recharge",
+     "value": "80% in 66 min"
+    },
+    {
+     "label": "UPS",
+     "value": "20 ms, UL1778 certified"
+    },
+    {
+     "label": "Silent charging",
+     "value": "Under 30 dB"
+    }
+   ],
+   "description": "The Explorer 2000 v2 is the established-brand answer for refrigerator backup. At 2,042 watt-hours it gives about a day of fridge for a typical full-size model, since a refrigerator uses roughly 1 to 1.5 kilowatt-hours over 24 hours when it cycles normally. A 2,200 watt inverter with three AC ports lets you power the fridge, a freezer and a router at once.\n\nThe difference from the Anker S2000 is efficiency and certification. Jackery does not publish an idle draw, so you lose some of the fridge hours that Anker claims, but you gain a UL1778 certification for UPS behavior and a long brand record. Compared with the ABOK Ark2000 at 1,536 Wh, it holds about 500 more watt-hours. Compared with the C1000 Gen 2, it roughly doubles the energy for about 16 more pounds.\n\nSilent charging mode under 30 dB is a real advantage if the station lives in a bedroom or an apartment closet. The unit is a bare station, so panels are separate, and the connector detail for pairing Jackery panels uses the straight DC8020 plug. Keep it at 50 to 80 percent charge when idle, let the fridge sit plugged into the pass-through, and avoid running the battery empty.",
+   "bestFor": "Households that want a proven brand and about a day of fridge backup with quiet charging.",
+   "pros": [
+    "UL1778 certified UPS behavior for appliance backup",
+    "Charges to 80 percent from the wall in about 66 minutes",
+    "Silent charging mode stays under 30 dB overnight",
+    "Three AC ports run fridge, freezer and router together"
+   ],
+   "cons": [
+    "Idle draw is not published, so fridge hours are unclear",
+    "Twenty millisecond switchover trails the Anker's under 10 ms",
+    "Bare station, so solar panels are a separate purchase"
+   ]
+  },
+  {
+   "id": "B0FRSCP2VS",
+   "rank": 3,
+   "badge": "Best Expandable",
+   "name": "ABOK Ark2000 1,536Wh with 200W Solar Panel",
+   "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qS31q5PcL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1,536 Wh LiFePO4",
+    "2,000 W (2,400 W boost)",
+    "Expands to 4,608 Wh",
+    "10 ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,536 Wh, expandable to 3,072 or 4,608 Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "2,000 W, 2,400 W A-Boost, 3,500 W peak"
+    },
+    {
+     "label": "AC charge",
+     "value": "0 to 80% in 55 min at 1,500 W"
+    },
+    {
+     "label": "Solar",
+     "value": "Up to 1,200 W input"
+    },
+    {
+     "label": "UPS",
+     "value": "10 ms"
+    },
+    {
+     "label": "Cycle life",
+     "value": "4,000 plus cycles"
+    },
+    {
+     "label": "Support",
+     "value": "2 year warranty plus 3 years service"
+    }
+   ],
+   "description": "The Ark2000 is the right choice if you want to start small and grow. It stores 1,536 watt-hours and takes an expansion battery that adds capacity up to 4,608 watt-hours with two modules. For a fridge that needs about 1 to 1.5 kilowatt-hours per day, the base unit covers most of a day, and one expansion pushes it to two days or more.\n\nIt has a 2,000 watt continuous rating with an A-Boost mode to 2,400 watts and 3,500 watts of peak for starting, so the compressor start is no issue. A 10 millisecond UPS keeps the fridge and router up through a cut. Compared with the Anker S2000, it has a smaller base battery but more expansion and 1,200 watts of solar input against the Anker's 400. Compared with the UDPOWER S1200, it adds about 350 watt-hours and a clear expansion path.\n\nThe maker lists a 200 watt panel but notes panels have been out of stock at times, so check what ships. Warranty is two years plus three years of service support, which is shorter than the big brands. Keep the base unit and modules in a ventilated spot, and let the fridge run off the pass-through while charging.",
+   "bestFor": "Buyers who want to start with a day of fridge backup and expand to multiple days later.",
+   "pros": [
+    "Expands from 1,536 Wh to 4,608 Wh with two modules",
+    "Accepts up to 1,200 W of solar for fast refills",
+    "Ten millisecond UPS protects the fridge and electronics",
+    "Eight ports include a 100 W USB-C and a car port"
+   ],
+   "cons": [
+    "Panel availability varies, so verify what ships",
+    "Warranty is two years plus three years of service",
+    "Smaller base battery than the 2 kWh stations"
+   ]
+  },
+  {
+   "id": "B0GWGSKN54",
+   "rank": 4,
+   "badge": "Best Compact Fridge Backup",
+   "name": "Anker SOLIX C1000 Gen 2 with 200W Panel",
+   "amazonUrl": "https://www.amazon.com/dp/B0GWGSKN54?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WCwJSqWbL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1,024 Wh LiFePO4",
+    "2,000 W (3,000 W peak)",
+    "600 W solar input",
+    "49 min fast charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024 Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2,000 W, 3,000 W peak"
+    },
+    {
+     "label": "Solar input",
+     "value": "Up to 600 W, full in 1.8 h"
+    },
+    {
+     "label": "Fast AC charge",
+     "value": "49 min at 1,600 W via app"
+    },
+    {
+     "label": "Cycle life",
+     "value": "80% after 4,000 cycles"
+    },
+    {
+     "label": "UPS",
+     "value": "Under 10 ms"
+    }
+   ],
+   "description": "The C1000 Gen 2 handles a refrigerator for roughly half a day at 1,024 watt-hours, which makes it a compact choice for short outages or a smaller fridge. A typical efficient fridge averages about 50 to 100 watts over a day, so 1,024 watt-hours less 15 percent of inverter losses gives about 9 to 17 hours. The 2,000 watt output and 3,000 watt peak give the compressor surge plenty of room.\n\nWhat distinguishes it from the Jackery 1000 v2 class is the solar input and the fast charge: up to 600 watts of solar refills it in about 1.8 hours, and the app-enabled 1,600 watt AC input takes 49 minutes. Compared with the S2000, it has half the capacity but a smaller footprint. Compared with the Explorer 300, it holds three and a half times the energy and a far higher output.\n\nIt includes a 200 watt bifacial panel, shipped separately from the station. The battery keeps at least 80 percent after 4,000 cycles. For a fridge, use it as a bridge to a generator or to grid return rather than a multi-day source, and recharge it between outages. A smaller, lighter station is easier to store and move.",
+   "bestFor": "Households with a small or efficient fridge who need half a day of backup and fast refills.",
+   "pros": [
+    "Fast 49 minute AC recharge when enabled in the app",
+    "Up to 600 W of solar for a 1.8 hour refill",
+    "Under 10 ms UPS switchover for the fridge",
+    "Battery retains 80 percent after 4,000 cycles"
+   ],
+   "cons": [
+    "About 9 to 17 hours of fridge runtime on 1,024 Wh",
+    "Panel and station ship in separate packages",
+    "Not enough for a chest freezer plus fridge for a day"
+   ]
+  },
+  {
+   "id": "B0FDFRMRSG",
+   "rank": 5,
+   "badge": "Best Value with Panel",
+   "name": "UDPOWER S1200 with 120W Solar Panel",
+   "amazonUrl": "https://www.amazon.com/dp/B0FDFRMRSG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LNHxeLaRL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1,190 Wh LiFePO4",
+    "1,200 W (1,800 W peak)",
+    "120 W IP65 panel",
+    "14 ports"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,190 Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1,200 W, 1,800 W peak, 5 outlets"
+    },
+    {
+     "label": "Solar kit",
+     "value": "120 W foldable IP65 panel"
+    },
+    {
+     "label": "UPS",
+     "value": "0.01 s or less"
+    },
+    {
+     "label": "Cycle life",
+     "value": "4,000 plus cycles to 80%"
+    },
+    {
+     "label": "Shipping",
+     "value": "Station and panel ship separately"
+    }
+   ],
+   "description": "The S1200 is a budget route to a fridge backup with a panel. It carries 1,190 watt-hours, a bit more than the Anker C1000's 1,024, and a 1,200 watt output with 1,800 watt peak. That is enough for a typical fridge compressor, though the margin is smaller than on the Anker. Five AC outlets and 14 ports in total let you run a fridge, a router and a few chargers at the same time.\n\nUDPOWER quotes an energy management system that holds about 90 percent charge after a year in storage, which is useful for a unit that sits in a closet waiting for an outage. The 120 watt IP65 panel folds flat and has an adjustable stand. Compared with the ABOK Ark2000, it has less capacity and less peak output but is likely to cost less. Compared with the Anker S2000, it holds about half the energy.\n\nThe brand is less established, so warranty terms matter. The station and panel arrive separately. Treat it as an emergency fridge bridge of 10 to 14 hours rather than a long-duration solution, and keep it fully charged. The UPS function switches in 0.01 seconds or less, which protects the fridge's electronics from the short drop.",
+   "bestFor": "Budget buyers who want a 1.2 kWh station with a panel for fridge and router backup.",
+   "pros": [
+    "Slightly larger battery than the Anker C1000 at 1,190 Wh",
+    "One hundred twenty watt IP65 panel included in the bundle",
+    "Quoted 90 percent charge retention after a year in storage",
+    "Fourteen ports and five AC outlets for many devices"
+   ],
+   "cons": [
+    "Peak output of 1,800 W leaves a smaller compressor-start margin",
+    "Less established brand, so warranty detail matters",
+    "Panel and station arrive separately"
+   ]
+  },
+  {
+   "id": "B0G429L5B4",
+   "rank": 6,
+   "badge": "Best for a Mini Fridge",
+   "name": "Jackery Solar Generator 300 with 40W Panel",
+   "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "292 Wh LiFePO4",
+    "300 W AC",
+    "7.5 lb",
+    "40 W panel"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "292 Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "300 W, 600 W surge"
+    },
+    {
+     "label": "Weight",
+     "value": "7.5 lb"
+    },
+    {
+     "label": "Ports",
+     "value": "2 AC, 100 W USB-C, car port"
+    },
+    {
+     "label": "Cycle life",
+     "value": "70% after 4,000 cycles"
+    },
+    {
+     "label": "Solar",
+     "value": "40 W panel"
+    }
+   ],
+   "description": "This is the answer if your refrigerator is a mini fridge or a 12 volt compressor cooler. A mini fridge uses roughly 200 to 400 watt-hours per day, so 292 watt-hours gives 12 to 20 hours at best after inverter losses, and a small 12 volt cooler on the car port stretches further. It is not a solution for a full-size household fridge, which needs about 1 to 1.5 kilowatt-hours a day.\n\nThe 300 watt rating and 600 watt surge are enough for most mini fridge compressors but not for a full-size unit's start. At 7.5 pounds, the station is a different class from the 2 kWh machines. Compared with the C1000 Gen 2, it is a quarter of the capacity at a fraction of the weight. The 40 watt panel is only a trickle charger, taking 7.5 hours to reach 80 percent according to Jackery, so plan on wall or car charging.\n\nLiFePO4 chemistry rated over 4,000 cycles means it lasts for years of use. It suits a dorm, a camping cooler, insulin storage and similar small loads. Keep it charged, and check your mini fridge's nameplate watts before relying on it for medication storage.",
+   "bestFor": "People who keep a mini fridge, a 12 V cooler or medication cooler running during outages and trips.",
+   "pros": [
+    "Seven and a half pounds fits in a bag or car",
+    "LiFePO4 cells rated beyond 4,000 cycles",
+    "Car port powers a 12 V cooler directly",
+    "Pure sine wave AC output suits mini fridge compressors"
+   ],
+   "cons": [
+    "Only 292 Wh, so a mini fridge gets about 12 to 20 hours",
+    "Cannot start a full-size refrigerator compressor",
+    "The 40 W panel is only a slow trickle charger"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Daily watt-hours of the fridge",
+   "explanation": "A mini fridge uses about 200 to 400 watt-hours a day, a small refrigerator 400 to 800, and a full-size unit around 1,000 to 1,500, because the compressor cycles on and off. Check the yellow EnergyGuide label or measure with a plug-in meter over 24 hours. The Jackery Explorer 300 at 292 Wh covers a mini fridge, the Anker C1000 Gen 2 at 1,024 Wh covers about half a day of a full-size unit, and the S2000 at 2,010 Wh covers about a day or more."
+  },
+  {
+   "criterion": "Idle draw and inverter efficiency",
+   "explanation": "An inverter that wastes 15 watts idle burns 360 watt-hours a day doing nothing, which is a third of a 1 kWh battery. Anker quotes 6 watts idle for the S2000 and 9 watts for the C2000 class, while many stations do not publish an idle figure. For a fridge that must run for days, low idle draw is worth more than extra capacity. Add 15 percent for conversion losses."
+  },
+  {
+   "criterion": "Compressor start surge",
+   "explanation": "A refrigerator compressor can pull two to three times its running watts for a second at start. A fridge running at 150 watts may briefly need 450 watts, and an older unit more. All the stations here exceed that: the Anker S2000 peaks at 3,000 watts, the Ark2000 at 3,500, and the Explorer 300 at 600. Add the surge of a second appliance, such as a chest freezer, if both cycle."
+  },
+  {
+   "criterion": "UPS switchover speed",
+   "explanation": "When the grid drops, a station with a UPS function switches to battery in milliseconds so the fridge's control board does not reset. The Anker S2000 and C1000 Gen 2 quote under 10 ms, the Ark2000 10 ms, the Jackery 2000 v2 20 ms and the UDPOWER S1200 0.01 seconds or less. For a fridge, any of these is fine. The bigger benefit is passthrough charging so the fridge stays on mains and battery together."
+  },
+  {
+   "criterion": "Recharge between outages",
+   "explanation": "A battery that cannot recharge is a countdown. Solar input of 400 to 1,200 watts, as on the Anker S2000 and the Ark2000, refills a day's fridge use in a few sun hours, while a 120 watt panel on the S1200 would need most of a day. If you can recharge from a vehicle or generator, a smaller battery works. In a long outage, plan solar or generator charging, not just capacity."
+  },
+  {
+   "criterion": "Expansion path",
+   "explanation": "A single station may cover a day, but storms can run longer. The Ark2000 expands from 1,536 Wh to 4,608 Wh and the Anker C2000 class to 4 kWh. If you need two or three days of fridge, expansion beats buying a second station. Check the module cost and weight before you count on it."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Wh capacity",
+   "meaning": "Watt-hours stored in the battery. Divide by the fridge's average draw to estimate runtime.",
+   "watchFor": "Usable capacity is about 85 percent of the label once inverter losses are counted."
+  },
+  {
+   "spec": "Idle draw",
+   "meaning": "The power the inverter consumes with the AC output on and no load. It adds up over a day.",
+   "watchFor": "Anker lists 6 W. Many brands list none, so assume 10 to 20 W."
+  },
+  {
+   "spec": "Peak or surge watts",
+   "meaning": "Brief capability to start motors, usually for a second or so.",
+   "watchFor": "The S2000's 3,000 W peak is twice its 1,500 W continuous."
+  },
+  {
+   "spec": "Fridge hours",
+   "meaning": "A maker estimate of how long the station runs a specific fridge, such as 35 hours for the S2000.",
+   "watchFor": "These depend on the fridge, room temperature and door openings. Treat them as best-case."
+  },
+  {
+   "spec": "Cycle life",
+   "meaning": "How many charge cycles before capacity falls to a stated share.",
+   "watchFor": "Anker quotes 10,000 cycles for the S2000, while Jackery and UDPOWER quote 4,000."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Fridge hours per charge",
+   "description": "We estimated runtime from capacity and idle draw, using Anker's quoted 35 hours for the S2000 and 32 hours for the C2000 class as benchmarks. Stations without an idle figure were assumed to waste 10 to 20 watts."
+  },
+  {
+   "title": "Start capability",
+   "description": "We compared peak output against a typical compressor start of two to three times running watts. The Explorer 300's 600 W peak was flagged for mini fridges only."
+  },
+  {
+   "title": "Recharging options",
+   "description": "We compared solar, AC and alternator input, from the Ark2000's 1,200 W solar to the S1200's 120 W panel. Faster refill matters in multi-day outages."
+  },
+  {
+   "title": "Backup behavior",
+   "description": "We compared UPS switchover and passthrough, such as under 10 ms on Anker, 10 ms on ABOK and 20 ms on Jackery."
+  },
+  {
+   "title": "Longevity and support",
+   "description": "We compared cycle ratings, from the Anker S2000's 10,000 cycles to 4,000 plus on the others, and warranty terms."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Refrigerator Type",
+   "intro": "Match the station to the appliance.",
+   "table": {
+    "headers": [
+     "Refrigerator",
+     "Recommended pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Mini fridge or 12 V cooler",
+      "Jackery Solar Generator 300",
+      "292 Wh at 7.5 lb"
+     ],
+     [
+      "Small or efficient fridge, short outage",
+      "Anker SOLIX C1000 Gen 2",
+      "1,024 Wh, fast refill"
+     ],
+     [
+      "Standard fridge, about a day",
+      "Anker SOLIX S2000",
+      "6 W idle, 35 h estimate"
+     ],
+     [
+      "Fridge plus freezer and router",
+      "Jackery Explorer 2000 v2",
+      "2,042 Wh and 3 AC ports"
+     ],
+     [
+      "Multi-day with expansion",
+      "ABOK Ark2000",
+      "Expands to 4,608 Wh"
+     ],
+     [
+      "Budget bundle with panel",
+      "UDPOWER S1200",
+      "1,190 Wh and 120 W panel"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers only.",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Recommended pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Jackery Solar Generator 300",
+      "Mini fridge only"
+     ],
+     [
+      "Low",
+      "UDPOWER S1200",
+      "Panel included"
+     ],
+     [
+      "Low to mid",
+      "Anker SOLIX C1000 Gen 2",
+      "Compact, fast charge"
+     ],
+     [
+      "Mid",
+      "ABOK Ark2000",
+      "Expandable"
+     ],
+     [
+      "Upper mid",
+      "Jackery Explorer 2000 v2",
+      "Established brand"
+     ],
+     [
+      "Premium",
+      "Anker SOLIX S2000",
+      "Longest fridge hours"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fixed Station vs Expandable System",
+   "intro": "Plan for the outage you are most likely to face.",
+   "cards": [
+    {
+     "label": "Fixed station",
+     "text": "The Anker S2000, Jackery Explorer 2000 v2, Anker C1000 Gen 2, UDPOWER S1200 and Jackery 300 are simpler. You choose the capacity once and replace if outages grow."
+    },
+    {
+     "label": "Expandable system",
+     "text": "The ABOK Ark2000 grows from 1,536 Wh to 4,608 Wh. It costs more over time but suits a household that may face multi-day outages and wants to add capacity later."
+    }
+   ],
+   "note": "Choose fixed for a day-long outage. Choose expandable for storm-prone areas."
+  },
+  {
+   "subheading": "By How You Recharge",
+   "intro": "The refill route sets the best station.",
+   "table": {
+    "headers": [
+     "Recharge source",
+     "Recommended pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large solar array",
+      "ABOK Ark2000",
+      "1,200 W solar input"
+     ],
+     [
+      "Solar and generator",
+      "Anker SOLIX S2000",
+      "Six charging routes"
+     ],
+     [
+      "Wall and car only",
+      "Jackery Explorer 2000 v2",
+      "80% in 66 min from the wall"
+     ],
+     [
+      "Fast refill between outages",
+      "Anker SOLIX C1000 Gen 2",
+      "49 min fast charge"
+     ],
+     [
+      "One small panel",
+      "UDPOWER S1200",
+      "120 W panel in the bundle"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Medication or Mini Fridge Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A pure sine wave inverter, a UPS function and enough watt-hours for 24 hours with a margin. Check the fridge's nameplate watts and prefer stations that show live draw on a display."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Jackery 300 at 292 Wh covers a mini fridge for 12 to 20 hours. The Anker C1000 Gen 2 covers it for more than two days, and is a safer choice for medication storage."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You rely on the fridge through multi-day outages or store medication. The Anker S2000 gives the longest fridge hours and the ABOK Ark2000 gives expansion."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small fridge or short outages. The UDPOWER S1200 or the Anker C1000 Gen 2 cover half a day at a lower cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Measure your fridge's real draw",
+   "interval": "Once, then yearly",
+   "why": "A plug-in meter over 24 hours gives actual watt-hours, including compressor cycles. It tells you the real runtime of your station."
+  },
+  {
+   "task": "Keep the station topped up",
+   "interval": "Check every 3 months",
+   "why": "A depleted battery cannot back up the fridge. LiFePO4 holds charge well but still self-discharges."
+  },
+  {
+   "task": "Clean the fridge coils",
+   "interval": "Twice a year",
+   "why": "Dusty coils make the compressor run longer, raising the draw and cutting battery runtime."
+  },
+  {
+   "task": "Test an outage drill",
+   "interval": "Yearly",
+   "why": "Unplug the station's input for an hour and confirm the fridge keeps running. It reveals wiring and UPS problems before a storm."
+  },
+  {
+   "task": "Clean vents",
+   "interval": "Every 3 to 6 months",
+   "why": "Dust restricts cooling airflow and increases fan noise."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "When prompted",
+   "why": "Updates adjust charge limits and safety behavior."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long will a power station run a refrigerator?",
+   "a": "Divide usable watt-hours by the fridge's average draw. A full-size fridge uses about 1,000 to 1,500 watt-hours per day, so a 2,010 Wh Anker S2000 runs it roughly one day, and Anker's own estimate for an efficient dual-door fridge is up to 35 hours. A mini fridge on a 292 Wh Jackery 300 runs 12 to 20 hours."
+  },
+  {
+   "q": "Will the station start my refrigerator compressor?",
+   "a": "Yes if its peak rating exceeds the compressor's start draw, usually two to three times running watts. A fridge at 150 W running may need about 450 W for a moment. All stations here exceed that except the Jackery 300, which only suits mini fridges with its 600 W peak."
+  },
+  {
+   "q": "Do I need to keep food closed up during an outage?",
+   "a": "Yes. Opening the door adds heat the compressor must remove, raising the draw. A closed refrigerator stays safe for about four hours without power and a full freezer for about 48 hours, so the battery mainly extends the fridge's safe window and powers the compressor."
+  },
+  {
+   "q": "Is solar enough to keep a fridge running?",
+   "a": "With the right panels, yes. A fridge needs about 1 to 1.5 kWh a day, and 400 watts of panels yields roughly 1.2 to 2 kWh on a sunny day. A 120 watt panel on the S1200 only covers about a third of that, so it needs help from the wall or a generator."
+  },
+  {
+   "q": "Can I run a chest freezer too?",
+   "a": "Yes if the station has capacity and surge. A chest freezer uses about 300 to 500 watt-hours a day. Together with a fridge you need at least 2 kWh for a day. The Explorer 2000 v2 and the Anker S2000 can do this for about a day."
+  },
+  {
+   "q": "Which is better for a fridge, LiFePO4 or lithium-ion?",
+   "a": "LiFePO4 handles more cycles and heat. The Anker S2000 quotes 10,000 cycles, and Jackery and UDPOWER quote about 4,000. For a standby unit used a few times a year, either chemistry lasts, but LiFePO4 is safer in a hot garage."
+  }
+ ],
+ "guideSlug": "best-solar-generator-to-power-a-refrigerator",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "solar generator to power a refrigerator",
+ "lastUpdated": "2026-11-06",
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg"
+}
