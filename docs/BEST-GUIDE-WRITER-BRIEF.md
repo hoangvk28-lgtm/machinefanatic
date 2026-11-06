@@ -22,7 +22,7 @@ Write like a small-engine mechanic, tool-room lead or appliance technician who h
 9. If two listings are clearly the same machine, say so. If a product in the input is off-topic, drop it and mention that in your final report.
 
 ## Output: a spec JSON per guide
-Write to `/home/admin1/Downloads/AGENT/projects/machinefanatic/scripts/samples/<guideSlug>.spec.json` with these keys:
+Write to `scripts/clone/work/<guideSlug>.spec.json` (repo-relative) with these keys:
 
 - `guideSlug`, `categorySlug`, `mainKeyword` (from input)
 - `guideTitle` (ends with "(2026)"), `metaTitle`, `metaDescription`
@@ -56,6 +56,6 @@ Before writing each guide, run 2 or 3 WebSearch queries on the category ("how to
 - `grep -c '—\|–'` on your file must return 0. No `$` followed by a digit. No "tested". No `【`.
 - metaTitle length ≤ 48, metaDescription length 120 to 160 (check with node or python).
 - JSON parses.
-- Run `cd /home/admin1/Downloads/AGENT/projects/machinefanatic && node scripts/build-guide.mjs scripts/samples/<slug>.spec.json` and confirm it writes the file.
+- Run `node scripts/build-guide.mjs scripts/clone/work/<slug>.spec.json` from the repo root and confirm it writes the file.
 
 Report: file paths written, any products dropped and why, and the measured metaTitle/metaDescription lengths.
