@@ -10,6 +10,7 @@ Everything needed lives in this repo. You do **not** need the other affiliate pr
 | `CLAUDE.md` | Site rules (sections starting "MachineFanatic rule" override the inherited WorthRated ones) |
 | `scripts/clone/source-index.json` | ~3,000 machine "best" topics from 9 projects, each with `status`: todo / inprogress / done / skip |
 | `scripts/clone/next-batch.mjs` | Picks the next N todo topics, pulls live Amazon data, writes `scripts/clone/work/<slug>.input.json` |
+| `scripts/clone/search.mjs` | Adds more Amazon search results to a work file: `node scripts/clone/search.mjs <slug> "query" ["query 2"]` |
 | `scripts/clone/mark.mjs` | Sets status (done / skip / todo) |
 | `scripts/build-guide.mjs` | spec JSON → `data/guides/<slug>.ts` |
 | `scripts/register-dynamic-guide.mjs`, `scripts/register-new-guides.mjs` | Register the guide (both are required) |
@@ -53,13 +54,14 @@ Study data/guides/best-50-pint-dehumidifiers.ts as the quality bar.
 
 Task: write one best guide for every scripts/clone/work/*.input.json that has no matching .spec.json yet.
 For each input:
-1. Topic check: if the topic is not a machine or power tool (e.g. accessories, cookware, furniture, detergents) or has fewer than 4 usable on-topic products, do not write it. Run `node scripts/clone/mark.mjs skip <slug>` and record the slug and the reason in docs/clone-log.md.
+1. Topic check: if the topic is not a machine or power tool (e.g. accessories, cookware, furniture, detergents) or still has fewer than 4 on-topic products after you search for more (step 3), do not write it. Run `node scripts/clone/mark.mjs skip <slug>` and record the slug and the reason in docs/clone-log.md.
 2. Research the category with 2 or 3 web searches (top-ranking pages, buying mistakes, rated vs peak specs) before writing.
-3. Write scripts/clone/work/<slug>.spec.json exactly per docs/BEST-GUIDE-WRITER-BRIEF.md. Use only facts from the input picks plus well-established engineering knowledge. Rewrite everything in your own expert voice and never paste Amazon bullet text. Drop off-topic picks.
-4. node scripts/build-guide.mjs scripts/clone/work/<slug>.spec.json
-5. node scripts/register-dynamic-guide.mjs <slug> && node scripts/register-new-guides.mjs <slug>
-6. node scripts/audit-guides.mjs <slug>. Fix the spec and rebuild until it prints "ok".
-7. node scripts/clone/mark.mjs done <slug>
+3. Build the lineup (5 to 7 products) from BOTH `picks` (products from the source guide) and `candidates` (fresh Amazon search results). At least 2 products, or 40% of the lineup, must come from `candidates`, so the guide is not a copy of the source. If the input is thin or off-target, fetch more with `node scripts/clone/search.mjs <slug> "<specific query>"`, for example by brand, size, power source or use case. Every product must truly match the guide topic: drop accessories, replacement parts, wrong categories and duplicate listings of the same unit. Prefer well-known brands and complete spec data. Use `price_internal_only` only to order tiers; never print it.
+4. Write scripts/clone/work/<slug>.spec.json exactly per docs/BEST-GUIDE-WRITER-BRIEF.md. Use only facts from the input `picks`/`candidates` data plus well-established engineering knowledge. Rewrite everything in your own expert voice and never paste Amazon bullet text. Drop off-topic picks.
+5. node scripts/build-guide.mjs scripts/clone/work/<slug>.spec.json
+6. node scripts/register-dynamic-guide.mjs <slug> && node scripts/register-new-guides.mjs <slug>
+7. node scripts/audit-guides.mjs <slug>. Fix the spec and rebuild until it prints "ok".
+8. node scripts/clone/mark.mjs done <slug>
 When all are done, run npx tsc --noEmit. Report a table with these columns: slug, products kept, metaTitle length, metaDescription length, skipped and why.
 Do not push to main.
 ```

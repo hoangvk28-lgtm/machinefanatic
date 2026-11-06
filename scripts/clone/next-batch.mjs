@@ -1,5 +1,5 @@
 // Picks the next N "todo" topics from source-index.json (optionally one category),
-// fetches live Amazon data for their ASINs (tops up by search if < 5 usable items),
+// fetches live Amazon data for the source ASINs (picks) plus fresh keyword-search results (candidates),
 // writes scripts/clone/work/<slug>.input.json and marks rows "inprogress".
 // Usage: node scripts/clone/next-batch.mjs 20 [category]
 import { readFileSync, writeFileSync, mkdirSync } from "fs";
@@ -11,9 +11,16 @@ const pick = rows.filter((r) => r.status === "todo" && (!cat || r.category === c
 mkdirSync("scripts/clone/work", { recursive: true });
 const tok = await token();
 for (const r of pick) {
-  let items = await getItems(tok, r.asins); await sleep(1100);
-  if (items.length < 5) { const have = new Set(items.map((i) => i.asin)); for (const i of await search(tok, r.mainKeyword)) if (!have.has(i.asin) && items.length < 8) items.push(i); await sleep(1100); }
-  writeFileSync(`scripts/clone/work/${r.slug}.input.json`, JSON.stringify({ guideSlug: r.slug, categorySlug: r.category, mainKeyword: r.mainKeyword, sourceTitle: r.title, picks: items }, null, 1));
-  r.status = "inprogress"; console.log(r.slug, items.length, "items");
+  // Source-guide products (may be discontinued or too few).
+  const items = await getItems(tok, r.asins); await sleep(1100);
+  // Always pull fresh candidates by keyword so the lineup is not a copy of the source guide.
+  const have = new Set(items.map((i) => i.asin));
+  const candidates = [];
+  for (const q of [r.mainKeyword, `best ${r.mainKeyword}`]) {
+    for (const i of await search(tok, q)) if (!have.has(i.asin)) { have.add(i.asin); candidates.push(i); }
+    await sleep(1100);
+  }
+  writeFileSync(`scripts/clone/work/${r.slug}.input.json`, JSON.stringify({ guideSlug: r.slug, categorySlug: r.category, mainKeyword: r.mainKeyword, sourceTitle: r.title, picks: items, candidates }, null, 1));
+  r.status = "inprogress"; console.log(r.slug, items.length, "source items,", candidates.length, "fresh candidates");
 }
 writeFileSync(IDX, JSON.stringify(rows, null, 1));
