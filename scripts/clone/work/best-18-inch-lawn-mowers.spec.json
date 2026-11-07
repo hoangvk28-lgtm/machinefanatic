@@ -1,0 +1,154 @@
+{
+  "guideSlug": "best-18-inch-lawn-mowers",
+  "categorySlug": "outdoor-power",
+  "mainKeyword": "18 inch lawn mowers",
+  "guideTitle": "Best 18 Inch Lawn Mowers (2026)",
+  "metaTitle": "Best 18 Inch Lawn Mowers, Gas and Battery",
+  "metaDescription": "Six 18 inch lawn mowers, gas and battery, compared on engine and battery energy, cut height range, clipping modes and the yard size each one suits best.",
+  "lastUpdated": "2026-11-06",
+  "readTime": "13 min",
+  "heroImage": "https://m.media-amazon.com/images/I/41rCrXtpgvL._SL500_.jpg",
+  "expertTake": "For a quarter acre lawn with some thick grass, the PowerSmart EasyCut 3-in-1 gas mower is the most capable 18 inch machine here, with a 144cc OHV engine and mulch, bag and side discharge options. If you would rather never touch gasoline, the Litheli with two 8.0 Ah batteries carries the most stored energy of the cordless picks, and the Wild Badger is the better built single battery choice with a 3 year warranty. If your lawn is under a few thousand square feet, a 16 inch mower is lighter and cheaper; over half an acre, step up to a 21 inch self propelled machine.",
+  "introParagraphs": [
+    "A mid size walk-behind mower sits between the tiny deck machines made for townhouse strips and the full size mowers built for suburban lots. It suits a typical quarter acre yard with beds and trees, yet the box numbers rarely tell you how it will handle a wet, overgrown lawn in late spring.",
+    "This guide explains how a small overhead valve engine compares with a battery pack, how to turn volts and amp hours into usable energy, and why the clipping mode matters as much as power. The quick picks are above, and the detailed reviews below match each mower to a yard."
+  ],
+  "products": [
+    {
+      "id": "B0GWJ4LC2T",
+      "rank": 1,
+      "badge": "Best Overall",
+      "name": "PowerSmart EasyCut 18 Inch 144cc Gas Mower, 3-in-1",
+      "amazonUrl": "https://www.amazon.com/dp/B0GWJ4LC2T?tag=machinefanatic-20",
+      "imageUrl": "https://m.media-amazon.com/images/I/41rCrXtpgvL._SL500_.jpg",
+      "price": "",
+      "specs": ["144cc OHV 4-stroke", "Mulch, bag, side", "Steel deck", "6 cut heights"],
+      "specList": [{"label":"Engine","value":"144cc 4-stroke OHV, recoil start, auto choke"},{"label":"Deck","value":"18 in steel"},{"label":"Clipping modes","value":"Mulch, rear bag, side discharge"},{"label":"Cut height","value":"6 positions"},{"label":"Lawn size","value":"About 1/4 acre"},{"label":"Storage","value":"Folding handle, tool free assembly"}],
+      "description": "The 3-in-1 EasyCut pairs a 144cc four stroke overhead valve engine with a steel deck and every clipping mode you might want. An OHV engine places the valves above the piston, which burns cleaner and runs cooler than the old side valve designs. The auto choke removes the most common cold start mistake, and the engine keeps blade speed in thick spring growth better than any battery pick here.\n\nAgainst the side discharge only EasyCut, this version adds a rear bag and mulching for a little more money, which is worth it unless you never collect clippings. It is heavier and louder than the Wild Badger or Litheli, and it needs gas, oil and seasonal care. For a quarter acre of mixed grass, though, it removes all runtime worry.\n\nCheck the oil level before each mow, run fresh gas with stabilizer, and change the oil after the first few hours. Before winter, run the carburetor dry or stabilize the tank so varnish does not block the jets.",
+      "bestFor": "Quarter acre lawns with thick or wet grass where you want bagging, mulching and side discharge in one mower.",
+      "pros": ["144cc OHV engine holds blade speed in thick grass", "Mulch, bag and side discharge cover every mowing style", "Steel deck is stiff and easy to scrape clean", "Auto choke and tool free setup simplify ownership"],
+      "cons": ["Needs gas, oil changes and winter storage prep", "Louder and heavier than the cordless picks", "Recoil start only, no electric start option"]
+    },
+    {
+      "id": "B0D69LY9F9",
+      "rank": 2,
+      "badge": "Best Budget Gas",
+      "name": "PowerSmart EasyCut 18 Inch 144cc Gas Mower, Side Discharge",
+      "amazonUrl": "https://www.amazon.com/dp/B0D69LY9F9?tag=machinefanatic-20",
+      "imageUrl": "https://m.media-amazon.com/images/I/410itr4mKuL._SL500_.jpg",
+      "price": "",
+      "specs": ["144cc OHV 4-stroke", "Side discharge", "1.5 to 3.9 in cut", "Steel deck"],
+      "specList": [{"label":"Engine","value":"144cc 4-stroke OHV, auto choke and primer"},{"label":"Deck","value":"18 in steel"},{"label":"Clipping mode","value":"Side discharge"},{"label":"Cut height","value":"1.5 to 3.9 in, 5 positions"},{"label":"Wheels","value":"8 in rear, 7 in front"}],
+      "description": "This EasyCut uses the same 144cc OHV engine as the 3-in-1 but strips the deck down to side discharge. Side discharge throws clippings out sideways, which keeps the deck from clogging in tall grass; it is the mode mechanics recommend when a lawn has got ahead of you. The 1.5 to 3.9 inch height range is the tallest in this roundup.\n\nThe catch is that you get no bag and no mulching, so clippings land on paths and beds unless you mow with the chute facing the lawn. Compared with the 3-in-1 sibling, you save money but give up cleanup options; compared with the NBKXDEL cordless, you gain far more power for thick grass.\n\nMaintenance matches the 3-in-1: oil checks, fresh fuel and a sharp blade. Its 8 inch rear and 7 inch front wheels turn tight around beds.",
+      "bestFor": "Overgrown or tall grass on a budget where you leave clippings on the lawn.",
+      "pros": ["Same 144cc OHV engine as the 3-in-1 at lower cost", "Tallest height range here at up to 3.9 inches", "Side discharge resists clogging in tall grass", "Auto choke and primer for reliable starts"],
+      "cons": ["No bag or mulching option", "Clippings scatter onto paths and beds", "Gas engine upkeep every season"]
+    },
+    {
+      "id": "B0CCVGST3S",
+      "rank": 3,
+      "badge": "Best Cordless",
+      "name": "Wild Badger Power 40V 18 Inch Brushless Mower, 4.0 Ah Kit",
+      "amazonUrl": "https://www.amazon.com/dp/B0CCVGST3S?tag=machinefanatic-20",
+      "imageUrl": "https://m.media-amazon.com/images/I/315PnHDtNwL._SL500_.jpg",
+      "price": "",
+      "specs": ["40V brushless", "3,400 RPM", "3-in-1 clippings", "37.5 lb"],
+      "specList": [{"label":"Battery","value":"40V 4.0 Ah (about 160 Wh), fast charger"},{"label":"Motor","value":"Brushless, up to 3,400 RPM"},{"label":"Clipping modes","value":"Bag, mulch, rear discharge"},{"label":"Cut height","value":"5 positions"},{"label":"Bag","value":"11 gallon"},{"label":"Weight","value":"37.5 lb, folding handle"},{"label":"Warranty","value":"3 year limited"}],
+      "description": "The Wild Badger is the most complete single battery mower here: a brushless motor up to 3,400 RPM, three clipping modes and an 11 gallon bag. Brushless motors hold speed under load, which matters on an 18 inch deck where blade tip speed decides how cleanly it cuts. At 37.5 pounds it is easy to push and the handle folds flat.\n\nOne 4.0 Ah pack stores about 160 watt hours, much less than the Litheli's two 8.0 Ah packs, so expect a smaller lawn per charge. The listing sensibly avoids a runtime promise. Against the gas EasyCut, it is quieter and needs almost no upkeep, but thick wet grass will slow it.\n\nThe 3 year warranty is generous for a newer brand. Store the battery indoors at partial charge and keep the deck clear of packed clippings.",
+      "bestFor": "Small to medium lawns where you want a quiet cordless mower with all three clipping modes.",
+      "pros": ["Brushless motor with three clipping modes", "37.5 lb with a folding handle", "11 gallon bag is generous for the class", "3 year warranty for added confidence"],
+      "cons": ["Single 4.0 Ah pack limits one session", "No stated runtime figure", "Battery platform does not run other major tools"]
+    },
+    {
+      "id": "B0H82DXG4D",
+      "rank": 4,
+      "badge": "Best Runtime",
+      "name": "Litheli 40V 18 Inch Brushless Mower with Two 8.0 Ah Batteries",
+      "amazonUrl": "https://www.amazon.com/dp/B0H82DXG4D?tag=machinefanatic-20",
+      "imageUrl": "https://m.media-amazon.com/images/I/41y0A--CLzL._SL500_.jpg",
+      "price": "",
+      "specs": ["Two 8.0 Ah packs", "Up to 45 min", "0.98 to 2.98 in cut", "Stores upright"],
+      "specList": [{"label":"Battery","value":"2 x 8.0 Ah, 40V platform"},{"label":"Runtime","value":"Up to 45 minutes"},{"label":"Motor","value":"40V brushless"},{"label":"Cut height","value":"0.98 to 2.98 in, 6 positions"},{"label":"Handle","value":"3 positions, users 5.3 to 6.7 ft"},{"label":"Extras","value":"2 spare blades, vertical storage"}],
+      "description": "Litheli's answer to runtime anxiety is two 8.0 Ah packs. That is the largest battery capacity in this roundup and lets you swap packs for a second session, with up to 45 minutes stated. A brushless motor keeps the deck spinning efficiently, and the mower folds and stands upright for storage.\n\nIts 0.98 to 2.98 inch range is low, better suited to warm season grass than tall fescue in summer heat. Compared with the Wild Badger, it gives more total energy but fewer clipping modes listed. Two spare blades in the box are a thoughtful extra.\n\nThe three position handle adjusts for users from 5.3 to 6.7 feet tall, which reduces back strain. Rotate the two packs so they age evenly.",
+      "bestFor": "Larger cordless lawns where runtime matters more than the tallest cut setting.",
+      "pros": ["Largest battery capacity here with two 8.0 Ah packs", "Up to 45 minutes stated runtime", "Two spare blades included", "Folds and stores upright to save space"],
+      "cons": ["Top cut height under 3 inches", "Large packs make the kit costlier", "Fewer clipping modes listed than the Wild Badger"]
+    },
+    {
+      "id": "B0HFQWQGGW",
+      "rank": 5,
+      "badge": "Best Value Kit",
+      "name": "NBKXDEL 40V 18 Inch Brushless Mower with Two 5.0 Ah Batteries",
+      "amazonUrl": "https://www.amazon.com/dp/B0HFQWQGGW?tag=machinefanatic-20",
+      "imageUrl": "https://m.media-amazon.com/images/I/416RAqD7GBL._SL500_.jpg",
+      "price": "",
+      "specs": ["3,600 RPM brushless", "Two 5.0 Ah packs", "Up to 40 min", "1 to 3 in cut"],
+      "specList": [{"label":"Battery","value":"2 x 5.0 Ah, 45 W PD charger"},{"label":"Motor","value":"Brushless, 3,600 RPM"},{"label":"Runtime","value":"Up to 40 minutes, about 8,000 sq ft"},{"label":"Cut height","value":"1 to 3 in, 6 positions"},{"label":"Bag","value":"9.2 gallon"},{"label":"Extras","value":"2 replacement blades"}],
+      "description": "This kit pairs a 3,600 RPM brushless motor, the fastest stated blade speed here, with two 5.0 Ah packs and a USB PD style charger. It claims up to 40 minutes and about 8,000 square feet, a reasonable figure for small lots. Bagging and mulching are both supported.\n\nIt costs about the same as the DeWalt compatible worksky bare tool yet includes batteries, which makes it the value pick. Compared with the Litheli's two 8.0 Ah packs, it stores less energy, so plan on a smaller lawn. The brand is new, so support is uncertain.\n\nThe 9.2 gallon bag is mid size. Keep the PD charger dry and the blade sharp to protect runtime.",
+      "bestFor": "Budget buyers with lawns under about 8,000 square feet who want a complete cordless kit.",
+      "pros": ["Fastest stated blade speed here at 3,600 RPM", "Two batteries and fast charger included", "Six height positions from 1 to 3 inches", "Two replacement blades in the box"],
+      "cons": ["Less stored energy than the Litheli kit", "New brand with uncertain support", "9.2 gallon bag empties more often"]
+    },
+    {
+      "id": "B0GL1ZJC72",
+      "rank": 6,
+      "badge": "Best for DeWalt Battery Owners",
+      "name": "worksky 40V 18 Inch Brushless Mower for Two DeWalt 20V Packs (Tool Only)",
+      "amazonUrl": "https://www.amazon.com/dp/B0GL1ZJC72?tag=machinefanatic-20",
+      "imageUrl": "https://m.media-amazon.com/images/I/414gFkv+2JL._SL500_.jpg",
+      "price": "",
+      "specs": ["1000 W brushless", "2,800/3,300 RPM", "Two DeWalt 20V packs", "40 L bag"],
+      "specList": [{"label":"Power","value":"Two DeWalt 20V MAX packs (not included)"},{"label":"Motor","value":"1000 W brushless, 2 speeds"},{"label":"Blade speed","value":"2,800 or 3,300 RPM"},{"label":"Cut height","value":"1 to 3 in, 6 positions"},{"label":"Bag","value":"40 L"},{"label":"Warranty","value":"1 year"}],
+      "description": "This bare mower runs on two DeWalt 20V MAX packs in series. Its 1000 watt brushless motor offers two speeds, 2,800 RPM for quiet light mowing and 3,300 RPM for thicker grass, which stretches battery life when the lawn is easy.\n\nIt only makes sense if you own at least two DeWalt packs, ideally 5.0 Ah or larger. Against the NBKXDEL kit at 3,600 RPM, it has less top speed but offers the economy setting. The 1 year warranty is the shortest here, and it is a third party tool.\n\nThe quick release handle folds flat for storage. Use matched packs of the same capacity and charge level.",
+      "bestFor": "DeWalt 20V owners with two or more packs and a small to medium lawn.",
+      "pros": ["Runs on DeWalt 20V MAX packs you may already own", "Two speed motor saves battery on easy grass", "Six cut heights and a 40 L bag", "Folds flat with quick release knobs"],
+      "cons": ["Needs two batteries, sold separately", "Shortest warranty here at 1 year", "Third party build without DeWalt support"]
+    }
+  ],
+  "buyingCriteria": [
+    {"criterion":"Gas or battery energy","explanation":"A 144cc engine like the PowerSmart EasyCut runs as long as the tank lasts and holds speed in wet grass. Battery mowers depend on stored energy: one 4.0 Ah 40V pack on the Wild Badger holds about 160 watt hours, while the Litheli's two 8.0 Ah packs hold several times that. For lawns over a quarter acre or that are often wet, gas still wins. Under that, a good battery kit is easier to live with."},
+    {"criterion":"Clipping modes","explanation":"Mulching returns nutrients, bagging leaves a clean finish, and side discharge handles tall grass without clogging. The EasyCut 3-in-1 and Wild Badger offer all three, while the side discharge EasyCut offers only one. Buy at least two modes if you mow through the whole season."},
+    {"criterion":"Cut height range","explanation":"Tall cutting shades roots and crowds out weeds in summer. The side discharge EasyCut reaches 3.9 inches, while the Litheli tops out at 2.98 inches and the NBKXDEL and worksky at 3. Cool season lawns need the taller setting."},
+    {"criterion":"Brushless blade speed","explanation":"Blade speed sets cut quality. The NBKXDEL lists 3,600 RPM, the Wild Badger 3,400 and the worksky 2,800 or 3,300. Brushless motors keep closer to those numbers under load. An 18 inch blade at around 3,400 RPM moves its tips at roughly 180 miles per hour, and that tip speed is what slices grass cleanly instead of bruising it. A common mistake is choosing on wattage; a dull blade loses more cut quality than any motor difference."},
+    {"criterion":"Battery platform","explanation":"The worksky uses DeWalt 20V MAX packs, useful only if you own two, and two packs in series must be matched in capacity and charge. The other cordless kits, Wild Badger, Litheli and NBKXDEL, use their own packs that do not run a large family of other tools. Platform choice decides what your trimmer and blower will cost later, so decide it before the mower."},
+    {"criterion":"Weight and storage","explanation":"An 18 inch deck is light enough to store upright in many cases, which frees floor space in a small shed. The Litheli is designed to stand vertically, and the Wild Badger weighs 37.5 pounds with a folding handle. Gas mowers like the PowerSmart EasyCuts should stay level, because tipping them onto the deck can push oil into the air filter and cause smoky starts."}
+  ],
+  "specDecoder": [
+    {"spec":"144cc OHV","meaning":"Engine displacement and an overhead valve layout. OHV engines run cooler and cleaner.","watchFor":"Displacement alone does not show torque; both EasyCuts use the same engine."},
+    {"spec":"Ah","meaning":"Battery capacity at its voltage. Multiply by volts for watt hours.","watchFor":"Two 8.0 Ah packs on the Litheli store far more than one 4.0 Ah on the Wild Badger."},
+    {"spec":"Runtime","meaning":"Minutes under the maker's conditions.","watchFor":"Litheli's 45 and NBKXDEL's 40 minutes assume easy grass."},
+    {"spec":"Coverage","meaning":"Area cut per charge or tank.","watchFor":"The NBKXDEL's 8,000 square feet assumes ideal mowing."},
+    {"spec":"Brushless motor","meaning":"Electronic commutation for better efficiency and life.","watchFor":"Wattage claims like the worksky's 1000 W are motor input, not cutting power."}
+  ],
+  "howWeEvaluated": [
+    {"title":"Power source","description":"We compared engine displacement and stored battery energy. The 144cc EasyCuts led for thick grass, the Litheli for cordless energy."},
+    {"title":"Clipping options","description":"We scored mulch, bag and discharge modes. The EasyCut 3-in-1 and Wild Badger offer all three."},
+    {"title":"Height range","description":"We compared stated cut ranges, crediting the side discharge EasyCut's 3.9 inch top."},
+    {"title":"Ownership","description":"We weighed gas upkeep, battery platforms and warranties. The Wild Badger's 3 years stood out."},
+    {"title":"Handling","description":"We compared weight, wheels and storage. The Litheli's upright storage and Wild Badger's 37.5 pounds scored well."}
+  ],
+  "howToChoose": [
+    {"subheading":"By Lawn Size","table":{"headers":["Lawn","Pick","Why"],"rows":[["Up to 8,000 sq ft","NBKXDEL 40V 18 Inch","Complete kit, enough energy"],["Up to about 1/4 acre, cordless","Litheli 40V 18 Inch","Two 8.0 Ah packs"],["About 1/4 acre, thick grass","PowerSmart EasyCut 3-in-1","Gas power and all modes"],["Overgrown lawn","PowerSmart EasyCut Side Discharge","Tall cut and no clogging"]]}},
+    {"subheading":"By Budget","table":{"headers":["Budget tier","Pick","Notes"],"rows":[["Lowest, DeWalt owner","worksky 18 Inch","Bare tool"],["Low","NBKXDEL 40V 18 Inch","Full kit"],["Middle","PowerSmart EasyCut Side Discharge","Gas power"],["Upper","Litheli 40V 18 Inch","Most battery capacity"]]}},
+    {"subheading":"Gas vs Battery","cards":[{"label":"Gas","text":"Unlimited runtime and torque in wet grass, with oil and fuel upkeep. In this roundup: both PowerSmart EasyCuts."},{"label":"Battery","text":"Quiet, push button starts and minimal upkeep, limited by stored energy. In this roundup: Wild Badger, Litheli, NBKXDEL and worksky."}],"note":"Pick gas for thick grass on a quarter acre; pick battery for smaller, regularly mowed lawns."},
+    {"subheading":"By Clipping Preference","table":{"headers":["You want","Pick","Why"],"rows":[["All three modes, gas","PowerSmart EasyCut 3-in-1","Mulch, bag and side"],["All three modes, cordless","Wild Badger 40V","Bag, mulch and rear discharge"],["Leave clippings","PowerSmart EasyCut Side Discharge","Simple and clog resistant"]]}},
+    {"subheading":"For Quiet Early Mowing Specifically","cards":[{"label":"Look for","text":"A brushless cordless mower with a low speed setting."},{"label":"In this comparison","text":"The worksky's 2,800 RPM mode and the Wild Badger's brushless motor are the quietest options."}]},
+    {"subheading":"When to Spend More","cards":[{"label":"Spend more if","text":"You want long cordless sessions: the Litheli. Or you need every clipping mode on gas: the EasyCut 3-in-1."},{"label":"Save if","text":"Your lawn is small: the NBKXDEL kit, or the worksky if you own DeWalt packs."}]}
+  ],
+  "maintenance": [
+    {"task":"Change engine oil","interval":"After first 5 hours, then each season","why":"New engines shed metal during break in. Fresh oil protects the bearings."},
+    {"task":"Stabilize or drain fuel","interval":"Before storage","why":"Ethanol fuel varnishes carburetor jets. Stabilizer or an empty bowl prevents hard starts."},
+    {"task":"Sharpen the blade","interval":"Each season","why":"A sharp blade cuts cleanly and saves battery or fuel."},
+    {"task":"Clean the deck","interval":"After each few mows","why":"Packed clippings cut airflow and bagging. Disconnect power first."},
+    {"task":"Store batteries cool","interval":"Off season","why":"Heat and full drain shorten lithium life. Store at partial charge."}
+  ],
+  "faq": [
+    {"q":"Is an 18 inch mower enough for a quarter acre?","a":"Yes, especially the gas EasyCut or a battery kit like the Litheli. Bigger lawns favor 21 inch decks, because each extra inch of width removes passes. On a lawn with many beds and trees, the narrower deck often finishes just as fast because it turns more easily."},
+    {"q":"Gas or battery for an 18 inch deck?","a":"Gas for thick, wet grass; battery for regular mowing of smaller lawns. Battery mowers are quieter and need less care."},
+    {"q":"How much runtime do I need?","a":"Roughly 30 to 45 minutes covers most small lawns. The Litheli's two large packs give the most margin."},
+    {"q":"What is OHV?","a":"Overhead valve: the valves sit above the piston, which improves efficiency. Both PowerSmart mowers use it. In practice OHV engines start more easily, use less fuel and leave fewer carbon deposits than the older side valve engines found on bargain mowers."},
+    {"q":"How do I winterize a gas mower?","a":"Stabilize or drain the fuel, change the oil and clean the deck. Store it level."},
+    {"q":"Are bare tool mowers worth it?","a":"Only if you own the batteries; the worksky needs two DeWalt 20V packs."}
+  ],
+  "relatedGuides": []
+}

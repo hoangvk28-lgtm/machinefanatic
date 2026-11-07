@@ -22,3 +22,20 @@ best-generator-hour-meters: accessory (hour meter), not a machine
 best-generator-inlet-boxes: accessory (power inlet box), not a machine
 best-generator-interlock-kits: accessory (panel interlock kit), not a machine
 best-ecoflow-delta-pro-solar-generator-models-costs-and-buyer-notes: duplicate of best-ecoflow-delta-pro-3-solar-generator-models-costs-and-buyer-notes
+## Round 1b (2026-11-07, outdoor-power, 60 topics: 46 written, 14 skipped)
+| Skipped slug | Reason |
+|---|---|
+| best-1-gallon-garden-sprayers | Manual hand-pump gear; only one on-topic battery unit |
+| best-2-gallon-garden-sprayers | Manual pump sprayers, not a machine (battery version has its own guide) |
+| best-4-gallon-garden-sprayers | Written but rejected by coordinator: mixes manual pump sprayers, inconsistent with the other manual sprayer skips |
+| best-10-inch-wood-chippers | No consumer chipper with 10 inch capacity in the data |
+| best-12-inch-wood-chippers | No 12 inch capacity chippers; listings were smaller units and blades |
+| best-14-ton-electric-log-splitters | Only 3 electric splitters at 14 ton or more |
+| best-20-ton-electric-log-splitters | No true 20 ton electric splitter; all 20 ton listings are gas |
+| best-4-ton-electric-log-splitters | Smallest available electric splitter is 6.5 ton |
+| best-2-inch-garden-augers | Drill-bit accessories, not machines |
+| best-3-inch-garden-augers | Drill-bit accessories, not machines |
+| best-4-inch-garden-augers | Drill-bit accessories or manual augers |
+| best-3-point-tractor-leaf-blowers | No 3-point hitch blowers found after extra searches |
+| best-32-inch-snow-blowers | Only Honda HSS1332 variants (one model line) |
+| best-36-inch-snow-blowers | Only one 36 inch machine available |

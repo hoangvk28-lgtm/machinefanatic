@@ -11,3 +11,7 @@ npm-debug.log*
 
 /photo/
 !.env.example
+
+# clone pipeline scratch (keep specs only)
+scripts/clone/work/*
+!scripts/clone/work/*.spec.json

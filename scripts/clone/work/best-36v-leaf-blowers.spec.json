@@ -1,0 +1,571 @@
+{
+ "guideTitle": "Best 36V Leaf Blowers (2026)",
+ "metaTitle": "Best 36V Leaf Blowers (2026)",
+ "metaDescription": "Five 36V cordless leaf blowers compared, including dual 18V systems, on CFM versus MPH, runtime, vacuum kits and what the numbers really mean.",
+ "readTime": "13 min",
+ "expertTake": "The Makita XBU02PT is the best overall because its brushless motor, 473 CFM rating and ANSI-measured 61 dB(A) are specs you can trust, in a kit with the batteries included. The Husqvarna Leaf Blaster 350iB is the pick if you want maximum airflow in a single-pack machine. If your debris is wet leaves over an acre, no battery blower is the right tool, and a backpack gas unit still wins on runtime.",
+ "introParagraphs": [
+  "This voltage class sits between small single-battery blowers and heavy backpack units. Some machines reach it with one pack, and others pair two lower-voltage packs in series, which changes how you buy batteries and what other tools you can run.",
+  "This guide explains airflow versus air speed, how dual-battery systems work, what the measured and claimed figures mean, and which jobs this class handles well. Use the picks above for a shortlist, then read the reviews below for the tradeoffs on each machine."
+ ],
+ "products": [
+  {
+   "id": "B01N7MX7YG",
+   "badge": "Best Overall",
+   "name": "Makita XBU02PT 36V (18V X2) LXT Brushless Blower Kit",
+   "specs": [
+    "473 CFM",
+    "120 MPH",
+    "61 dB(A)",
+    "2 x 5.0Ah"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "Up to 473 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 120 MPH"
+    },
+    {
+     "label": "Sound level",
+     "value": "61 dB(A), ANSI B175.2"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 28 minutes at mid-speed"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 18V LXT 5.0Ah"
+    }
+   ],
+   "description": "Makita's XBU02PT shows why a dual-battery system works. Two 18V LXT batteries in series supply 36V to a brushless motor that delivers up to 120 MPH and 473 CFM, a balanced pair of figures that moves both volume and speed. The 28 minute claim is at mid-speed, so expect less at full power.\n\nThe 61 dB(A) rating is notable because it is stated as measured per the ANSI B175.2 standard, which gives you a comparable noise figure instead of a marketing adjective. Compared with the other blowers in this lineup that quote only CFM and MPH, this is the most transparent spec sheet.\n\nThe same blower also ships as a tool-only unit for people who own batteries, and it uses 18V LXT packs that run a huge Makita tool range. Keep the intake clear and store the batteries indoors in cold weather.",
+   "bestFor": "Makita 18V owners or anyone who wants a transparent spec sheet and quiet operation.",
+   "pros": [
+    "473 CFM and 120 MPH balance volume and speed",
+    "61 dB(A) is a standards-based noise rating",
+    "Brushless motor extends runtime and life",
+    "Two 18V packs also power other Makita tools"
+   ],
+   "cons": [
+    "Needs two batteries, which adds weight and cost",
+    "28 minute runtime applies only at mid-speed",
+    "Costs more than single-battery blowers"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B01N7MX7YG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412Q8Fym0uL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08C1RFP71",
+   "badge": "Best 3-in-1",
+   "name": "Makita XBU04PTV 36V (18V X2) Brushless Blower and Vacuum Kit",
+   "specs": [
+    "473 CFM",
+    "120 MPH",
+    "Vacuum and mulcher",
+    "10:1 mulch ratio"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "Up to 473 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 120 MPH"
+    },
+    {
+     "label": "Modes",
+     "value": "Blower, vacuum, mulcher"
+    },
+    {
+     "label": "Mulch ratio",
+     "value": "10:1 with shredding blade"
+    },
+    {
+     "label": "Motor",
+     "value": "Makita-built brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 18V LXT 5.0Ah"
+    }
+   ],
+   "description": "The XBU04PTV is the same 473 CFM, 120 MPH blower with a vacuum and mulching attachment, making it a three-in-one tool. The 10:1 mulch ratio means ten bags of leaves reduce to about one, which cuts disposal trips in autumn.\n\nSwitching to vacuum mode changes the airflow path and adds a collection bag, and the shredding blade chops leaves as they pass through. That is useful for gardeners who compost or mulch leaves into beds.\n\nCompared with the XBU02PT, you give up some weight and simplicity for versatility. Check the bag is emptied often because a full bag chokes the vacuum. Store the attachment dry.",
+   "bestFor": "Gardeners who want to blow, vacuum and mulch leaves with a single machine.",
+   "pros": [
+    "Converts from blower to vacuum and mulcher",
+    "10:1 mulch ratio cuts leaf volume dramatically",
+    "Same strong 473 CFM and 120 MPH blower",
+    "Makita-built brushless motor"
+   ],
+   "cons": [
+    "Heavier and bulkier in vacuum mode",
+    "Attachment adds cost over the plain blower"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B08C1RFP71?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/411VR4y-kML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C9MZ43W3",
+   "badge": "Best Single-Battery Power",
+   "name": "Husqvarna Leaf Blaster 350iB Cordless Blower Kit",
+   "specs": [
+    "800 CFM claimed",
+    "200 MPH claimed",
+    "Brushless motor",
+    "BLi30 battery"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "Up to 800 CFM claimed"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 200 MPH claimed"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Battery",
+     "value": "7.5Ah BLi30 included"
+    },
+    {
+     "label": "Controls",
+     "value": "Keypad with cruise control"
+    },
+    {
+     "label": "Included",
+     "value": "Battery and charger"
+    }
+   ],
+   "description": "Husqvarna's 350iB uses one large battery to feed a brushless motor, with claimed wind speeds up to 200 MPH and 800 CFM. Those are the highest figures in this lineup and are quoted as maximums, so treat them as best-case numbers.\n\nA keypad starts the blower, and cruise control holds speed so your finger is not on a trigger the whole time. The kit includes a 7.5Ah BLi30 battery and charger, and Husqvarna claims a weight advantage of about 15 percent compared with similar blowers.\n\nIt is a single-battery machine, so the battery fits the Husqvarna 36V platform, not Makita or Milwaukee. The brand has a strong dealer network. Keep the intake clear and store the battery indoors.",
+   "bestFor": "Homeowners who want the highest claimed airflow from a single battery and a dealer network.",
+   "pros": [
+    "800 CFM and 200 MPH are the highest claimed figures here",
+    "Cruise control reduces trigger fatigue",
+    "7.5Ah battery and charger included",
+    "Strong dealer and service network"
+   ],
+   "cons": [
+    "Claimed maximums are best-case figures",
+    "Battery platform is separate from other brands",
+    "Costs more than the compatible-tool options"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0C9MZ43W3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31WrUO1QeNL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H555BNB3",
+   "badge": "Best for Makita Owners on a Budget",
+   "name": "Mayoki 36V Dual-Battery Brushless Blower for Makita 18V (Tool Only)",
+   "specs": [
+    "570 CFM",
+    "145 MPH",
+    "Turbo mode",
+    "Tool only"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "Up to 570 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 145 MPH"
+    },
+    {
+     "label": "Throw",
+     "value": "Debris up to 13 ft away"
+    },
+    {
+     "label": "Modes",
+     "value": "3 speeds and Turbo"
+    },
+    {
+     "label": "Motor",
+     "value": "Mid-mounted brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two Makita 18V, not included"
+    }
+   ],
+   "description": "The Mayoki is a bare tool that runs on two Makita 18V batteries in series, delivering 36V. It claims up to 570 CFM and 145 MPH with a turbo mode, higher than Makita's own 473 CFM and 120 MPH, which should invite caution since a third-party tool claims more than the maker's own blower on the same batteries.\n\nIts mid-mounted brushless motor and balanced center of gravity are designed to reduce fatigue, and a large 9 cm outlet moves more air per pass. Three speeds plus turbo give control.\n\nIt makes sense only for people who already own Makita 18V batteries. There is no shared warranty with the battery maker. Check the packs seat firmly and keep the intake clear.",
+   "bestFor": "Makita 18V battery owners who want a low-cost second blower.",
+   "pros": [
+    "Reuses two Makita 18V batteries you already own",
+    "Mid-mounted motor balances the weight",
+    "Turbo mode adds a burst of power",
+    "Large 9 cm outlet moves more air per pass"
+   ],
+   "cons": [
+    "Claims exceed the maker's own blower, so treat them cautiously",
+    "Tool only, so batteries are extra",
+    "No shared warranty with the battery brand"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H555BNB3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31iyYP5fpJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H2LH2VVF",
+   "badge": "Best for Milwaukee Owners",
+   "name": "ALDIPRO 36V Dual-Battery Brushless Blower for Milwaukee M18 (Bare Tool)",
+   "specs": [
+    "850 CFM claimed",
+    "200 MPH claimed",
+    "Brushless",
+    "Detailing nozzle"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "Up to 850 CFM claimed"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 200 MPH claimed"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two Milwaukee M18, not included"
+    },
+    {
+     "label": "Controls",
+     "value": "Variable trigger, cruise control, turbo"
+    },
+    {
+     "label": "Nozzle",
+     "value": "Non-scratch rubber detailing nozzle"
+    }
+   ],
+   "description": "This blower runs on two Milwaukee M18 batteries in series and claims up to 850 CFM and 200 MPH. Those figures are far above Makita's 473 CFM, and a small brushless motor on 36V is unlikely to deliver that much air, so treat them as marketing maximums.\n\nA variable speed trigger, cruise control and a turbo button give control, and a non-scratch rubber nozzle lets you dry a car without marring the paint. That is a sensible add-on.\n\nIt is a bare tool, and the savings depend on the Milwaukee batteries you own. There is no shared warranty. Keep the intake clear.",
+   "bestFor": "Milwaukee M18 owners who want a second blower and car-drying capability.",
+   "pros": [
+    "Runs on two Milwaukee M18 batteries you already own",
+    "Non-scratch nozzle suits car drying",
+    "Variable trigger with cruise control",
+    "Turbo button for peak airflow"
+   ],
+   "cons": [
+    "850 CFM and 200 MPH claims are far above class norms",
+    "Tool only, so batteries are extra",
+    "No shared warranty with the battery brand"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H2LH2VVF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41nsH8wF9cL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Dual 18V versus single 36V",
+   "explanation": "Many blowers in this class reach 36V by pairing two 18V batteries in series, which lets you reuse packs from other tools but doubles the battery weight and cost. Single-pack systems feed one large battery and are simpler. The Makita and the two compatible-tool blowers use two batteries, and the Husqvarna uses one."
+  },
+  {
+   "criterion": "CFM versus MPH",
+   "explanation": "CFM is air volume and MPH is air speed. Volume moves piles of leaves, and speed lifts stuck debris. A balanced pair is more useful than a huge number on one. The Makita lists 473 CFM and 120 MPH, the Mayoki 570 CFM and 145 MPH, the Husqvarna 800 CFM and 200 MPH and the ALDIPRO 850 CFM and 200 MPH."
+  },
+  {
+   "criterion": "Claimed versus measured specs",
+   "explanation": "A manufacturer's maximum is not a measured result. Look for standards-based figures, such as sound pressure measured per ANSI B175.2. The Makita publishes one at 61 dB(A). A third-party blower claiming more airflow than the maker's own tool on the same batteries deserves skepticism."
+  },
+  {
+   "criterion": "Runtime and battery capacity",
+   "explanation": "Blowers at full speed drain packs quickly. Makita claims up to 28 minutes at mid-speed from two 5.0Ah batteries, and full speed shortens that. Larger packs and efficient brushless motors extend runtime. Check how many batteries ship in the kit."
+  },
+  {
+   "criterion": "Vacuum and mulch options",
+   "explanation": "A vacuum and mulching attachment turns a blower into a leaf shredder. A 10:1 ratio reduces leaf volume dramatically. The Makita XBU04PTV offers this with the same 473 CFM motor."
+  },
+  {
+   "criterion": "Platform lock-in",
+   "explanation": "Every compatible-tool blower ties you to one battery brand. Choose the platform that already powers your other tools. Makita 18V LXT, Milwaukee M18 and Husqvarna 36V are separate ecosystems."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CFM",
+   "meaning": "Cubic feet per minute, the volume of air moved. Higher CFM moves more leaves at once.",
+   "watchFor": "The ALDIPRO's 850 CFM and Husqvarna's 800 CFM are claimed maximums, well above the Makita's 473 CFM."
+  },
+  {
+   "spec": "MPH",
+   "meaning": "Air speed at the nozzle, which lifts stuck debris.",
+   "watchFor": "Speed alone does not move volume. Look at both numbers."
+  },
+  {
+   "spec": "dB(A) per ANSI B175.2",
+   "meaning": "A standards-based sound pressure measurement, weighted to human hearing.",
+   "watchFor": "Only the Makita gives this figure here."
+  },
+  {
+   "spec": "Dual 18V in series",
+   "meaning": "Two 18V batteries wired in series supply 36V to the motor.",
+   "watchFor": "You must carry two batteries, and each must be charged."
+  },
+  {
+   "spec": "Mulch ratio",
+   "meaning": "How much a vacuum shredder reduces leaf volume, such as 10:1.",
+   "watchFor": "The ratio depends on leaf type and dryness."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Airflow and speed",
+   "description": "We compared CFM and MPH and discounted maximums that exceeded class norms. The Makita's balanced 473 CFM and 120 MPH led on credibility."
+  },
+  {
+   "title": "Spec transparency",
+   "description": "We rewarded standards-based figures. The Makita's 61 dB(A) per ANSI B175.2 led."
+  },
+  {
+   "title": "Battery and runtime",
+   "description": "We compared battery capacity and count. The Makita and Husqvarna kits include batteries, while the compatible-tool blowers do not."
+  },
+  {
+   "title": "Versatility",
+   "description": "We considered vacuum, mulching and nozzle options. The Makita XBU04PTV's three-in-one scored highest."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We read patterns in owner feedback on runtime and airflow claims. Where claims and feedback disagreed, we weighted the feedback."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Yard Job",
+   "intro": "The job sets the features.",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "General yard cleanup",
+      "Makita XBU02PT",
+      "Balanced, quiet"
+     ],
+     [
+      "Leaf mulching",
+      "Makita XBU04PTV",
+      "Vacuum and mulcher"
+     ],
+     [
+      "Large piles, one battery",
+      "Husqvarna 350iB",
+      "Highest claimed airflow"
+     ],
+     [
+      "Own Makita batteries",
+      "Mayoki 36V",
+      "Bare tool"
+     ],
+     [
+      "Own Milwaukee batteries",
+      "ALDIPRO 36V",
+      "Bare tool, detailing nozzle"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay with Makita packs",
+      "Mayoki 36V",
+      "Bare tool"
+     ],
+     [
+      "Low with Milwaukee packs",
+      "ALDIPRO 36V",
+      "Bare tool"
+     ],
+     [
+      "Mid, full kit",
+      "Makita XBU02PT",
+      "Two 5.0Ah batteries"
+     ],
+     [
+      "Mid to high, one battery",
+      "Husqvarna 350iB",
+      "Battery and charger"
+     ],
+     [
+      "Higher, 3-in-1",
+      "Makita XBU04PTV",
+      "Vacuum and mulcher"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Dual-Battery vs Single-Battery",
+   "cards": [
+    {
+     "label": "Dual-battery",
+     "text": "Reuses packs from other tools but carries two batteries, which adds weight. The Makita models, Mayoki and ALDIPRO fall here."
+    },
+    {
+     "label": "Single-battery",
+     "text": "Simpler and lighter at the tool, but ties you to one brand's large pack. The Husqvarna 350iB falls here."
+    }
+   ],
+   "note": "If you own 18V tools, take dual-battery; if you are starting fresh, single-battery is simpler."
+  },
+  {
+   "subheading": "Platform",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Makita LXT owner",
+      "Makita XBU02PT",
+      "Same batteries"
+     ],
+     [
+      "Makita LXT owner, bare",
+      "Mayoki 36V",
+      "Reuses packs"
+     ],
+     [
+      "Milwaukee M18 owner",
+      "ALDIPRO 36V",
+      "Reuses packs"
+     ],
+     [
+      "Starting fresh",
+      "Husqvarna 350iB",
+      "Battery included"
+     ],
+     [
+      "Want mulching",
+      "Makita XBU04PTV",
+      "Vacuum kit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Leaf Cleanup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "High CFM, enough battery and ideally a mulching option. Volume moves leaves and shredding cuts bag count."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Makita XBU04PTV pairs 473 CFM with a 10:1 mulch ratio, and the Husqvarna 350iB claims the highest airflow."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You clear a lot of leaves or value verified specs. The Makita XBU02PT or XBU04PTV give transparent ratings."
+    },
+    {
+     "label": "Save if",
+     "text": "You own the batteries. The Mayoki or ALDIPRO bare tools are cheaper."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clear the intake",
+   "interval": "After every use",
+   "why": "Leaves and grass block airflow and cause heat. A quick wipe restores performance."
+  },
+  {
+   "task": "Clean the fan housing",
+   "interval": "Every few sessions",
+   "why": "Dust and debris unbalance the fan. Wipe it with a dry cloth."
+  },
+  {
+   "task": "Store batteries partly charged",
+   "interval": "Before winter",
+   "why": "Lithium packs age fastest empty or hot. Keep them indoors."
+  },
+  {
+   "task": "Empty and clean the vacuum bag",
+   "interval": "After each vacuum session",
+   "why": "A full or damp bag chokes airflow. Dry it before storing."
+  },
+  {
+   "task": "Inspect nozzles",
+   "interval": "Every season",
+   "why": "Cracked nozzles lose air speed. Replace damaged ones."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a 36V blower better than an 18V blower?",
+   "a": "It usually delivers more airflow because the motor has more power, but dual-battery systems add weight. A single 18V blower is lighter for small jobs."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "Bare tools cost less if you own the batteries. Full kits and vacuum models cost more. Count batteries in the total."
+  },
+  {
+   "q": "How long will batteries last?",
+   "a": "Makita claims up to 28 minutes at mid-speed on two 5.0Ah packs, and full speed shortens that."
+  },
+  {
+   "q": "Are CFM claims reliable?",
+   "a": "Not always. Look for balanced figures and standards-based ratings, and be skeptical of claims above the maker's own tool."
+  },
+  {
+   "q": "Can I use these with other tool brands' batteries?",
+   "a": "Only compatible-tool models fit another brand's packs, and they carry no shared warranty."
+  },
+  {
+   "q": "Do I need hearing protection?",
+   "a": "Cordless blowers are quieter than gas, but prolonged use still benefits from ear protection, and eye protection is essential."
+  }
+ ],
+ "guideSlug": "best-36v-leaf-blowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "36V Leaf Blowers",
+ "lastUpdated": "2026-11-06",
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/412Q8Fym0uL._SL500_.jpg"
+}
