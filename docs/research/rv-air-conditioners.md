@@ -1,0 +1,19 @@
+# RV air conditioners (research notes)
+- Traditional 120V rooftop RV AC is 13,500 or 15,000 BTU; running draw roughly 12 to 16 amps, starting surge several times higher without soft start.
+- A 15,000 BTU unit covers roughly 700 sq ft and under; 13,500 vs 15,000 differs mainly in compressor size and startup load.
+- Soft start capacitor sharply reduces starting watts; it is the main lever for generator sizing. With soft start a 2,200 to 3,000W inverter generator can often start one unit; without it plan for 3,500W+.
+- On a 30 amp RV service, one AC plus a few small loads is the realistic limit; microwave plus AC trips the breaker.
+- Heat pump models add roughly 1,500W-class electric heat or reverse cycle and cost more; heat pumps lose output as outdoor temperature drops toward freezing.
+- Ducted units feed ceiling duct plenum; non-ducted units blow from a single ceiling assembly. Match what your rig already has; converting needs a different ceiling assembly.
+- Standard rooftop footprint is 14.25 inch roof opening; most AC units fit a 14 x 14 inch hole with a gasket and four bolts but check unit height and weight (typically 70 to 110 lb).
+- Inverter-driven (variable-speed compressor) units run quieter and draw less at partial load; some advertise sub-50 dB claims, usually maker claims.
+- Running a 120V AC from a 12V battery through an inverter is inefficient: forum reports of 90 to 100A from the battery bank for a 13,500 BTU unit.
+- DC (12V/24V) rooftop units draw roughly 22 to 55A at 12V depending on fan speed; runtime on a 100Ah lithium bank is about 1 to 4 hours for a 10,000 BTU DC unit by claims.
+- 24V units draw about half the current of 12V units for the same watts, so thinner cables and less voltage drop.
+- Real runtime depends on insulation, window covers, setpoint and thermostat cycling; vendor claims of 30 hours on 300Ah are optimistic.
+- Use a low-voltage cutoff or BMS protection so a DC AC cannot over-drain batteries.
+- DC units are usually 8,500 to 12,000 BTU and cool smaller spaces (vans, truck cabs, small campers), not full-size trailers.
+- Wiring for a 12V AC needs heavy cable (often 2 AWG or 4 AWG short runs) and a properly sized fuse and breaker.
+- Refrigerant R32 and R410A are common; R32 units use less refrigerant by weight. Charge and servicing need a certified technician.
+- Roof must be able to carry the unit; sealing the gasket and clean condenser coils yearly matters.
+- Clean or replace the filter every month or two in dusty camps; frozen coil usually from restricted airflow.

@@ -1,0 +1,18 @@
+# Dehumidifiers research
+- Pint ratings: since 2019 the US DOE test is 65F and 60% RH; older tests used 80F and 60% RH. The same machine reads about 40 percent lower on the new scale, so a modern 22 pint unit equals an old 30 pint unit. Many listings still quote "max" pints at 90F/90% or 95F/90% RH.
+- Always compare the pint number AND the stated test condition. Max-pint figures at 95F are not what a 60F basement delivers.
+- Compressor (refrigerant) units chill a coil, condense water, and reheat the air; they work best above about 65F. Below that the coil frosts and the unit cycles into defrost, losing output. Desiccant and Peltier mini units suit small closets, not basements.
+- Auto defrost via sensor or hot-gas bypass keeps cold basements working; low-temperature models run to about 41F.
+- Sq ft coverage on listings assumes a mild humidity problem. A damp basement at 70% RH needs one size up.
+- Continuous drain: gravity hose (garden hose thread on many) needs the unit above the drain. A built-in condensate pump lifts water roughly 15 feet vertically. Bucket capacity is usually 0.5 to 2 gallons and a damp-basement unit can fill a small bucket in under a day.
+- Target indoor humidity 40 to 50 percent. Above 60 percent encourages mold and dust mites; below 30 percent feels dry.
+- Energy Star: efficiency measured in liters per kWh (about 1.6 L/kWh or better on newer models). Bigger units draw roughly 500 to 800 watts.
+- Humidistat accuracy is about plus or minus 5 percent RH; confirm with a separate hygrometer.
+- Maintenance: wash air filter every 2 weeks to monthly, clean bucket to prevent slime, vacuum coils yearly, keep 6 to 12 inches clearance from walls.
+- Refrigerant: modern units use R290 or R32 (flammable in small charges); do not puncture the coil. Older units use R410A.
+- Compressor life: typically 5 to 10 years; cheap units often fail early as the hot compressor works in humid air.
+- Whole-house ducted units (70 to 100 pint) tie into the HVAC; they need install and a drain.
+- Commercial/LGR units suit crawl spaces and restoration work; they are loud and heavier, with a pump.
+- Wheels and carry handles matter: a 40 to 50 pound unit gets moved for cleaning.
+- Dehumidifiers raise room temperature a few degrees since compressor heat enters the room.
+- Smart/WiFi features add convenience; the local humidistat must still work without the cloud.

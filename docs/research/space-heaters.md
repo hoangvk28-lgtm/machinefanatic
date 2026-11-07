@@ -1,0 +1,14 @@
+# Space heaters research
+- A standard US 120V 15A circuit supports 1800W continuous at most (80 percent rule); that is why portable heaters top out at 1500W. Do not share the circuit with other loads.
+- Electric resistance heaters convert watts to heat at about 100 percent efficiency, so 1500W gives about 5,120 BTU/hr whatever the type. Differences are in how heat is delivered, not total output.
+- Ceramic (PTC) heaters self-limit element temperature; fan-forced and fast to warm a small zone. Oil-filled radiators are slow, silent and hold heat. Infrared/radiant panels warm objects in line of sight. Convection panels heat evenly and quietly.
+- Coverage rule of thumb: 10 W per square foot, so 1500W covers about 150 sq ft in a typical insulated room.
+- Safety features: tip-over switch, overheat shutoff, cool-touch housing. UL or ETL listing matters. Plug directly into the wall, never an extension cord or power strip. A plug that gets warm is a red flag.
+- A thermostat cycles the element and saves energy; mechanical dial thermostats are less accurate than digital.
+- Oscillation spreads warmth but does not add heat; tower units are narrow and tip over easier.
+- Noise: fan ceramics 40 to 55 dB; oil-filled near silent.
+- One hour at 1500W = 1.5 kWh of electricity.
+- Outdoor-rated heaters are different; indoor heaters should not be used in damp spaces unless labeled for them.
+- Remote controls and timers are useful for bedside use.
+- Keep at least 3 feet clear of combustibles.
+- Thin cords with warm plugs signal poor build.

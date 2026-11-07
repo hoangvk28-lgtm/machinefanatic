@@ -1,0 +1,644 @@
+{
+ "guideSlug": "best-12v-space-heater-for-rv",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best 12v space heater for rv",
+ "guideTitle": "Best 12V Space Heaters for RV (2026)",
+ "metaTitle": "Best 12V Space Heaters for RV (2026)",
+ "metaDescription": "Six 12V heaters for RVs and vans compared on wattage, amp draw, plug-in vs hardwired PTC and diesel options, with honest limits on what 12V heat can do.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/418BOP4V5wL._SL500_.jpg",
+ "expertTake": "The VEVOR 8KW diesel heater is the only unit here that can genuinely heat an RV on 12V power, because it burns diesel and uses the battery only for the fan and pump. The Blytra 200W plug-in is the best small-cab pick, with a fuse in the plug and a rotating base. Anyone expecting a 200W electric heater to warm a whole trailer should skip the 12V electric heaters and read the physics section first.",
+ "introParagraphs": [
+  "A 12 volt heater plugs into a vehicle socket or wires into a battery bank. That makes it convenient, but also severely limited, because heating air with electricity takes a great deal of power and a 12 volt circuit cannot deliver much.",
+  "The sensible way to shop is to separate small-cab heaters from real cabin heaters. Plug-in ceramic units warm a windshield or a seat, while only a fuel-burning heater or a hardwired high-power unit can take on a whole camper."
+ ],
+ "products": [
+  {
+   "id": "B0CFQNPZX4",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "VEVOR 8KW 12V diesel air heater with Bluetooth app",
+   "amazonUrl": "https://www.amazon.com/dp/B0CFQNPZX4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418BOP4V5wL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "8 kW diesel",
+    "12V supply",
+    "Bluetooth app",
+    "Altitude auto"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "8 kW diesel air heater"
+    },
+    {
+     "label": "Electric",
+     "value": "12V for fan and pump"
+    },
+    {
+     "label": "Control",
+     "value": "Bluetooth app"
+    },
+    {
+     "label": "Altitude",
+     "value": "Automatic compensation"
+    },
+    {
+     "label": "Install",
+     "value": "Needs exhaust and fuel routing"
+    }
+   ],
+   "description": "The VEVOR is a diesel air heater, which means the heat comes from burning fuel rather than from electricity. The 12 volt supply only runs the combustion fan, the glow plug and the fuel pump, so the battery draw is small once it is running. An 8 kilowatt rating is roughly 27,000 BTU of output, enough to warm a camper or a small cabin that no 12V electric heater could touch.\n\nThat power comes with installation work. The unit needs a fuel tank or line, an exhaust pipe routed outside and a combustion air intake, and it must be mounted with proper clearances. It also needs a carbon monoxide alarm in the living space. Automatic altitude compensation helps combustion at elevation, and a Bluetooth app handles the settings. It sits in the highest price tier of the group, which is reasonable for what it does.\n\nOwnership is a different routine from an electric heater. Burn it at high output periodically to clear carbon, keep fuel fresh, and check the exhaust fitting for leaks. Treat the install as a safety-critical job and follow the manual.",
+   "bestFor": "Off-grid winter camping in vans and campers.",
+   "pros": [
+    "Real whole-cabin heat from diesel",
+    "Low battery draw for fan and pump",
+    "Bluetooth control",
+    "Automatic altitude compensation"
+   ],
+   "cons": [
+    "Highest price tier here",
+    "Needs exhaust and fuel installation",
+    "Requires a CO alarm and careful setup"
+   ]
+  },
+  {
+   "id": "B0H7JPS8J2",
+   "rank": 2,
+   "badge": "Best Small-Cab Plug-In",
+   "name": "Blytra 12V 200W plug-in ceramic car heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0H7JPS8J2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31nMsUz813L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200W PTC",
+    "Plug fuse",
+    "360 rotation",
+    "Cigarette plug"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "200W at 12V (about 17 A)"
+    },
+    {
+     "label": "Element",
+     "value": "PTC ceramic"
+    },
+    {
+     "label": "Safety",
+     "value": "Fuse in plug"
+    },
+    {
+     "label": "Base",
+     "value": "360 degree rotatable"
+    },
+    {
+     "label": "Use",
+     "value": "Windshield defrost, small cab"
+    }
+   ],
+   "description": "The Blytra uses a PTC ceramic element rated 200 watts, which at 12 volts is about 17 amps. It includes a fuse in the plug that cuts power on a fault and a 360 degree rotatable base for aiming airflow at a windshield or a seat. The ceramic element self-limits its temperature, which is a safer failure mode than a bare coil.\n\nThe key fact is that 17 amps strains many vehicle accessory sockets, which are often fused at 10 or 15 amps. In practice many such heaters are limited by the socket rather than the unit. It sits in the second-lowest price tier. Compared with the VEVOR, it warms a seat or windshield, not a room; compared with the Moofey, it is ready to plug in rather than wire.\n\nOwnership is minimal. Check the socket for heat, keep the plug seated and run the engine while it is on so you do not drain the starter battery. Never leave it running while you are away.",
+   "bestFor": "Defrosting a windshield and warming a small cab.",
+   "pros": [
+    "Fuse in the plug",
+    "360 degree rotatable base",
+    "Self-limiting ceramic element",
+    "Low price tier"
+   ],
+   "cons": [
+    "17 A strains many sockets",
+    "Warms a seat, not a room",
+    "Drains a battery quickly"
+   ]
+  },
+  {
+   "id": "B0HG186B4P",
+   "rank": 3,
+   "badge": "Best Fast-Start Claim",
+   "name": "12V 200W plug-in car heater with defrost and cooling modes",
+   "amazonUrl": "https://www.amazon.com/dp/B0HG186B4P?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51QOdMEN+aL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200W",
+    "Heat + cool",
+    "5 second claim",
+    "Safety cutoff"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "200W at 12V (about 17 A)"
+    },
+    {
+     "label": "Modes",
+     "value": "Heating and cooling"
+    },
+    {
+     "label": "Heat-up",
+     "value": "5-second claim"
+    },
+    {
+     "label": "Safety",
+     "value": "Built-in protection"
+    },
+    {
+     "label": "Plug",
+     "value": "Cigarette lighter"
+    }
+   ],
+   "description": "This plug-in model leads with a five-second heat-up claim, a dual heating and cooling mode and built-in safety protection. A PTC element does warm quickly because it reaches its working temperature almost immediately, so the claim is plausible for the element itself, though the cabin will warm far more slowly. The cooling mode simply runs the fan without heat, which is handy in summer.\n\nIt shares the 17 amp draw of every 200 watt 12V unit, so the socket limit still applies. It sits in the low tier. Compared with the Blytra, it adds the cooling mode and the speed claim but lists fewer plug-level protections.\n\nOwnership is minimal: use it with the engine running, keep the vents clear and check the plug for heat after the first use.",
+   "bestFor": "Drivers who want quick defogging and a summer fan in one unit.",
+   "pros": [
+    "Heating and cooling modes",
+    "Fast-start PTC element",
+    "Built-in protection",
+    "Low price tier"
+   ],
+   "cons": [
+    "17 A strains many sockets",
+    "Warms a windshield, not a room",
+    "Speed claim covers the element only"
+   ]
+  },
+  {
+   "id": "B0FHWFKBP4",
+   "rank": 4,
+   "badge": "Best Hardwire PTC Element",
+   "name": "Moofey 200W 12V PTC ceramic air heater element",
+   "amazonUrl": "https://www.amazon.com/dp/B0FHWFKBP4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mCL3wCMjL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200W PTC",
+    "12V DC",
+    "Thermostatic",
+    "Ceramic insulated"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "200W at 12V"
+    },
+    {
+     "label": "Element",
+     "value": "PTC ceramic air heater"
+    },
+    {
+     "label": "Control",
+     "value": "Thermostatic"
+    },
+    {
+     "label": "Surface",
+     "value": "Ceramic insulated"
+    },
+    {
+     "label": "Use",
+     "value": "Builds and vehicle systems"
+    }
+   ],
+   "description": "The Moofey is a bare PTC heating element rather than a finished heater: a thermostatic 200 watt ceramic air heater with an insulated surface, meant to be built into ducting, an air curtain or a custom installation. It is a component for makers, and its listing describes uses across air conditioning, drying and automotive systems.\n\nThat makes it flexible but demanding. You supply the fan, housing, wiring, fuse and safety design, and a mistake can produce a fire hazard. It sits in the lowest price tier. Compared with the Blytra, it offers more control to a builder but no finished enclosure.\n\nOwnership is entirely up to your build. Use a fused feed, a relay rated for the current and a fan that runs whenever the element is powered. A thermal cutoff in series adds a layer of protection.",
+   "bestFor": "DIY van builders integrating a heater into ducting.",
+   "pros": [
+    "Ceramic insulated surface",
+    "Thermostatic PTC element",
+    "Flexible for custom builds",
+    "Lowest price tier"
+   ],
+   "cons": [
+    "Component, not a finished heater",
+    "Needs fan, relay and fuse design",
+    "Safety depends on your build"
+   ]
+  },
+  {
+   "id": "B081NQH1BD",
+   "rank": 5,
+   "badge": "Best 12V/24V Range",
+   "name": "Bestol 12V/24V PTC fan heater, 70W to 300W options",
+   "amazonUrl": "https://www.amazon.com/dp/B081NQH1BD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31G59Xdc0lL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "70-300W",
+    "12V/24V",
+    "PTC fan",
+    "Mounting holes"
+   ],
+   "specList": [
+    {
+     "label": "Power options",
+     "value": "70W, 120W, 150W, 300W"
+    },
+    {
+     "label": "Voltage",
+     "value": "12V or 24V versions"
+    },
+    {
+     "label": "Element",
+     "value": "PTC with fan"
+    },
+    {
+     "label": "Install",
+     "value": "Mounting holes"
+    },
+    {
+     "label": "Leads",
+     "value": "High-temperature wire"
+    }
+   ],
+   "description": "Bestol sells PTC fan heaters in several wattages from 70 to 300 watts, in 12V and 24V versions, with mounting holes and high-temperature lead wires. A 120 watt version at 12 volts draws about 10 amps. Being able to choose the wattage lets you match the heater to your fuse and wiring.\n\nThese are small fan-assisted elements for fixed installs, not plug-in gadgets. The listing is generic, so check which wattage and voltage you are ordering. It sits in the middle tier. Compared with the Moofey, it adds a fan and wattage choice; compared with the Blytra, it is hardwired.\n\nOwnership requires a fused feed, secure mounting and clear airflow around the unit. Check the wattage code before ordering.",
+   "bestFor": "Small fixed installs where you want to pick the wattage.",
+   "pros": [
+    "Choice of 70 to 300W",
+    "12V and 24V versions",
+    "Fan-assisted PTC",
+    "Mounting holes for fixed installs"
+   ],
+   "cons": [
+    "Generic listing needs careful ordering",
+    "Hardwiring required",
+    "Small heat output"
+   ]
+  },
+  {
+   "id": "B0HDCBYSTM",
+   "rank": 6,
+   "badge": "Best Heat and Cool Fan",
+   "name": "12V 150W car heater and fan, rotatable cigarette plug",
+   "amazonUrl": "https://www.amazon.com/dp/B0HDCBYSTM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Ys0jarPBL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "150W",
+    "Heat + cool",
+    "360 rotation",
+    "Defrost"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "150W at 12V (about 12.5 A)"
+    },
+    {
+     "label": "Modes",
+     "value": "Heating and cooling fan"
+    },
+    {
+     "label": "Base",
+     "value": "360 degree rotatable"
+    },
+    {
+     "label": "Plug",
+     "value": "Cigarette lighter"
+    },
+    {
+     "label": "Use",
+     "value": "Defrost, defog, small cab"
+    }
+   ],
+   "description": "This 150 watt unit draws about 12.5 amps at 12 volts and doubles as a cooling fan in summer. It rotates 360 degrees to aim at the windshield, side windows or cabin, and uses a cigarette lighter plug.\n\nThe lower wattage is easier on the socket fuse than a 200 watt model, but it also warms less. It sits in the low tier. Compared with the Blytra, it adds a cooling mode and loses power.\n\nOwnership is minimal: keep the plug seated and the vents clear. Run the engine while it is on.",
+   "bestFor": "Light defogging and small-cab warming.",
+   "pros": [
+    "Lower 12.5 A draw",
+    "Heat and cooling modes",
+    "360 degree base",
+    "Low price tier"
+   ],
+   "cons": [
+    "Only 150W of heat",
+    "Not a cabin heater",
+    "Socket fuse limits"
+   ]
+  },
+  {
+   "id": "B0FR17KM59",
+   "rank": 7,
+   "badge": "Best Constant-Temperature Mini",
+   "name": "12V 100W constant-temperature PTC fan heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0FR17KM59?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BcwNYoWWL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "100W",
+    "PTC fan",
+    "Auto regulation",
+    "Mounting holes"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "100W at 12V (about 8.3 A)"
+    },
+    {
+     "label": "Element",
+     "value": "PTC with aluminum fins"
+    },
+    {
+     "label": "Control",
+     "value": "Automatic regulation"
+    },
+    {
+     "label": "Install",
+     "value": "Mounting holes"
+    },
+    {
+     "label": "Use",
+     "value": "Small spaces"
+    }
+   ],
+   "description": "The 100 watt PTC fan heater draws about 8.3 amps and regulates its own power within a range. Aluminum fins spread heat evenly, and mounting holes allow a fixed install. It is the gentlest on a battery in this guide.\n\nAt 100 watts it can only take the edge off a tiny space, such as a cab or a closet. It sits in the second-lowest tier. Compared with the Bestol, it is a single fixed rating.\n\nOwnership is easy: fuse the feed and keep the fan clear. It suits a closet or cab corner.",
+   "bestFor": "Tiny spaces with minimal battery draw.",
+   "pros": [
+    "About 8.3 A draw",
+    "Automatic power regulation",
+    "Aluminum fin heat spread",
+    "Mounting holes"
+   ],
+   "cons": [
+    "Only 100W of heat",
+    "Hardwiring needed",
+    "Small spaces only"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "The physics of 12V heat",
+   "explanation": "A 200 watt heater at 12 volts draws about 17 amps, and one hour uses about 17 amp-hours from the battery. That heat is roughly 680 BTU per hour, about what a person gives off sitting still. Electric 12V heaters cannot warm a camper. For comparison, a typical 1,500 watt household heater makes 5,100 BTU per hour, seven times more. The honest conclusion is that 12V electric heating is a comfort accessory for the driver's seat, not a way to warm a living space."
+  },
+  {
+   "criterion": "Socket and fuse limits",
+   "explanation": "Vehicle accessory sockets are often fused at 10 or 15 amps. A 200 watt plug-in at about 17 amps can blow the fuse or overheat the socket. A 150 watt unit at 12.5 amps is a better match. Hot plugs and soft sockets are warning signs to stop using the heater."
+  },
+  {
+   "criterion": "Fuel heat versus electric",
+   "explanation": "The VEVOR burns diesel to deliver 8 kilowatts, while electric units give 100 to 300 watts. The battery only runs the fan and pump. For real heat off grid, fuel is the answer. Diesel heaters also cost pennies per hour in fuel compared with the battery capacity needed for electric heat."
+  },
+  {
+   "criterion": "Install complexity",
+   "explanation": "The VEVOR needs exhaust, intake and fuel routing, while plug-in units need nothing. Component heaters like the Moofey need a fan, relay and fuse you design. Choose based on your skill. Hire a pro for the exhaust if you are unsure."
+  },
+  {
+   "criterion": "Safety features",
+   "explanation": "The Blytra has a fuse in the plug and a self-limiting ceramic element. Any fuel heater needs a carbon monoxide alarm. Never use an unattended heater near bedding. A battery-powered CO alarm costs little and is worth owning."
+  },
+  {
+   "criterion": "Battery runtime",
+   "explanation": "A 100Ah lithium battery holds about 1,200 watt-hours of usable energy, which runs a 200 watt heater for about six hours at best. Lead-acid gives half that. Plan on heating only while the engine runs. Insulation upgrades often beat any heater purchase. A reflective window cover set often saves more heat than any small heater adds."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Watts",
+   "meaning": "Electric power; divide by 12 for amps. Check the fuse rating of your socket against that number.",
+   "watchFor": "200W is about 17 A."
+  },
+  {
+   "spec": "PTC",
+   "meaning": "Self-regulating ceramic element.",
+   "watchFor": "Blytra and Moofey use it."
+  },
+  {
+   "spec": "kW diesel",
+   "meaning": "Fuel-fired heat output. One kilowatt is about 3,412 BTU per hour, so 8 kW is roughly 27,000 BTU.",
+   "watchFor": "VEVOR lists 8 kW."
+  },
+  {
+   "spec": "Thermostatic",
+   "meaning": "Element regulates temperature.",
+   "watchFor": "Moofey lists it."
+  },
+  {
+   "spec": "Altitude compensation",
+   "meaning": "Adjusts combustion at elevation.",
+   "watchFor": "VEVOR lists it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Real heat output",
+   "description": "We converted watts to BTU and amps, so 200W is 17 A and about 680 BTU per hour. This puts every listing on the same scale."
+  },
+  {
+   "title": "Electrical limits",
+   "description": "We checked socket and fuse limits for plug-ins. A socket that overheats is a hazard."
+  },
+  {
+   "title": "Install difficulty",
+   "description": "We separated plug-in, hardwire and fuel-fired installs. Install difficulty shapes real ownership."
+  },
+  {
+   "title": "Safety",
+   "description": "We credited plug fuses and self-limiting elements. Safety features are not optional with heat."
+  },
+  {
+   "title": "Value",
+   "description": "We judged tiers from Moofey to the VEVOR. Value also includes installation time, since a cheap heater that needs a day of work is not cheap."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Heating Goal",
+   "intro": "Start here, because the heating goal decides everything. A defogged windshield and a heated camper are completely different jobs, and a 12V electric heater only suits the first.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Heat a camper off grid",
+      "VEVOR diesel",
+      "Fuel heat"
+     ],
+     [
+      "Defrost a windshield",
+      "Blytra 200W",
+      "Plug fuse"
+     ],
+     [
+      "Light cab warming",
+      "12V 150W unit",
+      "12.5 A"
+     ],
+     [
+      "Custom duct build",
+      "Moofey 200W",
+      "Component"
+     ],
+     [
+      "Tiny space",
+      "12V 100W PTC",
+      "8.3 A"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Tiers are relative. The real cost of this category is the installation and the fuel or battery capacity behind it.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Moofey",
+      "Component"
+     ],
+     [
+      "Low",
+      "12V 150W unit",
+      "Plug-in"
+     ],
+     [
+      "Lower-mid",
+      "Blytra",
+      "Fused plug"
+     ],
+     [
+      "Middle",
+      "Bestol",
+      "Wattage choice"
+     ],
+     [
+      "Top",
+      "VEVOR",
+      "Real heat"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Electric vs Diesel",
+   "cards": [
+    {
+     "label": "Electric 12V",
+     "text": "Plug-in and PTC units are simple but deliver 100 to 300 watts at heavy amp draw."
+    },
+    {
+     "label": "Diesel",
+     "text": "The VEVOR gives 8 kW from fuel with a small battery draw, but needs a proper install."
+    }
+   ],
+   "note": "For anything larger than a cab, choose fuel. If you only need a warmer seat while driving, electric is fine.",
+   "intro": "The central tradeoff is simple electricity against real heat. Electric 12V heaters are easy but weak, while a fuel-fired heater is powerful but needs a proper install."
+  },
+  {
+   "subheading": "Plug-In vs Hardwired",
+   "table": {
+    "headers": [
+     "Style",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Plug-in",
+      "Blytra or 150W unit",
+      "No install"
+     ],
+     [
+      "Hardwired",
+      "Bestol or 100W PTC",
+      "Fixed mount"
+     ],
+     [
+      "Custom",
+      "Moofey",
+      "Builder component"
+     ]
+    ]
+   },
+   "intro": "How you mount the heater matters for safety and for noise. Plug-in units go where the cable reaches, while fixed units need a deliberate location."
+  },
+  {
+   "subheading": "For Winter Van Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Fuel-fired heat, a CO alarm and good insulation."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The VEVOR is the only unit that can heat a van overnight. Pair it with window covers and a roof vent cover to hold the heat."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You camp in real cold, pointing to the VEVOR. Fuel-fired heat is the only option that scales to a whole space."
+    },
+    {
+     "label": "Save if",
+     "text": "You only defrost, pointing to the Blytra. A plug-in costs little and does one small job well."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check plug and socket",
+   "interval": "Each use",
+   "why": "Heat at the socket signals too much current. Replace worn plugs."
+  },
+  {
+   "task": "Clear vents",
+   "interval": "Seasonal",
+   "why": "Blocked airflow overheats the element. Dust blocks airflow."
+  },
+  {
+   "task": "Burn diesel heater at high",
+   "interval": "Monthly in use",
+   "why": "Clears carbon from the burn pot. Follow the manual for the exact procedure."
+  },
+  {
+   "task": "Inspect exhaust",
+   "interval": "Seasonal",
+   "why": "Leaks put CO in the cabin. Look for soot marks around joints."
+  },
+  {
+   "task": "Test the CO alarm",
+   "interval": "Monthly",
+   "why": "The alarm is the safety net."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a 12V heater warm my camper?",
+   "a": "Not an electric one. Only fuel-fired heaters can. Insulation and window covers help more."
+  },
+  {
+   "q": "How many amps does 200W draw?",
+   "a": "About 17 amps at 12 volts. That is why a 15 amp socket fuse often blows."
+  },
+  {
+   "q": "What is the price range?",
+   "a": "Tiers run from Moofey to VEVOR. Prices change, so check listings."
+  },
+  {
+   "q": "Can I run it overnight?",
+   "a": "Only the diesel unit, with a CO alarm. Never run any combustion heater without a working CO alarm."
+  },
+  {
+   "q": "Will it drain my battery?",
+   "a": "Electric ones very quickly. A lithium bank lasts about twice as long as lead-acid."
+  },
+  {
+   "q": "Is a plug-in heater safe?",
+   "a": "Only with proper fuses and supervision. Keep it away from bedding and never cover it."
+  }
+ ],
+ "relatedGuides": []
+}

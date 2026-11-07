@@ -1,0 +1,16 @@
+# 24 inch compact washers and combos (research notes)
+- A 24 inch washer is about 23 to 24 inches wide, 2.2 to 2.7 cu ft drum, often 120V, designed for apartments, closets, RVs and tiny homes.
+- Stackable washers pair with a matching 24 inch dryer; combos wash and dry in one drum, usually ventless condensing, which means slower drying and smaller dry loads than wash loads.
+- Combo dry capacity is much smaller than wash capacity (for example 26 lb wash vs 17 lb dry); overfilling gives damp clothes.
+- Ventless condensing dryers need water for the condenser (cold water tap) or a drain, and take 2 to 4 hours per load.
+- 120V models run on a normal 15 to 20 amp circuit; heated dry cycles may draw 10+ amps, so avoid sharing the circuit.
+- Most 24 inch machines need a cold water hookup and a standpipe or drain at about 30 to 36 inches height; check the manual for drain height and hose length.
+- Front-load HE washers need low-suds HE detergent, a door boot wipe and a door left ajar to avoid mildew smell.
+- Spin speed: 1,200 to 1,400 RPM extracts more water, shortening dry time; higher spin raises vibration so floor stiffness matters.
+- Transit bolts must be removed from new front loaders; leveling the four feet reduces walking and noise.
+- Steam cycles help with allergens and wrinkles but are not a stain remedy on their own.
+- Ventless combos often lack hot-water hookup, so heat comes from an internal element, lengthening cycles.
+- Weight 150 to 200 lb; floor support and stacking kits matter.
+- RV use needs fresh water capacity, gray tank capacity and a 120V supply; washers use roughly 10 to 20 gallons a cycle on HE settings.
+- Portable twin-tub and mini washers are not 24 inch front loaders; they are lighter but need manual transfer.
+- Leaks usually come from loose drain hose clamps or a failed door boot; check hoses yearly.

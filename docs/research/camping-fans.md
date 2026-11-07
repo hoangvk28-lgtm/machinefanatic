@@ -1,0 +1,16 @@
+# Camping and tent fans (research notes)
+- Most modern tent fans are USB-rechargeable 5V battery fans; true hard-wired 12V models (cigarette plug, battery clip, 12V adapter) are less common and are for campers, vans and gazebos with a 12V source.
+- 12V DC ceiling fans typically hang from a loop and plug into a battery, power bank or 12V adapter; some include remote, 3 speeds and timers; 19.7 in to 36 in blade spans are common.
+- Fan amp draw at 12V is small (often under 1 to 3 amps); a small battery can run one for many hours.
+- Rechargeable fan runtime claims are quoted on the lowest speed with the light off; high speed cuts runtime to a fraction (a 20,000 mAh fan may claim 30+ hours low but about 5 hours high).
+- 20,000 mAh at 3.7 V is about 74 Wh; at 5V USB output it is roughly 14 Ah-equivalent after conversion losses, so quoted hours depend on fan watts.
+- Rule of thumb: a 10,000 to 20,000 mAh battery fan lasts a night on low; multi-night trips want a stated low-speed runtime of 30 hours or more plus a USB-in recharge or solar option.
+- Airflow matters as much as battery size; blade size and RPM drive perceived cooling, and battery fans trade power for runtime.
+- Hanging ceiling fans circulate air; they do not cool air. A fan moves heat off skin and exhausts stale air in a tent.
+- Oscillation and a tilt head spread airflow; a tripod or stand extends use in gazebos.
+- Built-in LED lanterns on fans are convenient but drain the same battery.
+- IP-rated waterproof fans (IP67/IP68) are for vents and enclosures rather than tent comfort.
+- Quiet: brushless motors run cooler and quieter than brushed ones.
+- Charging: USB-C input charges faster than micro-USB; passthrough (use while charging) is useful in tents with a power bank.
+- Safety: keep cords out of walkways, use a fused 12V source and never leave a 12V adapter in a wet tent.
+- Hanging load: tent roof loops and poles have weight limits; a 28 in ceiling fan can weigh a pound or more.

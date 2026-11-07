@@ -1,0 +1,15 @@
+# Paper shredders research
+- Sheet rating is for 20 lb (75 gsm) letter paper fed fresh at full voltage; staples, folded sheets, or 24 lb paper cut real capacity by 2 to 4 sheets. Buy one step above your usual stack.
+- Cut types: strip cut (long ribbons, P-2), cross cut (confetti, P-3 or P-4), micro cut (tiny particles, P-4 or P-5). DIN 66399 P levels: P-2 strips up to 6 mm wide, P-4 particles under 160 mm2, P-5 under 30 mm2.
+- Micro cut reduces sheet capacity versus cross cut at the same price and wears cutters faster, but gives far smaller particles for identity documents.
+- Duty cycle: run time before the motor overheats (about 5 to 10 min on home units, 30 to 60 min on heavier units), then a cooldown of 20 to 60 min. A thermal cutoff protects the motor.
+- Anti-jam / auto-reverse detects overload and backs the paper out; touch-stop systems halt when hands near the opening.
+- Bin volume: 4 to 6 gallon bins fill quickly; micro-cut chips are denser.
+- Credit cards, CDs, staples and paper clips: many cross-cut units accept them but at reduced pace; check which. Low-end models skip staples.
+- Noise: typically 55 to 75 dB; lower sheet counts and slower speed make quieter units.
+- Oil: cutters of some micro-cut machines need lubricant monthly to avoid gummy buildup; many cross-cut units claim oil-free design.
+- Auto feed (loading 100 to 200 sheets) trades capacity for convenience; manual slot counts are far smaller (8 to 12 sheets).
+- Motor type: induction motors last longer than universal motors but cost more; cheap 10-minute models use small universal motors.
+- Security: for bank statements and medical papers use P-3 or P-4 at minimum.
+- A window on the bin shows fullness; overfilled bins cause sensors to fault and jam the cutter.
+- Unplug before clearing a jam.

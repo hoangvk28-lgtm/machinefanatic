@@ -1,0 +1,16 @@
+# Label printers research
+- Two families: handheld label makers (TZe laminated tape, thermal transfer, 3.5 to 24 mm and wider), and desktop thermal printers (direct thermal rolls, 2 inch to 4 inch, shipping labels).
+- Brother TZe tape widths: 3.5, 6, 9, 12, 18, 24, 36 mm. A printer's maximum width does not stop it using narrower tapes, but print height scales with the tape.
+- Laminated TZe tape: print is sandwiched between films, so it resists water, UV and abrasion; non-laminated cheaper tapes can smudge. Tape cartridges cost more per inch than thermal rolls.
+- Direct thermal prints with a heated head on heat-reactive paper; no ink, but labels fade with heat, sunlight and time. Thermal transfer uses a ribbon for durable prints.
+- Print resolution: 180 dpi, 203 dpi (8 dots per mm), 300 dpi, 600 dpi. 203 dpi is standard for shipping labels and large barcodes; 300 dpi gives sharper small text and tiny 2D codes.
+- Print speed in inches per second (ips): desktop industrial units range about 4 to 8 ips; label makers are much slower.
+- Core size: desktop 4-inch printers take 1 inch core rolls; some models adapt to other cores through adapters.
+- Zebra ZPL and EPL language compatibility is the industry norm; check driver support for macOS and the shipping platform.
+- Bluetooth label makers rely on a phone app; if the app is dropped, features go with it. Prefer models with a standalone keyboard or USB drivers.
+- Locked RFID/chip media: some printers only accept the maker's rolls; unlocked models accept third-party labels and are cheaper to run.
+- 2D barcodes (QR, Data Matrix, PDF417) need adequate dpi: 203 dpi supports QR at about 15 to 20 mil cell size; below this scanners struggle.
+- Batteries: handheld units run on AA or rechargeable packs; AC adapters are often optional.
+- Cutters: auto-cut versus manual cut; half-cut options help sticker-style labels.
+- Cleaning: wipe the print head with isopropyl alcohol periodically on thermal printers; the platen roller wears.
+- Printhead life is measured in kilometres of print (for example 50 km on entry desktop models).

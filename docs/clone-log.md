@@ -148,3 +148,24 @@ Notes: best-air-purifier-under-500 reuses 3 products from under-300 (only 2 new 
 |---|---|
 | best-cordless-lawn-edger-under-100 | Under $100 only cordless string trimmers sold as 2-in-1 and corded units; no cordless blade edger |
 Notes: best-3d-printers-under-300 has 4 distinct machines (several duplicate listings collapsed); best-power-inverters-under-50 reached 4 under-cap items after one extra search; edger under-300/under-500 and chainsaw under-200 reuse picks from lower caps. Word counts 2,717 to 3,320 (below the 3,300 target on most).
+
+### Prefilter skips (2026-11-07)
+| Skipped slug | Reason |
+|---|---|
+| best-1-75mm-3d-printer-filaments | prefilter: only 0 distinct items match brand 1 after extra searches |
+| best-1200-dpi-label-printers | prefilter: only 2 distinct items match brand 1200 after extra searches |
+| best-13500-btu-rv-air-conditioner | prefilter: only 2 distinct items match brand 13500 after extra searches |
+| best-16-color-3d-printers | prefilter: only 3 distinct items match brand 16 after extra searches |
+| best-20000-btu-rv-air-conditioner | prefilter: only 1 distinct items match brand 20000 after extra searches |
+| best-3-gallon-humidifiers | prefilter: only 3 distinct items match 3 gallon after extra searches |
+
+## Round 5 (2026-11-07, mixed "best" topics, 2 Sonnet agents): 46 written, 8 skipped
+| Skipped slug | Reason |
+|---|---|
+| best-1kg-3d-printer-filaments | No machines in data |
+| best-0-2mm-3d-printer-nozzles / best-0-4mm-3d-printer-nozzles | Consumables, not machines |
+| best-1000mm-3d-printers | No real 1000mm printers |
+| best-100mm-label-printers | Only 1 real printer |
+| best-24mm-label-printers | Only 3 true 24mm printers |
+| best-2-5-gpm-rv-water-pump / best-2-8-gpm-rv-water-pump | No or 1 matching pump |
+Notes: words 2,704 to 3,391 (selfcheck band 2,700-3,400 blocks the 3,300+ target); 15 research files written without web search; 2-color 3D guide widened to 4-slot multicolor; 12V RV heater and 12V tent fan guides are thin on true matches.

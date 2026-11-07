@@ -1,0 +1,17 @@
+# RV fresh water pumps (research notes)
+- Most RV pumps are positive-displacement diaphragm pumps with an integral pressure switch: they run on demand when a tap opens and shut off at cut-off pressure.
+- Typical RV plumbing wants 40 to 55 PSI; below about 40 PSI flow feels weak, above about 70 PSI risks fittings and PEX connections. Many 12V pumps are 3.0 to 3.5 GPM at 45 to 55 PSI.
+- Higher GPM (5 to 7.5 GPM, 70 PSI) pumps move more water but draw more current and push pressure beyond what thin RV plumbing likes; a pressure regulator is wise.
+- Shurflo 4008 (3.0 GPM, 55 PSI) is the long-standing OEM reference; Seaflo 33, 42 and 55 series are common copies/alternatives at lower price tiers.
+- Seaflo 42 series adds an internal bypass valve to reduce cycling; Seaflo 55 series is 5.5 GPM at 60 PSI.
+- Noise comes from the diaphragm and the pump vibrating on the floor: rubber mounts, soft hose sections and an accumulator tank reduce pulsing and cycling.
+- Accumulator tank smooths flow and reduces on/off cycling; pre-charge about 2 PSI under the pump cut-in pressure.
+- Strainer (inlet filter) protects the check valves and pressure switch; clogged strainers are a top cause of flow loss and pump failure.
+- Self-priming lift: most diaphragm pumps lift 6 to 10 ft; dry running briefly is tolerated but not for long.
+- Amp draw: 3 GPM pumps typically 7 to 10 amps at 12V under load; use a properly fused feed (15A typical) and adequate wire gauge.
+- 110V AC pumps are for shore-powered or stationary use; they stop working with no AC, so most trailers keep a 12V pump.
+- 24V pumps suit 24V bus, truck and boat systems; same diaphragm design at lower current.
+- Winterize by draining and blowing out lines or running RV antifreeze through the pump; ice cracks the pump head.
+- Common failure: a stuck pressure switch causing a pump that cycles with no tap open, which usually points to a leak or a failed check valve.
+- Replacement pumps use 1/2 inch NPT or barbed fittings; verify port style and mounting footprint to avoid plumbing changes.
+- Pump should sit lower than or close to the tank so it self-primes easily; keep suction line short and straight.

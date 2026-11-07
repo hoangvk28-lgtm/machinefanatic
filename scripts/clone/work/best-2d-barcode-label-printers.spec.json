@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-2d-barcode-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "2d barcode label printers",
+ "guideTitle": "Best 2D Barcode Label Printers (2026)",
+ "metaTitle": "Best 2D Barcode Label Printers (2026)",
+ "metaDescription": "Six thermal label printers that print QR and other 2D barcodes compared on resolution, label width, connectivity and consumable lock-in for small businesses.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41g2lBYNx7L._SL500_.jpg",
+ "expertTake": "The Zebra GX420d is the pick for most small businesses: a proven 203 dpi desktop printer with USB, Ethernet and serial, supported by every barcode software package. The Phomemo M110 is the value pick for QR stickers from a phone. If you print small data-dense codes such as Data Matrix on tiny parts, skip every 203 dpi printer here and buy a 300 dpi model.",
+ "introParagraphs": [
+  "Two-dimensional barcodes pack more data into a smaller square than the stripes of a linear code, which makes them popular for inventory, product pages, asset tags and tickets. The printer matters because a code that is slightly too small, too light or smeared will not scan, however good the design looks on screen. Scan reliability matters more than looks, so test early.",
+  "This guide explains what resolution a 2D code needs, how label stock and print method affect scanning, and which printers lock you into proprietary rolls. Use the picks above as a shortlist, then read the reviews to match one to the codes you actually print."
+ ],
+ "products": [
+  {
+   "id": "B0GQ46NGQV",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Zebra GX420d Direct Thermal Label and Barcode Printer",
+   "specs": [
+    "Direct thermal",
+    "USB and Ethernet",
+    "Serial port",
+    "No ribbon"
+   ],
+   "specList": [
+    {
+     "label": "Method",
+     "value": "Direct thermal, no ribbon"
+    },
+    {
+     "label": "Connectivity",
+     "value": "USB, Ethernet, serial"
+    },
+    {
+     "label": "Media",
+     "value": "Direct thermal label rolls"
+    },
+    {
+     "label": "Print use",
+     "value": "Address, shipping, barcode labels"
+    },
+    {
+     "label": "Brand language",
+     "value": "Zebra ZPL"
+    }
+   ],
+   "description": "The GX420d is a long-running Zebra workhorse for address, shipping and barcode labels. It connects through USB, Ethernet or serial, prints direct thermal so no ribbon or ink is needed, and accepts standard thermal label rolls. The listing says it is built for rapid printing and energy efficiency, and its Zebra heritage means every major label software package already has a driver.\n\nFor 2D codes the important facts are print resolution and media. The model family prints at 203 dpi by default, which supports QR codes at normal sizes, such as a square about an inch across. It does not suit very small, data-dense codes. Against the newer ZD220, the GX420d offers more connection options and a more industrial feel, and its serial port keeps older systems working.\n\nOwnership is routine. Clean the head with alcohol, calibrate when you change stock and buy rolls that match the platen width. Because it uses standard rolls, you are not locked into one supplier. When you first connect it to a spreadsheet-driven workflow, print a batch of five labels and scan each one before releasing the whole run.",
+   "bestFor": "A small business that needs reliable QR and barcode labels with wide software support.",
+   "pros": [
+    "Zebra driver and ZPL support everywhere",
+    "USB, Ethernet and serial connections",
+    "Standard thermal rolls with no lock-in",
+    "No ink, toner or ribbon"
+   ],
+   "cons": [
+    "Older design without wireless",
+    "Standard resolution limits tiny codes"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GQ46NGQV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41g2lBYNx7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B085TC3SH7",
+   "rank": 2,
+   "badge": "Best Compact Zebra",
+   "name": "Zebra ZD220 Direct Thermal USB Barcode Label Printer",
+   "specs": [
+    "Direct thermal",
+    "USB plug and play",
+    "Compact desktop",
+    "Windows and Mac"
+   ],
+   "specList": [
+    {
+     "label": "Method",
+     "value": "Direct thermal, no ink or ribbon"
+    },
+    {
+     "label": "Connectivity",
+     "value": "USB plug and play"
+    },
+    {
+     "label": "Operating systems",
+     "value": "Windows and Mac"
+    },
+    {
+     "label": "Footprint",
+     "value": "Compact desktop"
+    },
+    {
+     "label": "Use",
+     "value": "Barcode, shipping labels"
+    }
+   ],
+   "description": "The ZD220 is the entry Zebra: direct thermal, USB only, and a compact body that sits comfortably on a small desk. The listing highlights plug-and-play installation on Windows and Mac, which is a real advantage for a shop with no IT person. It prints barcode and shipping labels without ink, toner or ribbons.\n\nFor 2D codes it behaves like the GX420d at the same standard resolution, so QR codes at an inch or larger scan cleanly, while tiny codes will not. What it gives up is connectivity: it has only USB, so it is one machine for one computer. A network of several packers needs a model with Ethernet.\n\nChoose it when you want a Zebra at the lowest cost and your workflow involves a single station. Keep the head clean, match the roll width and store the spare roll in a cool cabinet. If you outgrow it, the same drivers and label designs move straight to a networked Zebra, so little work is lost. Keep the original box and USB cable for the first month, since a cable fault is the most common false alarm.",
+   "bestFor": "A single-station shop that wants a Zebra with minimal setup.",
+   "pros": [
+    "Plug-and-play on Windows and Mac",
+    "Compact desktop footprint",
+    "No ink, toner or ribbon",
+    "Zebra software support"
+   ],
+   "cons": [
+    "USB only, no network option",
+    "Lower duty cycle than the GX420d"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B085TC3SH7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413H0XhFrBL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01MA3EYC5",
+   "rank": 3,
+   "badge": "Best for Shipping Labels",
+   "name": "Rollo USB 4x6 Thermal Shipping Label Printer",
+   "specs": [
+    "4x6 labels",
+    "USB",
+    "Windows and Mac",
+    "Free ship app"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4 x 6 inch"
+    },
+    {
+     "label": "Method",
+     "value": "Direct thermal"
+    },
+    {
+     "label": "Connectivity",
+     "value": "USB"
+    },
+    {
+     "label": "Compatibility",
+     "value": "Windows XP and newer, Mac 10.9 and newer"
+    },
+    {
+     "label": "Software",
+     "value": "Free Rollo Ship app"
+    }
+   ],
+   "description": "Rollo built its name on cheap, fast 4x6 thermal printers, and the USB model is the one most online sellers know. It works with Windows and Mac, includes a free shipping app that lets you connect marketplaces and print postage, and prints without ink or toner. It is high speed and the listing stresses the saving over cartridge printers.\n\nFor 2D codes, the main job is the shipping label, which already carries a barcode and sometimes a QR code. A 4x6 platen makes large, easy-to-scan codes simple. It is not an industrial machine and its consumables are not locked, but its rolls and the software are tuned for shipping, not inventory.\n\nAgainst the Zebra GX420d, the Rollo is cheaper and simpler, with less industrial service. Pair it with quality labels and keep the platen clean. Choose a roll with a perforated edge if you hand-apply labels to parcels, and set the darkness to the lowest level that still scans, which extends printhead life. The included app is useful but a plain driver is more dependable for batch jobs.",
+   "bestFor": "An online seller who ships daily and prints large barcodes and QR codes.",
+   "pros": [
+    "High-speed 4x6 thermal printing",
+    "Free shipping app included",
+    "Works on Windows and Mac",
+    "No ink or toner"
+   ],
+   "cons": [
+    "Aimed at shipping, not small inventory tags",
+    "Less industrial support than Zebra"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B01MA3EYC5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41+ONy0DNTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07XXB2MXN",
+   "rank": 4,
+   "badge": "Best Phone Label Maker",
+   "name": "Phomemo M110 Portable Bluetooth Thermal Label Printer",
+   "specs": [
+    "2 inch labels",
+    "Bluetooth 4.0",
+    "Print Master app",
+    "Rechargeable"
+   ],
+   "specList": [
+    {
+     "label": "Label width",
+     "value": "Up to 2 inch class"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth 4.0, about 33 ft"
+    },
+    {
+     "label": "App",
+     "value": "Print Master"
+    },
+    {
+     "label": "Method",
+     "value": "Thermal"
+    },
+    {
+     "label": "Use",
+     "value": "Barcode stickers, small labels"
+    }
+   ],
+   "description": "The Phomemo M110 is a small portable thermal printer driven by the Print Master app over Bluetooth 4.0, with a stated range of about 33 feet. It prints barcode stickers and small labels on continuous or gap rolls up to roughly two inches wide, and the app includes templates and a barcode and QR code tool.\n\nIt is the budget choice for tags, shelf labels and small product stickers. A phone-driven workflow means you can design a QR sticker in minutes, but it also means your label library lives in an app. The printer is small and light, so print speed and capacity are modest. Compared with the Zebra GX420d, it gives up industrial durability for portability and cost.\n\nThe resolution is the typical 203 dpi class, which is fine for QR codes at about an inch. Test scan every new design on your own reader before printing a roll. Keep your template files backed up on a computer, not only in the app, so a phone change does not erase a year of designs. Pick a label gap that matches the roll you buy, and print at a medium darkness to avoid smudged squares in the QR grid.",
+   "bestFor": "Makers and small sellers who print QR stickers from a phone.",
+   "pros": [
+    "Compact portable body",
+    "Bluetooth with the Print Master app",
+    "Templates and a QR tool included",
+    "Low cost per label"
+   ],
+   "cons": [
+    "App dependence for all designs",
+    "Low-volume machine"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07XXB2MXN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51q9IAWxDjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F12CNQKP",
+   "rank": 5,
+   "badge": "Best Open Label Supply",
+   "name": "CLABEL 221B 2-Inch Bluetooth Thermal Label Printer",
+   "specs": [
+    "25 to 50mm labels",
+    "No RFID lock",
+    "Bluetooth app",
+    "3 rolls included"
+   ],
+   "specList": [
+    {
+     "label": "Label width",
+     "value": "25 to 50mm (0.98 to 2 inch)"
+    },
+    {
+     "label": "Media lock-in",
+     "value": "None, no RFID chips"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth, app"
+    },
+    {
+     "label": "Method",
+     "value": "Inkless thermal"
+    },
+    {
+     "label": "Bundle",
+     "value": "3 label rolls"
+    }
+   ],
+   "description": "CLABEL sells the 221B with an open label policy: no RFID chips and no brand lock-in, so any standard thermal roll in its width range works. It supports label widths from 25 to 50mm and comes with three rolls. A Bluetooth app named for the brand handles templates and barcodes.\n\nOpen media is a bigger deal than it sounds, because proprietary label rolls are how many cheap printers recover their price over time. A printer that accepts generic rolls keeps the cost per label low and the supply flexible. Its CLABEL sibling desktop model lists 203 dpi and QR code support, which suggests the same class of print quality here.\n\nAgainst the Phomemo M110, the 221B is more of a desktop unit with a paper bin on its sibling. Check the dpi on the exact listing before relying on tiny QR codes, and scan-test every design. Because rolls are open, buy one trial pack from a second supplier and compare scan rates before you commit to a large order. Store spare rolls in a sealed bag, away from sunlight and warm shelves.",
+   "bestFor": "A small business that wants to avoid proprietary label rolls.",
+   "pros": [
+    "No RFID lock or proprietary media",
+    "Supports 25 to 50mm labels",
+    "Three rolls included",
+    "Inkless thermal printing"
+   ],
+   "cons": [
+    "App-driven workflow",
+    "Newer brand with limited support history"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0F12CNQKP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UuXj2ChIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GJTX57BT",
+   "rank": 6,
+   "badge": "Best Template Library",
+   "name": "Rongta Bluetooth Thermal Label Maker for Office and Small Business",
+   "specs": [
+    "Bluetooth app",
+    "Rechargeable",
+    "40+ fonts",
+    "1500+ icons"
+   ],
+   "specList": [
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth, iOS and Android"
+    },
+    {
+     "label": "Method",
+     "value": "Inkless thermal"
+    },
+    {
+     "label": "Power",
+     "value": "Built-in rechargeable battery"
+    },
+    {
+     "label": "Library",
+     "value": "40+ fonts, 230+ borders, 1500+ icons"
+    },
+    {
+     "label": "Use",
+     "value": "Office, home, small business"
+    }
+   ],
+   "description": "Rongta's Bluetooth label maker pairs a rechargeable battery with an app offering 40-plus fonts, 230-plus borders and 1,500-plus icons. It works with both iOS and Android and prints inkless thermal labels. Rongta is better known for POS and receipt printers, so the hardware lineage is solid.\n\nFor 2D codes, the app can generate QR codes, but the real question is resolution and label size, which the listing does not state in detail. Treat it as a design-oriented label maker for stickers and tags rather than a barcode workhorse. Compared with the CLABEL, the Rongta has a bigger template library and a rechargeable pack.\n\nAs with every app-dependent printer, store your designs externally and scan-test any code before a big print run. Charge it fully before long sessions. The large icon and border library is fun, but busy backgrounds hurt scanning, so keep the area around a QR code plain white. Charge the battery fully before a long session and keep a USB cable in the same drawer.",
+   "bestFor": "An office or home user who wants a large template library for stickers and tags.",
+   "pros": [
+    "Large library of fonts, borders and icons",
+    "Built-in rechargeable battery",
+    "Works with iOS and Android",
+    "Rongta printer heritage"
+   ],
+   "cons": [
+    "Resolution not clearly stated",
+    "Weaker fit for dense 2D codes"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GJTX57BT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51fAFb2hntL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Resolution for 2D codes",
+   "explanation": "A QR code is a grid of squares, and each square must be at least a few printer dots wide. At 203 dpi, an inch-square QR code with a typical version prints cleanly, while very small or dense Data Matrix codes need 300 dpi. If you print tiny codes, buy a higher-resolution printer than anything here. Print the smallest code you plan to use on the actual label and scan it with the cheapest reader you own."
+  },
+  {
+   "criterion": "Label size and quiet zone",
+   "explanation": "Every 2D code needs a blank border called a quiet zone, usually four modules wide. A 25mm label that holds a QR code and text leaves little room, so pick label stock at least 1 by 1.5 inch for readable codes. The Phomemo M110 and CLABEL 221B accept up to about 2 inches. If labels are applied to curved surfaces, add extra white margin because scanners lose small codes on curves."
+  },
+  {
+   "criterion": "Proprietary versus open media",
+   "explanation": "The CLABEL 221B states no RFID lock, while some budget printers only accept their own rolls. Open media keeps cost per label low. The Zebra GX420d and ZD220 accept standard thermal rolls. Compare the price per label across three suppliers before you decide the true cost."
+  },
+  {
+   "criterion": "Connectivity and workflow",
+   "explanation": "The Zebra models connect by USB, Ethernet or serial for software workflows, and the Phomemo M110, CLABEL and Rongta rely on Bluetooth apps. If your inventory system prints automatically, choose a printer with a driver and a network or USB connection. Check that the driver is supported on your operating system version and not only on older ones."
+  },
+  {
+   "criterion": "Print method and fading",
+   "explanation": "All six use direct thermal, so prints fade with heat and sun over months or years. A QR code that must scan after a year in a warm warehouse will need a thermal transfer printer instead. If you put labels in a hot place, plan for replacement every year or two."
+  },
+  {
+   "criterion": "Support and software",
+   "explanation": "Zebra's ZPL language is accepted by most inventory systems. App-only printers lock you into one designer. Test the software you plan to use before you commit to a printer. Ask whether the software can read a CSV so you can print hundreds of codes from a sheet."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "dpi",
+   "meaning": "Dots per inch. More dots give sharper small codes. Many QR generators let you set the module size to match your printer.",
+   "watchFor": "203 dpi is standard for these printers, with tiny codes needing 300."
+  },
+  {
+   "spec": "Quiet zone",
+   "meaning": "The blank border around a 2D code that scanners need. About four modules wide. A wider quiet zone is always safer than a narrow one.",
+   "watchFor": "A crowded label can fail to scan even if the code is large."
+  },
+  {
+   "spec": "Direct thermal",
+   "meaning": "Heat-sensitive paper prints with no ink. Labels fade with heat and sun. Direct thermal also scratches easily, so avoid rough handling.",
+   "watchFor": "All six printers here use it."
+  },
+  {
+   "spec": "RFID lock",
+   "meaning": "A chip in a roll that restricts a printer to branded media. It raises cost per label. Open media simply means any compatible roll will work.",
+   "watchFor": "The CLABEL 221B states no lock."
+  },
+  {
+   "spec": "ZPL",
+   "meaning": "Zebra's printer language used by inventory and shipping software. Free ZPL tools exist for testing codes.",
+   "watchFor": "Only the Zebra models use it natively."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Resolution and code size",
+   "description": "We looked at stated dpi and label widths. Zebra models and the CLABEL list standard 203 dpi, which suits QR codes of an inch or more. Standard resolution scored acceptable for ordinary QR sizes."
+  },
+  {
+   "title": "Media openness",
+   "description": "We checked for proprietary rolls. The CLABEL 221B's no-lock policy and Zebra's standard rolls score best, based on the spec sheet. Open media earned extra credit."
+  },
+  {
+   "title": "Connectivity",
+   "description": "We counted USB, Ethernet, serial and Bluetooth. The GX420d covers three wired interfaces. Wired links beat Bluetooth for batch jobs."
+  },
+  {
+   "title": "Portability",
+   "description": "We looked at battery and size. The Phomemo M110 and Rongta are portable, while the Zebras are desktop units. Portable battery units lost points for sustained volume."
+  },
+  {
+   "title": "Support and software",
+   "description": "We weighed driver coverage and brand history, judged against owner feedback patterns. We evaluated each unit against the same checklist. Software maturity counted more than design libraries."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Inventory system with software",
+      "Zebra GX420d",
+      "USB, Ethernet and ZPL"
+     ],
+     [
+      "Single desk, simple setup",
+      "Zebra ZD220",
+      "USB plug and play"
+     ],
+     [
+      "Daily shipping labels",
+      "Rollo USB 4x6",
+      "Large codes and ship app"
+     ],
+     [
+      "QR stickers from a phone",
+      "Phomemo M110",
+      "Bluetooth and templates"
+     ],
+     [
+      "No proprietary rolls",
+      "CLABEL 221B",
+      "Open media"
+     ],
+     [
+      "Product pages with QR links",
+      "Phomemo M110",
+      "Quick QR stickers from a phone"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Phomemo M110",
+      "Portable thermal"
+     ],
+     [
+      "Lower mid",
+      "Rongta Bluetooth",
+      "Template library"
+     ],
+     [
+      "Mid",
+      "CLABEL 221B",
+      "Three rolls included"
+     ],
+     [
+      "Upper mid",
+      "Rollo USB 4x6",
+      "Shipping speed"
+     ],
+     [
+      "Higher",
+      "Zebra GX420d",
+      "Industrial service"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Zebra vs App-Driven",
+   "cards": [
+    {
+     "label": "Zebra",
+     "text": "The GX420d and ZD220 use drivers and ZPL. They fit any inventory or shipping software and run all day."
+    },
+    {
+     "label": "App-driven",
+     "text": "The Phomemo M110, CLABEL and Rongta print from a phone. They suit design-heavy, low-volume work."
+    }
+   ],
+   "note": "Choose Zebra for a system, app-driven for stickers and tags. Either way, scan-test a printed sample before releasing a full roll."
+  },
+  {
+   "subheading": "Label Size",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "4x6 labels",
+      "Rollo USB 4x6",
+      "Large platen"
+     ],
+     [
+      "Up to 2 inch",
+      "CLABEL 221B",
+      "25 to 50mm range"
+     ],
+     [
+      "Tiny tags",
+      "Phomemo M110",
+      "Small labels from a phone"
+     ],
+     [
+      "Mixed roll sizes",
+      "Zebra GX420d",
+      "Adjustable guides"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Small Inventory Tags Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "At least 203 dpi, label stock of an inch or more, and a driver that prints from your spreadsheet. Scan-test every design."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Zebra GX420d and CLABEL 221B are the best fits, one for systems and one for open media."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Labels print all day or must integrate with software. The Zebra GX420d earns its price."
+    },
+    {
+     "label": "Save if",
+     "text": "You print a few stickers a week. The Phomemo M110 covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the printhead",
+   "interval": "Every 1 to 2 rolls",
+   "why": "Adhesive and dust cause streaks that break 2D codes. Use isopropyl alcohol on a swab. Let the alcohol dry before reloading labels."
+  },
+  {
+   "task": "Scan-test every new design",
+   "interval": "Before each run",
+   "why": "A code that looks good can fail on a reader. A quick test saves a wasted roll. Keep a handheld scanner at the printer for quick checks."
+  },
+  {
+   "task": "Calibrate the media",
+   "interval": "After stock changes",
+   "why": "The printer must learn the gap. Without it labels skip or print off center. Label the shelf with the stock width."
+  },
+  {
+   "task": "Charge portable units",
+   "interval": "Before long sessions",
+   "why": "Weak batteries print lightly, which hurts scanning. Unplug the cable gently to avoid bent pins."
+  },
+  {
+   "task": "Store labels cool",
+   "interval": "Ongoing",
+   "why": "Heat darkens direct thermal paper and shortens its life. A sealed bag protects the rolls."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What dpi do I need for QR codes?",
+   "a": "203 dpi is fine for QR codes about an inch across. Tiny or dense codes such as Data Matrix on small parts need 300 dpi or more. A rule of thumb is to make the code as large as the label allows, not as small as the scanner can read."
+  },
+  {
+   "q": "Will thermal labels fade?",
+   "a": "Yes, direct thermal labels fade with heat and sunlight. For labels that must last years, use a thermal transfer printer with a ribbon. A photocopy test, where you print on plain paper first, shows whether the design is sound before you waste labels."
+  },
+  {
+   "q": "Do I need a Zebra?",
+   "a": "Not for stickers. For inventory systems, Zebra drivers and ZPL are the safest. App-driven printers are fine for small jobs. Zebra also sells a free utility to configure printers, which helps on the first day."
+  },
+  {
+   "q": "Why does my QR code not scan?",
+   "a": "Common causes are a missing quiet zone, a light print, too small a size or a dirty head. Print a larger version and clean the head. Clean the head, increase the darkness slightly and reprint a single label before changing the design."
+  },
+  {
+   "q": "What is an RFID lock?",
+   "a": "A chip in the roll that tells the printer to accept only branded rolls. It raises label cost. Open-media printers like the CLABEL avoid it. A printer that needs only standard rolls will stay useful even if the maker changes its range."
+  },
+  {
+   "q": "Can I print from a spreadsheet?",
+   "a": "Yes with a driver and label software on a Zebra or Rollo. App-driven printers can import some data but are weaker for batches. Keep the spreadsheet column names simple to avoid import errors."
+  }
+ ],
+ "relatedGuides": []
+}

@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-12v-rv-air-conditioner",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best 12v rv air conditioner",
+ "guideTitle": "Best 12V RV Air Conditioners (2026)",
+ "metaTitle": "Best 12V RV Air Conditioners (2026)",
+ "metaDescription": "Six 12V DC rooftop RV air conditioners from 8,500 to 12,000 BTU, compared by compressor type, heating ability, weight and realistic battery runtime.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/415dARJ2kvL._SL500_.jpg",
+ "expertTake": "The Gidrox 12,000 BTU heat pump is the best overall pick because its 9,000 BTU heating rating and roughly 350W average draw claim make it the most useful all-season 12V unit here. The 8,500 BTU model is the value pick for a small van where size and weight matter. Anyone expecting a 12V unit to cool a 30 foot trailer should skip this category and look at a 120V unit.",
+ "introParagraphs": [
+  "A 12V rooftop air conditioner is built for battery-powered living: vans, truck campers, skoolies and small trailers where a generator is unwelcome. Compressors, fans and controls all run on direct current, so there is no inverter between the battery and the cooling.",
+  "The category spans a wide range of capacities and heating methods. The sensible way to shop is to decide how many amps your battery system can deliver, how cold your nights get, and how much weight your roof can carry before comparing anything else."
+ ],
+ "products": [
+  {
+   "id": "B0HNJZTY1S",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Gidrox 12,000 BTU 12V inverter AC with 9,000 BTU heat pump",
+   "amazonUrl": "https://www.amazon.com/dp/B0HNJZTY1S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415dARJ2kvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "12,000 BTU",
+    "9,000 BTU heat",
+    "~350W average",
+    "43 dB"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "12,000 BTU inverter"
+    },
+    {
+     "label": "Heating",
+     "value": "9,000 BTU heat pump"
+    },
+    {
+     "label": "Draw",
+     "value": "About 350W average claimed"
+    },
+    {
+     "label": "Noise",
+     "value": "40 to 43 dB claimed"
+    },
+    {
+     "label": "Power",
+     "value": "12V DC, no inverter"
+    }
+   ],
+   "description": "The Gidrox is the largest-capacity unit in this guide at 12,000 BTU and the only one to pair it with a 9,000 BTU heat pump. A heat pump moves heat from outside to inside, so in moderate weather it can deliver far more warmth per watt than a resistance heater, and the listing claims roughly 65 percent savings against standard heaters. The listing also quotes an average draw of about 350 watts while cooling, which is about 29 amps at 12 volts.\n\nThat average draw is a steady-state number after the cabin cools, not the surge at startup, and it will be higher in a hot, poorly insulated space. The noise figure is a claim too, listed as 40 dB in sleep mode and 43 dB elsewhere. Compared with the Xenjum, it offers more heating capacity but likely more weight; compared with the Sunster, it adds heat and sits in a higher price tier.\n\nOwnership comes down to cable, fuse and filter discipline. Use heavy cable with a correctly rated fuse, set a low-voltage cutoff, and clean the filter monthly in dusty camps. Heat pump output falls near freezing, so keep a backup heater if you winter camp. Registering the warranty and keeping install photos makes any later claim much simpler. Because its capacity is high, it also finishes cooling faster, which shortens the high-current phase of each cycle.",
+   "bestFor": "Four-season van and camper owners with a large lithium bank.",
+   "pros": [
+    "9,000 BTU heat pump rating",
+    "Claimed 350W average cooling draw",
+    "Runs direct on 12V DC",
+    "Largest cooling capacity here"
+   ],
+   "cons": [
+    "Highest price tier of the group",
+    "Heat pump weakens near freezing",
+    "Noise and draw figures are maker claims"
+   ]
+  },
+  {
+   "id": "B0FDG8XSK2",
+   "rank": 2,
+   "badge": "Best Protected Compressor",
+   "name": "Sunster 12,000 BTU 12V variable-frequency AC",
+   "amazonUrl": "https://www.amazon.com/dp/B0FDG8XSK2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jAmyBxhAL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "12,000 BTU",
+    "Variable-frequency",
+    "Low-volt cutoff",
+    "4 modes"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "12,000 BTU"
+    },
+    {
+     "label": "Compressor",
+     "value": "12V DC variable-frequency"
+    },
+    {
+     "label": "Protection",
+     "value": "Low-voltage cutoff"
+    },
+    {
+     "label": "Modes",
+     "value": "4 operating modes"
+    },
+    {
+     "label": "Housing",
+     "value": "Steel exterior, ABS interior"
+    }
+   ],
+   "description": "Sunster builds around a 12V DC variable-frequency compressor and highlights built-in low-voltage protection, which is the feature that keeps a battery from being pulled to damaging levels. The steel exterior and ABS interior suggest a sturdier shell than some all-plastic rivals, and four operating modes give some control over fan and cooling behavior.\n\nIt is a cooling-focused unit at the same 12,000 BTU class as the Gidrox but without the 9,000 BTU heat pump, so it suits warm-climate owners. The price tier is unlisted in our data, so check the listing. Against the Xenjum, it trades the heater and light weight for cutoff protection and a steel body.\n\nOwnership benefits from the low-voltage cutoff, which acts as a safety net when a bank sags. Still verify the cutoff value against your battery chemistry, clean the filter, and check the roof gasket annually. The steel body also tends to stay rigid on rough roads, which helps the gasket stay sealed.",
+   "bestFor": "Hot-climate owners who want battery protection built in.",
+   "pros": [
+    "Built-in low-voltage protection",
+    "Variable-frequency 12V compressor",
+    "Steel exterior housing",
+    "Four operating modes"
+   ],
+   "cons": [
+    "No heating function",
+    "Price tier unlisted",
+    "Steel body adds weight"
+   ]
+  },
+  {
+   "id": "B0GXHKQK2W",
+   "rank": 3,
+   "badge": "Best Lightweight",
+   "name": "Xenjum 11,000 BTU 12V AC with 4,500 BTU heater, 43 lb",
+   "amazonUrl": "https://www.amazon.com/dp/B0GXHKQK2W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31VGALxXF0L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "11,000 BTU",
+    "4,500 BTU heat",
+    "43 lb",
+    "35 dB claim"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "11,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "4,500 BTU"
+    },
+    {
+     "label": "Weight",
+     "value": "43 lb"
+    },
+    {
+     "label": "Compressor",
+     "value": "Inverter scroll"
+    },
+    {
+     "label": "Noise",
+     "value": "35 dB claimed"
+    }
+   ],
+   "description": "Xenjum leads with weight: 43 pounds is notably light for a rooftop air conditioner, which matters on a van roof with a modest load rating. It pairs 11,000 BTU of cooling with 4,500 BTU of heating and an inverter scroll compressor, and it claims library-quiet 35 dB operation.\n\nThe tradeoff is that light weight often means lighter construction, so inspect the gasket and mounting hardware closely. A 35 dB claim is very optimistic for a rooftop unit and should be treated as a best-case figure. It sits in the middle price tier, below the Gidrox and above the 8,500 BTU model. Against the Gidrox, it gives up heating capacity but saves several pounds.\n\nOwnership is routine. Clean the filter, check the DC lugs and keep an eye on the roof sealant. For a lighter vehicle, the weight savings may justify the choice by themselves. A reinforcing plate under the roof skin spreads the load on thin van roofs.",
+   "bestFor": "Vans with limited roof load capacity.",
+   "pros": [
+    "Only 43 pounds",
+    "11,000 BTU cooling with 4,500 BTU heat",
+    "Inverter scroll compressor",
+    "Direct 12V battery operation"
+   ],
+   "cons": [
+    "35 dB is an optimistic claim",
+    "Lighter build needs careful install",
+    "Heater is resistance-style"
+   ]
+  },
+  {
+   "id": "B0H98QYNMZ",
+   "rank": 4,
+   "badge": "Best Low Profile",
+   "name": "11,000 BTU 12V low-profile rooftop AC with 3,500 BTU heat",
+   "amazonUrl": "https://www.amazon.com/dp/B0H98QYNMZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cwwqXI3wL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "11,000 BTU",
+    "3,500 BTU heat",
+    "45 dB",
+    "Low profile"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "11,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "3,500 BTU"
+    },
+    {
+     "label": "Noise",
+     "value": "45 dB claimed"
+    },
+    {
+     "label": "Runtime claim",
+     "value": "8 hours on 300Ah"
+    },
+    {
+     "label": "Profile",
+     "value": "Low-profile rooftop"
+    }
+   ],
+   "description": "This low-profile unit offers 11,000 BTU of cooling and 3,500 BTU of heating and claims eight hours of cooling from a 12V 300Ah battery. The low profile helps with clearance under bridges and in garages, and aerodynamics on a moving van.\n\nThe eight-hour claim is plausible only with a large lithium bank, good insulation and thermostat cycling. At a 45 dB claim it is louder than the Gidrox and Xenjum numbers. It sits in the lower tier of the group, which is the argument for it. Compared with the Xenjum, it heats less and weighs more.\n\nOwnership mirrors other DC units: filter cleaning, lug checks and a yearly gasket inspection. Measure your roof opening before ordering. Treat the runtime claim as a ceiling, and plan on roughly half of it in a hot, sunny vehicle.",
+   "bestFor": "Low-clearance vehicles on a lower budget.",
+   "pros": [
+    "Low-profile body",
+    "8 hour claim on 300Ah",
+    "Heating included",
+    "Lower price tier"
+   ],
+   "cons": [
+    "45 dB claim is louder",
+    "Smaller heating output",
+    "Runtime depends on a big bank"
+   ]
+  },
+  {
+   "id": "B0GTY66NCW",
+   "rank": 5,
+   "badge": "Best Scroll Compressor",
+   "name": "10,200 BTU 12V non-ducted 2-in-1 AC with scroll inverter",
+   "amazonUrl": "https://www.amazon.com/dp/B0GTY66NCW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YmLyHuq9L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "10,200 BTU",
+    "Scroll inverter",
+    "ABS shell",
+    "Cool and heat"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "10,200 BTU"
+    },
+    {
+     "label": "Compressor",
+     "value": "Scroll inverter"
+    },
+    {
+     "label": "Housing",
+     "value": "High-strength ABS"
+    },
+    {
+     "label": "Duct",
+     "value": "Non-ducted"
+    },
+    {
+     "label": "Function",
+     "value": "Cooling and heating"
+    }
+   ],
+   "description": "This 10,200 BTU model uses a scroll inverter compressor, a design known for smoother operation than older rotary types, inside an ABS shell. The unit is non-ducted, so air leaves from a single ceiling assembly, which suits small cabins.\n\nIt offers a little less cooling than the 11,000 and 12,000 BTU units, so it fits smaller spaces. The tier is lower-middle. Against the 8,500 BTU model, it adds capacity; against the Gidrox, it lacks the heat pump claim.\n\nOwnership is standard. Keep the filter clean, check the DC lugs, and test the cutoff. Confirm the cabin size before committing. A scroll compressor has fewer moving parts than a piston design, which is why it is often praised for long life.",
+   "bestFor": "Small campers wanting a quieter scroll compressor.",
+   "pros": [
+    "Scroll inverter compressor",
+    "Strong ABS housing",
+    "Non-ducted simple install",
+    "Cooling and heating"
+   ],
+   "cons": [
+    "Less capacity than 11,000 BTU rivals",
+    "Little brand history",
+    "Heating spec less clear"
+   ]
+  },
+  {
+   "id": "B0GZYW1VQG",
+   "rank": 6,
+   "badge": "Best Compact Value",
+   "name": "8,500 BTU 12V low-profile AC with 3,400 BTU heating",
+   "amazonUrl": "https://www.amazon.com/dp/B0GZYW1VQG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41w38Zf5B7L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "8,500 BTU",
+    "3,400 BTU heat",
+    "Variable frequency",
+    "Low profile"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "8,500 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "3,400 BTU"
+    },
+    {
+     "label": "Compressor",
+     "value": "Vortex variable frequency"
+    },
+    {
+     "label": "Profile",
+     "value": "Low-profile"
+    },
+    {
+     "label": "Duct",
+     "value": "Non-ducted"
+    }
+   ],
+   "description": "The smallest unit in the guide delivers 8,500 BTU of cooling and 3,400 BTU of heating with a variable-frequency vortex compressor. It suits a small van or a truck bed camper where a larger unit would overwhelm both the roof and the battery.\n\nThe capacity limit is the catch. In a hot, sunny space, 8,500 BTU will struggle compared with 11,000 BTU rivals. Its price tier is the lowest, and the smaller compressor means a lower current draw. Against the Xenjum, it saves cost but gives up cooling.\n\nOwnership is easy. Clean the filter, inspect the gasket and use correct cabling. Insulate the vehicle well to get the most from a smaller unit. Pairing it with a white roof and window covers can make it feel like a larger unit.",
+   "bestFor": "Small vans where size, weight and amps matter most.",
+   "pros": [
+    "Lowest tier of the group",
+    "Lower current draw",
+    "Variable-frequency compressor",
+    "Low-profile design"
+   ],
+   "cons": [
+    "Least cooling capacity",
+    "Struggles in hot sun",
+    "Small heater"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Real current draw",
+   "explanation": "The Gidrox claims about 350W average, roughly 29 amps at 12 volts. At startup or in hot conditions the draw is higher. A 200Ah lithium bank with 160 usable amp-hours gives about five hours at 30 amps. Always plan around peak, not brochure average. Test the first hot afternoon with a shunt monitor, and use the measured number for every later decision about bank size. Remember also that lead-acid batteries should not be discharged past about 50 percent, which halves the usable amp-hours compared with lithium."
+  },
+  {
+   "criterion": "Compressor type",
+   "explanation": "Variable-frequency, scroll inverter and dual-rotor compressors slow down once the cabin cools, cutting average draw. The Sunster, Xenjum and 10,200 BTU model each use one. Fixed-speed designs cycle on and off and draw more. The savings show up mostly overnight, when the cabin holds temperature and the compressor idles at low speed. Ask whether the compressor is DC-driven directly or fed by a hidden converter, since a hidden converter adds loss."
+  },
+  {
+   "criterion": "Weight on the roof",
+   "explanation": "The Xenjum weighs 43 pounds, while steel-bodied units weigh more. Vans have roof load limits, and solar panels already use some. Confirm the unit and mounts fit. Add the weight of the mounting frame and sealant, which can add several more pounds. Check also the fan shroud height, which can clear a roof rack by only a few inches."
+  },
+  {
+   "criterion": "Heating method",
+   "explanation": "The Gidrox's 9,000 BTU heat pump is the most capable here, while others use resistance heaters at 3,400 to 4,500 BTU. A heat pump uses less current in mild weather. Resistance heat works in cold but drains batteries. Heat pump output falls steadily below roughly 40 degrees Fahrenheit, so plan a backup source. A heat pump also lets you run heat with the battery bank at a lower current, which matters on a chilly shoulder-season night."
+  },
+  {
+   "criterion": "Low-voltage protection",
+   "explanation": "The Sunster highlights it. Without a cutoff, a 12V AC can drain a bank below safe levels. Set it above your chemistry's damage threshold. A cutoff near 11.5 volts protects lead-acid, while lithium BMS cutoffs usually sit lower."
+  },
+  {
+   "criterion": "Size versus space",
+   "explanation": "The 8,500 BTU unit suits a small van, while 11,000 and 12,000 BTU suit larger campers. Oversizing a DC unit demands battery you may not have. Match capacity to insulation and sun exposure. Reflective window covers and a white roof coating can cut load enough to drop one size class. Oversizing also causes short cycling, which hurts both comfort and efficiency."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "BTU",
+   "meaning": "Heat removed per hour.",
+   "watchFor": "Gidrox and Sunster lead at 12,000."
+  },
+  {
+   "spec": "Variable frequency",
+   "meaning": "Compressor speed adjusts to load.",
+   "watchFor": "Most units here list some form of it."
+  },
+  {
+   "spec": "Heat pump vs resistance",
+   "meaning": "A heat pump moves heat; resistance creates it.",
+   "watchFor": "Only the Gidrox lists a heat pump."
+  },
+  {
+   "spec": "dB claim",
+   "meaning": "Maker-measured sound level.",
+   "watchFor": "Xenjum 35 dB, Gidrox 40 to 43 dB, 11,000 BTU unit 45 dB."
+  },
+  {
+   "spec": "Weight",
+   "meaning": "Roof load added by the unit.",
+   "watchFor": "Xenjum lists 43 pounds."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power use",
+   "description": "We compared claimed average draw, like the Gidrox's 350W, and compressor type. We converted every wattage to amps at 12 volts, since cable and bank sizing depend on amps."
+  },
+  {
+   "title": "Heating",
+   "description": "We separated 9,000 BTU heat pump from 3,400 to 4,500 BTU resistance heaters. Where a listing did not state heating capacity clearly, we scored it lower for clarity."
+  },
+  {
+   "title": "Weight and build",
+   "description": "We noted the Xenjum's 43 pounds against steel-bodied rivals. Weight matters twice: once on the roof, and again in how sturdy the mounting must be. A lighter unit also eases one-person installation, which many van builders value."
+  },
+  {
+   "title": "Noise claims",
+   "description": "We listed maker dB figures and treated them as best case. We assumed real-world sound would be several decibels higher than the claim."
+  },
+  {
+   "title": "Value",
+   "description": "We weighed price tiers, from the 8,500 BTU unit to the Gidrox. The Sunster has no listed price tier, so we weighed its features rather than its cost. Value here means capacity per amp, not capacity per dollar alone."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Vehicle Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small van",
+      "8,500 BTU unit",
+      "Low draw"
+     ],
+     [
+      "Midsize camper",
+      "Xenjum 11,000 BTU",
+      "Light and strong"
+     ],
+     [
+      "Large camper, heat needed",
+      "Gidrox 12,000 BTU",
+      "Heat pump"
+     ],
+     [
+      "Hot climate, cooling only",
+      "Sunster 12,000 BTU",
+      "Cutoff protection"
+     ],
+     [
+      "Low clearance",
+      "11,000 BTU low-profile",
+      "Low body"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "8,500 BTU unit",
+      "Compact"
+     ],
+     [
+      "Lower",
+      "11,000 BTU low-profile",
+      "Heated"
+     ],
+     [
+      "Mid-low",
+      "10,200 BTU scroll",
+      "Quiet compressor"
+     ],
+     [
+      "Mid",
+      "Xenjum",
+      "Light weight"
+     ],
+     [
+      "Top",
+      "Gidrox",
+      "Most capable"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Heat Pump vs Resistance Heat",
+   "cards": [
+    {
+     "label": "Heat pump",
+     "text": "The Gidrox delivers 9,000 BTU for modest current in mild weather."
+    },
+    {
+     "label": "Resistance",
+     "text": "The Xenjum, 11,000 BTU and 8,500 BTU units heat in any weather but burn more battery."
+    }
+   ],
+   "note": "Mild climate, Gidrox; cold climate with shore power, resistance. If winters are mild, buy for the heat pump; if not, plan on a dedicated heater."
+  },
+  {
+   "subheading": "By Battery Size",
+   "table": {
+    "headers": [
+     "Bank",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "100Ah",
+      "8,500 BTU unit",
+      "Smallest draw"
+     ],
+     [
+      "200Ah",
+      "Xenjum",
+      "Moderate"
+     ],
+     [
+      "300Ah",
+      "11,000 BTU low-profile",
+      "8 hour claim"
+     ],
+     [
+      "400Ah+",
+      "Gidrox",
+      "Full capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Four-Season Travel Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Heat capacity and a low-voltage cutoff, plus a backup heater."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Gidrox and Sunster combine capacity and protection."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need heat and a big bank, pointing to the Gidrox."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small space, pointing to the 8,500 BTU unit."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean filter",
+   "interval": "Monthly in use",
+   "why": "Clogged filters cut airflow. Wash the foam filter and dry it fully. A frozen coil is usually a dirty filter."
+  },
+  {
+   "task": "Inspect gasket",
+   "interval": "Spring",
+   "why": "Leaks begin at the gasket. Look for cracks in the foam and dried sealant; reseal before the rainy season."
+  },
+  {
+   "task": "Tighten DC lugs",
+   "interval": "Seasonal",
+   "why": "High current heats loose lugs. Check for discolored insulation near the lug, a sign of heat at a bad crimp."
+  },
+  {
+   "task": "Clean condenser",
+   "interval": "Yearly",
+   "why": "Dirty coils raise power use. Use a soft brush, never a pressure washer, to avoid bending the fins."
+  },
+  {
+   "task": "Verify cutoff",
+   "interval": "Seasonal",
+   "why": "Protects the bank. A cutoff set too low defeats its purpose, so confirm it matches your battery type."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long will it run on a battery?",
+   "a": "Conservatively two to four hours per 100 amp-hours. Claims such as eight hours on 300Ah need ideal conditions. A reflective window cover is the cheapest way to extend runtime. Thermostat cycling often stretches these numbers once the cabin is cool."
+  },
+  {
+   "q": "Can it cool a 30 foot trailer?",
+   "a": "Not reliably. It suits vans and small campers. Larger travel trailers usually need 13,500 to 15,000 BTU on 120V power."
+  },
+  {
+   "q": "What is the price range?",
+   "a": "Tiers run from the 8,500 BTU unit up to the Gidrox. Prices change, so check listings. The 8,500 BTU unit is the lowest tier and the Gidrox the highest."
+  },
+  {
+   "q": "Do I need an inverter?",
+   "a": "No. These run on 12V DC directly. Direct DC avoids inverter losses that can add 10 to 15 percent to the load."
+  },
+  {
+   "q": "Which has the best heater?",
+   "a": "The Gidrox with a 9,000 BTU heat pump. It is also the most efficient in mild weather, so pair it with an insulated cabin."
+  },
+  {
+   "q": "Is it DIY friendly?",
+   "a": "Often, but electrical and sealing work needs care. Hire a pro for refrigerant work; never open the sealed system yourself."
+  }
+ ],
+ "relatedGuides": []
+}

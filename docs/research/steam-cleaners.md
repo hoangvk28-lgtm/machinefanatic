@@ -1,0 +1,14 @@
+# Handheld steam cleaners research
+- Steam is water heated above 212F (100C); handheld units use a small boiler at about 3 to 4.5 bar. Listing watts (1500 to 2500) relate to heat-up time and sustained steam rate, not cleaning ability alone.
+- Headline 10 to 20 second heat-up applies to a small partial fill; a full tank takes longer. A 1.5 to 1.8 L tank gives roughly 8 to 15 minutes of steam.
+- Steam at the nozzle is typically 230 to 260F; dwell time and a microfiber cloth matter more than headline temperature.
+- Safe for sealed tile, grout, glass, stainless steel, bathroom fixtures, oven doors; risky for unsealed wood, laminate seams, delicate fabrics, painted walls, plastics that warp.
+- Steam sanitizes by heat; several seconds of contact are needed. Germ-kill claims depend on surface and dwell time.
+- Safety cap lock: a pressurized tank cannot be opened until pressure falls; never open while hot. Use distilled water if the manual says so to slow scale.
+- Scale build-up: rinse the boiler with a mild vinegar-water mix periodically; hard water shortens life.
+- Adjustable pressure levels (3 to 6 steps) let you tame steam for curtains and soft surfaces.
+- Cord length 10 to 16 feet limits reach; extension cords raise risk.
+- Accessory kits: jet nozzle, brush heads, squeegee, extension hose, cloth covers; accessory quality varies.
+- Gaskets and the pump wear; check replacements exist.
+- Do not steam cold glass in strong heat differences; thermal shock can crack it.
+- Windows: steam loosens grease; always squeegee off.

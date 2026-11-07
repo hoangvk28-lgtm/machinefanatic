@@ -1,0 +1,15 @@
+# RV space heaters (research notes)
+- A 1500W electric heater draws about 12.5 amps at 120V; on a 30 amp RV circuit it shares capacity with the air conditioner, microwave and water heater element.
+- Safety features to require on electric units: tip-over shutoff, overheat protection, ETL or UL listing, and a cord with a plug rated for 15A. Avoid extension cords.
+- Ceramic (PTC) heaters self-limit element temperature and warm up quickly; oil-filled radiators are slower but quieter and hold heat; milkhouse/utility heaters use a fan and a metal enclosure.
+- Heater thermostats cycle the element; wattage is a maximum, so average draw in mild weather is lower.
+- Propane heaters (catalytic or ventless) need ODS (oxygen depletion sensor), tip-over shutoff and ventilation; carbon monoxide alarms matter in any RV with combustion appliances.
+- 12V plug-in car heaters (cigarette lighter style) are about 100 to 200 watts, are meant for windshield defogging or tiny cab warming, and are limited by the 10 to 15 amp socket fuse; they will not heat a room.
+- 12V PTC heaters draw 8 to 17 amps at 100 to 200 watts. 200W at 12V is about 17 amps; fuse and wire accordingly.
+- Diesel air heaters (12V) burn diesel for heat, draw only low amps for the fan and pump, and need exhaust and intake routing outside the cabin; they are the real off-grid winter option.
+- Heat pump air conditioners and resistance heat compete for the same shore power budget; stagger loads.
+- Do not leave heaters unattended or use them to dry clothes; keep 3 feet clearance from bedding and curtains.
+- A 12V heater running from batteries is inefficient; 200W for one hour is about 17 amp-hours.
+- Insulation, window covers and skirting reduce heating demand more than a bigger heater.
+- GFCI outlets and surge protectors rated for the heater load are sensible in an RV.
+- Fan noise on small ceramic heaters typically runs mid-40s dB or higher; quieter claims are maker numbers.

@@ -1,0 +1,17 @@
+# RV roof vent fans (research notes)
+- Standard roof opening is 14 x 14 inches; 11 inch round/smaller fans exist for skylight-style openings. Roof thickness range matters for the mounting flange (some list 0.98 to 3.93 inches).
+- Most good 12V roof fans move roughly 900 to 1000 CFM at top speed; real-world differences are small and the numbers are maker claims.
+- Maxxair MaxxFan Deluxe: 10 speed, reversible, thermostat, remote, electric lid lift, built-in rain cover so fan can run in rain.
+- MaxxFan Plus: rain sensor with auto lid closure, thermostat, remote, no built-in rain shield.
+- Dometic Fan-Tastic Vent line: thermostat, rain sensor options, 3-speed manual or multi-speed variants; reputation for decent airflow but louder.
+- Budget fans (RVLOVENT, Kohree, Starvent etc.): often have 10 speeds and remote but manual lift or less proven lid motors; no rain-run capability unless they include a rain shield.
+- Rain shield hood lets you run the fan with the lid open in light rain; rain sensor only closes the lid.
+- Reversible fans: intake mode brings in air, exhaust mode pulls hot air out. Best used with a window cracked on the opposite end.
+- Brushless DC motors run quieter and draw less current than brushed.
+- 12V draw varies by speed: low speed fractions of an amp, high speed can be several amps (check spec sheet).
+- Bug screen removable for cleaning; replacement screen frames are sold by some brands.
+- Fan vs air conditioner: fans lower humidity and exhaust cooking smoke; they cannot cool below outside air.
+- Lid gasket and roof sealant (self-leveling lap sealant on the flange) should be rechecked yearly.
+- Manual crank lids hold position by tension; electric lift needs the fan wired to a fused 12V circuit, usually 10 to 15A fuse.
+- Retrofit swap: match the mounting hole and trim ring; some units need the old trim cut or caulk removed.
+- Photocatalyst/air-fresh modes are minor extras; judge the fan on motor, lid and seal.

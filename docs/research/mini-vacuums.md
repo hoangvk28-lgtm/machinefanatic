@@ -1,0 +1,15 @@
+# Mini / handheld vacuums research
+- Listings quote suction in Pa (pascals): 9000 to 27000 Pa. There is no single test standard for these; numbers are not comparable between brands. Look at motor type (brushless), wattage, battery capacity (mAh and cell count) and filter design instead.
+- Watts: the 120W class draws that from the battery at peak. A brushless motor reaches higher stable airflow per watt and lasts longer than a brushed motor.
+- Real runtime is lower than headline: boost mode drains a small pack in 10 to 15 minutes; eco mode roughly doubles that.
+- Battery: 2000 to 4000 mAh packs of 18650-style cells; a 2S pack gives 7.4V. Larger mAh = longer runtime but heavier.
+- 2-in-1 and 3-in-1 models add a blower (air duster) mode; the same motor reverses airflow or uses a separate exhaust port. The blower replaces canned air for keyboards and electronics.
+- A HEPA-style filter traps fine dust; most are washable foam plus mesh. Wash monthly with use.
+- Dustbin size is small (150 to 500 ml); empty after each use. Cyclonic designs resist clogging better.
+- Nozzles: crevice tool, brush, flexible hose; attachments determine usefulness in cars more than raw suction.
+- Charging: USB-C is now common; charge time 3 to 5 hours.
+- Cheap units: weak battery management, filters clog fast, motor bearing noise at year one to two; fine for crumbs, poor for sand or pet hair.
+- Lithium batteries: keep away from heat (a parked car in summer), do not charge on a bed.
+- Corded 12V car vacuums run from a car outlet with unlimited run but limited cable reach.
+- Pet hair: needs a brush or rubber nozzle; plain suction rarely lifts embedded hair.
+- Weight under 1 lb is comfortable for headliners and overhead cleaning.

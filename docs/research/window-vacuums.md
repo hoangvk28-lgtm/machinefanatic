@@ -1,0 +1,14 @@
+# Window vacuum squeegees research
+- A window vac sprays or wipes on cleaner, then a silicone squeegee blade pulls water into a suction slot and onboard tank; it prevents drip streaks on glass, mirrors, shower doors and tile.
+- Suction listed in Pa (1500 to 2200 Pa); there is no common test, treat as marketing. Blade quality and flatness matter more.
+- Tank size 100 to 200 ml fills fast on a large window; frequent emptying is normal.
+- Battery: 1200 to 2200 mAh cells; typical 25 to 40 minutes of use.
+- Blade width 8 to 11 inches; wider blades cover faster but struggle with small panes.
+- Extension poles of 31 to 40 inches reach upper windows without a ladder but add wobble.
+- Spray bottle and microfiber scrubber pad come in the kit; dirt must be loosened before the squeegee pass.
+- Replace the silicone blade when edges nick; a worn blade leaves streaks.
+- Work on shaded glass; sun-baked glass dries before the blade passes.
+- Not for textured, rough or etched glass.
+- Dirty water collects in the tank; empty and dry after use to avoid mold smell.
+- Strong cleaners with ammonia can degrade seals; use a mild glass cleaner.
+- Charging via USB-C; charge time 3 to 4 hours.

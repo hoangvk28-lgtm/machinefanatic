@@ -1,0 +1,16 @@
+# Room (portable) humidifiers research
+- Three mist technologies: ultrasonic cool mist (vibrating disc, quiet, can throw white dust from hard water), evaporative (wick plus fan, self-limiting, adds fan noise, wick replaced), warm mist (boils water, kills most microbes in the water, uses more power, hot surface).
+- Ultrasonic units disperse whatever minerals are in the water as fine white dust; distilled or demineralized water avoids it, and some units use demineralization cartridges.
+- Evaporative units cannot over-humidify much because evaporation slows as the air gets humid; wicks hold scale and need replacing every 1 to 3 months in hard water.
+- Warm mist units boil water so scale builds on the heater; vinegar descaling is routine. Hot water spills are a burn risk around children and pets, so many guides advise cool mist for nurseries.
+- Indoor humidity target is 30 to 50 percent in winter; above 50 to 60 percent promotes mold and dust mites and causes window condensation.
+- Tank capacity: 1 gallon is about 3.8 L. Run time depends on mist setting; low settings can stretch a gallon to 12 to 24 hours or more, high settings often half that.
+- Coverage numbers (for example 300 to 600 sq ft) assume a closed room and moderate output; open plans need more.
+- Top-fill tanks are easier to fill and clean than flip-over tanks; wide openings let you reach inside.
+- Daily rinse and weekly vinegar or peroxide cleaning prevent biofilm; tanks left damp grow slime. Replace filters or wicks per the manual.
+- Built-in humidistat holds a target; without one, a separate hygrometer shows when to turn the unit off.
+- Placement: on a flat, water-safe surface, 2 to 3 feet off the floor, away from walls and electronics, with the mist nozzle pointed into the room.
+- Essential oil trays or diffuser features should only be used where the manual allows; oils in the tank can crack plastic.
+- Noise: ultrasonic units are quietest at about 25 to 35 dB; evaporative fans are audible.
+- Auto shutoff when the tank is empty is standard and protects the disc or heater.
+- Run only fresh water; tank water left more than a day invites microbes.

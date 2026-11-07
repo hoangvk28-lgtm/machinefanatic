@@ -1,0 +1,18 @@
+# RV water heaters (research notes)
+- Tank RV heaters are mostly 6, 10 or 12 gallon, gas (LP) with optional 120V AC element; gas-electric combos are most common in newer rigs.
+- Electric elements need 120V AC: shore power or generator only. Many RV heaters list 1400W element; gas burner roughly 10,000 BTU.
+- Pilot models keep a standing flame and must be shut off before travel/fueling; DSI (direct spark ignition) lights on demand, needs 12V DC, no standing pilot.
+- DSI plus "DEL" style units add a 12V relay for remote switch/inside control; check the model suffix.
+- Porcelain-lined steel tanks need a replaceable anode rod; aluminum tanks (Dometic style) use no anode and cannot rust through the same way.
+- Anode rod: inspect yearly, replace at roughly 75% consumed; hard water with iron/sulfate eats it faster.
+- Never leave antifreeze in the heater: bypass it when winterizing and drain fully; antifreeze is hard on anode rods.
+- Most common spring complaint, no hot water: bypass valves left in winterize position.
+- Flush the tank yearly; sediment lowers recovery and causes rumbling noises.
+- Running gas and electric together speeds recovery when power is available.
+- Tankless propane units (12V DC for ignition/fan) heat on demand, save cabinet volume, need exterior vent door, hurt by low water pressure/flow and altitude.
+- Residential 120V point-of-use mini tanks are not RV certified for exhaust/propane; they need a 120V outlet, no gas, and are fine for stationary cabin use only if installed to suit.
+- Pressure/temperature relief valve required on tank units; do not plug it. Water expansion needs the PT valve or an expansion tank.
+- Tank size vs real use: two short showers consume roughly 10 to 12 gallons hot, mixed down with cold stretches it.
+- Heater door/vent size differs by model; flush-mount door is a separate part, check cutout before swapping.
+- Low-voltage battery (below about 10.5V) causes DSI lockout and failed ignition.
+- Spider webs in burner tube cause yellow flame and no ignition; clean annually.
