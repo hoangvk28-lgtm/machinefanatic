@@ -1,0 +1,17 @@
+# Electric dethatchers research
+- Dethatchers use flexible spring-steel tines to pull surface thatch; scarifiers use rigid blades that cut into soil. Many cheap 2-in-1 electric machines ship with both a tine reel and a blade reel you swap.
+- Machines sold as scarifiers that only have wire tines are really rakers; tines alone lift moss but leave it on the lawn.
+- Blade scarifiers typically cut a few millimetres (2 to 5 mm) into soil; adjustable depth (4 or 5 positions) prevents scalping.
+- A single fixed depth is a scalping hazard on uneven lawns.
+- Working width: 13 to 16 inches is the common corded range; wider means fewer passes but needs a stronger motor and a bigger bag.
+- Motor ratings are Amps on a corded tool: 12 amp, 13 amp, 15 amp. 15 amp is the highest a 15 A household circuit allows with margin.
+- Corded tools need an outdoor-rated extension cord of adequate gauge (14 gauge or heavier for long runs); a thin cord causes voltage drop and stalling.
+- Collection bags (8 to 13 gallons) fill fast on thick thatch; expect to empty the bag often.
+- Carbon-steel tines rust; stainless or spring steel lasts longer. Replace bent or worn tines and blades.
+- Dethatch when the lawn is actively growing (early fall for cool-season grass, late spring for warm-season) and when soil is moist but not soaked.
+- Over-aggressive raking shreds healthy roots; make a first pass at the shallowest setting.
+- Mow short before dethatching and rake loose debris after.
+- Overseeding right after scarifying works well because seed contacts soil.
+- A thin thatch layer under about half an inch is healthy and does not need removal; check with a spade cut.
+- Store dry, clear clippings from the reel, check the belt and bag zipper.
+- Weight (20 to 35 lb) matters when lifting into a vehicle.

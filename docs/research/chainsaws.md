@@ -1,0 +1,18 @@
+# Cordless chainsaws research
+- Bar length sets the largest log you can cut in one pass: a 6 inch mini handles branches and small logs, 12 inch suits limbing and storm cleanup, 16 to 20 inch suits felling and firewood.
+- Voltage sets the torque ceiling; amp-hours set how long it lasts. Higher voltage adds torque for big cuts and weight.
+- Nominal voltage is partly marketing: a 56V platform is about 50V average cell voltage, and 20V MAX is 18V nominal.
+- Chain speed (ft/s or FPM) affects cut quality more than raw voltage. Mini saws quote about 28 ft/s; full-size battery saws around 50 ft/s or higher.
+- Brushless motors run cooler, last longer and give more run time than brushed motors at the same battery.
+- Wattage claims on unbranded mini saws (880W, 1000W, 2100W) are not comparable across brands; they are peak or marketing numbers.
+- Mini saws are pruning tools: one-handed use on a tree or ladder is unsafe; two hands and chain brake or guard are the norm for full-size saws.
+- Chain brake and low-kickback chain are standard on full-size battery saws; many mini saws have only a lock switch.
+- Auto oilers and oil tanks: mini saws still need bar oil; running dry burns the chain and bar.
+- Battery platform lock-in: DeWalt-compatible or 20V third-party saws use existing batteries; check pack size, since large saws need big Ah packs.
+- Kits that include two small batteries give more swaps than one bigger pack; a 2 Ah battery runs a 12 inch saw only briefly.
+- Chain tension and chain sharpness decide cut speed more than motor; keep chain tight and sharp, tension tool-free on some.
+- Bare tool vs kit: check whether battery and charger are included.
+- Run time is quoted as cuts; actual cuts depend on wood species and diameter.
+- Maintenance: bar oil, chain sharpening, clean bar groove, store battery partly charged, dry place.
+- Cordless saws are quiet, no fuel mixing, no pull cord; limit is sustained heavy cutting.
+- Wear safety glasses, gloves, chaps for full-size saws; never cut above shoulder height.

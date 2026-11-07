@@ -166,6 +166,21 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-power-station-under-200": () => import("./guides/best-power-station-under-200"),
   "best-power-stations-under-1000": () => import("./guides/best-power-stations-under-1000"),
   "best-power-stations-under-150": () => import("./guides/best-power-stations-under-150"),
+  "best-3d-printers-under-300": () => import("./guides/best-3d-printers-under-300"),
+  "best-aprilaire-whole-house-humidifiers-under-1000": () => import("./guides/best-aprilaire-whole-house-humidifiers-under-1000"),
+  "best-auto-shut-off-electric-kettles-under-30": () => import("./guides/best-auto-shut-off-electric-kettles-under-30"),
+  "best-bread-maker-under-100": () => import("./guides/best-bread-maker-under-100"),
+  "best-bread-maker-under-150": () => import("./guides/best-bread-maker-under-150"),
+  "best-bread-maker-under-200": () => import("./guides/best-bread-maker-under-200"),
+  "best-cordless-chainsaw-under-100": () => import("./guides/best-cordless-chainsaw-under-100"),
+  "best-cordless-chainsaw-under-200": () => import("./guides/best-cordless-chainsaw-under-200"),
+  "best-cordless-chainsaw-under-500": () => import("./guides/best-cordless-chainsaw-under-500"),
+  "best-cordless-lawn-edger-under-200": () => import("./guides/best-cordless-lawn-edger-under-200"),
+  "best-cordless-lawn-edger-under-300": () => import("./guides/best-cordless-lawn-edger-under-300"),
+  "best-cordless-lawn-edger-under-500": () => import("./guides/best-cordless-lawn-edger-under-500"),
+  "best-electric-dethatcher-under-100": () => import("./guides/best-electric-dethatcher-under-100"),
+  "best-electric-dethatcher-under-200": () => import("./guides/best-electric-dethatcher-under-200"),
+  "best-power-inverters-under-50": () => import("./guides/best-power-inverters-under-50"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);

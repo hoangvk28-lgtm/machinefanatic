@@ -1,0 +1,13 @@
+# Whole-house humidifiers research
+- Bypass units borrow furnace blower airflow (no fan), cheapest, panel swap yearly. Fan-powered units add their own fan, more output, work independent of how hard the blower pushes. Steam units boil water, need dedicated circuit, no panel.
+- Evaporative units need warm supply air; heat-pump homes with cooler supply air get less output (vendors often push steam there).
+- Rated gallons per day (GPD) are quoted at a stated plenum temperature (commonly 120F); some brands quote higher at 140F. Compare on the same basis.
+- Coverage square footage depends on how tight the house is; tight homes need less output, leaky older houses need more.
+- Spec sheets: 500 about 12 GPD, 600 about 17 GPD, 700 about 18 GPD (fan-powered). Manufacturer coverage figures differ by tightness table and listing.
+- Manual control = single indoor humidistat. Automatic = adds outdoor temperature sensor so target humidity drops as it gets colder, limiting window condensation.
+- Water panels are replaced about once per heating season; hard water shortens life. Cleaning only removes surface scale.
+- Hot water supply to the unit gives best output. Needs a drain line.
+- Keep HVAC filter clean for airflow; shut off water and set damper to summer in warm season.
+- Install and panel swap best in fall. Installed whole-house units commonly cost several hundred to over a thousand dollars installed.
+- Typical indoor target 30 to 40 percent RH in winter; higher causes window condensation and mold risk.
+- Power draw is small (fan units use a modest fan and a solenoid valve).

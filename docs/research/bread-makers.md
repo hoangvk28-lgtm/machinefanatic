@@ -1,0 +1,17 @@
+# Bread makers research
+- Loaf size options are usually 1, 1.5 and 2 lb; larger pans (2.2 lb and up) make taller loaves but need counter space. Choose by household bread use, not just the maximum.
+- Vertical pans make a tall loaf; horizontal pans make a more conventional shaped slice. Kneading paddle leaves a hole in the base of the loaf.
+- Dual paddles or wider flatter paddles knead thick and gluten-free batters more thoroughly.
+- Gluten-free program: shorter knead, single rise, different bake profile. A dedicated setting matters more than the program count.
+- Program counts (12, 17, 19, 25, 29 in 1) include jam, dough, cake and yogurt; the bread-critical ones are basic, whole wheat, French, quick and gluten-free.
+- Delay timer is usually up to 13 to 15 hours; do not use it with perishable ingredients like milk or eggs in warm kitchens.
+- Keep-warm usually runs up to an hour after the bake ends.
+- Nonstick coatings are PTFE or ceramic; ceramic resists metal-paddle scratching better. Hand wash the pan; dishwashers shorten coating life.
+- Removable pan and paddle simplify cleaning; paddles can seize in the pan, soak in warm water.
+- Automatic fruit and nut dispensers add mix-ins at the right moment; without one you must add them at the beep.
+- Wattage (600 to 800 W) and dual heaters affect crust evenness; top element helps browning.
+- Three crust settings (light, medium, dark) are standard; check they exist.
+- Measure flour by weight; the most common failure is too much flour or old yeast.
+- Noise and vibration during kneading; place on a stable counter with clearance for steam.
+- Buying mistake: assuming every machine suits every recipe; check pan capacity in cups of flour.
+- Warranty is typically one year; parts like pans and paddles are the usual wear items.

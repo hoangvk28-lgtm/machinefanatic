@@ -142,3 +142,9 @@ Note: best-agri-fab-lawn-sweepers and best-all-wheel-drive-lawn-mowers use sourc
 
 ## Round 3 (2026-11-07, budget/under topics, mixed categories): 28 written, 5 skipped, 17 returned to todo (stopped early for usage limit)
 Notes: best-air-purifier-under-500 reuses 3 products from under-300 (only 2 new in-band machines); best-budget-3d-printers includes 2 labelled stretch picks; best-3d-printers-under-600 uses AMS combo bundles of under-500 machines.
+
+## Round 4 (2026-11-07, remaining budget topics): 15 written, 1 skipped (1 Sonnet agent)
+| Skipped slug | Reason |
+|---|---|
+| best-cordless-lawn-edger-under-100 | Under $100 only cordless string trimmers sold as 2-in-1 and corded units; no cordless blade edger |
+Notes: best-3d-printers-under-300 has 4 distinct machines (several duplicate listings collapsed); best-power-inverters-under-50 reached 4 under-cap items after one extra search; edger under-300/under-500 and chainsaw under-200 reuse picks from lower caps. Word counts 2,717 to 3,320 (below the 3,300 target on most).
