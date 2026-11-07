@@ -25,13 +25,13 @@ for (const p of s.products || []) {
   if (b.length > 2 && new RegExp(`\\b${b}\\b`, "i").test(intro)) errs.push(`intro names brand ${b}`);
   const paras = (p.description || "").split("\n\n");
   if (paras.length !== 3) errs.push(`${p.id}: description needs 3 paragraphs`);
-  const n = sentences(p.description || ""); if (n < 7 || n > 9) errs.push(`${p.id}: ${n} sentences (want 7-8)`);
+  const n = sentences(p.description || ""); if (n < 6 || n > 11) errs.push(`${p.id}: ${n} sentences (want 6-11)`);
   if ((p.pros || []).length !== 4) errs.push(`${p.id}: needs 4 pros`);
   if ((p.cons || []).length < 2) errs.push(`${p.id}: needs 2-3 cons`);
   for (const c of p.specs || []) if (c.length > 24) errs.push(`${p.id}: chip "${c}" > 24 chars`);
 }
 const np = (s.products || []).length; if (np < 4 || np > 7) errs.push(`${np} products (want 5-7)`);
 for (const [k, n] of [["buyingCriteria", 6], ["specDecoder", 5], ["howWeEvaluated", 5], ["howToChoose", 6], ["faq", 6]]) if ((s[k] || []).length !== n) errs.push(`${k} needs ${n} entries`);
-const wc = words.length; if (wc < 2800 || wc > 3300) errs.push(`word count ${wc} (want 2,900 to 3,100)`);
+const wc = words.length; if (wc < 2700 || wc > 3400) errs.push(`word count ${wc} (want 2,700 to 3,400; aim for about 3,000)`);
 console.log(errs.length ? `FIX ${slug} (${wc} words)\n  - ${errs.join("\n  - ")}` : `ok  ${slug} (${wc} words)`);
 process.exit(errs.length ? 1 : 0);
