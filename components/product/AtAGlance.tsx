@@ -25,7 +25,11 @@ function AtAGlanceRow({ item }: { item: AtAGlanceItem }) {
   return (
     <div className="border-b border-border last:border-0">
       <div className="flex items-center gap-4 py-4 px-1">
-        <div className="shrink-0 w-16 h-16 rounded-lg bg-bg border border-border overflow-hidden flex items-center justify-center">
+        <a
+          href={`#${item.anchorId}`}
+          aria-label={`Jump to the ${item.name} review`}
+          className="shrink-0 w-16 h-16 rounded-lg bg-bg border border-border overflow-hidden flex items-center justify-center transition-colors hover:border-cta"
+        >
           <Image
             src={item.imageUrl}
             alt={item.name}
@@ -34,18 +38,23 @@ function AtAGlanceRow({ item }: { item: AtAGlanceItem }) {
             className="object-contain w-full h-full p-1"
             unoptimized
           />
-        </div>
+        </a>
 
         <div className="flex-1 min-w-0">
           {item.badge && (
             <a
               href={`#${item.anchorId}`}
-              className="text-xs font-bold text-brand hover:text-brand-dark transition-colors leading-tight block mb-0.5"
+              className="text-xs font-bold text-brand hover:text-cta transition-colors leading-tight inline-block mb-0.5"
             >
               {item.badge}
             </a>
           )}
-          <p className="text-sm font-semibold text-ink leading-snug line-clamp-2">{item.name}</p>
+          <a
+            href={`#${item.anchorId}`}
+            className="block text-sm font-semibold text-ink hover:text-cta transition-colors leading-snug line-clamp-2"
+          >
+            {item.name}
+          </a>
           <a
             href={`#${item.anchorId}`}
             className="text-[11px] text-ink-muted hover:text-brand transition-colors mt-0.5 inline-block"
