@@ -25,6 +25,7 @@ Target 15k to 20k AI tokens per guide (round 1 cost ~36k to 39k per guide). Ever
 - Research once per machine cluster into `docs/research/<cluster>.md`; later guides in that cluster reuse it with no web search.
 - Each writer agent takes its full list of prefiltered slugs (grouped by cluster so research files are reused), Sonnet only, writes each spec in one Write, then `node scripts/clone/selfcheck.mjs <slug>` and fixes by Edit before build/audit.
 - Before spawning writers, the coordinator runs `node scripts/clone/prefilter.mjs --inprogress` (zero AI tokens): it skips topics whose slug size/tonnage/PSI/gallons has fewer than 4 matching machines after automatic extra searches. Only hand writers the topics it leaves. Round 2 lost roughly 40k tokens per skipped topic before this step existed.
+- **"Stage A" (the user's name for it) = the zero-AI-token data step:** `git pull`, `next-batch.mjs` (Amazon data), `compact.mjs`, `prefilter.mjs`. The user often runs it in their own terminal. If `scripts/clone/work/<slug>.compact.json` files already exist for the round, do not re-run it: go straight to writers.
 - Coordinator (not writers) runs registration, mark.mjs, clone-log, tsc, build, commit.
 
 ## MachineFanatic rule: "under-N" budget guides may name their cap (added 2026-11-07, per explicit user instruction)
