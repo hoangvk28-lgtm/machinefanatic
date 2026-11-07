@@ -2,6 +2,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
 import { AtAGlance } from "@/components/product/AtAGlance";
+import { SpecComparisonTable, specComparisonColumns } from "@/components/guide/SpecComparisonTable";
+import { MobileProductCTA } from "@/components/guide/MobileProductCTA";
+import { getRelatedGuides } from "@/lib/related-guides";
 import { SITE_URL } from "@/lib/seo";
 import { getDefaultAuthor } from "@/data/authors";
 
@@ -160,6 +163,9 @@ function ProductSection({ product }: { product: RichGuideProduct }) {
                 </ul>
               </div>
             </div>
+            <div className="mt-5 md:hidden">
+              <BuyButton href={product.amazonUrl} label={product.ctaLabel ?? "Check price on Amazon"} />
+            </div>
           </div>
         </div>
 
@@ -184,11 +190,12 @@ function ProductSection({ product }: { product: RichGuideProduct }) {
 export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideModule }) {
   const {
     guideTitle, metaDescription, lastUpdated, readTime, heroImage, products, buyingCriteria,
-    howWeEvaluated, howToChoose, faq, relatedGuides, mainKeyword, introParagraphs,
+    howWeEvaluated, howToChoose, faq, relatedGuides: ownRelated, mainKeyword, introParagraphs,
     expertTake, specDecoder = [], maintenance = [],
   } = guide;
 
   const author = getDefaultAuthor();
+  const relatedGuides = ownRelated && ownRelated.length > 0 ? ownRelated : getRelatedGuides(slug);
   const breadcrumbTitle = toBreadcrumbTitle(guideTitle).replace(/\s*\(2026\)$/, "");
   const amazonQuery = toAmazonSearchQuery(mainKeyword, slug);
   const productNoun = toProductNounSingular(breadcrumbTitle);
@@ -199,6 +206,7 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
 
   const toc = [
     { id: "top-picks", label: "Top picks" },
+    { id: "compare-specs", label: "Spec comparison", show: specComparisonColumns(products).length > 0 },
     { id: "buying-criteria", label: "What to look for", show: buyingCriteria.length > 0 },
     { id: "reviews", label: "Detailed reviews" },
     { id: "spec-decoder", label: "Spec sheet decoder", show: specDecoder.length > 0 },
@@ -304,6 +312,8 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
                 }))}
               />
             </section>
+
+            <SpecComparisonTable products={products} />
 
             <section className="mb-12 space-y-4 text-[17px] text-ink-secondary leading-relaxed">
               {intro.map((p, i) => <p key={i}>{p}</p>)}
@@ -522,6 +532,7 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
           </aside>
         </div>
       </Container>
+      <MobileProductCTA items={products.map((p) => ({ id: p.id, name: p.name, amazonUrl: p.amazonUrl }))} />
     </>
   );
 }
