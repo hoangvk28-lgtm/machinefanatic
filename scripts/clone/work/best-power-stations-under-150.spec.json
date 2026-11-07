@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-power-stations-under-150",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best power stations under 150",
+ "guideTitle": "Best Power Stations Under $150 (2026)",
+ "metaTitle": "Best Power Stations Under $150 (2026)",
+ "metaDescription": "Six portable power stations under $150 compared on capacity, real AC output, battery chemistry and which loads each one can actually run.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The DaranEner 192Wh 300W is the best all-rounder because it combines a LiFePO4 pack with the most useful AC ceiling in this band. The Westinghouse iGen400s is the pick if you want the highest rated output and a recognizable name. Skip this price class if you need a fridge, a CPAP with a heated humidifier or any tool charger running for hours.",
+ "introParagraphs": [
+  "This is the step where small power stations start to feel like real backup gear. Bigger batteries and stronger inverters let you run a lamp, a fan, a laptop and a router together instead of choosing one.",
+  "It is also where specification games get more common. Capacity figures, surge numbers and cell-chemistry claims vary widely, so the useful skill is separating the rating that limits a device from the rating that only looks impressive on a box."
+ ],
+ "products": [
+  {
+   "id": "B0C6K5ZPNJ",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "DaranEner 192Wh 300W LiFePO4 power station, two AC outlets",
+   "price": "",
+   "specs": [
+    "192Wh LiFePO4",
+    "300W AC",
+    "2 AC outlets",
+    "600W surge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "192Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "300W (600W surge), 2 outlets"
+    },
+    {
+     "label": "Chemistry",
+     "value": "LiFePO4"
+    },
+    {
+     "label": "Wall recharge",
+     "value": "100W maximum"
+    },
+    {
+     "label": "Solar input",
+     "value": "60W DC maximum"
+    }
+   ],
+   "description": "This DaranEner pairs a 192Wh LiFePO4 pack with two AC outlets rated for 300W combined and a 600W surge allowance. LiFePO4 cells are the long-life chemistry, so the pack is a good fit for something that gets cycled regularly. Compared with the 100W Akiisolo in this lineup it can run three times the load.\n\nThe tradeoff is recharge speed. Wall charging tops out at 100W and solar input at 60W, so a full refill takes roughly two to three hours from the wall and longer on a small panel. At 300W a heavy load also drains 192Wh in well under an hour, so match it to light loads.\n\nOwnership is simple: keep vents clear, switch the inverter off when idle and store it around half charged. It is the unit to buy when you want one box for a fan, laptop and lights at once.",
+   "bestFor": "Households wanting a LiFePO4 pack with room for two small AC devices.",
+   "pros": [
+    "LiFePO4 pack suits frequent cycling",
+    "300W output runs three times what the smallest units can",
+    "Two AC outlets avoid a power strip",
+    "Takes solar, car and wall charging"
+   ],
+   "cons": [
+    "Wall input is capped at 100W so refills are slow",
+    "A 300W load empties the pack in under an hour"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419gx8IlMFL._SL500_.jpg",
+   "priceTier": "10/14 (1 = cheapest)"
+  },
+  {
+   "id": "B0GD91M81M",
+   "rank": 2,
+   "badge": "Highest Output",
+   "name": "Westinghouse iGen400s 400W 183Wh power station with 9 outlets",
+   "price": "",
+   "specs": [
+    "183Wh pack",
+    "400W output",
+    "9 outlets",
+    "80% in 2h"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "183Wh"
+    },
+    {
+     "label": "Output",
+     "value": "400W"
+    },
+    {
+     "label": "Outlets",
+     "value": "9 total, 2 AC at 120V"
+    },
+    {
+     "label": "USB-C",
+     "value": "3 ports at 30W"
+    },
+    {
+     "label": "Recharge",
+     "value": "80% in about 2h"
+    }
+   ],
+   "description": "The Westinghouse offers the highest output in this comparison at 400W, with nine outlets including two 120V AC sockets, three 30W USB-C ports, an LED display and a DC outlet. It is the pick when you want to run several things at once. Against the DaranEner 300W unit it adds a third more power on a pack of similar size.\n\nThe catch is runtime. A 183Wh battery at 400W lasts well under half an hour, so that output headroom is for brief heavy loads rather than long ones. The listing does not state the cell chemistry in the data we reviewed, so assume ordinary lithium-ion and avoid habitually draining it to empty.\n\nThe quoted charge to 80 percent in about two hours is quick when a 100W adaptor is used. Keep it ventilated and recharge it after each real use.",
+   "bestFor": "Buyers who want the most outlets and the highest rated output here.",
+   "pros": [
+    "400W output is the highest in this guide",
+    "Nine outlets including three USB-C ports",
+    "Fast quoted recharge to 80 percent",
+    "LED display shows load and charge"
+   ],
+   "cons": [
+    "183Wh runs a heavy load for only a short time",
+    "Chemistry is not stated in the listing"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GD91M81M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419J+SgMmpL._SL500_.jpg",
+   "priceTier": "11/14 (1 = cheapest)"
+  },
+  {
+   "id": "B0DWRS3T87",
+   "rank": 3,
+   "badge": "Best Solar Bundle",
+   "name": "MARBERO 150Wh power station with included solar panel",
+   "price": "",
+   "specs": [
+    "150Wh pack",
+    "Solar panel included",
+    "150W peak",
+    "AC outlet"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "150Wh"
+    },
+    {
+     "label": "Peak output",
+     "value": "150W"
+    },
+    {
+     "label": "Bundle",
+     "value": "Foldable solar panel"
+    },
+    {
+     "label": "Outputs",
+     "value": "AC, DC and USB"
+    },
+    {
+     "label": "Best use",
+     "value": "Off-grid recharge"
+    }
+   ],
+   "description": "The MARBERO bundle includes a foldable solar panel, which is the main reason to buy it. With the panel, you can refill the 150Wh pack outdoors without buying anything else. For a first off-grid setup that matters more than a few extra watts.\n\nThe weakness is power. The listing names only a 150W peak figure, so treat continuous output as lower and keep to phones, lights and a laptop. Compared with the 300W DaranEner it is much weaker, and a small included panel refills slowly, often a full day of good sun.\n\nFold and store the panel dry, and keep connectors clean. It suits campers who value recharging in the field over running bigger loads.",
+   "bestFor": "First-time campers wanting a pack and panel in one purchase.",
+   "pros": [
+    "Foldable solar panel included in the bundle",
+    "Recharge in the field without extra gear",
+    "Compact camping power for phones and lights",
+    "AC, DC and USB outputs on one unit"
+   ],
+   "cons": [
+    "Only a 150W peak figure is quoted",
+    "Small panel needs most of a day for a full refill"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DWRS3T87?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51FUgussgOL._SL500_.jpg",
+   "priceTier": "12/14 (1 = cheapest)"
+  },
+  {
+   "id": "B0BZ7VFK25",
+   "rank": 4,
+   "badge": "Best Basic Camp Pack",
+   "name": "MARBERO 150Wh power station with AC and flashlights",
+   "price": "",
+   "specs": [
+    "150Wh, 40,540mAh",
+    "150W peak AC",
+    "QC3.0 USB",
+    "2 LED lights"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "150Wh (40,540mAh at 3.7V)"
+    },
+    {
+     "label": "AC output",
+     "value": "110V, 150W peak"
+    },
+    {
+     "label": "USB",
+     "value": "3 x 5V 2.1A, 1 x QC3.0"
+    },
+    {
+     "label": "Lights",
+     "value": "2 LED flashlights"
+    },
+    {
+     "label": "Best use",
+     "value": "Phones and camp lights"
+    }
+   ],
+   "description": "This MARBERO is a simple 150Wh pack with a 110V AC outlet, three 5V USB ports, one QC3.0 port and two built-in LED flashlights with steady and flashing modes. The flashlights add genuine camp usefulness for a pack this basic. The capacity is quoted as 40,540mAh at 3.7V, which works out to about 150Wh.\n\nIt does not offer fast laptop charging like the powkey 96Wh, because it lacks a high-wattage USB-C port. The AC outlet is quoted only as a peak, so keep loads small.\n\nStore it half charged and avoid heat. It is an honest budget pack for phones, lights and a small fan.",
+   "bestFor": "Campers who want a basic pack with built-in flashlights.",
+   "pros": [
+    "Two built-in LED flashlights with multiple modes",
+    "QC3.0 port speeds up compatible phones",
+    "150Wh covers several phone charges",
+    "Simple controls with separate AC outlet"
+   ],
+   "cons": [
+    "No high-wattage USB-C port for laptops",
+    "AC output is described only as a peak figure"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BZ7VFK25?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dEeb6IpTL._SL500_.jpg",
+   "priceTier": "9/14 (1 = cheapest)"
+  },
+  {
+   "id": "B0DKFR196Q",
+   "rank": 5,
+   "badge": "Best Slim Design",
+   "name": "Akiisolo 192Wh 100W power station, slim square body",
+   "price": "",
+   "specs": [
+    "192Wh pack",
+    "100W AC",
+    "2 USB-C",
+    "4.6 x 4.6 x 7 in"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "192Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "100W (200W surge)"
+    },
+    {
+     "label": "Ports",
+     "value": "1 AC, 2 USB-C, 2 USB-A, 2 DC"
+    },
+    {
+     "label": "Size",
+     "value": "4.6 x 4.6 x 7 in"
+    },
+    {
+     "label": "Best use",
+     "value": "Long, light loads"
+    }
+   ],
+   "description": "The Akiisolo matches the DaranEner's 192Wh capacity but caps AC output at 100W, so it runs light loads for longer. Its slim 4.6 by 4.6 by 7 inch body packs easily, and the port list of one AC, two USB-C, two USB-A and two DC covers common needs.\n\nThe tradeoff against the DaranEner is clear: three times less output for the same energy. That is fine for routers, lights and phones, and not fine for anything bigger.\n\nIt exceeds the 160Wh air travel ceiling, so it stays on the ground. Store it half charged and keep the inverter off when idle. It is a low-load endurance pick.",
+   "bestFor": "Router and lighting backup where runtime matters more than power.",
+   "pros": [
+    "192Wh gives long runtime on small loads",
+    "Slim body fits bins and trunks",
+    "Two USB-C ports plus AC and DC",
+    "Same capacity as the DaranEner in a smaller case"
+   ],
+   "cons": [
+    "100W AC ceiling is a third of the DaranEner",
+    "Too large for passenger aircraft"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31FBcuGw68L._SL500_.jpg",
+   "priceTier": "7/14 (1 = cheapest)"
+  },
+  {
+   "id": "B0DPPC9SL5",
+   "rank": 6,
+   "badge": "Best for Laptops",
+   "name": "powkey 96Wh 100W USB-C PD LiFePO4 power station",
+   "price": "",
+   "specs": [
+    "96Wh LiFePO4",
+    "100W USB-C PD",
+    "USB-C cable",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "96Wh"
+    },
+    {
+     "label": "Main output",
+     "value": "100W USB-C PD"
+    },
+    {
+     "label": "Chemistry",
+     "value": "LiFePO4"
+    },
+    {
+     "label": "Cable",
+     "value": "USB-C included"
+    },
+    {
+     "label": "Best use",
+     "value": "Laptops and phones"
+    }
+   ],
+   "description": "The powkey feeds a laptop straight over a 100W USB-C Power Delivery port, which avoids inverter losses entirely. Its 96Wh LiFePO4 pack is the smallest battery in this guide, yet for laptop work it is the most efficient. A USB-C cable ships with it.\n\nThe compromise is that it is not a wall-plug backup. Against the Westinghouse iGen400s with two AC outlets it cannot run a lamp or a fan.\n\nStore it half charged and away from heat. It is the practical choice for remote workers who carry a pack and charge only USB gear.",
+   "bestFor": "Laptop and phone charging on the go.",
+   "pros": [
+    "100W USB-C PD charges many laptops directly",
+    "LiFePO4 cells for long cycle life",
+    "Cable included in the box",
+    "Most efficient for USB devices"
+   ],
+   "cons": [
+    "No AC outlet for wall-plug gear",
+    "Smallest battery in this guide"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DPPC9SL5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412gXcDsASL._SL500_.jpg",
+   "priceTier": "4/14 (1 = cheapest)"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Continuous output ceiling",
+   "explanation": "The jump from 100W to 300W or 400W is what lets a unit run a fan and laptop together. The Westinghouse iGen400s at 400W and the DaranEner at 300W can carry loads the 100W Akiisolo and powkey cannot. Always compare continuous output, because a 150W peak on the MARBERO units is only a startup allowance."
+  },
+  {
+   "criterion": "Runtime at your real load",
+   "explanation": "Divide watt-hours by your load and multiply by about 0.85. A 150W load on the 192Wh DaranEner lasts roughly an hour, and a 400W load on the 183Wh Westinghouse lasts under half an hour. Buyers often pick on output and forget that a small battery empties fast under a big load."
+  },
+  {
+   "criterion": "Chemistry and cycle life",
+   "explanation": "The DaranEner and powkey state LiFePO4, which commonly delivers 2,000 or more cycles against 500 to 800 for standard lithium-ion. The Westinghouse and MARBERO listings do not state chemistry. If the pack will be cycled weekly, favor the stated LiFePO4 models."
+  },
+  {
+   "criterion": "Recharge speed and input limits",
+   "explanation": "A 100W wall input means the 192Wh DaranEner needs about two to three hours to refill, and its 60W solar cap means a small panel takes much longer. The Westinghouse quotes 80 percent in about two hours with a 100W adaptor. Slow refills are a top complaint with small stations."
+  },
+  {
+   "criterion": "Solar compatibility",
+   "explanation": "Solar input has a voltage window, a wattage cap and a connector type. The DaranEner lists 60W DC maximum, and the MARBERO bundle includes a matched foldable panel. Buying a mismatched panel is a classic mistake that leaves the pack uncharged."
+  },
+  {
+   "criterion": "Port mix and travel limits",
+   "explanation": "A 100W USB-C PD port, as on the powkey, beats an inverter for a laptop. The Westinghouse offers three 30W USB-C ports and two AC outlets. For flights, packs over 160Wh such as the 192Wh models are not allowed on passenger aircraft, so confirm with the airline."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Rated vs surge watts",
+   "meaning": "Rated watts is the continuous limit. Surge covers a startup spike lasting a moment.",
+   "watchFor": "The DaranEner lists 300W with a 600W surge, and only the 300W is usable continuously."
+  },
+  {
+   "spec": "Wh (capacity)",
+   "meaning": "Stored energy. Runtime equals Wh times about 0.85 divided by load watts.",
+   "watchFor": "The 192Wh DaranEner and Akiisolo hold the same energy but deliver very different power."
+  },
+  {
+   "spec": "LiFePO4",
+   "meaning": "A long-life lithium chemistry with better heat tolerance. It weighs a little more per Wh.",
+   "watchFor": "Only the DaranEner and powkey state it among the six picks."
+  },
+  {
+   "spec": "USB-C PD wattage",
+   "meaning": "Power Delivery sets how much a USB-C port can charge, from phones to laptops.",
+   "watchFor": "The Westinghouse's three ports are 30W each, while the powkey has a single 100W port."
+  },
+  {
+   "spec": "mAh to Wh",
+   "meaning": "Multiply mAh by the cell voltage, often 3.7V, then divide by 1,000 to get Wh.",
+   "watchFor": "The MARBERO's 40,540mAh at 3.7V equals about 150Wh, so check the Wh figure."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Real usable output",
+   "description": "We evaluated continuous watts first and treated surge numbers as secondary. We compared the Westinghouse at 400W and DaranEner at 300W against the 100W units. Scores rewarded output that matches the pack's energy."
+  },
+  {
+   "title": "Energy and runtime",
+   "description": "We converted each pack's Wh into runtime at a typical load with a loss allowance. The spread ran from the 96Wh powkey to the 192Wh DaranEner and Akiisolo. We penalized outputs that would empty the pack in minutes."
+  },
+  {
+   "title": "Battery chemistry",
+   "description": "Based on the spec sheet wording, we favored stated LiFePO4 over unstated chemistry. Owner feedback patterns on small packs often mention capacity fade. Cycle life weighed more for frequently used packs."
+  },
+  {
+   "title": "Charging flexibility",
+   "description": "We reviewed input caps and recharge paths for each pack. The Westinghouse and DaranEner state concrete numbers while the MARBERO packs are less specific. Included solar panels counted as a real advantage."
+  },
+  {
+   "title": "Port usefulness",
+   "description": "We reviewed how many ports each unit has and what wattage each serves. High-wattage USB-C ports and two AC outlets ranked above a long list of low-power USB sockets."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fan, laptop and lights at once",
+      "DaranEner 192Wh 300W",
+      "300W across two AC outlets"
+     ],
+     [
+      "Most outlets and highest output",
+      "Westinghouse iGen400s",
+      "400W and nine outlets"
+     ],
+     [
+      "First off-grid solar setup",
+      "MARBERO with solar panel",
+      "Panel included in the bundle"
+     ],
+     [
+      "Phones and camp lights only",
+      "MARBERO 150Wh",
+      "Built-in flashlights and QC3.0"
+     ],
+     [
+      "Long runtime on a router",
+      "Akiisolo 192Wh",
+      "Same Wh as the DaranEner, light draw"
+     ],
+     [
+      "USB-C laptop work",
+      "powkey 96Wh",
+      "100W USB-C PD direct"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Spend level",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in this guide",
+      "powkey 96Wh",
+      "Cheapest tier with a strong USB-C port"
+     ],
+     [
+      "Low to middle",
+      "MARBERO 150Wh",
+      "Simple pack with flashlights"
+     ],
+     [
+      "Middle",
+      "Akiisolo 192Wh",
+      "Large tank at a moderate tier"
+     ],
+     [
+      "Upper middle",
+      "MARBERO with solar panel",
+      "Pack plus panel in one price"
+     ],
+     [
+      "Top of this guide",
+      "DaranEner 192Wh 300W",
+      "Strongest output and LiFePO4"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "High Output vs Long Runtime",
+   "cards": [
+    {
+     "label": "High output (300W to 400W)",
+     "text": "The DaranEner 300W and Westinghouse 400W run several devices together, but they drain a 183Wh to 192Wh pack within an hour under full load. They suit brief heavy use."
+    },
+    {
+     "label": "Long runtime (100W)",
+     "text": "The Akiisolo 192Wh and powkey 96Wh sip power, giving many hours on a router, lights or a laptop. They cannot run bigger loads at all."
+    }
+   ],
+   "note": "Pick the DaranEner or Westinghouse for versatility; pick the Akiisolo for endurance on small loads."
+  },
+  {
+   "subheading": "Recharge Style",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fast wall refill",
+      "Westinghouse iGen400s",
+      "80 percent in about two hours"
+     ],
+     [
+      "Solar out of the box",
+      "MARBERO with solar panel",
+      "Foldable panel included"
+     ],
+     [
+      "Wall, car and solar choices",
+      "DaranEner 192Wh",
+      "100W wall, car and 60W solar"
+     ],
+     [
+      "USB-C refill",
+      "powkey 96Wh",
+      "Cable included"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Built-in lights, solar charging and a pack that tolerates heat. A pack that runs a fan overnight needs roughly 100Wh for a ten hour night at 10W."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The MARBERO 150Wh with flashlights suits a basic camp, while the MARBERO solar bundle adds panel recharge. The DaranEner handles a fan and laptop together."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need to run anything above 400W or want more than 200Wh of storage. The DaranEner and Westinghouse are the ceiling here, and a larger station is the next step."
+    },
+    {
+     "label": "Save if",
+     "text": "You only charge phones and a laptop. The powkey 96Wh or MARBERO 150Wh cover that without paying for output you will not use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Top up stored pack",
+   "interval": "Every 3 months",
+   "why": "Lithium packs self-discharge slowly. Keep them near half charge so cells never sit empty."
+  },
+  {
+   "task": "Switch off the inverter",
+   "interval": "After each use",
+   "why": "An idle inverter drains the pack. On a 150Wh unit it can flatten the battery in days."
+  },
+  {
+   "task": "Clean vents and ports",
+   "interval": "Monthly",
+   "why": "Dust raises operating temperature. Lint in ports causes poor contact."
+  },
+  {
+   "task": "Inspect solar and DC leads",
+   "interval": "Every 6 months",
+   "why": "Connectors loosen with use. A damaged lead can overheat or drop out."
+  },
+  {
+   "task": "Run a full cycle",
+   "interval": "Once a year",
+   "why": "A full discharge and recharge shows whether runtime has dropped. It also recalibrates the charge readout."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I choose between 300W and 100W units?",
+   "a": "Add up the wattage of everything you plan to run at once. If it exceeds 100W, you need the DaranEner or Westinghouse class. If it is only phones, a router or a laptop, the 100W units run longer for the same energy."
+  },
+  {
+   "q": "Is a 150Wh pack enough for a weekend?",
+   "a": "For phones, a headlamp and a small fan, yes. A phone uses roughly 10 to 15Wh per full charge. A laptop drains it quickly, so choose 192Wh if laptop work is part of the plan."
+  },
+  {
+   "q": "How long will these power stations last?",
+   "a": "LiFePO4 models, such as the DaranEner and powkey, commonly last several times more cycles than standard lithium-ion. Heat and deep discharge shorten any pack. Store them half charged."
+  },
+  {
+   "q": "Does peak wattage matter?",
+   "a": "Only for brief startups. A 600W surge rating on a 300W unit does not let it run a 500W load. Match your device's continuous draw to the rated figure."
+  },
+  {
+   "q": "Do prices change and is the cap exact?",
+   "a": "Prices move often, and the cap reflects listing prices when this guide was updated. Check the current price before buying."
+  },
+  {
+   "q": "Can I run a mini fridge or heater?",
+   "a": "Not reliably. Heating loads exceed these outputs, and a fridge compressor needs a startup surge plus hours of runtime that a 183Wh to 192Wh pack cannot provide."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/419gx8IlMFL._SL500_.jpg"
+}

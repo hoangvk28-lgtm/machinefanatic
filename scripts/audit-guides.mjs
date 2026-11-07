@@ -19,7 +19,10 @@ for (const slug of slugs) {
   const nums = intro.match(/\b\d[\d,.]*\s*(?:psi|gpm|watts?|w|pints?|oz|inch|in|v|ah|amp|db|dba|cc|rpm|lb)\b/gi) || [];
   if (nums.length > 1) errs.push(`intro has spec numbers: ${nums.slice(0, 4).join(", ")}`);
   if (/[—–]/.test(src)) errs.push("em/en dash");
-  if (/\$\d/.test(src)) errs.push("dollar price");
+  // "under-300" guides may name their price cap (the keyword) and no other dollar figure.
+  const cap = slug.match(/-under-(\d+)$/)?.[1];
+  const capFree = cap ? src.split(`$${cap}`).join("").split(`$${Number(cap).toLocaleString("en-US")}`).join("") : src;
+  if (/\$\d/.test(capFree)) errs.push("dollar price");
   if (/we tested|hands-on|we tried|in our lab|we measured/i.test(src)) errs.push("testing claim");
   if (/【/.test(src)) errs.push("bracket ad copy");
   const mt = get("metaTitle"), md = get("metaDescription"), gt = get("guideTitle");

@@ -1,0 +1,23 @@
+# Portable power stations research notes
+
+- Watt-hours (Wh) is the tank: stored energy, which sets runtime. Watts is the pipe: the most the AC inverter can deliver at once.
+- Runtime estimate: Wh times about 0.8 to 0.85 (inverter and conversion losses), divided by load watts.
+- Rated continuous watts is the real limit; surge or peak figures only cover a brief startup spike.
+- Heating and motor loads (hair dryers, kettles, space heaters, compressors) exceed small units; many 100W and 200W stations cannot run them at all.
+- Motor startup can need 2 to 3 times running watts.
+- Check the appliance label for continuous and surge watts; measure real draw with a plug-in watt meter instead of guessing.
+- LiFePO4 cells give far more charge cycles (often 2,000 to 3,000 plus) and tolerate heat better than standard lithium-ion (often 500 to 800 cycles).
+- LiFePO4 packs are heavier for the same Wh than NMC lithium-ion cells.
+- Many small units use modified or simplified AC output; sensitive electronics and some chargers prefer pure sine; check the listing wording.
+- Carry-on air rules key on Wh: up to 100Wh allowed without approval, 100 to 160Wh usually needs airline approval, above 160Wh not allowed on passenger aircraft. Airlines vary and recently tightened in-flight use rules.
+- 100Wh is about 27,000mAh at 3.7V nominal; check the Wh label, not only mAh.
+- Units over about 160Wh are ground-use only for travel.
+- Recharge paths: wall adapter, 12V car socket, USB-C PD, solar. Solar input voltage, connector type and wattage cap must match the panel.
+- A 60W or 100W input cap means a long wall recharge on a 200Wh pack (about 2 to 4 hours).
+- Pass-through (use while charging) is handy for a router or laptop but adds heat and wear.
+- Idle draw: an enabled AC inverter burns power with no load; switch it off when unused.
+- Store at roughly 40 to 60 percent charge and top up every few months; avoid heat and freezing charge.
+- Do not charge below freezing; do not leave in a hot car.
+- Buying mistakes: sizing by price, ignoring the highest-wattage device, not matching solar input, and trusting peak watts.
+- Small AC outlets are a convenience; for phones and laptops USB-C PD is usually more efficient than the inverter.
+- Look for an actual UPS-style switchover claim only when the spec states it; most small units do not offer it.

@@ -1,0 +1,18 @@
+# Blenders research
+- Peak watts is a short burst figure at the motor; continuous watts is what it sustains under load. Brands rarely publish continuous power, so jar design and blade count matter as much.
+- Typical range: personal 250-900 peak W, full-size 700-1800 W. A 250 W base struggles with ice and frozen fruit.
+- Personal (cup is also the drinking vessel, blade screws onto the cup, inverted) vs full-size pitcher (blade fixed in jar, bigger batches, more counter space).
+- Pitcher blenders pull food to the blades with vortex or wave-style jar geometry; stacked blade assemblies crush ice but do not mix thick batters as well.
+- Jar material: Tritan plastic is light and shatter resistant; cheap plastic clouds and absorbs odors; glass resists staining but is heavy and can crack.
+- Max fill lines matter: overfilling leaks past the gasket and strains the motor. Stay below the engraved line.
+- Measure cabinet clearance; tall pitcher units stand roughly 17 to 23 inches high with the jar on.
+- Gasket seals the jar to the blade assembly. Misplaced or worn gaskets cause leaks. Check and replace if flattened.
+- Blade assemblies and jars wear with normal use; inspect for cracks, chips, loose blades, stop using damaged parts. A seized blade assembly can overload the motor.
+- Limited warranties usually exclude normal wear parts such as blades, gaskets and glass.
+- Hot liquids: manuals warn steam pressure can blow the lid off. Cool liquids first, vent the lid cap, fill less.
+- Noise: personal cups are loud and short; a full-size 1000+ W motor on high is loud everywhere. Sound shields exist on premium units.
+- Auto-program presets are timed pulse and pause cycles, convenience rather than extra power.
+- High-end blenders (Vitamix, Blendtec) use heavy-duty motors with thermal protection and multi-year warranties; blades are blunt-edged and rely on speed.
+- Programs, pre-set cycles and variable dials differ: dial gives control for hot soup and nut butter, presets give repeatability.
+- Rinse right after use; dried smoothie residue is the main cause of stuck blades and funk.
+- Do not run empty or with dry thick loads for long; use the tamper where provided.

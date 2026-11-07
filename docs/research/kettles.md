@@ -1,0 +1,14 @@
+# Kettles research
+- Auto shut-off cuts power at boil (steam sensor or bimetal strip). Boil-dry protection is a separate cutout; some budget kettles skip it, so verify it is listed.
+- Lifting off the base should also cut power on most; the 360 degree cordless base is standard.
+- Materials: stainless steel is durable and descales easily; glass shows limescale and is fragile but lets you see water; plastic is light and cheap, can retain odor.
+- Several budget stainless kettles still have a plastic lid or spout inside the steam path. Check "no plastic contact" claims.
+- Capacity: 1 L is about 4 cups, 1.7 to 1.8 L is the family size; heating time scales with volume at 1500 W vs 1000 W.
+- Standard US outlet 15 A circuit supports about 1500 W; 1000 to 1100 W kettles boil noticeably slower.
+- Hard water scale builds on the element; descale with vinegar or citric acid per manufacturer instructions.
+- Let water sit then rinse and re-boil to remove new-kettle odor.
+- Wide mouth lids simplify cleaning and filling; filter mesh at spout catches scale.
+- Water level markings and min/max fill lines matter; overfill can spit boiling water.
+- Gooseneck kettles are for pour-over and rarely cost-effective at the lowest tier.
+- Look for a lid that locks, a cool-touch handle, and a visible water window.
+- Warranty at this price tier is typically one year; replacing is often cheaper than repairing.

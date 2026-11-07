@@ -1,0 +1,19 @@
+# 3D printers research
+- FDM (filament) is the usual first machine: bigger parts, cheap PLA, no chemicals. Resin gives fine detail on small parts but needs gloves, ventilation, wash and cure steps, and disposal of liquid waste.
+- Resin build volumes are small, and resin fumes need ventilation. Isopropyl alcohol cleanup is routine.
+- Assembled machines beat kits for first-timers: kits teach the mechanics but invite day-one mistakes like a misrouted cable.
+- Headline speed (for example 250 or 600 mm/s) is a ceiling, not a sustained speed. Short moves and corners never reach it.
+- Acceleration matters more than top speed: reaching 600 mm/s needs roughly 9 mm of travel at 20000 mm/s2, so shorter segments stay slower.
+- Real limits: max volumetric flow (mm3/s) of the hotend, acceleration, cooling capacity, and frame rigidity.
+- High acceleration makes the machine louder and can cause ringing (ghosting) on a light frame.
+- Direct drive extruder sits on the toolhead: better for flexible filament such as TPU and shorter retraction. Bowden is lighter on the gantry but harder with TPU.
+- Auto bed leveling probes the bed; first-layer adhesion is the most common failure on a beginner machine. Strain-gauge or probe leveling reduces manual work but does not fix a dirty or warped plate.
+- Dirty build plate (finger oils) is the top cause of failed first layers; wash with soap or isopropyl alcohol.
+- Running costs: filament (PLA, 1.75 mm), spare nozzles, plates, resin, and cleaning supplies. Budget for them.
+- Cheapest unbranded machines often lack firmware updates, spare parts, and documentation.
+- Enclosed machines contain noise and drafts but PLA does not need an enclosure; enclosure helps ABS/ASA and kids' safety.
+- Slicer and app ecosystem decides the weekly experience: model libraries, cloud features, updates.
+- Wi-Fi or app control is convenient but local file (microSD or USB) printing keeps working if a cloud service changes.
+- Nozzle wear and clogs are normal upkeep; 0.4 mm brass nozzles are cheap consumables.
+- Belts and eccentric nuts need occasional tightening; lubricate rails and lead screws on a schedule.
+- Small build volumes (mini machines) limit part size; check the volume against what you plan to print.

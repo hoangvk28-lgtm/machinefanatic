@@ -42,3 +42,10 @@ Voice: experienced mechanic/technician. Mechanism first, decode rated vs peak/ma
   "relatedGuides": [] }
 ```
 Final report per slug: products kept (from candidates), words, metaTitle/metaDescription length, audit result; skipped slugs with reasons.
+
+## Budget topics ("under-N", "budget", "cheap")
+- "under-N" slugs: every product must have `underCap: true` in the compact file (live Amazon price at or below N). Never use an item with `underCap` false or "unknown".
+- The cap is the keyword: `$N` may appear in guideTitle, metaTitle, metaDescription and prose (e.g. "Best Air Fryers Under $100 (2026)"). No other dollar figure anywhere, and never a product's own price; use priceTier for relative wording ("the cheapest pick here").
+- Sibling caps for the same machine (under-200 / under-300 / under-500) must not be copies: favour items in the upper band of your cap (for under-500, prefer items above the next lower cap) and give each guide its own angle (what the extra budget buys: motor, capacity, build, features). Reuse no more than 2 products from a lower-cap sibling.
+- Add a sentence that prices move and the cap reflects listing prices when the guide was updated.
+- "budget"/"cheap" slugs: pick from the lower half of priceTier and frame value vs. compromises; no dollar figures at all.

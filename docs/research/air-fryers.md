@@ -1,0 +1,21 @@
+# Air fryers research notes
+
+- An air fryer is a small high-power convection oven: a heating element above a fan pushes hot air through a perforated basket, so wattage and airflow path set crisping speed.
+- Basket models are the compact choice, mostly topping out near 8 quarts; oven-style units go much larger with multiple racks but need more counter clearance.
+- Dual-basket units split capacity: a labeled 8 or 9.5 quart total is two independent halves, so one basket holds far less than the headline number.
+- Basket air fryers typically draw 1500 to 1700 watts on a standard 15 amp circuit; oven-style units run 1700 to 1800 watts. Small 2 to 3 quart units often draw less.
+- Do not run an air fryer on an extension cord or shared power strip; use a wall outlet.
+- Sizing is the most common buying mistake. Roughly 2 quarts suits one person, 4 quarts two people, 6 quarts or more a family of four.
+- A rated max of 400F is enough for most food; 450F "Hi-Fry" modes help crisp frozen foods and finish proteins.
+- Quart labels are advertised volume; usable cooking surface is the basket floor area, and a tall narrow basket crowds food.
+- Overcrowding blocks airflow and gives soggy, uneven results; shaking or flipping halfway matters more in small baskets.
+- Nonstick coatings are the wear item: metal utensils scratch them, aerosol cooking sprays leave a gummy film, and dishwasher cycles can dull them over time.
+- Many baskets use PTFE-type nonstick; ceramic-style coatings are marketed as an alternative but still need gentle care.
+- Cleaning after every use prevents grease buildup on the heating element area, which causes smoke and odors.
+- Fat dripping onto a hot element or a dirty tray is the main source of smoke; keep the drip area clean.
+- In 2023 a large air fryer recall (Cosori) involved overheating and fire reports, so keep clearance around the unit and never cover vents.
+- Viewing windows let you check food without opening the drawer, but the glass needs cleaning and can fog.
+- Digital touch panels give preset convenience; dials are simpler and often last longer with little to fail.
+- Preheating is short, typically a few minutes, and many small units skip it.
+- Dehydrate modes run at low temperatures and are slow, so they suit small batches only.
+- Budget units differ mainly in basket coating quality, fan noise, controller feel and how long the plastic and coating hold up in year two to three.

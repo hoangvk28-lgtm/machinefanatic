@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-power-station-under-100",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best power station under 100",
+ "guideTitle": "Best Power Stations Under $100 (2026)",
+ "metaTitle": "Best Power Stations Under $100 (2026)",
+ "metaDescription": "Six small portable power stations under $100, compared on watt-hours, AC output, battery chemistry and what each can realistically run.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The DaranEner R100 is the pick for most buyers because it pairs a LiFePO4 pack with an honest 100W AC outlet in a carry-on legal size. The powkey 96Wh is the value pick if you mainly charge laptops and phones over USB-C. Anyone who expects to run a heater, kettle, fridge or power tool should skip this price band entirely.",
+ "introParagraphs": [
+  "Power stations at this price are really oversized power banks with a small AC inverter bolted on. They keep phones, tablets, laptops, a router or a camp light alive through an outage or a weekend away. They do not replace a generator.",
+  "The buying decision comes down to three things: how much energy the pack holds, how much the inverter can deliver at once, and whether the battery chemistry will still be healthy in a few years. Learn to read those three and the rest of the listing noise stops mattering."
+ ],
+ "products": [
+  {
+   "id": "B0FGJ9N7HD",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "DaranEner R100 89.6Wh 100W LiFePO4 power station",
+   "price": "",
+   "specs": [
+    "89.6Wh LiFePO4",
+    "100W AC",
+    "7 ports",
+    "Carry-on size"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "89.6Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "100W (200W peak)"
+    },
+    {
+     "label": "Chemistry",
+     "value": "LiFePO4"
+    },
+    {
+     "label": "Ports",
+     "value": "7 outputs"
+    },
+    {
+     "label": "Recharge",
+     "value": "Wall, car, USB-C, solar"
+    }
+   ],
+   "description": "The R100 is built around a lithium iron phosphate pack, the chemistry you want if the unit will live in a truck or closet for years. Its 89.6Wh capacity sits just under the 100Wh airline line, and the 100W AC outlet is enough for a laptop brick or a fan.\n\nThe tradeoff is size. Against the Akiisolo 192Wh it holds less than half the energy, so it suits short outages and day trips. The 200W figure is a startup allowance, so do not plan around it for loads above 100W.\n\nOwnership is simple. Switch the AC inverter off when you only need USB, because an idle inverter drains a pack this small. Top it up every few months in storage.",
+   "bestFor": "Travelers and light campers who want a LiFePO4 pack that is legal in carry-on luggage.",
+   "pros": [
+    "LiFePO4 pack holds up to years of regular cycling",
+    "Fits under the common 100Wh carry-on limit",
+    "Four recharge methods including solar and USB-C",
+    "Seven ports cover phones, laptop and a small fan"
+   ],
+   "cons": [
+    "89.6Wh runs a laptop for only a few hours of real work",
+    "The 200W peak figure cannot sustain any heating load"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FGJ9N7HD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wrmdLv1TL._SL500_.jpg",
+   "priceTier": "5/12 (1 = cheapest)"
+  },
+  {
+   "id": "B0DPPC9SL5",
+   "rank": 2,
+   "badge": "Best for Laptops",
+   "name": "powkey 96Wh 100W PD LiFePO4 laptop power station",
+   "price": "",
+   "specs": [
+    "96Wh LiFePO4",
+    "100W USB-C PD",
+    "Laptop focus",
+    "Includes USB-C cable"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "96Wh"
+    },
+    {
+     "label": "Main output",
+     "value": "100W USB-C PD"
+    },
+    {
+     "label": "Chemistry",
+     "value": "LiFePO4"
+    },
+    {
+     "label": "Cable",
+     "value": "USB-C included"
+    },
+    {
+     "label": "Best use",
+     "value": "Laptops and phones"
+    }
+   ],
+   "description": "This powkey is the least traditional power station here and the most efficient for what most people charge. A 100W USB-C Power Delivery port feeds a laptop directly, skipping inverter losses. The 96Wh LiFePO4 pack beats the DaranEner R100 at 89.6Wh.\n\nThe compromise is output flexibility. It will not run a lamp or fan the way the ZeroKor 97.6Wh with two AC outlets can. If your list is a laptop, phone and tablet, that costs you nothing.\n\nKeep it off a hot dashboard and store it about half charged. It is the best pick for remote workers who carry one bag.",
+   "bestFor": "Remote workers who mostly charge a USB-C laptop and phones.",
+   "pros": [
+    "100W USB-C PD charges most laptops directly",
+    "Efficient because it avoids AC inverter losses",
+    "96Wh LiFePO4 pack in a compact body",
+    "Cable included so it works out of the box"
+   ],
+   "cons": [
+    "No standard AC outlet for wall-plug devices",
+    "Not a backup for lamps or small appliances"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DPPC9SL5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412gXcDsASL._SL500_.jpg",
+   "priceTier": "2/12 (1 = cheapest)"
+  },
+  {
+   "id": "B0CQT5G1ZR",
+   "rank": 3,
+   "badge": "Best Compact",
+   "name": "DaranEner 89.6Wh 100W LiFePO4 pocket power station",
+   "price": "",
+   "specs": [
+    "89.6Wh LiFePO4",
+    "2.54 lb",
+    "100W AC",
+    "0 to 80% in 1.5h"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "89.6Wh"
+    },
+    {
+     "label": "Weight",
+     "value": "2.54 lb"
+    },
+    {
+     "label": "Size",
+     "value": "6.5 x 3.3 x 4 in"
+    },
+    {
+     "label": "AC output",
+     "value": "100W (200W peak)"
+    },
+    {
+     "label": "Recharge",
+     "value": "0 to 80% in 1.5h"
+    }
+   ],
+   "description": "At 6.5 by 3.3 by 4 inches and 2.54 pounds, this is the smallest real power station in the lineup. It shares the 89.6Wh LiFePO4 pack and 100W AC rating with the R100, plus seven ports and a rated 0 to 80 percent recharge in about 90 minutes.\n\nThe tradeoff is overlap. If you want the clearer solar, car, USB-C and wall recharge spec, the R100 is the safer choice. If a glove box or backpack pocket is the storage spot, this one fits where others do not.\n\nTreat it like any small lithium pack: keep it out of hot cars and recharge it before it sits for months. Keep the AC inverter off unless a device needs it.",
+   "bestFor": "Backpackers and commuters who want the smallest, lightest unit.",
+   "pros": [
+    "Smallest and lightest pack in this comparison",
+    "Rated 0 to 80 percent recharge in about 90 minutes",
+    "LiFePO4 cells rather than standard lithium-ion",
+    "Seven output ports in a pocket sized case"
+   ],
+   "cons": [
+    "Same 89.6Wh tank as the R100, so runtime is limited",
+    "Peak figure of 200W is a brief surge only"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
+   "priceTier": "9/12 (1 = cheapest)"
+  },
+  {
+   "id": "B0CLVHPGDZ",
+   "rank": 4,
+   "badge": "Best for Two AC Outlets",
+   "name": "ZeroKor 97.6Wh 120W power station, two AC outlets",
+   "price": "",
+   "specs": [
+    "97.6Wh pack",
+    "120W AC max",
+    "2 AC outlets",
+    "12V DC out"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "97.6Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "120W max, 2 outlets"
+    },
+    {
+     "label": "DC output",
+     "value": "12V to 16.8V, 6A max"
+    },
+    {
+     "label": "USB",
+     "value": "5V 2.4A port"
+    },
+    {
+     "label": "Display",
+     "value": "Screen display"
+    }
+   ],
+   "description": "The ZeroKor offers two 120W maximum AC outlets, a 12V to 16.8V DC output at up to 6A, a USB port and a status screen. For a lamp, a phone and a fan, two outlets means no power strip. Its 97.6Wh pack is just under the carry-on line.\n\nThe key point is that 120W is a shared ceiling. The listing does not state the cell chemistry, so assume standard lithium-ion with shorter cycle life than the LiFePO4 picks.\n\nThe screen helps you learn real draw. Keep vents clear and store it partly charged.",
+   "bestFor": "Campers who want two wall plugs and a 12V output from one small box.",
+   "pros": [
+    "Two AC outlets avoid carrying a power strip",
+    "Status screen shows what you are actually drawing",
+    "DC output suits small 12V accessories",
+    "Capacity stays under the 100Wh carry-on line"
+   ],
+   "cons": [
+    "The 120W limit is shared across both outlets",
+    "Chemistry is not stated, so cycle life is unclear"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TQRbhEFxL._SL500_.jpg",
+   "priceTier": "7/12 (1 = cheapest)"
+  },
+  {
+   "id": "B0DKFR196Q",
+   "rank": 5,
+   "badge": "Best Capacity",
+   "name": "Akiisolo 192Wh 100W power station with AC, USB-C and DC",
+   "price": "",
+   "specs": [
+    "192Wh pack",
+    "100W AC",
+    "2 USB-C ports",
+    "4.6 x 4.6 x 7 in"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "192Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "100W (200W surge)"
+    },
+    {
+     "label": "Ports",
+     "value": "1 AC, 2 USB-C, 2 USB-A, 2 DC"
+    },
+    {
+     "label": "Size",
+     "value": "4.6 x 4.6 x 7 in"
+    },
+    {
+     "label": "Best use",
+     "value": "Longer runtime"
+    }
+   ],
+   "description": "The Akiisolo doubles the energy of the 89.6Wh picks with a 192Wh pack while keeping the same 100W AC rating, so it runs the same loads about twice as long. One AC, two USB-C, two USB-A and two DC ports cover the usual mix.\n\nThe cost is carry-on legality. At 192Wh it exceeds the 160Wh ceiling for passenger aircraft. Compared with the ZeroKor 146Wh it holds more energy but has only one AC outlet.\n\nBecause the inverter is capped at 100W, output will limit it before the battery does. Charge it before storms and store it half full.",
+   "bestFor": "Home outage backup for a router, lights and phones.",
+   "pros": [
+    "192Wh holds about twice the energy of the 89.6Wh picks",
+    "Seven ports across AC, USB-C, USB-A and DC",
+    "Slim square footprint packs easily in a bin",
+    "Same 100W AC rating as the smaller units"
+   ],
+   "cons": [
+    "Too large for passenger aircraft carry-on",
+    "Single AC outlet limits multi-device use"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DKFR196Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31FBcuGw68L._SL500_.jpg",
+   "priceTier": "8/12 (1 = cheapest)"
+  },
+  {
+   "id": "B0CXJ8S9Q9",
+   "rank": 6,
+   "badge": "Best Mid-Size Battery",
+   "name": "ZeroKor 146Wh 100W power station, two AC outlets",
+   "price": "",
+   "specs": [
+    "146Wh pack",
+    "100W AC max",
+    "2 AC outlets",
+    "9V to 12.6V DC"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "146Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "100W max, 2 outlets"
+    },
+    {
+     "label": "DC output",
+     "value": "9V to 12.6V, 6A max"
+    },
+    {
+     "label": "Recharge",
+     "value": "Solar, car, wall"
+    },
+    {
+     "label": "Display",
+     "value": "Screen display"
+    }
+   ],
+   "description": "This ZeroKor steps up to a 146Wh pack with two AC outlets sharing a 100W maximum, a 9V to 12.6V DC output and a screen. It sits between the 97.6Wh ZeroKor and the 192Wh Akiisolo.\n\nThe drawback is paying for Wh without gaining watts. The 100W cap is lower than the 120W of the smaller ZeroKor, and the DC window differs, so check any 12V accessory first. At 146Wh it exceeds the 100Wh no-approval flight line.\n\nWatch the screen to learn real load, and keep it out of heat. It is the sensible middle unit.",
+   "bestFor": "Buyers who want more runtime than a pocket pack with two wall outlets.",
+   "pros": [
+    "146Wh sits between the small and large units",
+    "Two AC outlets plus a DC output",
+    "Screen display helps track real consumption",
+    "Solar, car and wall recharge paths"
+   ],
+   "cons": [
+    "Lower AC ceiling than the smaller ZeroKor despite the larger pack",
+    "Over the 100Wh carry-on limit for flights"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CXJ8S9Q9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xqWDIBbAL._SL500_.jpg",
+   "priceTier": "10/12 (1 = cheapest)"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Watt-hours versus watts",
+   "explanation": "Watt-hours are the tank and watts are the pipe. A 192Wh pack like the Akiisolo that can only deliver 100W at once will run a 60W laptop for roughly two and a half hours after conversion losses, while the 89.6Wh DaranEner R100 manages about one hour twenty. The mistake buyers make is comparing Wh alone and ignoring that the inverter cap decides which devices will run at all."
+  },
+  {
+   "criterion": "Real AC output, not peak",
+   "explanation": "Peak or surge numbers cover a startup spike lasting a fraction of a second. The 200W peak on the DaranEner units and the Akiisolo does not mean they can run a 150W device. Only the 100W continuous rating counts. Anything with a heating element, such as a kettle, hair dryer or space heater, will exceed it immediately."
+  },
+  {
+   "criterion": "Battery chemistry",
+   "explanation": "LiFePO4 cells, used in the DaranEner pair and the powkey 96Wh, typically survive 2,000 to 3,000 cycles, while standard lithium-ion often lasts 500 to 800. For a pack that you will cycle weekly, that is the difference between years and a few seasons. The tradeoff is slightly more weight for the same Wh. Check the listing wording, because the ZeroKor models do not state the chemistry."
+  },
+  {
+   "criterion": "Carry-on legality",
+   "explanation": "Airlines key on watt-hours: up to 100Wh is generally allowed without approval, 100 to 160Wh usually needs airline approval, and above 160Wh is not allowed on passenger aircraft. The 89.6Wh DaranEner units, the 96Wh powkey and the 97.6Wh ZeroKor sit under the line; the 146Wh ZeroKor needs approval and the 192Wh Akiisolo cannot fly. Airline rules vary, so confirm before you travel."
+  },
+  {
+   "criterion": "Recharge speed and input cap",
+   "explanation": "A small pack is only as useful as how fast it refills. The Daran 89.6Wh is rated for 0 to 80 percent in about 1.5 hours, a useful top-up between uses. A 192Wh pack on a slow input can need several hours. Look at input wattage and which paths work: wall, car socket, USB-C and solar all behave differently."
+  },
+  {
+   "criterion": "Port mix that matches your gear",
+   "explanation": "A USB-C 100W port such as the powkey 96Wh offers is more efficient for a laptop than going through an inverter. The ZeroKor models add two AC outlets and a DC output for lamps and 12V accessories. Count what you actually plug in, and remember that all ports on a unit share one battery and one total limit."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Wh (watt-hours)",
+   "meaning": "The energy stored in the battery. Divide by your load in watts, then multiply by about 0.85 for conversion losses, to estimate runtime.",
+   "watchFor": "The Akiisolo at 192Wh holds more than twice the DaranEner R100 at 89.6Wh, but both are capped at 100W output."
+  },
+  {
+   "spec": "Rated vs peak watts",
+   "meaning": "Rated watts is what the inverter can supply continuously. Peak covers a momentary startup surge, typically under a second or two.",
+   "watchFor": "The 200W peak printed beside the 100W rating on the DaranEner and Akiisolo units is not a usable continuous figure."
+  },
+  {
+   "spec": "LiFePO4",
+   "meaning": "Lithium iron phosphate cells trade a little weight for much longer cycle life and better heat tolerance than standard lithium-ion.",
+   "watchFor": "The powkey 96Wh and both DaranEner units state LiFePO4; the ZeroKor listings do not."
+  },
+  {
+   "spec": "USB-C PD",
+   "meaning": "Power Delivery negotiates voltage with the device, letting one port charge phones or a laptop directly. It skips inverter losses.",
+   "watchFor": "The powkey's 100W PD port is the only output here that can charge a larger laptop directly at that rate."
+  },
+  {
+   "spec": "DC output voltage",
+   "meaning": "A 12V style DC port feeds car accessories directly. Voltage windows differ between models and a mismatch can fail to power a device.",
+   "watchFor": "The ZeroKor 97.6Wh lists 12V to 16.8V while the ZeroKor 146Wh lists 9V to 12.6V, so they are not interchangeable."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Usable energy",
+   "description": "We evaluated stated watt-hours and converted them into realistic runtime with a conversion loss allowance. We compared the 89.6Wh and 96Wh units against the 146Wh and 192Wh packs. Capacity counted most when output could actually use it."
+  },
+  {
+   "title": "Output honesty",
+   "description": "We evaluated rated continuous watts separately from peak watts and ignored peak in scoring. We checked how many outlets share the limit. The ZeroKor units, with two outlets on one ceiling, were judged on that shared total."
+  },
+  {
+   "title": "Battery longevity",
+   "description": "Based on the listing wording, we favored stated LiFePO4 cells over unstated chemistry. We considered how often each pack is likely to be cycled in its intended use. Cycle life matters more for a daily laptop pack than a storm backup."
+  },
+  {
+   "title": "Portability and travel",
+   "description": "We evaluated weight, size and the 100Wh and 160Wh air travel thresholds. The Daran 89.6Wh at 2.54 pounds set the low end for weight. Units over 160Wh were marked ground-use only."
+  },
+  {
+   "title": "Recharge options",
+   "description": "We reviewed which recharge paths each listing offers and the quoted refill times. Owner feedback patterns on small packs often center on slow refills, so fast recharge counted. Solar input requirements were checked where stated."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Charging a USB-C laptop and phone",
+      "powkey 96Wh",
+      "100W USB-C PD skips the inverter"
+     ],
+     [
+      "Flying with a pack in carry-on",
+      "DaranEner R100",
+      "89.6Wh is under the 100Wh line"
+     ],
+     [
+      "Two small AC devices at camp",
+      "ZeroKor 97.6Wh",
+      "Two outlets and a status screen"
+     ],
+     [
+      "Router and lights during an outage",
+      "Akiisolo 192Wh",
+      "Largest energy tank in this lineup"
+     ],
+     [
+      "Fits in a jacket or daypack side pocket",
+      "DaranEner 89.6Wh pocket unit",
+      "2.54 lb and 6.5 x 3.3 x 4 in"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Spend level",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest in this guide",
+      "powkey 96Wh",
+      "Lowest price tier, strong USB-C output"
+     ],
+     [
+      "Low to middle",
+      "DaranEner R100",
+      "LiFePO4 with 100W AC at a modest tier"
+     ],
+     [
+      "Middle",
+      "ZeroKor 97.6Wh",
+      "Two AC outlets for a moderate step up"
+     ],
+     [
+      "Upper band of the cap",
+      "Akiisolo 192Wh",
+      "Most energy for the money spent"
+     ],
+     [
+      "Top of this guide",
+      "ZeroKor 146Wh",
+      "Mid-size battery with two outlets"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Pocket Pack vs Larger Pack",
+   "cards": [
+    {
+     "label": "Pocket pack (about 90Wh)",
+     "text": "The DaranEner R100 and the Daran 89.6Wh pocket unit weigh little, stay under the airline 100Wh line and recharge quickly. They suit trips and short outages. They hold less than half the energy of the Akiisolo."
+    },
+    {
+     "label": "Larger pack (146Wh to 192Wh)",
+     "text": "The ZeroKor 146Wh and Akiisolo 192Wh give longer runtime for routers, lights and phones. They are heavier and cannot fly. They suit the car, the camper and the house."
+    }
+   ],
+   "note": "Pick the pocket pack if you travel by air or want it always on you; pick the larger pack if it will mainly sit in a closet for outages."
+  },
+  {
+   "subheading": "AC Outlets vs USB-C Only",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Wall plug devices needed",
+      "ZeroKor 97.6Wh",
+      "Two AC outlets, 120W max shared"
+     ],
+     [
+      "Mostly USB-C gadgets",
+      "powkey 96Wh",
+      "100W PD, no wasted inverter"
+     ],
+     [
+      "One AC outlet plus lots of USB",
+      "Akiisolo 192Wh",
+      "1 AC, 2 USB-C, 2 USB-A, 2 DC"
+     ],
+     [
+      "A bit of everything, small",
+      "DaranEner R100",
+      "7 ports with 100W AC"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Laptop Charging Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A USB-C PD port rated for your laptop's charger wattage, and a battery big enough for the work session. A laptop that charges at 65W drains a 90Wh pack in well under two hours at full load."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The powkey 96Wh is the strongest because its 100W USB-C PD port feeds the laptop directly. The DaranEner R100 works through its AC outlet but with inverter losses."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want to run anything above 100W, such as a mini fridge or power tool charger, or you want more than a weekend of runtime. The Akiisolo 192Wh is the largest here, and a step above this cap is the better answer."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need phone and laptop top-ups. The powkey 96Wh or the DaranEner R100 cover that without paying for energy you will not use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Top up stored pack",
+   "interval": "Every 3 months",
+   "why": "Lithium packs self-discharge slowly. Store near half charge and top up so the battery never sits empty, which can damage cells."
+  },
+  {
+   "task": "Switch inverter off",
+   "interval": "After each use",
+   "why": "An idle AC inverter keeps drawing power. On a 90Wh pack that can flatten the battery over days."
+  },
+  {
+   "task": "Check vents and ports",
+   "interval": "Monthly",
+   "why": "Dust in vents raises temperature and lint in USB ports causes poor contact. Blow them out gently."
+  },
+  {
+   "task": "Inspect cables",
+   "interval": "Every 6 months",
+   "why": "Thin charge cables and DC leads fray at the connector. A damaged lead can heat up or intermittently disconnect."
+  },
+  {
+   "task": "Full discharge and recharge cycle",
+   "interval": "Once a year",
+   "why": "One complete cycle helps keep the state-of-charge readout honest and shows whether runtime has dropped noticeably. "
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a power station under $100 run a mini fridge or space heater?",
+   "a": "No. Units in this guide offer around 100W to 120W of continuous AC output, while a mini fridge needs a higher startup surge and a heater needs well over 500W."
+  },
+  {
+   "q": "Is LiFePO4 worth caring about at this price?",
+   "a": "Yes if you cycle the pack often. LiFePO4 cells in the DaranEner units and the powkey typically last several times as many cycles as standard lithium-ion."
+  },
+  {
+   "q": "Are these power stations allowed on planes?",
+   "a": "Generally, packs up to 100Wh are allowed in carry-on, 100 to 160Wh usually need airline approval, and above 160Wh are not allowed. The 89.6Wh, 96Wh and 97.6Wh units here are under the line."
+  },
+  {
+   "q": "Do prices change, and is the cap exact?",
+   "a": "Prices move often. The cap in this guide reflects listing prices when it was last updated, so check the current price before buying."
+  },
+  {
+   "q": "Is a bigger Wh number always better?",
+   "a": "No. A 192Wh pack with a 100W inverter runs the same loads as a 90Wh pack, only for longer."
+  },
+  {
+   "q": "How long will a pack like this run a laptop?",
+   "a": "Divide the pack's Wh by the laptop's draw, then take about 85 percent for conversion losses. A 96Wh pack running a 45W laptop gives roughly 1.8 hours, and a 192Wh pack roughly twice that."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41wrmdLv1TL._SL500_.jpg"
+}

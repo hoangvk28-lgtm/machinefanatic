@@ -1,0 +1,22 @@
+# Power inverters research notes
+
+- An inverter turns 12V DC battery power into roughly 120V AC for household-style plugs.
+- Size to continuous watts. Peak or surge watts only cover a brief startup spike, typically a fraction of a second to a few seconds.
+- Peak numbers such as "150W continuous / 300W peak" are a marketing lever; the continuous figure is the real rating.
+- Modified sine wave is a stepped approximation. Fine for chargers, lights, simple resistive loads; can buzz, run hot or misbehave with motors, audio gear, some chargers and light dimmers.
+- Pure sine wave matches grid power, runs motors and sensitive electronics cleaner and usually more efficiently, and costs more.
+- Microwaves, compressors and many motor loads need pure sine or give reduced output on modified sine.
+- A cigarette lighter socket is fused around 10 to 15A, so about 120 to 180W at 12V is the practical ceiling.
+- A 300W or larger unit on a lighter plug is still limited by the socket and its fuse; thin plug wiring can brown out before the fuse blows.
+- Above about 150 to 200W, connect directly to the battery with clamps or ring terminals.
+- DC current is AC watts divided by 12, plus efficiency loss: 1000W draws about 90 to 100A, 2000W roughly 190A or more.
+- Cable length and gauge matter: short, thick cables lose less voltage. Keep runs short, use a fuse near the battery.
+- Conversion efficiency is typically 85 to 92 percent; idle draw drains a battery even with no load.
+- Low-voltage shutdown protects the battery; typical alarm near 10.5V, cutoff near 10V.
+- Running a large inverter with the engine off drains a starting battery fast; run the engine for heavy loads or use a deep-cycle battery.
+- Ground the chassis lug on larger units where the manual says so; keep ventilation clear, fans cycle on under load.
+- Hardwire terminals on larger units are meant for fixed installs with proper wire and a fuse.
+- Inrush loads (motors, compressors) can need 2 to 3 times running watts; size continuous capacity accordingly.
+- Remote switches and displays are convenience, not capability.
+- Tool-battery inverters (for example 56V platforms) trade capacity for portability and clean output.
+- Fuses and ratings vary widely among no-name brands; check actual spec wording for continuous power.

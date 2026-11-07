@@ -1,0 +1,22 @@
+# Air purifier research notes
+
+- CADR (AHAM) is filtered airflow in cubic feet per minute, measured at the highest fan speed; lower speeds deliver less.
+- Separate CADR numbers exist for smoke, dust and pollen; smoke is the hardest particle to capture.
+- AHAM 2/3 rule: minimum CADR is about two thirds of room square footage (for 8 ft ceilings).
+- Marketing "up to X sq ft" often means one air change per hour, not the 4 to 5 changes per hour used for allergy-grade cleaning.
+- Air changes per hour = CADR x 60 divided by room volume in cubic feet.
+- Aim for roughly 4 to 5 air changes per hour for allergy or smoke use; high ceilings reduce effective coverage.
+- A purifier with more CADR than needed can run at a low fan speed, which is quieter and uses less power.
+- True HEPA captures 99.97 percent of 0.3 micron particles; "HEPA-type" and "HEPA-like" are marketing terms, not a grade.
+- H13 is a European grade; true HEPA labelling should still be checked on the listing.
+- Activated carbon handles odors and some gases; thin carbon sheets saturate quickly, thick beds last longer.
+- Particle filters do not remove gases such as formaldehyde in meaningful amounts without a large carbon bed.
+- Ionizers and similar stages can emit ozone; look for CARB certification or an explicit low-ozone statement.
+- CARB certification covers electrical safety and ozone emission limits, required in California.
+- Keep ionizers off around pet birds.
+- Replacement filter cost and interval decide ownership cost; check genuine filter price before buying.
+- Washable pre-filters catch hair and large dust and extend main filter life; vacuum or rinse them regularly.
+- Noise ratings are usually quoted at the lowest speed; the highest speed is far louder.
+- Auto mode with a PM2.5 sensor adjusts fan speed, but cheap laser sensors drift and read only particles, not gases.
+- Placement: keep clear space around the intake, avoid corners and walls blocking airflow.
+- Buying mistakes: choosing by star rating or brand only, ignoring room fit, ignoring filter cost, ignoring noise in bedrooms.

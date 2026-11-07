@@ -5,13 +5,13 @@
 // Usage: node scripts/clone/prefilter.mjs <slug> [...]   |   --inprogress (every inprogress topic without a spec)
 import { readFileSync, writeFileSync, existsSync, appendFileSync } from "fs";
 import { execFileSync } from "child_process";
+import { isJunk } from "./junk.mjs";
 const W = "scripts/clone/work", IDX = "scripts/clone/source-index.json";
 const rows = JSON.parse(readFileSync(IDX, "utf-8"));
 const DRY = process.argv.includes("--dry");
 let slugs = process.argv.slice(2).filter((a) => a !== "--dry");
 if (slugs[0] === "--inprogress") slugs = rows.filter((r) => r.status === "inprogress" && !existsSync(`${W}/${r.slug}.spec.json`)).map((r) => r.slug);
 const MIN = 4;
-const JUNK = /\b(replacement|spare|blade set|blades? for|cover|shear (pins?|bolts?)|recoil|starters?|blades?|bag only|filter|accessor|attachment|kit for|compatible with|adapter|parts?\b|drill bit|bit for|hand auger|manual)\b/i;
 const UNIT = {
   inch: (n) => new RegExp(`(?<![\\d.])\\b${n}(\\s?-?\\s?(inch|in\\b)|"|''|”)`, "i"),
   v: (n) => new RegExp(`(?<![\\d.])\\b${n}\\s?-?\\s?(v\\b|volt)`, "i"),
@@ -38,12 +38,20 @@ function constraint(slug, items) {
 const count = (slug) => {
   const d = JSON.parse(readFileSync(`${W}/${slug}.input.json`, "utf-8"));
   const items = [...d.picks, ...d.candidates];
-  const c = constraint(slug, items);
-  if (!c) return { c: null, n: Infinity, kw: d.mainKeyword };
+  const spec = constraint(slug, items);
+  // "under-300" topics: only items whose live Amazon price is at or below the cap count.
+  const cap = +(slug.match(/-under-(\d+)$/)?.[1] || 0);
+  if (!spec && !cap) return { c: null, n: Infinity, kw: d.mainKeyword };
+  const price = (i) => parseFloat(String(i.price_internal_only || "").replace(/[^\d.]/g, "")) || null;
+  const c = {
+    label: [spec?.label, cap && `price <= ${cap}`].filter(Boolean).join(" + "),
+    test: (t, i) => (!spec || spec.test(t, i)) && (!cap || (price(i) !== null && price(i) <= cap)),
+    cap,
+  };
   const seen = new Set();
   const ok = items.filter((i) => {
     const t = i.title || ""; const key = t.toLowerCase().replace(/[^a-z0-9]/g, "").slice(0, 28);
-    if (JUNK.test(t) || seen.has(key) || !c.test(t, i) || !nounRe(slug).test(t)) return false;
+    if (isJunk(t) || seen.has(key) || !c.test(t, i) || !nounRe(slug).test(t)) return false;
     seen.add(key); return true;
   });
   return { c, n: ok.length, kw: d.mainKeyword };
@@ -52,8 +60,9 @@ const skipped = [];
 for (const slug of slugs) {
   let r = count(slug);
   if (r.c && r.n < MIN) {
-    const kw = r.kw.replace(/^best\s+/i, "");
-    execFileSync("node", ["scripts/clone/search.mjs", slug, kw, `${kw} kit`, `${kw} cordless OR gas`], { stdio: "ignore" });
+    const kw = r.kw.replace(/^best\s+/i, "").replace(/\s*under\s*\$?\d+.*$/i, "");
+    const extra = r.c.cap ? [`${kw} budget`, `cheap ${kw}`, `${kw} under ${r.c.cap} dollars`] : [kw, `${kw} kit`, `${kw} cordless OR gas`];
+    execFileSync("node", ["scripts/clone/search.mjs", slug, ...extra], { stdio: "ignore" });
     r = count(slug);
   }
   // Battery voltage is often missing from titles (EGO lists models by CFM), so voltage topics only get a warning.
