@@ -16,14 +16,14 @@ Best guides target **3,300 to 3,800 words**, with 5 to 6 products and 3-paragrap
 
 ## MachineFanatic rule: writer agents run on Sonnet only (added 2026-11-07, per explicit user instruction)
 - Every subagent spawned for this project (guide writers, researchers, any helper) must use `model: "sonnet"`. Never spawn an Opus agent unless the user gives a new explicit order to do so. Reason: token cost.
-- This overrides the runbook's default agent choice. At most 3 writer agents run at the same time (user instruction 2026-11-07); queue the rest and start a fresh agent when one finishes.
+- This overrides the runbook's default agent choice. **Default: 1 or 2 Sonnet writer agents, each writing its whole batch in one continuous run** (user's proven method; a long run reuses its prompt cache, while every new agent pays startup again). Never suggest or spawn more agents to "test" or "compare": that only adds cost (user instruction 2026-11-07).
 
 ## MachineFanatic rule: token budget for guide writing (added 2026-11-07, per explicit user instruction)
 Target 15k to 20k AI tokens per guide (round 1 cost ~36k to 39k per guide). Every writer round must use the lean workflow:
 - Writers read ONLY `docs/BEST-GUIDE-BRIEF-LEAN.md` (not CLAUDE.md, the runbook, the full brief or reference guides). Keep the lean brief in sync if the full brief's rules change.
 - Writers read `scripts/clone/work/<slug>.compact.json` (made by `node scripts/clone/compact.mjs <slug>` or `--all`), never the raw `.input.json`.
 - Research once per machine cluster into `docs/research/<cluster>.md`; later guides in that cluster reuse it with no web search.
-- Each writer agent handles at most 5 guides (context grows per tool call), Sonnet only, writes each spec in one Write, then `node scripts/clone/selfcheck.mjs <slug>` and fixes by Edit before build/audit.
+- Each writer agent takes its full list of prefiltered slugs (grouped by cluster so research files are reused), Sonnet only, writes each spec in one Write, then `node scripts/clone/selfcheck.mjs <slug>` and fixes by Edit before build/audit.
 - Before spawning writers, the coordinator runs `node scripts/clone/prefilter.mjs --inprogress` (zero AI tokens): it skips topics whose slug size/tonnage/PSI/gallons has fewer than 4 matching machines after automatic extra searches. Only hand writers the topics it leaves. Round 2 lost roughly 40k tokens per skipped topic before this step existed.
 - Coordinator (not writers) runs registration, mark.mjs, clone-log, tsc, build, commit.
 
@@ -39,7 +39,7 @@ Each item below cost the user real tokens or rework once. Follow all of them eve
 5. **Edit scripts with the Edit tool, not inline `python -c`/`node -e` strings containing backslashes.** That inserted invisible control characters (`\x08` from `\b`) into `prefilter.mjs` and broke its logic silently. After any scripted edit, run `grep -c $'\x08' <file>` (must be 0) and re-run the script.
 6. **Writer prompts must say "cd to the repo root before any node script".** `search.mjs` reads `.env.local` from the current directory; one agent ran it elsewhere, got "API key length 0" and skipped viable topics.
 7. **The 40% candidate quota is never a skip reason.** If 4+ distinct on-topic machines exist, the guide gets written (round 2 nearly skipped two viable guides over it).
-8. **Do not queue extra slugs onto a running agent.** Start a fresh agent when one finishes (max 3 at once, Sonnet only): a long-running agent re-sends its whole growing context on every call.
+8. **Give each writer its whole list up front** (1 or 2 agents, Sonnet only) instead of spawning many short-lived agents; do not report "tokens per guide" from the agent's raw token total as if it were cost, since that total includes cheap cached reads.
 9. **Windows build:** `npm run build` fails because `NODE_OPTIONS=` is POSIX syntax. Use `NODE_OPTIONS=--max-old-space-size=6144 npx next build` from Git Bash and grep for "Compiled successfully" and "Finished TypeScript".
 10. **Source guides are padded.** Old projects' guides often fill a "6 ton" or "Ariens" list with near-size or other-brand items, so "the source had 5 products" does not mean the topic is viable here. Trust prefilter and compact counts, not the source count.
 
