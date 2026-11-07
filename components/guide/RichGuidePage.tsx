@@ -118,15 +118,19 @@ function ProductSection({ product }: { product: RichGuideProduct }) {
         <header className="flex items-center gap-4 px-5 py-4 bg-brand text-white">
           <span className="font-display text-3xl font-bold text-cta leading-none tabular-nums">{String(product.rank).padStart(2, "0")}</span>
           <div className="min-w-0">
-            <p className="mf-spec uppercase text-white/60">{product.badge}</p>
-            <h3 className="text-lg sm:text-xl text-white leading-snug break-words">{product.name}</h3>
+            <a href={product.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="mf-spec uppercase !text-white/60 hover:!text-cta transition-colors">{product.badge}</a>
+            <h3 className="text-lg sm:text-xl leading-snug break-words">
+              <a href={product.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="!text-white hover:!text-cta underline-offset-4 hover:underline decoration-2 transition-colors">
+                {product.name}
+              </a>
+            </h3>
           </div>
         </header>
 
         <div className="grid md:grid-cols-[260px_1fr]">
           <div className="p-5 border-b md:border-b-0 md:border-r border-border flex flex-col gap-4">
-            <a href={product.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="flex items-center justify-center h-56 rounded-lg bg-white">
-              <Image src={product.imageUrl} alt={product.name} width={240} height={220} className="object-contain w-full h-full" unoptimized />
+            <a href={product.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="group flex items-center justify-center h-56 rounded-lg bg-white border border-transparent hover:border-cta transition-colors overflow-hidden">
+              <Image src={product.imageUrl} alt={product.name} width={240} height={220} className="object-contain w-full h-full transition-transform duration-300 group-hover:scale-105" unoptimized />
             </a>
             <div className="flex flex-wrap gap-1.5">
               {product.specs.map((spec, i) => (
