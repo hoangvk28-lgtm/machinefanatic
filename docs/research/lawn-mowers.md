@@ -1,0 +1,19 @@
+# Lawn mowers (battery) research
+- Voltage number is a platform label, not a power rating. "Max" voltage is the fully charged peak; nominal is lower (60V max is about 54V nominal, 80V max about 72V).
+- Cross-brand batteries sharing a voltage number are not interchangeable. Match the voltage to the platform you already own.
+- Runtime is set by watt-hours (volts x amp-hours) and load. Amp-hours alone mislead when comparing 40V, 60V and 80V packs.
+- Deck width: 21 inch is the common sweet spot for quarter to half acre lots; 25 to 30 inch cuts fewer passes but is heavier and strains a pack.
+- Acreage per charge claims assume light, dry, even grass; thick, wet or tall grass can cut runtime by a third or more.
+- Brushless motors cut heat and brush wear; the blade tip speed and airflow decide lift and bagging, not motor watts alone.
+- Self-propel on cordless is almost always rear-wheel drive; it helps slopes and bagging weight. Variable speed beats single speed.
+- Self-propel draws from the same pack, so a self-propelled model gets less acreage than the push version on the same battery.
+- Mulching needs a closed deck and blade overlap; mow often and cut no more than one third of blade height.
+- Bagging on battery loses runtime because of the airflow load and the heavy bag.
+- Folding handles and vertical storage matter in garages; battery mowers store upright on most decks.
+- Keep packs indoors in extreme heat or cold; charge before storing at partial state for winter.
+- Hose off the underdeck gently, never pressure wash the motor area; ingress rating such as IPX4 means splash resistance only.
+- Blades: sharpen or replace yearly; a dull blade tears grass and drains the pack faster.
+- Tool-only kits need a separate battery and charger, which can cost more than the bare price suggests.
+- Dual-battery mowers let you swap mid job; single big pack mowers are simpler but a dead pack ends the job.
+- Riding and robot mowers are different machines with different buying logic; do not mix them with walk-behind picks.
+- True all-wheel-drive mowing is mostly found on robot mowers and a few remote slope mowers; walk-behinds with "AWD" are rare and mostly gas.

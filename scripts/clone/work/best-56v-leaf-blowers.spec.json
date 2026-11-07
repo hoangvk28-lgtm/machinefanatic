@@ -1,0 +1,633 @@
+{
+ "guideTitle": "Best 56V Leaf Blowers (2026)",
+ "metaTitle": "Best 56V Leaf Blowers in 2026",
+ "metaDescription": "Seven 56V cordless leaf blowers from EGO and ECHO, ranked on airflow, battery pairing and handheld versus backpack fit, so you buy the right pack once.",
+ "expertTake": "The EGO LB8803-2 is the pick for anyone with real leaf volume because it pairs the strongest airflow in the 56V field with two packs. The LB5302 is the value pick if your lot is small and you want one pack in the box. If your yard is a postage stamp and you only clear a patio, a battery blower in any voltage is overkill and a broom wins.",
+ "introParagraphs": [
+  "A 56V blower is a platform decision first and a tool decision second. The battery you buy today will run your trimmer, mower and chainsaw for the next decade, so the blower you pick should earn its place in that family rather than just win a spec race on the box.",
+  "Leaf work comes down to moving volume and loosening stuck material, and the two jobs want different strengths. We evaluated these on the spec sheet, the fan layout, the pack included in the kit and the kind of yard each configuration realistically suits, based on owner feedback patterns."
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Airflow volume versus air speed",
+   "explanation": "CFM is how much air the fan moves; MPH is how fast it leaves the nozzle. Volume pushes a dry pile across a lawn, speed peels wet leaves off pavement. The LB8803-2 leads this group at 880 CFM, the LB5302 sits at 530, and the LB6150 trades volume for a 170 MPH peak."
+  },
+  {
+   "criterion": "Rated mid dial, not turbo",
+   "explanation": "Turbo is a short burst that empties a pack quickly, and runtime claims are quoted at low speed. The LB7654 dial runs from 260 to 580 CFM before turbo, which is the range you will actually live in."
+  },
+  {
+   "criterion": "Battery capacity in the box",
+   "explanation": "Ah is fuel tank size. A 2.5Ah pack, as with the LB5302 and the ECHO eFORCE, is fine for quick cleanups but runs thin on a large lot. The LB8803-2 ships with two 4.0Ah packs and the LB6003 backpack uses a 7.5Ah pack for a quoted 180 minutes."
+  },
+  {
+   "criterion": "Handheld or backpack format",
+   "explanation": "Handheld blowers like the LB6703 are light and quick to start, but the weight sits on one wrist. A backpack such as the LB6003 moves the battery and fan mass to your hips and suits sessions beyond half an hour."
+  },
+  {
+   "criterion": "Kit versus bare tool",
+   "explanation": "The LB6150 ships bare, with no battery or charger, so it only makes sense if you already own EGO packs. The pack is the expensive component, which means a bare tool saves real money for existing owners and costs more in total for newcomers."
+  },
+  {
+   "criterion": "Platform ecosystem lock-in",
+   "explanation": "EGO packs and ECHO packs are both labelled 56V but do not interchange, so the ECHO eFORCE belongs to a separate family from the six EGO blowers here. Decide which brand's mower, trimmer and saw lineup you would rather own, because the blower is the cheapest tool in that decision and the easiest to swap later."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CFM",
+   "meaning": "Cubic feet per minute of air at the nozzle. It describes volume, which is what moves bulk material.",
+   "watchFor": "The LB8803-2 at 880 CFM and the LB5302 at 530 CFM differ by about two thirds, a real gap on large piles."
+  },
+  {
+   "spec": "MPH",
+   "meaning": "Air speed at the nozzle exit, usually a turbo peak. Speed lifts stuck and wet debris rather than moving a bulk pile.",
+   "watchFor": "The LB6150 claims 170 MPH while the ECHO eFORCE claims 151, so wet-pavement work favours the former."
+  },
+  {
+   "spec": "Ah rating",
+   "meaning": "Battery capacity in amp hours. Roughly, a larger number is a longer runtime at the same dial setting.",
+   "watchFor": "A 2.5Ah pack on the LB5302 is not the same job as the 7.5Ah pack with the LB6003."
+  },
+  {
+   "spec": "Quoted runtime",
+   "meaning": "Manufacturer run time is quoted at a low setting. Turbo drains the same pack in a fraction of that time.",
+   "watchFor": "The LB6003 quotes 180 minutes while the LB5302 quotes 75; neither number applies at full turbo."
+  },
+  {
+   "spec": "Turbo mode",
+   "meaning": "A momentary or latched maximum setting. It is useful for stubborn spots but not for sustained work.",
+   "watchFor": "Every EGO model here has a turbo path, so the differentiator is the dial range below it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Airflow and fan design",
+   "description": "We read the spec sheet for CFM, MPH and the dial range, then sorted each blower into a volume or speed bias. The LB8803-2 sits at the top of the volume scale and the LB6150 at the top of the speed scale."
+  },
+  {
+   "title": "Battery pairing",
+   "description": "We checked what ships in the kit and how the pack matches the fan. A strong fan with a single small pack scores lower than a mid fan with a right-sized pack."
+  },
+  {
+   "title": "Format and fatigue",
+   "description": "We separated handhelds from the backpack and considered trigger lock, cruise control and weight placement."
+  },
+  {
+   "title": "Ecosystem value",
+   "description": "We favoured picks that share packs with other tools in the same family and flagged the bare tool listing. The ECHO eFORCE was scored as a separate ecosystem from the six EGO models."
+  },
+  {
+   "title": "Honesty of the numbers",
+   "description": "Rated mid dial output and sensible runtimes counted more than turbo peaks. The LB7654 dial from 260 to 580 CFM is the kind of published range we trust more than a single headline figure."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Lot Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small yard, quick weekly cleanup",
+      "EGO LB5302",
+      "530 CFM and a 2.5Ah pack suit short jobs."
+     ],
+     [
+      "Mid suburban lot with trees",
+      "EGO LB7654",
+      "765 CFM and a 5.0Ah pack cover most autumn work."
+     ],
+     [
+      "Large lot, long sessions",
+      "EGO LB6003 backpack",
+      "7.5Ah pack and hip carry for 30+ minute work."
+     ],
+     [
+      "Heavy leaf fall, wet material",
+      "EGO LB8803-2",
+      "880 CFM with two 4.0Ah packs."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay if you own EGO packs",
+      "EGO LB6150 (bare)",
+      "615 CFM and 170 MPH without paying for a second pack."
+     ],
+     [
+      "Entry kit",
+      "EGO LB5302",
+      "A low-cost kit with a pack included."
+     ],
+     [
+      "Mid kit",
+      "EGO LB6703",
+      "670 CFM and a 4.0Ah pack in one box."
+     ],
+     [
+      "Premium kit",
+      "EGO LB8803-2",
+      "Two packs and the most airflow."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Handheld vs Backpack",
+   "cards": [
+    {
+     "label": "Handheld",
+     "text": "The LB6703, LB7654 and LB5302 start instantly, store on a shelf and weigh less on the first minute. They suit lots where your longest session stays under 20 minutes."
+    },
+    {
+     "label": "Backpack",
+     "text": "The LB6003 carries its 7.5Ah pack on your back and quotes 180 minutes on a charge. It costs more to buy and takes more room to store, but your arm stops carrying the weight."
+    }
+   ],
+   "note": "Pick the LB6003 if you clear for more than half an hour; otherwise take a handheld."
+  },
+  {
+   "subheading": "Kit vs Bare Tool",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Already own EGO packs",
+      "EGO LB6150",
+      "Bare tool, 615 CFM, no duplicate pack."
+     ],
+     [
+      "Starting the platform",
+      "EGO LB7654",
+      "The 5.0Ah pack in the box starts your battery stock."
+     ],
+     [
+      "Want a spare pack included",
+      "EGO LB8803-2",
+      "Two 4.0Ah packs let you rotate."
+     ],
+     [
+      "Prefer ECHO tools",
+      "ECHO eFORCE",
+      "Keep the blower in the same family as ECHO equipment."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Wet Leaves Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "High air speed and a concentrator nozzle matter more than raw volume, because wet leaves cling to pavement. Also look for a turbo path you can hold briefly without draining the pack."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The EGO LB6150 at 170 MPH is the speed specialist, and the LB8803-2 adds volume to keep a wet pile moving. The LB5302 at 530 CFM is the weakest choice for stuck, wet material."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have mature trees, a quarter acre or more, or you clear every week of fall. The LB8803-2 or the LB6003 backpack save real time and avoid mid-job battery swaps."
+    },
+    {
+     "label": "Save if",
+     "text": "Your yard is small or you use a blower for patio cleanup only. The LB5302 does the job, and an extra pack is cheaper than extra airflow you will not use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean intake screen",
+   "interval": "After every use",
+   "why": "Grass and leaf fines clog the intake and raise motor temperature. A clear screen keeps airflow at its rated level."
+  },
+  {
+   "task": "Store pack partly charged",
+   "interval": "End of season",
+   "why": "Lithium packs age faster when stored empty or full in heat. Keep them indoors at a moderate temperature."
+  },
+  {
+   "task": "Wipe fan housing",
+   "interval": "Monthly in season",
+   "why": "Wet leaf residue dries onto the fan and unbalances it. A damp cloth keeps vibration down."
+  },
+  {
+   "task": "Check nozzle fit",
+   "interval": "Seasonally",
+   "why": "A loose nozzle leaks air and loses speed. Re-seat it and check the tab for cracks."
+  },
+  {
+   "task": "Rotate packs",
+   "interval": "Each session on big lots",
+   "why": "Using one pack until empty each time wears it faster than alternating. Two-pack kits make this easy."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a 56V blower stronger than a 40V blower?",
+   "a": "Not automatically. Voltage is the platform; the fan, motor and nozzle decide output. A 56V blower with a small fan can be weaker than a good 40V unit, so compare CFM and MPH on the same dial setting."
+  },
+  {
+   "q": "Which is the best value 56V blower here?",
+   "a": "The EGO LB5302 is a low-cost kit and covers small lots well. If you already own packs, the bare LB6150 gives more airflow for less outlay. Newcomers to the platform should price the pack into the total."
+  },
+  {
+   "q": "How long will the batteries last?",
+   "a": "Quoted runtimes are low-speed figures, around 75 minutes for the 2.5Ah LB5302 and 180 for the LB6003. Turbo drains a pack much faster, and cold weather shortens runtime further."
+  },
+  {
+   "q": "Does bigger CFM always mean a better blower?",
+   "a": "No. CFM measures volume, which moves piles, but speed lifts stuck debris. An 880 CFM blower may still struggle on wet pavement if the nozzle speed is modest."
+  },
+  {
+   "q": "Can I use ECHO packs on an EGO blower?",
+   "a": "No. Both are labelled 56V but the packs and connectors are not interchangeable. Pick the brand whose other tools you want, and keep blower and packs in that family."
+  },
+  {
+   "q": "Is a backpack blower worth it for an average yard?",
+   "a": "Rarely. A backpack pays off when sessions run past half an hour or the lot is large. For short cleanups, a handheld is lighter to store, quicker to start and less costly."
+  }
+ ],
+ "guideSlug": "best-56v-leaf-blowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "56V Leaf Blowers",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "relatedGuides": [],
+ "products": [
+  {
+   "id": "B0DSFB2WBB",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "EGO LB8803-2 880 CFM blower, two 4.0Ah packs",
+   "amazonUrl": "https://www.amazon.com/dp/B0DSFB2WBB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PA2TBhX5L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "880 CFM",
+    "Two 4.0Ah packs",
+    "Digital display",
+    "Cruise lock"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V"
+    },
+    {
+     "label": "Airflow",
+     "value": "880 CFM (turbo)"
+    },
+    {
+     "label": "Battery",
+     "value": "2 x 4.0Ah"
+    },
+    {
+     "label": "Format",
+     "value": "Handheld"
+    },
+    {
+     "label": "Kit",
+     "value": "Two batteries"
+    }
+   ],
+   "description": "The LB8803-2 is the volume leader of the 56V group at 880 CFM, and it ships with two 4.0Ah packs, which matters more than the number on the box. A digital display shows speed and battery state and the trigger has a cruise lock for long passes.\n\nThe tradeoff is size and cost. At 880 CFM against the LB7654 at 765 it moves a bigger pile, but the fan housing is larger and the kit is the priciest here. If your lot is under a quarter acre, you are paying for airflow you will rarely use.\n\nOwnership is easy: the two packs let you rotate and charge one while you work. They also run the rest of the EGO line, which is the real value of this kit. Keep the intake screen clear and store the packs indoors for the winter.",
+   "bestFor": "Large lots with heavy, wet leaf fall.",
+   "pros": [
+    "Highest airflow in the 56V group at 880 CFM",
+    "Two 4.0Ah packs let you rotate while charging",
+    "Digital display shows speed and battery state",
+    "Cruise lock reduces trigger fatigue"
+   ],
+   "cons": [
+    "Priciest kit in the lineup",
+    "Overkill for lots under a quarter acre",
+    "Larger housing than the 530 CFM models"
+   ]
+  },
+  {
+   "id": "B09RNDQCV3",
+   "rank": 2,
+   "badge": "Best Handheld Balance",
+   "name": "EGO LB7654 765 CFM blower with 5.0Ah pack",
+   "amazonUrl": "https://www.amazon.com/dp/B09RNDQCV3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31iuyr4jTRL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "765 CFM",
+    "5.0Ah pack",
+    "Dial 260 to 580",
+    "Cruise lock"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V"
+    },
+    {
+     "label": "Airflow",
+     "value": "765 CFM (turbo)"
+    },
+    {
+     "label": "Battery",
+     "value": "5.0Ah"
+    },
+    {
+     "label": "Format",
+     "value": "Handheld"
+    },
+    {
+     "label": "Kit",
+     "value": "One battery"
+    }
+   ],
+   "description": "The LB7654 sits in the middle of the EGO handheld range at 765 CFM, with a variable dial that spans 260 to 580 CFM below turbo. That range is where you actually work, and it is a more useful published number than a peak figure.\n\nIt gives up 115 CFM to the LB8803-2 but ships with one 5.0Ah pack, so you save on the second battery. The weight is typical for a handheld in this class, and long sessions will tire the wrist before the battery gives out.\n\nIf you already plan to add a mower or trimmer, the 5.0Ah pack is a good first stock battery for the platform. Wipe the housing after wet work and check the nozzle seat each season. It is the blower most owners should start with.",
+   "bestFor": "Mid-size suburban lots with trees.",
+   "pros": [
+    "Dial from 260 to 580 CFM covers real working range",
+    "5.0Ah pack suits a full yard session",
+    "Cruise lock for sustained passes",
+    "Strong middle ground on airflow and cost"
+   ],
+   "cons": [
+    "Only one pack in the kit",
+    "Handheld weight tires the wrist on long jobs"
+   ]
+  },
+  {
+   "id": "B07VXK2RSP",
+   "rank": 3,
+   "badge": "Best Backpack",
+   "name": "EGO LB6003 backpack blower, 600 CFM, 7.5Ah pack",
+   "amazonUrl": "https://www.amazon.com/dp/B07VXK2RSP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dYo1cZEPL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "600 CFM",
+    "145 MPH turbo",
+    "7.5Ah pack",
+    "Backpack"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V"
+    },
+    {
+     "label": "Airflow",
+     "value": "600 CFM (turbo)"
+    },
+    {
+     "label": "Battery",
+     "value": "7.5Ah"
+    },
+    {
+     "label": "Format",
+     "value": "Backpack"
+    },
+    {
+     "label": "Kit",
+     "value": "Battery and charger"
+    }
+   ],
+   "description": "The LB6003 is the only backpack in the group, and the hip-carry design is the reason to buy it. Its turbo path reaches 600 CFM and 145 MPH, with controls on the tube and a dial from 260 to 600.\n\nIt does not out-blow the LB8803-2, which beats it by 280 CFM, but it quotes up to 180 minutes of runtime from the 7.5Ah pack, which is more than double the LB5302. For a half-acre yard that endurance matters more than a peak number.\n\nOwnership means a larger tool to store, a harness to adjust and a heavier lift into the garage. The pack is the biggest in the EGO range, so keep a spare charged if you clear all day. Expect a longer charge time on that big pack.",
+   "bestFor": "Large lots and long sessions.",
+   "pros": [
+    "Hip carry spares the wrist on long sessions",
+    "7.5Ah pack quotes 180 minutes on one charge",
+    "Tube-mounted dial controls",
+    "145 MPH turbo helps with stuck debris"
+   ],
+   "cons": [
+    "Less airflow than the LB8803-2",
+    "Bulkier to store than a handheld",
+    "Overbuilt for short cleanups"
+   ]
+  },
+  {
+   "id": "B0BQQ9B2MD",
+   "rank": 4,
+   "badge": "Best Mid-Range Kit",
+   "name": "EGO LB6703 670 CFM blower with 4.0Ah pack",
+   "amazonUrl": "https://www.amazon.com/dp/B0BQQ9B2MD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419YjXEcMtL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "670 CFM",
+    "4.0Ah pack",
+    "80 min runtime",
+    "Lock-on dial"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V"
+    },
+    {
+     "label": "Airflow",
+     "value": "670 CFM (turbo)"
+    },
+    {
+     "label": "Battery",
+     "value": "4.0Ah"
+    },
+    {
+     "label": "Format",
+     "value": "Handheld"
+    },
+    {
+     "label": "Kit",
+     "value": "One battery"
+    }
+   ],
+   "description": "The LB6703 is the simple choice between the LB5302 and the LB7654. It delivers 670 CFM with a 4.0Ah pack and quotes 80 minutes of runtime, with a dial and a lock-on button for cruising.\n\nAgainst the LB7654 it gives up about 95 CFM and 1.0Ah of capacity, but the difference in the box is small. Against the LB5302 it adds 140 CFM and a bigger pack, which is the practical upgrade for a yard with a few mature trees.\n\nEGO packs rotate across the line, so this kit works well as a second blower or a first tool. Keep the intake clear and store the pack indoors. Expect it to feel a touch heavier than the 5xx models.",
+   "bestFor": "Average lots wanting a lighter step up.",
+   "pros": [
+    "670 CFM is a solid mid-step in the range",
+    "4.0Ah pack is a sensible size for a quoted 80 minutes",
+    "Lock-on button for cruising",
+    "Shares packs with the EGO line"
+   ],
+   "cons": [
+    "Neither the strongest nor the cheapest option",
+    "Single pack means mid-job pauses on big lots"
+   ]
+  },
+  {
+   "id": "B08X16QRZR",
+   "rank": 5,
+   "badge": "Best Bare Tool",
+   "name": "EGO LB6150 615 CFM blower, bare tool",
+   "amazonUrl": "https://www.amazon.com/dp/B08X16QRZR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31th4F8670L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "615 CFM",
+    "170 MPH turbo",
+    "Bare tool",
+    "75 min avg"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V"
+    },
+    {
+     "label": "Airflow",
+     "value": "615 CFM (turbo)"
+    },
+    {
+     "label": "Battery",
+     "value": "None included"
+    },
+    {
+     "label": "Format",
+     "value": "Handheld"
+    },
+    {
+     "label": "Kit",
+     "value": "Bare tool"
+    }
+   ],
+   "description": "The LB6150 is a bare-tool blower aimed at people who already own EGO packs. It quotes 615 CFM and a 170 MPH turbo peak, and the trigger has a lock-on dial. That 170 MPH figure is the highest in the group and is what you want for wet pavement.\n\nIt has less volume than the LB6703 at 670 CFM but a much higher speed peak, so it suits clearing driveways and decks rather than moving big lawn piles. Because it ships without a pack, the sticker price is lower but the real cost depends on your battery stock.\n\nIf you are new to EGO, buy a kit instead. If you own two packs, this is the efficient add-on; the 75 minute average runtime assumes a larger pack.",
+   "bestFor": "Existing EGO owners who need a speed-biased blower.",
+   "pros": [
+    "170 MPH turbo peak is the highest here",
+    "No duplicate pack for existing owners",
+    "615 CFM balances speed and volume",
+    "Lock-on dial for long passes"
+   ],
+   "cons": [
+    "No battery or charger included",
+    "Less lawn-pile volume than the 670 or 765 models",
+    "Poor value for new platform buyers"
+   ]
+  },
+  {
+   "id": "B06Y52TZB2",
+   "rank": 6,
+   "badge": "Best Value",
+   "name": "EGO LB5302 530 CFM blower with 2.5Ah pack",
+   "amazonUrl": "https://www.amazon.com/dp/B06Y52TZB2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xbFysiRhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "530 CFM",
+    "2.5Ah pack",
+    "75 min runtime",
+    "Lock-on dial"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V"
+    },
+    {
+     "label": "Airflow",
+     "value": "530 CFM (turbo)"
+    },
+    {
+     "label": "Battery",
+     "value": "2.5Ah"
+    },
+    {
+     "label": "Format",
+     "value": "Handheld"
+    },
+    {
+     "label": "Kit",
+     "value": "One battery"
+    }
+   ],
+   "description": "The LB5302 is the entry kit in the EGO handheld line. It delivers 530 CFM and quotes 75 minutes of runtime from the 2.5Ah pack, with a trigger dial and lock-on button.\n\nCompared with the LB8803-2 it moves about 350 CFM less air, and the 2.5Ah pack runs out much sooner on a big lot. For small yards and driveways that is a fair trade for the lowest kit cost in the group.\n\nBecause it uses the same 56V pack family, the pack that ships with it will later run a trimmer or saw. It is a sensible first purchase if you plan to build the platform slowly. Plan on a second pack if your lot has mature trees.",
+   "bestFor": "Small yards and quick cleanups.",
+   "pros": [
+    "Low kit cost in the lineup",
+    "530 CFM is plenty for small yards",
+    "Shares packs with the EGO line",
+    "Lock-on dial for steady passes"
+   ],
+   "cons": [
+    "2.5Ah pack runs short on large lots",
+    "Weakest airflow of the EGO kits",
+    "Peak speed trails the LB6150"
+   ]
+  },
+  {
+   "id": "B0B15Q6BS3",
+   "rank": 7,
+   "badge": "Best ECHO Alternative",
+   "name": "ECHO eFORCE 56V blower, 526 CFM, 2.5Ah pack",
+   "amazonUrl": "https://www.amazon.com/dp/B0B15Q6BS3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31UzuGdi+SL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "526 CFM",
+    "151 MPH",
+    "2.5Ah pack",
+    "ECHO platform"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V"
+    },
+    {
+     "label": "Airflow",
+     "value": "526 CFM"
+    },
+    {
+     "label": "Battery",
+     "value": "2.5Ah"
+    },
+    {
+     "label": "Format",
+     "value": "Handheld"
+    },
+    {
+     "label": "Kit",
+     "value": "Battery and charger"
+    }
+   ],
+   "description": "The ECHO eFORCE is the odd one out here because it belongs to a different 56V family than the six EGO models. It quotes 526 CFM and 151 MPH with a 2.5Ah pack and charger in the kit.\n\nIts airflow is close to the LB5302 at 530 CFM, but its speed claim sits below the LB6150 at 170 MPH, so it is a decent hard-surface sweeper rather than a speed specialist. The 2.5Ah pack, like the one with the LB5302, is a short-session size.\n\nBuy it only if you want ECHO tools, since its pack will not run EGO equipment. Within the ECHO family it is a sensible compact blower and the pack will fit the rest of the eFORCE line. Check the charger rate before you commit.",
+   "bestFor": "Owners standing on the ECHO eFORCE platform.",
+   "pros": [
+    "151 MPH speed claim suits hard surfaces",
+    "Battery and charger included in the kit",
+    "Matches ECHO eFORCE tools",
+    "526 CFM is on par with the LB5302"
+   ],
+   "cons": [
+    "Pack does not fit EGO tools",
+    "2.5Ah pack gives short sessions",
+    "Less lawn volume than the bigger EGO models"
+   ]
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/41PA2TBhX5L._SL500_.jpg"
+}

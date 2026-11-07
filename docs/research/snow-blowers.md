@@ -1,0 +1,20 @@
+# Snow blowers research notes
+- Single-stage: rubber-tipped auger contacts the pavement, throws snow itself; 10-20 ft throw typical; suits paved walks and short drives, snow up to roughly 8 in.
+- Two-stage: auger feeds snow to a separate impeller; throws farther (20-45 ft), wider path, handles deep and heavy snow, self-propelled wheels or tracks.
+- Single-stage on gravel launches stones; two-stage needs skid shoes raised for gravel.
+- Driveways over about 60 ft or deep snow point to two-stage; small paved areas fit single-stage or battery.
+- Gas: more power and unlimited runtime, but fuel, oil, carburetor, spark plug, pull or electric start upkeep. Heavier, bulkier to store.
+- Battery: lighter, push-button, no fuel, runtime limited; two batteries lets one charge while the other works. Hot-swapping more batteries is the real runtime lever.
+- Cold cuts lithium output sharply near 0 F; store packs indoors, insert just before use.
+- A jammed auger can trip thermal protection; clear jams with battery removed or engine off, never with hands.
+- Voltage alone does not rate power: pack Ah and motor design set watt-hours. Compare Ah x V.
+- Platform lock-in: batteries are shared with the maker's mowers, trimmers, blowers, so existing packs lower cost.
+- Corded electric: unlimited run but cord limits reach and tripping risk; use rated extension cord gauge.
+- Leaving fuel in tank over summer gum up carburetors; use fresh fuel or stabilizer, run dry or drain.
+- Shear pins protect the auger gearbox; carry spares; replace with the correct pin only.
+- Steep driveways: self-propel and tire traction matter more than engine size.
+- Clearing width times intake height decides how many passes; wider is faster but heavier.
+- Chute control (remote crank, joystick) matters for changing throw direction without stopping.
+- Store battery machines with packs removed at partial charge, away from freezing garages.
+- Headlights help for pre-dawn clearing.
+- Wet heavy snow stresses small shovel-style units and drains packs faster than light powder.

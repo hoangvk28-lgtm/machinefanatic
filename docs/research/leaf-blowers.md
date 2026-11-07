@@ -1,0 +1,17 @@
+# Leaf blowers research (cordless)
+- CFM is air volume, MPH is air speed; moving a pile needs volume, loosening wet matted leaves and pavement debris needs speed. Both are manufacturer-measured, usually at the nozzle, and not comparable across brands.
+- Turbo/boost figures are short-burst peaks and drain the pack fast; the practical number is the mid-dial setting.
+- A single small pack (2.0 to 2.5Ah) gives only minutes at full turbo; runtime claims are quoted at low speed.
+- Battery platform voltage and Ah matter together; Ah is capacity, voltage is the platform. Shared battery with mower/trimmer saves money.
+- Bare-tool listings exclude battery and charger; the pack is the expensive part.
+- Axial fans move more air at lower pitch and are lighter; backpack blowers shift weight to the hips and suit 30+ minute sessions but are heavier overall.
+- Handheld suits small to mid lots and quick cleanups; backpack for large lots, long sessions.
+- Cordless blowers are quieter than gas, but noise varies by model; ear protection still sensible on turbo.
+- Keep a spare battery and rotate; store packs partly charged, away from heat and freezing.
+- Brushless motors cut brush wear and run cooler; look for variable trigger plus cruise lock for long jobs.
+- Nozzle concentrators trade volume for speed; flat nozzles help sweep pavement.
+- Marketing gas equivalency claims (27cc, 25cc class) are not a standard measure.
+- Wet leaves weigh far more than dry; expect a lower effective capability than the dry-leaf rating suggests.
+- Check charger speed; a slow charger on a big pack means a long wait between sessions.
+- Do not mix platforms; packs from different voltage families do not interchange.
+- Keep intake screen clear; clogged intake raises motor temperature.

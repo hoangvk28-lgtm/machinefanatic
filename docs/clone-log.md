@@ -39,3 +39,17 @@ best-ecoflow-delta-pro-solar-generator-models-costs-and-buyer-notes: duplicate o
 | best-3-point-tractor-leaf-blowers | No 3-point hitch blowers found after extra searches |
 | best-32-inch-snow-blowers | Only Honda HSS1332 variants (one model line) |
 | best-36-inch-snow-blowers | Only one 36 inch machine available |
+
+## Round 2 (2026-11-07, outdoor-power, 30 topics: 21 written, 9 skipped)
+| Skipped slug | Reason |
+|---|---|
+| best-5-ton-electric-log-splitters | Only one true 5 ton machine (Earthquake 43715, listed twice) |
+| best-6-ton-electric-log-splitters | No machine rated 6 ton; source guide used 6.5 and 7 ton units |
+| best-9-ton-electric-log-splitters | No 9 ton electric splitter |
+| best-amerisun-snow-blowers | Only 3 distinct Amerisun machines |
+| best-ariens-snow-blowers | Only 3 distinct Ariens machines; source guide padded with EGO, PowerSmart and Ariens oil |
+| best-60v-cordless-lawn-edgers | Only 1 true 60V edger |
+| best-80v-cordless-lawn-edgers | Only 2 true 80V edgers |
+| best-altec-wood-chippers | No Altec machines on Amazon (blade kits and covers only) |
+| best-asplundh-wood-chippers | No Asplundh machines on Amazon |
+Note: best-agri-fab-lawn-sweepers and best-all-wheel-drive-lawn-mowers use source picks only (no on-topic candidates existed; quota waived).

@@ -1,0 +1,16 @@
+# Tow-behind lawn aerators research
+- Ground driven implements; no engine. Pulled by a mower, tractor or ATV.
+- Plug (core) tines remove soil cores, leaving channels for air, water, roots; best for compacted turf. Spike tines push solid holes and can compact soil around each hole.
+- Spikes suit light compaction, sandy soil, small areas, and need repeat passes.
+- Core size about 1/2 to 3/4 in wide; depth up to about 3 in on tow-behind units (needs weight and soft soil).
+- Weight tray or bed: tines only penetrate when loaded; add weight such as concrete blocks or bagged sand, within the stated capacity. Dry hard soil resists penetration.
+- Aerate when soil is moist, not saturated. Cool-season turf: fall; warm-season: late spring to early summer.
+- Shovel test: if a shovel sinks easily to about half blade depth, compaction is mild.
+- Tine count and spacing set hole density; 2 to 3 inch spacing guideline; multiple passes in different directions.
+- Galvanized or coated steel resists rust; clean soil off and oil tines after use.
+- Tire size matters on transport: small tires and bearings are wear points. Flat-free tires avoid punctures.
+- Tines dull or bend on rocks and roots; some models sell replacement knives.
+- Universal hitch; speed under about 4 mph.
+- Storage: store dry, vertical or on its tail where possible.
+- Dethatchers (spring tines) and spreaders are different jobs; not aerators.
+- Manual step aerators are out of scope here.

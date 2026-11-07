@@ -1,0 +1,13 @@
+# Edgers research (cordless)
+- A dedicated blade edger uses a rigid steel blade on wheels and cuts a vertical trench; string trimmers rotate the head 90 degrees and are less crisp and shallower.
+- Depth varies by model: roughly 2 inches on many cordless 7 to 8 inch blade models, deeper on larger units.
+- Guide wheel or curb wheel keeps cut straight and limits blade-to-pavement contact.
+- Brushless motor reduces heat and extends runtime under load in compacted soil.
+- Battery platform voltage matters: 60V and 80V packs do not interchange; check the exact platform before buying a tool-only unit.
+- Tool-only listings save money only if you already own the pack.
+- Blades dull faster on concrete; inspect often, replace when rounded. Avoid oil that attracts grit.
+- Raise the blade for first pass in overgrown edges, lower for second to reduce motor strain.
+- Remove battery after use, clean soil buildup to prevent overheating.
+- Store batteries partly charged, away from extreme temperatures.
+- Edging is occasional; a combo trimmer may suffice for touch-ups, dedicated edger for crisp borders.
+- 20V and plug-in edgers are lighter-duty and not 60V/80V platform tools.

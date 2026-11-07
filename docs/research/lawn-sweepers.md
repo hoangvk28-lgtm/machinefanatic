@@ -1,0 +1,16 @@
+# Tow-behind lawn sweepers research
+- Ground driven: wheel turns brush via belt/chain; no engine. Brush-to-wheel ratio sets brush speed (about 5:1 to 5.6:1 typical; Agri-Fab cites 5.6:1 on its 44 inch). Higher ratio means more brush speed and cleaner pickup, but needs ground speed of walking to 4 mph.
+- Sweeping width is the brush path, overall width is wider (Agri-Fab 50 in working, 58 in overall). Check gate and trail clearance.
+- Hopper volume in cubic feet (12 to 28 typical). Bigger hopper means fewer dumps but heavier, harder to tow wet.
+- Flow-through bag fills back to front for fuller use of bag space.
+- Dump rope or lever from the seat; short or thin ropes struggle with wet packed loads.
+- Brush height adjustment: brushes should just kiss turf tips (about 1/2 in penetration cited); too low drags and wears bristles and stalls.
+- Mow first or mulch big leaves; sweepers pick up dry leaves, clippings, pine needles, small cones, light twigs, not wet matted leaves.
+- Wheels: flat-free or solid tires avoid punctures from thorns and cones; rear wheels drive the brush, so pickup depends on traction.
+- Hitch: universal hitch fits lawn tractors, zero-turns, ATVs; check pin and tow bar flex on tight turns.
+- Hopper bag fabric tears and fades; the weak part in year three. Brush bristle wear is normal; replacement brushes are a parts question.
+- Wind can blow leaves over the hopper top; sweep on calm days.
+- Storage: folding designs exist; bag should be emptied and dried to avoid mildew.
+- Chain or belt drive needs periodic tension check and lubrication; fasteners loosen with vibration.
+- Heavy steel frame resists flex; thin tube frames twist on rough ground.
+- Push sweepers are out of scope; tow-behind needs a tractor with enough drawbar pull.

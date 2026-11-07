@@ -1,0 +1,16 @@
+# Hedge trimmers (cordless pole) research
+- Blade gap (tooth spacing) sets the thickest branch the blade will take; headline blade length only sets pass width.
+- Dual-action blades cut on both strokes with less vibration than single-action.
+- Longer blade means fewer passes but more tip weight on a pole, which tires arms fast.
+- Reach claims often add the user's arm height; real pole extension is smaller than the headline reach.
+- Articulating head angles let you cut flat tops from the side; check number of detent positions and the total working range.
+- Pole trimmers are top-heavy; a shoulder strap and balanced battery placement matter more than raw spec.
+- 18V/20V class suits small hedges and light branches; heavier privet or overgrown hedges favor 36V and up or a gas unit.
+- 20V "max" labels are peak voltage; nominal is 18V, so 20V Max and 18V tools are the same cell count.
+- Bare-tool listings exclude battery and charger; check platform compatibility before buying.
+- Third-party tools "for Dewalt or Milwaukee batteries" depend on pack contacts and have no support from the battery maker.
+- Cutting capacity of 5/8 to 3/4 inch is typical; anything thicker needs loppers or a pole saw.
+- Wear gloves, eye protection and keep clear of overhead lines; never use a metal pole near power lines.
+- Keep blades clean and oiled after each use; resin buildup is the main cause of stalling.
+- Hedge top reach: keep head angle near 30 to 45 degrees to avoid neck strain.
+- Detachable pole 2-in-1 models trade rigidity for versatility; flex in the shaft reduces cut control at full extension.

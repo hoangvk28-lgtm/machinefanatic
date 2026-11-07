@@ -16,7 +16,7 @@ Best guides target **3,300 to 3,800 words**, with 5 to 6 products and 3-paragrap
 
 ## MachineFanatic rule: writer agents run on Sonnet only (added 2026-11-07, per explicit user instruction)
 - Every subagent spawned for this project (guide writers, researchers, any helper) must use `model: "sonnet"`. Never spawn an Opus agent unless the user gives a new explicit order to do so. Reason: token cost.
-- This overrides the runbook's default agent choice. Parallel writer count still follows the user's latest instruction.
+- This overrides the runbook's default agent choice. At most 3 writer agents run at the same time (user instruction 2026-11-07); queue the rest and start a fresh agent when one finishes.
 
 ## MachineFanatic rule: token budget for guide writing (added 2026-11-07, per explicit user instruction)
 Target 15k to 20k AI tokens per guide (round 1 cost ~36k to 39k per guide). Every writer round must use the lean workflow:
@@ -24,6 +24,7 @@ Target 15k to 20k AI tokens per guide (round 1 cost ~36k to 39k per guide). Ever
 - Writers read `scripts/clone/work/<slug>.compact.json` (made by `node scripts/clone/compact.mjs <slug>` or `--all`), never the raw `.input.json`.
 - Research once per machine cluster into `docs/research/<cluster>.md`; later guides in that cluster reuse it with no web search.
 - Each writer agent handles at most 5 guides (context grows per tool call), Sonnet only, writes each spec in one Write, then `node scripts/clone/selfcheck.mjs <slug>` and fixes by Edit before build/audit.
+- Before spawning writers, the coordinator runs `node scripts/clone/prefilter.mjs --inprogress` (zero AI tokens): it skips topics whose slug size/tonnage/PSI/gallons has fewer than 4 matching machines after automatic extra searches. Only hand writers the topics it leaves. Round 2 lost roughly 40k tokens per skipped topic before this step existed.
 - Coordinator (not writers) runs registration, mark.mjs, clone-log, tsc, build, commit.
 
 ## MachineFanatic: restored legacy URLs (added 2026-11-06)

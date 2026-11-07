@@ -1,0 +1,19 @@
+# Wood chippers (gas towable chipper-shredders) research notes
+- Capacity is the largest branch diameter the throat and rotor can take; pick a machine one size above your typical largest limb so the engine is not pinned.
+- Size for 80 to 90 percent of the material you will actually process, not the one fallen trunk per decade.
+- Disc chippers take bigger wood on less horsepower and throw chips far; drum chippers feed more consistently and are more productive but need more power.
+- Small homeowner gas units run roughly 5 to 10 hp; towable 5 to 6 inch machines usually run 14 to 18 hp; 8 inch machines run 22 to 35 hp.
+- Advertised hp on small engines is often gross or peak; compare displacement (cc) as a sanity check. A 420cc single is a roughly 14 to 15 hp class engine.
+- Reduction ratio (for example 15:1 or 22:1) describes volume shrink, not cutting power.
+- Gravity-fed hoppers rely on the operator pushing; hydraulic feed rollers pull material in at a set rate and reverse on stall, which cuts jams and kickback risk.
+- Electric 15 amp units top out near 1.5 to 1.8 inch limbs; they are shredders for garden trimming, not clearing tools.
+- PTO chippers use a tractor 540 rpm shaft and 3 point hitch; the tractor needs enough horsepower and a shear-protected shaft.
+- Blades dull faster on dirty, old, dry hardwood and on limbs with embedded soil or stones.
+- Check blade sharpness every 5 to 15 hours of running; resharpen at the factory angle (commonly 20 to 45 degrees depending on make); never grind a loose blade; bad blades cannot be saved by sharpening.
+- Do not force material in with a loader; feed butt end first, keep side branches trimmed, never feed non-wood trash.
+- Never clear a jam with the engine running; pull the spark plug boot first.
+- Check the emergency stop bar, feed control and guards before each session.
+- Keep the machine level and chocked; stand to the side of the infeed, wear eye, ear and hand protection.
+- Commercial tree-service chippers (Altec, Asplundh, Vermeer, Bandit, Morbark) are 12 inch plus, trailer-sized machines sold through dealers; Amazon mostly sells replacement knives for them.
+- Routine upkeep: engine oil, air filter, spark plug, bolt torque on knives and anvil, grease on bearings, belt or clutch inspection.
+- Tow weight and tire pressure matter; many small units have 16 inch wheels and a bare towbar with no lighting rating for highway towing.

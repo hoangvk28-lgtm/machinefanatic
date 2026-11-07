@@ -1,0 +1,19 @@
+# Log splitters (electric) research notes
+- Small 120V electric hydraulic splitters sit at 5 to 7 tons rated; gas units start higher and go past 20 tons.
+- A 15 amp household circuit caps real motor output near 1.5 to 1.8 kW; tonnage is pressure times cylinder area, set by pump and relief valve, not motor label.
+- Tonnage and cycle time trade off: bigger cylinder or lower flow means slower stroke. Typical electric cycle times run 15 to 20 seconds, gas units 10 to 15.
+- Typical capacity: logs 20 to 21 inches long, about 10 inches diameter. Stroke length decides log length.
+- Softwoods and straight seasoned oak, maple under about 10 inches split fine at 6.5 tons; knotty elm, sweetgum and green hardwood wants 7+ tons or a 4-way wedge.
+- Single-stage pumps hold full force but move slowly; two-stage pumps run fast at low load then shift to high force.
+- Kinetic or double flywheel splitters store energy in a flywheel and are fast, but use a clutch style drive and are a different mechanism from hydraulic.
+- Two-hand control lever is a safety feature (both hands occupied). Foot pedal designs trade that for one hand free.
+- Extension cords are the top real-world failure cause: voltage drop stalls the motor or overheats cord. Use short 12 gauge cord, manuals cap length around 50 feet.
+- Cold fluid thickens and slows the pump; let the unit warm up, run briefly and cool before restarting if the manual says so.
+- Pump wear shows as slow or jerky ram, weak push, air in the system; fluid level check before each season.
+- Hydraulic fluid is checked and changed per manual, typically anti-wear hydraulic oil; keep breather plug vented when running, plugged when transporting per manual.
+- Corroded plugs or a failing start capacitor stop the motor from starting; water in the motor is a common killer.
+- Stand versus floor: horizontal bench-height stands cut bending but reduce stability; floor use needs lifting heavy rounds.
+- Warranty length varies; check what is covered for pump and motor separately.
+- Wedge wear: keep it clean, rounded or damaged edge needs filing; 4-way wedge halves the splitting passes for straight rounds.
+- Noise: electric is far quieter than gas and fits garage or shed use, no fumes.
+- Mistakes: buying by amp label, ignoring log diameter, using long thin extension cord, splitting wet knotty rounds with a small wedge.
