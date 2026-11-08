@@ -216,3 +216,6 @@ Notes: words 2,704 to 3,391 (selfcheck band 2,700-3,400 blocks the 3,300+ target
 | best-bread-makers-under-50 | only 2 underCap machines |
 
 ## Round 10 (2026-11-08): 22 kitchen budget guides
+
+## Round 11 (2026-11-08): 50 kitchen guides
+Blenders 8, kettles 8, rice cookers 6, slow cookers 5, pressure cookers 5, toaster ovens 6, vacuum sealers 5, ice makers 5, bread makers 2. 14 more prefiltered kitchen slugs left as todo (tail of scripts/clone/work/round11.txt).
