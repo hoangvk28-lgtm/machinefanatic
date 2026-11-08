@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-pole-saws",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "pole saw",
+ "guideTitle": "Best Pole Saws (2026)",
+ "metaTitle": "Best Pole Saws for Tree Trimming (2026)",
+ "metaDescription": "Gas, corded and cordless pole saws compared by bar length, chain speed, reach and weight at the end of the pole, with safety notes on overhead cutting.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The EGO Power+ cordless is the best pole saw for most homeowners because it combines a strong battery platform with a telescoping pole and a cut line indicator. The SEESII two-battery brushless saw is the value pick for people who want spare runtime, and the 48cc gas saw with an 11.5 inch bar is the pick for thick limbs far from power. If a limb is thicker than the bar or hangs over a roof or wires, call an arborist.",
+ "introParagraphs": [
+  "A pole saw puts a small chainsaw on the end of a long shaft so you can prune limbs without a ladder. That is safer than climbing, but it changes the physics: weight at the end of a long lever makes the tool feel far heavier than its scale weight.",
+  "Power source, bar length, reach and balance decide which saw suits which job. The sections below explain how those choices interact and where the limits of a pole saw begin."
+ ],
+ "products": [
+  {
+   "id": "B0BRXJKRLP",
+   "badge": "Best Overall",
+   "name": "EGO Power+ cordless telescopic pole saw with LED cut line",
+   "price": "",
+   "specs": [
+    "56V cordless",
+    "Telescopic pole",
+    "LED cut line",
+    "Brushless"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "EGO Power+ battery system"
+    },
+    {
+     "label": "Pole",
+     "value": "Telescopic"
+    },
+    {
+     "label": "Aiming aid",
+     "value": "LED cut line indicator"
+    },
+    {
+     "label": "Kit",
+     "value": "Battery and charger included"
+    },
+    {
+     "label": "Platform",
+     "value": "Shared EGO batteries"
+    }
+   ],
+   "description": "The EGO pole saw is a battery-powered saw on a telescoping shaft with an LED cut line indicator that projects a light along the bar, which makes it easier to line up an overhead cut. It ships with a battery and charger and uses the EGO Power+ platform.\n\nThe tradeoff is cost of entry and battery weight. A cordless saw puts the battery at one end of the pole, which helps balance, but the whole assembly is still heavier than a corded saw. Compared with the Greenworks 40V it offers a more advanced aiming aid and a bigger platform, though the Greenworks is lighter and cheaper.\n\nOwnership is simple: charge the battery, keep the chain oiled and sharp, and store it away from heat. The brushless design means the main upkeep items are the chain and bar, so check the tension when the chain is cool and add oil each time you charge. The LED indicator is a real help in dim light under tree canopy, since it shows where the chain will meet the limb.",
+   "bestFor": "Homeowners who want one platform for pruning and other yard tools.",
+   "pros": [
+    "LED cut line indicator",
+    "Telescopic pole",
+    "Large shared battery platform",
+    "Battery and charger included"
+   ],
+   "cons": [
+    "Higher cost of entry",
+    "Heavier than corded saws"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BRXJKRLP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31NV1Jf36-L._SL500_.jpg"
+  },
+  {
+   "id": "B07M9YC1CZ",
+   "badge": "Best Light Cordless",
+   "name": "Greenworks 40V 8 inch cordless pole saw, 2.0Ah kit",
+   "price": "",
+   "specs": [
+    "40V battery",
+    "8 in bar",
+    "31.2 ft/s chain",
+    "2.0Ah pack"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "40V lithium-ion"
+    },
+    {
+     "label": "Bar",
+     "value": "8 inches"
+    },
+    {
+     "label": "Chain speed",
+     "value": "31.2 ft/s"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 15 minutes continuous"
+    },
+    {
+     "label": "Kit",
+     "value": "2.0Ah battery and charger"
+    }
+   ],
+   "description": "The Greenworks 40V pole saw carries an 8 inch bar and chain at 31.2 feet per second and comes with a 2.0Ah battery and charger. The maker quotes up to 15 minutes of continuous runtime on that pack.\n\nThe tradeoff is runtime. Fifteen minutes is enough for pruning a few limbs from a small tree, but a larger yard will need a second battery. An 8 inch bar is the common size and handles limbs up to about 6 inches under ideal conditions. Compared with the EGO it has fewer features but costs less and weighs less.\n\nKeep the bar oiled, check chain tension before each use and store the battery indoors. A small cordless pole saw also needs the bar rail cleaned occasionally, because sawdust packs the oil channel and starves the chain of lubricant. At the top of the pole, an 8 inch bar is forgiving, since a shorter bar flexes less and kicks back less than a long one. Expect to replace the chain once every season or two with regular use.",
+   "bestFor": "Small yards where a light cordless saw is enough.",
+   "pros": [
+    "31.2 ft/s chain speed",
+    "8 inch bar",
+    "Battery and charger included",
+    "Shares the 40V system"
+   ],
+   "cons": [
+    "Short quoted runtime on 2.0Ah",
+    "Fewer features"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07M9YC1CZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Ib+VbCYeL._SL500_.jpg"
+  },
+  {
+   "id": "B07KMPXLWR",
+   "badge": "Best 14 Foot Cordless",
+   "name": "CRAFTSMAN V20 cordless pole saw, 14 foot reach, 4.0Ah",
+   "price": "",
+   "specs": [
+    "20V",
+    "8 in bar",
+    "14 ft reach",
+    "4.0Ah pack"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "V20 20V battery"
+    },
+    {
+     "label": "Bar",
+     "value": "8 inches"
+    },
+    {
+     "label": "Reach",
+     "value": "Up to 14 feet"
+    },
+    {
+     "label": "Battery",
+     "value": "4.0Ah included"
+    },
+    {
+     "label": "Cut capacity",
+     "value": "Up to 6 inches"
+    }
+   ],
+   "description": "The CRAFTSMAN V20 has an 8 inch bar, an extension pole giving up to 14 feet of reach and a 4.0Ah battery in the kit. The 4.0Ah pack roughly doubles the energy of a 2.0Ah pack at the same voltage.\n\nThe tradeoff is that a 14 foot reach is a total working figure that includes the user's height and arm span, so the pole itself is shorter. A 20 volt tool also has less cutting headroom in dense wood than a 40 or 56 volt one. Compared with the Greenworks 40V it offers more battery energy but a lower voltage.\n\nBuy into the V20 platform only if you also use other tools on it. A 14 foot working reach means you stand with the saw tip around 10 or 11 feet up, and the pole will flex at the extension joint, so check the locking collar tightness before each cut. The 4.0Ah pack is a real plus compared with the 2.0Ah packs that ship with some rivals, since fatigue usually ends the session before the battery does.",
+   "bestFor": "Owners of V20 tools who want a 14 foot reach.",
+   "pros": [
+    "4.0Ah battery included",
+    "Up to 14 foot reach",
+    "8 inch bar",
+    "V20 platform"
+   ],
+   "cons": [
+    "20V has less headroom in dense wood",
+    "Reach figure includes user height"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07KMPXLWR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31U6z7CjqbL._SL500_.jpg"
+  },
+  {
+   "id": "B0C5L18PKM",
+   "badge": "Best Two-Battery Value",
+   "name": "SEESII 8 inch cordless 2-in-1 pole saw, 2x4.0Ah, brushless",
+   "price": "",
+   "specs": [
+    "Brushless",
+    "8 in bar",
+    "2x4.0Ah",
+    "6 to 10 ft pole"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Brushless cordless"
+    },
+    {
+     "label": "Bar",
+     "value": "8 inches"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 4.0Ah"
+    },
+    {
+     "label": "Pole",
+     "value": "Telescopes 6 to 10 feet"
+    },
+    {
+     "label": "Design",
+     "value": "Detachable mini chainsaw head"
+    }
+   ],
+   "description": "The SEESII is a cordless brushless saw with an 8 inch guide bar, two 4.0Ah batteries and a telescoping pole that adjusts from 6 to 10 feet. The head detaches to work as a handheld mini chainsaw.\n\nThe tradeoff is that this is a lighter-duty construction than a dedicated pole saw, and the pole and head connection is the point to check for slop. The second battery is its practical strength: you can alternate packs and keep working while one charges, which doubles usable time compared with single-battery kits like the Greenworks. Compared with the TaskStar it offers a similar format with two batteries included.\n\nStore the batteries indoors, oil the chain before each session and check that the head locks firmly on the pole.",
+   "bestFor": "Light to moderate pruning where a spare battery matters.",
+   "pros": [
+    "Two 4.0Ah batteries included",
+    "Brushless motor",
+    "6 to 10 foot telescoping pole",
+    "Detachable handheld head"
+   ],
+   "cons": [
+    "Lighter-duty pole connection",
+    "Newer brand"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0C5L18PKM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Tsf0cv3lL._SL500_.jpg"
+  },
+  {
+   "id": "B0HJTKT969",
+   "badge": "Best Gas Pole Saw",
+   "name": "48cc 2-stroke gas pole saw, 11.5 inch bar, extendable",
+   "price": "",
+   "specs": [
+    "48cc 2-stroke",
+    "11.5 in bar",
+    "Extendable pole",
+    "Gas"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "48cc 2-stroke"
+    },
+    {
+     "label": "Bar",
+     "value": "11.5 inches"
+    },
+    {
+     "label": "Pole",
+     "value": "Extendable"
+    },
+    {
+     "label": "Fuel",
+     "value": "Mixed gas and oil"
+    },
+    {
+     "label": "Use",
+     "value": "Thick branches, overgrown trees"
+    }
+   ],
+   "description": "This pole saw uses a 48cc two-stroke engine, an 11.5 inch bar and an extendable pole. It is the largest-bar saw in the guide and is aimed at thick branches and overgrown trees where a battery saw would run out.\n\nThe tradeoff is weight, noise and upkeep. Gas pole saws are the heaviest option, they need mixed fuel and regular carburetor care, and they produce fumes and noise. They are the only choice if you need to work far from power and cut a lot of thick wood in one session. Compared with cordless saws, it has a larger bar and a longer runtime on one tank.\n\nUse fresh mixed fuel, stabilize it for storage and keep the air filter clean. Because the engine sits at the base of the pole, a gas pole saw puts the weight near your hands, which helps balance, but it still wears on shoulders, so take short breaks. Wear hearing protection, since a 48cc two-stroke is far louder than any electric saw, and never refuel while the engine is hot.",
+   "bestFor": "Large properties with thick limbs and no outlet nearby.",
+   "pros": [
+    "11.5 inch bar",
+    "48cc engine",
+    "Long runtime per tank",
+    "No battery limits"
+   ],
+   "cons": [
+    "Heavy at the end of a pole",
+    "Noise, fumes and fuel upkeep"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HJTKT969?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31w7oOaj0GL._SL500_.jpg"
+  },
+  {
+   "id": "B0F3CWN51M",
+   "badge": "Best 2-in-1 Brushless",
+   "name": "TaskStar 2-in-1 brushless pole saw and 8 inch mini chainsaw",
+   "price": "",
+   "specs": [
+    "Brushless",
+    "8 in bar",
+    "2-in-1",
+    "Adjustable pole"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Cordless brushless"
+    },
+    {
+     "label": "Bar",
+     "value": "8 inches"
+    },
+    {
+     "label": "Design",
+     "value": "Detachable pole, handheld mode"
+    },
+    {
+     "label": "Pole",
+     "value": "Adjustable extension"
+    },
+    {
+     "label": "Use",
+     "value": "Pole saw and mini chainsaw"
+    }
+   ],
+   "description": "The TaskStar is a cordless brushless saw with an 8 inch bar that detaches from an adjustable extension pole, so it works as a pole saw or a handheld mini chainsaw. It is aimed at buyers who want one tool for pruning and light cutting.\n\nThe tradeoff is that 2-in-1 designs compromise on both uses: the pole is lighter-duty and the handheld form lacks a rear handle guard in some designs. A brushless motor is efficient, but small mini-chainsaw heads are not meant for sustained hard cutting. Compared with the EGO, it is more versatile in form and less capable as a dedicated pole saw.\n\nKeep batteries stored indoors and check that the head locks securely on the pole. Because a 2-in-1 head has to release from the pole, inspect the latch for wear and never use the tool with a loose connection. Treat it as a pruning saw for green limbs under 4 inches, not a firewood saw.",
+   "bestFor": "Light pruning plus handheld cutting from one tool.",
+   "pros": [
+    "Detachable head for handheld use",
+    "Brushless motor",
+    "8 inch bar",
+    "Adjustable pole"
+   ],
+   "cons": [
+    "Pole is lighter-duty than a dedicated saw",
+    "Newer brand"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3CWN51M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mE+7STx3L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Power source choice",
+   "explanation": "Gas gives the longest runtime and the biggest bar but is heaviest and noisiest. Corded electric saws are lighter and cheaper but tied to an outlet, and few are sold in this price range. Cordless, like the EGO, offers freedom with battery weight. Pick by distance from power and branch size."
+  },
+  {
+   "criterion": "Bar length and branch capacity",
+   "explanation": "Bars range from 6 to 12 inches. The Greenworks, CRAFTSMAN, TaskStar and SEESII have 8 inch bars, and the gas saw 11.5. A rough rule is that capacity is about half the bar length for a clean one-side cut, so an 8 inch bar handles 4 to 6 inch limbs. Always check the maker's stated maximum."
+  },
+  {
+   "criterion": "Reach versus working reach",
+   "explanation": "A listed 14 foot reach, as on the CRAFTSMAN, includes the user's height and arm span. The pole itself is shorter, around 10 feet on the SEESII. Measure the height of the highest limb you need to reach before buying."
+  },
+  {
+   "criterion": "Weight at the end of the pole",
+   "explanation": "A saw's scale weight understates how heavy it feels at full extension. A 12 pound saw at 10 feet is exhausting. Battery saws put weight in the head, and gas saws are heaviest. Lighter is safer because you can control the cut. Hold the saw with both hands, keep it close to the body when extending and let the chain do the cutting; forcing a dull chain through a limb is how kickback and slips happen."
+  },
+  {
+   "criterion": "Chain speed and oiling",
+   "explanation": "Chain speed, such as 31.2 ft/s on the Greenworks, affects cut speed. Oiling is vital: a dry chain overheats and dulls. Check the oil level before every session. Use bar and chain oil, not motor oil, and expect to top up every hour of cutting."
+  },
+  {
+   "criterion": "Safety and electrical hazards",
+   "explanation": "Never use a pole saw near power lines, and do not use fiberglass or aluminum shafts near wires. Wear eye, hearing and head protection, and stand outside the drop zone. Electric saws should not be used in rain. Wet branches are also slippery, and a wet bark surface makes it harder for the chain to bite."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Bar length",
+   "meaning": "Length of the cutting bar. It sets branch capacity.",
+   "watchFor": "8 inches on Greenworks, 11.5 on the gas saw."
+  },
+  {
+   "spec": "Chain speed (ft/s)",
+   "meaning": "How fast the chain moves, affecting cut speed.",
+   "watchFor": "31.2 ft/s on the Greenworks."
+  },
+  {
+   "spec": "Reach",
+   "meaning": "Maximum height you can cut, including the user.",
+   "watchFor": "14 feet on CRAFTSMAN."
+  },
+  {
+   "spec": "Voltage and Ah",
+   "meaning": "Battery system and capacity.",
+   "watchFor": "40V 2.0Ah Greenworks, 20V 4.0Ah CRAFTSMAN."
+  },
+  {
+   "spec": "Displacement",
+   "meaning": "Gas engine size in cc.",
+   "watchFor": "48cc on the gas saw."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cutting capability",
+   "description": "We compared bar lengths from 8 to 11.5 inches and chain speeds up to 36 ft/s, and judged how those relate to branch size."
+  },
+  {
+   "title": "Reach and handling",
+   "description": "We looked at pole design, stated reach and the weight problem at full extension."
+  },
+  {
+   "title": "Power source",
+   "description": "We weighed gas, corded and cordless trade-offs for runtime and portability."
+  },
+  {
+   "title": "Safety features",
+   "description": "We considered cut line aids, guards and switch design."
+  },
+  {
+   "title": "Ownership",
+   "description": "Based on the spec sheet and owner feedback patterns, we weighed battery platforms, chain oiling and fuel care."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Branch Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small limbs under 3 inches",
+      "Greenworks 40V",
+      "Light 8 inch bar"
+     ],
+     [
+      "Limbs to about 4 inches",
+      "EGO Power+",
+      "LED aid"
+     ],
+     [
+      "Limbs to about 5 inches",
+      "SEESII 8 inch",
+      "Two batteries"
+     ],
+     [
+      "Light pruning and handheld use",
+      "TaskStar 2-in-1",
+      "Detachable head"
+     ],
+     [
+      "Thick limbs far from power",
+      "48cc gas pole saw",
+      "11.5 inch bar"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "SEESII 8 inch",
+      "Two batteries included"
+     ],
+     [
+      "Low",
+      "TaskStar 2-in-1",
+      "Cordless and versatile"
+     ],
+     [
+      "Mid",
+      "Greenworks 40V",
+      "Light cordless"
+     ],
+     [
+      "Mid-high",
+      "CRAFTSMAN V20",
+      "14 ft reach"
+     ],
+     [
+      "Highest",
+      "EGO Power+",
+      "Platform and aid"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gas vs Electric",
+   "cards": [
+    {
+     "label": "Gas",
+     "text": "The 48cc gas saw cuts thicker limbs and works anywhere, but it is the heaviest, loudest and most demanding to maintain."
+    },
+    {
+     "label": "Electric",
+     "text": "The EGO, Greenworks, CRAFTSMAN, TaskStar and SEESII are lighter and quieter. Cordless models trade runtime for freedom."
+    }
+   ],
+   "note": "Gas for thick limbs and big yards. Electric for ordinary pruning. If you are unsure, start with cordless: it is easier to live with and covers most yard trees."
+  },
+  {
+   "subheading": "Reach",
+   "table": {
+    "headers": [
+     "Height",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Up to 10 feet",
+      "Greenworks 40V",
+      "Shorter pole"
+     ],
+     [
+      "Up to 12 feet",
+      "TaskStar 2-in-1",
+      "Adjustable"
+     ],
+     [
+      "Up to 14 feet, cordless",
+      "CRAFTSMAN V20",
+      "14 ft reach"
+     ],
+     [
+      "Up to 10 feet, spare battery",
+      "SEESII 8 inch",
+      "6 to 10 ft pole"
+     ],
+     [
+      "Variable heights",
+      "EGO Power+",
+      "Telescopic"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Overhead Pruning Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for balance, a telescoping pole you can lock and an aiming aid. Keep the saw below shoulder height whenever possible."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The EGO with its LED cut line and telescoping pole is the best fit. The SEESII is the budget two-battery option."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you prune yearly or want a battery platform. The EGO justifies it."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you prune a few limbs. The SEESII or Greenworks is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check chain oil level",
+   "interval": "Before each session",
+   "why": "A dry chain overheats and dulls."
+  },
+  {
+   "task": "Sharpen or replace chain",
+   "interval": "As needed",
+   "why": "A dull chain pulls and kicks."
+  },
+  {
+   "task": "Check chain tension",
+   "interval": "Each session",
+   "why": "A loose chain can derail and whip, so check tension on a cool chain and adjust until it just lifts off the bar by a few millimetres."
+  },
+  {
+   "task": "Store batteries indoors",
+   "interval": "Winter",
+   "why": "Cold shortens battery life and warm packs hold more charge, so keep spares inside until needed."
+  },
+  {
+   "task": "Service gas engine",
+   "interval": "Every season",
+   "why": "Fuel, air filter and spark plug, all of which are cheap to renew each spring."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What bar length do I need?",
+   "a": "An 8 inch bar handles most pruning. Choose 10 or more for thicker limbs."
+  },
+  {
+   "q": "Can I use it near power lines?",
+   "a": "No. Stay well clear of power lines and use a professional if a limb is near them."
+  },
+  {
+   "q": "Gas or cordless?",
+   "a": "Gas for thick limbs and large yards. Cordless for ordinary pruning."
+  },
+  {
+   "q": "How do I cut a heavy limb?",
+   "a": "Use the three-cut method: an undercut, a top cut further out and a final cut at the collar. This prevents the bark from tearing down the trunk as the limb falls, and keeps the saw from pinching."
+  },
+  {
+   "q": "Is reach honest?",
+   "a": "Stated reach includes your height. The pole is shorter, so subtract roughly five to six feet to find the real length of the pole."
+  },
+  {
+   "q": "Do I need protective gear?",
+   "a": "Yes: eye, hearing and head protection, and stay outside the drop zone. Falling limbs can bounce, so plan a clear retreat path and never stand directly under the cut."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31NV1Jf36-L._SL500_.jpg"
+}

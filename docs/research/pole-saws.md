@@ -1,0 +1,15 @@
+# Pole saws research
+- Power source: gas (2-stroke) is heaviest, loudest, needs mixed fuel and upkeep; corded electric is lighter but cord-limited; cordless trades battery weight for freedom.
+- Bar length: 6 to 12 inch bars; 8 inch is most common; 10 inch common on gas. Rough rule is capacity about half the bar length for clean one-side cuts; always check the maker's stated max.
+- Listed "reach" often includes the user's height and arm span; real working reach is pole length plus your reach, and the saw tip is not where you stand.
+- Weight at the end of a long pole is the real fatigue factor; a 12 lb saw at 10 ft feels far heavier than at hip height.
+- Telescoping poles trade rigidity for reach; sections should lock without flex. Fiberglass or aluminum shaft: never near power lines, and metal conducts.
+- Oil: automatic oiling systems or manual oiler; chain runs dry quickly without oil and dulls.
+- Chain speed and pitch: 3/8 low profile and 1/4 inch pitch are common on small saws; sharpening or replacing chain matters most.
+- Cordless voltage platforms: 20V, 40V, 56V, 60V, 80V; higher voltage with brushless motors holds chain speed in wood.
+- Safety: wear eye protection, hard hat, hearing protection; stand outside the drop zone; keep saw below shoulder height when possible; cut small branches in stages; use the three-cut method to avoid bark tearing.
+- Never cut a branch in the direction of the load without considering where it falls.
+- Do not use electric saws in rain; gas saws handle damp work better.
+- Storage: store gas saws drained or with stabilizer; remove batteries.
+- Maintenance: check chain tension, bar rail wear, oil level, air filter on gas.
+- Pole saws are for limbs, not trunks; thick limbs over the bar capacity need a chainsaw or an arborist.

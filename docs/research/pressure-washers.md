@@ -1,0 +1,20 @@
+# Pressure washers research notes
+- Cleaning power comes from pressure (PSI) and flow (GPM) together; cleaning units (CU) = PSI x GPM. Flow often sets cleaning speed more than the PSI headline.
+- Consumer gas models run up to roughly 2.8 GPM; professional gas models up to about 4 GPM.
+- Axial cam pumps: common in consumer machines, economical for occasional use, usually not rebuildable. Triplex plunger pumps: commercial grade, more durable, serviceable, found on higher-end gas units.
+- Engine must be able to drive the pump: a 3,000 PSI at 4 GPM pump needs roughly 11 HP or more. Check the engine brand and displacement against the claimed output.
+- Honda GX and similar commercial engines (GX200, GX270, GX390) are common on higher-end units; generic 196 to 212cc and 420cc engines on budget units.
+- Electric machines max out near 2,000 to 3,000 PSI at under 2 GPM; "max PSI" labels on electrics are peak, not sustained.
+- Hot water machines heat the water (diesel, propane or electric heater) to cut grease and oil faster; heat adds a burner, fuel, coil and descaling upkeep.
+- Surface cleaners (rotary flat-surface heads) clean concrete faster and more evenly than a wand; they need enough GPM to spin.
+- Nozzle tips: 0 degree is damaging, 15 degree for hard surfaces, 25 and 40 degree for general rinsing, soap nozzle low pressure.
+- Wood, siding and vehicles need lower pressure and wider tips; concrete tolerates more.
+- Unloader valve and thermal relief protect the pump; never run a pump dry or with the trigger closed for long.
+- Winterize: drain water, run pump antifreeze through, or the pump can crack in freeze.
+- Gas engine upkeep: oil changes, fresh stabilized fuel, plug, air filter.
+- Hose and quick-connect fittings are common failure points; steel braided hoses outlast cheap ones.
+- Pump oil (on triplex pumps) needs periodic changes; axial cam pumps are often sealed.
+- Detergent injection via downstream injector, applied at low pressure.
+- Noise is high on gas units; hearing protection and eye protection recommended.
+- Injection hazard: high-pressure water can penetrate skin; never point at people or pets.
+- Carry or store gas washers upright, fuel tank empty or stabilized for long storage.

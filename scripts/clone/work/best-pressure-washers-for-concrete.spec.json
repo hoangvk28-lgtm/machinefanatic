@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-pressure-washers-for-concrete",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "pressure washers for concrete",
+ "guideTitle": "Best Pressure Washers for Concrete (2026)",
+ "metaTitle": "Best Pressure Washers for Concrete (2026)",
+ "metaDescription": "Pressure washers for concrete compared by flow, rated versus max PSI and surface cleaner compatibility, from gas triplex units to compact electrics.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The Simpson Aluminum Series 4200 is the best machine for concrete because its 4.0 GPM flow drives a surface cleaner properly, the Greenworks 3000 brushless is the best electric for small slabs, and the Westinghouse ePX3500 is the value pick for patios. Skip small electrics for large driveways: flow, not pressure, is what you run out of.",
+ "introParagraphs": [
+  "Concrete is the easiest surface to clean badly. A narrow, high-pressure wand leaves stripes, etches the surface and takes forever on anything larger than a patio. The tools that fix this are wide flat-surface attachments and enough water flow to feed them, which is a very different shopping list from cleaning a deck or a car.",
+  "That shifts the buying logic from headline pressure to sustained flow, a durable pump and a connection for a surface cleaner. This guide compares gas and electric machines on those terms, and separates rated numbers from peak marketing figures so you can match a washer to a slab of the size you actually own."
+ ],
+ "products": [
+  {
+   "id": "B00U77BYF6",
+   "badge": "Best Overall",
+   "name": "Simpson Aluminum Series 4200 PSI Honda GX390",
+   "specs": [
+    "4200 PSI, 4.0 GPM",
+    "Honda GX390",
+    "Triplex pump",
+    "50 ft hose"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "Honda GX390 with low-oil shutdown"
+    },
+    {
+     "label": "Pressure and flow",
+     "value": "4200 PSI at 4.0 GPM"
+    },
+    {
+     "label": "Pump",
+     "value": "CAT triplex plunger"
+    },
+    {
+     "label": "Hose",
+     "value": "50 ft dual-braided"
+    },
+    {
+     "label": "Best use",
+     "value": "Large driveways and slabs"
+    }
+   ],
+   "description": "For concrete, flow is the deciding spec, and 4.0 GPM is what lets a 15 to 20 inch surface cleaner spin fast enough to clean in clean, even overlapping strokes. The Honda GX390 gives the engine reserve to sustain that flow at 4200 PSI, and the CAT triplex pump is built for the hours that a big driveway takes.\n\nIn practice that means a double-wide driveway done in the time a 2 GPM machine would spend on one lane. The 50-foot braided hose lets you work a wide area without repositioning the machine, and non-marring components protect the surface.\n\nThe trade is cost and bulk. It weighs enough that you will want a ramp, and it needs engine oil, pump oil and winterizing to stay healthy. Against the PowerShot 4400 it uses a Honda engine instead of a CRX, which is the main reason to pay more. A 15 to 20 inch surface cleaner is the accessory that makes this machine shine on concrete.",
+   "bestFor": "Large driveways, parking pads and commercial slabs cleaned regularly.",
+   "pros": [
+    "4.0 GPM drives a surface cleaner at full speed",
+    "Honda GX390 sustains the rated output",
+    "Triplex pump is serviceable and durable",
+    "50-foot braided hose reaches across a slab"
+   ],
+   "cons": [
+    "Highest price tier here",
+    "Heavy and wants a ramp or truck",
+    "Overkill for a small patio"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00U77BYF6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51bIGTxDzGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01KZSGRTE",
+   "badge": "Best High-Flow Alternative",
+   "name": "Simpson PowerShot 4400 PSI CRX 420cc",
+   "specs": [
+    "4400 PSI, 4.0 GPM",
+    "CRX 420cc",
+    "AAA triplex pump",
+    "Welded frame"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "CRX 420cc"
+    },
+    {
+     "label": "Pressure and flow",
+     "value": "4400 PSI at 4.0 GPM"
+    },
+    {
+     "label": "Pump",
+     "value": "AAA industrial triplex"
+    },
+    {
+     "label": "Frame",
+     "value": "Welded steel, powder coated"
+    },
+    {
+     "label": "Best use",
+     "value": "Professional-grade slab cleaning"
+    }
+   ],
+   "description": "This machine delivers the same 4.0 GPM as the Aluminum Series with a bigger 420cc engine and a maintenance-free triplex pump. The extra 200 PSI is less important than the flow, and the larger engine means it holds its output under a continuous surface-cleaner load.\n\nThe welded, powder-coated steel frame is built for outdoor storage and transport. It is a professional-style machine with a price tier to match, so it only makes sense if you clean a lot of concrete.\n\nAgainst the Aluminum Series, the choice comes down to engine brand: Honda parts and service are easier to find. Keep the oil fresh and winterize the pump. Pair it with a surface cleaner and a long hose and it will finish large slabs quickly.",
+   "bestFor": "Heavy use on large slabs where an alternative to the Honda engine is acceptable.",
+   "pros": [
+    "4.0 GPM and 4400 PSI for professional work",
+    "420cc engine holds output under continuous load",
+    "Maintenance-free triplex pump",
+    "Sturdy welded frame"
+   ],
+   "cons": [
+    "Non-Honda engine has thinner service network",
+    "Heavy and expensive",
+    "More than a homeowner needs"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B01KZSGRTE?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41fWsPxM+IL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D9C524DD",
+   "badge": "Best Electric",
+   "name": "Greenworks 3000 PSI Brushless Electric",
+   "specs": [
+    "3000 PSI, 2.0 GPM",
+    "14A brushless",
+    "JETTFLOW",
+    "Lab-verified"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "14A TruBrushless"
+    },
+    {
+     "label": "Pressure and flow",
+     "value": "3000 PSI at 2.0 GPM max"
+    },
+    {
+     "label": "Flow feature",
+     "value": "JETTFLOW technology"
+    },
+    {
+     "label": "Verification",
+     "value": "Independent lab claim"
+    },
+    {
+     "label": "Best use",
+     "value": "Patios and small driveways"
+    }
+   ],
+   "description": "Greenworks claims 3000 PSI at 2.0 GPM from a brushless electric motor, with the figures verified by an independent lab. Verification matters here because electric washers are notorious for peak ratings that the motor cannot sustain, and 2.0 GPM is a high flow figure for a 120-volt machine.\n\nThe brushless motor runs cooler and quieter than a brushed one and has no brushes to wear. For a patio, walkway or small driveway, it is the closest an electric gets to gas performance, and you avoid fuel, oil and winterizing.\n\nThe limit is flow. Next to a 4 GPM gas machine, it takes about twice as long over the same slab, and a surface cleaner will not spin as fast. Against the Westinghouse WPX3000e, it offers higher flow and a verified rating. Keep the cord short and use an outdoor-rated extension cord, since long thin cords drop voltage and starve the motor.",
+   "bestFor": "Patios, walkways and small driveways where a cord is acceptable.",
+   "pros": [
+    "2.0 GPM is high for a 120V electric",
+    "Brushless motor runs cool and quiet",
+    "Rated figures verified by an independent lab",
+    "No fuel or oil upkeep"
+   ],
+   "cons": [
+    "Half the flow of 4 GPM gas machines",
+    "Cord limits reach",
+    "Slow on large driveways"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D9C524DD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mEe0smsYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CQMZ4BG5",
+   "badge": "Best Induction Motor",
+   "name": "Westinghouse WPX3000e Induction Electric",
+   "specs": [
+    "3000 max PSI",
+    "1.76 max GPM",
+    "Induction motor",
+    "2600 rated PSI"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Induction, 120V"
+    },
+    {
+     "label": "Max rating",
+     "value": "3000 PSI at 1.76 GPM"
+    },
+    {
+     "label": "Rated output",
+     "value": "2600 PSI at 1.1 GPM"
+    },
+    {
+     "label": "Hose",
+     "value": "25 ft super-flex"
+    },
+    {
+     "label": "Pump",
+     "value": "Axial three-piston auto-stop"
+    }
+   ],
+   "description": "Westinghouse is unusually honest in its labeling, listing both a 3000 PSI, 1.76 GPM maximum and a 2600 PSI, 1.1 GPM rated output. The gap between those pairs is the lesson: the maximum is a peak at the lowest pressure setting, while the rated figure is the sustained working output.\n\nAn induction motor is durable and quiet, built to run for long periods without wearing brushes. The auto-stop pump saves wear by shutting off when the trigger is released. For concrete, 1.1 GPM rated is on the low side, so a surface cleaner will work slowly.\n\nThis is a good small-slab machine for someone who wants an electric with a durable motor. Keep it winterized and do not let it run dry. Treat it as a patio and step tool and not as a driveway machine.",
+   "bestFor": "Small slabs, steps and patios where durability and quiet matter.",
+   "pros": [
+    "Induction motor is durable and quiet",
+    "Honest rated versus max labeling",
+    "Auto-stop pump saves wear",
+    "Onboard soap tank"
+   ],
+   "cons": [
+    "1.1 GPM rated is low for concrete",
+    "Short 25-foot hose",
+    "Slow with surface cleaners"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQMZ4BG5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GHbRpQtKL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BVGSX46M",
+   "badge": "Best Value",
+   "name": "Westinghouse ePX3500 Compact Electric",
+   "specs": [
+    "2500 max PSI",
+    "1.76 max GPM",
+    "19 lb",
+    "Anti-tip design"
+   ],
+   "specList": [
+    {
+     "label": "Max rating",
+     "value": "2500 PSI at 1.76 GPM"
+    },
+    {
+     "label": "Rated output",
+     "value": "2000 PSI at 1.2 GPM"
+    },
+    {
+     "label": "Weight",
+     "value": "19 pounds"
+    },
+    {
+     "label": "Soap tank",
+     "value": "20 ounce onboard"
+    },
+    {
+     "label": "Hose",
+     "value": "25 ft nylon braided"
+    }
+   ],
+   "description": "The ePX3500 is a compact electric at 19 pounds with an anti-tipping design and four quick-lock wheels. The rated 2000 PSI at 1.2 GPM is the number to trust, not the 2500 max PSI headline.\n\nThat output is enough to lift light dirt and algae from a patio or walkway, but slow on stained or oil-soaked concrete. Against the WPX3000e it has a lower rated pressure and a lower price tier, so it is the value choice for light cleaning.\n\nIt is easy to store and carry, which is its main advantage. Winterize the pump and keep the inlet screen clean. Because the pump is sealed, protect it from freezing and do not run it dry.",
+   "bestFor": "Light cleaning of patios and walkways on a budget.",
+   "pros": [
+    "Very light and compact at 19 pounds",
+    "Anti-tip design and quick-lock wheels",
+    "Honest rated and max labeling",
+    "Low price tier"
+   ],
+   "cons": [
+    "1.2 GPM rated is low for concrete",
+    "Not for oil stains or large areas",
+    "Short hose"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0BVGSX46M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41v8gk9dHhL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00CPGMUXW",
+   "badge": "Best Entry Electric",
+   "name": "Sun Joe SPX3000 Electric 2030 PSI",
+   "specs": [
+    "2030 PSI PWMA",
+    "1.2 GPM",
+    "5 nozzles",
+    "34 in. lance"
+   ],
+   "specList": [
+    {
+     "label": "Max rating",
+     "value": "2500 PSI max"
+    },
+    {
+     "label": "Working output",
+     "value": "2030 PSI at 1.2 GPM"
+    },
+    {
+     "label": "Nozzles",
+     "value": "5 quick-connect tips"
+    },
+    {
+     "label": "Lance",
+     "value": "34-inch stainless steel"
+    },
+    {
+     "label": "Class",
+     "value": "Entry electric"
+    }
+   ],
+   "description": "The Sun Joe SPX3000 lists 2500 max PSI and a PWMA working pressure of 2030 PSI at 1.2 GPM. As with other electrics, the working figure is the useful one. It comes with five quick-connect tips and a 34-inch stainless lance.\n\nFor concrete, it is a light-duty tool for porches, steps and small patios. Larger slabs will take a long time, and a wide surface cleaner will spin slowly at this flow.\n\nAgainst the Westinghouse ePX3500 it is similar in output, so choose on price and accessories. A 34-inch lance keeps your posture comfortable on flat work.",
+   "bestFor": "Small porches, steps and occasional light cleaning.",
+   "pros": [
+    "PWMA working pressure is clearly listed",
+    "Five quick-connect tips included",
+    "Stainless steel lance",
+    "Low price tier"
+   ],
+   "cons": [
+    "Low flow for concrete",
+    "Light duty only",
+    "Cord limits reach"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B00CPGMUXW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Drz1BIVcL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Flow for surface cleaners",
+   "explanation": "A flat-surface cleaner spins on a nozzle bar, and it needs enough GPM to spin fast and clean evenly. The Simpson Aluminum Series at 4.0 GPM feeds a 15 to 20 inch cleaner properly, while the 1.1 to 1.2 GPM electrics barely turn one. Match flow to the attachment, not to the headline PSI. As a rule of thumb, a 15-inch cleaner wants at least 3 GPM to spin properly, which is why electrics struggle with them."
+  },
+  {
+   "criterion": "Rated versus max PSI",
+   "explanation": "Electric washers often list a max figure at the lowest flow setting. The Westinghouse WPX3000e lists 3000 PSI max but 2600 rated at 1.1 GPM, and the ePX3500 lists 2500 max versus 2000 rated. Always use the rated number to compare. A quick check: multiply rated PSI by rated GPM to compare cleaning units fairly across all six machines."
+  },
+  {
+   "criterion": "Gas versus electric",
+   "explanation": "Gas machines like the Simpson models deliver 4 GPM and run anywhere. Electrics like the Greenworks and Westinghouse are lighter and quieter but cap near 2 GPM. For driveways bigger than two cars, gas saves hours."
+  },
+  {
+   "criterion": "Pump durability",
+   "explanation": "Triplex pumps, as on the Simpson machines, are serviceable and made for long duty. The axial pumps on the electrics are maintenance-free but not rebuildable. Weekly commercial use calls for triplex. If you clean only twice a year, a sealed pump is perfectly fine and saves money."
+  },
+  {
+   "criterion": "Nozzle and technique",
+   "explanation": "A 25-degree tip or a surface cleaner is the safe choice on concrete. A zero-degree tip etches the surface and leaves stripes. Overlap each pass by about an inch. Test a hidden corner first, since dyed or sealed concrete can fade under aggressive tips."
+  },
+  {
+   "criterion": "Hose length and cord reach",
+   "explanation": "A 50-foot hose, as on the Simpson Aluminum Series, covers a wide slab without moving the machine. The 25-foot hoses on the Westinghouse electrics require repositioning. Electrics also need an outdoor outlet within reach. Use a ground-fault protected outlet for any electric machine, since water and cords are a hazardous mix."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Max PSI versus rated PSI",
+   "meaning": "Max PSI is a peak at the lowest flow setting. Rated PSI is the sustained working output you can actually count on. Always use the lower rated number when planning work.",
+   "watchFor": "Westinghouse WPX3000e lists 3000 max and 2600 rated."
+  },
+  {
+   "spec": "GPM",
+   "meaning": "Flow in gallons per minute sets cleaning speed and surface cleaner performance. It matters more than PSI on flat surfaces.",
+   "watchFor": "4.0 GPM on the Simpson models versus 1.1 to 2.0 on the electrics."
+  },
+  {
+   "spec": "Surface cleaner compatibility",
+   "meaning": "A surface cleaner needs enough flow and fittings to spin its arm. Low-flow machines will clean slowly.",
+   "watchFor": "Pair the Simpson models with a 15 to 20 inch cleaner."
+  },
+  {
+   "spec": "Brushless and induction motors",
+   "meaning": "Both avoid brush wear. They run cooler and last longer than brushed universal motors.",
+   "watchFor": "Greenworks uses brushless, Westinghouse WPX3000e uses induction."
+  },
+  {
+   "spec": "PWMA rating",
+   "meaning": "A standard way to rate working pressure and flow. It makes comparison fairer between brands. It does not guarantee peak figures, but it shows how the maker measured working output.",
+   "watchFor": "Sun Joe lists a PWMA working pressure of 2030 PSI."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Flow and surface cleaner capability",
+   "description": "We ranked machines by sustained GPM, because that decides how well they drive a surface cleaner on concrete. The Simpson models at 4.0 GPM led, with the Greenworks at 2.0 GPM best among electrics. Flow was weighted above pressure for flat-surface work."
+  },
+  {
+   "title": "Honest ratings",
+   "description": "We compared rated and max numbers where listed. Westinghouse and Sun Joe received credit for showing working figures, while Greenworks earned points for lab-verified claims."
+  },
+  {
+   "title": "Pump and motor construction",
+   "description": "We separated triplex pumps on the Simpson machines from axial pumps on the electrics, and noted brushless and induction motors on the Greenworks and WPX3000e. Pump replacement cost was considered where the pump is sealed."
+  },
+  {
+   "title": "Reach and handling",
+   "description": "We weighed hose and cord length, weight and wheel design. The 50-foot hose on the Aluminum Series and the 19-pound ePX3500 each earned credit."
+  },
+  {
+   "title": "Slab size fit",
+   "description": "We matched each machine to a slab size, from porches for the Sun Joe up to double driveways for the Simpson models."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Slab Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Porch and steps",
+      "Sun Joe SPX3000",
+      "Light entry electric"
+     ],
+     [
+      "Patio or walkway",
+      "Westinghouse ePX3500",
+      "Compact and light"
+     ],
+     [
+      "Small driveway",
+      "Greenworks 3000 PSI Brushless",
+      "2.0 GPM electric"
+     ],
+     [
+      "Large driveway or lot",
+      "Simpson Aluminum Series 4200",
+      "4.0 GPM with surface cleaner"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Sun Joe SPX3000",
+      "Entry electric"
+     ],
+     [
+      "Low-mid",
+      "Westinghouse ePX3500",
+      "Compact value"
+     ],
+     [
+      "Mid electric",
+      "Greenworks 3000 PSI Brushless",
+      "Best electric flow"
+     ],
+     [
+      "Premium gas",
+      "Simpson PowerShot 4400 or Aluminum Series",
+      "Triplex pump and 4 GPM"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gas vs Electric",
+   "cards": [
+    {
+     "label": "Gas",
+     "text": "The Simpson models deliver 4.0 GPM and run anywhere, which is what concrete cleaning needs. They are loud, heavy and need fuel upkeep."
+    },
+    {
+     "label": "Electric",
+     "text": "The Greenworks, Westinghouse and Sun Joe are light and quiet but top out near 2 GPM, making large slabs slow."
+    }
+   ],
+   "note": "Pick gas for large slabs, electric for small ones near an outlet."
+  },
+  {
+   "subheading": "By Stain Type",
+   "table": {
+    "headers": [
+     "Stain",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Algae and dirt",
+      "Westinghouse ePX3500",
+      "Light work is enough"
+     ],
+     [
+      "Tire marks and grime",
+      "Greenworks 3000 PSI",
+      "Higher flow"
+     ],
+     [
+      "Oil and heavy buildup",
+      "Simpson Aluminum Series",
+      "Flow and pressure"
+     ],
+     [
+      "Rust and deep stains",
+      "Simpson PowerShot 4400",
+      "High pressure with detergent"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Driveways Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for 3.5 GPM or more, a surface cleaner connection and a long hose. Overlap passes to avoid stripes."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Simpson Aluminum Series at 4.0 GPM with a 50-foot hose is the best driveway tool. The Greenworks is the best electric for a small one."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if your slab is larger than a two-car driveway or you clean often, which points to the Simpson Aluminum Series."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if the area is a patio or walkway. The Westinghouse ePX3500 or Sun Joe SPX3000 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Winterize the pump",
+   "interval": "Before freezing weather",
+   "why": "Water left in the pump can freeze and crack it. Drain it or run antifreeze through."
+  },
+  {
+   "task": "Change engine and pump oil",
+   "interval": "Per manual",
+   "why": "Gas engines and triplex pumps have separate oil. Neglect shortens life."
+  },
+  {
+   "task": "Clean the inlet screen",
+   "interval": "Every few uses",
+   "why": "Debris starves the pump and causes cavitation."
+  },
+  {
+   "task": "Inspect hose and fittings",
+   "interval": "Each use",
+   "why": "Quick-connects and hoses are common failure points."
+  },
+  {
+   "task": "Clean surface cleaner nozzles",
+   "interval": "After use",
+   "why": "Clogged tips cause uneven cleaning and stripes."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What PSI do I need for concrete?",
+   "a": "Concrete tolerates 2,500 to 4,000 PSI, but flow matters more for speed. A surface cleaner at 3 to 4 GPM does the best work."
+  },
+  {
+   "q": "Is a surface cleaner worth it?",
+   "a": "Yes. It cleans faster and more evenly than a wand and avoids stripes. It needs adequate GPM to spin."
+  },
+  {
+   "q": "Can an electric washer clean a driveway?",
+   "a": "Small ones, yes, but slowly. The Greenworks at 2.0 GPM is the best electric for it."
+  },
+  {
+   "q": "How do I avoid streaks?",
+   "a": "Keep the wand or cleaner at a constant height and overlap each pass slightly. Use a 25-degree tip, not zero."
+  },
+  {
+   "q": "Should I seal concrete after cleaning?",
+   "a": "Sealing helps resist stains and algae, but wait until the slab is fully dry."
+  },
+  {
+   "q": "Are the max PSI numbers on electrics real?",
+   "a": "They are peak figures at low flow. Use the rated or PWMA working figure to compare."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51bIGTxDzGL._SL500_.jpg"
+}

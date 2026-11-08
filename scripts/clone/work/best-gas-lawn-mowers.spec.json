@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-gas-lawn-mowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "gas lawn mowers",
+ "guideTitle": "Best Gas Lawn Mowers (2026)",
+ "metaTitle": "Best Gas Lawn Mowers (2026)",
+ "metaDescription": "Gas lawn mowers compared on engine size, drive type, deck width and height adjustment, from 144cc push units to 201cc self-propelled models.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The YARDMAX 22-inch with a 201cc engine and a CVT drive is the best gas mower here for lawns with real grade, the PowerSmart EasyGlide 21-inch is the value pick, and the SENIX 18-inch is the right small-yard machine. Skip gas if your lawn is under a quarter acre and you hate pull cords: a cordless mower will cost less to own.",
+ "introParagraphs": [
+  "A gas mower is a single-cylinder four-stroke engine spinning a blade through a steel deck. Its strengths are simple: it runs as long as there is fuel in the tank, it does not care about wet or tall grass and it does not need a charger. Those strengths are why it remains the default for larger or rougher lawns.",
+  "What separates one gas mower from another is less about the engine badge than about the drivetrain and deck around it. Push versus self-propelled, rear-wheel versus front-wheel drive, a closed deck for mulching and how many height positions you get all decide whether the mower is pleasant in year three."
+ ],
+ "products": [
+  {
+   "id": "B0B136YJZM",
+   "badge": "Best Overall",
+   "name": "YARDMAX 22-Inch 201cc CVT Self-Propelled",
+   "specs": [
+    "22 in. deck",
+    "201cc OHV",
+    "6-speed CVT",
+    "High-wheel FWD"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "201cc 4-stroke OHV"
+    },
+    {
+     "label": "Deck",
+     "value": "22-inch steel, 3-in-1"
+    },
+    {
+     "label": "Drive",
+     "value": "Select PACE 6-speed CVT"
+    },
+    {
+     "label": "Wheels",
+     "value": "High-wheel front-wheel drive"
+    },
+    {
+     "label": "Start",
+     "value": "Auto choke"
+    }
+   ],
+   "description": "YARDMAX pairs a 201cc overhead-valve engine with a continuously variable transmission, which varies drive speed smoothly rather than in steps. The Select PACE system lets the mower match your walking speed, so you are never fighting a fixed gear. A CVT removes the jerk of single-speed drives and is easier on the user.\n\nThe high-wheel front-wheel-drive layout puts traction in front, which helps pull the mower forward on grade and in thick grass, and the spiked tread tires bite into soft turf. Front-wheel drive can lighten the front end when bagging, which is a known tradeoff against rear-wheel drive.\n\nOwnership is standard four-stroke care: oil each season, a fresh plug, an air filter check and a sharp blade. The auto choke removes priming steps. Against the SENIX 22-inch it trades rear-wheel drive for a more refined transmission. Rinse the underside after wet mows and avoid storing it with a full tank over winter.",
+   "bestFor": "Lawns with slopes or thick grass where a smooth, adjustable drive matters.",
+   "pros": [
+    "CVT drive matches your walking pace",
+    "High-wheel layout with spiked tread tires",
+    "201cc engine has torque for thick grass",
+    "Auto choke simplifies starting"
+   ],
+   "cons": [
+    "Front-wheel drive can lighten under a full bag",
+    "Heavier than push models",
+    "Highest price tier among self-propelled units here"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0B136YJZM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41R3MtnMTPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H93VB4HJ",
+   "badge": "Best Rear-Wheel Drive",
+   "name": "SENIX 22-Inch 201cc Variable-Speed Self-Propelled",
+   "specs": [
+    "22 in. deck",
+    "201cc OHV",
+    "RWD",
+    "11 in. rear wheels"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "201cc 4-cycle OHV"
+    },
+    {
+     "label": "Deck",
+     "value": "22-inch steel, 3-in-1"
+    },
+    {
+     "label": "Drive",
+     "value": "Variable-speed rear-wheel drive"
+    },
+    {
+     "label": "Rear wheels",
+     "value": "11 inches"
+    },
+    {
+     "label": "Class",
+     "value": "Residential"
+    }
+   ],
+   "description": "SENIX uses the same 201cc displacement as the YARDMAX but a rear-wheel-drive system with 11-inch rear wheels. Rear drive puts the weight of a bag over the driven wheels, which keeps traction when the bag fills, and it helps going uphill because weight shifts rearward.\n\nThe 22-inch steel deck handles mulch, side discharge or rear bag, and variable speed drive lets you slow down in thick spots. It is a sensible workhorse for a half-acre suburban lot.\n\nCompared with the YARDMAX it lacks the CVT but wins on drive layout for bagging. Maintenance is the same four-stroke routine: oil, plug and a sharp blade. Keep the underside clean to avoid clippings buildup that rots the deck. Its larger rear wheels also make curbs and bumpy ground less of a fight.",
+   "bestFor": "Half-acre lots where bagging and uphill traction matter.",
+   "pros": [
+    "Rear-wheel drive keeps traction under a full bag",
+    "11-inch rear wheels roll over bumps",
+    "22-inch deck covers ground quickly",
+    "201cc engine for thick grass"
+   ],
+   "cons": [
+    "Variable speed is less smooth than a CVT",
+    "Heavy to lift or store upright",
+    "Mid-high price tier"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H93VB4HJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gYU1cCQIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H1PDKB8D",
+   "badge": "Best 9 ft-lb Torque Pick",
+   "name": "BILT HARD 21-Inch 201cc Self-Propelled 3-in-1",
+   "specs": [
+    "21 in. deck",
+    "201cc OHV",
+    "9.0 ft-lb torque",
+    "8 heights"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "201cc 4-stroke OHV, 9.0 ft-lb torque"
+    },
+    {
+     "label": "Deck",
+     "value": "21-inch steel, 3-in-1"
+    },
+    {
+     "label": "Drive",
+     "value": "Self-propelled"
+    },
+    {
+     "label": "Heights",
+     "value": "8 adjustable positions"
+    },
+    {
+     "label": "Class",
+     "value": "Residential"
+    }
+   ],
+   "description": "BILT HARD quotes 9.0 foot-pounds of torque from its 201cc engine, a useful number because torque, not horsepower, decides whether a mower bogs in thick or wet grass. The 21-inch steel deck is the standard homeowner width, and the self-propelled drive reduces the effort of pushing a heavy gas machine.\n\nEight height positions give a good range for different seasons and grass types. A 3-in-1 deck lets you mulch, bag or side discharge, and mulching works best when you mow often and remove no more than a third of the blade height.\n\nCompared with the SENIX 22-inch it has a narrower deck and a lower price tier, with similar engine size. Parts for a generic 201cc engine are common. Check the blade each season and keep the deck clean. Keep a spare blade on hand, since a generic deck is fine but a nicked blade shows up as ragged grass tips.",
+   "bestFor": "Typical quarter to half acre lots wanting torque and self-propel at a moderate price.",
+   "pros": [
+    "201cc engine quotes 9.0 ft-lb of torque",
+    "Self-propelled drive saves effort",
+    "Eight height positions",
+    "3-in-1 deck handles mulch, bag or discharge"
+   ],
+   "cons": [
+    "21-inch deck means more passes than 22-inch",
+    "Generic engine has thinner dealer support",
+    "Heavier than a push model"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0H1PDKB8D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414gMEoJZDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H7WZV1X5",
+   "badge": "Best Mid-Size Engine",
+   "name": "Ezasin 21-Inch 170cc Self-Propelled 3-in-1",
+   "specs": [
+    "21 in. deck",
+    "170cc OHV",
+    "Self-propelled",
+    "3-in-1"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "170cc 4-cycle OHV"
+    },
+    {
+     "label": "Deck",
+     "value": "21-inch, 3-in-1"
+    },
+    {
+     "label": "Drive",
+     "value": "Self-propelled"
+    },
+    {
+     "label": "Cutting modes",
+     "value": "Mulch, bag, side discharge"
+    },
+    {
+     "label": "Class",
+     "value": "Residential"
+    }
+   ],
+   "description": "Ezasin sits between the 144cc push mowers and the 201cc self-propelled units with a 170cc four-stroke engine in a self-propelled 21-inch deck. That middle displacement is enough for a normal lawn and keeps weight below the bigger machines.\n\nThe 3-in-1 cutting system lets you switch between mulching, bagging and side discharge. Self-propel is the feature that matters on any lawn bigger than a small yard, because a gas mower carries a lot of weight.\n\nThe tradeoff is that it is a generic brand with limited documentation and support. Maintenance follows the usual routine of oil, air filter and spark plug. Check the listing for the warranty terms before buying, since support is the weak point of generic brands.",
+   "bestFor": "Average lawns wanting self-propel without paying for a 201cc engine.",
+   "pros": [
+    "Self-propelled at a modest engine size",
+    "170cc is enough for typical lawns",
+    "3-in-1 cutting options",
+    "Lighter than 201cc machines"
+   ],
+   "cons": [
+    "Generic brand with thin support",
+    "Less torque in wet, thick grass",
+    "Few spec details on the listing"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H7WZV1X5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415GtVk9iTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CB9XSR1S",
+   "badge": "Best Value Push",
+   "name": "PowerSmart EasyGlide 21-Inch 144cc Push 3-in-1",
+   "specs": [
+    "21 in. deck",
+    "144cc OHV",
+    "Auto choke",
+    "Push drive"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "144cc 4-stroke OHV"
+    },
+    {
+     "label": "Deck",
+     "value": "21-inch steel, 3-in-1"
+    },
+    {
+     "label": "Drive",
+     "value": "Push"
+    },
+    {
+     "label": "Start",
+     "value": "Auto choke and primer"
+    },
+    {
+     "label": "Class",
+     "value": "Residential"
+    }
+   ],
+   "description": "PowerSmart's EasyGlide is the conventional push gas mower: a 144cc four-stroke engine under a 21-inch steel deck with a 3-in-1 cutting system. Auto choke and a primer make cold starts easier, and the specialized blade is designed to lift and discharge grass cleanly.\n\nIt does not self-propel, so you are the transmission. That is fine on flat lawns under a quarter acre and miserable on slopes or large areas. The lower weight and price are its advantages.\n\nCompared with the Ezasin it has a smaller engine and no drive, so it costs less. Check the oil, sharpen the blade and keep the deck clean. If you have a small slope, expect to push hard on the way up.",
+   "bestFor": "Flat lawns under a quarter acre where price matters.",
+   "pros": [
+    "Auto choke and primer for easier starts",
+    "3-in-1 deck",
+    "Lower price tier than self-propelled units",
+    "Lighter to maneuver"
+   ],
+   "cons": [
+    "No self-propel, so you push all the weight",
+    "144cc engine has less torque in tall grass",
+    "Not for slopes"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CB9XSR1S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41IG6+EhgzL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H8SKQ9W7",
+   "badge": "Best for Small Yards",
+   "name": "SENIX 18-Inch 144cc Lightweight Push",
+   "specs": [
+    "18 in. deck",
+    "144cc OHV",
+    "3 heights",
+    "Lightweight"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "144cc 4-cycle"
+    },
+    {
+     "label": "Deck",
+     "value": "18-inch"
+    },
+    {
+     "label": "Heights",
+     "value": "3 positions, 1.2 to 3.15 inches"
+    },
+    {
+     "label": "Drive",
+     "value": "Push"
+    },
+    {
+     "label": "Class",
+     "value": "Small yards"
+    }
+   ],
+   "description": "SENIX builds this around an 18-inch deck and a 144cc four-cycle engine, with an ergonomic handle and a lightweight body. The narrow deck is the feature: it fits through gates, around beds and along fences where a 21-inch deck will not.\n\nThree height positions from 1.2 to 3.15 inches are limited compared with eight or ten, so fine-tuning the cut is harder. The narrower deck also means more passes on any lawn bigger than a small yard.\n\nIt is the beginner-friendly gas mower for tight spaces. Compared with the PowerSmart EasyGlide it gives up width for maneuverability. Keep the engine oil fresh and the blade sharp. Its short handle travel makes it easy to store upright against a wall.",
+   "bestFor": "Small yards with gates, beds and tight corners.",
+   "pros": [
+    "18-inch deck fits narrow spaces",
+    "Lightweight and easy to control",
+    "Low price tier",
+    "144cc engine is easy to service"
+   ],
+   "cons": [
+    "Only three height positions",
+    "More passes on larger lawns",
+    "No self-propel"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0H8SKQ9W7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51z2fgmxk1L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Torque over displacement",
+   "explanation": "Torque keeps the blade turning in thick or wet grass. The BILT HARD quotes 9.0 foot-pounds from 201cc, while 144cc engines like the PowerSmart EasyGlide have less in reserve. Do not trust cc alone; check torque or compare real-world grass conditions. A practical test is to see whether the engine slows audibly when you enter tall grass; a torquey engine holds its note."
+  },
+  {
+   "criterion": "Push versus self-propelled",
+   "explanation": "A gas mower weighs enough that pushing it uphill for an hour is real work. The YARDMAX, SENIX 22-inch, Ezasin and BILT HARD self-propel; the PowerSmart and SENIX 18-inch do not. Choose self-propel above a quarter acre or on any grade. Remember that pushing a 70 to 90 pound machine uphill for an hour adds up quickly."
+  },
+  {
+   "criterion": "Front, rear or CVT drive",
+   "explanation": "Front-wheel drive, as on the YARDMAX, pulls in thick grass but lightens when the bag fills. Rear-wheel drive on the SENIX 22-inch keeps traction under a full bag and uphill. A CVT adjusts speed continuously rather than in steps. If your lawn has a steep bank, test how the mower behaves on it before you commit to bagging there."
+  },
+  {
+   "criterion": "Deck width and height range",
+   "explanation": "A 22-inch deck covers about 5 percent more than a 21-inch per pass, and 18 inches gets through narrow gates. BILT HARD offers 8 positions, while the SENIX 18-inch offers 3. A wider range lets you raise the deck for summer stress. Raising the deck a notch in midsummer helps lawns survive heat stress and drought."
+  },
+  {
+   "criterion": "3-in-1 deck and mulching",
+   "explanation": "Mulching needs a closed deck, a sharp blade and frequent mowing, removing no more than a third of the blade height. Bagging suits leaves and seed heads; side discharge suits tall grass. Check that all three modes are included."
+  },
+  {
+   "criterion": "Starting system",
+   "explanation": "Auto choke and a primer, as on the PowerSmart and YARDMAX, make cold starts predictable. A recoil start is still the norm at this tier. Fresh fuel is the most important factor in whether an engine starts in spring. Fresh fuel matters more than any feature, so buy small cans and rotate them."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "OHV engine",
+   "meaning": "Overhead valve engines place valves above the piston for better breathing and lower emissions. It is standard on modern mower engines.",
+   "watchFor": "All the engines here are four-stroke OHV designs."
+  },
+  {
+   "spec": "ft-lb of torque",
+   "meaning": "A measure of twisting force at the crankshaft. It decides how well the mower holds blade speed in thick grass. Torque is the number to compare when two engines have similar displacement.",
+   "watchFor": "BILT HARD quotes 9.0 ft-lb for its 201cc engine."
+  },
+  {
+   "spec": "CVT drive",
+   "meaning": "A continuously variable transmission changes ratio smoothly. It lets the mower match your walking speed.",
+   "watchFor": "The YARDMAX Select PACE is a 6-speed CVT."
+  },
+  {
+   "spec": "Rear-wheel drive",
+   "meaning": "Drive wheels at the back keep weight over them when bagging and uphill. Rear drive does give up a bit of turning ease.",
+   "watchFor": "The SENIX 22-inch uses 11-inch rear drive wheels."
+  },
+  {
+   "spec": "3-in-1 deck",
+   "meaning": "A deck that can mulch, bag or discharge to the side. The mode is changed by a plug or chute.",
+   "watchFor": "Most mowers here include all three."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Engine and torque",
+   "description": "We compared engines from 131cc to 201cc, giving credit for quoted torque. The BILT HARD, SENIX 22-inch and YARDMAX with 201cc engines scored highest for thick grass. Quoted torque figures were treated as maker claims and used only for rough comparison."
+  },
+  {
+   "title": "Drivetrain design",
+   "description": "We weighed front-wheel, rear-wheel and CVT drives. Rear drive scored well for bagging and slopes, and the CVT scored well for smooth speed control."
+  },
+  {
+   "title": "Deck and cutting system",
+   "description": "We compared deck width from 18 to 22 inches and the number of height positions. The 3-in-1 deck was a baseline requirement. Cutting-height range mattered because it governs how well the mower adapts across seasons."
+  },
+  {
+   "title": "Ease of ownership",
+   "description": "We looked at starting systems and maintenance. Auto choke and primers earned credit, and owner feedback patterns on generic engines shaped the scoring."
+  },
+  {
+   "title": "Value fit",
+   "description": "We separated the PowerSmart EasyGlide as the value pick from the YARDMAX as the premium self-propelled pick. We also noted that sibling models from one brand often share an engine, so differences came from the drive and deck."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Lawn Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Under 1/8 acre, tight spaces",
+      "SENIX 18-Inch 144cc",
+      "Narrow and light"
+     ],
+     [
+      "Up to 1/4 acre, flat",
+      "PowerSmart EasyGlide 21-Inch",
+      "Low-cost push"
+     ],
+     [
+      "1/4 to 1/2 acre",
+      "BILT HARD 21-Inch 201cc",
+      "Torque and self-propel"
+     ],
+     [
+      "1/2 acre or more",
+      "SENIX 22-Inch 201cc",
+      "Wide deck and rear drive"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "SENIX 18-Inch 144cc",
+      "Small push mower"
+     ],
+     [
+      "Low-mid",
+      "PowerSmart EasyGlide 21-Inch",
+      "Push 3-in-1"
+     ],
+     [
+      "Mid",
+      "Ezasin 21-Inch 170cc",
+      "Self-propelled mid engine"
+     ],
+     [
+      "Higher",
+      "YARDMAX 22-Inch CVT",
+      "Refined transmission"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Front-Wheel vs Rear-Wheel Drive",
+   "cards": [
+    {
+     "label": "Front-wheel",
+     "text": "The YARDMAX pulls from the front, which helps in thick grass and turns easily. It can lose traction under a full bag."
+    },
+    {
+     "label": "Rear-wheel",
+     "text": "The SENIX 22-inch pushes from the back, keeping traction under a full bag and uphill. It is slightly harder to pivot."
+    }
+   ],
+   "note": "Pick front-wheel for turning, rear-wheel for bagging and hills."
+  },
+  {
+   "subheading": "By Drive Type",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Smooth speed control",
+      "YARDMAX 22-Inch CVT",
+      "6-speed CVT"
+     ],
+     [
+      "Bagging uphill",
+      "SENIX 22-Inch 201cc",
+      "Rear-wheel drive"
+     ],
+     [
+      "Simple self-propel",
+      "Ezasin 21-Inch 170cc",
+      "Mid engine drive"
+     ],
+     [
+      "No drive, light weight",
+      "PowerSmart EasyGlide",
+      "Push"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Thick Grass Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for 9 foot-pounds or more of torque, a self-propelled drive and a tall height range. Mow high and often, taking no more than a third off."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BILT HARD quotes 9.0 ft-lb, and the YARDMAX and SENIX 22-inch use 201cc engines. The 144cc models are better for regular mowing than for overgrown lawns."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if your lawn is large or sloped, which points to the YARDMAX CVT or SENIX 22-inch for their engines and drive."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if the lawn is small and flat. The PowerSmart EasyGlide or SENIX 18-inch does the job at a lower price."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Change engine oil",
+   "interval": "Each season or 25 hours",
+   "why": "Small engines run hot and shed metal early. Fresh oil protects bearings."
+  },
+  {
+   "task": "Sharpen or replace blade",
+   "interval": "Once or twice a season",
+   "why": "A dull blade tears grass and strains the engine."
+  },
+  {
+   "task": "Replace air filter",
+   "interval": "Annually",
+   "why": "A clogged filter starves the engine of air and wastes fuel."
+  },
+  {
+   "task": "Stabilize fuel for storage",
+   "interval": "End of season",
+   "why": "Old fuel gums the carburetor. Add stabilizer or run it dry."
+  },
+  {
+   "task": "Clean the deck underside",
+   "interval": "After each few mows",
+   "why": "Wet clippings cake and rot the deck. Scrape them off with the engine off."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gas or battery lawn mower?",
+   "a": "Gas runs as long as you have fuel and handles wet, tall grass. Battery is quieter and needs less upkeep, but runtime is limited."
+  },
+  {
+   "q": "Is a self-propelled mower worth it?",
+   "a": "On lawns over a quarter acre or with any slope, yes. Gas mowers are heavy, and drive saves effort."
+  },
+  {
+   "q": "How much engine do I need?",
+   "a": "144cc is enough for regular mowing of small flat lawns. For thick grass or slopes, 170 to 201cc gives more torque."
+  },
+  {
+   "q": "Can I use ethanol fuel?",
+   "a": "Most small engines tolerate up to 10 percent ethanol, but it attracts moisture. Use fresh fuel and stabilizer."
+  },
+  {
+   "q": "What is the best way to mulch?",
+   "a": "Mow often, keep the blade sharp and remove no more than a third of the height. Wet grass clumps and should be bagged."
+  },
+  {
+   "q": "How long does a gas mower last?",
+   "a": "With oil changes and clean fuel, a residential engine can last many seasons. Neglected fuel is the usual killer."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41R3MtnMTPL._SL500_.jpg"
+}

@@ -1,0 +1,635 @@
+{
+ "guideSlug": "best-robot-lawn-mowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "robot lawn mowers",
+ "guideTitle": "Best Robot Lawn Mowers (2026)",
+ "metaTitle": "Best Robot Lawn Mowers (2026)",
+ "metaDescription": "Robot lawn mowers compared on navigation (RTK, LiDAR, vision or wire), slope rating, drive system and lawn size, with picks for small and large yards.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "14 min",
+ "expertTake": "The Segway Navimow X430 is the best robot mower here for larger and sloped lawns because of its 4WD and slope rating, the Husqvarna Automower 550 is the proven wired choice for complex or shaded yards, and the Navimow i110N is the value pick for a quarter acre. Skip robots if your lawn is heavily shaded, full of toys and furniture or very rough: results will disappoint.",
+ "introParagraphs": [
+  "A robot mower is a small, battery-powered cutting machine that drives itself, mows in a pattern, returns to a dock to charge and repeats the process nearly every day. Because it clips only a little grass at a time, it acts as a mulching mower that never lets the lawn get long, which is why results can look better than a weekly mow.",
+  "The big technical divide is navigation. Older designs follow a buried boundary wire; newer ones use satellite positioning, cameras or laser scanning to build a map. Each method has strengths and failure cases, from tree shade to bad signal. This guide compares navigation, drive and slope ability so you can match a robot to your yard."
+ ],
+ "products": [
+  {
+   "id": "B0G8Y8CNH7",
+   "badge": "Best Overall",
+   "name": "Segway Navimow X430 4WD Wire-Free Robot Mower",
+   "specs": [
+    "Up to 1 acre",
+    "4WD, 84% slopes",
+    "Dual 180W motors",
+    "Wire-free"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1 acre"
+    },
+    {
+     "label": "Drive",
+     "value": "All-wheel drive with dual suspension"
+    },
+    {
+     "label": "Slope rating",
+     "value": "Up to 84 percent claimed"
+    },
+    {
+     "label": "Motors",
+     "value": "Dual 180W cutting motors"
+    },
+    {
+     "label": "Navigation",
+     "value": "Wire-free with zero-turn steering"
+    }
+   ],
+   "description": "The X430 is the most capable machine here for rough or hilly lawns. All-wheel drive with a dual suspension system lets it climb slopes the maker rates up to 84 percent, which is well beyond what a two-wheel robot can handle. Its zero-turn steering pivots without tearing turf, a common complaint with ordinary skid-steer robots.\n\nCutting is handled by dual 180-watt motors with a dual-disc cutting design, which gives a wider swath and better handling of thick grass. Navigation is wire-free, meaning you map the lawn instead of burying a boundary wire.\n\nThe tradeoff is price and complexity. Expect a premium tier, a satellite-positioning base station to place well and the usual robot upkeep: clean the underside, replace the small blades regularly and keep the dock area clear. Against the Navimow i110N it covers four times the area with far better traction. Place the base station with a clear view of the sky and away from metal fences to get the best positioning.",
+   "bestFor": "Half-acre to one-acre lawns with slopes and rough ground.",
+   "pros": [
+    "All-wheel drive with dual suspension",
+    "Slope rating up to 84 percent claimed",
+    "Zero-turn steering protects the turf",
+    "Wire-free setup by mapping"
+   ],
+   "cons": [
+    "Highest price tier here",
+    "Satellite positioning needs a clear sky view",
+    "Blades and wheels need regular cleaning"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0G8Y8CNH7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31PCfqtO+CL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GVVYNQDZ",
+   "badge": "Best Wired",
+   "name": "Husqvarna Automower 550 Wired 1.25 Acre",
+   "specs": [
+    "1.25 acres",
+    "Triple guide wires",
+    "45% slopes",
+    "5 start points"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1.25 acres"
+    },
+    {
+     "label": "Navigation",
+     "value": "Buried boundary wire with three guide wires"
+    },
+    {
+     "label": "Slope rating",
+     "value": "Up to 45 percent"
+    },
+    {
+     "label": "Start points",
+     "value": "5"
+    },
+    {
+     "label": "Class",
+     "value": "Commercial-scale"
+    }
+   ],
+   "description": "Husqvarna is the long-standing name in robot mowers, and the Automower 550 relies on a buried boundary wire plus triple guide wires and five start points. A wire gives a hard, unambiguous boundary that does not depend on satellite signal or camera lighting, which is why it works under heavy tree cover where RTK mowers struggle.\n\nIt handles slopes up to 45 percent on coarse-tread wheels. Start points and guide wires spread mowing evenly across divided or oddly shaped lawns and reduce the time spent searching for the dock.\n\nThe cost is installation. Burying or pegging a wire is a weekend job, and edits later mean digging again. Against the Navimow X430 it has less slope capability but better behavior in shade. Expect annual blade replacement and a yearly clean. Pegging the wire first for a week lets you test the layout before burying it.",
+   "bestFor": "Shaded, divided or complex lawns up to 1.25 acres where signal is unreliable.",
+   "pros": [
+    "Boundary wire works under trees",
+    "Triple guide wires and five start points",
+    "Handles slopes up to 45 percent",
+    "Proven brand with dealer support"
+   ],
+   "cons": [
+    "Wire installation is labor",
+    "Boundary changes mean re-laying the wire",
+    "Less slope grip than 4WD rivals"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GVVYNQDZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31IP73VTR-L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CX7T6BR3",
+   "badge": "Best Value",
+   "name": "Segway Navimow i110N 1/4 Acre RTK and Vision",
+   "specs": [
+    "1/4 acre",
+    "RTK and vision",
+    "Wire-free",
+    "AI-assisted mapping"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1/4 acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "RTK with vision (EFLS 2.0)"
+    },
+    {
+     "label": "Setup",
+     "value": "App-based AI-assisted mapping"
+    },
+    {
+     "label": "Mowing pattern",
+     "value": "Planned systematic paths"
+    },
+    {
+     "label": "Class",
+     "value": "Residential"
+    }
+   ],
+   "description": "The i110N uses RTK satellite positioning enhanced by a vision system to keep the robot on its map even where the satellite signal is partly blocked. Setup is done in the app with AI-assisted mapping, avoiding any buried wire.\n\nCoverage is rated up to a quarter acre, which is the size of a typical suburban lot. Planned mowing patterns produce systematic stripes instead of random wandering, and the vision component helps in complex layouts.\n\nAgainst the X430 it lacks the all-wheel drive and slope capacity, so it belongs on flat or gently sloped lawns. It is a sensible entry point to wire-free robotic mowing without the premium price. Trim back low branches over the base station to help the satellite lock.",
+   "bestFor": "Flat to gently sloped lawns up to a quarter acre.",
+   "pros": [
+    "RTK plus vision handles partial shade",
+    "No boundary wire",
+    "Planned mowing patterns",
+    "Lower price tier than the X430"
+   ],
+   "cons": [
+    "Quarter acre coverage limit",
+    "Two-wheel drive on slopes",
+    "Needs a clear patch of sky for the base"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0CX7T6BR3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TLieZtDFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GGZQTY2N",
+   "badge": "Best Edge Trimming",
+   "name": "ECOVACS Goat A2000 LiDAR PRO 1/2 Acre",
+   "specs": [
+    "1/2 acre",
+    "Dual LiDAR",
+    "TruEdge trimming",
+    "32V platform"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1/2 acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "Dual LiDAR with auto mapping"
+    },
+    {
+     "label": "Edge cutting",
+     "value": "Integrated TruEdge trimmer"
+    },
+    {
+     "label": "Power",
+     "value": "High-power 32V platform"
+    },
+    {
+     "label": "Grass types",
+     "value": "Bermuda, zoysia, fescue, St. Augustine"
+    }
+   ],
+   "description": "ECOVACS uses dual LiDAR, which scans the surroundings with laser pulses to build a 3D map. LiDAR does not depend on satellites, so it works in shade and near buildings where RTK can lose lock. The automatic mapping removes the need for a wire.\n\nA built-in TruEdge trimmer cuts along borders, which addresses the biggest complaint about robots: the uncut strip at fences and beds. The 32-volt platform is designed for thick American grasses, such as Bermuda, zoysia, fescue and St. Augustine.\n\nCompared with Navimow it substitutes laser for satellite navigation and adds edge cutting, at a mid-high price tier. Keep the sensors clean, replace blades on schedule and clear the dock area. Wipe the lenses and check the trimmer cutting head for tangled grass after storms.",
+   "bestFor": "Half-acre lawns with shade and clean borders to maintain.",
+   "pros": [
+    "LiDAR navigation works under trees",
+    "Integrated edge trimmer",
+    "Designed for thick grass types",
+    "No boundary wire"
+   ],
+   "cons": [
+    "Mid-high price tier",
+    "Sensors need regular cleaning",
+    "Slope capacity is lower than 4WD rivals"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GGZQTY2N?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41-I+gdU+YL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GN8KK8XW",
+   "badge": "Best AI Obstacle Avoidance",
+   "name": "WORX WR320 Landroid Vision Cloud 1/2 Acre",
+   "specs": [
+    "1/2 acre",
+    "RTK Cloud",
+    "AI obstacle avoidance",
+    "Wire-free"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1/2 acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "Cloud RTK with Vision AI"
+    },
+    {
+     "label": "Mapping",
+     "value": "Automatic boundary detection"
+    },
+    {
+     "label": "Obstacle handling",
+     "value": "Neural-network object recognition"
+    },
+    {
+     "label": "Control",
+     "value": "App"
+    }
+   ],
+   "description": "WORX delivers RTK corrections over the cloud for centimeter-level positioning, paired with a Vision AI that recognizes yard objects such as toys, furniture and pets. The neural network is trained to tell objects apart rather than just bump into them.\n\nAutomatic mapping detects lawn shapes and boundary types, and the app handles scheduling and zones. For a family lawn with toys, hoses and pets, object recognition is the practical advantage.\n\nCompared with the Navimow i110N it covers twice the area, and compared with the A2000 it uses vision rather than LiDAR. Expect the usual blade changes and sensor cleaning. Pick up hoses and toys when you can, since even good recognition is not perfect.",
+   "bestFor": "Family lawns with toys, hoses and pets up to a half acre.",
+   "pros": [
+    "Neural-network object recognition",
+    "Cloud RTK corrections",
+    "Half-acre coverage",
+    "App scheduling and zones"
+   ],
+   "cons": [
+    "Depends on cloud service and signal",
+    "Vision struggles in poor light",
+    "Mid-high price tier"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GN8KK8XW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Ti+DWd55L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H9RM3V44",
+   "badge": "Best Long-Range Connectivity",
+   "name": "LOPKIN L2500-NEO 0.9 Acre NetRTK and Vision",
+   "specs": [
+    "0.9 acre",
+    "NetRTK and AI vision",
+    "57% slopes",
+    "HaLow router"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 0.9 acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "NetRTK, AI vision and GNSS/INS fusion"
+    },
+    {
+     "label": "Slope rating",
+     "value": "Up to 57 percent"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wi-Fi HaLow with auto-pairing router"
+    },
+    {
+     "label": "Setup",
+     "value": "Wire-free"
+    }
+   ],
+   "description": "LOPKIN fuses NetRTK, AI vision and an inertial navigation unit, which lets the robot keep its position through brief satellite dropouts by dead reckoning. The package includes a dedicated Wi-Fi HaLow router, a long-range, low-power link aimed at large yards where home Wi-Fi does not reach the lawn.\n\nA 57 percent slope rating and a 0.9-acre coverage claim put it between the Navimow i110N and the X430. The HaLow link is a practical feature on bigger properties.\n\nThe brand is newer, so support and parts are less proven than Husqvarna or WORX. Keep the sensors clean and watch the firmware updates. Place the router near the center of the lawn for the best link to the mower.",
+   "bestFor": "Large lawns where Wi-Fi coverage is the weak link.",
+   "pros": [
+    "0.9 acre coverage",
+    "57 percent slope rating claimed",
+    "HaLow router solves long-range Wi-Fi",
+    "Sensor fusion handles signal dropouts"
+   ],
+   "cons": [
+    "Newer brand with thin support record",
+    "Needs another router installed",
+    "Price tier is high"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0H9RM3V44?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WAFhYxI9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GS1933S1",
+   "badge": "Best Compact 4WD",
+   "name": "roborock RockMow X115H 0.37 Acre 4WD Quad-Vision",
+   "specs": [
+    "0.37 acre",
+    "4WD",
+    "Full-band RTK",
+    "Quad-vision"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 0.37 acre"
+    },
+    {
+     "label": "Drive",
+     "value": "4WD with active steering"
+    },
+    {
+     "label": "Navigation",
+     "value": "Full-band RTK with quad-vision"
+    },
+    {
+     "label": "Setup",
+     "value": "Wire-free"
+    },
+    {
+     "label": "Terrain",
+     "value": "Uneven and challenging ground"
+    }
+   ],
+   "description": "The X115H combines full-band RTK, which tracks multiple satellite frequencies for steadier lock, with quad-vision cameras for navigation. Four-wheel drive with active steering is meant for uneven ground and gentle slopes.\n\nThe maximum coverage is 0.37 acre, close to the i110N's quarter acre but a little larger, so it fits a typical suburban lawn. The 4WD adds traction that the cheaper models lack.\n\nCompared with the X430 it is smaller and cheaper but shares the 4WD idea. Expect blade changes, sensor cleaning and regular dock checks. Keep the wheel treads clear of caked soil for the best traction on wet days.",
+   "bestFor": "Uneven lawns up to a third of an acre that need 4WD traction.",
+   "pros": [
+    "4WD with active steering",
+    "Full-band RTK for steadier lock",
+    "Quad-vision cameras",
+    "Wire-free setup"
+   ],
+   "cons": [
+    "0.37 acre coverage limit",
+    "Premium price for the size",
+    "Vision depends on lighting"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0GS1933S1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31JrXHmy0pL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Navigation method",
+   "explanation": "RTK satellite positioning, used by the Navimow and WORX, is wire-free and precise but needs a clear sky view. LiDAR, used by the ECOVACS A2000, works in shade. A buried wire, as on the Automower 550, is the most robust under trees. Match the method to how much shade your lawn has. A simple test is to stand in the yard at noon and look up: a mostly open view favors RTK, while a canopy favors wire or LiDAR."
+  },
+  {
+   "criterion": "Slope rating",
+   "explanation": "Slope ratings are given as percentages: 45 percent on the Automower 550, 57 percent on the LOPKIN and 84 percent claimed on the Navimow X430. A 45 percent grade is steep. Two-wheel-drive robots slip on wet slopes, so check the drive type, not just the number. Remember that rain makes grass slick, so a slope that is fine in July can fail in April."
+  },
+  {
+   "criterion": "Drive system",
+   "explanation": "All-wheel drive, found on the X430 and RockMow X115H, resists slipping and climbs. Two-wheel designs are fine on flat ground. Zero-turn steering on the X430 avoids scuffing turf."
+  },
+  {
+   "criterion": "Coverage versus lawn size",
+   "explanation": "A robot rated for a quarter acre, like the i110N, will struggle on a lawn of half an acre. Ratings assume simple layouts. Choose a model rated for 25 to 50 percent more than your lawn. Complex layouts with narrow passages take longer than the headline coverage suggests."
+  },
+  {
+   "criterion": "Edge cutting and finish",
+   "explanation": "Robots leave a strip at borders. The ECOVACS A2000 has a trimmer that cuts along edges, while others leave a strip for the string trimmer. Check whether edge quality matters to you."
+  },
+  {
+   "criterion": "Obstacle handling",
+   "explanation": "AI vision, as on the WORX WR320, identifies objects such as toys and pets. LiDAR detects shapes. Simple bump sensors do not. Families with children and pets should favor recognition. A pet or child leaving toys out daily is a strong reason to pay for recognition."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "RTK",
+   "meaning": "Real-time kinematic positioning uses a fixed base station to correct satellite readings to centimeter accuracy. It needs a clear view of the sky. Placement of the base matters as much as the technology itself.",
+   "watchFor": "Tree canopy can break lock."
+  },
+  {
+   "spec": "LiDAR",
+   "meaning": "A laser scanner that measures distances to build a 3D map. It does not depend on satellites.",
+   "watchFor": "The ECOVACS A2000 uses dual LiDAR."
+  },
+  {
+   "spec": "Slope percent",
+   "meaning": "Rise over run times 100. A 45 percent slope is about 24 degrees. A 45 percent slope is only about 24 degrees, which is still steep for a small robot.",
+   "watchFor": "Compare drive type, not just the number."
+  },
+  {
+   "spec": "GNSS/INS fusion",
+   "meaning": "Combines satellite and inertial sensors so the robot keeps its position through short dropouts.",
+   "watchFor": "The LOPKIN uses it."
+  },
+  {
+   "spec": "Wi-Fi HaLow",
+   "meaning": "A long-range, low-power wireless standard that reaches farther than ordinary Wi-Fi.",
+   "watchFor": "The LOPKIN bundles a HaLow router."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Navigation reliability",
+   "description": "We compared RTK, LiDAR, vision and wire. Wire and LiDAR scored higher for shade, and RTK with vision scored higher for ease of setup. Reliability under real-world shade was weighted more than setup speed."
+  },
+  {
+   "title": "Drive and slope ability",
+   "description": "We weighed drive layout and slope ratings, from 45 percent on the Automower 550 to 84 percent claimed on the X430."
+  },
+  {
+   "title": "Obstacle handling",
+   "description": "We looked at AI recognition on the WORX, LiDAR on the ECOVACS and vision systems elsewhere. Vision systems were penalized slightly for low-light behavior."
+  },
+  {
+   "title": "Coverage fit",
+   "description": "We matched rated coverage from 0.37 to 1.25 acres against typical lawn sizes."
+  },
+  {
+   "title": "Ownership burden",
+   "description": "We considered blade changes, sensor cleaning and wire maintenance. Owner feedback patterns on signal loss shaped the scoring."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Lawn Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Up to 1/4 acre",
+      "Segway Navimow i110N",
+      "RTK and vision"
+     ],
+     [
+      "Up to 0.37 acre, uneven",
+      "roborock RockMow X115H",
+      "4WD"
+     ],
+     [
+      "Up to 1/2 acre",
+      "ECOVACS Goat A2000",
+      "LiDAR and edge trimming"
+     ],
+     [
+      "0.9 acre or more",
+      "Segway Navimow X430",
+      "Larger coverage and 4WD"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Husqvarna Automower 550",
+      "Wired, proven"
+     ],
+     [
+      "Low-mid",
+      "Segway Navimow i110N",
+      "Wire-free entry"
+     ],
+     [
+      "Mid",
+      "WORX WR320",
+      "AI vision"
+     ],
+     [
+      "Premium",
+      "Segway Navimow X430",
+      "4WD and slopes"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Wired vs Wire-Free",
+   "cards": [
+    {
+     "label": "Wired",
+     "text": "The Husqvarna Automower 550 uses a buried wire that works under trees and in poor signal. Setup takes labor and changes mean re-laying wire."
+    },
+    {
+     "label": "Wire-free",
+     "text": "The Navimow, WORX, LOPKIN and roborock models map the lawn with satellites, cameras or lasers. They are quick to set up but can lose signal in shade."
+    }
+   ],
+   "note": "Pick wired for heavy shade and complex layouts, wire-free for quick setup in open yards."
+  },
+  {
+   "subheading": "By Navigation Method",
+   "table": {
+    "headers": [
+     "Condition",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Heavy tree shade",
+      "Husqvarna Automower 550",
+      "Wire boundary"
+     ],
+     [
+      "Partial shade",
+      "ECOVACS Goat A2000",
+      "LiDAR"
+     ],
+     [
+      "Open sky",
+      "Segway Navimow i110N",
+      "RTK and vision"
+     ],
+     [
+      "Weak Wi-Fi at far end",
+      "LOPKIN L2500-NEO",
+      "HaLow router"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sloped Lawns Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for all-wheel drive and a slope rating well above your steepest grade. Wet grass cuts traction, so leave margin."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Navimow X430 claims 84 percent with 4WD, the LOPKIN claims 57 percent and the Automower 550 handles 45 percent."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if your lawn is large or sloped, which points to the Navimow X430."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if the lawn is small and open. The Navimow i110N covers a quarter acre at a lower tier."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace blades",
+   "interval": "Every 1 to 3 months in season",
+   "why": "Robot blades are small razors that dull quickly. Dull blades tear grass."
+  },
+  {
+   "task": "Clean the underside and wheels",
+   "interval": "Weekly",
+   "why": "Clippings clog the deck and drive. Disconnect power before cleaning."
+  },
+  {
+   "task": "Clean sensors and cameras",
+   "interval": "Every two weeks",
+   "why": "Dirt blinds vision and LiDAR systems."
+  },
+  {
+   "task": "Check the dock and charging contacts",
+   "interval": "Monthly",
+   "why": "Corroded contacts cause failed charges."
+  },
+  {
+   "task": "Winter storage",
+   "interval": "Off-season",
+   "why": "Store the mower indoors with a partly charged battery."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do robot mowers work on slopes?",
+   "a": "Yes, within limits. Check the slope rating and drive type. Wet grass reduces traction on two-wheel models."
+  },
+  {
+   "q": "Do I need a boundary wire?",
+   "a": "Not with RTK, vision or LiDAR models, but wire is more reliable under heavy tree cover."
+  },
+  {
+   "q": "Are robot mowers safe for pets?",
+   "a": "They stop when lifted or tilted, and AI vision models avoid objects, but supervise pets and children."
+  },
+  {
+   "q": "Will a robot mower replace my mower?",
+   "a": "For regular maintenance mowing, often yes. You may still need a string trimmer for edges."
+  },
+  {
+   "q": "How often do the blades need changing?",
+   "a": "Every month or two in the mowing season. They are cheap and dull quickly."
+  },
+  {
+   "q": "Can they be stolen?",
+   "a": "Most have PIN codes and alarms, but treat them like any outdoor electronics and check the specific features."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31PCfqtO+CL._SL500_.jpg"
+}

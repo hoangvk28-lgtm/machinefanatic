@@ -1,0 +1,635 @@
+{
+ "guideSlug": "best-zero-turn-lawn-mowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "zero-turn lawn mowers",
+ "guideTitle": "Best Zero-Turn Lawn Mowers (2026)",
+ "metaTitle": "Best Zero-Turn Lawn Mowers (2026)",
+ "metaDescription": "Zero-turn lawn mowers compared on engine, hydrostatic drive, fabricated decks, ROPS and electric options, with acreage guidance for each pick.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "14 min",
+ "expertTake": "The Husqvarna MZ61 with a Kawasaki V-twin, ZT-3100 hydrostatic and ROPS is the best zero-turn here for large properties, the Husqvarna Z248F is the value pick for two to four acres, and the Greenworks MaximusZ is the electric to buy if you want commercial-class power without fuel. Skip zero-turns for steep or wet slopes: a tractor with a differential lock holds the grade better.",
+ "introParagraphs": [
+  "A zero-turn mower steers by driving its two rear wheels independently, one lever per wheel, so it can pivot around a fixed point. That is why it cuts trimming time around trees, beds and fences so sharply compared with a steering-wheel tractor, and why professionals prefer it.",
+  "The same design has a learning curve and a few real limits. Traction is concentrated on small rear tires, slopes demand respect and the deck and hydrostatic drive determine how long the machine lasts. This guide compares engines, transmissions, deck construction and electric alternatives so you can match a model to your acreage."
+ ],
+ "products": [
+  {
+   "id": "B0BW2HT5XT",
+   "badge": "Best Overall",
+   "name": "Husqvarna MZ61 61-Inch 24 HP Kawasaki ROPS",
+   "specs": [
+    "61 in. fabricated deck",
+    "24 HP Kawasaki V-twin",
+    "ZT-3100 hydro",
+    "ROPS"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "24 HP 726cc Kawasaki FR730V V-twin"
+    },
+    {
+     "label": "Deck",
+     "value": "61-inch 3-blade fabricated"
+    },
+    {
+     "label": "Transmission",
+     "value": "Hydro-Gear ZT-3100 commercial hydrostatic"
+    },
+    {
+     "label": "Safety",
+     "value": "Rollover protection structure"
+    },
+    {
+     "label": "Class",
+     "value": "Large residential and light commercial"
+    }
+   ],
+   "description": "The MZ61 is built like a light commercial machine. A 726cc Kawasaki V-twin turns a 61-inch, three-blade fabricated deck, and a Hydro-Gear ZT-3100 commercial-grade hydrostatic transmission handles drive. Fabricated means welded from thick steel plates, which resists bending far better than a stamped deck.\n\nThe rollover protection structure is a real safety feature for a machine that can tip on slopes. A 61-inch deck is also a lot of mower, covering ground quickly on three to five acres but needing a wide gate and a trailer to move.\n\nCompared with the Z254F it adds width, a stronger transmission and ROPS for a higher price tier. Ownership means oil and filter changes, greasing the spindles and keeping the deck clean. The ZT-3100 is a sealed hydro that needs little attention beyond fluid checks per the manual. Check the ROPS and seat belt before every mow, and never remove the belt on a machine this fast.",
+   "bestFor": "Three to five acre properties where speed, durability and safety matter.",
+   "pros": [
+    "Commercial ZT-3100 hydrostatic transmission",
+    "61-inch fabricated deck resists damage",
+    "Kawasaki V-twin runs smooth with reserve",
+    "ROPS adds rollover protection"
+   ],
+   "cons": [
+    "Highest price tier among the gas units",
+    "Too wide for many gates",
+    "Needs a trailer for transport"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BW2HT5XT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/410-1476IaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BBY28YXJ",
+   "badge": "Best Value",
+   "name": "Husqvarna Z248F 48-Inch 23 HP Kawasaki",
+   "specs": [
+    "48 in. fabricated deck",
+    "23 HP Kawasaki V-twin",
+    "ZT-2200 hydro",
+    "3-blade"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "23 HP 726cc Kawasaki FR651V V-twin"
+    },
+    {
+     "label": "Deck",
+     "value": "48-inch 3-blade fabricated"
+    },
+    {
+     "label": "Transmission",
+     "value": "Hydro-Gear ZT-2200 hydrostatic"
+    },
+    {
+     "label": "Class",
+     "value": "Residential"
+    },
+    {
+     "label": "Steering",
+     "value": "Dual lap bars"
+    }
+   ],
+   "description": "The Z248F keeps the important parts of a premium zero-turn: a Kawasaki V-twin, a fabricated three-blade deck and a Hydro-Gear ZT-2200 hydrostatic transmission. At 48 inches it fits through a standard 52-inch gate with room to spare.\n\nCompared with the MZ61 it has a narrower deck and a lighter-duty transmission, which is why it costs less. For two to four acres of residential lawn, it offers most of the durability at a more moderate tier.\n\nPlan on annual oil changes, greased spindles and sharp blades. Keep the cooling fins and the air screen clear of clippings, since a V-twin runs hot in summer. Treat lap-bar practice on flat ground as part of the purchase, since smooth stops come with hours.",
+   "bestFor": "Two to four acre residential lawns with standard gates.",
+   "pros": [
+    "Fabricated 48-inch deck",
+    "Kawasaki V-twin engine",
+    "ZT-2200 hydrostatic drive",
+    "Fits through standard gates"
+   ],
+   "cons": [
+    "Narrower than 54 to 61-inch rivals",
+    "Lighter-duty transmission than the MZ61",
+    "No ROPS standard on this listing"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0BBY28YXJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318pSsZTVRL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07NF3V21T",
+   "badge": "Best Bagging Deck",
+   "name": "Husqvarna Z254F 54-Inch 23 HP Kawasaki ClearCut",
+   "specs": [
+    "54 in. ClearCut deck",
+    "23 HP Kawasaki",
+    "6.5 mph",
+    "Hydrostatic"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "23 HP Kawasaki"
+    },
+    {
+     "label": "Deck",
+     "value": "54-inch ClearCut deep deck"
+    },
+    {
+     "label": "Top speed",
+     "value": "6.5 mph"
+    },
+    {
+     "label": "Transmission",
+     "value": "Hydrostatic, no-maintenance"
+    },
+    {
+     "label": "Class",
+     "value": "Large residential"
+    }
+   ],
+   "description": "The Z254F pairs a 23 HP Kawasaki engine with a 54-inch ClearCut deck whose deep shape improves airflow and bagging. A sealed, no-maintenance hydrostatic transmission and a top speed of 6.5 mph make it quick across open lawn.\n\nA deep deck matters for lift: the blade needs room to create a vortex that stands grass up and moves clippings. That makes the ClearCut a good fit for leaves and for lawns that are mown at longer intervals.\n\nIt sits between the Z248F and MZ61 in size and price. Expect the usual oil, filter and spindle service, and rinse the deck after wet mowing to keep clippings from caking. Raise the deck a notch when leaves are heavy so the vortex does not clog.",
+   "bestFor": "Three to four acre lawns where cut quality and bagging matter.",
+   "pros": [
+    "ClearCut deep deck improves airflow",
+    "6.5 mph top speed",
+    "Sealed hydrostatic needs little service",
+    "Kawasaki engine reliability"
+   ],
+   "cons": [
+    "54-inch deck needs a wide gate",
+    "Stamped deck features vary by listing",
+    "Mid-high price tier"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07NF3V21T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CMAS3TEVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DY6YHP7L",
+   "badge": "Best Kohler Option",
+   "name": "Husqvarna Xcite Z375 60-Inch 26 HP Kohler",
+   "specs": [
+    "60 in. fabricated deck",
+    "26 HP Kohler V-twin",
+    "747cc",
+    "3-blade"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "26 HP 747cc Kohler V-twin"
+    },
+    {
+     "label": "Deck",
+     "value": "60-inch 3-blade fabricated steel"
+    },
+    {
+     "label": "Steering",
+     "value": "Dual lap bars"
+    },
+    {
+     "label": "Class",
+     "value": "Large residential and light commercial"
+    },
+    {
+     "label": "Layout",
+     "value": "Zero-turn"
+    }
+   ],
+   "description": "The Xcite Z375 swaps in a 26 HP, 747cc Kohler V-twin, the largest engine in the gas group, under a 60-inch fabricated three-blade deck. More displacement gives extra torque in thick grass and on hills.\n\nThe tradeoff is brand: Kohler is a respected commercial engine maker, but parts and dealer familiarity differ from Kawasaki in some regions. Against the MZ61 it has a slightly smaller deck and a bigger engine.\n\nKeep an eye on oil, filter and cooling air flow. A fabricated 60-inch deck is heavy, so plan the trailer ramp and the storage space before you buy. Because Kohler service varies by region, check for a nearby dealer before buying.",
+   "bestFor": "Large lawns with thick grass where engine torque matters.",
+   "pros": [
+    "26 HP Kohler V-twin has plenty of torque",
+    "60-inch fabricated deck",
+    "Wide cut speeds large properties",
+    "Fits light commercial duty"
+   ],
+   "cons": [
+    "Large and heavy",
+    "Kohler service coverage varies by region",
+    "High price tier"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DY6YHP7L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51g1p8OZgiL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DSW1GHBL",
+   "badge": "Best Electric Power",
+   "name": "Greenworks MaximusZ 60V 54-Inch Electric Zero-Turn",
+   "specs": [
+    "54 in. deck",
+    "31 HP equivalent",
+    "3.5 acre claim",
+    "17,900 FPM"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Two 20Ah and four 8Ah 60V batteries"
+    },
+    {
+     "label": "Equivalent",
+     "value": "31 HP gas, claimed"
+    },
+    {
+     "label": "Deck",
+     "value": "54-inch, three hub motors"
+    },
+    {
+     "label": "Blade speed",
+     "value": "Constant 17,900 FPM tip speed"
+    },
+    {
+     "label": "Runtime claim",
+     "value": "Up to 3.5 acres"
+    }
+   ],
+   "description": "The MaximusZ drives each blade with its own brushless hub motor, maintaining a constant 17,900 feet-per-minute tip speed. Constant tip speed is the property that keeps cut quality up when the grass gets thick, and electric motors can deliver it without the lag of an engine.\n\nThe kit includes two 20Ah and four 8Ah batteries, with a claim of up to 3.5 acres and a 31 HP gas equivalence. Those are maximum figures for light, dry grass, so treat them as a ceiling.\n\nWith no engine, there is no oil, fuel or belt service beyond blades and the deck, and noise is low. The cost is the battery set and the weight of the packs. Compared with the EGO Z6, it is the larger, more expensive and more commercial-aimed option. Plan the charging setup, because the big packs need a dedicated outlet and a long window.",
+   "bestFor": "Large lawns where quiet, zero-emission mowing is a priority.",
+   "pros": [
+    "Three brushless hub motors hold blade speed",
+    "No oil, fuel or belts",
+    "Quiet for early or late mowing",
+    "Large 54-inch deck"
+   ],
+   "cons": [
+    "Expensive battery set",
+    "Claims assume light dry grass",
+    "Recharging takes hours"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DSW1GHBL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cjkBaQHnL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FVJWD4XP",
+   "badge": "Best Mid-Size Electric",
+   "name": "EGO Power+ Z6 ZT5216L 52-Inch Electric Zero-Turn",
+   "specs": [
+    "52 in. deck",
+    "Six 56V 10.0Ah",
+    "3.0 acre claim",
+    "Deck suspension"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Up to six EGO 56V ARC batteries, 10.0Ah"
+    },
+    {
+     "label": "Deck",
+     "value": "52-inch with suspension"
+    },
+    {
+     "label": "Runtime claim",
+     "value": "Up to 3.0 acres per charge"
+    },
+    {
+     "label": "Frame",
+     "value": "Wide stance for slope balance"
+    },
+    {
+     "label": "Steering",
+     "value": "Lap bars"
+    }
+   ],
+   "description": "EGO's 52-inch Z6 uses six 10.0Ah packs on the 56-volt platform and claims up to 3.0 acres on a charge. A wide frame improves balance on slopes, and a deck suspension system lets the deck float over bumps, which reduces scalping.\n\nThe tool-sharing advantage is real: EGO packs interchange with its other tools. The tradeoff is that the batteries are the largest part of the cost.\n\nAgainst the Greenworks MaximusZ it has a smaller deck and a lower acreage claim but a more established tool platform. Keep the packs indoors in extreme temperatures. Keep the deck clean underneath, since suspension joints collect wet clippings.",
+   "bestFor": "Two to three acre lawns for owners in the EGO platform.",
+   "pros": [
+    "Deck suspension reduces scalping",
+    "Wide frame improves balance",
+    "Shares batteries with EGO tools",
+    "No engine maintenance"
+   ],
+   "cons": [
+    "Battery set is the main cost",
+    "Lap-bar learning curve",
+    "Runtime drops in tall wet grass"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FVJWD4XP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51vNBxV42EL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FVK5YCL8",
+   "badge": "Best Wheel-Steer Electric",
+   "name": "EGO Power+ Z6 e-Steer ZT4215S 42-Inch",
+   "specs": [
+    "42 in. deck",
+    "Steering wheel",
+    "2.0 acre claim",
+    "Six 56V packs"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Two 10.0Ah and four other 56V packs"
+    },
+    {
+     "label": "Deck",
+     "value": "42-inch"
+    },
+    {
+     "label": "Steering",
+     "value": "e-Steer wheel instead of lap bars"
+    },
+    {
+     "label": "Runtime claim",
+     "value": "Up to 2.0 acres per charge"
+    },
+    {
+     "label": "Layout",
+     "value": "Zero-turn"
+    }
+   ],
+   "description": "The e-Steer replaces lap bars with a steering wheel and still turns on a dime, a unique approach among zero-turns. For owners who find lever steering intimidating, it combines the pivot of a zero-turn with the familiarity of a car wheel.\n\nA 42-inch deck suits one to two acres and standard gates, and the listing claims up to 2.0 acres per charge. Power comes from six 56-volt packs, the same platform as the larger Z6.\n\nIt is smaller and more expensive per inch of deck than the 52-inch model, but the steering is gentler for new users. Stay off steep slopes as with any zero-turn. It is the gentlest introduction to zero-turn mowing, though the small deck limits speed on big lawns.",
+   "bestFor": "Smaller properties and first-time zero-turn buyers who prefer a wheel.",
+   "pros": [
+    "Steering wheel feels familiar",
+    "Zero-turn pivot for trimming",
+    "42-inch deck fits standard gates",
+    "No engine upkeep"
+   ],
+   "cons": [
+    "Small deck for the price",
+    "Battery set is costly",
+    "Not for steep slopes"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0FVK5YCL8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51nGPxDql8L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Fabricated versus stamped deck",
+   "explanation": "A fabricated deck, found on the MZ61, Z248F, and Xcite Z375, is welded from thick plates and resists bending when you hit a stump. A stamped deck is cheaper but dents. For rough ground, fabricated is the right choice. Run a thumb over the underside weld seams in the showroom: continuous welds mean a fabricated deck, spot welds mean a lighter one."
+  },
+  {
+   "criterion": "Hydrostatic transmission class",
+   "explanation": "The Hydro-Gear ZT-3100 on the MZ61 is commercial grade, while the ZT-2200 on the Z248F is residential grade. A stronger hydro handles heat and load better in summer. Check which unit the model uses. A hydro that runs hot in summer will lose pressure and creep, so fluid checks matter."
+  },
+  {
+   "criterion": "Engine reserve",
+   "explanation": "A Kawasaki 726cc V-twin on the Z248F, a Kohler 747cc on the Xcite Z375 and an 18 HP single all behave differently under load. Choose an engine with headroom for your thickest grass."
+  },
+  {
+   "criterion": "Slope and traction",
+   "explanation": "Zero-turns put weight on the rear wheels and have limited downhill braking. Follow the maker's slope limit, usually around 10 degrees, and mow up and down rather than across. A ROPS, as on the MZ61, adds protection. Never mow across a steep side slope with a zero-turn, since the rear wheels can slide."
+  },
+  {
+   "criterion": "Deck width versus gates",
+   "explanation": "A 61-inch deck will not fit a 60-inch gate. The 48-inch Z248F and 42-inch EGO e-Steer fit standard openings. Measure your gate and trailer."
+  },
+  {
+   "criterion": "Gas versus electric",
+   "explanation": "Gas models refuel in minutes and handle all conditions, but need oil and filter care. Electric models like the Greenworks MaximusZ and EGO Z6 are quiet and low-maintenance, but runtime depends on grass and battery sizing. If you already own EGO or Greenworks tools, the existing packs lower the entry price."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Fabricated deck",
+   "meaning": "A deck welded from thick steel plates instead of stamped from one sheet. It is stronger and costs more.",
+   "watchFor": "Present on the MZ61, Z248F and Xcite Z375."
+  },
+  {
+   "spec": "Hydro-Gear ZT-3100",
+   "meaning": "A commercial-grade hydrostatic transaxle pair. It handles heat and heavy use better than residential units. Higher classes use larger pumps and cooling.",
+   "watchFor": "The MZ61 uses ZT-3100 while the Z248F uses ZT-2200."
+  },
+  {
+   "spec": "ROPS",
+   "meaning": "Rollover protection structure, a frame that protects the operator in a tip-over. It works with the seat belt.",
+   "watchFor": "Listed on the MZ61."
+  },
+  {
+   "spec": "FPM blade tip speed",
+   "meaning": "Feet per minute at the blade tip. Steady tip speed keeps cut quality in thick grass.",
+   "watchFor": "Greenworks quotes 17,900 FPM."
+  },
+  {
+   "spec": "Peak power equivalent",
+   "meaning": "Battery makers compare output to a gas engine in horsepower. It is a marketing guide, not a measurement. Treat this as an approximate comparison.",
+   "watchFor": "Greenworks claims 31 HP equivalent."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Deck and frame",
+   "description": "We favored fabricated decks and wide frames. The MZ61, Z248F and Xcite Z375 scored highest on deck strength."
+  },
+  {
+   "title": "Drivetrain",
+   "description": "We compared hydrostatic classes, from the ZT-3100 to the ZT-2200. Commercial-grade units scored higher for hot-weather durability. Transmission class mattered because heat is the main wear factor in summer."
+  },
+  {
+   "title": "Engine or battery system",
+   "description": "We looked at engine displacement and V-twin design, and at pack capacity and motor layout on the electrics."
+  },
+  {
+   "title": "Safety and slope handling",
+   "description": "We noted ROPS and wide stances, and the maker's slope limits. Owner feedback patterns on zero-turn slope behavior shaped the scoring. We treated ROPS as a plus but not a requirement."
+  },
+  {
+   "title": "Acreage fit",
+   "description": "We matched each machine to acreage, from the 42-inch e-Steer for one to two acres to the MZ61 for five."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Acreage",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "1 to 2 acres, standard gates",
+      "EGO Power+ Z6 e-Steer 42-Inch",
+      "Wheel steering and small deck"
+     ],
+     [
+      "2 to 4 acres",
+      "Husqvarna Z248F",
+      "Fabricated deck at a moderate tier"
+     ],
+     [
+      "3 to 4 acres with bagging",
+      "Husqvarna Z254F",
+      "ClearCut deep deck"
+     ],
+     [
+      "4 to 6 acres",
+      "Husqvarna MZ61",
+      "61-inch deck and ROPS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest gas",
+      "Husqvarna Z248F",
+      "Kawasaki V-twin at the entry tier"
+     ],
+     [
+      "Mid gas",
+      "Husqvarna Z254F",
+      "54-inch ClearCut deck"
+     ],
+     [
+      "Mid electric",
+      "EGO Power+ Z6 52-Inch",
+      "Platform and suspension"
+     ],
+     [
+      "Premium",
+      "Husqvarna MZ61 or Greenworks MaximusZ",
+      "Commercial hardware or maximum electric"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gas vs Electric",
+   "cards": [
+    {
+     "label": "Gas",
+     "text": "The Husqvarna Kawasaki and Kohler models refuel in minutes, run all day and tolerate wet grass. They need oil, filters and fuel care."
+    },
+    {
+     "label": "Electric",
+     "text": "The Greenworks MaximusZ and EGO Z6 are quiet with no engine maintenance, but battery sets are expensive and runtime depends on conditions."
+    }
+   ],
+   "note": "Pick gas for the largest or roughest lawns, electric for quiet mowing on up to about 3 acres."
+  },
+  {
+   "subheading": "By Steering Preference",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lap bars, experienced users",
+      "Husqvarna Z254F",
+      "Standard zero-turn"
+     ],
+     [
+      "Wheel steering",
+      "EGO Power+ Z6 e-Steer",
+      "Steering wheel"
+     ],
+     [
+      "Bar steering with suspension",
+      "EGO Power+ Z6 52-Inch",
+      "Floating deck"
+     ],
+     [
+      "Commercial duty",
+      "Husqvarna MZ61",
+      "ZT-3100 and ROPS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Obstacle-Heavy Lawns Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a narrower deck, strong pivot control and a fabricated deck that tolerates bumps. Cutting speed around obstacles is where zero-turns excel."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Husqvarna Z248F at 48 inches and the EGO e-Steer at 42 inches fit best among trees and beds."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you mow over four acres or want ROPS and a commercial transmission, which points to the MZ61."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if the property is two to three acres. The Z248F offers a fabricated deck and V-twin at a lower tier."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Grease deck spindles",
+   "interval": "Every 25 hours",
+   "why": "Spindle bearings carry the blade load and wear fastest without grease."
+  },
+  {
+   "task": "Change engine oil and filter",
+   "interval": "Each season",
+   "why": "V-twins run hot under load, and fresh oil protects the bearings."
+  },
+  {
+   "task": "Check hydrostatic fluid and belts",
+   "interval": "Per manual",
+   "why": "Transmission heat is the leading cause of failure."
+  },
+  {
+   "task": "Clean the deck and engine screen",
+   "interval": "After each few mows",
+   "why": "Clippings trap heat and moisture."
+  },
+  {
+   "task": "Store batteries indoors",
+   "interval": "Off-season",
+   "why": "Keep lithium packs at partial charge in a cool place."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are zero-turns good on hills?",
+   "a": "Only on gentle slopes. Weight sits on the rear wheels and braking is limited. Follow the maker's slope limit."
+  },
+  {
+   "q": "Zero-turn or tractor?",
+   "a": "Zero-turns trim faster around obstacles. Tractors steer with a wheel and handle wet slopes better."
+  },
+  {
+   "q": "Is a ROPS necessary?",
+   "a": "It is a safety feature that works with a seat belt. If you mow near slopes or ditches, it is worth having."
+  },
+  {
+   "q": "How long do electric zero-turns run?",
+   "a": "Claims run from 2.0 to 3.5 acres per charge on light grass. Thick or wet grass reduces it."
+  },
+  {
+   "q": "What deck size should I buy?",
+   "a": "Match the deck to your gates and acreage. 42 to 48 inches suit one to three acres, 54 to 61 inches suit larger properties."
+  },
+  {
+   "q": "How much maintenance does a zero-turn need?",
+   "a": "Gas models need oil, filters and spindle grease each season. Electrics need blades, spindles and battery care."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/410-1476IaL._SL500_.jpg"
+}

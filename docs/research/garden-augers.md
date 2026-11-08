@@ -1,0 +1,14 @@
+# Garden augers research
+- Bit diameter follows the bulb or root ball: about 1.6 inch for crocus and plugs, 2 to 2.4 inch for tulips and daffodils, 3 inch for bedding plants, 4 inch and larger for perennials.
+- Length must reach planting depth (bulbs 6 to 8 inches, larger plants 12 inches or more) without extra extensions.
+- Shank: most are 3/8 inch hex; some heavy augers use 1/2 inch hex, so check chuck capacity.
+- Torque beats speed: use the lowest speed gear and the clutch set low; the drill should spin the bit at under about 600 RPM.
+- 18V or 20V cordless drill is the practical minimum for compacted clay; larger bits need more.
+- Do not use impact drivers: the hammering can snap shafts and the lack of a clutch is dangerous.
+- A large bit can catch a root or stone and twist the drill into the wrist; use a side handle and low clutch setting.
+- Cheap thin bits can flex in hard soil; steel gauge and weld quality matter.
+- Augers work best in loosened or damp soil; bone dry clay or rocky soil defeats them.
+- Keep the drill at a slight angle and lift out frequently to clear soil rather than forcing it.
+- Clean soil off after use and dry to prevent rust.
+- Cordless drills have a brushless motor option which gives better torque and runtime.
+- Never use near buried utilities or irrigation lines.

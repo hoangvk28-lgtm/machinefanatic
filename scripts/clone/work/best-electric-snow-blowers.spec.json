@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-electric-snow-blowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "electric snow blowers",
+ "guideTitle": "Best Electric Snow Blowers (2026)",
+ "metaTitle": "Best Electric Snow Blowers (2026)",
+ "metaDescription": "Electric snow blowers compared across corded, cordless single-stage, two-stage and shovel designs, with power, runtime and driveway fit explained.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The EGO Power+ SNT2405 is the best electric option here because it has real two-stage hardware, the Snow Joe SJ627E corded unit is the value pick for short paved drives, and the EGO 21-inch single-stage is the sensible middle. Skip electric entirely if you face deep, wet storms across a long driveway: gas still wins on sustained output.",
+ "introParagraphs": [
+  "Electric clearing machines cover a wider range than most buyers realize. At one end is a plug-in single-stage unit with an auger and a cord; at the other is a cordless two-stage machine with a separate impeller and a wheel drive. Between them sit lightweight shovel-style tools that suit decks and steps.",
+  "What they share is simplicity: no fuel, no oil, no carburetor and an instant, quiet start. What separates them is the power source and the mechanism. This guide compares cord and battery systems, auger and impeller design and honest runtime limits, so you can match a machine to the driveway you actually have."
+ ],
+ "products": [
+  {
+   "id": "B08DJ7MNTZ",
+   "badge": "Best Overall",
+   "name": "EGO Power+ SNT2405 24-Inch Cordless Two-Stage",
+   "specs": [
+    "24 in. two-stage",
+    "7.5Ah x2 batteries",
+    "50 ft throw claim",
+    "Self-propelled"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Two EGO 56V 7.5Ah batteries"
+    },
+    {
+     "label": "Clearing width",
+     "value": "24 inches"
+    },
+    {
+     "label": "Intake height",
+     "value": "20 inches"
+    },
+    {
+     "label": "Throw distance",
+     "value": "Up to 50 feet claimed"
+    },
+    {
+     "label": "Capacity claim",
+     "value": "18-car driveway, 8 inches"
+    }
+   ],
+   "description": "The SNT2405 is a genuine two-stage machine: brushless motors drive an auger and a separate impeller, with powered wheels for self-propelled travel. Peak Power combines two 56-volt batteries to reach gas-like output, and a 24-inch width with a 20-inch intake height handles deep snow in fewer passes.\n\nThe kit ships with two 7.5Ah batteries, which is why the listing claims an 18-car driveway at eight inches on one charge. Against the single-stage EGO 21-inch, you gain intake height and self-propelled drive but also weight and cost. It is the closest electric gets to gas.\n\nStore packs indoors and slide them in just before use, since cold cuts lithium output. Without an engine, upkeep is limited to skid shoes, scraper bar and the shear bolts. Variable auger speed lets you slow the machine for light snow to save battery. Expect the pair of large packs to be the heaviest part of the setup, and plan a charging routine before forecast storms.",
+   "bestFor": "Larger driveways where you want gas-class clearing without fuel.",
+   "pros": [
+    "Real two-stage auger and impeller for deep snow",
+    "Self-propelled wheels reduce pushing effort",
+    "Two 7.5Ah batteries ship with the kit",
+    "Throws up to a claimed 50 feet"
+   ],
+   "cons": [
+    "Highest price tier among electric options",
+    "Heavy battery set to store and charge",
+    "Cold still limits runtime"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08DJ7MNTZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/511S3IA7O0L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D8V7Y253",
+   "badge": "Best Cordless Single-Stage",
+   "name": "EGO Power+ 21-Inch Cordless Steel Auger Single-Stage",
+   "specs": [
+    "21 in. steel auger",
+    "6.0Ah x2",
+    "45 ft throw claim",
+    "Brushless"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Two EGO 56V 6.0Ah batteries"
+    },
+    {
+     "label": "Clearing width",
+     "value": "21 inches"
+    },
+    {
+     "label": "Throw distance",
+     "value": "Up to 45 feet claimed"
+    },
+    {
+     "label": "Capacity claim",
+     "value": "14-car driveway, 8 inches"
+    },
+    {
+     "label": "Auger",
+     "value": "Steel with brushless motor"
+    }
+   ],
+   "description": "This single-stage uses a steel auger and a brushless motor, with Peak Power drawing on two 6.0Ah batteries. A 21-inch width and a claimed 45-foot throw make it a capable machine for paved driveways.\n\nAgainst the two-stage SNT2405, it is lighter and easier to store but lacks the impeller and the drive, so it is best for snow under about eight inches. The 14-car claim is the maker's, and deep or wet snow will shorten it.\n\nKeep the packs warm and avoid leaving them fully drained. Wear parts are the scraper bar and the auger paddles. If you already own EGO mowers or trimmers, the packs transfer across, which softens the cost. Rinse salt off the housing after use and let the auger dry before storage.",
+   "bestFor": "Medium paved drives with moderate snowfalls.",
+   "pros": [
+    "Steel auger bites into compacted snow",
+    "Brushless motor improves battery efficiency",
+    "Lighter than the two-stage SNT2405",
+    "Dual-port charger included"
+   ],
+   "cons": [
+    "Not suitable for gravel or deep drifts",
+    "Packs are the cost driver",
+    "No self-propelled drive"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0D8V7Y253?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51KcpBCUUOL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B075NMXLSS",
+   "badge": "Best Value",
+   "name": "Snow Joe SJ627E 22-Inch Corded Electric",
+   "specs": [
+    "22 in. path",
+    "15A motor",
+    "13 in. intake",
+    "Dual LEDs"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "15A corded motor"
+    },
+    {
+     "label": "Clearing path",
+     "value": "22 inches"
+    },
+    {
+     "label": "Intake depth",
+     "value": "13 inches"
+    },
+    {
+     "label": "Capacity claim",
+     "value": "840 lb of snow per minute"
+    },
+    {
+     "label": "Chute",
+     "value": "180-degree adjustable"
+    }
+   ],
+   "description": "A 15-amp motor spins a plastic auger on the SJ627E, with a claim of 840 pounds per minute. The 22-inch path and 13-inch intake depth are generous for a corded model, and a rotating chute adjusts 180 degrees.\n\nThe plastic auger is gentle on pavement and softer on stray objects than steel, but it will wear faster. Against the BILT HARD corded, the path is wider but the intake depth and motor rating are listed differently. You need a heavy extension cord to run it safely.\n\nStorage is trivial, and maintenance is limited to the paddles, scraper and cord inspection. The cord is the real operating cost in effort. Route it behind you, keep the machine moving away from the outlet and avoid driving over the cable, which is a common cause of nicks.",
+   "bestFor": "Short paved drives near an outdoor outlet.",
+   "pros": [
+    "Wide 22-inch path for a corded model",
+    "No battery cost or runtime limit",
+    "180-degree chute adjusts easily",
+    "Dual LED lights"
+   ],
+   "cons": [
+    "Plastic auger wears faster than steel",
+    "Cord restricts reach and needs care",
+    "Not for gravel or deep snow"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B075NMXLSS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41j1gNk0hdL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H9DJT71S",
+   "badge": "Best Corded Throughput",
+   "name": "BILT HARD 20-Inch 15A Corded Electric",
+   "specs": [
+    "20 in. path",
+    "2200W motor",
+    "12 in. depth",
+    "3300 rpm"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "120V 15A corded motor"
+    },
+    {
+     "label": "Motor speed",
+     "value": "Up to 3,300 rpm no-load"
+    },
+    {
+     "label": "Clearing width",
+     "value": "20 inches"
+    },
+    {
+     "label": "Clearing depth",
+     "value": "12 inches"
+    },
+    {
+     "label": "Throw",
+     "value": "Up to 25 feet"
+    }
+   ],
+   "description": "BILT HARD runs a 120-volt, 15-amp motor to a no-load speed up to 3,300 rpm and lists a 2,200-watt rating. The 20-inch path and 12-inch depth are middle of the road, with a claimed throw of 25 feet.\n\nThe point of comparison is the Snow Joe SJ627E: this one is narrower but lists a higher motor rating. Treat the wattage as a marketing label, not a performance guarantee, since a 15-amp household circuit caps real draw.\n\nUse a properly rated extension cord and keep the auger clear of debris. Storage is easy. Because a 15-amp motor is limited by the circuit, the higher motor speed mostly helps throw distance rather than raw capacity. Keep the vents clear of slush so the motor can shed heat.",
+   "bestFor": "Small to medium paved drives with a nearby outlet.",
+   "pros": [
+    "No battery to charge or replace",
+    "12-inch depth handles deeper piles",
+    "High-speed motor throws snow 25 feet",
+    "Light and easy to store"
+   ],
+   "cons": [
+    "Narrower than the Snow Joe",
+    "Cord limits reach",
+    "Wattage label overstates real draw"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H9DJT71S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lKfV+d2PL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HHX1XK66",
+   "badge": "Best Budget Cordless",
+   "name": "ETOOLAB 40V 20-Inch Cordless Single-Stage",
+   "specs": [
+    "20 in. path",
+    "40V (2x20V)",
+    "12 in. depth",
+    "25 ft throw"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "40V brushless, 2500 rpm"
+    },
+    {
+     "label": "Clearing path",
+     "value": "20 inches wide, 12 inches deep"
+    },
+    {
+     "label": "Throw distance",
+     "value": "Up to 25 feet claimed"
+    },
+    {
+     "label": "Chute",
+     "value": "180-degree adjustable"
+    },
+    {
+     "label": "Use",
+     "value": "Driveway and patio"
+    }
+   ],
+   "description": "ETOOLAB pairs a brushless motor running about 2,500 rpm with a 40-volt battery system and a 20-inch by 12-inch path. The claimed throw is up to 25 feet, and a 180-degree chute lets you steer the discharge.\n\nCompared with the EGO 21-inch, throw distance and battery capacity are lower, which fits the lower price tier. It is a reasonable cordless option for patios and short driveways but not a replacement for a premium platform.\n\nKeep the packs inside, charge them before storms and clear the auger only with the battery removed. A 12-inch depth rating is useful, yet it only helps if the battery can sustain the load, so expect to clear in lighter layers when the snow is heavy. Charge fully before a forecast storm and bring the pack inside afterward.",
+   "bestFor": "Patios and short driveways on a cordless budget.",
+   "pros": [
+    "Cordless with no fuel upkeep",
+    "12-inch depth handles moderate snow",
+    "Brushless motor extends runtime",
+    "Adjustable chute"
+   ],
+   "cons": [
+    "Shorter throw than premium rivals",
+    "Smaller battery system limits runtime",
+    "Brand support is thinner"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HHX1XK66?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YAx27YuUL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HHN34679",
+   "badge": "Best for Decks and Steps",
+   "name": "VOLTASK 24V 13.2-Inch Cordless Snow Shovel",
+   "specs": [
+    "13.2 in. path",
+    "24V 4Ah",
+    "23 ft throw",
+    "30 min runtime"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "24V 4.0Ah lithium battery"
+    },
+    {
+     "label": "Clearing width",
+     "value": "13.2 inches"
+    },
+    {
+     "label": "Throw distance",
+     "value": "Up to 23 feet"
+    },
+    {
+     "label": "Runtime",
+     "value": "About 30 minutes continuous"
+    },
+    {
+     "label": "Form",
+     "value": "Shovel-style with ergonomic handle"
+    }
+   ],
+   "description": "This is a shovel-style electric tool, not a full blower. A 24-volt, 4Ah battery spins a compact auger, with about 30 minutes of listed runtime and a 13.2-inch path.\n\nIts value is weight and size: it handles steps, decks and short walks that a full machine cannot reach. Against the ETOOLAB, it is far narrower and meant for light snow.\n\nThe small battery and narrow housing make it a poor match for wet snow or large areas. Treat it as a power shovel that spares your back on small areas. Wet, heavy snow can stall a compact auger, so lift and tilt the housing rather than forcing it through deep drifts.",
+   "bestFor": "Steps, decks and short walkways in light snow.",
+   "pros": [
+    "Very light and easy to carry",
+    "Fits steps and tight spaces",
+    "No fuel or cord",
+    "Low-cost entry"
+   ],
+   "cons": [
+    "Narrow 13.2-inch path",
+    "About 30 minutes of runtime",
+    "Struggles in wet or deep snow"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0HHN34679?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418eZmUFcjL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Single-stage or two-stage",
+   "explanation": "Single-stage units like the Snow Joe SJ627E and EGO 21-inch use one auger and are best under about eight inches on pavement. Two-stage machines like the EGO SNT2405 add an impeller for deeper snow and a longer throw. Choosing the wrong class is the most common electric buyer mistake. A quick test is to ask whether you ever face plowed-in windrows at the end of the drive; if so, the impeller of a two-stage design earns its weight."
+  },
+  {
+   "criterion": "Corded versus battery",
+   "explanation": "Corded models such as the BILT HARD run until you stop but need a 15-amp-rated extension cord and reach limits. Battery models free you from the cord but cap runtime at the packs. Match the choice to whether an outlet is near the work area. As a rule of thumb, a path under 18 inches doubles the number of passes on a two-car driveway."
+  },
+  {
+   "criterion": "Battery capacity and platform",
+   "explanation": "Runtime is set by watt-hours, not volts alone. The SNT2405 ships with two 7.5Ah packs, the EGO 21-inch with two 6.0Ah, and the VOLTASK with one 4Ah. Buy into a platform you already own tools for. A practical rule is to compare packs by multiplying volts by amp-hours, so two 56V 7.5Ah packs store far more energy than a single 24V 4Ah."
+  },
+  {
+   "criterion": "Auger material",
+   "explanation": "Steel augers, as on the EGO 21-inch, cut into compacted snow, while plastic augers like the Snow Joe's are gentler on surfaces but wear faster. Rubber-tipped paddles protect pavement."
+  },
+  {
+   "criterion": "Path width and depth",
+   "explanation": "Wider paths mean fewer passes: 22 inches on the Snow Joe, 20 inches on ETOOLAB and BILT HARD, 13.2 inches on the VOLTASK. Depth ratings of 12 to 13 inches matter in heavier snowfalls."
+  },
+  {
+   "criterion": "Cold-weather expectations",
+   "explanation": "Lithium output drops sharply near freezing, so batteries should live indoors until the job. Corded machines are unaffected by cold, which is a real advantage on frigid mornings. If your mornings regularly sit below 10 degrees Fahrenheit, favor a corded model or keep spare packs warm in the house."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Watts versus amps",
+   "meaning": "A 15-amp, 120-volt motor draws at most about 1,800 watts. Higher wattage labels are marketing and cannot exceed the circuit.",
+   "watchFor": "BILT HARD lists 2200W while the household circuit is the real limit."
+  },
+  {
+   "spec": "Peak Power",
+   "meaning": "EGO's name for pairing two batteries for higher output than one could deliver. It is a genuine electrical effect.",
+   "watchFor": "The SNT2405 and EGO 21-inch both use it with different pack sizes."
+  },
+  {
+   "spec": "Brushless motor",
+   "meaning": "No carbon brushes to wear, less heat and better efficiency. It stretches runtime and motor life.",
+   "watchFor": "ETOOLAB, EGO and VOLTASK advertise it."
+  },
+  {
+   "spec": "Cars-per-charge claims",
+   "meaning": "A maker's estimate for eight inches of snow on a single charge. It varies with snow weight and temperature.",
+   "watchFor": "EGO claims 18 cars for the SNT2405 and 14 for the 21-inch."
+  },
+  {
+   "spec": "Throw distance",
+   "meaning": "How far the chute places snow in ideal conditions. Wet snow and wind shorten it.",
+   "watchFor": "50 feet on the SNT2405 versus 23 feet on the VOLTASK."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Mechanism class",
+   "description": "We sorted each model into corded single-stage, cordless single-stage, cordless two-stage or shovel. The EGO SNT2405 earned the top mechanism score as the only two-stage."
+  },
+  {
+   "title": "Power source practicality",
+   "description": "We weighed cord handling on the Snow Joe and BILT HARD against battery sizes on the EGO, ETOOLAB and VOLTASK. Owner feedback patterns on cold-weather drop-off shaped the scoring. Owners of existing cordless tools should weigh platform fit as heavily as the machine itself, because spare packs are the single biggest cost."
+  },
+  {
+   "title": "Path and depth",
+   "description": "We compared path width from 13.2 to 24 inches and intake depth from 12 to 20 inches. Wider and deeper machines scored higher for large driveways."
+  },
+  {
+   "title": "Maintenance load",
+   "description": "Electric machines have little upkeep. We noted wear items such as paddles, scraper bars and plastic augers, and battery care requirements. Plastic augers and rubber paddles are cheap to replace, which we treated as a minor mark rather than a defect."
+  },
+  {
+   "title": "Fit for purpose",
+   "description": "We judged each machine against what it can honestly do, scoring the VOLTASK for steps and decks only and the SNT2405 for large drives."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Driveway Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Steps and deck",
+      "VOLTASK 13.2-Inch Shovel",
+      "Compact and light"
+     ],
+     [
+      "Short paved drive near outlet",
+      "Snow Joe SJ627E",
+      "Wide path and no battery"
+     ],
+     [
+      "Medium paved drive",
+      "EGO Power+ 21-Inch",
+      "Steel auger and strong packs"
+     ],
+     [
+      "Large driveway",
+      "EGO Power+ SNT2405",
+      "Two-stage with self-propelled drive"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "VOLTASK 13.2-Inch",
+      "Entry cordless shovel"
+     ],
+     [
+      "Low corded",
+      "BILT HARD 20-Inch",
+      "Corded with no battery"
+     ],
+     [
+      "Mid",
+      "Snow Joe SJ627E or ETOOLAB 40V",
+      "Wide corded or budget cordless"
+     ],
+     [
+      "Premium",
+      "EGO Power+ SNT2405",
+      "Two-stage platform"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Corded vs Cordless",
+   "cards": [
+    {
+     "label": "Corded",
+     "text": "The Snow Joe SJ627E and BILT HARD never run out and ignore cold, but need a heavy cord and a nearby outlet."
+    },
+    {
+     "label": "Cordless",
+     "text": "The EGO, ETOOLAB and VOLTASK models give freedom but limit runtime to the packs and shrink in deep cold."
+    }
+   ],
+   "note": "Pick corded for short drives near power, cordless for reach and larger areas."
+  },
+  {
+   "subheading": "By Mechanism",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Two-stage with impeller",
+      "EGO Power+ SNT2405",
+      "Deep snow, long throw"
+     ],
+     [
+      "Steel auger single-stage",
+      "EGO Power+ 21-Inch",
+      "Cuts compacted snow"
+     ],
+     [
+      "Plastic auger, gentle on surfaces",
+      "Snow Joe SJ627E",
+      "Soft on pavement"
+     ],
+     [
+      "Shovel-style",
+      "VOLTASK 13.2-Inch",
+      "Steps and decks"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Cold Climates Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for corded power or large batteries stored indoors. Cold cuts lithium output, so corded machines are the most predictable below freezing."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Snow Joe SJ627E and BILT HARD are unaffected by cold. The EGO SNT2405 with two 7.5Ah packs has the most reserve among the battery models."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if your driveway is large or your snow is heavy, which points to the EGO SNT2405 for its two-stage hardware."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if the area is small. The Snow Joe SJ627E or the VOLTASK handle light work at a lower cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect augers and paddles",
+   "interval": "Every season",
+   "why": "Plastic and rubber wear with use. Replace worn parts to keep the pavement clean."
+  },
+  {
+   "task": "Check scraper bar",
+   "interval": "Every season",
+   "why": "It sets the gap above the pavement. Replace it when worn thin."
+  },
+  {
+   "task": "Inspect power cord",
+   "interval": "Before each use",
+   "why": "A nicked cord on a corded model is a shock hazard."
+  },
+  {
+   "task": "Store batteries indoors",
+   "interval": "All winter",
+   "why": "Cold reduces output and ages cells. Keep packs at partial charge."
+  },
+  {
+   "task": "Dry the housing",
+   "interval": "After each use",
+   "why": "Salt and slush corrode fasteners and shafts."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can an electric model replace a gas blower?",
+   "a": "For driveways up to about 18 cars, a two-stage like the EGO SNT2405 can. For very large or deeply wet snow, gas is still safer."
+  },
+  {
+   "q": "Corded or cordless?",
+   "a": "Corded never runs out but needs a heavy cord. Cordless frees you but runs only as long as the packs."
+  },
+  {
+   "q": "How cold is too cold for batteries?",
+   "a": "Lithium output drops sharply near freezing. Keep packs indoors until you start."
+  },
+  {
+   "q": "Do electric blowers need maintenance?",
+   "a": "Very little. Check wear parts, inspect cords and store batteries properly."
+  },
+  {
+   "q": "How should I store an electric snow blower in summer?",
+   "a": "Remove the batteries and keep them indoors at partial charge, wipe the housing dry and coil the cord loosely. Check the paddles and scraper before the first storm."
+  },
+  {
+   "q": "Will an electric machine handle wet, heavy snow?",
+   "a": "Only in lighter layers. Wet snow can weigh several times as much as powder, so a corded or small battery unit will stall or drain quickly; the two-stage EGO SNT2405 is the best electric option here for it."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/511S3IA7O0L._SL500_.jpg"
+}

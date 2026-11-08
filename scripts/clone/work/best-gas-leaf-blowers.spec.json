@@ -1,0 +1,635 @@
+{
+ "guideSlug": "best-gas-leaf-blowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "gas leaf blowers",
+ "guideTitle": "Best Gas Leaf Blowers (2026)",
+ "metaTitle": "Best Gas Leaf Blowers (2026)",
+ "metaDescription": "Gas leaf blowers compared: 2-cycle versus 4-cycle, handheld versus backpack, CFM and MPH decoded, with picks from light yard tools to pro machines.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The Husqvarna 125B is the best handheld gas blower here for its balance and proven engine, the HTK 63cc backpack is the value pick for big yards, and the SENIX 4QL is the choice if you refuse to mix fuel. Skip gas for small yards with short sessions: a cordless blower starts faster and is far easier to own.",
+ "introParagraphs": [
+  "A gas leaf blower is a small engine driving a fan, and the machine is judged by how much air it moves and how fast it moves it. Volume shifts piles of leaves; speed breaks the grip of wet, matted debris. Both come from the same engine, so displacement and fan design matter more than any badge.",
+  "The real decisions are about format and fuel. Handheld units are light and quick for small jobs, backpack units carry the weight on your hips for long sessions, and the engine type decides whether you mix fuel and oil or pour straight gasoline. This guide compares those choices and decodes the airflow numbers."
+ ],
+ "products": [
+  {
+   "id": "B002P2ZVQ4",
+   "badge": "Best Overall",
+   "name": "Husqvarna 125B 28cc 2-Cycle Handheld",
+   "specs": [
+    "28cc 2-cycle",
+    "1.1 HP",
+    "470 CFM",
+    "Handheld"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "28cc 2-cycle, 1.1 HP"
+    },
+    {
+     "label": "Airflow",
+     "value": "470 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "About 170 MPH"
+    },
+    {
+     "label": "Format",
+     "value": "Handheld with adjustable grip"
+    },
+    {
+     "label": "Class",
+     "value": "Homeowner"
+    }
+   ],
+   "description": "Husqvarna's 125B is a conventional two-cycle handheld: a 28cc engine making about 1.1 horsepower, tuned to produce 470 CFM at the nozzle. The tube is balanced against the engine so the machine does not pull your wrist, and the adjustable soft-grip handle reduces strain on long sessions.\n\nIt sits near the top of the homeowner class for airflow, ahead of the 26cc units that quote 380 CFM, and it is a known quantity with dealers, parts and an established service network. The cost is a higher price tier than the generic 26cc blowers.\n\nOwnership means mixing fuel and oil in the correct ratio, using fresh fuel and keeping the air filter clean. Drain or run the carburetor dry before winter, since ethanol fuel left in a small carb is the usual cause of spring no-starts. Store it level with the fuel tank empty or stabilized, and keep spare plugs in the garage.",
+   "bestFor": "Homeowners with a half-acre or less who want a reliable, balanced handheld.",
+   "pros": [
+    "470 CFM is high for a handheld",
+    "Balanced tube and soft-grip handle",
+    "Established service and parts network",
+    "Proven 28cc 2-cycle engine"
+   ],
+   "cons": [
+    "Higher price tier than generic handhelds",
+    "Requires fuel and oil mixing",
+    "Not enough for large properties"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B002P2ZVQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31rZMkU7PSL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07JMGFTL1",
+   "badge": "Best 4-Cycle",
+   "name": "SENIX 4QL 26.5cc 4-Cycle Handheld",
+   "specs": [
+    "26.5cc 4-cycle",
+    "410 CFM",
+    "125 MPH",
+    "No fuel mixing"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "26.5cc 4-cycle full crank"
+    },
+    {
+     "label": "Airflow",
+     "value": "Up to 410 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 125 MPH"
+    },
+    {
+     "label": "Start",
+     "value": "Automatic compression release"
+    },
+    {
+     "label": "Fuel",
+     "value": "Straight gasoline, no mixing"
+    }
+   ],
+   "description": "A four-cycle engine runs on straight gasoline with a separate oil reservoir, so there is no premix to measure and no gummy oil residue in the carburetor. The SENIX 4QL uses a 26.5cc four-cycle, full-crank engine with automatic compression release to ease pull starts.\n\nThe tradeoff is output and weight. It quotes up to 410 CFM and only 125 MPH, well below the 170 to 205 MPH of two-cycle rivals, so it moves volume but struggles with matted, wet leaves. Four-cycle engines also weigh more for a given power.\n\nIt is the sensible pick for someone who dislikes mixing fuel and wants lower emissions. Check the oil level, as you would with any four-cycle, and use fresh gasoline. Check the oil level before each session, because a four-cycle engine can seize if the sump runs low.",
+   "bestFor": "Owners who refuse to mix fuel and mostly move dry leaves.",
+   "pros": [
+    "No fuel and oil premix",
+    "Lower emissions than a two-cycle",
+    "Automatic compression release eases starting",
+    "Up to 410 CFM of volume"
+   ],
+   "cons": [
+    "Only 125 MPH air speed",
+    "Heavier for its power",
+    "Weak on wet, matted leaves"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07JMGFTL1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31YNJrR6VaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D45M3PPX",
+   "badge": "Best Value Backpack",
+   "name": "HTK 63cc 2-Stroke Backpack 665 CFM",
+   "specs": [
+    "63cc 2-stroke",
+    "665 CFM",
+    "205 MPH",
+    "Air purge"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "63cc 2-stroke"
+    },
+    {
+     "label": "Airflow",
+     "value": "665 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 205 MPH"
+    },
+    {
+     "label": "Start aid",
+     "value": "Air-purge primer system"
+    },
+    {
+     "label": "Format",
+     "value": "Backpack with padded harness"
+    }
+   ],
+   "description": "HTK puts a 63cc two-stroke engine on a padded backpack harness, with 665 CFM and up to 205 MPH. That is roughly a 40 percent airflow increase over the 470 CFM Husqvarna handheld and a clear step up in speed, which is why backpacks dominate large-yard work.\n\nCarrying the weight on your hips and back makes 30-minute sessions realistic where a handheld would tire your arm. An air-purge primer clears vapor from the carburetor to simplify starts, and the oversized controls are easy to use with gloves.\n\nThe tradeoff is the brand: parts and service are less established than Husqvarna or Echo. It is a good value for a big yard if you can handle your own upkeep. Wear hearing protection and eye protection every time, since this class of machine is loud at the operator.",
+   "bestFor": "Large yards and long sessions on a budget.",
+   "pros": [
+    "665 CFM and 205 MPH for large cleanups",
+    "Padded backpack harness reduces fatigue",
+    "Air-purge primer simplifies starting",
+    "Lower price tier than established brands"
+   ],
+   "cons": [
+    "Thinner dealer and parts network",
+    "Heavier than handheld units",
+    "Two-stroke mixing and noise"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D45M3PPX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aMvmUTn3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08PKYS9NG",
+   "badge": "Best Pro Power",
+   "name": "Echo PB-9010T 79.9cc X Series Backpack",
+   "specs": [
+    "79.9cc 2-stroke",
+    "1110 CFM",
+    "220 MPH",
+    "Tube throttle"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "79.9cc 2-stroke X Series"
+    },
+    {
+     "label": "Airflow",
+     "value": "1110 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "220 MPH"
+    },
+    {
+     "label": "Controls",
+     "value": "Tube-mounted throttle"
+    },
+    {
+     "label": "Class",
+     "value": "Professional"
+    }
+   ],
+   "description": "Echo's X Series PB-9010T is a professional backpack: a 79.9cc two-stroke making 1110 CFM and 220 MPH, the highest figures in this guide. A tube-mounted throttle puts control at your hand rather than at the engine, which is the standard setup on professional machines.\n\nThis is a machine for acreage, parking lots and contractors who blow all day. Compared with the HTK 63cc, it moves about two thirds more air, and the engine is built for continuous use. The price tier reflects that.\n\nThe listing carries little detail, so confirm the exact kit before buying. Expect to mix fuel carefully, clean the air filter often in dusty work and wear hearing protection. Budget for a good harness fit session at the dealer, since all-day comfort depends on adjustment.",
+   "bestFor": "Contractors and large properties where all-day power matters.",
+   "pros": [
+    "1110 CFM and 220 MPH for heavy debris",
+    "Tube-mounted throttle for control",
+    "Professional-grade engine",
+    "Established brand and service network"
+   ],
+   "cons": [
+    "Highest price tier here",
+    "Heavy and loud",
+    "Overkill for a typical yard"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B08PKYS9NG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41KfgO4dwdL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HJV3HK34",
+   "badge": "Best Variable Speed",
+   "name": "DOWILIN 28cc Handheld 495 CFM 200 MPH",
+   "specs": [
+    "28cc 2-stroke",
+    "495 CFM",
+    "200 MPH",
+    "Under 10 lb"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "28cc two-stroke"
+    },
+    {
+     "label": "Airflow",
+     "value": "495 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "Up to 200 MPH"
+    },
+    {
+     "label": "Controls",
+     "value": "Variable speed"
+    },
+    {
+     "label": "Weight",
+     "value": "Under 10 pounds"
+    }
+   ],
+   "description": "DOWILIN quotes 495 CFM and 200 MPH from a 28cc two-stroke, with variable speed and a weight under 10 pounds. Variable speed matters near flower beds, where full throttle blows mulch onto the lawn.\n\nThose figures are higher than the Husqvarna 125B's on paper, but remember they are maker-measured, usually at the nozzle, and not comparable across brands. The Husqvarna's balance and service network remain advantages.\n\nIt is a value handheld for owners who want strong specs at a lower price tier. Keep the fuel fresh and clean the air filter. Test the variable speed on a patch of mulch before relying on it near beds.",
+   "bestFor": "Budget buyers who want variable speed and strong paper specs.",
+   "pros": [
+    "Variable speed for delicate areas",
+    "495 CFM and 200 MPH quoted",
+    "Under 10 pounds",
+    "Low price tier"
+   ],
+   "cons": [
+    "Maker-measured numbers are not comparable",
+    "Thin service network",
+    "Two-stroke mixing"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HJV3HK34?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41FJSdZM1VL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HN289RFX",
+   "badge": "Best Easy Start",
+   "name": "Relxxon 26cc 2-Cycle Handheld",
+   "specs": [
+    "26cc 2-cycle",
+    "380 CFM",
+    "180 MPH",
+    "7.7 lb"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "26cc 2-cycle"
+    },
+    {
+     "label": "Airflow",
+     "value": "380 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "180 MPH"
+    },
+    {
+     "label": "Weight",
+     "value": "7.7 pounds dry"
+    },
+    {
+     "label": "Start",
+     "value": "Reduced-pull recoil"
+    }
+   ],
+   "description": "Relxxon aims at weekend clearing: a 26cc two-cycle engine, 380 CFM, 180 MPH and a dry weight of 7.7 pounds, one of the lightest handhelds here. The advanced recoil is said to cut pull resistance by 50 percent, which helps users with weaker arms.\n\nAt 380 CFM it moves less air than the Husqvarna 125B's 470, so large piles take longer. But for steps, vehicles, flower beds and damp leaves in a small yard, it is a manageable tool.\n\nExpect the usual small two-stroke upkeep. It is not a machine for acreage. Keep spare plugs and a small funnel with it, since light units are often used by occasional owners.",
+   "bestFor": "Small yards and users who want a light, easy-start handheld.",
+   "pros": [
+    "7.7 pounds is very light",
+    "Reduced-pull recoil",
+    "180 MPH moves damp leaves",
+    "Low price tier"
+   ],
+   "cons": [
+    "380 CFM is modest",
+    "Not for large properties",
+    "Thin brand support"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0HN289RFX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cWN0Ykb8L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H14TPPHC",
+   "badge": "Best Quiet Handheld",
+   "name": "Getell 26cc Handheld 380 CFM",
+   "specs": [
+    "26cc 2-cycle",
+    "380 CFM",
+    "180 MPH",
+    "50:1 mix"
+   ],
+   "specList": [
+    {
+     "label": "Engine",
+     "value": "26cc 2-cycle, 50:1 fuel mix"
+    },
+    {
+     "label": "Airflow",
+     "value": "380 CFM"
+    },
+    {
+     "label": "Air speed",
+     "value": "180 MPH"
+    },
+    {
+     "label": "Weight",
+     "value": "9.4 pounds"
+    },
+    {
+     "label": "Noise claim",
+     "value": "About 60 dB"
+    }
+   ],
+   "description": "Getell offers a 26cc two-cycle with 380 CFM and 180 MPH, a 9.4-pound body with anti-vibration handles and a half-pull recoil. The listing quotes about 60 decibels, which is a maker measurement at a distance and should not be read as quiet in the ear.\n\nA 50:1 fuel-oil ratio is the common modern mix and is easy to measure per gallon. Compared with the Relxxon it is slightly heavier but offers anti-vibration handles.\n\nGas blowers are loud at the operator, so wear hearing protection regardless. It suits small to medium yards. Make a habit of mixing only enough fuel for a month, because old mixed fuel is the biggest cause of failure.",
+   "bestFor": "Small to medium yards where vibration comfort matters.",
+   "pros": [
+    "Anti-vibration handles",
+    "Half-pull recoil",
+    "50:1 mix is easy to measure",
+    "Light enough for one hand"
+   ],
+   "cons": [
+    "380 CFM is modest",
+    "Noise claim is a distance measurement",
+    "Thin service network"
+   ],
+   "rank": 7,
+   "amazonUrl": "https://www.amazon.com/dp/B0H14TPPHC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31vCoGpXsiL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "CFM and MPH together",
+   "explanation": "CFM is air volume and decides how fast you move a pile, while MPH is speed and loosens wet, matted debris. Both are maker-measured at the nozzle and are not comparable across brands. The Husqvarna 125B's 470 CFM and 170 MPH, for example, is balanced, while the SENIX 4QL's 125 MPH struggles with wet leaves. Think of CFM as how much it moves and MPH as how hard it hits; most yards need both in moderation."
+  },
+  {
+   "criterion": "2-cycle versus 4-cycle",
+   "explanation": "Two-cycle engines like the Husqvarna 125B are lighter and more powerful but need a fuel and oil mix. Four-cycle engines like the SENIX 4QL run on straight gasoline but weigh more for the same output. If mixing fuel annoys you, the 4-cycle is worth the lower air speed."
+  },
+  {
+   "criterion": "Handheld or backpack",
+   "explanation": "Handhelds suit small yards and quick jobs. Backpacks like the HTK 63cc and Echo PB-9010T carry weight on the hips and suit sessions beyond 20 or 30 minutes. If your yard takes more than half an hour, pick a backpack. Try holding a handheld at arm's length for ten minutes to feel how a session will go."
+  },
+  {
+   "criterion": "Engine size and fan design",
+   "explanation": "A 63cc backpack moves about 665 CFM, while a 26cc handheld moves around 380. Displacement sets the ceiling, but nozzle and fan shape decide how much of it reaches the leaves. Do not assume cc alone predicts performance. Fan and nozzle shape often matter as much as cc, so compare owner feedback where you can."
+  },
+  {
+   "criterion": "Start system and control",
+   "explanation": "Reduced-pull recoil, as on the Relxxon, and air-purge primers, as on the HTK, make starting easier. Variable speed on the DOWILIN lets you reduce force near beds. Check that the throttle works with gloves."
+  },
+  {
+   "criterion": "Fuel handling and storage",
+   "explanation": "Ethanol gasoline left in a small carburetor leaves gum that blocks jets. Use fresh fuel, add stabilizer and run the carb dry before long storage. Mix the correct ratio per the manual, usually 50:1 for modern blowers. Never store a gas blower with a full tank of untreated fuel over winter."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CFM",
+   "meaning": "Cubic feet per minute of air volume at the nozzle. More volume shifts more leaves per pass. Maker figures are measured at different points, so compare within a class.",
+   "watchFor": "Husqvarna 125B 470, Echo PB-9010T 1110."
+  },
+  {
+   "spec": "MPH",
+   "meaning": "Air speed at the nozzle tip. Higher speed breaks the grip of wet, matted debris.",
+   "watchFor": "SENIX 125 MPH versus HTK 205 MPH."
+  },
+  {
+   "spec": "Displacement (cc)",
+   "meaning": "Engine size. It sets the ceiling on airflow but not the efficiency of the fan. Fan efficiency and nozzle shape make the larger difference.",
+   "watchFor": "26 to 28cc handhelds versus 63 to 80cc backpacks."
+  },
+  {
+   "spec": "Fuel mix ratio",
+   "meaning": "The ratio of gasoline to two-stroke oil, such as 50:1 or 25:1. Wrong ratios cause smoke or engine damage.",
+   "watchFor": "Follow the manual for each unit."
+  },
+  {
+   "spec": "Air purge",
+   "meaning": "A bulb that pushes air and fuel vapor out of the carburetor to ease starting.",
+   "watchFor": "HTK includes one."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Airflow and speed",
+   "description": "We compared CFM and MPH across handhelds and backpacks, noting that figures are maker-measured. The Echo PB-9010T led on both, and the SENIX 4QL trailed on speed. We read airflow numbers as ceilings, not as head-to-head measurements."
+  },
+  {
+   "title": "Format and ergonomics",
+   "description": "We weighed weight, balance and harness design. The Relxxon at 7.7 pounds and the HTK backpack harness earned credit."
+  },
+  {
+   "title": "Engine type and fuel handling",
+   "description": "We separated two-cycle from four-cycle designs and considered start aids such as reduced-pull recoil and air purge."
+  },
+  {
+   "title": "Service and parts",
+   "description": "We favored established networks on the Husqvarna and Echo, and scored generic brands cautiously. Owner feedback patterns on small-engine starting shaped the scores. Brand service networks mattered for engines because small-engine repair is where cost accumulates."
+  },
+  {
+   "title": "Value fit",
+   "description": "We separated the HTK as the value backpack from the Echo as the professional pick."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Yard Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small yard, steps and patio",
+      "Relxxon 26cc",
+      "7.7 pounds"
+     ],
+     [
+      "Quarter to half acre",
+      "Husqvarna 125B",
+      "470 CFM balanced handheld"
+     ],
+     [
+      "Half to two acres",
+      "HTK 63cc Backpack",
+      "665 CFM on a harness"
+     ],
+     [
+      "Acreage or contractor work",
+      "Echo PB-9010T",
+      "1110 CFM"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Relxxon 26cc",
+      "Light handheld"
+     ],
+     [
+      "Low-mid",
+      "Getell 26cc",
+      "Anti-vibration handles"
+     ],
+     [
+      "Mid",
+      "DOWILIN 28cc or HTK 63cc",
+      "Variable speed or backpack"
+     ],
+     [
+      "Premium",
+      "Husqvarna 125B or Echo PB-9010T",
+      "Brand and service network"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "2-Cycle vs 4-Cycle",
+   "cards": [
+    {
+     "label": "2-cycle",
+     "text": "The Husqvarna 125B, Relxxon, Getell and DOWILIN are lighter and faster but need fuel mixing and produce more smoke."
+    },
+    {
+     "label": "4-cycle",
+     "text": "The SENIX 4QL runs on straight gasoline with lower emissions, but weighs more and blows slower at 125 MPH."
+    }
+   ],
+   "note": "Pick 2-cycle for power and low weight, 4-cycle to avoid mixing fuel."
+  },
+  {
+   "subheading": "By Format",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Quick jobs, one hand",
+      "Getell 26cc",
+      "9.4 pounds"
+     ],
+     [
+      "Control near beds",
+      "DOWILIN 28cc",
+      "Variable speed"
+     ],
+     [
+      "Long sessions",
+      "HTK 63cc Backpack",
+      "Harness carries weight"
+     ],
+     [
+      "All-day professional",
+      "Echo PB-9010T",
+      "Tube throttle"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Wet Leaves Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for air speed above 180 MPH and a flat or concentrator nozzle. Wet leaves weigh far more than dry and need speed to peel off the ground."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Echo PB-9010T at 220 MPH and the HTK at 205 MPH lead, and the SENIX 4QL at 125 MPH is the weakest."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you blow for more than 30 minutes at a time or work professionally, which points to the Echo PB-9010T."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if the yard is small. The Relxxon or Getell handhelds clear it at a lower price."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Mix fuel correctly and use it fresh",
+   "interval": "Every tank",
+   "why": "Old or wrongly mixed fuel is the leading cause of hard starts and engine wear."
+  },
+  {
+   "task": "Clean or replace the air filter",
+   "interval": "Every 10 to 20 hours",
+   "why": "A clogged filter starves the engine and raises temperature."
+  },
+  {
+   "task": "Replace the spark plug",
+   "interval": "Annually",
+   "why": "A fouled plug is a common cold-start problem."
+  },
+  {
+   "task": "Inspect the fuel line and filter",
+   "interval": "Each season",
+   "why": "Ethanol hardens lines and clogs filters."
+  },
+  {
+   "task": "Drain or stabilize fuel for storage",
+   "interval": "End of season",
+   "why": "Prevents gum in the carburetor."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gas or battery leaf blower?",
+   "a": "Gas has no runtime limit and the highest airflow. Battery blowers are quieter and easier to own, but run out of energy on big jobs."
+  },
+  {
+   "q": "Are CFM and MPH comparable between brands?",
+   "a": "Not reliably. They are maker-measured, usually at the nozzle, so use them for rough ranking only."
+  },
+  {
+   "q": "Is a 4-cycle blower worth it?",
+   "a": "If you hate mixing fuel, yes. Expect lower air speed and more weight."
+  },
+  {
+   "q": "Handheld or backpack?",
+   "a": "Handheld for small yards and quick jobs, backpack for sessions over 20 to 30 minutes."
+  },
+  {
+   "q": "What fuel ratio should I use?",
+   "a": "Follow the manual. Many modern units use 50:1, but some specify 25:1."
+  },
+  {
+   "q": "Do I need hearing protection?",
+   "a": "Yes. Gas blowers are loud at the operator, regardless of the dB figure on the listing."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31rZMkU7PSL._SL500_.jpg"
+}

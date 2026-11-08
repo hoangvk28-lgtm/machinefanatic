@@ -1,0 +1,18 @@
+# Electric tillers research
+- Corded tillers are rated in amps (typically 2.5 to 15A), cordless in volts (20V, 40V, 60V). Amps times 120V gives watts: 13.5A is about 1,600W, 15A about 1,800W.
+- Typical corded specs: 12 to 18 inch width, 8 to 9 inch depth. Cordless depth is usually 6 to 8 inches.
+- Corded never runs out of runtime but needs a 50 to 100 ft heavy-gauge extension cord (12 or 14 AWG); thin cords cause voltage drop and motor heat.
+- Clay and compacted soil: prioritize amperage and tine steel. Weak motors stall; electric tillers rarely exceed 5 to 6 inches on first pass in dry clay.
+- Work clay when moist, not wet or bone dry. Wet clay smears and forms clods; dry clay is rock hard.
+- Width under about 9 inches means many passes; 16 to 18 inches suits beds of 100+ sq ft.
+- Tine geometry: angled steel tines, 4 vs 6 tines; thin stamped tines can bend on buried stones.
+- Forward-rotating tines ride up and pull the tiller forward; counter-rotating tines dig deeper but are for gas machines mostly.
+- Tines turn about 360 to 400 RPM on corded units; the motor spins far faster (15,000+ RPM) through a gear reduction, so quoted motor RPM is not tine speed.
+- Mechanical clutch/safety switch: dual-handed start switch prevents accidental start.
+- Foldable handles aid storage; weight ranges from about 10 lb mini cultivators to 25 to 35 lb tillers.
+- Cordless run time is 30 to 45 minutes on a 4Ah pack; two packs double it. Battery platform lock-in matters.
+- Mini cultivators (8 to 10 inch width) suit raised beds and weeding, not breaking new ground.
+- Electric tillers are for loosening already worked soil; sod needs cutting or a gas rear-tine machine.
+- Maintenance: clean tines, wipe soil, check carbon brushes on brushed motors, store dry, check cord insulation.
+- Do not till within reach of buried irrigation lines or utilities; remove stones and roots first.
+- Always unplug or remove the battery before clearing tangled roots from the tines.
