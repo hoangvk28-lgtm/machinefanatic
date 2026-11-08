@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-600mm-3d-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "600mm 3d printers",
+ "guideTitle": "Best 600mm/s 3D Printers (2026)",
+ "metaTitle": "Best 600mm/s 3D Printers (2026)",
+ "metaDescription": "Six 600 mm/s class 3D printers compared on acceleration, nozzle flow, enclosure and filament systems, so the headline speed turns into real parts.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The FLASHFORGE Adventurer 5M is the best 600 mm/s pick because it publishes the nozzle flow figure that actually limits speed and sells at the lowest tier here. The Bambu Lab P2S Combo is the pick for buyers who want the most polished experience. Anyone chasing speed alone should skip the category, since slicer settings and cooling matter more than the headline.",
+ "introParagraphs": [
+  "In this guide six hundred is a speed, the head velocity in millimeters per second that makers print on the box. A machine that advertises it is usually an enclosed CoreXY design with a light toolhead, and the figure has become the shorthand for a fast modern printer.",
+  "The number is a ceiling, though, not a sustained speed. Real print time depends on acceleration, how much plastic the hotend can melt, and how well the part cools. This guide ranks six machines on those limits and on what it costs to own one after the novelty fades."
+ ],
+ "products": [
+  {
+   "id": "B0CHJGFVSL",
+   "badge": "Best Overall",
+   "name": "FLASHFORGE Adventurer 5M, 600 mm/s CoreXY with direct extruder",
+   "price": "",
+   "specs": [
+    "600 mm/s",
+    "20,000 mm/s2",
+    "Direct extruder",
+    "1-click leveling"
+   ],
+   "specList": [
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Acceleration",
+     "value": "20,000 mm/s2"
+    },
+    {
+     "label": "Nozzle flow",
+     "value": "32 mm3/s"
+    },
+    {
+     "label": "Build size",
+     "value": "220 x 220 x 220 mm"
+    },
+    {
+     "label": "Warm-up",
+     "value": "About 35 seconds"
+    }
+   ],
+   "description": "The Adventurer 5M is a CoreXY machine with a direct extruder, 20,000 mm/s2 acceleration and a 220 mm cube build volume. The figure that backs up its speed is the 32 mm3/s nozzle flow, since flow is what limits how fast thick layers can be laid down. A 35-second warm-up and a single-click leveling routine shorten the wait before a job starts.\n\nIt is the lowest-cost route to 600 mm/s here, which is why it leads the ranking. The tradeoff is single-filament printing, so it does not compete with the AD5X or the K2 Combo on color. Against the Adventurer 5M Pro, it is the plainer version of the same platform.\n\nOwnership centers on routine care. The tool-free nozzle swap makes clogs a minor event, belts and rails need periodic attention, and a clean plate matters more than any speed setting. Spare nozzles and plates are widely stocked, which is a real advantage for a budget machine. The small 220 mm cube is the price of that low tier, so measure your biggest part before you buy and plan to split anything larger.",
+   "bestFor": "Buyers who want real 600 mm/s class performance at the lowest tier.",
+   "pros": [
+    "Published 32 mm3/s flow backs the speed claim",
+    "Direct extruder suits flexible filament",
+    "Fast warm-up shortens each job",
+    "Widely stocked nozzles and plates"
+   ],
+   "cons": [
+    "Single filament only",
+    "Compact 220 mm build volume",
+    "Less polished software than the market leader"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CHJGFVSL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41A3M5FgZTL._SL500_.jpg"
+  },
+  {
+   "id": "B0FT818HCH",
+   "badge": "Best Experience",
+   "name": "Bambu Lab P2S Combo with AMS 2 Pro, up to 600 mm/s",
+   "price": "",
+   "specs": [
+    "600 mm/s",
+    "AMS 2 Pro",
+    "AI failure detection",
+    "15-minute setup"
+   ],
+   "specList": [
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Multicolor",
+     "value": "AMS 2 Pro"
+    },
+    {
+     "label": "Monitoring",
+     "value": "AI failure detection"
+    },
+    {
+     "label": "Setup",
+     "value": "About 15 minutes"
+    },
+    {
+     "label": "Ecosystem",
+     "value": "MakerWorld library"
+    }
+   ],
+   "description": "The P2S Combo is the maker's new fast enclosed machine, bundled with the AMS 2 Pro multicolor unit. It prints up to 600 mm/s while the maker says setup takes about 15 minutes. AI failure detection watches the print and can stop a job that goes wrong, which saves filament on long parts.\n\nThe ecosystem is the main reason to pay more. Slicer profiles are tuned, the model library is large, and updates are frequent, so the printer tends to produce good prints with little tuning. Against the Adventurer 5M, it costs more but offers multicolor, monitoring and a better software path. Against the K2 Combo, it relies on a larger user community.\n\nIn ownership terms, keep the AMS spools dry, clean the plate and expect to replace nozzles and belts over time. Check the parts and warranty position as the model is new. Early owners of any new platform sometimes face firmware updates that change behavior, so read recent release notes and keep a local copy of important print profiles.",
+   "bestFor": "Buyers who want the most polished, least tuned experience.",
+   "pros": [
+    "AMS 2 Pro bundled for multicolor",
+    "AI failure detection saves filament",
+    "Large tuned ecosystem and library",
+    "Setup in about 15 minutes"
+   ],
+   "cons": [
+    "Costs more than single-filament rivals",
+    "Ecosystem ties you to one maker",
+    "AMS spools still need dry storage"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FT818HCH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31NfqOxbqAL._SL500_.jpg"
+  },
+  {
+   "id": "B0FC2CZ11V",
+   "badge": "Best Creality Multicolor",
+   "name": "Creality K2 Combo (A) with CFS, 95% pre-assembled, 600 mm/s",
+   "price": "",
+   "specs": [
+    "600 mm/s",
+    "CFS up to 16 colors",
+    "95% pre-built",
+    "Silent mode"
+   ],
+   "specList": [
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Multicolor",
+     "value": "CFS, up to 16 colors"
+    },
+    {
+     "label": "Assembly",
+     "value": "95% pre-assembled"
+    },
+    {
+     "label": "Noise",
+     "value": "Silent mode"
+    },
+    {
+     "label": "Leveling",
+     "value": "Smart automatic"
+    }
+   ],
+   "description": "The K2 Combo (A) bundles a CFS filament unit with a 600 mm/s enclosed machine that arrives 95 percent pre-assembled. Chaining four CFS units reaches up to 16 colors. A silent mode reduces noise for shared rooms.\n\nCompared with the Adventurer 5M, it adds multicolor and a smart leveling system but costs more. Compared with the P2S Combo, it offers a similar bundle from a different maker with a smaller software ecosystem. It is a sensible choice for buyers who already trust the Creality line.\n\nFor ownership, plan for dry storage, a plate-cleaning routine and periodic belt checks. Purge waste is the hidden cost of multicolor, so expect to use more filament than the finished weight suggests. If you rarely print more than one color, the bundle is paying for a feature you will not use, and the single-filament Adventurer 5M is the smarter spend.",
+   "bestFor": "Buyers who want multicolor and a quiet mode from a familiar maker.",
+   "pros": [
+    "CFS supports up to 16 colors",
+    "Arrives 95 percent pre-assembled",
+    "Silent mode for shared spaces",
+    "Smart automatic leveling"
+   ],
+   "cons": [
+    "Multicolor purge wastes filament",
+    "Smaller ecosystem than the leader",
+    "Costs more than the Adventurer 5M"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FC2CZ11V?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xbPAz2wFL._SL500_.jpg"
+  },
+  {
+   "id": "B0DN68QV3B",
+   "badge": "Best Value Multicolor",
+   "name": "FLASHFORGE AD5X multicolor CoreXY with IFS, 300 C direct drive",
+   "price": "",
+   "specs": [
+    "600 mm/s",
+    "IFS 4-color",
+    "300 C nozzle",
+    "220 mm cube"
+   ],
+   "specList": [
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Multicolor",
+     "value": "IFS, 4 colors"
+    },
+    {
+     "label": "Nozzle limit",
+     "value": "300 C"
+    },
+    {
+     "label": "Build size",
+     "value": "220 x 220 x 220 mm"
+    },
+    {
+     "label": "Leveling",
+     "value": "1-click auto"
+    }
+   ],
+   "description": "The AD5X adds the Intelligent Filament System to the Adventurer platform for four-color printing, with a direct drive extruder and a 300 degree Celsius nozzle. The higher temperature opens more materials than the 280 degree nozzle on the Adventurer 5M. One-click auto leveling handles bed setup.\n\nIt is the value multicolor pick because it costs far less than the P2S Combo while keeping the same 600 mm/s class. The cost is a smaller ecosystem and the same 220 mm build volume. Against the K2 Combo, it offers fewer maximum colors but a simpler system.\n\nOwnership follows the Adventurer line: tool-free nozzle swaps and common spares. Keep IFS spools dry, plan for purge waste and keep belts and rails in order. Because the bed is the same size as the Adventurer 5M, the AD5X is not an upgrade in capacity, only in color and temperature, and buyers should be clear about that before paying more.",
+   "bestFor": "Buyers who want four-color printing at a lower tier.",
+   "pros": [
+    "IFS four-color system included",
+    "300 C nozzle widens material range",
+    "Direct drive suits flexible filament",
+    "One-click auto leveling"
+   ],
+   "cons": [
+    "Compact 220 mm build volume",
+    "Fewer maximum colors than rivals",
+    "Purge waste on every color change"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DN68QV3B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41-I7mYKWlL._SL500_.jpg"
+  },
+  {
+   "id": "B0CH4RG161",
+   "badge": "Best Filtered Enclosure",
+   "name": "FLASHFORGE Adventurer 5M Pro with dual filtration and quick-swap nozzle",
+   "price": "",
+   "specs": [
+    "600 mm/s",
+    "Dual filtration",
+    "Enclosed chamber",
+    "280 C nozzle"
+   ],
+   "specList": [
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Acceleration",
+     "value": "20,000 mm/s2"
+    },
+    {
+     "label": "Filtration",
+     "value": "Dual system"
+    },
+    {
+     "label": "Chamber",
+     "value": "Fully enclosed"
+    },
+    {
+     "label": "Nozzle",
+     "value": "280 C quick-detach"
+    }
+   ],
+   "description": "The Adventurer 5M Pro adds a dual filtration system and a fully enclosed chamber to the Adventurer platform. It keeps the 600 mm/s and 20,000 mm/s2 figures, with a three-second quick-swap nozzle rated to 280 degrees Celsius. Filtration helps in rooms where fumes matter.\n\nCompared with the plain 5M, it is quieter and cleaner in the home but costs more. Against the AD5X, it forgoes multicolor for filtration. For households with children or pets near the printer, the closed, filtered design is the main selling point.\n\nOwnership includes replacing filters on a schedule, plus the usual belt and rail care. Filters are consumables, so check the price and availability of replacements. A filter helps with particles and odors but does not make ABS fumes harmless, so keep the room ventilated whatever the brochure says.",
+   "bestFor": "Households that want a filtered, enclosed single-filament machine.",
+   "pros": [
+    "Dual filtration reduces fumes in the room",
+    "Fully enclosed chamber softens noise",
+    "Three-second nozzle swap",
+    "Same 600 mm/s class platform"
+   ],
+   "cons": [
+    "Filters are a recurring consumable",
+    "No multicolor system",
+    "Costs more than the plain 5M"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CH4RG161?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41QJrtDu-IL._SL500_.jpg"
+  },
+  {
+   "id": "B0DY119F9G",
+   "badge": "Best Large Volume",
+   "name": "Creality K2 Plus Combo large-format CoreXY with CFS, 600 mm/s",
+   "price": "",
+   "specs": [
+    "600 mm/s",
+    "Large format",
+    "CFS multicolor",
+    "FOC servo motors"
+   ],
+   "specList": [
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Multicolor",
+     "value": "CFS"
+    },
+    {
+     "label": "Motors",
+     "value": "FOC step-servo on XYZ"
+    },
+    {
+     "label": "Format",
+     "value": "Large-format bed"
+    },
+    {
+     "label": "Frame",
+     "value": "Enclosed"
+    }
+   ],
+   "description": "The K2 Plus is the large-format member of the K2 family, with FOC step-servo motors on the XYZ axes and the CFS multicolor system in the Combo. The bigger bed lets you print parts the 220 mm machines cannot hold. The servo motors help avoid missed steps at speed.\n\nThe tradeoff is size and weight. A larger machine heats slower and costs far more in filament when a print fails. Against the Adventurer 5M, it is a very different class in cost and footprint.\n\nOwnership is about scale: a sturdy bench, dry storage for several spools and careful first-layer checks. Buy it only if you will use the volume. The 600 mm/s figure is easier to reach on long edges of a big part than on small ones, so large simple parts are where this machine feels fastest, and a calibration print on the first day will show you whether the bed is level across its full area.",
+   "bestFor": "Makers who need big parts at high speed.",
+   "pros": [
+    "Large-format bed for oversized parts",
+    "FOC step-servo motors resist missed steps",
+    "CFS multicolor in the Combo",
+    "Enclosed frame with high-speed class motion"
+   ],
+   "cons": [
+    "Large, heavy machine needs a strong bench",
+    "Highest cost in this lineup",
+    "Failed large prints waste more plastic"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DY119F9G?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41rj5NxsH6L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Acceleration and the 600 mm/s ceiling",
+   "explanation": "At 20,000 mm/s2, the head needs about 9 mm of travel to reach 600 mm/s, so short segments never hit the top number. A typical figurine is made of thousands of segments shorter than that, which is why print time barely changes when you raise the speed ceiling. The Adventurer 5M, 5M Pro and several rivals list the same acceleration figure. Judge speed by acceleration and flow, not the ceiling."
+  },
+  {
+   "criterion": "Nozzle flow",
+   "explanation": "A hotend that melts 32 mm3/s, as the Adventurer 5M lists, can only print thick layers so fast. If you slice for faster output than the hotend can supply, layers weaken. Ask for the flow figure whenever a speed claim appears."
+  },
+  {
+   "criterion": "Build volume",
+   "explanation": "The Adventurer and AD5X machines offer a 220 mm cube, while the K2 Plus is a large-format bed. Speed does not help if your part does not fit. Check the largest part you plan to print."
+  },
+  {
+   "criterion": "Filament system",
+   "explanation": "The AD5X uses IFS, the K2 machines use CFS and the P2S uses the AMS 2 Pro. Each feeds four spools, with extra units for more colors. Multicolor adds purge waste and spool-drying chores."
+  },
+  {
+   "criterion": "Enclosure and filtration",
+   "explanation": "A closed frame softens noise and holds heat. The 5M Pro adds dual filtration for fumes. If you share the room with children or pets, an enclosure matters more than a few extra millimeters per second."
+  },
+  {
+   "criterion": "Nozzle temperature",
+   "explanation": "A 280 degree nozzle prints PLA, PETG and many ABS blends. The AD5X lists 300 degrees. Check the highest-temperature filament you intend to use before choosing."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "600 mm/s",
+   "meaning": "The head's top velocity, not a sustained average.",
+   "watchFor": "Every machine here lists it, so compare flow and acceleration instead."
+  },
+  {
+   "spec": "20,000 mm/s2",
+   "meaning": "How quickly the head changes speed, which determines how often it approaches the top number.",
+   "watchFor": "The Adventurer 5M and 5M Pro list it."
+  },
+  {
+   "spec": "32 mm3/s",
+   "meaning": "The volume of plastic the hotend can melt each second.",
+   "watchFor": "The Adventurer 5M lists it; others may not."
+  },
+  {
+   "spec": "IFS, CFS, AMS",
+   "meaning": "Filament systems that swap spools on a single nozzle.",
+   "watchFor": "Each is maker-specific and not interchangeable."
+  },
+  {
+   "spec": "FOC step-servo",
+   "meaning": "Closed-loop motors that sense position and adjust to avoid missed steps.",
+   "watchFor": "The K2 Plus lists them; they help at speed on a heavy gantry."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Throughput limits",
+   "description": "We compared acceleration, flow and cooling instead of top speed. The Adventurer 5M's published flow made its claim easiest to check."
+  },
+  {
+   "title": "Frame and enclosure",
+   "description": "We looked at frame type, enclosure and filtration. The 5M Pro and K2 Plus scored for enclosed designs."
+  },
+  {
+   "title": "Filament system",
+   "description": "We counted colors and noted purge waste. IFS, CFS and AMS 2 Pro all feed four spools to start."
+  },
+  {
+   "title": "Software and support",
+   "description": "We weighed software maturity and ecosystem size. The P2S Combo led here."
+  },
+  {
+   "title": "Value and upkeep",
+   "description": "We compared price tier to features and ongoing consumables such as filters and nozzles."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Priority",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest-cost fast printer",
+      "FLASHFORGE Adventurer 5M",
+      "Published flow figure and low tier"
+     ],
+     [
+      "Most polished experience",
+      "Bambu Lab P2S Combo",
+      "Tuned ecosystem and AI detection"
+     ],
+     [
+      "Four-color at a lower tier",
+      "FLASHFORGE AD5X",
+      "IFS and 300 C nozzle"
+     ],
+     [
+      "Creality multicolor",
+      "Creality K2 Combo (A)",
+      "CFS and quiet mode"
+     ],
+     [
+      "Filtered enclosure",
+      "FLASHFORGE Adventurer 5M Pro",
+      "Dual filtration"
+     ],
+     [
+      "Large parts",
+      "Creality K2 Plus Combo",
+      "Large-format bed"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest here",
+      "FLASHFORGE Adventurer 5M",
+      "Single filament value"
+     ],
+     [
+      "Lower-middle",
+      "FLASHFORGE AD5X",
+      "Four-color at low cost"
+     ],
+     [
+      "Middle",
+      "FLASHFORGE Adventurer 5M Pro",
+      "Filtration and enclosure"
+     ],
+     [
+      "Upper-middle",
+      "Creality K2 Combo (A)",
+      "Multicolor with CFS"
+     ],
+     [
+      "Upper",
+      "Bambu Lab P2S Combo",
+      "Polished bundle"
+     ],
+     [
+      "Highest",
+      "Creality K2 Plus Combo",
+      "Large-format bed"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Single Filament vs Multicolor",
+   "cards": [
+    {
+     "label": "Single filament",
+     "text": "The Adventurer 5M and 5M Pro avoid purge waste and complexity. They suit functional parts and single-color models."
+    },
+    {
+     "label": "Multicolor",
+     "text": "The AD5X, K2 Combo, K2 Plus Combo and P2S Combo make color easy. They cost more plastic and need dry spools."
+    }
+   ],
+   "note": "Pick single filament for tools and prototypes. Pick multicolor for models and gifts."
+  },
+  {
+   "subheading": "Small Bed vs Large Bed",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Typical parts under 220 mm",
+      "FLASHFORGE Adventurer 5M",
+      "Compact and quick"
+     ],
+     [
+      "Larger projects",
+      "Creality K2 Plus Combo",
+      "Big bed and servo motors"
+     ],
+     [
+      "Balanced size and polish",
+      "Bambu Lab P2S Combo",
+      "Mid-size with ecosystem"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Shared Rooms Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "An enclosure, a quiet mode and filtration if fumes concern you. Fan noise at high acceleration is audible in small spaces."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The 5M Pro has dual filtration, and the K2 Combo has a silent mode. The P2S Combo is enclosed with AI monitoring."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want monitoring, tuned software or a large bed. The P2S Combo and K2 Plus Combo justify the cost for those needs."
+    },
+    {
+     "label": "Save if",
+     "text": "You print small parts and accept a simpler ecosystem. The Adventurer 5M or AD5X cover those at lower cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check belt tension",
+   "interval": "Every 3 months",
+   "why": "High acceleration stretches belts. A loose belt shows up as ghosting."
+  },
+  {
+   "task": "Lubricate rails and screws",
+   "interval": "Every 3 to 6 months",
+   "why": "Dry rails wear faster. Wipe off old grease first."
+  },
+  {
+   "task": "Replace the nozzle",
+   "interval": "When worn",
+   "why": "High flow wears nozzles. A worn orifice causes under-extrusion."
+  },
+  {
+   "task": "Replace filters",
+   "interval": "As specified",
+   "why": "Filtration works only while the filter is fresh. Check the 5M Pro filter on a schedule."
+  },
+  {
+   "task": "Dry filament",
+   "interval": "Before fast prints",
+   "why": "Moist filament pops and strings at high flow."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is 600 mm/s real?",
+   "a": "It is the head's top speed, reached only on long straight moves. Short moves and corners are slower, so real prints average much less."
+  },
+  {
+   "q": "Do I need a 600 mm/s printer?",
+   "a": "Not for casual use, and not if you mostly print small detailed models. Speed helps with large, simple parts and batches. For small detailed models the benefit is small."
+  },
+  {
+   "q": "Does faster mean lower quality?",
+   "a": "It can if cooling or frame stiffness is poor. Good machines compensate with input shaping and strong fans."
+  },
+  {
+   "q": "Which has the best flow?",
+   "a": "The Adventurer 5M publishes 32 mm3/s. Check others before comparing."
+  },
+  {
+   "q": "Are multicolor systems worth it?",
+   "a": "Only if you print color often. They waste plastic and need dry spools."
+  },
+  {
+   "q": "How loud are they?",
+   "a": "Loud at full speed, mostly from fans and motors. A quiet mode, a closed door or a separate room helps, and lowering acceleration trims the noise with little loss in total time."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41A3M5FgZTL._SL500_.jpg"
+}

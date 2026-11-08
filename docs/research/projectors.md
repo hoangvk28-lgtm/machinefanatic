@@ -1,0 +1,13 @@
+# 4K home theater projectors research
+- Many 4K projectors use pixel shifting (a smaller chip flashed quickly to place pixels in a 4K grid); a sharp lens can make it look very close to native 4K, but native 4K panels are the safer choice for sharpness.
+- Lumens: about 1500 to 2000 ANSI suits a dark dedicated room; 2500 or more helps with ambient light or very large screens. HDR benefits from extra brightness even in dark rooms.
+- Native contrast matters more than the dynamic contrast figure on the box; dynamic numbers are inflated. Roughly 5000:1 native or better gives convincing blacks.
+- Throw ratio = throw distance divided by image width. A lower number means a closer placement. Ultra-short-throw is under 0.4. Measure the room first.
+- Laser light engines last about 20,000 to 25,000 hours with no lamp changes; lamps need replacement around 3,000 to 5,000 hours and dim over time.
+- Single-chip DLP can show rainbow flashes for sensitive viewers; 3LCD shows all colors at once and avoids it but can show a screen-door look up close.
+- DLP typically has lower input lag, which suits gaming; 4 ms and 240 Hz modes are common on gaming-oriented 4K DLP models at 1080p.
+- Projectors cannot match TV peak HDR brightness; tone mapping decides how shadows and highlights are handled.
+- Fan noise varies; laser models are generally quieter; check dB in the eco mode.
+- Budget for mounting hardware, long HDMI cable, a screen (a gray or ALR screen helps in lit rooms) and sound; built-in speakers are modest.
+- Lens shift and zoom make placement easier; digital keystone correction softens the image.
+- Dust filters need cleaning on lamp and some laser models.

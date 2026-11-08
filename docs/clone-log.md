@@ -169,3 +169,17 @@ Notes: best-3d-printers-under-300 has 4 distinct machines (several duplicate lis
 | best-24mm-label-printers | Only 3 true 24mm printers |
 | best-2-5-gpm-rv-water-pump / best-2-8-gpm-rv-water-pump | No or 1 matching pump |
 Notes: words 2,704 to 3,391 (selfcheck band 2,700-3,400 blocks the 3,300+ target); 15 research files written without web search; 2-color 3D guide widened to 4-slot multicolor; 12V RV heater and 12V tent fan guides are thin on true matches.
+
+### Prefilter skips (2026-11-08)
+| Skipped slug | Reason |
+|---|---|
+| best-3d-printer-enclosures | prefilter: only 0 distinct items match brand 3d after extra searches |
+| best-3d-printer-filaments | prefilter: only 0 distinct items match brand 3d after extra searches |
+| best-3d-printer-kits | prefilter: only 1 distinct items match brand 3d after extra searches |
+| best-3d-printer-ventilation-systems | prefilter: only 1 distinct items match brand 3d after extra searches |
+| best-40-psi-rv-water-pump | prefilter: only 2 distinct items match 40 psi after extra searches |
+| best-42000-btu-rv-tankless-water-heater | prefilter: only 2 distinct items match brand 42000 after extra searches |
+| best-55000-btu-rv-tankless-water-heater | prefilter: only 2 distinct items match brand 55000 after extra searches |
+| best-6500-btu-rv-air-conditioner | prefilter: only 3 distinct items match brand 6500 after extra searches |
+- 2026-11-08 round 6 coordinator skip: best-3d-printer-filament-dryers (0 usable items), best-3d-printer-air-purifiers (4 borderline), best-700mm/750mm-3d-printers (build size not realistic)
+- 2026-11-08 round 6: 47 guides written (2 Sonnet agents): best-300-dpi-label-printers best-300mm-3d-printers best-35-pint-dehumidifiers best-3d-printer-extruders best-3d-printer-hotends best-3d-printer-nozzles best-3d-printers best-3d-printers-for-beginners best-3d-printers-for-jewelry best-3d-printers-for-kids best-3d-printers-with-ams best-4-color-3d-printers best-4-gallon-rv-water-heater best-4-gpm-rv-water-pump best-40-000mah-camping-fans best-40-pint-dehumidifiers best-40-pint-dehumidifiers-for-basements best-400mm-3d-printers best-45-pint-dehumidifiers best-45-psi-rv-water-pump best-48v-rv-air-conditioner best-4k-projectors-for-home-theater best-5-5-gpm-rv-water-pump best-5-gpm-rv-water-pump best-50-pint-dehumidifiers-for-basements best-50-pint-dehumidifiers-with-pumps best-50-psi-rv-water-pump best-5000-btu-rv-air-conditioner best-500mm-3d-printers best-55-psi-rv-water-pump best-58mm-label-printers best-6-gallon-rv-water-heater best-6-gpm-rv-water-pump best-60-pint-dehumidifiers best-60-pint-dehumidifiers-with-pumps best-60-psi-rv-water-pump best-600mm-3d-printers best-600mm-s-3d-printers best-65000-btu-rv-tankless-water-heater best-7-gpm-rv-water-pump best-70-pint-dehumidifiers best-70-pint-dehumidifiers-for-basements best-70-pint-dehumidifiers-with-drain-hoses best-70-pint-dehumidifiers-with-pumps best-70-psi-rv-water-pump best-750w-space-heaters best-75mm-label-printers

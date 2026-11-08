@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-3d-printers-with-ams",
+ "categorySlug": "home-machines",
+ "mainKeyword": "3d printers with ams",
+ "guideTitle": "Best 3D Printers with AMS (2026)",
+ "metaTitle": "Best 3D Printers with AMS (2026)",
+ "metaDescription": "Five multicolor 3D printers built around the AMS filament system, plus one rival feeder, compared on ecosystem, purge waste, compatibility and upkeep.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The Bambu Lab P1S Combo is the best AMS pick because the feeder, enclosed frame and software were designed together. The A1 Mini Combo is the value pick for small desks and light color work. Anyone who rarely prints more than one color should skip the AMS bundle and buy the printer alone.",
+ "introParagraphs": [
+  "A filament feeder with several spools turns a single-nozzle printer into a multicolor machine. It loads, retracts and swaps filament automatically, so a print can change color or material mid-job without anyone standing at the machine.",
+  "That convenience has a hidden bill in wasted plastic, dry-storage chores and ecosystem lock-in. This guide looks at printers that ship with the AMS feeder as a system, asks which pairing suits which kind of owner, and compares one rival feeder so you can see what the extra complexity buys."
+ ],
+ "products": [
+  {
+   "id": "B0CHDS1DMC",
+   "badge": "Best Overall",
+   "name": "Bambu Lab P1S Combo enclosed CoreXY with AMS, up to 16 colors",
+   "price": "",
+   "specs": [
+    "AMS included",
+    "Up to 16 colors",
+    "Enclosed CoreXY",
+    "500 mm/s"
+   ],
+   "specList": [
+    {
+     "label": "Feeder",
+     "value": "AMS, 4 spools per unit"
+    },
+    {
+     "label": "Max colors",
+     "value": "Up to 16 with four units"
+    },
+    {
+     "label": "Frame",
+     "value": "Enclosed CoreXY"
+    },
+    {
+     "label": "Top speed",
+     "value": "500 mm/s"
+    },
+    {
+     "label": "Acceleration",
+     "value": "20,000 mm/s2"
+    }
+   ],
+   "description": "The P1S Combo pairs the AMS with an enclosed CoreXY printer, and the pairing is what makes it work. The feeder sits on top and feeds a four-way hub into the toolhead, and chaining units reaches the listed 16 colors. The enclosure holds heat and softens noise, while the 20,000 mm/s2 acceleration keeps color jobs from taking all day.\n\nThe system handles color changes by retracting one filament and loading the next, then purging a little through the nozzle. Waste depends on how many changes a model has and how large the purge tower is. Against the A1 Combo, the P1S gives a more rigid frame and an enclosure; against the P2S Combo, it is the older, cheaper platform.\n\nOwnership is mostly about filament. The AMS does not dry spools, so keep them in a sealed box in humid rooms. Clean the feeder paths with a brush, wipe the carbon rods and replace the PTFE tubes when they discolor. Parts are widely stocked, which is a real advantage as the machine ages. A good habit is to print the first few color jobs with a small test model and note how much purge material the slicer reports, because that number tells you what a large job will really cost.",
+   "bestFor": "Owners who want the most mature AMS pairing in an enclosure.",
+   "pros": [
+    "AMS designed with the printer as one system",
+    "Chain units for up to 16 colors",
+    "Enclosed frame holds heat and cuts noise",
+    "Widely stocked parts and settings"
+   ],
+   "cons": [
+    "AMS does not dry filament",
+    "Purge waste on every color change",
+    "Feeder adds paths that can jam"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CHDS1DMC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hCi0WWGNL._SL500_.jpg"
+  },
+  {
+   "id": "B0FT818HCH",
+   "badge": "Best Newest Platform",
+   "name": "Bambu Lab P2S Combo with AMS 2 Pro, up to 600 mm/s",
+   "price": "",
+   "specs": [
+    "AMS 2 Pro",
+    "600 mm/s",
+    "AI failure detection",
+    "15-minute setup"
+   ],
+   "specList": [
+    {
+     "label": "Feeder",
+     "value": "AMS 2 Pro"
+    },
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Monitoring",
+     "value": "AI failure detection"
+    },
+    {
+     "label": "Setup",
+     "value": "About 15 minutes"
+    },
+    {
+     "label": "Library",
+     "value": "MakerWorld"
+    }
+   ],
+   "description": "The P2S Combo ships with the AMS 2 Pro, the newer generation of the feeder, and prints up to 600 mm/s. The maker quotes about 15 minutes to a first print, and AI failure detection watches for spaghetti and stops a bad job, which matters because color prints are long and plastic-hungry.\n\nIt costs more than the P1S Combo, and the benefit is the refined feeder and faster platform. Against the K2 Combo, it relies on a single-maker ecosystem with tuned profiles. Against the A1 Mini Combo, it is a very different class in size and price.\n\nFor ownership, the model is new, so check parts and warranty position. Keep spools dry, update firmware deliberately, and note that the newer feeder is not interchangeable with older units in every case, so confirm compatibility before mixing generations. Early adopters also tend to meet firmware changes, so keep your tuned profiles backed up and read release notes before updating a printer that is mid-project.",
+   "bestFor": "Buyers who want the newest feeder and fast, monitored printing.",
+   "pros": [
+    "Newer AMS 2 Pro generation",
+    "AI failure detection saves plastic",
+    "Setup in about 15 minutes",
+    "Tuned slicer profiles and library"
+   ],
+   "cons": [
+    "Highest tier among the AMS machines",
+    "New platform, parts history is short",
+    "Feeder generations may not mix"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FT818HCH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31NfqOxbqAL._SL500_.jpg"
+  },
+  {
+   "id": "B0GQMN8VLS",
+   "badge": "Best Open-Frame",
+   "name": "Bambu Lab A1 Combo with AMS lite and LED lamp kit",
+   "price": "",
+   "specs": [
+    "AMS lite",
+    "Open frame",
+    "Auto leveling",
+    "LED lamp kit"
+   ],
+   "specList": [
+    {
+     "label": "Feeder",
+     "value": "AMS lite"
+    },
+    {
+     "label": "Frame",
+     "value": "Open, moving bed"
+    },
+    {
+     "label": "Leveling",
+     "value": "Automatic"
+    },
+    {
+     "label": "Extras",
+     "value": "LED lamp kit"
+    },
+    {
+     "label": "Role",
+     "value": "Mid-size open printer"
+    }
+   ],
+   "description": "The A1 Combo uses the AMS lite, a slimmer feeder that sits beside the printer and feeds the toolhead through a tube. The lite design trades the enclosed hub for a lighter, cheaper build. The bundle includes an LED lamp kit, a first project that shows off color changes.\n\nThe open frame means no enclosure, so drafts and dust reach the print, and a bed-slinger cannot match the P1S for speed on tall parts. Against the P1S Combo, it costs less and is quieter, but it only suits PLA, PETG and TPU. Against the A1 Mini Combo, it offers a bigger bed.\n\nOwnership centers on the open design. Wipe dust from the rails, keep spools in dry storage, and watch the feeder tube path for kinks. The lite feeder holds four spools and does not chain the way the full unit does. If you outgrow four colors, the upgrade path is a different printer, not an accessory, so decide up front how many colors your projects need.",
+   "bestFor": "Beginners who want AMS color on an open, approachable printer.",
+   "pros": [
+    "AMS lite keeps cost and size down",
+    "Auto leveling simplifies setup",
+    "LED lamp kit gives a first color project",
+    "Quieter than most CoreXY machines"
+   ],
+   "cons": [
+    "No enclosure, so no ABS",
+    "AMS lite does not chain like the full unit",
+    "Bed-slinger limits speed on tall parts"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQMN8VLS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41P2LXn2wdL._SL500_.jpg"
+  },
+  {
+   "id": "B0CRYZWJLG",
+   "badge": "Best Compact",
+   "name": "Bambu Lab A1 Mini Combo with AMS lite",
+   "price": "",
+   "specs": [
+    "AMS lite",
+    "Compact bed",
+    "Open frame",
+    "Auto leveling"
+   ],
+   "specList": [
+    {
+     "label": "Feeder",
+     "value": "AMS lite"
+    },
+    {
+     "label": "Frame",
+     "value": "Open, compact"
+    },
+    {
+     "label": "Leveling",
+     "value": "Automatic"
+    },
+    {
+     "label": "Footprint",
+     "value": "Small desktop"
+    },
+    {
+     "label": "Use",
+     "value": "Small multicolor parts"
+    }
+   ],
+   "description": "The A1 Mini Combo is the smallest way into the AMS ecosystem, pairing the AMS lite with a compact open-frame printer. The small bed limits part size, but figurines, keychains and desk items fit well and print with multiple colors. Automatic leveling and the maker's software make the first print short.\n\nPurge waste hurts more here, because small models with many color changes can waste more plastic than they use. Against the A1 Combo, it gives up bed size for desk space and cost. Against the P1S Combo, it gives up enclosure and speed.\n\nOwnership is simple but plastic-hungry. Keep spools dry, wipe the plate, and consider slicing models with fewer color changes to cut waste. The compact frame is easy to store when not in use. Because purge waste is fixed per change, a tiny model with six colors can be mostly waste, so plan designs with large color regions and few swaps, and keep a bin for purge scraps that can be reused as test material.",
+   "bestFor": "Small desks and hobbyists printing small multicolor items.",
+   "pros": [
+    "Smallest AMS-compatible printer here",
+    "Automatic leveling",
+    "Same ecosystem as larger models",
+    "Easy to store and move"
+   ],
+   "cons": [
+    "Small bed limits part size",
+    "Purge waste is large relative to small parts",
+    "Open frame lets drafts in"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CRYZWJLG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41+x8lgBmfL._SL500_.jpg"
+  },
+  {
+   "id": "B0FC2CZ11V",
+   "badge": "Best Rival Feeder",
+   "name": "Creality K2 Combo (A) with CFS, expandable to 16 colors",
+   "price": "",
+   "specs": [
+    "CFS feeder",
+    "Up to 16 colors",
+    "600 mm/s",
+    "Silent mode"
+   ],
+   "specList": [
+    {
+     "label": "Feeder",
+     "value": "CFS, 4 units max"
+    },
+    {
+     "label": "Max colors",
+     "value": "16"
+    },
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Assembly",
+     "value": "95% pre-assembled"
+    },
+    {
+     "label": "Noise",
+     "value": "Silent mode"
+    }
+   ],
+   "description": "The K2 Combo (A) is here as the main rival to the AMS approach, using Creality's CFS to feed up to 16 colors on an enclosed, 95 percent pre-assembled machine. A silent mode lowers noise for shared rooms. It shows that the single-nozzle feeder idea is not unique to one maker.\n\nThe difference is ecosystem. The AMS has the larger community and more tuned profiles, while the CFS gives a similar experience on a different platform. Against the P1S Combo, it lists higher speed but relies on a smaller body of shared settings. The purge-waste issue is identical.\n\nOwnership follows the same rules: dry spools, clear filament paths and a clean plate. Choose it if you prefer the maker's printers or want a quiet mode. Check that the slicer profiles for your favorite filaments exist, since a feeder only works well when the retraction and purge settings are right, and ask whether spare feeder parts are sold separately.",
+   "bestFor": "Buyers who want a non-AMS feeder from a different maker.",
+   "pros": [
+    "CFS feeds up to 16 colors",
+    "Enclosed 600 mm/s class frame",
+    "Silent mode for shared rooms",
+    "Arrives mostly assembled"
+   ],
+   "cons": [
+    "Smaller shared-settings community",
+    "Same purge waste as any single-nozzle feeder",
+    "Separate ecosystem from the AMS"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FC2CZ11V?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xbPAz2wFL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "AMS versus AMS lite",
+   "explanation": "The full AMS sits on the P1S and P2S and chains up to 16 colors. The AMS lite on the A1 and A1 Mini is slimmer and cheaper but holds four spools without chaining. If you want more than four colors, choose a printer that takes the full unit."
+  },
+  {
+   "criterion": "Purge waste",
+   "explanation": "Every color change pushes some old filament through the nozzle, and the nozzle must be cleared completely or the next color looks muddy. A model with many changes can waste more plastic than it uses, especially on small parts. Slicers let you reduce waste by lowering the number of color changes or the purge volume, but never to zero. Choosing models designed for multicolor, with big flat color regions, is the best way to cut waste, and some slicers can print the purge into an infill block so it is not entirely lost."
+  },
+  {
+   "criterion": "Filament dryness",
+   "explanation": "The feeder holds spools in open air, and moist filament pops, strings and weakens. Humid rooms demand sealed boxes or a dryer. Treat dry storage as part of the system price. A sealed box with desiccant is cheap, a dryer is better, and a reliable habit of drying a spool the night before a color job prevents the pops and strings that spoil long prints."
+  },
+  {
+   "criterion": "Enclosure and materials",
+   "explanation": "The P1S and P2S are enclosed and handle more materials. The A1 machines are open and suit PLA, PETG and TPU. Match the frame to the filaments you plan to print, not to the feeder, since an open machine with a fancy feeder still cannot print ABS well."
+  },
+  {
+   "criterion": "Ecosystem and profiles",
+   "explanation": "The AMS has a large body of tuned profiles and community help. A rival feeder such as the CFS can match the hardware but has fewer shared settings. Ecosystem size is a real day-to-day factor, because most problems have already been solved by someone else and posted online. That matters most in the first month, when small questions about purge settings and filament profiles decide whether the machine feels easy or frustrating."
+  },
+  {
+   "criterion": "Jam risk and upkeep",
+   "explanation": "Feeder paths can kink or jam, especially with soft or brittle filament. Keep tubes straight, use spools that unwind freely and clear the paths when a job fails. Spools with rough edges or tangled winding are the usual cause of mid-job pauses, so rewind or replace a suspect spool rather than fighting it every print."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "AMS",
+   "meaning": "Bambu Lab's automatic material system that holds four spools and feeds a single nozzle.",
+   "watchFor": "The P1S and P2S take full units; the A1 machines take the lite version."
+  },
+  {
+   "spec": "AMS lite",
+   "meaning": "A lighter feeder with four spools and no chaining.",
+   "watchFor": "The A1 and A1 Mini bundles use it."
+  },
+  {
+   "spec": "Up to 16 colors",
+   "meaning": "Four feeder units chained, four spools each.",
+   "watchFor": "Each extra unit costs more and needs dry storage."
+  },
+  {
+   "spec": "CFS",
+   "meaning": "Creality's filament system, a rival to the AMS.",
+   "watchFor": "The K2 Combo (A) uses it."
+  },
+  {
+   "spec": "Purge tower",
+   "meaning": "Extra material printed to clear the nozzle between colors.",
+   "watchFor": "Tower size changes with the number of color changes."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Feeder design",
+   "description": "We compared full AMS, AMS lite and the rival CFS on capacity and chaining. The full AMS scored highest."
+  },
+  {
+   "title": "Waste behaviour",
+   "description": "We considered how purge waste scales with part size. Small printers scored lower because waste dominates small models."
+  },
+  {
+   "title": "Printer pairing",
+   "description": "We looked at frame, enclosure and speed relative to the feeder. The P1S and P2S are fully enclosed pairings."
+  },
+  {
+   "title": "Ecosystem",
+   "description": "We weighed profile libraries and parts supply. The AMS machines lead, because shared settings for hundreds of filaments reduce the tuning a new owner must do."
+  },
+  {
+   "title": "Upkeep",
+   "description": "We counted chores such as drying, path cleaning and tube replacement, and favored machines whose parts are easy to buy and replace."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Printer Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small desk, small parts",
+      "Bambu Lab A1 Mini Combo",
+      "Compact AMS lite"
+     ],
+     [
+      "Mid-size open printer",
+      "Bambu Lab A1 Combo",
+      "Bigger bed, LED kit"
+     ],
+     [
+      "Enclosed and mature",
+      "Bambu Lab P1S Combo",
+      "Full AMS, enclosure"
+     ],
+     [
+      "Newest generation",
+      "Bambu Lab P2S Combo",
+      "AMS 2 Pro and monitoring"
+     ],
+     [
+      "Rival ecosystem",
+      "Creality K2 Combo (A)",
+      "CFS and silent mode"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Bambu Lab A1 Mini Combo",
+      "Entry AMS lite"
+     ],
+     [
+      "Lower-middle",
+      "Bambu Lab A1 Combo",
+      "Larger bed"
+     ],
+     [
+      "Middle",
+      "Creality K2 Combo (A)",
+      "Enclosed rival"
+     ],
+     [
+      "Upper-middle",
+      "Bambu Lab P1S Combo",
+      "Enclosed AMS"
+     ],
+     [
+      "Highest",
+      "Bambu Lab P2S Combo",
+      "Newest platform"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Full AMS vs AMS lite",
+   "cards": [
+    {
+     "label": "Full AMS",
+     "text": "The P1S and P2S Combos take full units that chain to 16 colors and sit on an enclosed frame."
+    },
+    {
+     "label": "AMS lite",
+     "text": "The A1 and A1 Mini Combos use a slimmer feeder with four spools. It costs less but does not chain."
+    }
+   ],
+   "note": "Choose the full AMS if you may want more than four colors. Choose the lite for four colors on a budget."
+  },
+  {
+   "subheading": "Waste Strategy",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Bigger parts, less relative waste",
+      "Bambu Lab P1S Combo",
+      "Larger prints amortize purge"
+     ],
+     [
+      "Small models, accept waste",
+      "Bambu Lab A1 Mini Combo",
+      "Compact and cheap"
+     ],
+     [
+      "Reduce waste with fewer swaps",
+      "Bambu Lab A1 Combo",
+      "Slice with few color changes"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Gift and Display Prints Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Easy color assignment in the slicer, a tidy purge tower and a quiet machine. Gift prints are small and colorful."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The A1 Combo's LED lamp kit is a ready-made project. The P2S Combo adds failure detection for long jobs."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You print larger color parts or want an enclosure. The P1S or P2S Combo pay back."
+    },
+    {
+     "label": "Save if",
+     "text": "You print small desk items. The A1 Mini Combo covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dry spools",
+   "interval": "Before each color job",
+   "why": "The feeder leaves spools exposed. Moist filament strings and snaps."
+  },
+  {
+   "task": "Clean feeder paths",
+   "interval": "Every few spools",
+   "why": "Dust and shavings cause jams, and filament shavings gather where the gears bite. A soft brush clears them, and a few seconds after each spool change keeps the path clean."
+  },
+  {
+   "task": "Replace PTFE tubes",
+   "interval": "When discolored",
+   "why": "Heat and wear degrade tubes. A rough tube snags filament."
+  },
+  {
+   "task": "Wipe rods and rails",
+   "interval": "Every 3 months",
+   "why": "Dust adds wear and noise."
+  },
+  {
+   "task": "Update firmware deliberately",
+   "interval": "As needed",
+   "why": "Updates can change feeder behaviour. Read release notes first."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does the AMS dry filament?",
+   "a": "No. It stores spools but does not heat them. Use a dryer or sealed box in humid rooms, and consider drying a spool before loading it if it has sat open for weeks."
+  },
+  {
+   "q": "Is the AMS lite a downgrade?",
+   "a": "It is lighter and cheaper but holds four spools and does not chain. For four colors it is fine."
+  },
+  {
+   "q": "How much plastic does color printing waste?",
+   "a": "It depends on the model. Small, many-color parts waste the most. Slicer settings can reduce it."
+  },
+  {
+   "q": "Can I use third-party spools?",
+   "a": "Generally yes if they unwind freely and fit the holders. Test one before relying on it."
+  },
+  {
+   "q": "Do I need the Combo?",
+   "a": "Only if you want color. The printer alone saves money and you can add the feeder later, though buying the Combo is usually cheaper than buying the parts separately, so decide based on whether you will use color within the first few months."
+  },
+  {
+   "q": "Does the AMS work with flexible filament?",
+   "a": "Soft filament often jams in feeders because it buckles in long tubes. Print it from an external spool path if the maker recommends so, and keep multicolor jobs to PLA and PETG where the feeder is happiest."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41hCi0WWGNL._SL500_.jpg"
+}
