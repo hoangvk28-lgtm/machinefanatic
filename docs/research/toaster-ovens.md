@@ -1,0 +1,19 @@
+# Toaster ovens research notes
+- A toaster oven is a small box with upper and lower heating elements; quartz or calrod tubes cycle on and off to hold a set temperature.
+- Thermostats on budget models swing widely; actual temperature can be 25 to 50 F off the dial, so an oven thermometer helps.
+- Convection adds a fan that moves air, cutting cook time by roughly 20 percent and browning more evenly.
+- "Air fry" modes in toaster ovens are convection with a perforated basket; results are good for wings and fries but batches are small.
+- "4 slice" and "6 slice" claims are for bread laid flat; 6 slice usually fits a 12 inch pizza or a 9 by 11 inch pan, 4 slice a 9 inch pizza or 8 inch pan.
+- Interior height limits dishes; check clearance of the top elements before buying a casserole pan.
+- Timers on budget models are mechanical and stop at 30 or 60 minutes; some have a stay-on position.
+- Cheap units toast unevenly: bread nearest the elements browns first; rotate the rack or tray.
+- Crumb trays should be emptied often; burnt crumbs smoke and are a fire risk.
+- Exterior surfaces get very hot; leave several inches of clearance and do not tuck under cabinets.
+- Roll-top and pull-down doors differ in how they clear the counter and the food.
+- Wattage 800 to 1800 W: higher wattage preheats faster but may trip shared circuits when used with other appliances.
+- Foil must not touch elements or cover the crumb tray.
+- Toaster ovens use less energy than a full oven for small meals.
+- Don't leave one unattended while broiling; fatty foods spit and ignite.
+- Enamel interiors wipe clean; textured interiors are harder to clean.
+- Dial-based controls last longer than touch panels in hot kitchens.
+- Small toaster ovens suit reheating and toast but crowd real meals.

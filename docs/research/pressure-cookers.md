@@ -1,0 +1,18 @@
+# Electric pressure cookers research notes
+- An electric pressure cooker is a sealed pot with a heating plate, pressure sensor and locking lid; it raises water boiling temperature to about 115 to 118 C (240 to 245 F) at roughly 10 to 12 psi, which cooks food far faster.
+- Most home models run 10.2 to 11.6 psi on high and about half that on low; stovetop cookers often reach 15 psi.
+- Pressure builds only if there is thin liquid: the minimum is typically 1 cup (240 ml) for 6 qt pots; thick sauces scorch and can trigger a burn warning.
+- Never fill beyond two thirds, or one half for foods that foam or expand (beans, rice, grains, pasta).
+- Natural release lets pressure fall on its own (10 to 20 minutes), good for meat and foamy foods; quick release vents steam for vegetables and fish.
+- Quick-releasing foamy liquids can spit through the valve.
+- The silicone sealing ring absorbs odors and wears; replace about every 12 to 18 months, and keep a spare.
+- Lids have a float valve, a steam release valve and an anti-block shield; keep them clean.
+- Stainless inner pots are durable and need no coating; ceramic or nonstick pots are easier to clean but scratch.
+- Capacity: 3 qt for 1 to 2 people, 4 qt for 2 to 3, 6 qt for 4 to 6 and most recipes are written for 6 qt.
+- Most low-cost models do not reach canning temperature and are not approved for home canning.
+- Slow cook, yogurt, sous vide and sauté modes are extras; the sauté function works well on most.
+- Cook time starts after pressure builds, so total time includes 5 to 15 minutes of heat-up.
+- Pressure cooking tough cuts takes roughly a third of oven time.
+- Safety features include lid lock, over-pressure protection, over-temperature protection and lid-open detection.
+- Don't open until pressure is fully released and the float valve drops.
+- Smaller pots build pressure faster; very small ones cook less food per liter.

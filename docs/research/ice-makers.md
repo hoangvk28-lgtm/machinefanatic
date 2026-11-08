@@ -1,0 +1,19 @@
+# Countertop ice makers research notes
+- Countertop bullet ice makers use a small compressor and evaporator: metal prongs chill, water freezes around them, a heater releases the cubes into the basket.
+- Rated output (about 26 lb per day) is a best-case figure in a cool room; warm rooms and warm tap water cut output noticeably.
+- The basket holds only about 1 to 2 lb at a time; when it is full a sensor stops production and the stored ice slowly melts.
+- Portable models do not keep ice frozen: melt water drains back to the reservoir and is recycled, so the ice is for immediate use.
+- Nugget (pebble or sonic) ice is made by scraping a frozen layer from a cold cylinder with an auger and compressing it; machines are heavier, noisier and pricier.
+- Nugget ice is soft and chewable, absorbs drink flavor, and cools fast; bullet ice is harder and slower melting.
+- First batch takes 6 to 15 minutes; later cycles repeat every 6 to 8 minutes, filling the basket in under an hour.
+- Needs clearance on all sides, often 6 inches or more, for the compressor to breathe.
+- Use filtered or distilled water in hard-water areas; scale on the evaporator cuts output and flavor.
+- Self-cleaning cycles flush the reservoir but do not remove scale; descale with citric acid or manufacturer-approved cleaner every month or two.
+- Empty and dry the machine if left unused; standing water grows biofilm.
+- Noise is compressor hum plus cubes dropping; bullet makers run roughly like a mini fridge, nuggets are louder with auger noise.
+- Water reservoirs of about 1.1 to 1.8 L need manual refilling; no plumbing.
+- Under-counter and commercial units need drains or pumps and are a different category.
+- Let a moved machine stand upright for a few hours before powering on so compressor oil settles.
+- Smaller baskets and tanks mean more refills during parties.
+- A full basket with no scoop clearance can jam the sensor; do not overfill by hand.
+- Typical power draw is about 100 to 150 W while making ice.

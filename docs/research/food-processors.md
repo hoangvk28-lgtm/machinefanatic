@@ -1,0 +1,19 @@
+# Food processors research
+- Bowl capacity is nominal; the liquid line is lower than the cup rating and slicing/shredding loads fill less than chopping.
+- Cup ratings: 1.5 to 3 cup choppers for herbs and garlic; 5 cup compact; 8 to 14 cup full size for dough, hummus, shredding blocks of cheese.
+- Wattage: under 300 W stalls on dense loads; 400 to 450 W is the practical budget range; blade sharpness and bowl shape matter as much as the number.
+- Standard S-blade chops, mixes and purees; reversible disc slices and shreds; dough blades are plastic and rare at low prices.
+- Wide feed chute lets you drop whole items (block of cheese, small tomato) and cuts prep time; small tubes force pre-cutting.
+- Pulse control is the key technique: short bursts give even chop; holding the button yields paste.
+- Overfilling leaks past the lid and strains the motor. Process in batches.
+- Lid locks into the base as a safety interlock; the motor will not run unless the lid is seated.
+- Parts storage: blade and discs nesting in the bowl saves cabinet space.
+- Bowl material: plastic scratches and clouds; glass bowls are heavier but resist odors and stains.
+- Blades dull over time, especially with hard foods such as nuts and ice; replacement blades are not always sold.
+- Dishwasher: top rack for bowls and lids; hand wash blades to keep edges sharp.
+- Liquids: thin liquids leak from the center post of many bowls; keep soups to small batches.
+- Food processor vs blender: processors chop and shred dry or thick loads; blenders handle liquids.
+- Mini choppers (1.5 to 3 cups) cannot slice or shred; they suit garlic, herbs, nuts.
+- Noise is high on all; motor duty cycles are short, often a few minutes then rest.
+- Warranty is typically one year at the budget tier; the motor base outlives the bowl and lid.
+- Dough: most budget machines are not rated for heavy bread dough; check the manual.

@@ -49,3 +49,6 @@ Final report per slug: products kept (from candidates), words, metaTitle/metaDes
 - Sibling caps for the same machine (under-200 / under-300 / under-500) must not be copies: favour items in the upper band of your cap (for under-500, prefer items above the next lower cap) and give each guide its own angle (what the extra budget buys: motor, capacity, build, features). Reuse no more than 2 products from a lower-cap sibling.
 - Add a sentence that prices move and the cap reflects listing prices when the guide was updated.
 - "budget"/"cheap" slugs: pick from the lower half of priceTier and frame value vs. compromises; no dollar figures at all.
+
+## No padding by repetition (added 2026-11-08)
+Never repeat a sentence anywhere in the same guide to reach the word count. Round 9 shipped 13 guides with one sentence pasted 5 times each; the coordinator now rejects any guide with a sentence of 30+ chars appearing 3+ times. If short, add real specifics (named model + number), not filler.

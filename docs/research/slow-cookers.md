@@ -1,0 +1,19 @@
+# Slow cookers research notes
+- A slow cooker is a ceramic or metal crock wrapped by a heating element; low holds roughly 200 F, high about 300 F, and both reach a similar simmer, high just gets there sooner.
+- Manual models give low, high and warm. Programmable models count down a set time then switch to warm.
+- Programmable timers matter for work days: a manual cooker keeps cooking on its set level until you unplug it.
+- Best fill level is half to two thirds full; too empty cooks faster and can scorch, too full cooks unevenly.
+- Rule of thumb: 6 qt feeds 6 to 8; 2 to 3 qt suits dips and one to two people; 7 to 8 qt serves crowds and fits a large roast.
+- Lifting the lid loses heat and adds 15 to 20 minutes per peek.
+- Dried kidney beans must be boiled first; raw red kidney beans can be toxic in a slow cooker.
+- Frozen meat should be thawed first; a cold mass keeps the pot in the danger zone too long.
+- Stoneware crocks can crack from thermal shock; do not put a cold crock on a hot element or into a hot oven unless rated.
+- Oven-safe crocks and stovetop-safe metal inserts reduce dishes; check manufacturer guidance.
+- Locking lids and carry handles suit potlucks; a gasket seals but cannot be run sealed in transit unless designed for it.
+- Probe models cook to internal temperature and then hold warm.
+- Dairy and fresh herbs go in near the end; long heat curdles milk and dulls herbs.
+- Older cookers ran cooler; modern units run hotter, so old recipe times can overcook.
+- Cord storage and a removable crock make cleanup easier; dishwasher-safe stoneware saves time.
+- Nonstick or aluminum inserts heat faster than stoneware but hold heat less.
+- Sauté-in-pot is a feature of multicookers, not basic slow cookers.
+- Keep warm should hold food above 140 F for safety; a cooker left on warm for many hours dries food.

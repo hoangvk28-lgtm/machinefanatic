@@ -1,0 +1,16 @@
+# Coffee makers research
+- Target brew water temperature is roughly 195 to 205 F; many budget drip machines run cooler or unstable, which makes coffee sour or flat. Temperature stability matters more than features.
+- Carafe types: glass sits on a hot plate (cheap, keeps coffee hot but stews it over time); thermal carafe holds heat without a plate (not found at the lowest tier).
+- Programmable delay brew is useful only if you brew on a fixed schedule; check the clock and timer are easy to set.
+- Pause and serve (drip stop) lets you pull the carafe mid-brew; pour a cup, replace it quickly or the filter basket overflows.
+- Auto shut-off (often 2 hours) cuts the hot plate, a safety and energy feature.
+- Brew size: a 5-cup machine makes about 25 oz; "cups" are 5 oz, not mugs, so a 12-cup carafe is about 6 mugs.
+- Coffee-to-water ratio starting point: about 1 to 2 tablespoons of ground coffee per 6 oz cup; weigh for consistency.
+- Showerhead or vortex designs spread water over the grounds for even saturation; a single drip point leaves dry spots.
+- Reusable mesh filters save paper but pass fine sediment; paper filters give a cleaner cup.
+- Descale monthly in hard water with vinegar or citric acid; scale slows the heater and lowers brew temperature.
+- Water window and measurement marks on the carafe help fill accurately.
+- Percolators recirculate the brew over grounds and can over-extract; they suit campfire-style coffee more than precise drip.
+- Single-serve machines trade batch capacity for convenience; ground-coffee compatible models avoid pod waste.
+- Warranty is typically one year; the heater and the pump are the usual failure points.
+- Carafe and basket are dishwasher top-rack safe on most models; wash after each use to avoid oils turning rancid.

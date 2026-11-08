@@ -1,0 +1,19 @@
+# Rice cookers research notes
+- Basic cookers are a heating plate plus a thermal switch: when free water boils off, pot temperature rises past 100C and a thermostat flips the unit to warm.
+- Fuzzy logic or microcomputer models adjust heat through soak, boil, steam and rest stages; budget models run one on/off cycle.
+- "Cups" are 180 ml rice-measure cups, not US 240 ml cups; cooked capacity is roughly double uncooked.
+- Listing "6 cup" almost always means cooked; uncooked is about half. Check which number is quoted.
+- Never fill past the max line; rice swells and starch foams, causing sputtering at the vent.
+- Rinse rice until water runs mostly clear; surface starch causes gummy texture and boil-over.
+- Brown rice needs more water and a longer soak; basic one-switch cookers handle it poorly without a brown setting.
+- Nonstick coatings scratch with metal spoons; use the supplied paddle. Ceramic coatings are PFAS-free but still need soft utensils.
+- Stainless inner pots do not scratch but rice sticks more; wash soon after cooking.
+- Keep-warm over about 12 hours dries and yellows rice on simple models; premium models add 24-hour warm with moisture control.
+- Wattage is typically 300 to 700 W for home units; small units cook slowly but are fine for 1 to 3 people.
+- Steam trays let you cook vegetables or fish above rice; steam timing is by eye on basic models.
+- Delay timer is rare below mid price; it helps with overnight soak and breakfast porridge.
+- Wipe the heating plate and thermal sensor underside; debris causes uneven heating and failed shut-off.
+- Wash lid and steam vent regularly; starch residue breeds odors.
+- Keep the outside of the inner pot dry before inserting; wet pots hiss and can cause poor contact.
+- Most low-cost cookers cook 2 to 3 cups well; very small batches in large pots scorch the bottom.
+- Slow cook modes on rice cookers are gentle and not a full slow cooker replacement.

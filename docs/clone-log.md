@@ -213,3 +213,6 @@ Notes: words 2,704 to 3,391 (selfcheck band 2,700-3,400 blocks the 3,300+ target
 | best-handheld-steam-cleaner-under-50 | fewer than 4 underCap machines |
 | best-handheld-steam-cleaner-under-200 | fewer than 4 underCap machines |
 | best-steam-mops-under-75 | fewer than 4 underCap machines |
+| best-bread-makers-under-50 | only 2 underCap machines |
+
+## Round 10 (2026-11-08): 22 kitchen budget guides

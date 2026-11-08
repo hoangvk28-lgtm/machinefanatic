@@ -1,0 +1,20 @@
+# Vacuum sealers research notes
+- External (edge) vacuum sealers pull air from the open end of a bag in a chamber on the sealer, then press a heat strip across the bag to melt and fuse it.
+- Pump type: piston pumps last longer and pull stronger vacuum than cheap diaphragm or vibration pumps; many budget units use small DC pumps.
+- Suction is quoted in kPa (about 60 to 95 kPa for home units) and sometimes L/min; higher kPa pulls more air but wet foods need a gentler mode.
+- Edge sealers struggle with liquids: liquid pulled into the channel prevents a seal. Moist modes slow the pump, and freezing soups or marinades first helps.
+- Bags need an embossed or textured side to channel air; smooth zipper bags need a hose adapter.
+- Third-party roll bags work in most machines but widths must fit the seal bar.
+- Seal bar width and a double seal improve reliability; thin seal strips fail more often.
+- Duty cycle: budget units overheat if you seal many bags back to back; allow 20 to 60 seconds between seals.
+- Vacuum sealing slows spoilage and freezer burn but does not make food sterile; refrigerated sealed fish and raw meat still carry anaerobic bacteria risks (botulism) if left at room temperature.
+- Do not vacuum-seal fresh mushrooms, soft cheeses or raw garlic and onions for room-temp or fridge storage without guidance; low-oxygen conditions support anaerobic growth.
+- Freeze soft items such as berries and bread first, then seal, so they do not crush.
+- Sous vide cooking relies on a good seal; bags must be heat-rated.
+- Dry modes seal quickly; moist mode lets liquid settle before sealing.
+- Pulse control helps with delicate food.
+- Jar attachment sealers use a hose to remove air from mason jars with a lid adapter; they suit dry goods, not meat.
+- Handheld sealers work with zip bags and are good for light use but pull weaker vacuum.
+- Keep the gasket and drip tray clean; food residue prevents a seal.
+- Fully reusable bags cost less over time but are hard to clean.
+- Storing a sealer with the lid closed compresses foam gaskets; leave unlatched.
