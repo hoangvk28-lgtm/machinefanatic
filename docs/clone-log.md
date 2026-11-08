@@ -185,3 +185,22 @@ Notes: words 2,704 to 3,391 (selfcheck band 2,700-3,400 blocks the 3,300+ target
 - 2026-11-08 round 6: 47 guides written (2 Sonnet agents): best-300-dpi-label-printers best-300mm-3d-printers best-35-pint-dehumidifiers best-3d-printer-extruders best-3d-printer-hotends best-3d-printer-nozzles best-3d-printers best-3d-printers-for-beginners best-3d-printers-for-jewelry best-3d-printers-for-kids best-3d-printers-with-ams best-4-color-3d-printers best-4-gallon-rv-water-heater best-4-gpm-rv-water-pump best-40-000mah-camping-fans best-40-pint-dehumidifiers best-40-pint-dehumidifiers-for-basements best-400mm-3d-printers best-45-pint-dehumidifiers best-45-psi-rv-water-pump best-48v-rv-air-conditioner best-4k-projectors-for-home-theater best-5-5-gpm-rv-water-pump best-5-gpm-rv-water-pump best-50-pint-dehumidifiers-for-basements best-50-pint-dehumidifiers-with-pumps best-50-psi-rv-water-pump best-5000-btu-rv-air-conditioner best-500mm-3d-printers best-55-psi-rv-water-pump best-58mm-label-printers best-6-gallon-rv-water-heater best-6-gpm-rv-water-pump best-60-pint-dehumidifiers best-60-pint-dehumidifiers-with-pumps best-60-psi-rv-water-pump best-600mm-3d-printers best-600mm-s-3d-printers best-65000-btu-rv-tankless-water-heater best-7-gpm-rv-water-pump best-70-pint-dehumidifiers best-70-pint-dehumidifiers-for-basements best-70-pint-dehumidifiers-with-drain-hoses best-70-pint-dehumidifiers-with-pumps best-70-psi-rv-water-pump best-750w-space-heaters best-75mm-label-printers
 - 2026-11-08 round 7 coordinator skip: best-garden-augers (0 usable items), best-heavy-duty-garden-augers (1 item)
 - 2026-11-08 round 7: 48 garden machine guides: best-brushless-lawn-mowers best-commercial-pressure-washers best-commercial-wood-chippers best-corded-electric-tillers best-cordless-electric-tillers best-cordless-garden-augers best-cordless-pole-saws best-electric-dethatcher-and-scarifier-combos best-electric-dethatchers best-electric-dethatchers-for-large-lawns best-electric-log-splitters best-electric-pole-saws best-electric-snow-blowers best-electric-tillers best-electric-tillers-for-clay-soil best-electric-tillers-for-hard-soil best-electric-tillers-for-raised-beds best-garden-chipper-shredders best-gas-backpack-leaf-blowers best-gas-lawn-mowers best-gas-leaf-blowers best-gas-pole-saws best-gas-pressure-washers best-gas-snow-blowers best-gas-wood-chippers best-hot-water-pressure-washers best-lawn-mowers-for-hills best-leaf-blower-vacuum-mulchers best-pole-saws best-pole-saws-for-thick-branches best-pressure-washers-for-concrete best-pto-wood-chippers best-push-lawn-mowers best-riding-lawn-mowers best-robot-lawn-mowers best-self-propelled-snow-blowers best-single-stage-snow-blowers best-small-electric-log-splitters best-small-electric-tillers best-small-wood-chippers best-snow-blowers-for-heavy-wet-snow best-telescoping-pole-saws best-tow-behind-lawn-aerators best-tow-behind-leaf-vacuums best-two-stage-snow-blowers best-walk-behind-leaf-blowers best-wood-chippers best-zero-turn-lawn-mowers
+
+### Prefilter skips (2026-11-08)
+| Skipped slug | Reason |
+|---|---|
+| best-garden-auger-under-100 | prefilter: only 1 distinct items match price <= 100 after extra searches |
+| best-garden-auger-under-200 | prefilter: only 2 distinct items match price <= 200 after extra searches |
+| best-garden-auger-under-300 | prefilter: only 2 distinct items match price <= 300 after extra searches |
+| best-garden-auger-under-50 | prefilter: only 1 distinct items match price <= 50 after extra searches |
+| best-garden-augers-under-20 | prefilter: only 1 distinct items match price <= 20 after extra searches |
+| best-garden-augers-under-25 | prefilter: only 0 distinct items match price <= 25 after extra searches |
+| best-garden-augers-under-30 | prefilter: only 0 distinct items match price <= 30 after extra searches |
+| best-garden-augers-under-75 | prefilter: only 0 distinct items match price <= 75 after extra searches |
+
+## Round 8 (2026-11-08): 45 garden budget guides
+| best-lawn-aerator-under-100 | only manual spike/shoe aerators under cap, no powered machine |
+| best-lawn-aerator-under-200 | only manual spike/shoe aerators under cap, no powered machine |
+| best-lawn-aerator-under-300 | only manual spike/shoe aerators under cap, no powered machine |
+| best-lawn-aerator-under-500 | only manual spike/shoe aerators under cap, no powered machine |
+| best-pole-saws-under-75 | only 2 powered pole saws under cap |

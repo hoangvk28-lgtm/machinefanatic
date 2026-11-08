@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-leaf-blowers-under-200",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "best leaf blowers under 200",
+ "guideTitle": "Best Leaf Blowers Under $200 (2026)",
+ "metaTitle": "Best Leaf Blowers Under $200 (2026)",
+ "metaDescription": "Five leaf blowers at or under $200, from EGO and Greenworks platform tools to CRAFTSMAN V20 and budget kits, compared on voltage, packs and airflow.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41xbFysiRhL._SL500_.jpg",
+ "expertTake": "The EGO LB5302 is the pick for anyone who wants a real battery platform behind a blower, because its 56V system carries a mower and trimmer family. The Greenworks 40V brushless is the value choice for strong airflow with a battery in the box. If you only sweep a patio, spending to this level is wasted.",
+ "introParagraphs": [
+  "This is the price band where blowers stop being appliances and start being part of a battery system. Higher-voltage platforms move more air for longer and share their packs with other yard tools.",
+  "The decisions here are about voltage, brushless motors and whether the kit includes a battery at all. Prices move, and the $200 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B06Y52TZB2",
+   "name": "EGO Power+ LB5302 Cordless Blower 530 CFM",
+   "badge": "Best Overall",
+   "specs": [
+    "56V platform",
+    "530 CFM",
+    "Turbo mode",
+    "Battery incl."
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "56V EGO Power+"
+    },
+    {
+     "label": "Airflow claim",
+     "value": "530 CFM"
+    },
+    {
+     "label": "Boost",
+     "value": "Turbo mode"
+    },
+    {
+     "label": "Model",
+     "value": "LB5302"
+    },
+    {
+     "label": "Battery",
+     "value": "Included with the listing"
+    }
+   ],
+   "description": "The LB5302 is built on a 56V platform, and voltage is the reason it is a different class of tool from the 20V kits. Higher voltage lets the motor draw its power at lower current, so it runs cooler and holds output as the pack drains. The listing claims 530 CFM, a believable figure for a brushless motor on a 56V system rather than a headline from an unknown brand.\n\nThe turbo mode gives a short boost for stubborn debris, and a trigger-lock style control suits long sessions. Compared with the Greenworks 40V at 550 CFM, the airflow claim is similar, but the EGO pack family has a wider range of mowers, trimmers and saws behind it.\n\nOwnership is the real argument: replacement packs, chargers and service are easy to find, which matters in year three when the first battery fades. Store the pack indoors, partly charged, and keep the intake clear. It is the one to buy if you want to build a cordless yard system. One practical note: the 56V charger and pack are bulkier than 20V gear, so give them a shelf spot in a dry, moderate part of the house rather than the garage floor, where winter cold shortens battery life.",
+   "bestFor": "Owners building around a 56V battery platform.",
+   "pros": [
+    "Higher-voltage platform holds output as the pack drains",
+    "Turbo mode for stubborn debris",
+    "Shares batteries with a wide tool family",
+    "Parts and packs easy to source"
+   ],
+   "cons": [
+    "Costs more than the 20V kits for the same jobs",
+    "Turbo drains the pack quickly"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B06Y52TZB2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xbFysiRhL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08D7DHC87",
+   "name": "Greenworks 40V Brushless Blower 550 CFM 4.0Ah",
+   "badge": "Best Value",
+   "specs": [
+    "40V brushless",
+    "550 CFM",
+    "4.0Ah pack",
+    "Charger incl."
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "40V Greenworks"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Airflow claim",
+     "value": "550 CFM"
+    },
+    {
+     "label": "Battery",
+     "value": "4.0Ah pack"
+    },
+    {
+     "label": "Charger",
+     "value": "Included"
+    }
+   ],
+   "description": "This Greenworks combines a 40V brushless motor with a 4.0Ah pack and a charger, so the box contains a complete working kit. The 550 CFM claim is a notch above the EGO's 530, and the listing promises longer run time than earlier brushed models from the same brand.\n\nThe 40V platform is broad, with mowers, trimmers and chainsaws that use the same battery, which helps spread the cost over time. The tradeoff versus the EGO is a slightly less premium feel and fewer service points, though parts are widely available.\n\nExpect to rotate the one pack on a large lot, because a single 4.0Ah battery will not carry a half-hour of heavy use. Store the pack cool and partly charged. It is the sensible buy for anyone who wants strong airflow and a battery in the box. Because it is a single pack at a modest capacity, plan a break halfway through a big cleanup to let the pack cool and the charger catch up, rather than running it flat and stressing the cells.",
+   "bestFor": "Strong airflow with a battery included.",
+   "pros": [
+    "Brushless 40V motor with a battery included",
+    "Highest airflow claim among the platform tools",
+    "Large tool family shares the pack",
+    "Charger in the box"
+   ],
+   "cons": [
+    "One pack limits continuous work",
+    "Plastic build feels less refined than the EGO"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B08D7DHC87?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qkVoY81pL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C67VTX88",
+   "name": "CRAFTSMAN V20 RP Cordless Blower 110 MPH",
+   "badge": "Best Mid Platform",
+   "specs": [
+    "V20 platform",
+    "110 MPH",
+    "Longer runtime",
+    "Battery incl."
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "V20 battery family"
+    },
+    {
+     "label": "Air speed claim",
+     "value": "110 MPH"
+    },
+    {
+     "label": "Runtime",
+     "value": "Extended versus earlier model"
+    },
+    {
+     "label": "Type",
+     "value": "Handheld"
+    },
+    {
+     "label": "Charger",
+     "value": "Included"
+    }
+   ],
+   "description": "The CRAFTSMAN V20 blower is a handheld that runs on the brand's 20V family, which also powers drills, saws and outdoor tools. It states an air speed of 110 MPH and promises longer run time than its predecessor.\n\nThe airflow figure is lower than the EGO and Greenworks, so it is a patio and light yard tool rather than a leaf-pile mover. Its strength is that it fits a battery system many homeowners already own, which makes it a reasonable bare-tool purchase.\n\nBecause V20 is common, replacement packs are easy to source years later. Keep the intake clear and store the battery cool. It suits a household that already owns V20 tools and wants a modest blower to match. It is sensible to treat this as the tool you reach for when you already have V20 gear in the garage, since buying the battery separately erases most of the price advantage.",
+   "bestFor": "Households already on the V20 battery family.",
+   "pros": [
+    "Fits the common V20 battery family",
+    "Promises longer run time than earlier models",
+    "Light handheld design",
+    "Replacement packs easy to find"
+   ],
+   "cons": [
+    "Lower air speed and volume than the 40V and 56V tools",
+    "Not suited to heavy leaf piles"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0C67VTX88?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41iCwfmdGpL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GJ2SXT87",
+   "name": "EMSON Bullseye Cordless Turbo Jet Blower 20V",
+   "badge": "Best Compact Jet",
+   "specs": [
+    "20V cordless",
+    "350W claim",
+    "2 batteries",
+    "Turbo jet"
+   ],
+   "specList": [
+    {
+     "label": "Voltage",
+     "value": "20V"
+    },
+    {
+     "label": "Power claim",
+     "value": "350W"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two included"
+    },
+    {
+     "label": "Style",
+     "value": "Handheld turbo jet"
+    },
+    {
+     "label": "Use",
+     "value": "Debris and dust"
+    }
+   ],
+   "description": "The Bullseye is a turbo jet style handheld, with a 350W motor claim and two batteries. It is designed to throw a narrow, fast stream rather than move a wide volume of air, so it is better for clearing dust, crevices and light debris than for herding leaf piles.\n\nA narrow stream is effective against stuck-on debris on a deck or tile, but slow across a lawn. Compared with the EGO, it moves far less volume, and the two small batteries give limited time.\n\nStore packs cool and charge before use. It is a niche tool, good as a second blower for detail work beside a main unit. Keep it as a companion rather than your only blower, and use it to blast leaf litter out of corners, door tracks and the gaps between deck boards where a wide stream does not reach.",
+   "bestFor": "Detail cleanup of decks, gutters and workshops.",
+   "pros": [
+    "Narrow jet stream cleans debris from tight spots",
+    "Two batteries included",
+    "Compact and easy to store",
+    "Light on the arm"
+   ],
+   "cons": [
+    "Low volume for lawn leaf work",
+    "Small batteries limit sessions"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GJ2SXT87?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51EzI8GzYLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FLX45THX",
+   "name": "YOOVL 650 CFM Cordless Blower 2 x 5.2Ah",
+   "badge": "Best Budget Kit",
+   "specs": [
+    "650 CFM claim",
+    "2 x 5.2Ah",
+    "3 speeds",
+    "Charger incl."
+   ],
+   "specList": [
+    {
+     "label": "Airflow claim",
+     "value": "650 CFM"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 5.2Ah packs"
+    },
+    {
+     "label": "Speed settings",
+     "value": "3 levels"
+    },
+    {
+     "label": "Charger",
+     "value": "Included"
+    },
+    {
+     "label": "Class",
+     "value": "20V-class handheld"
+    }
+   ],
+   "description": "The YOOVL is the budget alternative to the platform tools, with two 5.2Ah packs and three speeds in the box. It claims 650 CFM, higher than the EGO's 530, but that figure comes from a 20V-class tool and is a best-case maker number.\n\nIts value is the swap workflow: one pack works while the other charges. Against the Greenworks 40V, you give up the platform and brushless efficiency, but you gain a second pack.\n\nTreat the pack as disposable after a few seasons and do not expect tool-family compatibility. It suits someone who wants a capable blower now and does not plan a battery system. Plan to charge both packs fully before leaf season starts, then rotate them evenly so neither ages faster than the other, and expect the pair to need replacement together.",
+   "bestFor": "Buyers who want capacity without a platform commitment.",
+   "pros": [
+    "Two 5.2Ah packs for swap-and-go work",
+    "Three speeds for control",
+    "High airflow claim for the price",
+    "Complete kit"
+   ],
+   "cons": [
+    "Claims come from a 20V-class tool",
+    "No tool family behind the battery"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FLX45THX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41vCIfUeTJL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Voltage platform",
+   "explanation": "The EGO runs on 56V, the Greenworks on 40V and the CRAFTSMAN on 20V. Higher voltage lets the same power flow at lower current, so motors run cooler and output holds as the pack drains. If you will add a mower or trimmer, platform choice matters more than the blower itself. Check the charger output too, because a platform charger with a higher amp rating refills a large pack far faster than a basic one."
+  },
+  {
+   "criterion": "Brushless motor",
+   "explanation": "The EGO and Greenworks use brushless motors, which cut friction and heat and extend run time per charge. A brushed motor like those in cheaper kits wears brushes and wastes energy. At this price, brushless should be expected. If a listing says tool only, add the cost of a pack and charger before comparing, or the cheap bare tool will end up costing more than a complete kit."
+  },
+  {
+   "criterion": "Battery included",
+   "explanation": "Some listings sell a bare tool, and the pack is the expensive part. The Greenworks includes a 4.0Ah pack and charger, and the YOOVL includes two 5.2Ah packs. Always confirm the box contents before comparing prices. If you are unsure, look at how many other tools in your shed could share the battery, since that number often decides the best value over five years."
+  },
+  {
+   "criterion": "Volume versus jet style",
+   "explanation": "The Greenworks at 550 CFM and EGO at 530 CFM move wide volumes of air, while the EMSON Bullseye throws a narrow jet. Volume clears lawns; jets clear decks and crevices. Match the style to the surface. A narrow jet is also handy for blowing out a dryer vent exterior or clearing a grill area, which a wide fan nozzle simply scatters."
+  },
+  {
+   "criterion": "Turbo and runtime",
+   "explanation": "A turbo button on the EGO gives a short boost but drains the pack fast. Quoted runtimes are measured at low speed. Plan on a mid setting for realistic work time. Remember that boost mode is loud, so check local noise rules and neighbors before you rely on it early on a weekend morning."
+  },
+  {
+   "criterion": "Service and parts",
+   "explanation": "EGO and Greenworks have broad dealer and parts networks, and CRAFTSMAN packs are common in big-box stores. A no-name kit may not be supported in two years. Think about year three, not just day one. Registering the product and keeping the receipt matters here, since the warranty on a platform battery is often the first thing you need."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Voltage (V)",
+   "meaning": "The battery platform voltage. Higher voltage systems hold power better as the pack drains. It also affects how heavy the pack feels on the handle during long sessions.",
+   "watchFor": "EGO 56V versus CRAFTSMAN 20V changes both power and tool compatibility."
+  },
+  {
+   "spec": "CFM",
+   "meaning": "Claimed air volume. More volume moves larger piles. Check whether the listing states peak or sustained figures before comparing.",
+   "watchFor": "The Greenworks claims 550 CFM and the EGO 530; the YOOVL claims 650 from a lower voltage class."
+  },
+  {
+   "spec": "MPH",
+   "meaning": "Air speed for loosening debris. Cheaper tools in this class often hide the lack of any of these figures.",
+   "watchFor": "The CRAFTSMAN states 110 MPH, a modest figure compared with turbo jet styles."
+  },
+  {
+   "spec": "Brushless",
+   "meaning": "Motor without carbon brushes, giving longer life and efficiency. A bare-tool listing hides this entirely, so confirm what ships.",
+   "watchFor": "Present on the EGO and Greenworks, absent on cheaper kits."
+  },
+  {
+   "spec": "Ah",
+   "meaning": "Battery capacity. Larger means longer run time. Always compare total energy, not just the amp hour number.",
+   "watchFor": "The Greenworks 4.0Ah at 40V stores more energy than 4.0Ah at 20V."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Platform strength",
+   "description": "We scored the voltage class and the range of tools sharing the pack. The EGO 56V and Greenworks 40V led. Single-purpose kits lost points. This is the single biggest driver of how long a blower stays useful after the first season."
+  },
+  {
+   "title": "Motor design",
+   "description": "We credited brushless designs for efficiency and wear. The EGO and Greenworks earned top marks. Brushed kits scored lower. A brushless label alone was not enough; the pack behind it had to support meaningful run time."
+  },
+  {
+   "title": "What is in the box",
+   "description": "We checked whether a battery and charger ship with the tool. The YOOVL's two 5.2Ah packs and the Greenworks' 4.0Ah pack made complete kits. Bare-tool listings were not compared directly with complete kits."
+  },
+  {
+   "title": "Airflow realism",
+   "description": "We compared claims against voltage class. The 650 CFM claim on a 20V-class tool was treated cautiously. Where a claim looked inflated for its voltage class, we ranked on the more conservative reading."
+  },
+  {
+   "title": "Ownership",
+   "description": "We looked at parts, service reach and battery availability. Owner feedback patterns favored established platforms. Dealer reach and available replacement packs counted for as much as the airflow figure."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Yard",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large lawn with a mower on the same pack",
+      "EGO Power+ LB5302 Cordless Blower 530 CFM",
+      "56V platform."
+     ],
+     [
+      "Half acre, one pack",
+      "Greenworks 40V Brushless Blower 550 CFM 4.0Ah",
+      "Strong airflow."
+     ],
+     [
+      "Patio and decks",
+      "EMSON Bullseye Cordless Turbo Jet Blower 20V",
+      "Narrow jet."
+     ],
+     [
+      "Already own V20 tools",
+      "CRAFTSMAN V20 RP Cordless Blower 110 MPH",
+      "Shares packs."
+     ],
+     [
+      "Swap-and-go, no platform",
+      "YOOVL 650 CFM Cordless Blower 2 x 5.2Ah",
+      "Two packs."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower",
+      "YOOVL 650 CFM Cordless Blower 2 x 5.2Ah",
+      "Most capacity for the cost."
+     ],
+     [
+      "Low-mid",
+      "EMSON Bullseye Cordless Turbo Jet Blower 20V",
+      "Compact second blower."
+     ],
+     [
+      "Mid",
+      "CRAFTSMAN V20 RP Cordless Blower 110 MPH",
+      "Common platform."
+     ],
+     [
+      "Upper-mid",
+      "Greenworks 40V Brushless Blower 550 CFM 4.0Ah",
+      "Brushless with battery."
+     ],
+     [
+      "Top",
+      "EGO Power+ LB5302 Cordless Blower 530 CFM",
+      "Premium platform."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Platform vs Kit",
+   "cards": [
+    {
+     "label": "Platform tool",
+     "text": "The EGO, Greenworks and CRAFTSMAN share packs with other tools, easing cost and support over years."
+    },
+    {
+     "label": "Standalone kit",
+     "text": "The YOOVL and EMSON give capacity or a narrow jet without tying you to a family, but support is thinner."
+    }
+   ],
+   "note": "Choose a platform if you will add tools; choose a standalone kit for a one-off need."
+  },
+  {
+   "subheading": "Air Style",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Wide volume",
+      "Greenworks 40V Brushless Blower 550 CFM 4.0Ah",
+      "550 CFM."
+     ],
+     [
+      "Balanced and boost",
+      "EGO Power+ LB5302 Cordless Blower 530 CFM",
+      "Turbo mode."
+     ],
+     [
+      "Tight spaces",
+      "EMSON Bullseye Cordless Turbo Jet Blower 20V",
+      "Narrow jet."
+     ],
+     [
+      "Light duty",
+      "CRAFTSMAN V20 RP Cordless Blower 110 MPH",
+      "Modest speed."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Large Lawns Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A higher-voltage brushless platform and either a big pack or a spare. Wet leaves slow every blower, so work in passes."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The EGO LB5302 and Greenworks 40V are the best fits, and the YOOVL is the budget alternative with two packs."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a backpack or commercial-class tool for an acre or more. Above this band you also get larger packs and higher claimed airflow."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small yard. A 20V kit like the YOOVL covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Charge packs indoors",
+   "interval": "After each use",
+   "why": "Cold or hot garages shorten pack life. Charge in a moderate space. Keep it away from direct sun on the dashboard of a truck or a hot shed roof, which is where many packs quietly die."
+  },
+  {
+   "task": "Clear the intake",
+   "interval": "Each use",
+   "why": "Debris starves the fan and raises motor temperature. Compressed air or a soft brush works better than a wet cloth."
+  },
+  {
+   "task": "Store at partial charge",
+   "interval": "Over winter",
+   "why": "Lithium cells age faster when stored full or empty."
+  },
+  {
+   "task": "Inspect nozzle and tube",
+   "interval": "Monthly in use",
+   "why": "A loose nozzle leaks air and wastes power."
+  },
+  {
+   "task": "Wipe vents and housing",
+   "interval": "Each season",
+   "why": "Grass dust blocks cooling slots and heats the motor."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is 56V really better than 20V?",
+   "a": "For sustained power, yes. Higher voltage lets the motor run at lower current, so it stays cooler and holds output. The EGO's platform also supports more tools. It also keeps the pack cooler on long sessions, which helps lifespan."
+  },
+  {
+   "q": "Do I need a brushless motor?",
+   "a": "At this price it is a reasonable expectation. Brushless motors run cooler and last longer, which matters on a tool you use every autumn. It simply measures whether the motor is built for long-term use rather than just a first season."
+  },
+  {
+   "q": "Can the EMSON replace a regular blower?",
+   "a": "No. Its narrow jet is for debris and dust. For leaf piles you want the volume of the EGO or Greenworks. Think of it as a second tool, not a replacement."
+  },
+  {
+   "q": "How many batteries do I need?",
+   "a": "One for small lots, two for half an acre or more. The YOOVL ships with two, the Greenworks with one. Spare packs are cheaper to buy during seasonal sales than in a rush in mid autumn."
+  },
+  {
+   "q": "Will batteries last?",
+   "a": "Expect gradual fade over several seasons. Platform packs are easier to replace years later."
+  },
+  {
+   "q": "What does the $200 cap mean?",
+   "a": "Prices move, and the $200 cap reflects listing prices when this guide was updated. Check the current figure before buying."
+  }
+ ],
+ "relatedGuides": []
+}

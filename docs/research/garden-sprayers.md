@@ -1,0 +1,17 @@
+# Garden sprayers research notes
+- Manual compression sprayers build air pressure with the pump handle; spray pressure drops as the tank empties, so you re-pump during a job.
+- Battery sprayers hold steady pressure with a motor-driven diaphragm pump; runtime is set by battery capacity and nozzle choice.
+- Hand-held 1 to 2 gallon units suit spot work; 4 gallon backpack units spread the weight and suit lawns and fence lines.
+- Wheeled compression carts (3 to 4 gallons) save the shoulders but are awkward on uneven ground.
+- Seals decide chemical life: Viton resists herbicides and many pesticides far better than Buna-N or standard rubber; for plain water or fertilizer cheaper seals are fine.
+- Piston pumps tolerate wettable powders and abrasives better than diaphragm pumps; internal pumps keep leaks off your back.
+- Pressure release valve on the tank lets you depressurize before opening; never open a pressurized tank.
+- Translucent tank with graduations lets you check level and mixing.
+- Filters (in tank basket and in shut-off) keep nozzles from clogging; clean them often.
+- Nozzle options: cone, fan, adjustable; fan nozzles give even herbicide coverage, cone suits foliage.
+- Hose-end sprayers dilute concentrate with garden hose flow; ratio is set by the head, not exact.
+- Dedicate one sprayer to herbicide and another to fertilizer or pest control; residue harms plants.
+- After use, triple rinse, release pressure, and leave the lid off to dry; store out of freezing temperatures.
+- Wear gloves and eye protection, spray on calm days to limit drift.
+- Wand length: 18 to 24 inches reaches beds without bending; long hose helps.
+- Mixed-use claims: do not use a sprayer that held weed killer for food crops.
