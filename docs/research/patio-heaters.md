@@ -1,0 +1,14 @@
+# Patio heaters research
+- Two families: propane freestanding towers (about 40,000 to 50,000 BTU) and electric infrared (1500W, about 5,100 BTU). Propane suits big, open areas; infrared suits small, covered or windy spots.
+- BTU is raw output; coverage radius is what reaches people. A 40,000+ BTU propane tower warms roughly a 10 to 15 ft circle in calm air. A 1500W infrared unit effectively covers about 100 to 150 sq ft in calm conditions.
+- Wind steals convective heat from propane towers; infrared warms people and objects directly and holds up better in breeze.
+- Propane burns about 1 lb of fuel per hour at 12,000 BTU/hr per lb, so a 40,000 to 50,000 BTU tower burns roughly 2 to 2.5 lb per hour; a 20 lb tank lasts roughly 8 to 10 hours at high.
+- Propane towers need a tank in the base, a stable base (sand or water weight on some), tip-over shutoff and flame-out protection. Leak-test connections with soapy water.
+- Keep gas heaters well clear of overhead cover, awnings, umbrellas and branches; never use under a low roof. Follow the manual for clearances (commonly several feet above the reflector).
+- Gas heaters are for outdoor, ventilated use only. Never indoors, in garages or enclosed porches (carbon monoxide).
+- Electric infrared: check IP rating (IP44 splash resistant, IP55 dust and jets, IP65 strong jets) before leaving outside; mount height and wiring rules matter.
+- Wall or ceiling mounted electric heaters may need hardwiring; use a licensed electrician. Plug-in versions need a weather-rated outlet and cord, never an indoor extension cord.
+- Fan ceramic "patio" or "garage" heaters are indoor-style PTC units; they warm a covered corner but lose heat in open air.
+- Remote controls, timers and multiple power steps matter for electric; ignition style and wheels matter for propane.
+- 1500W is the practical plug-in ceiling on a 15A circuit.
+- Wheels and weight: propane towers are tall (about 7 ft) and weigh 30 to 60 lb without the tank.

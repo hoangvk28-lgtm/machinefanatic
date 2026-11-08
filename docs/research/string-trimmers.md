@@ -1,0 +1,19 @@
+# String trimmers research notes
+- Cordless suits small to mid yards: push-button start, no fuel, little upkeep; gas wins on raw power and thick brush but needs engine care.
+- Corded electric is light and cheap with unlimited runtime but tied to a cord and outlet; reach is limited by the extension.
+- Straight shafts reach under shrubs and fences and suit tall users; curved shafts are lighter and comfortable for shorter users on open lawn. Most cordless units are straight.
+- Cutting swath 10 to 14 in covers more ground per pass; wider heads need more torque.
+- Line diameter: 0.065 in is typical for light residential trimmers; 0.080 to 0.095 in handles tougher weeds. Check the head rating before buying thicker line.
+- Auto-feed heads advance line on demand; bump-feed needs a tap; push-button feed is a middle ground. Auto feed can waste line.
+- Max battery voltage is measured with a fresh pack and no load; real working voltage is lower. Compare volts times amp-hours for energy.
+- 20V light-class packs are 1.5 to 4 Ah; two 2 Ah packs are modest, about 20 to 40 minutes of light trimming.
+- Brushless motors run cooler and last longer; brushed motors are cheaper and common at the budget end.
+- Battery platform lock-in: a bare tool is cheap only if you already own the packs and charger.
+- Convertible trim-and-edge heads pivot or wheel for edging along walks; edging uses the line vertically and wears line quickly.
+- Weight matters over 30 minutes: 3.5 to 6.5 lb budget units fatigue less than heavy gas units.
+- Cold or old lithium packs lose capacity; store packs indoors at partial charge.
+- Feed line ahead of the cutter blade; replace worn line before it shortens below the swath.
+- Wear eye protection and long pants; trimmers throw stones.
+- Don't wrap the head with wire or rope-like weeds; clear the head, remove the battery or unplug first.
+- Rated RPM (8,000 to 10,500) is no-load; torque under load decides performance on thick grass.
+- Line spools and replacement heads are not trimmers; make sure listings are complete machines.

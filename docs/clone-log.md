@@ -204,3 +204,12 @@ Notes: words 2,704 to 3,391 (selfcheck band 2,700-3,400 blocks the 3,300+ target
 | best-lawn-aerator-under-300 | only manual spike/shoe aerators under cap, no powered machine |
 | best-lawn-aerator-under-500 | only manual spike/shoe aerators under cap, no powered machine |
 | best-pole-saws-under-75 | only 2 powered pole saws under cap |
+| best-handheld-steam-cleaners-under-50 | only 3 underCap machines |
+| best-tent-heaters-under-30 | only 3 underCap machines |
+
+## Round 9 (2026-11-08): 51 budget guides
+| best-snow-blowers-under-100 | fewer than 4 underCap machines |
+| best-string-trimmers-under-50 | fewer than 4 underCap machines |
+| best-handheld-steam-cleaner-under-50 | fewer than 4 underCap machines |
+| best-handheld-steam-cleaner-under-200 | fewer than 4 underCap machines |
+| best-steam-mops-under-75 | fewer than 4 underCap machines |
