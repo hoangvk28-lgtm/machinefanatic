@@ -1,0 +1,15 @@
+# Microwaves research
+- Wattage sweet spot is about 1000 to 1250W; 700W models are slow and uneven for full meals.
+- Cubic feet is a weaker guide than turntable diameter; about 12.4 inches fits a standard dinner plate.
+- Small microwaves run about 0.5 to 0.9 cu ft; midsize 1.1 to 1.7; large 1.7 to 2.2.
+- Compact units suit single plates and small bowls and give up capacity for footprint.
+- Inverter models deliver continuous power instead of on/off pulses, better for defrosting and gentle reheating.
+- Measure space including ventilation clearance before buying.
+- Do not run empty; use microwave-safe containers; metal and foil cause arcing.
+- Stir and rest food so heat evens out; cold spots are normal.
+- Sensor cooking adjusts time by humidity; presets save guesswork but are not essential.
+- Mechanical dials last long with little to fail; digital panels add presets.
+- Child lock helps in homes with kids.
+- Clean spatter promptly to prevent odors and baked-on residue.
+- Typical warranty is one year; the magnetron and door latch are common failures.
+- Low wattage means longer cooking; adjust package times if wattage differs.

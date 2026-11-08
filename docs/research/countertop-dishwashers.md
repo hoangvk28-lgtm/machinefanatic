@@ -1,0 +1,15 @@
+# Countertop dishwashers research
+- Water source: tank models (about 5 to 7 L) fill by hand and need no plumbing; hookup models thread onto the faucet aerator and drain to the sink. Many units support both.
+- Sprayer-style or pull-out faucets can make the hookup awkward; check the adapter.
+- Capacity: most hold 2 to 6 place settings; the real number is lower than the marketing. Large pots and pans often do not fit.
+- Water use is roughly 2 to 3 gallons per load, far below handwashing.
+- Drying: passive drying relies on residual heat and a vented door and is weak on plastics; hot-air drying cycles are better.
+- Noise: around 40 dB is typical for quiet-rated units.
+- Programs: normal, eco, rapid, glass, fruit, baby care and hygiene (high temperature) cycles; delay start on some.
+- Units give off heat and steam when finishing; leave ventilation clearance.
+- Manage expectations: surprisingly effective for their size, but not equal to a full-size dishwasher; pre-scrape and load carefully.
+- Use dishwasher detergent only, never hand soap (suds overflow); follow the manual on tablets vs powder.
+- Water softener or salt options appear on a few models for hard water.
+- Clean the filter regularly; clogged filters are the usual cause of poor results.
+- Heat: hygiene cycles heat water to about 158 F in some models.
+- Footprint is still sizable (about 17 by 17 by 18 inches); measure counter and cabinet clearance.

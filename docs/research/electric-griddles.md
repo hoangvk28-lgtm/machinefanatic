@@ -1,0 +1,15 @@
+# Electric griddles research
+- Typical home griddles run about 1500W; 1600W to 2000W recovers heat faster after loading cold food, but wattage is not standardized against surface area.
+- Surface size: a 10x20 inch plate holds roughly six pancakes or ten eggs; crowding drops the plate temperature.
+- Ceramic nonstick cleans easily with little oil but loses release if run above medium heat or sprayed with aerosol oils.
+- Cast iron holds heat and sears but is heavy and needs seasoning.
+- Aluminum plates heat fast but can warp under repeated high heat.
+- Temperature dial with a usable range (about 200 to 400F) matters; running at maximum constantly shortens coating life.
+- Removable or immersible temperature probes and plates make cleaning far easier; check dishwasher guidance.
+- Grease channels and drip trays reduce mess; tilt-and-drain models help with bacon.
+- Cool-touch bases and removable handles help storage and safety.
+- Very long 35 inch strip griddles are narrow (about 9 inches deep), good for hosting but awkward for big pans.
+- Dual-zone controls let you cook eggs and meat at different temperatures.
+- Do not use metal utensils on nonstick; wash by hand when in doubt.
+- Griddles draw heavy power; use a wall outlet, not an extension cord.
+- Warming trays or keep-warm settings help serve pancakes hot.
