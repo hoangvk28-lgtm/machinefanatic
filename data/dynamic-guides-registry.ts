@@ -670,6 +670,17 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-240v-solar-generators": () => import("./guides/best-240v-solar-generators"),
   "best-100-watt-rv-solar-panel": () => import("./guides/best-100-watt-rv-solar-panel"),
   "best-200-watt-rv-solar-panel": () => import("./guides/best-200-watt-rv-solar-panel"),
+  "best-15-amp-generator-transfer-switch": () => import("./guides/best-15-amp-generator-transfer-switch"),
+  "best-20-amp-generator-transfer-switch": () => import("./guides/best-20-amp-generator-transfer-switch"),
+  "best-220v-generator-transfer-switch": () => import("./guides/best-220v-generator-transfer-switch"),
+  "best-240-volt-generator-transfer-switch": () => import("./guides/best-240-volt-generator-transfer-switch"),
+  "best-22kw-generac-generator-transfer-switch-models-costs-and-buyer-notes": () => import("./guides/best-22kw-generac-generator-transfer-switch-models-costs-and-buyer-notes"),
+  "best-200-amp-generator-transfer-switch": () => import("./guides/best-200-amp-generator-transfer-switch"),
+  "best-2000-watt-rv-generator": () => import("./guides/best-2000-watt-rv-generator"),
+  "best-2500-watt-rv-generator": () => import("./guides/best-2500-watt-rv-generator"),
+  "best-1000-watt-rv-solar-panel-kit": () => import("./guides/best-1000-watt-rv-solar-panel-kit"),
+  "best-100w-foldable-solar-panels": () => import("./guides/best-100w-foldable-solar-panels"),
+  "best-120w-foldable-solar-panels": () => import("./guides/best-120w-foldable-solar-panels"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);

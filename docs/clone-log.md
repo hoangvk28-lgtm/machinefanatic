@@ -253,3 +253,7 @@ The 44 inprogress budget topics from round 1, written by 2 Sonnet agents (ptb-re
 Done: RV inverters 1000/1500/2000/2500W, camping inverters 1500W/2000W, transfer switches 120V/125A, inverter generators 2000/2200/2500W, solar generators 1000W/2000W/240V, RV solar panels 100W/200W.
 Skipped: best-220v-solar-generators (only 1 real 220V solar generator), best-160w-foldable-solar-panels (3 models), best-240w-foldable-solar-panels (2 models), car inverters 12V/150W/200W (0-2 items), best-150-amp-generator-transfer-switch, best-200-amp-transfer-switch-for-2010-generac (prefilter).
 Deferred to todo: transfer switches 15A/20A/220V/240V, Generac 22kW, RV generators 2000/2500W, 1000W RV solar kit, foldable 100/120/200W.
+
+## Round 14 (2026-11-09): shop-garage, 11 guides
+Done: transfer switches 15A/20A/220V/240V/200A, Generac 22kW transfer switch, RV generators 2000W/2500W, 1000W RV solar kit, foldable solar 100W/120W. 2 Sonnet writers, research reused from docs/research/*.md, no web search. No skips.
+Notes: best-200-amp-generator-transfer-switch has 4 products (only 4 distinct 200A machines); best-100w-foldable-solar-panels has 5. The 22kW guide mixes Generac 22kW packages, Generac ATS units and one 60A manual switch. The 220V guide flags DIN-rail dual-power switches as not clearly listed for US homes.

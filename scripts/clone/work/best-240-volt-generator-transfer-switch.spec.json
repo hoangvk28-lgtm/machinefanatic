@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-240-volt-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "240 volt generator transfer switch",
+ "guideTitle": "Best 240 Volt Generator Transfer Switches (2026)",
+ "metaTitle": "Best 240 Volt Generator Transfer Switches",
+ "metaDescription": "Six 240 volt generator transfer switches compared by circuit count, amp rating and manual or automatic operation, with notes on wiring and who should skip DIY.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg",
+ "expertTake": "The Nature's Generator 50 amp 12-circuit panel is the best choice for most portable generator owners because it carries both legs of a split-phase house through a dozen selected circuits. The 30 amp 12-circuit version is the value pick if your generator tops out near 7,000 watts. Anyone who wants outages handled without going outside should skip manual panels and budget for a standby generator with its own automatic switch.",
+ "introParagraphs": [
+  "A 240 volt transfer switch is the piece of gear that lets a portable generator feed a real house, not just a single extension cord. It handles both hot legs of a split-phase panel so that well pumps, dryers, ranges and heat pumps can run, alongside ordinary 120 volt lighting and outlets.",
+  "The choices split along a few axes: manual panel with selected circuits or service-level double-throw, and manual versus automatic operation. Understanding those axes saves more money than any brand comparison, because the right category depends on your generator and your panel, not on the label."
+ ],
+ "products": [
+  {
+   "id": "B0D9LG1QWY",
+   "badge": "Best Overall",
+   "name": "Nature's Generator 50 Amp 12-Circuit Manual Transfer Switch",
+   "price": "",
+   "specs": [
+    "50A / 120-240V",
+    "12 circuits",
+    "UL listed",
+    "Manual"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "12"
+    },
+    {
+     "label": "Type",
+     "value": "Non-automatic power transfer kit"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed per maker"
+    }
+   ],
+   "description": "This is a manual panel that sits next to your main service panel: you move up to a dozen selected circuits onto its breakers, connect a 50 amp generator inlet and throw a lever to shift those circuits from utility to generator. Because it is rated at 50 amps and 120/240 volts, both hot legs are served, which opens the door to 240 volt loads such as a well pump or a baseboard heater.\n\nA 50 amp inlet is good for about 12,000 watts at 240 volts, which is more than most portable generators can supply, so the panel is not the limiting factor. Against the 30 amp version of the same maker, you pay more for the headroom and the ability to use a larger generator later. The twelve circuits give you real selectivity, though you still have to keep a load list so you do not exceed what the engine can deliver.\n\nOwnership is mostly one-time: a licensed electrician rewires the selected circuits, a permit gets filed and the panel gets labeled. After that, the habit that matters is a yearly test with the generator under load and a look at the inlet for moisture.",
+   "bestFor": "A house with a 240 volt well pump or heat pump and a large portable generator.",
+   "pros": [
+    "Serves both legs of a 120/240V panel",
+    "Twelve circuits give selective backup",
+    "50 amp capacity matches larger portable generators",
+    "Manual design is simple to inspect"
+   ],
+   "cons": [
+    "Needs a licensed electrician and permit",
+    "Highest price tier among the manual panels",
+    "Only powers the circuits you move into it"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0D9LG1QWY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg"
+  },
+  {
+   "id": "B0CNQR39RT",
+   "badge": "Best Value",
+   "name": "Nature's Generator 30 Amp 12-Circuit Home Backup Panel",
+   "price": "",
+   "specs": [
+    "30A / 120-240V",
+    "12 circuits",
+    "UL approved",
+    "Pre-wired"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "12"
+    },
+    {
+     "label": "Type",
+     "value": "Non-automatic"
+    },
+    {
+     "label": "Listing",
+     "value": "UL approved per maker"
+    }
+   ],
+   "description": "This is the smaller sibling, a 30 amp panel with twelve circuits, pre-wired by the maker for a home backup role. A 30 amp, 240 volt inlet is the standard match for a 7,200 watt class portable generator, which is a very common size for homeowners.\n\nThe trade against the 50 amp panel is plain: 30 amps caps you near 7,200 watts. That is enough for a refrigerator, a furnace, lights, a sump pump and a window air conditioner, but a bigger central air unit or an electric range will not run alongside them. It ranks among the lower price tiers of the 10 considered, which makes it the sensible choice for a typical mid-size generator.\n\nAs with all manual panels, installation is an electrician job. Label each breaker, keep a list of what is connected and test with the generator before storm season so you know the combined load is safe.",
+   "bestFor": "Homes with a roughly 7,000 watt generator and a short list of must-run circuits.",
+   "pros": [
+    "Twelve circuits at a lower tier than the 50 amp panel",
+    "Pre-wired design simplifies installation",
+    "30 amp inlet matches common portable generators",
+    "Selective circuit control keeps load manageable"
+   ],
+   "cons": [
+    "Capped near 7,200 watts",
+    "Electrician and permit still required",
+    "Cannot support a later jump to a larger generator"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CNQR39RT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51+5WGR3o0L._SL500_.jpg"
+  },
+  {
+   "id": "B0H3ZNTDD1",
+   "badge": "Best 50A Alternative",
+   "name": "POOAMY 50 Amp 10-Circuit Manual Transfer Switch 120/240V",
+   "price": "",
+   "specs": [
+    "50A / 120-240V",
+    "10 circuits",
+    "12,500W class",
+    "NEMA 3R"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R"
+    },
+    {
+     "label": "Capacity",
+     "value": "12,500 W class"
+    }
+   ],
+   "description": "The POOAMY is a ten circuit, 50 amp manual transfer switch in a NEMA 3R case, which means it is designed for outdoor wall mounting. It lists a 12,500 watt class capacity, consistent with 50 amps at 240 volts.\n\nIt gives up two circuits compared with the Nature's Generator 12-circuit panel, and sits slightly lower in price. The NEMA 3R case is the reason to choose it if you want the panel on the exterior of a garage rather than next to the indoor service panel.\n\nOutdoor panels demand more upkeep: inspect the gasket, check for insect nests and confirm the cable entries are sealed. A heavy-duty safety switch like this lasts for years if it is kept dry. Mount it at a comfortable working height so the handle can be thrown firmly, because a half-thrown lever on a manual switch causes arcing. The brand is less established than the Nature's Generator panels, so keep the receipt, photograph the nameplate and confirm the inspector will accept the listing before buying. If you like the outdoor case but want twelve circuits, ask the installer whether a weatherproof enclosure can be added around an indoor panel instead.",
+   "bestFor": "Outdoor mounting where a weatherproof case matters.",
+   "pros": [
+    "NEMA 3R enclosure supports outdoor mounting",
+    "50 amp, 240 volt capacity",
+    "Ten circuits is enough for most homes",
+    "Priced below the 12-circuit panel"
+   ],
+   "cons": [
+    "Two fewer circuits than the top pick",
+    "Brand support and listing marks need checking",
+    "Needs a licensed install"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0H3ZNTDD1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GCvaLV0mL._SL500_.jpg"
+  },
+  {
+   "id": "B0DQNHC64W",
+   "badge": "Best Service-Level Value",
+   "name": "100 Amp Manual Double-Throw Transfer Switch 120/240V",
+   "price": "",
+   "specs": [
+    "100A / 120-240V",
+    "Double-throw",
+    "24,000W class",
+    "Whole house"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "100 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240 volt"
+    },
+    {
+     "label": "Type",
+     "value": "Manual double-throw"
+    },
+    {
+     "label": "Capacity",
+     "value": "24,000 W class"
+    },
+    {
+     "label": "Use",
+     "value": "Service-level backup"
+    }
+   ],
+   "description": "This unit is a different species from the panels above: a service-level double-throw switch that moves the entire house, not a selected group of circuits. At 100 amps and 240 volts it has a 24,000 watt ceiling, intended for a house with a 100 amp service.\n\nIt is the lowest price tier of the ten, which is why it appears here as a value choice. But there is a catch: a whole-house switch invites you to run everything, and a portable generator will not support that. You must still manage the load by hand, switching off big loads before you transfer.\n\nExpect electrician installation at the service entrance and a permit. Annual exercise of the handle keeps the contacts clean, and it needs a labeled load list near the panel. Because every breaker comes over at once, the discipline is to switch off the big 240 volt loads first, throw the lever, start the generator, then bring loads back one at a time. A family member who has never seen that sequence is the most likely cause of a tripped generator, so tape the steps to the wall beside the switch. Compared with the Nature's Generator 30 amp panel it is cheaper but demands much more attention from you in an outage.",
+   "bestFor": "A 100 amp service where you want the whole panel on one switch.",
+   "pros": [
+    "Moves the whole panel with one handle",
+    "Lowest price tier in this lineup",
+    "Double-throw design is mechanical and simple",
+    "240V ceiling far beyond a portable generator's output"
+   ],
+   "cons": [
+    "No circuit selection, so load management is manual",
+    "Wired at the service entrance, an electrician job",
+    "100 amp size does not fit 200 amp services"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQNHC64W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41MSmkFpS3L._SL500_.jpg"
+  },
+  {
+   "id": "B0HDYQZ79L",
+   "badge": "Best Automatic 100A",
+   "name": "100 Amp 3-Pole Automatic Transfer Switch 120/240V",
+   "price": "",
+   "specs": [
+    "100A / 120-240V",
+    "3-pole",
+    "Automatic",
+    "50/60Hz"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "100 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240 volt"
+    },
+    {
+     "label": "Poles",
+     "value": "3"
+    },
+    {
+     "label": "Type",
+     "value": "Automatic transfer"
+    },
+    {
+     "label": "Frequency",
+     "value": "50/60 Hz"
+    }
+   ],
+   "description": "This is a three pole 100 amp automatic transfer switch for 120/240 volt systems at 50 or 60 hertz. It is the second lowest price tier of the ten, which is striking for an ATS.\n\nThe tradeoff is documentation and listing. Automatic switches normally pair with a standby generator that signals the switch; this unit's listing does not make that integration clear, so confirm the control wiring and the generator's start signal before you buy.\n\nIf you want automatic transfer on a budget, plan for professional commissioning and a full test under load, including a simulated outage. Against the 125 amp unit it carries 25 amps less, so it only suits a panel whose main breaker is 100 amps or below. Ask the installer to set the transfer delay so the generator reaches stable voltage and frequency before the house lands on it, because motors dislike a ragged first second. Write the settings on a label inside the door for the next person who services it.",
+   "bestFor": "A technician-installed automatic setup on a 100 amp service.",
+   "pros": [
+    "Automatic transfer on outage",
+    "3-pole design for 120/240V systems",
+    "Second lowest price tier",
+    "Handles 50 and 60 Hz"
+   ],
+   "cons": [
+    "Listing and control documentation are thin",
+    "Needs a generator that can auto start",
+    "Must be commissioned by a professional"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HDYQZ79L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31PKV93XGKL._SL500_.jpg"
+  },
+  {
+   "id": "B0G8VPDRMP",
+   "badge": "Best Automatic 125A",
+   "name": "125 Amp 3-Pole Automatic Transfer Switch 120/240V",
+   "price": "",
+   "specs": [
+    "125A / 120-240V",
+    "3-pole",
+    "Automatic",
+    "Dual power"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "125 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240 volt"
+    },
+    {
+     "label": "Poles",
+     "value": "3"
+    },
+    {
+     "label": "Type",
+     "value": "Automatic transfer"
+    },
+    {
+     "label": "Use",
+     "value": "Generator backup"
+    }
+   ],
+   "description": "A step above the 100 amp ATS, this 125 amp three pole unit is the third lowest price tier of ten. It offers a bit more capacity and is marketed as a 120/240 volt generator transfer switch with automatic operation.\n\nThe extra 25 amps matter for a house with a 125 amp sub-feed or an electric range and dryer that you want to run. Still, the same caveats apply: ask whether the unit has a controller, how it signals the generator and whether an inspector will accept the listing.\n\nBecause the transfer is automatic, a poorly set threshold can cause nuisance transfers. Plan a few months of observation after commissioning. This size makes sense when a range, a dryer and a heat pump all sit behind the same panel and the generator is a standby unit able to carry them. With a 7,000 watt portable set it is wasted money, because the switch ceiling of 30,000 watts is far above what the engine can deliver. Look at the Nature's Generator 30 amp panel in that case, which costs less and forces the sensible discipline of choosing circuits.",
+   "bestFor": "Larger 240 volt loads on an auto-start generator.",
+   "pros": [
+    "125 amp rating for bigger service panels",
+    "Automatic transfer",
+    "Three pole 120/240V design",
+    "Low price tier for an ATS"
+   ],
+   "cons": [
+    "Listing details are limited",
+    "Needs controller and generator integration",
+    "Professional installation required"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0G8VPDRMP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31RG-48db7L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Panel switch vs service switch",
+   "explanation": "A selected-circuit panel such as the Nature's Generator 50 amp moves only the circuits you choose, which keeps the load within what a portable generator can carry. A service-level switch such as the 100 amp double-throw moves the whole panel and leaves load management to you. Choose the panel unless you have a standby generator."
+  },
+  {
+   "criterion": "Match amps to the generator inlet",
+   "explanation": "A 30 amp, 240 volt inlet carries about 7,200 watts and a 50 amp inlet about 12,000 watts. The 30 amp panel in this lineup fits the first, the 50 amp panels the second. Buy the generator first and size the switch to its receptacle, not the other way around."
+  },
+  {
+   "criterion": "Circuit count for your needs",
+   "explanation": "Ten to twelve circuits cover a refrigerator, furnace, sump pump, lights and a few outlets in most homes. The Nature's Generator panels give twelve while the POOAMY gives ten. List what you must run and count the breakers before choosing."
+  },
+  {
+   "criterion": "Listing and inspection",
+   "explanation": "UL or ETL marks matter at the permit stage. Nature's Generator claims UL listing, while the generic ATS units here give little detail. Ask the building department before you buy a unit with unclear marks."
+  },
+  {
+   "criterion": "Neutral and ground handling",
+   "explanation": "A portable generator with a floating neutral behaves differently from one that is bonded. A wrong choice can leave the system ungrounded or double-bonded. Let the electrician decide based on the generator manual and the panel."
+  },
+  {
+   "criterion": "Outdoor versus indoor mounting",
+   "explanation": "Indoor panels like the Nature's Generator models sit near the service panel and avoid weather. The POOAMY has NEMA 3R, so it can mount outdoors. Choose based on where the wiring will be shortest."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "120/240 volt",
+   "meaning": "Split-phase supply with two 120 volt legs and a combined 240 volt. Needed for wells, dryers and ranges.",
+   "watchFor": "All six picks list 120/240V; confirm your panel is split-phase before buying."
+  },
+  {
+   "spec": "30 amp / 50 amp inlet",
+   "meaning": "The generator side receptacle current. At 240 volts it equals roughly 7,200 and 12,000 watts.",
+   "watchFor": "The 30 amp Nature's Generator panel and the 50 amp POOAMY target different generator sizes."
+  },
+  {
+   "spec": "Circuit count",
+   "meaning": "How many household breakers the panel can move to the generator. More circuits means finer control.",
+   "watchFor": "Twelve on the Nature's Generator panels versus ten on the POOAMY."
+  },
+  {
+   "spec": "3-pole ATS",
+   "meaning": "Three switched conductors, usually two hots and neutral. It lets the switch break the neutral on a split-phase system.",
+   "watchFor": "The 100 amp and 125 amp automatic units use three poles; verify what your installer needs."
+  },
+  {
+   "spec": "Double-throw",
+   "meaning": "A single handle connects the utility or the generator, never both.",
+   "watchFor": "The 100 amp service switch uses this design."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Voltage fit",
+   "description": "Every pick lists 120/240 volt operation. We excluded items that listed only 120 volt or ambiguous voltage. This keeps the guide aligned with the keyword."
+  },
+  {
+   "title": "Circuit selectivity",
+   "description": "We compared panel units with twelve and ten circuits against service-level switches with none. Selectivity matters for portable generators, so the Nature's Generator panels score highest here."
+  },
+  {
+   "title": "Listing and documentation",
+   "description": "We read the maker text for UL or ETL marks and wiring guidance. Panels from established makers scored higher than generic automatic units. This is a read of the listing, not a lab check."
+  },
+  {
+   "title": "Capacity ceiling",
+   "description": "We compared 30 amp, 50 amp, 100 amp and 125 amp ratings with generator sizes. A 30 amp panel at 7,200 watts and a 50 amp panel at 12,000 watts cover most portable sets."
+  },
+  {
+   "title": "Price tier",
+   "description": "We compared relative price tiers from the lowest 100 amp double-throw to the highest 50 amp panel. Cheaper tiers often omit selectivity or documentation."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Generator Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Around 7,000 watt generator",
+      "Nature's Generator 30 Amp 12-Circuit",
+      "Inlet matches 7,200 W class"
+     ],
+     [
+      "Around 10,000 to 12,000 watt generator",
+      "Nature's Generator 50 Amp 12-Circuit",
+      "Room for larger sets"
+     ],
+     [
+      "Large outdoor install",
+      "POOAMY 50 Amp 10-Circuit",
+      "NEMA 3R case"
+     ],
+     [
+      "Standby generator with auto start",
+      "125 Amp 3-Pole ATS",
+      "Larger automatic capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "100 Amp Double-Throw",
+      "Whole panel on one switch"
+     ],
+     [
+      "Low",
+      "100 Amp 3-Pole ATS",
+      "Automatic at a low tier"
+     ],
+     [
+      "Middle",
+      "Nature's Generator 30 Amp",
+      "Twelve circuits for a mid-size generator"
+     ],
+     [
+      "Upper",
+      "Nature's Generator 50 Amp",
+      "Most capacity and circuits"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Selected-Circuit Panel vs Whole-House Switch",
+   "cards": [
+    {
+     "label": "Selected-circuit panel",
+     "text": "The Nature's Generator panels and the POOAMY move a chosen set of circuits. You decide what runs, so a portable generator is never overloaded by the full house."
+    },
+    {
+     "label": "Whole-house switch",
+     "text": "The 100 amp double-throw moves the entire panel. It is simpler to wire but demands that you turn off large loads manually before transfer."
+    }
+   ],
+   "note": "Pick a panel if you rely on a portable generator; pick a whole-house switch only with a large generator or standby set."
+  },
+  {
+   "subheading": "Manual vs Automatic",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Simple and inspectable",
+      "Nature's Generator 50 Amp",
+      "Manual lever"
+     ],
+     [
+      "Budget automatic",
+      "100 Amp 3-Pole ATS",
+      "Lowest cost ATS here"
+     ],
+     [
+      "Bigger automatic",
+      "125 Amp 3-Pole ATS",
+      "Extra 25 amps"
+     ],
+     [
+      "Outdoor manual",
+      "POOAMY 50 Amp",
+      "3R enclosure"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Well Pump or Heat Pump Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A 240 volt panel that carries both legs, with enough generator capacity for the starting surge, which can be 2 to 3 times running load for a pump motor."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Nature's Generator 50 amp panel is the best fit, with the 30 amp version suitable when the pump is small and the generator is near 7,000 watts."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You own a generator over 7,500 watts or want an outdoor 3R case, in which case the 50 amp Nature's Generator or POOAMY is worth it."
+    },
+    {
+     "label": "Save if",
+     "text": "Your generator is around 7,000 watts and the must-run list is short; the 30 amp panel does the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test under load",
+   "interval": "Twice a year",
+   "why": "Run the generator with the real circuits transferred. It shows whether the panel and inlet work together."
+  },
+  {
+   "task": "Exercise the main lever",
+   "interval": "Yearly",
+   "why": "A lever that never moves can corrode. Cycling it keeps the contacts clean."
+  },
+  {
+   "task": "Check inlet and cord",
+   "interval": "Before winter",
+   "why": "A 30 or 50 amp cord is heavy and can crack. Replace damaged cords."
+  },
+  {
+   "task": "Retighten lugs",
+   "interval": "Yearly",
+   "why": "Loose lugs overheat. Do this with the main breaker off."
+  },
+  {
+   "task": "Review the load list",
+   "interval": "After any change",
+   "why": "A new appliance can push a panel past what the generator carries. Update the list on the cover."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a 240 volt switch for a portable generator?",
+   "a": "If you want to run a well pump, dryer or heat pump, yes. A 120 volt-only switch can back up lights and fridges but not 240 volt loads."
+  },
+  {
+   "q": "Is a 30 amp panel enough?",
+   "a": "For a generator near 7,000 watts, yes. It covers refrigerator, furnace, sump and lights. Larger loads will not fit."
+  },
+  {
+   "q": "Can I install a panel myself?",
+   "a": "Rules vary, but most places require a licensed electrician and a permit. Wiring it wrong can backfeed utility lines."
+  },
+  {
+   "q": "What is the difference between a panel and an interlock?",
+   "a": "A transfer panel moves selected circuits. An interlock kit mechanically locks the main breaker so any breaker can feed from the generator. Both need a listed kit and a permit."
+  },
+  {
+   "q": "Are automatic switches worth it?",
+   "a": "Only with a standby generator that starts itself. With a portable one you still have to start the engine."
+  },
+  {
+   "q": "Does a larger switch increase my generator output?",
+   "a": "No. The generator decides output. The switch only needs to be rated for it."
+  }
+ ],
+ "relatedGuides": []
+}
