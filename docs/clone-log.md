@@ -238,3 +238,6 @@ New topics added to source-index (power-tools had none left). Drills 12, saws 15
 
 ## Power tools budget round 1 (2026-11-09): 40 under-N guides
 90 budget topics added; prefilter skipped 6 (right-angle drills under 100/150, multi-tools under 50, rotary tools under 50/100, 20v batteries under 50). 40 written, 44 left inprogress for next round. selfcheck word range raised to 3,300 to 3,800 to match CLAUDE.md.
+
+## Power tools budget round 2 (2026-11-09): 44 under-N guides
+The 44 inprogress budget topics from round 1, written by 2 Sonnet agents (ptb-rest-a/b, 22 each). No skips; extra search.mjs queries were needed for 11 slugs (thin or accessory-heavy data). Word counts 3,003 to 3,740. Coordinator fixes: removed a stale DEWALT DCD1007B mention (not in lineup) from hammer-drills-under-200, rewrote 3 sentences duplicated across guides. Known gaps: writers skipped web search (reused docs/research/*.md), and the agent A writer did not read the parent guides.
