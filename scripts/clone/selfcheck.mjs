@@ -32,6 +32,6 @@ for (const p of s.products || []) {
 }
 const np = (s.products || []).length; if (np < 4 || np > 7) errs.push(`${np} products (want 5-7)`);
 for (const [k, n] of [["buyingCriteria", 6], ["specDecoder", 5], ["howWeEvaluated", 5], ["howToChoose", 6], ["faq", 6]]) if ((s[k] || []).length !== n) errs.push(`${k} needs ${n} entries`);
-const wc = words.length; if (wc < 2700 || wc > 3400) errs.push(`word count ${wc} (want 2,700 to 3,400; aim for about 3,000)`);
+const wc = words.length; if (wc < 3300 || wc > 3800) errs.push(`word count ${wc} (want 3,300 to 3,800)`);
 console.log(errs.length ? `FIX ${slug} (${wc} words)\n  - ${errs.join("\n  - ")}` : `ok  ${slug} (${wc} words)`);
 process.exit(errs.length ? 1 : 0);

@@ -225,3 +225,16 @@ Food processors/choppers 7, immersion blenders 3, hand mixers 3, coffee makers 6
 
 ## Power tools round 1 (2026-11-09): 50 new power-tool guides
 New topics added to source-index (power-tools had none left). Drills 12, saws 15, sanders 6, grinders 2, routers 2, planer, joiner, nailer, heat gun, rotary tool, polisher, batteries/chargers 3, combo kit, multi-tool, track/band/scroll saws. No skips.
+
+### Prefilter skips (2026-11-09)
+| Skipped slug | Reason |
+|---|---|
+| best-right-angle-drills-under-100 | prefilter: only 1 distinct items match price <= 100 after extra searches |
+| best-right-angle-drills-under-150 | prefilter: only 3 distinct items match price <= 150 after extra searches |
+| best-oscillating-multi-tools-under-50 | prefilter: only 2 distinct items match price <= 50 after extra searches |
+| best-rotary-tools-under-50 | prefilter: only 0 distinct items match price <= 50 after extra searches |
+| best-rotary-tools-under-100 | prefilter: only 0 distinct items match price <= 100 after extra searches |
+| best-20v-power-tool-batteries-under-50 | prefilter: only 1 distinct items match 20 v + price <= 50 after extra searches |
+
+## Power tools budget round 1 (2026-11-09): 40 under-N guides
+90 budget topics added; prefilter skipped 6 (right-angle drills under 100/150, multi-tools under 50, rotary tools under 50/100, 20v batteries under 50). 40 written, 44 left inprogress for next round. selfcheck word range raised to 3,300 to 3,800 to match CLAUDE.md.
