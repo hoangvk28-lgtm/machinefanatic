@@ -1,0 +1,21 @@
+# RV and foldable solar panels research notes
+
+- Panel watts are rated at standard test conditions; real output in the field is often 60 to 80 percent of the label.
+- A solar charge controller is needed between panel and battery, even for rigid or folding panels, unless the station has a built-in MPPT.
+- PWM controllers pull the panel down to battery voltage and waste headroom; MPPT harvests roughly 20 to 30 percent more, most noticeable in cold or low light.
+- Vendor advice: avoid PWM above about 150W of panels.
+- Series wiring raises voltage, allows thin wire, and tolerates partial shade better; it needs an MPPT controller sized for the input voltage.
+- Parallel wiring adds current, suits small PWM systems; shade on one panel drags the others, and fusing is needed.
+- Check panel open-circuit voltage (Voc) against the controller or power station input limit, and allow for cold raising Voc.
+- Rigid panels cost less per watt and run cooler; flexible suits curved roofs or weight limits but needs marine-grade adhesive and ages faster with heat trapped behind it.
+- N-type cells (TOPCon) degrade slower and handle heat better than older P-type PERC.
+- More busbars (9BB, 16BB, 18BB) help shade and cracks, but cell type matters more than the busbar count.
+- Foldable panels have connector variety (MC4, DC5521, XT60, Anderson); check adapters match your power station.
+- Foldable panel weight, kickstand, and IP rating matter more than a tiny efficiency gain in daily use.
+- Tilt toward the sun and avoid partial shade; a shadow across one cell row can cut output a lot.
+- Panels with built-in USB ports are convenient but the DC output to a station is the main use.
+- Wire gauge and length: long thin runs lose power; keep runs short or step up gauge.
+- Roof mounts need a sealant like Dicor on penetrations and annual inspection for cracks.
+- Lithium batteries need a controller with a lithium profile; lead-acid profiles undercharge or overcharge them.
+- Clean dust and keep panels shade-free; check mounting hardware and connectors every season.
+- Sizing: daily watt-hours used divided by sun hours (about 4 to 5) times roughly 0.7 for losses.

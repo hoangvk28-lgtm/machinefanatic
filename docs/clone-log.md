@@ -241,3 +241,15 @@ New topics added to source-index (power-tools had none left). Drills 12, saws 15
 
 ## Power tools budget round 2 (2026-11-09): 44 under-N guides
 The 44 inprogress budget topics from round 1, written by 2 Sonnet agents (ptb-rest-a/b, 22 each). No skips; extra search.mjs queries were needed for 11 slugs (thin or accessory-heavy data). Word counts 3,003 to 3,740. Coordinator fixes: removed a stale DEWALT DCD1007B mention (not in lineup) from hammer-drills-under-200, rewrote 3 sentences duplicated across guides. Known gaps: writers skipped web search (reused docs/research/*.md), and the agent A writer did not read the parent guides.
+
+### Prefilter skips (2026-11-09)
+| Skipped slug | Reason |
+|---|---|
+| best-12-volt-to-120-volt-inverter-for-rv | prefilter: only 2 distinct items match brand 12 after extra searches |
+| best-13000-watt-generator-transfer-switch | prefilter: only 0 distinct items match brand 13000 after extra searches |
+| best-150-amp-generator-transfer-switch | prefilter: only 1 distinct items match brand 150 after extra searches |
+
+## Round 13 (2026-11-09): shop-garage, 16 guides
+Done: RV inverters 1000/1500/2000/2500W, camping inverters 1500W/2000W, transfer switches 120V/125A, inverter generators 2000/2200/2500W, solar generators 1000W/2000W/240V, RV solar panels 100W/200W.
+Skipped: best-220v-solar-generators (only 1 real 220V solar generator), best-160w-foldable-solar-panels (3 models), best-240w-foldable-solar-panels (2 models), car inverters 12V/150W/200W (0-2 items), best-150-amp-generator-transfer-switch, best-200-amp-transfer-switch-for-2010-generac (prefilter).
+Deferred to todo: transfer switches 15A/20A/220V/240V, Generac 22kW, RV generators 2000/2500W, 1000W RV solar kit, foldable 100/120/200W.

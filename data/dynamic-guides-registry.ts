@@ -654,6 +654,22 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-electric-hand-planers-under-150": () => import("./guides/best-electric-hand-planers-under-150"),
   "best-heat-guns-under-50": () => import("./guides/best-heat-guns-under-50"),
   "best-cordless-tool-combo-kits-under-500": () => import("./guides/best-cordless-tool-combo-kits-under-500"),
+  "best-1000-watt-rv-inverter": () => import("./guides/best-1000-watt-rv-inverter"),
+  "best-1500-watt-rv-inverter": () => import("./guides/best-1500-watt-rv-inverter"),
+  "best-2000-watt-rv-inverter": () => import("./guides/best-2000-watt-rv-inverter"),
+  "best-2500-watt-rv-inverter": () => import("./guides/best-2500-watt-rv-inverter"),
+  "best-1500w-inverters-for-camping": () => import("./guides/best-1500w-inverters-for-camping"),
+  "best-2000w-inverters-for-camping": () => import("./guides/best-2000w-inverters-for-camping"),
+  "best-120v-generator-transfer-switch": () => import("./guides/best-120v-generator-transfer-switch"),
+  "best-125-amp-generator-transfer-switch": () => import("./guides/best-125-amp-generator-transfer-switch"),
+  "best-2000-watt-inverter-generator": () => import("./guides/best-2000-watt-inverter-generator"),
+  "best-2200-watt-inverter-generator": () => import("./guides/best-2200-watt-inverter-generator"),
+  "best-2500-watt-inverter-generator": () => import("./guides/best-2500-watt-inverter-generator"),
+  "best-1000w-solar-generators": () => import("./guides/best-1000w-solar-generators"),
+  "best-2000w-solar-generators": () => import("./guides/best-2000w-solar-generators"),
+  "best-240v-solar-generators": () => import("./guides/best-240v-solar-generators"),
+  "best-100-watt-rv-solar-panel": () => import("./guides/best-100-watt-rv-solar-panel"),
+  "best-200-watt-rv-solar-panel": () => import("./guides/best-200-watt-rv-solar-panel"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);

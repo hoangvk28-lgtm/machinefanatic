@@ -1,0 +1,628 @@
+{
+ "guideSlug": "best-2500-watt-rv-inverter",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best 2500 watt rv inverter",
+ "guideTitle": "Best 2500 Watt RV Inverters (2026)",
+ "metaTitle": "Best 2500 Watt RV Inverters (2026)",
+ "metaDescription": "Seven 2500W pure sine RV inverters compared on automatic transfer switches, efficiency claims, cooling, outlets and the battery current each one demands.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The EGSCATEE 2500W with built-in transfer switch is the best overall for a coach with a real AC panel, thanks to its fast changeover and hardwired input. The LVYUAN is the value pick for a plug-in setup with a clear LCD. Skip this size on a single small battery, because 2500W drains a modest bank in well under an hour and no inverter changes that. Check the battery and cable plan first, then pick the unit.",
+ "introParagraphs": [
+  "A 2500 watt inverter is the upper end of what most RV owners can power from a 12 volt bank without major changes. It handles a microwave, a coffee maker and a blender in sequence, and it is often sold with a transfer switch so the coach can run on shore power or battery without rewiring. It is also the size at which heat and cable cost start to matter as much as the price of the inverter itself.",
+  "The practical questions are about the surrounding system, not the inverter box: how thick the cable must be, how long the bank can sustain the load, and whether you want the unit to switch circuits automatically. The comparison below keeps those questions in front."
+ ],
+ "products": [
+  {
+   "id": "B0GT4FPNPH",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "EGSCATEE 2500W Pure Sine Inverter with ATS",
+   "amazonUrl": "https://www.amazon.com/dp/B0GT4FPNPH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/513gV95fnnL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2500W continuous",
+    "5000W peak",
+    "Built-in ATS",
+    "12 ms switch"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Peak",
+     "value": "5000W"
+    },
+    {
+     "label": "Transfer switch",
+     "value": "Automatic, about 12 ms"
+    },
+    {
+     "label": "AC input",
+     "value": "Hardwired terminal block"
+    },
+    {
+     "label": "Use",
+     "value": "RV and van"
+    }
+   ],
+   "description": "EGSCATEE integrates an automatic transfer switch that listings describe as changing over in about 12 milliseconds, quick enough that most electronics ride through. A hardwired AC input terminal block takes live, neutral and ground from shore power, and the inverter takes over when that input disappears. It is a design aimed at coaches with a distribution panel.\n\nThe compromise is that the unit is a system component, not a portable gadget. Installing it means wiring the AC side with correct breakers, and it will not do much for someone who just wants to plug in a laptop. Against the TAGEEBLU, which is easier to use, it is more capable but less casual.\n\nOwners should plan around the battery current of 220 to 250 amps at full load. Use very thick cable on short runs, fuse the positive lead near the battery and check that the shore input breaker matches the transfer rating. Ventilate the bay, because the unit sheds heat under load. Its hardwired terminal block also means the neutral and ground arrangement must match your panel, so read the wiring diagram before you cut any wire.",
+   "bestFor": "Coaches with a panel that should flip between shore and battery automatically.",
+   "pros": [
+    "Fast automatic transfer, about 12 ms",
+    "Hardwired AC input terminal block",
+    "Pure sine output at 2500W continuous",
+    "Suits a permanent RV electrical system"
+   ],
+   "cons": [
+    "Needs real AC wiring and breakers",
+    "Not a casual plug-in tool"
+   ]
+  },
+  {
+   "id": "B0DF7BTYKP",
+   "rank": 2,
+   "badge": "Best Efficiency Claim",
+   "name": "OLTEANP 2500W Pure Sine Inverter with Transfer",
+   "amazonUrl": "https://www.amazon.com/dp/B0DF7BTYKP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YnjfEt7yL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2500W continuous",
+    "5000W peak",
+    "Auto transfer",
+    "Up to 91% efficient"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Peak",
+     "value": "5000W"
+    },
+    {
+     "label": "Transfer switch",
+     "value": "Automatic"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Up to 91%"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    }
+   ],
+   "description": "OLTEANP pairs a 2500W pure sine inverter with an automatic switch that selects between external 120V AC and the battery. The listing quotes efficiency up to 91 percent, which is respectable at this size. It is aimed at RV and off-grid owners who want an all-in-one box.\n\nThe weakness is that the efficiency is a best-case number and the surge window is not stated. Compared with the EGSCATEE, it does not publish a changeover time, so you cannot tell how well sensitive gear will ride through the switch.\n\nTreat it as a solid alternative where the EGSCATEE is not available. Check the AC input rating against your shore cord, use heavy DC cable, and verify the transfer behaviour with a lamp or laptop before relying on it. If you are choosing between the two transfer units, the deciding factor is how much weight you put on a published changeover time.",
+   "bestFor": "Owners who want an automatic transfer inverter with a stated efficiency figure.",
+   "pros": [
+    "Automatic transfer between shore and battery",
+    "Efficiency stated up to 91 percent",
+    "Pure sine output at 2500W",
+    "All-in-one box reduces parts"
+   ],
+   "cons": [
+    "Changeover time is not published",
+    "Efficiency figure is a best case"
+   ]
+  },
+  {
+   "id": "B0H5C2C4F9",
+   "rank": 3,
+   "badge": "Best Outlet Count",
+   "name": "TAGEEBLU 2500W Pure Sine Inverter, 4 AC Outlets",
+   "amazonUrl": "https://www.amazon.com/dp/B0H5C2C4F9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51ii4ct1EWL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2500W continuous",
+    "5000W surge",
+    "4 AC outlets",
+    "4 USB ports"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Surge",
+     "value": "5000W"
+    },
+    {
+     "label": "AC outlets",
+     "value": "4"
+    },
+    {
+     "label": "USB ports",
+     "value": "4"
+    },
+    {
+     "label": "Waveform",
+     "value": "Pure sine"
+    }
+   ],
+   "description": "TAGEEBLU focuses on convenience, offering four AC outlets and four USB ports, so a family can charge devices and run several appliances without power strips. It uses pure sine output to suit sensitive devices. The surge is rated at 5000W.\n\nThe cost of that convenience is a bigger box with many outlets that each share the same 2500W limit. It lacks a transfer switch, so it is a battery-only unit. Compared with the EGSCATEE, you get ease of use but no panel integration.\n\nIt fits a camper where the inverter sits in a cabinet near the dinette. Keep cables thick and short, and avoid daisy-chaining high-draw appliances onto one outlet bank. Because every outlet shares one limit, it is wise to label which receptacle feeds the microwave and keep the others for small loads.",
+   "bestFor": "Families who want many outlets and USB ports from one battery-fed inverter.",
+   "pros": [
+    "Four AC outlets for multiple devices",
+    "Four USB ports for charging",
+    "Pure sine output for sensitive gear",
+    "5000W surge allowance"
+   ],
+   "cons": [
+    "No transfer switch",
+    "All outlets share one 2500W limit"
+   ]
+  },
+  {
+   "id": "B0H1BYM7HC",
+   "rank": 4,
+   "badge": "Best Value",
+   "name": "LVYUAN 2500W Pure Sine Inverter, LCD Readout",
+   "amazonUrl": "https://www.amazon.com/dp/B0H1BYM7HC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51JVjz-4kYL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2500W continuous",
+    "5000W surge",
+    "90% efficiency",
+    "LCD error codes"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Surge",
+     "value": "5000W"
+    },
+    {
+     "label": "Efficiency",
+     "value": "About 90%"
+    },
+    {
+     "label": "Display",
+     "value": "LCD with error codes"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    }
+   ],
+   "description": "LVYUAN lists about 90 percent conversion efficiency and a 5000W surge, and its LCD shows voltage, load readings and error codes. That last point is useful when diagnosing a nuisance shutdown. It sits low in the relative price tiers, which is the draw.\n\nBe cautious about the listing claim that it runs air conditioners; at 2500W it can only manage a small unit with a soft starter. The unit has no transfer switch, and there is little published about distortion. Next to the OLTEANP, you save cost but give up automatic switching.\n\nUse it as a simple plug-in inverter and rely on the error codes during setup. Fuse close to the battery, and keep the run short and thick. The error codes are most valuable during the first week, when a marginal battery connection is the likeliest cause of a trip.",
+   "bestFor": "Budget-minded owners who want a clear display and a simple plug-in inverter.",
+   "pros": [
+    "LCD shows load and error codes",
+    "About 90 percent efficiency",
+    "Low relative cost",
+    "Pure sine output"
+   ],
+   "cons": [
+    "No transfer switch",
+    "Little distortion data published"
+   ]
+  },
+  {
+   "id": "B0G7ZGCZN3",
+   "rank": 5,
+   "badge": "Best Component Detail",
+   "name": "WZRELB 2500W Pure Sine Inverter with Remote",
+   "amazonUrl": "https://www.amazon.com/dp/B0G7ZGCZN3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41r6BDh4TGL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2500W continuous",
+    "Copper inductance",
+    "LED display",
+    "Remote"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Magnetics",
+     "value": "True copper inductance"
+    },
+    {
+     "label": "Display",
+     "value": "LED DC voltage"
+    },
+    {
+     "label": "Remote",
+     "value": "Remote controller included"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    }
+   ],
+   "description": "WZRELB talks about its internals, listing quality MOSFETs and true copper inductance in the output stage, which can help with heat and reliability if the claim holds. An LED shows DC voltage in real time and a remote controller is included. It is a straightforward battery-fed inverter.\n\nThe compromise is that the display is limited to voltage, so you cannot see load at a glance. The detail on magnetics is encouraging but unverified, and there is no transfer switch.\n\nIf you buy it, treat the remote as the main control and keep an eye on the voltage readout when loads start. Use short heavy cable and a fuse, and let the unit cool between heavy cycles. Run a simple check by watching the voltage readout as a kettle starts; a drop of more than a volt points to cable or battery trouble.",
+   "bestFor": "Buyers who value the build details and want a remote without extras.",
+   "pros": [
+    "Copper inductance in the output stage",
+    "LED shows DC voltage live",
+    "Remote controller included",
+    "Pure sine output"
+   ],
+   "cons": [
+    "Display shows voltage but not load",
+    "No transfer switch"
+   ]
+  },
+  {
+   "id": "B0H6HM9R6R",
+   "rank": 6,
+   "badge": "Best Claimed Efficiency",
+   "name": "FT feiteeng 2500W Pure Sine Inverter, Type-C",
+   "amazonUrl": "https://www.amazon.com/dp/B0H6HM9R6R?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41kl3DsKfAL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2500W continuous",
+    "95% efficiency",
+    "Type-C port",
+    "Dual AC outlets"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Up to 95%"
+    },
+    {
+     "label": "Outlets",
+     "value": "Dual AC"
+    },
+    {
+     "label": "USB",
+     "value": "Type-C and USB"
+    },
+    {
+     "label": "Protections",
+     "value": "Reverse polarity, short, overload, voltage, heat"
+    }
+   ],
+   "description": "FT feiteeng claims up to 95 percent efficiency, the highest figure in this lineup, along with improved cooling. It adds dual AC outlets, Type-C and USB ports and the usual protections, including reverse polarity, which guards against a miswired battery.\n\nTreat the efficiency claim with care. It is a peak figure, and real efficiency falls at light loads and rises near the middle of the range. The unit is a simple plug-in inverter with no transfer switch.\n\nThe reverse polarity protection is a genuine benefit for first-time installers. Still check the polarity twice, fuse near the battery and keep the cable runs short. Do not lean on the efficiency number alone: measure how warm the cables and the case get after twenty minutes of a steady load.",
+   "bestFor": "First-time installers who want reverse polarity protection and a high efficiency claim.",
+   "pros": [
+    "Efficiency claimed up to 95 percent",
+    "Reverse polarity protection listed",
+    "Type-C charging port",
+    "Dual AC outlets"
+   ],
+   "cons": [
+    "Efficiency is a peak claim",
+    "No transfer switch"
+   ]
+  },
+  {
+   "id": "B0BRXPJYL7",
+   "rank": 7,
+   "badge": "Best Wireless Control",
+   "name": "JARXIOKE 2500W Pure Sine Inverter, Wireless Remote",
+   "amazonUrl": "https://www.amazon.com/dp/B0BRXPJYL7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51B541+1ZFL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2500W continuous",
+    "5000W peak",
+    "Wireless remote",
+    "Type-C port"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Peak",
+     "value": "5000W"
+    },
+    {
+     "label": "Remote",
+     "value": "Wireless, listed up to 100 m"
+    },
+    {
+     "label": "Ports",
+     "value": "Type-C plus AC outlets"
+    },
+    {
+     "label": "Protections",
+     "value": "Over/under voltage, overload, short, heat, reverse polarity"
+    }
+   ],
+   "description": "JARXIOKE offers on/off control from a wireless remote with a listed range of 100 metres, which is useful when the inverter lives in an underfloor bay. It also carries the common protections and a Type-C port. The output is pure sine.\n\nWireless range claims depend heavily on obstructions, and metal bodies cut it sharply. Compared with the WZRELB's wired remote, it is more flexible to place but less certain to connect.\n\nUse it where you can test the remote from the real seating position before closing up the bay. Keep a physical switch accessible as a backup. Test the remote from the seat where you will actually use it, with the bay door closed, before you commit to the install.",
+   "bestFor": "Installs where the inverter is hidden and you want to switch it from a distance.",
+   "pros": [
+    "Wireless remote with long listed range",
+    "Full protection set with reverse polarity",
+    "Type-C port included",
+    "Pure sine output"
+   ],
+   "cons": [
+    "Wireless range shrinks inside a metal body",
+    "No transfer switch"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Battery bank sizing",
+   "explanation": "A 2500W load pulls roughly 220 to 250 amps from a 12 volt bank, which is beyond what a single small battery supplies without sagging. Two or more parallel lithium batteries or a large deep-cycle bank are the usual choices. If your bank cannot supply that current, the inverter will trip on low voltage long before the batteries are flat. Check the bank before comparing inverter features."
+  },
+  {
+   "criterion": "Cable and fuse size",
+   "explanation": "At this current, cable gauge and length dominate performance. Use very thick cable, such as 4/0 for short runs, and a class-T or similar high-current fuse close to the battery. A long thin run wastes power as heat and causes voltage drop that triggers shutdowns. Keep positive and negative runs similar in length."
+  },
+  {
+   "criterion": "Transfer switch design",
+   "explanation": "An automatic transfer switch moves loads between shore power and the inverter. The EGSCATEE lists about 12 ms changeover and the OLTEANP does not list a time. Faster switching is gentler on electronics. Verify the shore breaker matches the switch rating."
+  },
+  {
+   "criterion": "Outlet layout and limits",
+   "explanation": "Many outlets share a single 2500W limit, so more outlets do not mean more power. The TAGEEBLU offers four AC outlets and four USB ports, but total load is still capped. A single 15 amp outlet tops out near 1800W, so heavy appliances may need a hardwire route. Check how your biggest appliance connects."
+  },
+  {
+   "criterion": "Efficiency claims",
+   "explanation": "Claims range from about 90 percent on the LVYUAN to up to 95 percent on the FT feiteeng. Efficiency is a peak figure and drops at very light or very heavy loads. A few percent matters at 2500W, because each percent is about 25 watts of heat. Treat claims above 93 percent with caution."
+  },
+  {
+   "criterion": "Remote and monitoring",
+   "explanation": "A wired remote or display lets you switch the inverter off without opening a bay. The JARXIOKE offers a wireless remote, the WZRELB a voltage LED and the LVYUAN an LCD with error codes. Wireless range is unreliable inside metal. Pick the control type that suits where the unit lives."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "2500W continuous",
+   "meaning": "The sustained load limit of the inverter. Appliances should total less than this.",
+   "watchFor": "All picks list 2500W, but only a battery bank that supplies 250 amps can sustain it."
+  },
+  {
+   "spec": "5000W peak",
+   "meaning": "A short startup allowance. It helps motors start but does not extend runtime.",
+   "watchFor": "No pick states how long the 5000W lasts."
+  },
+  {
+   "spec": "ATS changeover time",
+   "meaning": "How long the output drops while switching sources. Under about 20 ms is gentle on most electronics.",
+   "watchFor": "The EGSCATEE lists about 12 ms; the OLTEANP does not state one."
+  },
+  {
+   "spec": "Efficiency percent",
+   "meaning": "The share of battery power reaching the outlet. Lost power becomes heat.",
+   "watchFor": "Claims run from about 90 to up to 95 percent in this lineup."
+  },
+  {
+   "spec": "Reverse polarity protection",
+   "meaning": "A safeguard that stops damage if battery leads are connected backward. It is useful for first installs.",
+   "watchFor": "Listed on the FT feiteeng and JARXIOKE."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Transfer and integration",
+   "description": "We looked at whether each unit has an automatic transfer switch and how it is described. The EGSCATEE publishes a 12 ms changeover and the OLTEANP does not. Integration matters more at this size."
+  },
+  {
+   "title": "Efficiency honesty",
+   "description": "We compared stated efficiency, from about 90 percent on the LVYUAN to up to 95 percent on the FT feiteeng. We treated peak claims cautiously. Units that avoid inflated claims earned more trust."
+  },
+  {
+   "title": "Protections",
+   "description": "We read the listed protections, including overload, short circuit, over and under voltage, overheating and reverse polarity. A fuller set suits first-time installs. The JARXIOKE and FT feiteeng list reverse polarity."
+  },
+  {
+   "title": "Outlets and ports",
+   "description": "We compared outlet count and USB options, with the TAGEEBLU leading at four AC and four USB. More outlets help families but do not raise the limit. We weighed convenience against casual wiring."
+  },
+  {
+   "title": "Control and monitoring",
+   "description": "We reviewed displays and remotes, from the LVYUAN's LCD to the JARXIOKE's wireless remote. Reliable monitoring helps catch voltage sag. We favoured wired or clear displays."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Installation Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Panel-connected coach",
+      "EGSCATEE 2500W",
+      "Hardwired input and fast ATS"
+     ],
+     [
+      "Automatic switching, alternative",
+      "OLTEANP 2500W",
+      "ATS with stated efficiency"
+     ],
+     [
+      "Cabinet near the dinette",
+      "TAGEEBLU 2500W",
+      "Four outlets and four USB ports"
+     ],
+     [
+      "Hidden bay install",
+      "JARXIOKE 2500W",
+      "Wireless remote on/off"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "FT feiteeng 2500W",
+      "Highest efficiency claim at the lowest tier"
+     ],
+     [
+      "Low",
+      "LVYUAN 2500W",
+      "Clear LCD and error codes"
+     ],
+     [
+      "Middle",
+      "WZRELB 2500W",
+      "Remote and copper inductance"
+     ],
+     [
+      "Higher",
+      "EGSCATEE 2500W",
+      "Integrated ATS for panel installs"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Battery-Only vs ATS Unit",
+   "cards": [
+    {
+     "label": "Battery-only",
+     "text": "The TAGEEBLU, LVYUAN and FT feiteeng simply convert battery power. They are easy to install and move but cannot manage shore power."
+    },
+    {
+     "label": "ATS unit",
+     "text": "The EGSCATEE and OLTEANP route shore power through the inverter and switch automatically. That suits a permanent coach but demands AC wiring."
+    }
+   ],
+   "note": "Weekenders should choose battery-only; full-timers should choose ATS."
+  },
+  {
+   "subheading": "Control Preference",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Wireless remote",
+      "JARXIOKE 2500W",
+      "Listed range up to 100 m"
+     ],
+     [
+      "Wired remote",
+      "WZRELB 2500W",
+      "Remote controller included"
+     ],
+     [
+      "Full LCD with codes",
+      "LVYUAN 2500W",
+      "Voltage, load and error codes"
+     ],
+     [
+      "Outlet-side control",
+      "TAGEEBLU 2500W",
+      "Controls on the box"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For First-Time Installers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Reverse polarity protection and a clear error code display. These reduce the cost of a wiring mistake and help diagnosis."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The FT feiteeng and JARXIOKE both list reverse polarity protection, and the LVYUAN adds clear error codes on its LCD."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want automatic transfer and a clean panel integration. The EGSCATEE or OLTEANP justify the extra."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need a plug-in inverter for occasional use. The LVYUAN or FT feiteeng cover the basics."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Re-torque DC lugs",
+   "interval": "After first trip, then twice a year",
+   "why": "At 220 to 250 amps even a slightly loose lug heats quickly. Tighten with the battery disconnected."
+  },
+  {
+   "task": "Inspect the main fuse",
+   "interval": "Every six months",
+   "why": "A warm or discoloured fuse holder shows excess resistance. Replace before it fails."
+  },
+  {
+   "task": "Test ATS changeover",
+   "interval": "Each season",
+   "why": "Unplug shore power with a lamp on and watch for a flicker. A slow switch means the relay needs service. Do this on a day when you are home, not at a campground."
+  },
+  {
+   "task": "Clean fans and vents",
+   "interval": "Quarterly",
+   "why": "Dust restricts airflow and causes thermal shutdowns at high load."
+  },
+  {
+   "task": "Check bank voltage under load",
+   "interval": "Before each season",
+   "why": "A bank that sags below 11V under load trips the inverter. Replace or upgrade weak batteries."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a 2500W inverter run an RV air conditioner?",
+   "a": "Only a small unit with a soft starter. Most RV air conditioners draw heavy startup current that exceeds the continuous rating. Check the startup current before relying on it."
+  },
+  {
+   "q": "Do I need a 24 or 48 volt system at 2500W?",
+   "a": "It is worth considering. Higher voltage halves or quarters the current, so cable is thinner and cheaper. These picks are 12 volt, so plan for heavy cable."
+  },
+  {
+   "q": "What is the difference between ATS and a plug-in unit?",
+   "a": "An ATS moves circuits between shore and battery automatically. A plug-in unit only converts battery power, so you plug items in directly."
+  },
+  {
+   "q": "How long will a battery last at 2500W?",
+   "a": "A 100Ah lithium battery lasts about 25 minutes at full load. Real appliances cycle, so runtime is longer. Size the bank from actual watt-hours, not the inverter rating. Lead-acid banks deliver noticeably less usable energy at this current."
+  },
+  {
+   "q": "Are 95 percent efficiency claims believable?",
+   "a": "Peak efficiency can approach that at the right load, but average efficiency is lower. Plan with a mid-80s to 90 percent figure for runtime estimates."
+  },
+  {
+   "q": "Can I connect two inverters in parallel?",
+   "a": "Only if the manual says so. Most of these units are not parallel-capable. Use a larger unit instead of mixing."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/513gV95fnnL._SL500_.jpg"
+}

@@ -1,0 +1,609 @@
+{
+ "guideSlug": "best-200-watt-rv-solar-panel",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best 200 watt rv solar panel",
+ "guideTitle": "Best 200 Watt RV Solar Panels (2026)",
+ "metaTitle": "Best 200 Watt RV Solar Panels (2026)",
+ "metaDescription": "Six 200 watt RV solar panels and kits compared on rigid versus flexible build, shade handling, voltage, controllers and roof fit for boondocking campers.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg",
+ "expertTake": "The Renogy 200 Watt N-Type rigid panel is the pick for most roofs, and the Renogy ShadowFlux is the one to buy if shade from vents and antennas is your problem. The Renogy 200W kit is the value pick for a first install. If your roof is curved or weight limited, buy a flexible panel, but expect a shorter life than glass.",
+ "introParagraphs": [
+  "Two hundred watts is where RV solar starts to feel useful, because it can keep up with a fridge, a fan, lights and device charging on a decent day. It is also where roof space and controller choices start to matter.",
+  "The label does not tell you how a panel will behave in shade, heat or on a curved roof. The comparison below leans on cell design, build type and voltage, since those decide the results after the first summer."
+ ],
+ "products": [
+  {
+   "id": "B0DYD8VT9C",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Renogy 200 Watt N-Type 16BB 24V Rigid Panel",
+   "price": "",
+   "specs": [
+    "200W 24V",
+    "N-type 16BB",
+    "25% efficiency",
+    "Smaller, lighter"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-type, 16BB"
+    },
+    {
+     "label": "Efficiency",
+     "value": "25%"
+    },
+    {
+     "label": "Voltage",
+     "value": "24V panel"
+    },
+    {
+     "label": "Size change",
+     "value": "7.5% smaller, 11.7% lighter than previous model"
+    }
+   ],
+   "description": "This is the rigid, glass-front panel that most RV roofs want. It uses N-type cells with a 16 busbar layout at a stated 25 percent efficiency, and it is 7.5 percent smaller and 11.7 percent lighter than the previous model at the same 200 watts.\n\nIt is a 24 volt panel, which cuts current loss and helps in cloudy conditions, because higher voltage reaches charging threshold earlier. That means you need a controller that accepts the higher input, ideally an MPPT unit, and not a basic 12V PWM controller.\n\nCompared with the ShadowFlux at 7 percent smaller than standard PERC, this one is the straightforward high-efficiency choice without the extra anti-shade design. It suits an owner with a clear roof who wants proven brand support and a long service life. Mount it with a few inches of airflow beneath it to keep cell temperature down.",
+   "bestFor": "Campers with a clear roof who want a proven, efficient rigid panel.",
+   "pros": [
+    "N-type cells at 25 percent efficiency",
+    "24V design cuts current loss",
+    "Smaller and lighter than the previous model",
+    "Established brand support"
+   ],
+   "cons": [
+    "Needs a compatible MPPT controller for 24V",
+    "No built-in shade management"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg"
+  },
+  {
+   "id": "B0DMT2WTC8",
+   "rank": 2,
+   "badge": "Best for Shaded Roofs",
+   "name": "Renogy ShadowFlux 200 Watt N-Type Panel",
+   "price": "",
+   "specs": [
+    "200W",
+    "ShadowFlux anti-shade",
+    "N-type 16BB",
+    "25% efficiency"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-type, 16BB"
+    },
+    {
+     "label": "Efficiency",
+     "value": "25%"
+    },
+    {
+     "label": "Feature",
+     "value": "ShadowFlux anti-shading"
+    },
+    {
+     "label": "Size",
+     "value": "7% smaller, 10% more compact than PERC"
+    }
+   ],
+   "description": "ShadowFlux is Renogy's anti-shade layout, designed to keep generating when a vent, a ladder or an antenna casts a stripe across the panel. On a regular panel a shadow over one cell row can pull the whole string down, so this feature is worth real money on a cluttered RV roof.\n\nIt shares N-type 16BB cells and 25 percent efficiency with the plain N-type panel, and it is listed as 7 percent smaller and 10 percent more compact than comparable PERC panels. The shade handling is the difference, not the headline watts.\n\nIf your roof has few shadows, the standard Renogy N-type panel gives the same watts for less. If you have a ladder, a vent stack and a satellite dish, this is the one to buy. Expect the same controller requirements as any 200W rigid panel.",
+   "bestFor": "Roofs with vents, ladders and antennas that cast shadows.",
+   "pros": [
+    "Anti-shading design reduces shadow losses",
+    "N-type 16BB cells at 25 percent efficiency",
+    "Compact compared with PERC panels",
+    "Same brand support as other Renogy panels"
+   ],
+   "cons": [
+    "Costs more than the plain N-type panel",
+    "Shade design matters only on cluttered roofs"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DMT2WTC8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/310PuU3YOmL._SL500_.jpg"
+  },
+  {
+   "id": "B0GL88FCYB",
+   "rank": 3,
+   "badge": "Best Bifacial",
+   "name": "HQST 200W N-Type Bifacial 16BB Panel, IP68",
+   "price": "",
+   "specs": [
+    "200W",
+    "Bifacial",
+    "Up to 25.4%",
+    "IP68"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-type, 16BB, bifacial"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Up to 25.4%"
+    },
+    {
+     "label": "Rating",
+     "value": "IP68"
+    },
+    {
+     "label": "Rear gain",
+     "value": "Up to 30% extra claimed"
+    }
+   ],
+   "description": "The HQST collects sunlight from both faces, with a claimed extra gain of up to 30 percent from the rear. On a flat RV roof that gain is small, because the rear sees only the dark roof, so treat the bonus as a ground-mount feature.\n\nWhere it helps is on a tilted ground array or a rack that leaves air and light under the panel, such as an awning-side mount. The panel is N-type with 16 busbars, a top efficiency of 25.4 percent and an IP68 rating, which is the highest weather rating in the group.\n\nThe maker pitches it for Class B vans because it is compact and light. Buy it for a tilting bracket or a portable ground array, and treat the rear gain as a bonus. It is not the best choice for a flush roof mount.",
+   "bestFor": "Vans and ground arrays where the rear face can catch light.",
+   "pros": [
+    "Bifacial cells catch reflected light",
+    "Up to 25.4 percent efficiency",
+    "IP68 rating on the panel",
+    "Compact for Class B vans"
+   ],
+   "cons": [
+    "Rear gain is minimal on a flush roof mount",
+    "Brand has a smaller track record than Renogy"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GL88FCYB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51RIb2aTj8L._SL500_.jpg"
+  },
+  {
+   "id": "B015DEY2TM",
+   "rank": 4,
+   "badge": "Best Kit",
+   "name": "Renogy 200W 12V N-Type RV Kit with Adventurer 30A Controller",
+   "price": "",
+   "specs": [
+    "200W",
+    "30A LCD controller",
+    "800Wh per day claim",
+    "22% cells"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W, 12V"
+    },
+    {
+     "label": "Controller",
+     "value": "Adventurer 30A LCD PWM"
+    },
+    {
+     "label": "Daily output",
+     "value": "800Wh at 4 sun hours"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "22%"
+    },
+    {
+     "label": "Mounting",
+     "value": "Flush-mount controller for RV walls"
+    }
+   ],
+   "description": "This is a complete RV kit built around a 200 watt panel pair and the Adventurer 30 amp LCD charge controller, designed for a clean flush mount inside a camper. The maker rates daily output at about 800 watt-hours at four sun hours.\n\nThat 800Wh figure is a planning number, not a promise, and it falls with shade, haze and a flat tilt. It is also a 12V PWM-based setup, so unlike the 24V N-type panel above it loses some voltage headroom.\n\nIts value is the matched set and the neat interior mount. Compared with the 22 percent cells here, the standalone N-type panel reaches 25 percent, but the kit saves choosing a controller. It suits a first-time installer. Keep the controller away from heat sources inside the cabin wall.",
+   "bestFor": "First-time installers who want a matched panel and controller.",
+   "pros": [
+    "Panel and 30A LCD controller are matched",
+    "Flush-mount controller suits camper walls",
+    "Stated daily output helps sizing",
+    "Brand support for parts"
+   ],
+   "cons": [
+    "PWM controller leaves some energy unused",
+    "22 percent cells trail the N-type panels"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hH3UbUtML._SL500_.jpg"
+  },
+  {
+   "id": "B0FDB5PX9J",
+   "rank": 5,
+   "badge": "Best Flexible Shade Handling",
+   "name": "BougeRV Arch Pro 200W N-Type Flexible Panel",
+   "price": "",
+   "specs": [
+    "200W flexible",
+    "N-type 16BB",
+    "Bypass diodes",
+    "Fiberglass"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Form",
+     "value": "Fiberglass flexible"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-type 16BB, 25% efficiency"
+    },
+    {
+     "label": "Shade feature",
+     "value": "Built-in bypass diodes"
+    },
+    {
+     "label": "Open circuit voltage",
+     "value": "36V plus or minus 5%"
+    }
+   ],
+   "description": "The Arch Pro is a fiberglass-backed flexible panel with N-type cells at 25 percent efficiency and built-in bypass diodes that keep output going when part of it is shaded. Flexible panels bend to fit curved roofs and cut weight, which matters for a van or a lightweight trailer.\n\nThe listing carries an important warning: its open circuit voltage of 36 volts plus or minus 5 percent may not match some power stations and controllers. Check the voltage window of your controller before you buy, because a mismatch can trip protection or not charge at all.\n\nThe tradeoff against the rigid Renogy panels is longevity and heat. A flexible panel glued flat to a roof traps heat and tends to age faster than glass. It suits a curved or weight-limited roof where a rigid panel simply will not fit.",
+   "bestFor": "Curved or weight-limited roofs that cannot take rigid glass.",
+   "pros": [
+    "Fiberglass flexible build bends to fit",
+    "Built-in bypass diodes help in partial shade",
+    "N-type 16BB cells at 25 percent efficiency",
+    "Lightweight for vans and trailers"
+   ],
+   "cons": [
+    "36V open circuit voltage needs a compatible controller",
+    "Flexible panels age faster than glass in heat"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FDB5PX9J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mwtCXZEVL._SL500_.jpg"
+  },
+  {
+   "id": "B0BF4VHWJP",
+   "rank": 6,
+   "badge": "Best Bendable Value",
+   "name": "Renogy 200 Watt 240-Degree Flexible Panel",
+   "price": "",
+   "specs": [
+    "200W flexible",
+    "240 degree bend",
+    "1000Wh per day claim",
+    "Half-cut PERC"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Form",
+     "value": "Flexible, bends to 240 degrees"
+    },
+    {
+     "label": "Daily output",
+     "value": "About 1000Wh at 5 sun hours"
+    },
+    {
+     "label": "Cell type",
+     "value": "Half-cut PERC"
+    },
+    {
+     "label": "Use",
+     "value": "Marine, RV, cabin, van"
+    }
+   ],
+   "description": "Renogy's flexible 200 watt panel bends up to 240 degrees, so it can follow the curve of a camper roof or a boat deck. The maker rates its average at about 1000 watt-hours a day, calculated at five sun hours, which is a generous basis.\n\nIt uses half-cut PERC cells, an older technology than the N-type panels in this guide. Half-cut cells reduce internal losses and improve shade tolerance, but the panel is a step behind the 25 percent N-type options on efficiency.\n\nIt is the choice for a very curved surface, or when a rigid panel's weight is a problem. Owners should glue it with a marine-grade adhesive and leave airflow, because heat shortens the life of any flexible panel. If a rigid panel fits, the N-type Renogy is the better long-term buy.",
+   "bestFor": "Curved roofs and boats where rigid panels will not fit.",
+   "pros": [
+    "Bends up to 240 degrees",
+    "Half-cut PERC cells reduce internal losses",
+    "Light for a van or boat roof",
+    "Renogy brand support"
+   ],
+   "cons": [
+    "PERC cells are less efficient than N-type",
+    "Heat-trapping flexible mounting shortens life"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BF4VHWJP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41OSOgD6yHL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Rigid versus flexible",
+   "explanation": "Rigid glass panels like the Renogy N-type and ShadowFlux run cooler and last longer, while flexible panels such as the BougeRV Arch Pro and Renogy 240-degree model trade life for weight and curve. If your roof is flat and can take 20 to 30 pounds more, choose rigid. Choose flexible only when you must. Also weigh the install effort, since drilling and sealing a rigid panel takes an afternoon while a glued flexible panel can go on in an hour."
+  },
+  {
+   "criterion": "Shade tolerance",
+   "explanation": "The Renogy ShadowFlux and the BougeRV bypass diodes are built for partial shade, which on an RV roof is the normal state. A panel without that design can lose most of its output when one cell row is shaded. Count the vents, antennas and ladders on your roof before paying for shade features."
+  },
+  {
+   "criterion": "Panel voltage and controller match",
+   "explanation": "The Renogy N-type is a 24V panel and the BougeRV lists 36V open circuit voltage, while kit panels are 12V nominal. A controller or power station must accept the panel's input voltage. A mismatch is the commonest cause of a new install not charging, so check the controller datasheet first. Cold mornings raise open circuit voltage by several percent, so leave margin below the controller's maximum input."
+  },
+  {
+   "criterion": "Cell technology",
+   "explanation": "N-type cells at 25 percent, found on the Renogy, ShadowFlux, HQST and BougeRV, age more slowly than PERC cells, which the Renogy flexible panel uses. On a hot roof, the slower aging adds up over ten years. The difference in watts on day one is small."
+  },
+  {
+   "criterion": "Daily output claims",
+   "explanation": "The Renogy kit claims about 800Wh a day at four sun hours and the flexible panel about 1000Wh at five. Real output depends on tilt, shade and haze. Plan with the lower figure, and compare claims only when the sun hour basis matches. Treat any claim above four sun hours as optimistic for most of the year."
+  },
+  {
+   "criterion": "Weather rating",
+   "explanation": "The HQST lists IP68, a stronger rating than IP65 panels, which matters for wet climates. Pair any panel with proper sealant at each mounting point, since water through a roof hole is the real RV solar failure."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "N-type 16BB",
+   "meaning": "N-type is a cell chemistry that ages slowly. 16BB means 16 busbars that collect current.",
+   "watchFor": "Renogy, ShadowFlux, HQST and BougeRV list N-type 16BB, while the flexible Renogy lists half-cut PERC."
+  },
+  {
+   "spec": "Open circuit voltage",
+   "meaning": "The highest voltage a panel produces with no load. It must stay within the controller's input limit.",
+   "watchFor": "The BougeRV lists 36V plus or minus 5 percent and warns of compatibility limits."
+  },
+  {
+   "spec": "Bifacial",
+   "meaning": "A panel that collects light on both faces. The rear gain depends on what is behind the panel.",
+   "watchFor": "The HQST claims up to 30 percent extra, which needs a reflective surface and airflow."
+  },
+  {
+   "spec": "Sun hours",
+   "meaning": "The number of full-strength hours of sun per day, usually 4 to 5. It converts watts to watt-hours.",
+   "watchFor": "The Renogy kit uses 4 hours, the flexible Renogy 5, so the two daily claims are not like for like."
+  },
+  {
+   "spec": "Bypass diode",
+   "meaning": "A diode that lets current route around a shaded cell group. It limits shade losses.",
+   "watchFor": "The BougeRV lists built-in bypass diodes, and the ShadowFlux has an anti-shade design."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cell and efficiency",
+   "description": "We read the stated cell type and efficiency. The Renogy N-type and HQST at up to 25.4 percent led, while the kit's 22 percent and the PERC flexible trailed. Missing cell data would score low."
+  },
+  {
+   "title": "Shade handling",
+   "description": "We credited anti-shade design and bypass diodes. The ShadowFlux and BougeRV scored highest. Panels with no shade feature were marked neutral."
+  },
+  {
+   "title": "Build and weight",
+   "description": "We compared rigid and flexible builds. Rigid glass scored higher for lifespan, flexible scored higher for fit on curves. The Renogy N-type's 11.7 percent weight cut was a plus."
+  },
+  {
+   "title": "Electrical compatibility",
+   "description": "We looked at panel voltage and controller needs. The 24V Renogy and the 36V BougeRV need compatible controllers, while the 12V kit is plug and play. Unstated voltage would lose points."
+  },
+  {
+   "title": "Support",
+   "description": "We weighed brand history and owner feedback patterns. Renogy scored highest, and less established labels scored lower."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Roof Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Flat roof with space",
+      "Renogy 200 Watt N-Type",
+      "Efficient rigid panel"
+     ],
+     [
+      "Cluttered roof with shadows",
+      "Renogy ShadowFlux",
+      "Anti-shading design"
+     ],
+     [
+      "Curved roof",
+      "BougeRV Arch Pro",
+      "Flexible with bypass diodes"
+     ],
+     [
+      "Boat or very curved surface",
+      "Renogy 240-degree flexible",
+      "Bends to 240 degrees"
+     ],
+     [
+      "Van with tilting bracket",
+      "HQST 200W bifacial",
+      "Bifacial and IP68"
+     ],
+     [
+      "First install with a controller",
+      "Renogy 200W kit",
+      "Matched 30A controller"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower",
+      "Renogy 200W kit",
+      "Panel and controller together"
+     ],
+     [
+      "Lower to middle",
+      "Renogy 240-degree flexible",
+      "Flexible at a modest tier"
+     ],
+     [
+      "Middle",
+      "HQST 200W bifacial",
+      "IP68 and bifacial"
+     ],
+     [
+      "Middle to upper",
+      "Renogy 200 Watt N-Type",
+      "Best cell and brand"
+     ],
+     [
+      "Upper",
+      "BougeRV Arch Pro",
+      "Flexible with N-type"
+     ],
+     [
+      "Highest",
+      "Renogy ShadowFlux",
+      "Shade handling"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rigid vs Flexible",
+   "cards": [
+    {
+     "label": "Rigid glass",
+     "text": "The Renogy N-type, ShadowFlux, HQST and kit panel use a rigid frame. They run cooler, last longer and are easier to warranty, but they add weight and need a flat surface."
+    },
+    {
+     "label": "Flexible",
+     "text": "The BougeRV Arch Pro and Renogy 240-degree panel bend to fit curves and shed weight. Glue-mounted flexibles trap heat and age faster."
+    }
+   ],
+   "note": "Flat roofs should get rigid panels, and curved or weight-limited roofs should get flexible ones."
+  },
+  {
+   "subheading": "Controller Fit",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "12V PWM plug and play",
+      "Renogy 200W kit",
+      "30A controller included"
+     ],
+     [
+      "24V MPPT system",
+      "Renogy 200 Watt N-Type",
+      "24V panel needs MPPT"
+     ],
+     [
+      "36V open circuit panel",
+      "BougeRV Arch Pro",
+      "Check controller input range"
+     ],
+     [
+      "MPPT with anti-shade",
+      "Renogy ShadowFlux",
+      "Pair with an MPPT controller"
+     ],
+     [
+      "Portable tilt mount",
+      "HQST 200W bifacial",
+      "Pair with a flexible mount"
+     ],
+     [
+      "Marine controller",
+      "Renogy 240-degree flexible",
+      "Marine-grade wiring"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Boondocking Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Enough daily watt-hours for your fridge, a controller with a lithium profile if you run lithium, and shade tolerance for parking under trees. Plan for 400W if you run a 12V fridge in summer."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Renogy ShadowFlux handles shade, the Renogy N-type gives top efficiency, and the Renogy kit makes a simple first install. Two 200W panels cover most boondocking."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You park in shade or plan to keep the panel a decade. The ShadowFlux and N-type Renogy justify the cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp in full sun a few weekends a year. The Renogy 200W kit gives matched parts for less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash the panels",
+   "interval": "Every 2 to 3 months",
+   "why": "Dust and pollen cut output. Use water and a soft cloth, never abrasives. Early morning is best, because cool glass avoids water spots."
+  },
+  {
+   "task": "Check roof sealant",
+   "interval": "Every season",
+   "why": "UV and heat crack sealant at mounting points. Reseal before leaks start."
+  },
+  {
+   "task": "Inspect adhesive on flexible panels",
+   "interval": "Twice a year",
+   "why": "Heat can lift the edges of a glued flexible panel. Re-secure edges quickly to avoid wind damage."
+  },
+  {
+   "task": "Check connectors and cable",
+   "interval": "Every 6 months",
+   "why": "Corroded plugs and chafed cable cost power and add heat."
+  },
+  {
+   "task": "Verify controller settings",
+   "interval": "Yearly",
+   "why": "Battery type and charge voltages must match your battery. A wrong profile slowly damages lithium or lead-acid cells. Re-check after any battery change."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is 200 watts enough for an RV?",
+   "a": "For lights, fan, phones and a laptop, yes, and often a 12V fridge in sun. For air conditioning or a residential fridge you need more, because 200 watts delivers only about 800Wh a day. Add up your daily amp-hours before buying, then compare against the roughly 60 amp-hours a 200 watt array returns on a good day, so you know whether one pair of panels closes the gap."
+  },
+  {
+   "q": "Should I buy rigid or flexible?",
+   "a": "Rigid for flat roofs, because it runs cooler and lasts longer. Flexible only for curved or weight-limited roofs, since heat shortens its life. If you choose flexible, use marine-grade adhesive and leave an airflow gap, and plan to replace it sooner than a glass panel."
+  },
+  {
+   "q": "What does a 24V panel mean for my controller?",
+   "a": "The controller must accept the higher voltage, which usually means an MPPT unit. A basic 12V PWM controller will waste much of the panel's output. Many owners pair a 24V panel with an MPPT controller sized with some headroom, so a second panel can be added later without replacing the controller."
+  },
+  {
+   "q": "Does bifacial help on an RV roof?",
+   "a": "Very little on a flush mount, since the rear sees the roof. It helps on tilted brackets or ground arrays with light reaching the back."
+  },
+  {
+   "q": "How many hours of sun do I get?",
+   "a": "Plan on 4 to 5 sun hours in summer and 2 to 3 in winter. The Renogy kit's 800Wh claim uses 4 hours and is easy to miss in cloud. Tilting the panels toward the sun by even 15 degrees in winter can recover a noticeable share of the loss."
+  },
+  {
+   "q": "Can I mix panels in one array?",
+   "a": "It is possible, but mismatched voltage and current cut output. Keep matched panels in each string, and check the controller's limits. Keeping everything identical also simplifies troubleshooting when a single connector goes bad."
+  }
+ ],
+ "relatedGuides": []
+}
