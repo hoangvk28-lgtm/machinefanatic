@@ -13,7 +13,7 @@ mkdirSync("scripts/clone/work", { recursive: true });
 const tok = await token();
 for (const r of pick) {
   // Source-guide products (may be discontinued or too few).
-  const items = await getItems(tok, r.asins); await sleep(1100);
+  const items = r.asins?.length ? await getItems(tok, r.asins) : []; if (r.asins?.length) await sleep(1100);
   // Always pull fresh candidates by keyword so the lineup is not a copy of the source guide.
   const have = new Set(items.map((i) => i.asin));
   const candidates = [];

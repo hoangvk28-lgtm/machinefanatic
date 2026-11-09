@@ -1,0 +1,629 @@
+{
+ "guideSlug": "best-cordless-reciprocating-saws",
+ "categorySlug": "power-tools",
+ "mainKeyword": "cordless reciprocating saw",
+ "guideTitle": "Best Cordless Reciprocating Saws (2026)",
+ "metaTitle": "Best Cordless Reciprocating Saws in 2026",
+ "metaDescription": "Six cordless reciprocating saws compared on stroke length, strokes per minute, motor type, battery size and blade clamps for demolition and pruning.",
+ "lastUpdated": "2026-11-06",
+ "readTime": "14 min",
+ "expertTake": "The DeWalt DCS380B is the cordless reciprocating saw to buy if you want a proven 20V MAX tool with a 1-1/8 inch stroke and a four position blade clamp. The TaskStar kit is the value pick, with two 4.0 Ah batteries and eight blades. If you demolish buildings for a living, step up to a brushless pro saw, because a budget kit will overheat under all day cutting. Buy on stroke length and battery count before you look at the motor label.",
+ "introParagraphs": [
+  "A cordless reciprocating saw trades the cord for a battery, which changes how long it cuts and how heavy it feels in your hands. Because the blade does the work, the battery, stroke length and clamp design matter more than the label on the motor.",
+  "This guide explains stroke, speed and battery size, why a compact saw changes what you can reach and where cheap kits fall short."
+ ],
+ "products": [
+  {
+   "id": "B007NVSTCK",
+   "badge": "Best Overall",
+   "name": "DeWalt DCS380B 20V MAX Reciprocating Saw",
+   "specs": [
+    "3,000 spm",
+    "1-1/8 inch stroke",
+    "4-position clamp",
+    "Pivoting shoe"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "0 to 3,000 strokes per minute"
+    },
+    {
+     "label": "Stroke",
+     "value": "1-1/8 inches"
+    },
+    {
+     "label": "Blade clamp",
+     "value": "4-position, tool-free"
+    },
+    {
+     "label": "Shoe",
+     "value": "Pivoting, adjustable"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "DeWalt 20V MAX"
+    }
+   ],
+   "description": "The DCS380B delivers up to 3,000 strokes per minute with a 1-1/8 inch stroke, a four position blade clamp for flush cuts and a pivoting shoe that extends blade life by spreading wear along the teeth. A rubber over molded grip improves control. It has been a staple of 20V MAX kits for years.\n\nCompared with the compact DCS387B it is longer and more powerful in thick material, and it is better suited to demolition. Against the Craftsman CMCS300B with a 1 inch stroke it cuts faster. For existing DeWalt owners it is the natural choice.\n\nIt is a bare tool, so buy a 5 Ah battery for the best run time. Keep the clamp and shoe clean, and use quality blades for the material. Replace the pivoting shoe pads if they wear flat, since a loose shoe wastes blade life.",
+   "bestFor": "20V MAX owners who want a proven all around cordless recip saw. It rewards a sharp blade more than any other upgrade.",
+   "pros": [
+    "1-1/8 inch stroke cuts quickly",
+    "4-position clamp allows flush cutting",
+    "Pivoting shoe extends blade life",
+    "Wide 20V MAX battery platform"
+   ],
+   "cons": [
+    "Sold as a bare tool",
+    "Brushed motor design",
+    "Longer than compact models"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B007NVSTCK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31jJIpPJIAL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00ODN0S70",
+   "badge": "Best Compact",
+   "name": "DeWalt DCS387B 20V MAX Compact Reciprocating Saw",
+   "specs": [
+    "14 inch length",
+    "1-1/8 inch stroke",
+    "LED light",
+    "4-position clamp"
+   ],
+   "specList": [
+    {
+     "label": "Length",
+     "value": "14 inches overall"
+    },
+    {
+     "label": "Stroke",
+     "value": "1-1/8 inches"
+    },
+    {
+     "label": "Blade clamp",
+     "value": "4-position, tool-free"
+    },
+    {
+     "label": "Light",
+     "value": "LED"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "DeWalt 20V MAX"
+    }
+   ],
+   "description": "The DCS387B is a compact reciprocating saw only 14 inches long, which fits between studs and in other tight spots. It keeps the 1-1/8 inch stroke of the larger saws and the four position blade clamp. An LED lights the cut.\n\nCompared with the DCS380B it is shorter and lighter, and a good choice for plumbers and remodelers. It gives up a little mass in heavy demolition. Against the Craftsman it offers a longer stroke in a small body.\n\nA smaller battery keeps it light, and a larger one adds run time. Wear gloves, since a compact saw puts your hand close to the cut. Compact saws like this one reward a firm two handed grip even though a single hand can hold them.",
+   "bestFor": "Plumbers and remodelers who cut in tight spaces. It rewards a sharp blade more than any other upgrade.",
+   "pros": [
+    "Only 14 inches long for tight spaces",
+    "1-1/8 inch stroke in a compact body",
+    "4-position clamp for flush cuts",
+    "LED lights the cut line"
+   ],
+   "cons": [
+    "Less mass for heavy demolition",
+    "Sold as a bare tool",
+    "Brushed motor design"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B00ODN0S70?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412ddX8uGcL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07KKHC784",
+   "badge": "Best Budget Platform",
+   "name": "Craftsman V20 CMCS300B Cordless Reciprocating Saw",
+   "specs": [
+    "3,000 spm",
+    "1 inch stroke",
+    "Variable speed",
+    "Bare tool"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "0 to 3,000 spm"
+    },
+    {
+     "label": "Stroke",
+     "value": "1 inch"
+    },
+    {
+     "label": "Trigger",
+     "value": "Variable speed"
+    },
+    {
+     "label": "Blade change",
+     "value": "Quick, tool-free"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "Craftsman V20"
+    }
+   ],
+   "description": "The Craftsman V20 saw runs up to 3,000 strokes per minute with a 1 inch stroke and a variable speed trigger. A quick blade change makes swaps easy. It is part of the V20 cordless system.\n\nCompared with the DeWalt DCS380B it has a shorter stroke and costs less. It suits homeowners with V20 batteries who cut pipes, branches and light demolition. It is not for daily jobsite use.\n\nBuy a larger battery for pruning and long cuts. Use good blades, since the stock blade is basic. Wrap the supplied bag around the tool to keep sawdust out of the battery contacts.",
+   "bestFor": "Craftsman V20 owners who want a low cost recip saw. It rewards a sharp blade more than any other upgrade.",
+   "pros": [
+    "Variable speed up to 3,000 spm",
+    "Quick blade change",
+    "Part of the V20 platform",
+    "Lower cost than DeWalt"
+   ],
+   "cons": [
+    "1 inch stroke is shorter",
+    "Sold as a bare tool",
+    "Lighter duty build"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07KKHC784?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41-79r3lh3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B076HPKK19",
+   "badge": "Best Home Kit",
+   "name": "Black+Decker BDCR20C 20V MAX Cordless Reciprocating Saw Kit",
+   "specs": [
+    "Pivoting shoe",
+    "Tool-free blades",
+    "Variable speed",
+    "Kit"
+   ],
+   "specList": [
+    {
+     "label": "Blade change",
+     "value": "Tool-free"
+    },
+    {
+     "label": "Shoe",
+     "value": "Pivoting"
+    },
+    {
+     "label": "Trigger",
+     "value": "Variable speed"
+    },
+    {
+     "label": "Kit",
+     "value": "Battery and charger"
+    },
+    {
+     "label": "Voltage class",
+     "value": "20V MAX"
+    },
+    {
+     "label": "Platform",
+     "value": "Black+Decker POWERCONNECT"
+    }
+   ],
+   "description": "The Black+Decker BDCR20C is a kit with a battery and charger, a pivoting shoe for control and tool-free blade changes. A variable speed trigger lets you start cuts gently. It is a straightforward home tool.\n\nCompared with the Craftsman bare tool it works out of the box, and it costs a little more. Against the DeWalt DCS380B it is clearly lighter duty. It suits pruning, light remodeling and household cuts.\n\nThe battery is small, so plan breaks on long jobs. Use fresh blades and keep the shoe locked. Test the pivoting shoe lock before you rely on it for flush cuts.",
+   "bestFor": "Homeowners who want a complete kit for light jobs.",
+   "pros": [
+    "Battery and charger included",
+    "Pivoting shoe improves control",
+    "Tool-free blade change",
+    "Shares POWERCONNECT batteries"
+   ],
+   "cons": [
+    "Lighter duty than pro saws",
+    "Small battery limits run time",
+    "Brushed motor"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B076HPKK19?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31ufIo-krkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FYCY49PP",
+   "badge": "Best Value Kit",
+   "name": "TaskStar Cordless Reciprocating Saw Kit with Two 4.0 Ah Batteries",
+   "specs": [
+    "3,500 spm",
+    "Brushless",
+    "2 x 4.0 Ah",
+    "8 blades"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "3,500 spm"
+    },
+    {
+     "label": "Motor",
+     "value": "200 W brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 4.0 Ah 21V"
+    },
+    {
+     "label": "Runtime claim",
+     "value": "40 to 60 minutes"
+    },
+    {
+     "label": "Blades",
+     "value": "8"
+    },
+    {
+     "label": "Class",
+     "value": "Small reciprocating saw"
+    }
+   ],
+   "description": "The TaskStar kit has a 3,500 spm brushless motor rated at 200 W, two 4.0 Ah batteries and eight blades. The maker claims 40 to 60 minutes of runtime from the packs. It is a complete package for a low price.\n\nCompared with the DeWalt DCS380B it has a smaller, less powerful motor, so it is better for pruning and light work. It matches the brushed saws for speed and adds brushless efficiency. It lacks platform support, so batteries are proprietary.\n\nTreat it as a light duty tool. Replace the stock blades with quality ones for demolition. Charge both batteries before a day of pruning, since tree work rarely lets you stop.",
+   "bestFor": "Light pruning and cutting at the lowest cost.",
+   "pros": [
+    "Two 4.0 Ah batteries included",
+    "Brushless motor at 3,500 spm",
+    "Eight blades in the kit",
+    "Low cost complete package"
+   ],
+   "cons": [
+    "200 W is a small motor",
+    "Proprietary batteries",
+    "Limited support"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FYCY49PP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cKvmLVjYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D1FQNR84",
+   "badge": "Best High Power Kit",
+   "name": "Olmlmo Cordless Reciprocating Saw Kit with 500W Brushless Motor",
+   "specs": [
+    "500 W brushless",
+    "3,200 spm",
+    "2 x 4.0 Ah",
+    "8 blades"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "500 W brushless"
+    },
+    {
+     "label": "Speed",
+     "value": "3,200 spm"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 4.0 Ah 21V"
+    },
+    {
+     "label": "Runtime claim",
+     "value": "About 30 minutes"
+    },
+    {
+     "label": "Blades",
+     "value": "8 carbide"
+    },
+    {
+     "label": "Blade change",
+     "value": "Tool-free"
+    }
+   ],
+   "description": "The Olmlmo kit pairs a 500 W brushless motor with 3,200 spm, two 4.0 Ah batteries and eight blades. A tool-free blade change swaps blades in a few seconds. The maker claims about 30 minutes of runtime from a pack.\n\nCompared with the TaskStar's 200 W motor it has much more rated power, and it suits heavier cutting. Against the DeWalt DCS380B it lacks the platform and long term support, but it includes batteries and blades. It is a good option for a homeowner who needs more power.\n\nRuntime is modest, so plan to swap batteries. Check the warranty and use quality blades. Check the blade teeth after use, because carbide blades chip if they hit a nail.",
+   "bestFor": "Homeowners who want more power from a kit.",
+   "pros": [
+    "500 W brushless motor",
+    "Two 4.0 Ah batteries included",
+    "Eight blades for many materials",
+    "Tool-free blade change"
+   ],
+   "cons": [
+    "30 minute runtime per pack",
+    "Proprietary battery platform",
+    "Brand support is limited"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0D1FQNR84?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51fU48niFlL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Stroke length and speed",
+   "explanation": "A 1-1/8 inch stroke, as on the DeWalt DCS380B and DCS387B, moves more material than a 1 inch stroke on the Craftsman. Speed ranges to 3,500 spm on the TaskStar. Long stroke and high speed together cut fastest. Compare both numbers. Many buyers compare strokes per minute and ignore stroke length, but a 1-1/8 inch stroke at 3,000 spm moves about 12 percent more blade per minute than a 1 inch stroke at the same speed. Over a long demolition day that adds up to noticeably faster cuts and fewer blades burned."
+  },
+  {
+   "criterion": "Battery capacity and runtime",
+   "explanation": "A reciprocating saw drains batteries quickly in thick wood. A 4.0 Ah pack gives about half an hour in the Olmlmo claim. A 5 Ah pack on the DeWalt lasts longer. Keep a second pack charged for demolition days. Runtime claims depend on the material, so treat 30 to 60 minutes as best case. Thick framing lumber with nails drains a 4.0 Ah pack in far less time, so keep a second pack on the charger and rotate them rather than running one to empty."
+  },
+  {
+   "criterion": "Motor type and power",
+   "explanation": "Brushless motors run cooler and last longer, as on the TaskStar and Olmlmo. The Olmlmo quotes 500 W against the TaskStar's 200 W. The DeWalt DCS380B uses a brushed motor but a proven design. Compare motor power and build, not just the label. Wattage on unbranded saws is a marketing number that may describe peak input. A 500 W label does not guarantee more cutting force than a well made saw with no wattage listed, so judge by stroke, speed and build as well."
+  },
+  {
+   "criterion": "Compact versus full size",
+   "explanation": "The DeWalt DCS387B is 14 inches long and fits between studs. A full size saw like the DCS380B is better for heavy cuts. Think about where you cut most often. Compact saws also fatigue less overhead. A compact saw is easier to control one handed, but it has less mass to resist blade chatter in heavy cuts. If you cut mostly pipe and studs, compact wins, and if you cut thick timber, full size wins."
+  },
+  {
+   "criterion": "Blade clamp and shoe",
+   "explanation": "A four position clamp allows flush cuts, as on the DeWalt saws. A pivoting shoe, as on the Black+Decker, spreads blade wear. A poor clamp slows blade changes. Test the clamp with gloves. Flush cuts, such as trimming a pipe against a wall, need a clamp that lets you flip the blade. Without it you end up bending the saw awkwardly, so check this before you buy."
+  },
+  {
+   "criterion": "Kit versus bare tool",
+   "explanation": "Bare tools like the DeWalt and Craftsman need batteries. Kits like the Black+Decker, TaskStar and Olmlmo include them. A kit is a good value if you have no platform. Think about future tools. A kit costs more than a bare tool once, but a bare tool costs more once you add a battery and charger. Count the whole price, not just the tool, before you compare."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Stroke length",
+   "meaning": "The blade travel per cycle, such as 1-1/8 inches on the DeWalt. Longer strokes cut faster.",
+   "watchFor": "Many listings omit it. Check both numbers together."
+  },
+  {
+   "spec": "Strokes per minute",
+   "meaning": "Cycles per minute, from 3,000 on the DeWalt to 3,500 on the TaskStar. Higher spm cuts faster.",
+   "watchFor": "Speed without stroke is misleading. Peak ratings differ from continuous."
+  },
+  {
+   "spec": "Watts",
+   "meaning": "Motor power, such as 500 W on the Olmlmo and 200 W on the TaskStar. It shows motor class.",
+   "watchFor": "Peak ratings differ from continuous. Always compare battery size."
+  },
+  {
+   "spec": "Amp hours",
+   "meaning": "Battery capacity, such as 4.0 Ah. More Ah gives longer runtime.",
+   "watchFor": "Runtime claims vary with material. Many unbranded brands inflate wattage."
+  },
+  {
+   "spec": "Pivoting shoe",
+   "meaning": "A shoe that rocks to spread blade wear and control depth. It extends blade life.",
+   "watchFor": "A loose shoe wobbles. Spend on blades before spending on tools."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cutting capability",
+   "description": "We compared stroke and speed, with the DeWalt DCS380B at 1-1/8 inches and the TaskStar at 3,500 spm. We treated maker runtime claims as best case figures."
+  },
+  {
+   "title": "Motor and power",
+   "description": "We credited brushless motors, and compared 500 W on the Olmlmo with 200 W on the TaskStar. Wattage ratings were weighed against actual build."
+  },
+  {
+   "title": "Battery and kit",
+   "description": "We counted batteries and blades. The TaskStar and Olmlmo include two 4.0 Ah packs. Battery counts mattered more than capacity alone."
+  },
+  {
+   "title": "Size and handling",
+   "description": "The DCS387B at 14 inches ranked for access, the DCS380B for power. Weight with a battery installed was considered."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "The DCS380B leads overall and the DCS387B for compactness. The TaskStar is the value kit and the Olmlmo the high power kit. The ranking favors saws that suit a clear use."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Job",
+   "table": {
+    "headers": [
+     "Job",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "General demolition",
+      "DeWalt DCS380B",
+      "1-1/8 inch stroke"
+     ],
+     [
+      "Tight spaces",
+      "DeWalt DCS387B",
+      "14 inches"
+     ],
+     [
+      "Craftsman platform",
+      "Craftsman CMCS300B",
+      "V20 battery"
+     ],
+     [
+      "Light home jobs",
+      "Black+Decker BDCR20C",
+      "Kit"
+     ],
+     [
+      "Pruning, low cost",
+      "TaskStar Kit",
+      "Two batteries"
+     ],
+     [
+      "More power kit",
+      "Olmlmo Kit",
+      "500 W"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "TaskStar Kit",
+      "Kit value"
+     ],
+     [
+      "Low",
+      "Olmlmo Kit",
+      "More power"
+     ],
+     [
+      "Low to mid",
+      "Craftsman CMCS300B",
+      "Bare tool"
+     ],
+     [
+      "Mid",
+      "Black+Decker BDCR20C",
+      "Home kit"
+     ],
+     [
+      "Upper",
+      "DeWalt DCS387B",
+      "Compact"
+     ],
+     [
+      "Highest",
+      "DeWalt DCS380B",
+      "Proven pro"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Platform vs Standalone Kit",
+   "cards": [
+    {
+     "label": "Platform tool",
+     "text": "Bare tools on established batteries. The DeWalt DCS380B, DCS387B and Craftsman CMCS300B fit here."
+    },
+    {
+     "label": "Standalone kit",
+     "text": "Complete kits with batteries and blades. The Black+Decker, TaskStar and Olmlmo fit here."
+    }
+   ],
+   "note": "Choose platform if you will add tools, and kit for a single job."
+  },
+  {
+   "subheading": "Size",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Smallest",
+      "DeWalt DCS387B",
+      "14 inches"
+     ],
+     [
+      "Full size",
+      "DeWalt DCS380B",
+      "Longer body"
+     ],
+     [
+      "Small kit",
+      "TaskStar Kit",
+      "Light"
+     ],
+     [
+      "Heavier kit",
+      "Olmlmo Kit",
+      "500 W"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Pruning and Yard Work Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A pruning blade, a long stroke and a light body. Yard work needs run time. A kit with two batteries helps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The TaskStar and Olmlmo kits include two batteries for yard work. The Black+Decker is a simple home option."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cut often and want a platform. The DeWalt DCS380B or DCS387B repays the cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You cut a few times a year. The TaskStar or Black+Decker is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace blades",
+   "interval": "When cuts slow",
+   "why": "Dull blades overheat and strain the motor. Always unplug or remove the battery first."
+  },
+  {
+   "task": "Clean the clamp",
+   "interval": "Monthly",
+   "why": "Dust prevents blades from locking. Use a stiff brush, never a screwdriver."
+  },
+  {
+   "task": "Check the shoe",
+   "interval": "Every few months",
+   "why": "A loose shoe wobbles. Replace it if it stays loose."
+  },
+  {
+   "task": "Store batteries correctly",
+   "interval": "Between jobs",
+   "why": "Partial charge indoors extends life. Avoid hot cars and cold basements."
+  },
+  {
+   "task": "Blow out vents",
+   "interval": "After dusty jobs",
+   "why": "Dust overheats the motor. Compressed air works best."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long do cordless reciprocating saw batteries last?",
+   "a": "It varies. A 4.0 Ah pack may give about 30 to 60 minutes of intermittent cutting. For tree work, pair a pruning blade with a longer stroke saw to avoid binding."
+  },
+  {
+   "q": "Is cordless as good as corded?",
+   "a": "Pro cordless saws are close. Budget kits are lighter duty. Pro saws hold their power through long jobs, but budget kits are fine for occasional work."
+  },
+  {
+   "q": "What blade should I use?",
+   "a": "A nail embedding blade for framing, a pruning blade for branches and bimetal for metal. Blades with fewer teeth per inch cut wood faster, and more teeth cut metal cleaner."
+  },
+  {
+   "q": "Do I need brushless?",
+   "a": "For heavy use, yes. For occasional cuts, brushed is fine. Brushed motors work fine for light jobs and cost less."
+  },
+  {
+   "q": "Can I cut metal?",
+   "a": "Yes with a metal blade at low speed. Use low speed for metal and let the blade do the work."
+  },
+  {
+   "q": "What is the shoe for?",
+   "a": "It braces the saw against the work and controls depth. It also spreads blade wear. The shoe also stops the saw from bouncing against the surface you cut."
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/31jJIpPJIAL._SL500_.jpg",
+ "relatedGuides": []
+}

@@ -1,0 +1,12 @@
+# Drills, impact drivers, screwdrivers, impact wrenches research
+- Torque in in-lbs matters more than voltage: 20V drills range from about 280 to 600+ in-lbs. Light work ~300, hardwood/metal 500+.
+- Clutch ring (numbered) stops at set torque; drill mode bypasses it. Low numbers for small screws, high for lag work.
+- Brushless gives longer run time, cooler running, no brush wear; brushed still fine for occasional use.
+- Chuck: 1/2 inch keyless standard for full size; 3/8 inch on compact/budget. Two speed gearbox: low for driving, high for drilling.
+- UWO (unit watts out) is DeWalt's power metric. Peak/max torque claims on no-name brands are not comparable.
+- Battery platform lock-in is the real long term cost; 1.3 to 2.0 Ah packs are light, 4+ Ah last longer but weigh more.
+- Impact drivers use a hammer-anvil mechanism for rotational impacts; 1/4 inch hex; cannot hold a drill bit chuck without adapter; louder.
+- Impact wrench: fastening torque vs breakaway (nut-busting) torque; marketing numbers are breakaway peak. 1/2 inch drive for lug nuts.
+- Hammer drill: hammer action for masonry; SDS-plus rotary hammer uses piston mechanism with impact energy in joules, far stronger.
+- Right angle drills fit between studs/joists; corded 3/8 vs cordless.
+- Drill presses: swing size (10 inch = 5 inch to column), speed range, quill travel, runout, table tilt. Cast iron base reduces vibration.

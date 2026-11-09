@@ -1,0 +1,614 @@
+{
+ "guideSlug": "best-track-saws",
+ "categorySlug": "power-tools",
+ "mainKeyword": "track saw",
+ "guideTitle": "Best Track Saws (2026)",
+ "metaTitle": "Best Track Saws for Straight Cuts (2026)",
+ "metaDescription": "Corded and cordless track saws compared by plunge depth, rail system, dust port and splinter control, so you can pick one that fits your shop and sheet goods.",
+ "lastUpdated": "2026-11-09",
+ "readTime": "14 min",
+ "expertTake": "The Makita SP6000J1 is the best track saw for most woodworkers: a 12 amp motor, a 55 inch rail and a stackable case in one kit. The WEN CT1065 is the value pick if you want to try track sawing before committing. The Festool TS 55 is the choice if you cut expensive veneered plywood daily and want the most refined rail and splinter guard. If you only break down a few sheets a year, a plain circular saw and a clamped straightedge will do.",
+ "introParagraphs": [
+  "A track saw is a plunge-cut circular saw that rides on an aluminum rail, so the blade follows a fixed line instead of your hand. The rail has a rubber strip that presses on the surface and prevents tear-out, which is why the cut edge is clean enough to glue without a second pass.",
+  "The spec sheet hides most of what matters: how deep the blade really cuts when it sits on the rail, how the rail is joined, and how well the dust port works."
+ ],
+ "products": [
+  {
+   "id": "B00CHN6L74",
+   "badge": "Best Overall",
+   "name": "Makita SP6000J1 6-1/2 in Plunge Saw Kit with 55 in Rail",
+   "price": "",
+   "specs": [
+    "12 amp corded",
+    "2,000-5,200 RPM",
+    "55 in guide rail",
+    "Stackable case"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "12 amp, electronic speed control"
+    },
+    {
+     "label": "Speed range",
+     "value": "2,000 to 5,200 RPM"
+    },
+    {
+     "label": "Depth at 90 degrees",
+     "value": "2-3/16 in"
+    },
+    {
+     "label": "Depth at 45 degrees",
+     "value": "1-9/16 in"
+    },
+    {
+     "label": "Bevel range",
+     "value": "-1 to 48 degrees"
+    },
+    {
+     "label": "Kit",
+     "value": "55 in rail and case"
+    }
+   ],
+   "description": "The SP6000J1 is a plunge saw built around a 12 amp motor with electronic speed control and a dial that sets the blade between 2,000 and 5,200 RPM. Electronic feedback holds blade speed under load, which matters when you push through dense hardwood or a laminate-faced panel. The kit includes a 55 inch rail and a stackable case, so it is ready to cut a full sheet lengthwise.\n\n5 and 45 degrees. It is a cord tool, so you trade the freedom of the Milwaukee for a motor that never runs out of charge.\n\nOwnership is simple: wipe the rail strip clean, keep the plunge column free of dust and replace the splinter strip when it gets chewed. A 55 inch rail is short for a 96 inch ripping line, so budget for a second rail and connector if you break down full sheets often.",
+   "bestFor": "Woodworkers who want a proven corded track saw kit that cuts full-size sheet goods.",
+   "pros": [
+    "Electronic speed control holds RPM under load",
+    "Wide 2,000 to 5,200 RPM speed range",
+    "Includes 55 inch rail and stackable case",
+    "Bevel stops at 22.5 and 45 degrees"
+   ],
+   "cons": [
+    "55 inch rail needs a second rail for 8 foot sheets",
+    "Corded, so cord management matters on a job site"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00CHN6L74?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YV3AMGjTL._SL500_.jpg"
+  },
+  {
+   "id": "B0897YPSF8",
+   "badge": "Best Premium Pick",
+   "name": "Festool TS 55 FEQ Plunge Track Saw with 55 in Rail",
+   "price": "",
+   "specs": [
+    "1,200 W corded",
+    "55 mm depth",
+    "Splinter guard",
+    "47 degree bevel"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "1,200 W, electronically regulated"
+    },
+    {
+     "label": "Cut depth",
+     "value": "55 mm (about 2-3/16 in)"
+    },
+    {
+     "label": "Bevel",
+     "value": "Up to 47 degrees"
+    },
+    {
+     "label": "Rail",
+     "value": "55 inch FS rail included"
+    },
+    {
+     "label": "Splinter guard",
+     "value": "Replaceable, both sides"
+    },
+    {
+     "label": "Dust",
+     "value": "Vac port for hose"
+    }
+   ],
+   "description": "The TS 55 is the saw most other track saws are measured against. Festool designed the rail and saw as one system: the saw locks onto the rail with adjustable guides so there is no play, and a replaceable splinter guard supports the wood fibers on the cut line. The result is a cut that looks like it came off a panel saw, even on veneered plywood.\n\nThe bevel runs up to 47 degrees, and the cut line stays on the rail edge as the saw tilts, which means you do not have to recalibrate when you switch from straight to angled cuts. The Makita has a bigger motor and a lower cost of entry.\n\nThe ownership upside is that the system is shared across sanders and routers, and the dust port connects directly to a vacuum with a standard hose. Rail strips and splinter guards are replaceable, and a worn one is easy to see.",
+   "bestFor": "Cabinetmakers and finish carpenters who cut veneered or melamine panels all day.",
+   "pros": [
+    "Zero-play rail and saw interface",
+    "Replaceable splinter guard on both sides",
+    "Cut line holds through the full bevel range",
+    "Ports directly to a shop vacuum"
+   ],
+   "cons": [
+    "Priced as a premium tool, far above the others here",
+    "55 inch rail is short for 8 foot sheets"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0897YPSF8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31qYfxLWPAL._SL500_.jpg"
+  },
+  {
+   "id": "B001J69QAO",
+   "badge": "Best Rail-Compatible Kit",
+   "name": "DEWALT DWS520K 6-1/2 in TrackSaw Kit",
+   "price": "",
+   "specs": [
+    "Corded",
+    "2-1/8 in on-track depth",
+    "Dual-edge track",
+    "Zero clearance"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Corded"
+    },
+    {
+     "label": "Depth on track, 90 degrees",
+     "value": "2-1/8 in (54 mm)"
+    },
+    {
+     "label": "Depth on track, 45 degrees",
+     "value": "1-5/8 in (41 mm)"
+    },
+    {
+     "label": "Track",
+     "value": "Dual-edge, cuts both directions"
+    },
+    {
+     "label": "Cut system",
+     "value": "Zero clearance"
+    },
+    {
+     "label": "Depth scale",
+     "value": "Indicates exact depth"
+    }
+   ],
+   "description": "The DWS520K is a 6-1/2 inch plunge saw sold as a kit with a track, designed to deliver zero-clearance cuts along a rail. Its dual-edged track lets you cut from either side, so you can place the rail on the good side of the stock or the reverse side without turning the panel around.\n\nOn the track it cuts 2-1/8 inches deep at 90 degrees and 1-5/8 inches at 45 degrees, and the depth scale shows the setting. It lacks the speed range of the Makita, so thin laminate or plastics are easier to cut cleanly on the Makita.\n\nThe cord is the usual limit, and the track should be stored flat so it does not bow. Check the rubber strip for nicks, because a damaged strip lets splinters through.",
+   "bestFor": "Remodelers who want a ready-to-cut kit from a familiar job-site brand.",
+   "pros": [
+    "Dual-edge track cuts from either direction",
+    "Depth scale shows the exact setting",
+    "Zero-clearance cut system reduces tear-out",
+    "Plunges cleanly for pocket cuts"
+   ],
+   "cons": [
+    "Slightly shallower on-track depth than the Makita",
+    "No wide speed dial for laminates and plastics"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B001J69QAO?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Vcwy7b6kL._SL500_.jpg"
+  },
+  {
+   "id": "B0F3NZ7H52",
+   "badge": "Best Cordless Brushless",
+   "name": "Milwaukee M18 FUEL 2831-20 6-1/2 in Plunge Track Saw (Bare)",
+   "price": "",
+   "specs": [
+    "M18 FUEL brushless",
+    "POWERSTATE motor",
+    "Variable speed dial",
+    "Bare tool"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "M18 FUEL"
+    },
+    {
+     "label": "Motor",
+     "value": "POWERSTATE brushless"
+    },
+    {
+     "label": "Blade size",
+     "value": "6-1/2 in"
+    },
+    {
+     "label": "Speed",
+     "value": "Variable speed dial"
+    },
+    {
+     "label": "Blade change",
+     "value": "Quick-lock system"
+    },
+    {
+     "label": "Kit",
+     "value": "Bare tool, battery and rail separate"
+    }
+   ],
+   "description": "The M18 FUEL track saw puts a brushless POWERSTATE motor on a 6-1/2 inch plunge saw and runs on the M18 battery system. It has a variable speed dial, a quick-lock blade change, a vac port and a smooth plunge action, plus an adjustable cam to take play out of the rail interface.\n\nThe key buying detail is the word bare. Compared with the corded Makita, it gives you freedom from the cord and a lighter swing, but you have to manage battery life on long rips.\n\nOwnership comes down to battery planning: for sheet goods, keep a charged high-output pack in reserve, because a brushless saw pulls hard in thick hardwood. Keep the rail strip clean and check the cam adjustment if you feel any wobble.",
+   "bestFor": "M18 owners who want a cordless track saw for jobs without power.",
+   "pros": [
+    "Brushless motor cuts without a cord",
+    "Quick-lock blade change speeds up swaps",
+    "Variable speed dial for different materials",
+    "Adjustable cam removes rail play"
+   ],
+   "cons": [
+    "Bare tool needs a battery and a rail bought separately",
+    "Long rips drain packs faster than a corded motor"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3NZ7H52?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31mO6KVn2dL._SL500_.jpg"
+  },
+  {
+   "id": "B07VFXFTVP",
+   "badge": "Best Value",
+   "name": "WEN CT1065 10 Amp 6-1/2 in Plunge Track Saw",
+   "price": "",
+   "specs": [
+    "10 amp corded",
+    "6-1/2 in blade",
+    "2-1/3 in rip depth",
+    "45 degree bevel"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "10 amp"
+    },
+    {
+     "label": "Blade",
+     "value": "6-1/2 in"
+    },
+    {
+     "label": "Rip depth",
+     "value": "Up to 2-1/3 in"
+    },
+    {
+     "label": "Bevel depth",
+     "value": "1-5/8 in at 45 degrees"
+    },
+    {
+     "label": "Cut type",
+     "value": "Plunge and rip"
+    },
+    {
+     "label": "Price tier",
+     "value": "Least expensive pick here"
+    }
+   ],
+   "description": "The WEN CT1065 is the least expensive track saw in this guide and a sensible way to try the format. It has a 10 amp motor and a 6-1/2 inch blade, rips boards up to 2-1/3 inches thick and makes 45 degree bevel cuts in stock up to 1-5/8 inches. It also plunges for internal cuts.\n\nThe tradeoffs are visible next to the Makita SP6000J1: a smaller motor, less refined rail interface and no electronic speed feedback. If you plan to use it every week, the Makita and Festool will hold their accuracy longer.\n\nCheck the rail seating before the first cut and use a sharp, higher-tooth-count blade for veneered sheets. Store the rail flat and keep the plunge mechanism free of dust.",
+   "bestFor": "Hobbyists who want to try track sawing at the lowest entry cost.",
+   "pros": [
+    "Lowest cost of entry in the lineup",
+    "Rips up to 2-1/3 in thick stock",
+    "45 degree bevel up to 1-5/8 in",
+    "Plunge action for internal cuts"
+   ],
+   "cons": [
+    "Smaller motor than the Makita or Festool",
+    "Rail interface is less precise than premium systems"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07VFXFTVP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41747AcvT8L._SL500_.jpg"
+  },
+  {
+   "id": "B01IVTAO8Y",
+   "badge": "Best 36V Cordless",
+   "name": "Makita XPS01PTJ 36V X2 LXT Brushless Plunge Saw Kit",
+   "price": "",
+   "specs": [
+    "Two 18V LXT packs",
+    "6,300 RPM",
+    "Brushless",
+    "5.0Ah kit"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "Two 18V LXT batteries (36V)"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Speed",
+     "value": "6,300 RPM"
+    },
+    {
+     "label": "Blade",
+     "value": "6-1/2 in"
+    },
+    {
+     "label": "Battery",
+     "value": "5.0Ah packs in kit"
+    },
+    {
+     "label": "Feature",
+     "value": "Automatic speed change"
+    }
+   ],
+   "description": "The XPS01PTJ uses two 18 volt LXT batteries in series to deliver 36 volts to a brushless motor that turns the blade at 6,300 RPM. Makita's automatic speed change technology adjusts speed and torque during the cut, so the saw works harder when it senses load.\n\nThe benefit is corded power without the cord, as well as battery compatibility with the many LXT tools sold. 0Ah batteries, which suits cabinet breakdowns but drains quickly on thick, wet lumber.\n\nOwnership centers on the batteries: keep both packs at similar charge and store them out of heat. The rail must be bought as the plunge saw kit is meant to work with Makita guide rails, so confirm compatibility before you buy.",
+   "bestFor": "LXT owners who want cordless power close to a corded track saw.",
+   "pros": [
+    "Two 18V packs give 36V of power",
+    "Brushless motor with automatic speed change",
+    "Runs without a cord on remote jobs",
+    "Included 5.0Ah batteries"
+   ],
+   "cons": [
+    "Heavier than corded and single-battery saws",
+    "Guide rail must be matched and bought separately"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B01IVTAO8Y?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41roZ3eavaL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "On-rail cutting depth",
+   "explanation": "A track saw sits on top of the rail, which lifts the blade and reduces depth. Makita rates the SP6000J1 at 2-3/16 inches at 90 degrees and the DeWalt DWS520K at 2-1/8 inches on the track, while the WEN CT1065 rips up to 2-1/3 inches. A common mistake is to buy on the free-hand number and then discover that a 2x6 needs two passes. Look for at least 2 inches on the rail if you cut structural lumber."
+  },
+  {
+   "criterion": "Rail interface and play",
+   "explanation": "Accuracy comes from how tightly the saw sits on the rail, not the motor. Premium systems like the Festool TS 55 use adjustable guides that remove play, and the Milwaukee has an adjustable cam for the same job. Test by pushing the saw sideways on the rail: any visible movement becomes a wavy cut. A budget saw like the WEN CT1065 can be shimmed, but it needs checking each time."
+  },
+  {
+   "criterion": "Corded versus cordless power",
+   "explanation": "A corded 10 to 12 amp motor, like the Makita SP6000J1 at 12 amps, delivers steady power all day. Cordless units, like the Milwaukee M18 FUEL and Makita XPS01PTJ, trade runtime for mobility, and a 36V pair of batteries on the Makita comes close to corded performance. Buy cordless only if you already own the battery platform. Otherwise the bare-tool price hides the cost of batteries and a charger."
+  },
+  {
+   "criterion": "Splinter control and rail strip",
+   "explanation": "The rubber strip on the rail edge supports the surface fibers and is what makes a track saw cut clean. It wears out, and a nicked strip lets tear-out through on veneered plywood. The Festool has a replaceable guard on both sides, and the DeWalt includes a zero-clearance system. Plan to replace strips as consumables and check them before expensive material."
+  },
+  {
+   "criterion": "Dust port and vacuum fit",
+   "explanation": "A track saw throws a lot of fine dust when it plunges into sheet goods. A vac port that fits a standard hose and a vacuum with auto-start turns a messy job into a mostly clean one. The Milwaukee and Festool both emphasize the port, and the WEN has one too. Mixed port sizes are a common frustration, so check that your hose fits before you buy."
+  },
+  {
+   "criterion": "Rail length and joining",
+   "explanation": "A 55 inch rail is enough for a crosscut on a sheet but not for an 8 foot rip. The Makita SP6000J1 and Festool ship with 55 inch rails, and the WEN CT1065 and Dekopro style bundles use two shorter rails that join. Joining rails adds a small alignment risk at the seam. If you rip full sheets weekly, budget for a long rail or a reliable connector."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Amps",
+   "meaning": "Amps describe how much current the motor draws, which is a rough proxy for power. A 12 amp motor, like the Makita, can sustain load better than a 10 amp one.",
+   "watchFor": "A 10 amp saw like the WEN CT1065 is fine for plywood but slower in thick hardwood. Do not assume more amps means a better rail system."
+  },
+  {
+   "spec": "No-load RPM",
+   "meaning": "This is the blade speed with nothing in the cut. Speed drops under load, and good motors hold it with electronics.",
+   "watchFor": "A 6,300 RPM figure on the cordless Makita is a no-load number. Check whether the saw holds speed in thick stock."
+  },
+  {
+   "spec": "Depth at 90 and 45 degrees",
+   "meaning": "Depth tells you how thick a board the blade clears. At 45 degrees the blade tilts and the cut depth falls, which is why 1-9/16 inches is common at that setting.",
+   "watchFor": "Some listings quote a free-hand depth. Compare on-track depth, as the DeWalt and Makita do."
+  },
+  {
+   "spec": "Bevel range",
+   "meaning": "Bevel range is how far the saw tilts for angled cuts. Makita lists -1 to 48 degrees and the Festool reaches 47.",
+   "watchFor": "A saw that tilts but moves the cut line off the rail edge forces you to recalibrate. The Festool design keeps the line constant."
+  },
+  {
+   "spec": "Brushless motor",
+   "meaning": "A brushless motor uses electronics to commutate instead of carbon brushes, which reduces friction and heat and extends runtime on batteries. It also removes brush replacement from maintenance.",
+   "watchFor": "Brushless does not mean powerful by itself. A brushless saw with a small pack will still run out of charge in thick stock."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cut depth on the rail",
+   "description": "We compared the rated depth at 90 and 45 degrees for each saw, favoring figures given with the saw on the track. The Makita SP6000J1 at 2-3/16 inches set the top of the corded range, and the DeWalt DWS520K at 2-1/8 inches was close behind. Saws that quote only free-hand depth were treated with caution."
+  },
+  {
+   "title": "Rail system and accuracy",
+   "description": "We looked at how each saw locks to its rail, whether play can be adjusted and whether the splinter strip is replaceable. The Festool TS 55 and Milwaukee have the most adjustment, and the WEN CT1065 has the least. This matters more than motor size for finish work."
+  },
+  {
+   "title": "Power and speed control",
+   "description": "We compared motor ratings and speed control: the 12 amp Makita with electronic control, the 10 amp WEN and the brushless cordless units. A variable speed dial earned credit because it lets you cut laminate and plastic cleanly."
+  },
+  {
+   "title": "Dust collection",
+   "description": "We checked for a vac port, how it connects and whether the design contains chips at the plunge. A saw that makes the shop clean is easier to use for long jobs. Festool and Milwaukee emphasize their ports."
+  },
+  {
+   "title": "Ownership and platform",
+   "description": "We weighed the kit contents, whether a rail is included and which battery platform a cordless saw requires. The Milwaukee 2831-20 ships as a bare tool, while the Makita XPS01PTJ ships with batteries. This changes the real cost and who should buy each pick."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Type of Work",
+   "intro": "Match the saw to the material you cut most.",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Veneered plywood and cabinet panels",
+      "Festool TS 55",
+      "Adjustable guides and replaceable splinter guard"
+     ],
+     [
+      "Mixed remodeling lumber and sheet goods",
+      "Makita SP6000J1",
+      "12 amp motor, 2-3/16 in depth, ready kit"
+     ],
+     [
+      "Framing and 2x stock on site",
+      "DEWALT DWS520K",
+      "Dual-edge track and 2-1/8 in depth"
+     ],
+     [
+      "Roofing or driveway jobs with no power",
+      "Makita XPS01PTJ",
+      "36V cordless with 5.0Ah packs"
+     ],
+     [
+      "Occasional shop breakdowns",
+      "WEN CT1065",
+      "Low cost and 2-1/3 in rip depth"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers rather than prices.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Entry",
+      "WEN CT1065",
+      "Least expensive way to try a track saw"
+     ],
+     [
+      "Mid-range corded",
+      "DEWALT DWS520K",
+      "Kit with track from a familiar brand"
+     ],
+     [
+      "Upper mid-range",
+      "Makita SP6000J1",
+      "Larger motor and speed range"
+     ],
+     [
+      "Cordless investment",
+      "Milwaukee 2831-20",
+      "Brushless, but bare tool"
+     ],
+     [
+      "Premium",
+      "Festool TS 55",
+      "Best rail interface and finish quality"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Corded vs Cordless",
+   "cards": [
+    {
+     "label": "Corded",
+     "text": "A corded motor gives constant power and no battery planning. The Makita SP6000J1, DEWALT DWS520K, WEN CT1065 and Festool TS 55 all run this way, and they are the better choice for a shop with outlets."
+    },
+    {
+     "label": "Cordless",
+     "text": "A cordless saw frees you from the cord and extension leads. The Milwaukee 2831-20 and Makita XPS01PTJ fit this group, and they make sense when you already own the batteries and work on sites without power."
+    }
+   ],
+   "note": "Pick corded for shop use and cordless only if you already own the platform."
+  },
+  {
+   "subheading": "Kit Contents",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick"
+    ],
+    "rows": [
+     [
+      "Rail and case included",
+      "Makita SP6000J1"
+     ],
+     [
+      "Batteries included",
+      "Makita XPS01PTJ"
+     ],
+     [
+      "Bare tool for existing batteries",
+      "Milwaukee 2831-20"
+     ],
+     [
+      "Track included",
+      "DEWALT DWS520K"
+     ],
+     [
+      "Budget bundle",
+      "WEN CT1065"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Breaking Down Plywood Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a clean rail strip, a rail long enough for the sheet and a dust port that works with your vacuum. Cutting speed should be adjustable for laminate."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Festool TS 55 gives the best edge on veneer, while the Makita SP6000J1 is the best all-round kit. The WEN CT1065 handles plywood for hobby use."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more on the Festool TS 55 if you cut finish panels daily, or on the Makita XPS01PTJ if you need corded-like power without a cord."
+    },
+    {
+     "label": "Save if",
+     "text": "Save with the WEN CT1065 if you cut a few sheets a month, or the DEWALT DWS520K if you want a familiar brand without premium cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the rail strip",
+   "interval": "Before each project",
+   "why": "Sawdust under the strip lifts it and causes tear-out. Wipe it with a dry cloth."
+  },
+  {
+   "task": "Replace the splinter strip",
+   "interval": "When nicked or worn",
+   "why": "A damaged strip stops supporting the fibers. Replacement is inexpensive compared with ruined plywood."
+  },
+  {
+   "task": "Check blade squareness",
+   "interval": "After every blade change",
+   "why": "A blade a degree off the rail edge cuts out of square. Check with a square on a test cut."
+  },
+  {
+   "task": "Clear the plunge column",
+   "interval": "Monthly with heavy use",
+   "why": "Fine dust stiffens the plunge spring and slows the return. Blow it out and wipe the column."
+  },
+  {
+   "task": "Store rails flat",
+   "interval": "Always",
+   "why": "A rail that bows will cut a curved line. Store it on a flat shelf or in its case."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a track saw better than a circular saw with a straightedge?",
+   "a": "A track saw is more accurate and safer because the saw is locked to the rail and the splinter strip prevents tear-out. A clamped straightedge works for occasional cuts but has more play and no dust control."
+  },
+  {
+   "q": "Do I need a cordless track saw?",
+   "a": "Only if you work away from outlets or already own the battery platform. A corded saw like the Makita SP6000J1 gives steady power with no battery planning."
+  },
+  {
+   "q": "Why is the rated depth lower than my circular saw?",
+   "a": "The rail lifts the saw, so the blade clears less material. Compare on-rail depth, such as the 2-1/8 inches on the DeWalt DWS520K, rather than free-hand depth."
+  },
+  {
+   "q": "Can I use a universal guide like the Milescraft with my saw?",
+   "a": "A universal guide can improve accuracy on a standard circular saw, but it does not plunge or collect dust like a dedicated track saw. It is a budget alternative, not a substitute."
+  },
+  {
+   "q": "What blade should I use?",
+   "a": "Use a thin-kerf blade with a high tooth count, around 48 teeth for veneered plywood. A 24 tooth blade is fine for rough lumber but leaves a coarser edge."
+  },
+  {
+   "q": "Do I need a dust collector?",
+   "a": "A vacuum with a hose that fits the port is enough. Fine sheet-good dust is a health concern, so wear a mask even with a vacuum attached."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41YV3AMGjTL._SL500_.jpg"
+}

@@ -1,0 +1,619 @@
+{
+ "guideSlug": "best-hammer-drills",
+ "categorySlug": "power-tools",
+ "mainKeyword": "hammer drill",
+ "guideTitle": "Best Hammer Drills (2026)",
+ "metaTitle": "Best Hammer Drills in 2026",
+ "metaDescription": "Six hammer drills compared on torque, chuck, hammer action and battery platform, from compact 12V models to corded budget machines for masonry.",
+ "lastUpdated": "2026-11-06",
+ "readTime": "13 min",
+ "expertTake": "The DeWalt DCD1007B is the strongest cordless hammer drill here and the right buy if you drill large holes in wood, steel and masonry. The Craftsman CMCD711C2 is the value pick because it ships with two batteries and a charger. If you drill more than a handful of holes in poured concrete, skip all of these and rent or buy an SDS rotary hammer, since a hammer drill only taps masonry, it does not break it.",
+ "introParagraphs": [
+  "A hammer drill adds a rapid tapping action to a normal drill so a carbide bit can chip into brick, block and soft concrete. The label rarely explains the catch: the hammer is mild compared with a rotary hammer, and a drill that is excellent in lumber can be mediocre in masonry.",
+  "This guide explains what hammer action really does, how torque, chuck type and motor design change daily use, and where corded tools still beat batteries. Our top picks sit above, and the reviews below add the ownership detail a spec chip cannot."
+ ],
+ "products": [
+  {
+   "id": "B0D8TM5MW4",
+   "badge": "Best Overall",
+   "name": "DeWalt DCD1007B 20V MAX XR Brushless Hammer Drill",
+   "specs": [
+    "20V MAX XR brushless",
+    "1/2 inch chuck",
+    "Anti-rotation",
+    "Bare tool"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Role",
+     "value": "Top power hammer drill"
+    },
+    {
+     "label": "Safety",
+     "value": "Anti-rotation system"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "DeWalt 20V MAX"
+    }
+   ],
+   "description": "The DCD1007B is DeWalt's most powerful 20V MAX half inch hammer drill, built for large diameter holes in wood, metal and concrete. Its anti-rotation system senses when the body starts to twist, as it does when a big bit binds, and cuts power to protect your wrist. That feature alone makes it the safest high torque drill in this group.\n\nCompared with the DCD996B it trades the three speed gearbox for higher peak torque, so it is the better choice for auger bits and hole saws. It is heavier and longer than the DCD799B, which is the tradeoff for the extra muscle. For tapping anchors into brick it is perfectly capable, though serious concrete drilling still belongs to an SDS tool.\n\nIt is sold as a bare tool, so budget separately for batteries and a charger if you are new to the platform. Large packs from 5 Ah up hold the tool well in extended use, and the 20V MAX line gives you hundreds of compatible tools later.",
+   "bestFor": "Tradespeople and serious DIYers drilling big holes in mixed materials.",
+   "pros": [
+    "Highest torque among the cordless picks",
+    "Anti-rotation shuts off when the bit binds",
+    "Brushless motor holds power under heavy load",
+    "Fits the broad DeWalt 20V MAX battery platform"
+   ],
+   "cons": [
+    "Heavier and longer than compact models",
+    "Sold bare, so batteries cost extra",
+    "Overkill for light household drilling"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0D8TM5MW4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xYv9wpMuL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01DR90MM6",
+   "badge": "Best Three Speed",
+   "name": "DeWalt DCD996B 20V MAX XR Brushless Hammer Drill Driver",
+   "specs": [
+    "20V MAX XR brushless",
+    "3 speed",
+    "1/2 inch chuck",
+    "3-mode LED"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Gearbox",
+     "value": "3 speed"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch metal ratcheting"
+    },
+    {
+     "label": "Light",
+     "value": "3-mode LED"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "DeWalt 20V MAX"
+    }
+   ],
+   "description": "The DCD996B's third gear is its selling point: a low gear for large bits, a middle gear for driving and a high gear for fast small holes. That wider spread means one drill handles lag screws, 3 inch hole saws and masonry anchors without feeling overmatched. The metal ratcheting chuck with carbide inserts holds bits tightly against the hammer vibration.\n\nIt predates the DCD1007B, so it is the older flagship, with less peak torque and no anti-rotation protection. It also has a longer body than the DCD799B, so it is not the tool for cabinets. The 3-mode LED is a small but useful detail when working in dark crawlspaces.\n\nBuy it bare if you already own DeWalt batteries and it will pay you back in run time over a brushed drill. Keep the chuck clean of masonry dust and tighten it by hand, never with a hammer.",
+   "bestFor": "Users who want fine speed control across wood, metal and masonry.",
+   "pros": [
+    "Three speed gearbox covers every task range",
+    "Metal ratcheting chuck holds bits under vibration",
+    "Brushless motor extends run time per charge",
+    "Bright LED lights dark work areas"
+   ],
+   "cons": [
+    "No anti-rotation protection on large bits",
+    "Longer body than compact drills",
+    "Older design than the DCD1007B"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B01DR90MM6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41yjs9xLLFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BY184ZY2",
+   "badge": "Best Compact Hammer Drill",
+   "name": "DeWalt DCD799B Atomic 20V MAX Compact Hammer Drill",
+   "specs": [
+    "Atomic compact",
+    "6.49 inch head",
+    "Up to 1,650 rpm",
+    "Brushless"
+   ],
+   "specList": [
+    {
+     "label": "Head length",
+     "value": "6.49 inches"
+    },
+    {
+     "label": "Max speed",
+     "value": "1,650 rpm"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch ratcheting"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "DeWalt 20V MAX"
+    }
+   ],
+   "description": "The DCD799B is DeWalt's shortest 20V MAX hammer drill, with a head length of 6.49 inches, so it fits between studs, under sinks and inside cabinets. It tops out at 1,650 rpm and uses a ratcheting half inch chuck for solid bit retention. For overhead anchors and tight framing it is far less tiring than the longer drills.\n\nAgainst the DCD1007B it gives up torque in exchange for size. If your work involves pilot holes, tapcons and driving screws, the DCD799B is the better daily drill. If you bore large holes in beams, pick the heavier machine.\n\nBecause it is sold without a battery, it makes most sense for owners who already have 20V MAX packs. A 2 Ah to 4 Ah pack keeps weight down. Tap the chuck clean after masonry work.",
+   "bestFor": "Remodelers working in cramped spaces and overhead.",
+   "pros": [
+    "Shortest 20V MAX hammer drill at 6.49 inches",
+    "Ratcheting chuck gives strong bit retention",
+    "Brushless motor with speeds up to 1,650 rpm",
+    "Light enough for overhead anchor work"
+   ],
+   "cons": [
+    "Lower torque than the DCD1007B",
+    "Sold without battery or charger",
+    "Not meant for large auger bits"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0BY184ZY2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419vZ9pTS4L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BPDKS8SH",
+   "badge": "Best 12V Subcompact",
+   "name": "Milwaukee M12 FUEL 1/2 Inch Hammer Drill Driver",
+   "specs": [
+    "M12 FUEL brushless",
+    "2.6 lb",
+    "1/2 inch chuck",
+    "Subcompact"
+   ],
+   "specList": [
+    {
+     "label": "Weight",
+     "value": "2.6 lb"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Class",
+     "value": "12V subcompact"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "Milwaukee M12"
+    }
+   ],
+   "description": "The Milwaukee M12 FUEL weighs 2.6 lb, a fraction of the 20V MAX tools here, and that weight difference is the whole point. A 12V brushless motor handles driving and drilling most of the day without wrist fatigue, and the hammer function is enough for tapcon style anchors in brick and block.\n\nIt is not the pick for big holes, since the DeWalt DCD1007B has far more torque. But electricians, HVAC installers and cabinet hangers often choose a 12V tool precisely because the small battery slips into a pouch. The tradeoff is a battery platform that is smaller than M18.\n\nSold as a bare tool, you pair it with an M12 pack of your choice. Larger 4 Ah and up packs add run time at the cost of weight, and a compact 2 Ah pack keeps the hammer drill nimble.",
+   "bestFor": "Installers who value light weight over maximum torque.",
+   "pros": [
+    "Weighs only 2.6 lb for all day comfort",
+    "Brushless motor with strong driving speed",
+    "Compact size fits tight mounting spaces",
+    "Pairs with the M12 tool family"
+   ],
+   "cons": [
+    "Less torque than 20V class machines",
+    "Sold as bare tool only",
+    "Hammer action is modest in dense concrete"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0BPDKS8SH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41I8FBcHZbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07KK7RBBZ",
+   "badge": "Best Value Cordless",
+   "name": "Craftsman V20 CMCD711C2 Hammer Drill Kit",
+   "specs": [
+    "V20 brushed",
+    "280 UWO",
+    "1/2 inch ratcheting",
+    "2 batteries"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "280 UWO"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch ratcheting"
+    },
+    {
+     "label": "Supplied",
+     "value": "2 batteries, charger"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushed"
+    },
+    {
+     "label": "Role",
+     "value": "Value kit"
+    },
+    {
+     "label": "Platform",
+     "value": "Craftsman V20"
+    }
+   ],
+   "description": "The Craftsman CMCD711C2 delivers 280 unit watts out, a rating below the DeWalt class, and bundles two batteries and a charger, so it is the only cordless pick here that works out of the box. The half inch ratcheting chuck matches the quality tier of tools several times its cost. For decks, fence posts and anchoring into brick it is enough.\n\nIts brushed motor wastes more energy than the brushless DeWalt and Milwaukee drills, so run time per charge is shorter. In exchange you get a complete kit at a lower price, which suits owners who do not already own any 20V tools. Compared with the Hammerhead corded drill it frees you from cords but not from battery planning.\n\nTwo packs let you rotate through a long job. Store batteries indoors at partial charge and expect to replace brushes only after years of heavy use.",
+   "bestFor": "Homeowners who want a complete cordless hammer drill kit.",
+   "pros": [
+    "Ships with two batteries and a charger",
+    "Ratcheting chuck holds bits well",
+    "280 UWO is plenty for home projects",
+    "Lowest cordless entry cost in this group"
+   ],
+   "cons": [
+    "Brushed motor drains batteries faster",
+    "Less torque than the DeWalt pros",
+    "Smaller bare tool ecosystem than DeWalt"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07KK7RBBZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41eV6Zj8f3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08433C5J4",
+   "badge": "Best Corded Budget",
+   "name": "Hammerhead HAHD075 7.5 Amp Corded Hammer Drill",
+   "specs": [
+    "7.5 amp corded",
+    "1/2 inch keyless",
+    "Variable speed",
+    "Hammer mode"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "7.5 amp corded"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch keyless metal"
+    },
+    {
+     "label": "Modes",
+     "value": "Drill and hammer"
+    },
+    {
+     "label": "Speed",
+     "value": "Variable"
+    },
+    {
+     "label": "Power",
+     "value": "Corded"
+    },
+    {
+     "label": "Kit",
+     "value": "Includes 6 bits"
+    }
+   ],
+   "description": "The Hammerhead is a 7.5 amp corded hammer drill, and a cord is a real advantage here. It delivers constant power with no battery fade, so repeated holes in block or brick do not slow down as a pack sags. A mode switch toggles between drilling and hammering.\n\nCorded drills usually beat 20V cordless drills on sustained masonry work at the same price. Against the Craftsman CMCD711C2 you lose portability but gain consistent power and no batteries to replace. Compared with a rotary hammer it is far less capable in dense concrete, and the keyless metal chuck is not as secure as a ratcheting chuck.\n\nExpect more vibration and a heavier feel than a brushless compact. Check the cord condition and keep the vents clean, since corded motors rely on air flow for cooling.",
+   "bestFor": "Occasional masonry work where an outlet is always nearby.",
+   "pros": [
+    "Constant power with no battery fade",
+    "Mode switch toggles hammer on demand",
+    "Lowest purchase cost in the group",
+    "Includes six bits to start"
+   ],
+   "cons": [
+    "Cord limits reach and adds clutter",
+    "Heavier and more vibration than brushless compacts",
+    "Chuck is less secure than a ratcheting design"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B08433C5J4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Nuw+-iCDL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Hammer action versus rotary hammer",
+   "explanation": "A hammer drill uses ridged clutch plates to produce a rapid tapping motion. That is enough for brick, block and soft concrete with a carbide bit, but it is far milder than an SDS piston tool. The DeWalt DCH273B and similar rotary hammers specify impact energy in joules, while these hammer drills do not. If you will drill more than a dozen holes in poured concrete, buy a rotary hammer instead of the DCD1007B."
+  },
+  {
+   "criterion": "Torque and gearbox spread",
+   "explanation": "Large bits need low gear torque, and small bits need speed. The DeWalt DCD996B adds a third gear that covers both, while the DCD799B is tuned for compact tasks and speeds up to 1,650 rpm. Buyers often choose on voltage alone and discover that a 12V Milwaukee is fine for anchors but not auger bits. Match torque to the largest hole you drill, not the average one."
+  },
+  {
+   "criterion": "Chuck type and bit retention",
+   "explanation": "Hammering shakes bits loose, so a ratcheting metal chuck keeps them seated. The DeWalt DCD799B, DCD996B and Craftsman CMCD711C2 all use ratcheting chucks. Keyless plastic or lightweight metal chucks creep under impact. Check the chuck before buying if you will drill concrete often."
+  },
+  {
+   "criterion": "Corded versus battery",
+   "explanation": "A cord delivers constant power with no fade, which suits repeated masonry holes. Battery tools offer mobility and clean tool-free setups on a roof or ladder. The Hammerhead HAHD075 is the corded option here, while the other five run on batteries. Pick corded if you work in a garage or basement shop and cordless if you move around."
+  },
+  {
+   "criterion": "Safety features on big bits",
+   "explanation": "A large bit that binds can twist the drill and your wrist. The DeWalt DCD1007B includes an anti-rotation system that senses sudden body movement and cuts the motor. Without that protection, use the side handle on large bits and brace your stance. This is the most overlooked buying factor on high torque drills."
+  },
+  {
+   "criterion": "Weight and length",
+   "explanation": "A drill that is too long will not fit between studs, and one that is too heavy tires you overhead. The Milwaukee M12 FUEL weighs 2.6 lb and the DeWalt DCD799B has a 6.49 inch head. The DCD1007B is heavier but much stronger. Weigh how often you work in tight spaces against how often you drill large holes."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Impact energy (joules)",
+   "meaning": "Joules measure the force of each hammer blow on SDS rotary hammers and indicate how well they break material. The DeWalt DCH273B quotes 2.1 joules. Standard hammer drills do not publish this number because their cam mechanism is far weaker.",
+   "watchFor": "A hammer drill with no joule figure should not be compared directly with an SDS tool."
+  },
+  {
+   "spec": "UWO",
+   "meaning": "Unit watts out is a power rating for the mechanical output at the chuck. The Craftsman CMCD711C2 quotes 280 UWO, which is lower than DeWalt's stronger tools. It is a more honest yardstick than voltage.",
+   "watchFor": "Brand to brand UWO comparisons depend on how each maker measures it."
+  },
+  {
+   "spec": "Ratcheting chuck",
+   "meaning": "A chuck that clicks as you tighten it and locks against loosening under vibration. Hammer drills shake chucks loose, so this feature keeps bits seated. It is the preferred design for masonry work.",
+   "watchFor": "Some listings call any metal chuck heavy duty even when it lacks a ratchet."
+  },
+  {
+   "spec": "Brushless motor",
+   "meaning": "Electronics commutate the motor, with no brushes to wear. The DeWalt and Milwaukee drills use brushless motors, which stay cooler and deliver more run time. They hold power better under sustained load.",
+   "watchFor": "Brushless alone does not guarantee high torque, so check the torque rating too."
+  },
+  {
+   "spec": "Amp rating on corded tools",
+   "meaning": "The amp draw describes the motor's electrical load. A 7.5 amp motor like the Hammerhead is typical of entry level corded hammer drills. More amps usually mean a stronger motor.",
+   "watchFor": "Amps measure input, not output, so two 7.5 amp tools can differ in actual drilling power."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Hammer capability",
+   "description": "We compared which machines use a true hammer mechanism and which are standard drills. We also noted where the DeWalt DCH273B rotary hammer sits above the hammer drills in masonry capability. The Hammerhead and Craftsman were rated against ordinary brick and block work."
+  },
+  {
+   "title": "Torque and gearing",
+   "description": "We ranked the DCD1007B first on torque, then the DCD996B for its three speed spread, then the compact models. The 1,650 rpm top speed of the DCD799B was weighed against its size. A wide speed range earned higher marks."
+  },
+  {
+   "title": "Chuck and retention",
+   "description": "Hammer drills vibrate, so we credited ratcheting chucks on the DeWalt and Craftsman tools. The Hammerhead's keyless metal chuck earned less credit for security under impact. Bit slippage is a common complaint with weaker chucks."
+  },
+  {
+   "title": "Platform and kit contents",
+   "description": "We looked at whether each tool ships with batteries and how deep the platform is. DeWalt's 20V MAX dominated, while the Craftsman kit stood out as the only complete cordless package. The corded Hammerhead needs nothing beyond an outlet."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "We placed the DCD1007B first for torque, the DCD996B second for gearing and the DCD799B third for compactness. The Milwaukee M12 is the lightweight alternative and the Craftsman kit is the value pick. The Hammerhead anchors the corded tier."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Hole Size",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large holes in beams and masonry",
+      "DeWalt DCD1007B",
+      "Highest torque with anti-rotation"
+     ],
+     [
+      "Mixed drilling and driving",
+      "DeWalt DCD996B",
+      "Three speed gearbox"
+     ],
+     [
+      "Pilot holes and anchors in tight spots",
+      "DeWalt DCD799B",
+      "Shortest head"
+     ],
+     [
+      "Small anchors and light work",
+      "Milwaukee M12 FUEL",
+      "Lightweight 12V"
+     ],
+     [
+      "Occasional brick and block",
+      "Hammerhead HAHD075",
+      "Constant corded power"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Hammerhead HAHD075",
+      "Simple corded tool"
+     ],
+     [
+      "Low cost kit",
+      "Craftsman CMCD711C2",
+      "Two batteries and a charger"
+     ],
+     [
+      "Mid range bare tool",
+      "Milwaukee M12 FUEL",
+      "Compact brushless"
+     ],
+     [
+      "Upper range",
+      "DeWalt DCD799B",
+      "Compact brushless 20V"
+     ],
+     [
+      "Premium",
+      "DeWalt DCD1007B",
+      "Top power and safety"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Corded vs Cordless",
+   "cards": [
+    {
+     "label": "Corded",
+     "text": "A cord gives constant power with no fade, which suits repeated holes in block. The Hammerhead HAHD075 is the lowest cost way to get a hammer function. You trade mobility for sustained output."
+    },
+    {
+     "label": "Cordless",
+     "text": "Batteries allow work anywhere, from ladders to roofs. The DeWalt DCD1007B, DCD996B, DCD799B, Milwaukee M12 FUEL and Craftsman CMCD711C2 all fit this group. Run time varies with pack size."
+    }
+   ],
+   "note": "If outlets are within reach, corded saves money. If you move around, pick a cordless tool."
+  },
+  {
+   "subheading": "Compact vs Full Size",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Shortest head",
+      "DeWalt DCD799B",
+      "6.49 inch head length"
+     ],
+     [
+      "Lightest",
+      "Milwaukee M12 FUEL",
+      "2.6 lb"
+     ],
+     [
+      "Full power",
+      "DeWalt DCD1007B",
+      "Largest holes"
+     ],
+     [
+      "Balanced",
+      "DeWalt DCD996B",
+      "Three speeds"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Masonry Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A ratcheting chuck, a hammer mode switch and a carbide masonry bit. Keep pressure moderate and withdraw the bit often to clear dust. For concrete over a dozen holes, use an SDS tool."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DeWalt DCD996B and DCD1007B hold bits best under hammer action. The Hammerhead HAHD075 is a fine corded budget option for block. The DeWalt DCH273B rotary hammer is the better tool if you want real concrete capacity."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You drill big holes weekly or need safety on binding bits. The DeWalt DCD1007B justifies its cost with anti-rotation and top torque."
+    },
+    {
+     "label": "Save if",
+     "text": "You drill masonry a few times a year. The Craftsman CMCD711C2 kit or the Hammerhead HAHD075 will cover that for much less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean masonry dust from the chuck",
+   "interval": "After each concrete job",
+   "why": "Dust works into the jaws and causes bit slip. Blow it out and wipe the sleeve."
+  },
+  {
+   "task": "Blow out motor vents",
+   "interval": "Every few months",
+   "why": "Masonry dust clogs cooling air flow. Clear vents to avoid overheating."
+  },
+  {
+   "task": "Check the side handle",
+   "interval": "Before heavy drilling",
+   "why": "A loose handle gives less control on a binding bit. Tighten it before each job."
+  },
+  {
+   "task": "Inspect the cord",
+   "interval": "Before each corded use",
+   "why": "A nicked cord is a shock and fire risk. Replace it rather than taping it."
+  },
+  {
+   "task": "Store batteries at partial charge",
+   "interval": "Between jobs",
+   "why": "Full or empty storage shortens lithium life. Keep them indoors."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a hammer drill drill into concrete?",
+   "a": "Yes, in small holes with a carbide masonry bit, but slowly. For repeated or large holes an SDS rotary hammer is far faster. Use the hammer setting only for masonry."
+  },
+  {
+   "q": "Is a corded hammer drill better than cordless?",
+   "a": "For sustained masonry work, often yes, since it has no battery fade. Cordless wins on convenience. The Hammerhead HAHD075 shows how little a corded tool can cost."
+  },
+  {
+   "q": "What is the difference between a hammer drill and an impact driver?",
+   "a": "A hammer drill taps forward to chip masonry while spinning a bit. An impact driver delivers rotational blows to drive fasteners. They are different tools."
+  },
+  {
+   "q": "How much torque do I need?",
+   "a": "For anchors and pilot holes, a compact like the DCD799B is enough. For large auger bits choose the DCD1007B class. Torque is the spec to match to the largest hole you drill."
+  },
+  {
+   "q": "Do I need a special bit for masonry?",
+   "a": "Yes. Use carbide tipped masonry bits, and withdraw them often to clear dust. Standard twist bits glaze quickly in brick."
+  },
+  {
+   "q": "Should I wear dust protection?",
+   "a": "Yes. Drilling concrete and masonry creates fine silica dust, so wear a respirator rated for it and use dust extraction where you can."
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/41xYv9wpMuL._SL500_.jpg",
+ "relatedGuides": []
+}

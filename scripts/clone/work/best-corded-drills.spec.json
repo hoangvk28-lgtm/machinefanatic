@@ -1,0 +1,629 @@
+{
+ "guideSlug": "best-corded-drills",
+ "categorySlug": "power-tools",
+ "mainKeyword": "corded drill",
+ "guideTitle": "Best Corded Drills (2026)",
+ "metaTitle": "Best Corded Drills in 2026",
+ "metaDescription": "Six corded drills compared on amp rating, chuck type, gearing and hammer function, for shop use, mixing paint, masonry and everyday drilling.",
+ "lastUpdated": "2026-11-06",
+ "readTime": "13 min",
+ "expertTake": "The DeWalt DW235G is the corded drill to buy for real shop work, with a 7.8 amp motor, metal gear housing and a 1/2 inch chuck. The Black+Decker DR560 is the value pick for household jobs. If you only drill at a workbench with an outlet nearby you can skip batteries entirely, but if you work on ladders or outdoors, a cordless drill will serve you better.",
+ "introParagraphs": [
+  "A corded drill has no battery to run down, no platform to commit to and a motor that delivers the same power from the first hole to the thousandth. Those advantages matter in a shop, a basement or any job that involves mixing, stirring or sustained drilling.",
+  "This guide explains how amp ratings, gearing and chuck design separate light duty corded drills from heavy tools, and where hammer functions and keyed chucks fit in."
+ ],
+ "products": [
+  {
+   "id": "B00002233E",
+   "badge": "Best Overall",
+   "name": "DeWalt DW235G 7.8 Amp 1/2 Inch Variable Speed Reversible Drill",
+   "specs": [
+    "7.8 amp",
+    "1/2 inch chuck",
+    "Metal gear housing",
+    "Reversible"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "7.8 amp"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Gears",
+     "value": "Helical cut heat-treated steel"
+    },
+    {
+     "label": "Housing",
+     "value": "Metal gear housing"
+    },
+    {
+     "label": "Trigger",
+     "value": "Two-finger variable speed"
+    },
+    {
+     "label": "Direction",
+     "value": "Reversible"
+    }
+   ],
+   "description": "The DW235G is a heavy corded drill, with a 7.8 amp motor and heat-treated helical cut steel gears. A metal gear housing resists the shocks of a binding bit. A two-finger trigger improves comfort and control.\n\nCompared with the Black+Decker DR560's 7.0 amps, it has a stronger motor and a tougher gearbox. It is also a better tool than the Makita DP4020 for sustained drilling, though the Makita has a higher top speed. For mixing paint and drilling large holes in wood it is the one to own.\n\nIt weighs more than a cordless drill, so expect arm fatigue overhead. Check the cord regularly and keep the vents clear. A drill this size also takes a paddle mixer for thin mortar or paint when run on its low range.",
+   "bestFor": "Shop users who drill large holes and mix materials.",
+   "pros": [
+    "7.8 amp motor delivers sustained power",
+    "Metal gear housing is durable",
+    "Helical gears last long under load",
+    "Two-finger trigger improves comfort"
+   ],
+   "cons": [
+    "Heavier than cordless drills",
+    "Cord limits reach",
+    "Single speed range, no hammer mode"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00002233E?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jQHzvkZQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0008ELQ0G",
+   "badge": "Best Hammer Mode",
+   "name": "DeWalt DW511 7.8 Amp 1/2 Inch Corded Hammer Drill",
+   "specs": [
+    "7.8 amp",
+    "Hammer drill",
+    "1/2 inch chuck",
+    "Variable speed"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "7.8 amp with overload protection"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Modes",
+     "value": "Drill and hammer drill"
+    },
+    {
+     "label": "Speed",
+     "value": "Variable"
+    },
+    {
+     "label": "Materials",
+     "value": "Wood, steel, masonry"
+    },
+    {
+     "label": "Power",
+     "value": "Corded"
+    }
+   ],
+   "description": "The DW511 adds a hammer mode to a 7.8 amp motor, so a single tool drills wood, steel and masonry. The motor includes overload protection, which guards against burnout when a bit binds. Variable speed gives control at the start of a hole.\n\nIt shares the DW235G's motor class but swaps the pure drill role for dual mode. Compared with the Skil HD182001 it has a stronger amp rating and a more established brand. It is not a rotary hammer, so heavy concrete is slow.\n\nUse the hammer mode only for masonry, and switch back for wood. Store it in a dry place and avoid dragging the cord. Run the hammer mode only against masonry, since it adds vibration without helping wood.",
+   "bestFor": "Users who need occasional masonry capability.",
+   "pros": [
+    "Hammer mode handles brick and block",
+    "7.8 amp motor with overload protection",
+    "Variable speed for accurate starts",
+    "Strong brand parts support"
+   ],
+   "cons": [
+    "Hammer mode is mild next to SDS tools",
+    "Heavier than the DR560",
+    "More expensive than light duty drills"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0008ELQ0G?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41w6WBkVTUL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DL7C6WXC",
+   "badge": "Best High Speed",
+   "name": "Makita DP4020 5.5 Amp 1/2 Inch Corded Drill",
+   "specs": [
+    "5.5 amp",
+    "0 to 3,000 rpm",
+    "1/2 inch chuck",
+    "In-line handle"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "5.5 amp"
+    },
+    {
+     "label": "Speed",
+     "value": "0 to 3,000 rpm"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Handle",
+     "value": "In-line design"
+    },
+    {
+     "label": "Use",
+     "value": "Wood, metal, plastic"
+    },
+    {
+     "label": "Power",
+     "value": "Corded"
+    }
+   ],
+   "description": "The Makita DP4020 has a 5.5 amp motor and a speed range of 0 to 3,000 rpm, the fastest in this roundup. An in-line handle design helps accuracy, since the force goes straight through the bit. It is a good tool for small holes where speed counts.\n\nIts lower amp rating means it will not match the DeWalt DW235G in big bits. It suits precision work better than heavy mixing. Compared with the Craftsman CMED731 it offers a bigger chuck.\n\nCorded tools like this last for years if the vents stay clear. Check brushes occasionally after heavy use. Replace the carbon brushes when the tool sparks or loses power, a routine fix on a Makita.",
+   "bestFor": "Precise drilling in wood and metal at high speed.",
+   "pros": [
+    "Fast 0 to 3,000 rpm range",
+    "In-line handle improves accuracy",
+    "1/2 inch chuck holds big shanks",
+    "Light for a corded drill"
+   ],
+   "cons": [
+    "5.5 amps is modest for big bits",
+    "No hammer mode",
+    "Not suited to mixing paint"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DL7C6WXC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aMab1XWvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B086D1MDPD",
+   "badge": "Best Budget Hammer Drill",
+   "name": "Skil HD182001 7.5 Amp 1/2 Inch Corded Hammer Drill",
+   "specs": [
+    "7.5 amp",
+    "Hammer mode",
+    "Keyed chuck",
+    "1/2 inch"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "7.5 amp"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch keyed heavy duty"
+    },
+    {
+     "label": "Modes",
+     "value": "Drill and hammer"
+    },
+    {
+     "label": "Switch",
+     "value": "2-in-1 selector"
+    },
+    {
+     "label": "Power",
+     "value": "Corded"
+    },
+    {
+     "label": "Use",
+     "value": "Heavy projects"
+    }
+   ],
+   "description": "The Skil HD182001 uses a 7.5 amp motor and a 1/2 inch keyed chuck. A keyed chuck tightens with a wrench and holds big bits more firmly than a keyless one. A 2-in-1 selector toggles between drilling and hammer drilling.\n\nIt is a more affordable way to get a hammer mode than the DeWalt DW511, with a slightly lower amp rating. The keyed chuck is a real plus for hole saws and large bits. It is not as refined as the DeWalt.\n\nKeep the chuck key somewhere safe, since losing it is the common complaint. Wipe the chuck and bits clean before each job. A drill chuck key stored on the cord is a small habit that saves a trip to the store.",
+   "bestFor": "Budget buyers who want hammer mode and a keyed chuck.",
+   "pros": [
+    "Keyed chuck grips large bits firmly",
+    "Hammer mode at a low cost",
+    "7.5 amp motor is strong",
+    "Easy selector switch"
+   ],
+   "cons": [
+    "Chuck key can be lost",
+    "Less refined than DeWalt",
+    "Heavier than light duty drills"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B086D1MDPD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41U1DrbPV1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B004I1QILC",
+   "badge": "Best Value",
+   "name": "Black+Decker DR560 7.0 Amp 1/2 Inch Drill Kit",
+   "specs": [
+    "7.0 amp",
+    "1/2 inch chuck",
+    "Compact",
+    "Kit"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "7.0 amp"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Capacity",
+     "value": "1/2 inch steel, 1-1/2 inch wood"
+    },
+    {
+     "label": "Design",
+     "value": "Compact"
+    },
+    {
+     "label": "Kit",
+     "value": "Drill with accessories"
+    },
+    {
+     "label": "Power",
+     "value": "Corded"
+    }
+   ],
+   "description": "The Black+Decker DR560 is a 7.0 amp drill with a capacity of 1/2 inch in steel and 1-1/2 inches in wood. A compact design suits cramped spaces. It is a kit with accessories.\n\nCompared with the DeWalt DW235G it gives up 0.8 amps and a metal gear housing, but it costs far less. For household projects and light mixing it is ample. It suits the occasional user who wants a corded tool for sustained jobs.\n\nPlastic parts mean it will not take jobsite abuse, so use it indoors. Keep the vents clean. Because the kit is simple, there is little to go wrong, so it ages gracefully in a household toolbox.",
+   "bestFor": "Households that want a corded drill at a low cost.",
+   "pros": [
+    "7.0 amp motor is strong for the price",
+    "Compact body fits cramped spaces",
+    "Handles steel and wood capacity",
+    "Includes accessories"
+   ],
+   "cons": [
+    "Plastic parts less durable than DeWalt",
+    "Not for daily jobsite use",
+    "No hammer mode"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B004I1QILC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aBl50sWpL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07KK7DWGH",
+   "badge": "Best 3/8 Inch Drill",
+   "name": "Craftsman CMED731 7 Amp 3/8 Inch Electric Drill Driver",
+   "specs": [
+    "7 amp",
+    "3/8 inch keyless",
+    "Up to 2,500 rpm",
+    "Lock-on trigger"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "7 amp"
+    },
+    {
+     "label": "Chuck",
+     "value": "3/8 inch keyless"
+    },
+    {
+     "label": "Max speed",
+     "value": "2,500 rpm"
+    },
+    {
+     "label": "Trigger",
+     "value": "Variable speed with lock-on"
+    },
+    {
+     "label": "Power",
+     "value": "Corded"
+    },
+    {
+     "label": "Use",
+     "value": "General drilling"
+    }
+   ],
+   "description": "The Craftsman CMED731 has a 7 amp motor and a 3/8 inch keyless chuck, with a top speed of 2,500 rpm. A lock-on trigger allows continuous running, useful for mixing or sanding attachments. A variable speed trigger gives control.\n\nIts 3/8 inch chuck limits bit size compared with the 1/2 inch DeWalt and Makita drills. It is lighter and handier, though, and for everyday household tasks it does the job. It is a sensible choice for a workbench drill.\n\nUse the lock-on carefully, and release it before changing bits. Keep the vents clear of sawdust. Its lock-on trigger suits sanding drums and wire wheels, but unlock it before you set the tool down.",
+   "bestFor": "Light shop use and everyday drilling jobs.",
+   "pros": [
+    "7 amp motor with a lock-on trigger",
+    "Keyless chuck speeds bit changes",
+    "Up to 2,500 rpm for faster holes",
+    "Handy size for benchtop work"
+   ],
+   "cons": [
+    "3/8 inch chuck limits big bits",
+    "No hammer mode",
+    "Less rugged than DeWalt"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B07KK7DWGH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41esiOlS6eL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Amp rating and real power",
+   "explanation": "Amps measure electrical input, and a 7.8 amp motor like the DeWalt DW235G draws more than a 5.5 amp Makita DP4020. More amps usually mean more sustained torque for large bits and mixing. Two drills with the same amps can differ in gearing and efficiency. Use amps to compare tools in the same class, not across brands. A common mistake is buying on amps alone and ignoring the gearbox. A strong motor feeding a plastic gearbox fails at the gears first, which is why the DW235G pairs 7.8 amps with a metal housing."
+  },
+  {
+   "criterion": "Chuck type and size",
+   "explanation": "A 1/2 inch chuck accepts larger shanks than a 3/8 inch chuck, as on the Craftsman CMED731. A keyed chuck, as on the Skil HD182001, holds large bits more firmly than a keyless chuck. Keyless is faster and handier. Pick the type that matches your biggest bit. Hole saws above 2 inches and spade bits above 1 inch benefit most from a keyed chuck or a 1/2 inch keyless one. A 3/8 inch chuck will accept a reduced shank bit, but the bit still strains the tool."
+  },
+  {
+   "criterion": "Hammer mode or not",
+   "explanation": "A hammer drill adds a tapping action for masonry, as on the DeWalt DW511 and Skil HD182001. It is useful for anchors in brick and block. For wood and metal a plain drill is lighter and cheaper. Do not pay for a hammer mode you will not use. Masonry bits clog and glaze if you run hammer mode in wood, so switch deliberately. A carbide tipped bit and moderate pressure matter more than raw amps."
+  },
+  {
+   "criterion": "Speed range and gearing",
+   "explanation": "Large bits want low speed and torque, small bits want high speed. The Makita DP4020 reaches 0 to 3,000 rpm, while the Craftsman tops out at 2,500 rpm. Variable speed triggers help start holes. Check the top speed against your bit size. For wood spade bits, stay under about 1,500 rpm. Fast speeds suit twist bits up to 1/4 inch, which is where the Makita's top end earns its keep."
+  },
+  {
+   "criterion": "Gear housing and build",
+   "explanation": "A metal gear housing, as on the DeWalt DW235G, resists the shocks of a binding bit better than plastic. Heat-treated gears last longer in sustained use. Cheap drills use plastic housings that crack. Consider build if you work every day. A drill that survives a dropped chuck or a stalled bit will outlast a cheaper one by years. Pick up the tool and feel for housing flex before you buy."
+  },
+  {
+   "criterion": "Weight and handle design",
+   "explanation": "A heavy corded drill tires you overhead, so check weight if you drill ceilings. The Makita DP4020 uses an in-line handle for accuracy. A side handle helps with large bits. Think about the position you will use it in. Tools with a side handle thread give far better control on large bits, since a stalled bit twists the body sharply. Weight toward the front makes overhead work harder."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Amp rating",
+   "meaning": "The current the motor draws at full load. A 7.8 amp motor delivers more sustained power than a 5.5 amp motor. It is the corded equivalent of battery voltage.",
+   "watchFor": "Amps measure input, so efficiency varies between brands."
+  },
+  {
+   "spec": "No load rpm",
+   "meaning": "The speed with nothing in the chuck, such as 3,000 rpm on the Makita DP4020. Higher speeds clear chips from small holes faster.",
+   "watchFor": "Speed drops under load, and large bits need low speed."
+  },
+  {
+   "spec": "Keyed chuck",
+   "meaning": "A chuck tightened with a key, as on the Skil HD182001. It grips more firmly than keyless chucks. It suits large bits and hole saws.",
+   "watchFor": "Losing the key makes the tool awkward to use."
+  },
+  {
+   "spec": "Hammer drill",
+   "meaning": "A mode that adds rapid forward taps for masonry, as on the DeWalt DW511. It uses ridged plates, not an SDS piston. It is mild compared with rotary hammers.",
+   "watchFor": "Hammer mode shortens the drill's life if used on wood."
+  },
+  {
+   "spec": "Overload protection",
+   "meaning": "A feature that stops the motor if a bit binds, as on the DeWalt DW511. It protects against burnout.",
+   "watchFor": "Not all budget drills have it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Motor power",
+   "description": "We ranked drills by amp rating, from 7.8 amps on the DeWalt tools to 5.5 amps on the Makita. Sustained power for mixing and big bits counted."
+  },
+  {
+   "title": "Chuck and capacity",
+   "description": "We looked at chuck size and type, including the keyed chuck on the Skil and the 3/8 inch chuck on the Craftsman. Bit capacity affects usefulness."
+  },
+  {
+   "title": "Build quality",
+   "description": "A metal gear housing and heat-treated gears earned credit on the DeWalt. Plastic housings lost points for daily use."
+  },
+  {
+   "title": "Features and control",
+   "description": "Hammer mode, lock-on triggers and variable speed were evaluated. Ergonomic details like the Makita's in-line handle were considered."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "The DW235G leads for strength, the DW511 for hammer capability and the Makita for speed. The Black+Decker is the value pick."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Task",
+   "table": {
+    "headers": [
+     "Task",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large holes and mixing",
+      "DeWalt DW235G",
+      "7.8 amps and metal gears"
+     ],
+     [
+      "Occasional masonry",
+      "DeWalt DW511",
+      "Hammer mode"
+     ],
+     [
+      "Fast small holes",
+      "Makita DP4020",
+      "0 to 3,000 rpm"
+     ],
+     [
+      "Budget masonry",
+      "Skil HD182001",
+      "Hammer mode and keyed chuck"
+     ],
+     [
+      "Household jobs",
+      "Black+Decker DR560",
+      "Compact and low cost"
+     ],
+     [
+      "Benchtop and light use",
+      "Craftsman CMED731",
+      "Lock-on trigger"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Black+Decker DR560",
+      "Basic kit"
+     ],
+     [
+      "Low",
+      "Craftsman CMED731",
+      "3/8 inch drill"
+     ],
+     [
+      "Low to mid",
+      "Skil HD182001",
+      "Hammer mode"
+     ],
+     [
+      "Mid",
+      "Makita DP4020",
+      "Fast and precise"
+     ],
+     [
+      "Upper",
+      "DeWalt DW235G",
+      "Strong and durable"
+     ],
+     [
+      "Highest",
+      "DeWalt DW511",
+      "Hammer drill"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Hammer vs Standard",
+   "cards": [
+    {
+     "label": "Hammer drill",
+     "text": "Adds tapping action for brick and block. The DeWalt DW511 and Skil HD182001 offer it. They suit mixed jobs."
+    },
+    {
+     "label": "Standard drill",
+     "text": "Lighter and focused on wood and metal. The DeWalt DW235G, Makita DP4020, Black+Decker DR560 and Craftsman CMED731 fit here. They cost less."
+    }
+   ],
+   "note": "Choose hammer if you drill masonry a few times a year."
+  },
+  {
+   "subheading": "Chuck Type",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Firmest grip",
+      "Skil HD182001",
+      "Keyed chuck"
+     ],
+     [
+      "Fast changes, big bits",
+      "DeWalt DW235G",
+      "1/2 inch"
+     ],
+     [
+      "Light chuck",
+      "Craftsman CMED731",
+      "3/8 inch keyless"
+     ],
+     [
+      "Precision",
+      "Makita DP4020",
+      "1/2 inch, in-line handle"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Mixing and Heavy Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A high amp rating, metal gears and a side handle. Mixing paint or mortar loads the motor for minutes at a time. A lock-on trigger helps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DeWalt DW235G is best. The Craftsman CMED731 offers a lock-on trigger at a lower cost."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use a drill daily or need durability. The DeWalt DW235G and DW511 repay the cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You drill a few holes a year. The Black+Decker DR560 or Craftsman CMED731 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Blow out vents",
+   "interval": "After dusty jobs",
+   "why": "Dust blocks cooling air. Overheating shortens motor life."
+  },
+  {
+   "task": "Inspect the cord and plug",
+   "interval": "Before use",
+   "why": "Nicks cause shocks and failures. Replace damaged cords."
+  },
+  {
+   "task": "Check brushes",
+   "interval": "Every few years",
+   "why": "Brushes wear with heavy use. Replace them before the commutator is damaged."
+  },
+  {
+   "task": "Clean and oil the chuck",
+   "interval": "Every few months",
+   "why": "Dust makes chucks stiff. A drop of oil keeps it smooth."
+  },
+  {
+   "task": "Keep the chuck key",
+   "interval": "Always",
+   "why": "Keyed chucks need the key. Tape it to the cord."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a corded drill better than a cordless drill?",
+   "a": "For sustained work and mixing, yes. For ladders and outdoor jobs, cordless wins. Corded drills also cost less for the power."
+  },
+  {
+   "q": "How many amps do I need?",
+   "a": "A 7 to 8 amp drill handles most jobs. 5.5 amps suits lighter use. Bigger motors suit mixing."
+  },
+  {
+   "q": "Do I need a hammer drill?",
+   "a": "Only if you drill masonry. For wood and metal a plain drill is lighter and cheaper."
+  },
+  {
+   "q": "Keyed or keyless chuck?",
+   "a": "Keyed holds big bits more firmly, and keyless is faster. Many people prefer keyless for convenience."
+  },
+  {
+   "q": "Can I use an extension cord?",
+   "a": "Yes, but use a heavy gauge cord rated for the amps. A thin cord drops voltage and can overheat."
+  },
+  {
+   "q": "Can I mix paint with a drill?",
+   "a": "Yes with a mixing paddle, using low speed and a side handle. The DeWalt DW235G is a good choice."
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/41jQHzvkZQL._SL500_.jpg",
+ "relatedGuides": []
+}

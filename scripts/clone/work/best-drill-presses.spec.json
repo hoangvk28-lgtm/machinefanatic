@@ -1,0 +1,629 @@
+{
+ "guideSlug": "best-drill-presses",
+ "categorySlug": "power-tools",
+ "mainKeyword": "drill press",
+ "guideTitle": "Best Drill Presses (2026)",
+ "metaTitle": "Best Drill Presses in 2026",
+ "metaDescription": "Six benchtop drill presses compared on swing size, motor type, speed range, spindle travel and table design, for woodworking and metal drilling.",
+ "lastUpdated": "2026-11-06",
+ "readTime": "14 min",
+ "expertTake": "The JET JWDP-12 is the drill press for a serious woodworking bench, with a 12 inch swing, 3-1/8 inch spindle travel and speed changes without moving a belt. The WEN DP1062V is the value pick, adding a digital RPM readout to a 10 inch cast iron machine. If you only drill small holes in thin stock, a floor model is wasted space and a good benchtop is all you need.",
+ "introParagraphs": [
+  "A drill press holds the bit perfectly square to the table and feeds it through the work with a lever, which is why it drills a cleaner, straighter hole than any handheld drill. The numbers on the box, though, rarely say how much runout, table flex or speed range you are really buying.",
+  "This guide explains swing, spindle travel, induction motors and speed control, and where cheap presses cut corners."
+ ],
+ "products": [
+  {
+   "id": "B01C9TW7LO",
+   "badge": "Best Overall",
+   "name": "JET JWDP-12 12 Inch Benchtop Drill Press with Digital RPM",
+   "specs": [
+    "12 inch swing",
+    "1/2 HP",
+    "3-1/8 inch travel",
+    "Variable speed"
+   ],
+   "specList": [
+    {
+     "label": "Swing",
+     "value": "12 inches"
+    },
+    {
+     "label": "Motor",
+     "value": "1/2 HP, 5 amp"
+    },
+    {
+     "label": "Spindle travel",
+     "value": "3-1/8 inches"
+    },
+    {
+     "label": "Chuck capacity",
+     "value": "5/8 inch"
+    },
+    {
+     "label": "Table",
+     "value": "9-1/2 x 9-1/2 inch cast iron, tilting"
+    },
+    {
+     "label": "Speed change",
+     "value": "Lever while running"
+    }
+   ],
+   "description": "The JET JWDP-12 uses a speed lever that changes spindle speed while the motor runs, so you never open the head to move a belt. A 12 inch swing means the bit reaches 6 inches from the column, which handles wide panels and cabinet parts. Spindle travel is 3-1/8 inches, deeper than the 2 inch travel on the WEN DP1062V.\n\nA 5/8 inch chuck capacity opens up larger bits for woodworking. The cast iron base and tilting table add rigidity, and a laser crosshair and LED light help alignment. Compared with the JET JWDP-10 it has more swing, a larger chuck and a stronger motor.\n\nIt is heavy, so choose a sturdy bench. Wax the column and table to keep them sliding and check the chuck for runout once a year. Add a fence and a sacrificial table board to make repeatable holes in cabinet parts.",
+   "bestFor": "Woodworkers who want a precise, flexible benchtop press.",
+   "pros": [
+    "Speed changes without touching a belt",
+    "12 inch swing handles wide stock",
+    "3-1/8 inch spindle travel for deep holes",
+    "Cast iron base and table add stability"
+   ],
+   "cons": [
+    "Heavy to move around a shop",
+    "1/2 HP is modest for large metal bits",
+    "Costs more than VEVOR and WEN"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B01C9TW7LO?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31jgALZoT0L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DQ9BTQVR",
+   "badge": "Best Value",
+   "name": "WEN DP1062V 10 Inch Variable Speed Benchtop Drill Press",
+   "specs": [
+    "10 inch swing",
+    "6.2 amp",
+    "530-3,100 rpm",
+    "Digital RPM"
+   ],
+   "specList": [
+    {
+     "label": "Swing",
+     "value": "10 inches"
+    },
+    {
+     "label": "Motor",
+     "value": "6.2 amp induction"
+    },
+    {
+     "label": "Speed",
+     "value": "530 to 3,100 rpm"
+    },
+    {
+     "label": "Spindle travel",
+     "value": "2 inches"
+    },
+    {
+     "label": "Readout",
+     "value": "Digital RPM display"
+    },
+    {
+     "label": "Construction",
+     "value": "Cast iron"
+    }
+   ],
+   "description": "The WEN DP1062V uses a 6.2 amp induction motor with mechanical variable speed from 530 to 3,100 rpm. A digital readout shows the actual speed, which helps match speeds to bit size. Its cast iron build and 10 inch swing suit general shop use.\n\nCompared with the JET JWDP-12 it has a smaller swing and 2 inch spindle travel, which limits deep holes. Against the Skil DP9505-00 it offers continuous speed adjustment instead of five fixed steps. It is a good fit for hobbyists who want a speed readout at a modest price.\n\nBecause the speed control is mechanical, change speed only with the motor running. Keep the table clean and oil the column occasionally. The readout is only helpful if you actually set speed by it, so keep a chart on the wall.",
+   "bestFor": "Hobbyists who want variable speed and a readout at low cost.",
+   "pros": [
+    "Digital readout shows actual rpm",
+    "Variable speed from 530 to 3,100 rpm",
+    "6.2 amp induction motor runs quietly",
+    "Cast iron construction adds rigidity"
+   ],
+   "cons": [
+    "2 inch spindle travel limits depth",
+    "10 inch swing is smaller than the JET",
+    "Brand support is lighter than JET"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ9BTQVR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31OKjAV-ClL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HHKYBDXR",
+   "badge": "Best Compact Pro Brand",
+   "name": "JET JWDP-10 10 Inch Benchtop Drill Press",
+   "specs": [
+    "10 inch swing",
+    "630-3,300 rpm",
+    "5 speeds",
+    "Table tilts 45"
+   ],
+   "specList": [
+    {
+     "label": "Swing",
+     "value": "10 inches"
+    },
+    {
+     "label": "Motor",
+     "value": "1/3 HP, 6.2 amp"
+    },
+    {
+     "label": "Speed",
+     "value": "630 to 3,300 rpm, 5 speeds"
+    },
+    {
+     "label": "Chuck",
+     "value": "JT33, 1/16 to 1/2 inch"
+    },
+    {
+     "label": "Table tilt",
+     "value": "Plus or minus 45 degrees"
+    },
+    {
+     "label": "Voltage",
+     "value": "120V"
+    }
+   ],
+   "description": "The JET JWDP-10 gives a 10 inch swing and five speeds from 630 to 3,300 rpm, changed by moving a belt. A 1/3 HP, 6.2 amp motor drives a JT33 chuck that accepts bits from 1/16 to 1/2 inch. The table tilts plus or minus 45 degrees for angled holes.\n\nCompared with the JET JWDP-12 it has a smaller swing and no lever speed change. Against the WEN DP1062V it uses fixed belt speeds but comes from a brand with strong support. It is a straightforward, durable press for a home shop.\n\nBelt speed changes take a minute, so plan your work by speed. Check belt tension and keep the chuck clean. Use the tilt stops to set repeatable angles for dowel work.",
+   "bestFor": "Home shops that value brand support and durability.",
+   "pros": [
+    "JET build quality and support",
+    "Five speeds cover wood and metal",
+    "Table tilts 45 degrees each way",
+    "1/2 inch chuck handles common bits"
+   ],
+   "cons": [
+    "Belt changes are slower than lever systems",
+    "Smaller swing than 12 inch presses",
+    "No digital speed readout"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0HHKYBDXR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31pU1SNKOGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BFQYZPQK",
+   "badge": "Best Laser Guide",
+   "name": "Skil DP9505-00 10 Inch 5-Speed Benchtop Drill Press",
+   "specs": [
+    "6.2 amp induction",
+    "610-2,800 rpm",
+    "5 speeds",
+    "Laser alignment"
+   ],
+   "specList": [
+    {
+     "label": "Swing",
+     "value": "10 inches"
+    },
+    {
+     "label": "Motor",
+     "value": "6.2 amp induction"
+    },
+    {
+     "label": "Speed",
+     "value": "610 to 2,800 rpm, 5 speeds"
+    },
+    {
+     "label": "Alignment",
+     "value": "Laser guide"
+    },
+    {
+     "label": "Light",
+     "value": "Work light"
+    },
+    {
+     "label": "Model",
+     "value": "DP9505-00"
+    }
+   ],
+   "description": "The Skil DP9505-00 has a 6.2 amp induction motor with five speeds from 610 to 2,800 rpm and a laser alignment guide. A work light brightens the table. It is a practical entry level press.\n\nIts top speed of 2,800 rpm is a little lower than the WEN or JET 10 inch models, and speed changes are by belt. Compared with the QD-Kyoho 8 inch it is larger and stronger. It suits general wood and light metal drilling.\n\nThe laser is helpful, but verify its alignment before trusting it. Wipe the table and column regularly. A shop vacuum nozzle near the table keeps chips from the laser lens.",
+   "bestFor": "Beginners who want a laser guide and five fixed speeds.",
+   "pros": [
+    "Laser guide helps line up holes",
+    "6.2 amp induction motor is quiet",
+    "Five speeds suit most materials",
+    "Work light is useful"
+   ],
+   "cons": [
+    "Belt speed changes are slower",
+    "Top speed lower than some rivals",
+    "Lighter build than JET"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0BFQYZPQK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415BbSBDTLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GGHJWRH9",
+   "badge": "Best High Power Budget",
+   "name": "VEVOR 12 Inch 1 HP Variable Speed Benchtop Drill Press",
+   "specs": [
+    "12 inch swing",
+    "1.0 HP",
+    "530-3,140 rpm",
+    "X-laser"
+   ],
+   "specList": [
+    {
+     "label": "Swing",
+     "value": "12 inches"
+    },
+    {
+     "label": "Motor",
+     "value": "1.0 HP, 6.2 amp"
+    },
+    {
+     "label": "Speed",
+     "value": "530 to 3,140 rpm variable"
+    },
+    {
+     "label": "Readout",
+     "value": "Digital"
+    },
+    {
+     "label": "Table tilt",
+     "value": "0 to 45 degrees"
+    },
+    {
+     "label": "Guide",
+     "value": "X-laser"
+    }
+   ],
+   "description": "The VEVOR 12 inch press quotes 1.0 HP from a 6.2 amp motor, with variable speed from 530 to 3,140 rpm, a digital readout and an X-laser guide. The table tilts 0 to 45 degrees. On paper it matches the JET JWDP-12 on swing and offers more motor power at a lower price.\n\nA horsepower figure on a 120V tool should be read as a peak claim, since a 6.2 amp draw is the real limit. Compared with the WEN DP1062V it has a bigger swing and the same variable speed concept. The JET still wins on build and support.\n\nCheck the table for flatness and runout when you unpack it, and plan to shim or adjust if needed. Keep the vents clear. Tighten the column lock bolt before every job, since a loose head spoils accuracy.",
+   "bestFor": "Hobbyists who want a 12 inch swing at a lower cost.",
+   "pros": [
+    "12 inch swing at a low price",
+    "Variable speed with a digital readout",
+    "X-laser helps positioning",
+    "Table tilts to 45 degrees"
+   ],
+   "cons": [
+    "Horsepower claim is a peak figure",
+    "Brand support is limited",
+    "Check runout after unboxing"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GGHJWRH9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31AZHBvjWIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GL8BDX1L",
+   "badge": "Best Small Shop",
+   "name": "QD-KYOHO 8 Inch 5-Speed Benchtop Drill Press with Vise",
+   "specs": [
+    "8 inch swing",
+    "300 W motor",
+    "5 speeds",
+    "Cast iron head"
+   ],
+   "specList": [
+    {
+     "label": "Swing",
+     "value": "8 inches"
+    },
+    {
+     "label": "Motor",
+     "value": "300 W, 3.1 amp"
+    },
+    {
+     "label": "Speeds",
+     "value": "5 preset, from 620 rpm"
+    },
+    {
+     "label": "Vise",
+     "value": "2-1/2 inch jaws included"
+    },
+    {
+     "label": "Head",
+     "value": "Cast iron"
+    },
+    {
+     "label": "Use",
+     "value": "Small shop"
+    }
+   ],
+   "description": "The QD-Kyoho press has an 8 inch swing and a 300 W motor with five preset speeds starting at 620 rpm. A precision vise with 2-1/2 inch jaws is included, and the head is cast iron. It is the smallest press here.\n\nIt will not match the JET JWDP-12 for depth or power, but it takes little bench space. It suits small parts, jewelry, models and light wood. Compared with the Skil DP9505-00 it has a smaller motor.\n\nIt is a good second press for small jobs. Check the chuck and vise for play, and oil the column. Use the vise on every small part, never hold the work by hand.",
+   "bestFor": "Small shops and hobbyists drilling small parts.",
+   "pros": [
+    "Compact 8 inch swing saves bench space",
+    "Cast iron head adds stability",
+    "Vise included",
+    "Five preset speeds"
+   ],
+   "cons": [
+    "300 W motor is the weakest here",
+    "Small swing limits panel size",
+    "Not for large metal bits"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GL8BDX1L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41NfRI39ntL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Swing size explained",
+   "explanation": "Swing is twice the distance from the column to the bit center. A 10 inch press reaches 5 inches in from the edge, and a 12 inch press reaches 6 inches. The JET JWDP-12 and VEVOR 12 inch let you drill further into wide boards. Pick a swing that matches your widest workpiece. The mistake is buying a small swing and then trying to drill the center of a 14 inch panel. Measure your widest board first, and divide by two."
+  },
+  {
+   "criterion": "Motor type and power",
+   "explanation": "Induction motors are quiet and durable, and a 6.2 amp motor like the WEN DP1062V is typical for benchtop presses. Horsepower claims can mislead, so check the amp rating. A 300 W motor like the QD-Kyoho suits small work. Large bits need more power. Compare amps, not horsepower: a 120V tool cannot truly deliver more than about 6.2 amps on a standard circuit without tripping it, so 1 HP claims are peak numbers."
+  },
+  {
+   "criterion": "Speed range and changing speeds",
+   "explanation": "Big bits need slow speeds, and small bits need fast speeds. The JET JWDP-12 changes speed by lever while running, and the WEN offers 530 to 3,100 rpm. Belt changes on the JET JWDP-10 and Skil take longer. If you change speed often, choose a variable system. As a rule of thumb, drill steel under 500 rpm for bits over 1/2 inch and use cutting oil. Wood and small bits can run well above 2,000 rpm."
+  },
+  {
+   "criterion": "Spindle travel",
+   "explanation": "Travel is how far the chuck can descend, and it limits hole depth. The JET JWDP-12 has 3-1/8 inches, while the WEN has 2 inches. For deep holes in thick stock, more travel matters. Check the travel against your thickest piece. Counterbore and mortise work need travel too, so thick stock calls for 3 inches or more. A short quill forces you to raise the table mid job."
+  },
+  {
+   "criterion": "Table and runout",
+   "explanation": "A flat, stiff table keeps holes square. Cast iron tables on the JET and WEN resist flex. Runout is the wobble of the bit, and it spoils precision. Check it with a dial indicator or a straight rod. A cheap table that flexes will tilt a hole by a degree or two under pressure. Press down on the table edge and look for movement."
+  },
+  {
+   "criterion": "Brand and support",
+   "explanation": "JET provides parts and service, while budget brands often lack support. A press lasts decades, so a spare belt and chuck matter. The VEVOR offers more power per dollar but weaker support. Decide how much you value long term backup. A spare belt, chuck and key cost little but save weeks of downtime. Ask whether the brand stocks them before you buy."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Swing",
+   "meaning": "Twice the throat distance from the column to the chuck center. A 10 inch swing means 5 inches of reach. It sets the widest panel you can center a hole in.",
+   "watchFor": "Some makers quote overall width, not throat."
+  },
+  {
+   "spec": "Spindle travel",
+   "meaning": "The maximum distance the quill moves, 3-1/8 inches on the JET JWDP-12. It sets hole depth in one pass.",
+   "watchFor": "Travel is less than bit length, so deep holes need a lift."
+  },
+  {
+   "spec": "Induction motor",
+   "meaning": "A brushless AC motor that is quiet and has no brushes to wear. The WEN DP1062V and Skil use them.",
+   "watchFor": "Horsepower claims often exceed what the amp rating supports."
+  },
+  {
+   "spec": "Runout",
+   "meaning": "The wobble of the chuck axis. Lower runout gives cleaner holes. It is rarely listed.",
+   "watchFor": "Check it yourself with a straight rod and a dial indicator."
+  },
+  {
+   "spec": "Chuck capacity",
+   "meaning": "The largest bit shank the chuck holds, such as 5/8 inch on the JET JWDP-12 or 1/2 inch on the JWDP-10.",
+   "watchFor": "A bigger chuck does not mean a stronger motor."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Capacity",
+   "description": "We compared swing, spindle travel and chuck size, with the JET JWDP-12 at 12 inches, 3-1/8 inches and 5/8 inch leading. Larger capacity meant a wider range of work."
+  },
+  {
+   "title": "Motor and speed",
+   "description": "We looked at amp ratings and speed ranges, including 530 to 3,100 rpm on the WEN. Variable speed earned more credit than fixed belts."
+  },
+  {
+   "title": "Build quality",
+   "description": "We rewarded cast iron bases, tables and heads. Presses with rigid tables ranked higher."
+  },
+  {
+   "title": "Features",
+   "description": "Digital readouts, laser guides and lights were considered. The WEN readout and Skil laser were credited."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "The JET JWDP-12 leads on build, the WEN on value and the VEVOR on power per dollar. The QD-Kyoho serves small shops."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Shop Type",
+   "table": {
+    "headers": [
+     "Shop",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Serious woodworking",
+      "JET JWDP-12",
+      "12 inch swing and lever speed"
+     ],
+     [
+      "Hobby variable speed",
+      "WEN DP1062V",
+      "Digital readout"
+     ],
+     [
+      "Durable home shop",
+      "JET JWDP-10",
+      "Brand support"
+     ],
+     [
+      "Beginner",
+      "Skil DP9505-00",
+      "Laser guide"
+     ],
+     [
+      "Wide stock on a budget",
+      "VEVOR 12 Inch",
+      "12 inch swing"
+     ],
+     [
+      "Small bench",
+      "QD-KYOHO 8 Inch",
+      "Compact with vise"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "QD-KYOHO 8 Inch",
+      "Small press"
+     ],
+     [
+      "Low",
+      "Skil DP9505-00",
+      "Five speeds"
+     ],
+     [
+      "Low to mid",
+      "VEVOR 12 Inch",
+      "12 inch swing"
+     ],
+     [
+      "Mid",
+      "WEN DP1062V",
+      "Variable speed"
+     ],
+     [
+      "Upper",
+      "JET JWDP-10",
+      "Brand build"
+     ],
+     [
+      "Highest",
+      "JET JWDP-12",
+      "Lever speed change"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Variable vs Belt Speed",
+   "cards": [
+    {
+     "label": "Variable speed",
+     "text": "Speed changes with a lever or knob while running. The JET JWDP-12, WEN DP1062V and VEVOR 12 inch fit here. They suit frequent changes."
+    },
+    {
+     "label": "Belt speed",
+     "text": "Speed changes by moving a belt on pulleys. The JET JWDP-10, Skil DP9505-00 and QD-Kyoho fit here. They are simpler and cheap."
+    }
+   ],
+   "note": "Choose variable if you switch between wood and metal often."
+  },
+  {
+   "subheading": "Swing Size",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Widest stock",
+      "JET JWDP-12",
+      "12 inch swing"
+     ],
+     [
+      "Wide stock, lower cost",
+      "VEVOR 12 Inch",
+      "12 inch swing"
+     ],
+     [
+      "General work",
+      "WEN DP1062V",
+      "10 inch swing"
+     ],
+     [
+      "Small parts",
+      "QD-KYOHO 8 Inch",
+      "8 inch swing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Metal Drilling Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Slow speeds, a stiff table and a vise. Metal needs low rpm and cutting oil. A larger motor helps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The JET JWDP-12 and VEVOR 12 inch offer the most power. The QD-Kyoho vise helps hold small metal parts."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use the press weekly or want it to last decades. The JET JWDP-12 repays the cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You drill occasionally. The WEN DP1062V or Skil DP9505-00 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wax the column and table",
+   "interval": "Every few months",
+   "why": "Rust and dust make the quill stick. A paste wax keeps it smooth."
+  },
+  {
+   "task": "Check belt tension",
+   "interval": "Every 6 months",
+   "why": "A loose belt slips under load. A tight belt strains bearings."
+  },
+  {
+   "task": "Check chuck runout",
+   "interval": "Yearly",
+   "why": "Runout ruins hole accuracy. Replace the chuck if it wobbles."
+  },
+  {
+   "task": "Lubricate the quill",
+   "interval": "Yearly",
+   "why": "A dry quill binds. A light oil keeps it moving."
+  },
+  {
+   "task": "Clean the vents",
+   "interval": "Every few months",
+   "why": "Dust blocks cooling air. Overheating shortens motor life."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What swing do I need?",
+   "a": "A 10 inch swing suits most home shops. A 12 inch swing handles wider boards. Choose based on your widest workpiece."
+  },
+  {
+   "q": "Benchtop or floor drill press?",
+   "a": "Benchtop presses save space and suit most hobby work. Floor presses give more travel and power."
+  },
+  {
+   "q": "What speed for metal?",
+   "a": "Use slow speeds for large bits and cutting oil. Faster speeds suit small bits in wood."
+  },
+  {
+   "q": "Do I need a laser?",
+   "a": "No. A laser is a convenience, and it must be aligned. A scribed mark and a center punch work too."
+  },
+  {
+   "q": "Is a bigger motor better?",
+   "a": "For large bits, yes. For small work, a 300 W motor is fine."
+  },
+  {
+   "q": "Can I use a drill press as a sander?",
+   "a": "Yes, with drum sanding attachments. Use low speeds and a table insert."
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/31jgALZoT0L._SL500_.jpg",
+ "relatedGuides": []
+}

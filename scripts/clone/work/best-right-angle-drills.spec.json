@@ -1,0 +1,629 @@
+{
+ "guideSlug": "best-right-angle-drills",
+ "categorySlug": "power-tools",
+ "mainKeyword": "right angle drill",
+ "guideTitle": "Best Right Angle Drills (2026)",
+ "metaTitle": "Best Right Angle Drills in 2026",
+ "metaDescription": "Six right angle drills compared on head size, torque, chuck type and battery platform, for tight framing bays, plumbing and electrical work.",
+ "lastUpdated": "2026-11-06",
+ "readTime": "13 min",
+ "expertTake": "The DeWalt DCD740B is the right angle drill most people should buy, with a 4.0 inch front to back length and a wide two speed range. The Ryobi ONE+ HP brushless is the value pick for homeowners. If you drill 1 inch holes through studs every day, skip the compact tools and buy the Milwaukee Hole Hawg, because a small right angle drill will stall on large bits.",
+ "introParagraphs": [
+  "A right angle drill puts the chuck at ninety degrees to the motor so you can drill between studs, joists and cabinet walls where a normal drill cannot turn. The tradeoff is a tool that is built around a gearbox rather than a pistol grip, and numbers that look similar can mean very different things in a bay.",
+  "This guide explains how head size, gear ratio and torque decide which right angle drill suits electrical, plumbing and framing work, and where cheap models fall short."
+ ],
+ "products": [
+  {
+   "id": "B007ML7DHS",
+   "badge": "Best Overall",
+   "name": "DeWalt DCD740B 20V MAX Right Angle Drill",
+   "specs": [
+    "650/2,000 rpm",
+    "4.0 inch length",
+    "Multi-grip trigger",
+    "20V MAX"
+   ],
+   "specList": [
+    {
+     "label": "Speed range",
+     "value": "0 to 650 / 0 to 2,000 rpm"
+    },
+    {
+     "label": "Length",
+     "value": "4.0 inches front to back"
+    },
+    {
+     "label": "Trigger",
+     "value": "Multi-grip"
+    },
+    {
+     "label": "Voltage class",
+     "value": "20V MAX"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "DeWalt 20V MAX"
+    }
+   ],
+   "description": "The DCD740B has a front to back length of 4.0 inches, which lets it fit between studs spaced 16 inches apart with room for a battery. A dual speed gearbox covers 0 to 650 rpm for large bits and 0 to 2,000 rpm for small ones. A multi-grip trigger lets you hold the tool in several positions.\n\nIt is a bare tool, so you need 20V MAX batteries. Compared with the Ryobi HP it has a wider speed range, and compared with the Makita XAD02Z it offers far more speed headroom. It is not a Hole Hawg, so one inch bits in dense timber are better done by the Milwaukee.\n\nExpect a compact tool that is easy to store. Keep the chuck free of dust and avoid dropping the gear head. Bits with a hex shank work well in the tight chuck.",
+   "bestFor": "Electricians and remodelers on the DeWalt 20V MAX platform.",
+   "pros": [
+    "4.0 inch length fits between studs",
+    "Two speed ranges cover many bit sizes",
+    "Multi-grip trigger suits awkward positions",
+    "Shares 20V MAX batteries"
+   ],
+   "cons": [
+    "Sold without battery or charger",
+    "Less torque than Hole Hawg tools",
+    "Brushed motor costs run time"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B007ML7DHS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pl7d-0eeL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08XF7BWQ4",
+   "badge": "Best Value Brushless",
+   "name": "Ryobi ONE+ HP 18V Brushless 3/8 Inch Right Angle Drill",
+   "specs": [
+    "Brushless",
+    "350 in-lbs",
+    "3/8 inch chuck",
+    "ONE+ HP"
+   ],
+   "specList": [
+    {
+     "label": "Torque",
+     "value": "Up to 350 in-lbs"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Chuck",
+     "value": "3/8 inch"
+    },
+    {
+     "label": "Torque gain",
+     "value": "2x previous model"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "Ryobi ONE+"
+    }
+   ],
+   "description": "The Ryobi ONE+ HP right angle drill uses a brushless motor and delivers up to 350 in-lbs, twice the torque of the maker's previous model. That is enough for drilling through studs with auger bits in a home setting. A 3/8 inch chuck handles common bit sizes.\n\nCompared with the DeWalt DCD740B it is a similar tool at a lower price, with a very broad home tool platform. Against the Makita XAD02Z's 121 in-lbs it has far more torque. It is not a trade grade tool, and the housing is a little larger than the DeWalt.\n\nIt is a bare tool, so a ONE+ battery is required. A 4 Ah pack balances run time and weight. A fresh battery gives noticeably more torque than a worn one.",
+   "bestFor": "Homeowners with other Ryobi ONE+ tools.",
+   "pros": [
+    "Brushless motor gives longer run time",
+    "Up to 350 in-lbs is strong for the class",
+    "Large home tool battery platform",
+    "Lower cost than pro brands"
+   ],
+   "cons": [
+    "Bare tool needs a battery",
+    "Slightly larger body than DeWalt",
+    "Less rugged than trade tools"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B08XF7BWQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31OtmzkGXNL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08FF459QJ",
+   "badge": "Best for Big Holes",
+   "name": "Milwaukee M18 FUEL HOLE HAWG 1/2 Inch Right Angle Drill",
+   "specs": [
+    "M18 FUEL brushless",
+    "1/2 inch chuck",
+    "Hole Hawg",
+    "Bare tool"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "2807-20"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Chuck",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Class",
+     "value": "Heavy duty"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "Milwaukee M18"
+    }
+   ],
+   "description": "The Hole Hawg 2807-20 is the heavy duty right angle drill, built to drive large auger bits and hole saws through framing lumber. Its 1/2 inch chuck and brushless M18 FUEL motor give the torque the compact tools cannot. Plumbers and electricians drilling dozens of holes a day choose this tool.\n\nIt is bigger and heavier than the DeWalt DCD740B, and it cannot fit into the narrowest bays. In exchange it will not stall where the Ryobi HP or Makita would. Compared with the Milwaukee 2808-20 with Quik-Lok it uses a conventional chuck.\n\nIt is sold bare, and a high output M18 battery makes best use of it. Check the side handle and keep the gearbox clean. Check the auto feed bit alignment before each job.",
+   "bestFor": "Plumbers and electricians drilling large holes all day.",
+   "pros": [
+    "Drives large auger bits and hole saws",
+    "Brushless M18 FUEL motor",
+    "Half inch chuck holds big shanks",
+    "Built for daily trade use"
+   ],
+   "cons": [
+    "Large and heavy for tight bays",
+    "Premium price",
+    "Sold without battery"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B08FF459QJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Eljwpk3dL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B002SQK996",
+   "badge": "Best 12V",
+   "name": "Milwaukee M12 2415-20 3/8 Inch Right Angle Drill",
+   "specs": [
+    "M12 12V",
+    "3/8 inch chuck",
+    "Ratcheting chuck",
+    "Bare tool"
+   ],
+   "specList": [
+    {
+     "label": "Voltage class",
+     "value": "12V"
+    },
+    {
+     "label": "Chuck",
+     "value": "3/8 inch ratcheting single sleeve"
+    },
+    {
+     "label": "Model",
+     "value": "2415-20"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Use",
+     "value": "Light to medium drilling"
+    },
+    {
+     "label": "Platform",
+     "value": "Milwaukee M12"
+    }
+   ],
+   "description": "The Milwaukee 2415-20 is the 12V right angle drill, with a 3/8 inch single sleeve ratcheting chuck for firm grip. It is small and light, which suits long overhead jobs. The M12 battery is compact and keeps weight down.\n\nIt is not strong enough for large bits, so it is a better fit for small holes in studs and hardware. Compared with the Ryobi HP it gives up torque, while compared with the Makita XAD02Z it matches size and adds a ratcheting chuck. It is a well made tool for electricians.\n\nA bare tool, so you need an M12 battery. Enjoy the weight savings, and stick to bits under 3/4 inch. An extra battery makes a long day easy.",
+   "bestFor": "Electricians who want a light tool for small holes.",
+   "pros": [
+    "Ratcheting chuck holds bits firmly",
+    "Compact M12 platform keeps weight low",
+    "Fits tight spaces",
+    "Easy overhead handling"
+   ],
+   "cons": [
+    "Limited torque for large bits",
+    "Bare tool needs batteries",
+    "Brushed motor design"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B002SQK996?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3134oPJAdoL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00OXUPOTK",
+   "badge": "Best Light Duty Cordless",
+   "name": "Makita XAD02Z 18V LXT 3/8 Inch Angle Drill",
+   "specs": [
+    "121 in-lbs",
+    "0 to 1,800 rpm",
+    "3/8 inch keyless",
+    "LXT 18V"
+   ],
+   "specList": [
+    {
+     "label": "Torque",
+     "value": "121 in-lbs max"
+    },
+    {
+     "label": "Speed",
+     "value": "0 to 1,800 rpm"
+    },
+    {
+     "label": "Chuck",
+     "value": "3/8 inch keyless"
+    },
+    {
+     "label": "Motor",
+     "value": "4-pole"
+    },
+    {
+     "label": "Supplied",
+     "value": "Tool only"
+    },
+    {
+     "label": "Platform",
+     "value": "Makita LXT 18V"
+    }
+   ],
+   "description": "The Makita XAD02Z states 121 in-lbs of maximum torque and a 0 to 1,800 rpm speed range. That torque is low next to the Ryobi HP at 350 in-lbs, so it is a tool for small holes and screws. A 3/8 inch keyless chuck allows fast bit changes.\n\nIt is a sound choice for Makita LXT owners who want one angle drill. It will not drill large auger bits, and the DeWalt DCD740B has a wider speed range. For cabinet installs and light electrical it is enough.\n\nIt is a bare tool, and Makita LXT batteries are widely available. Keep expectations in line with the specs. Its low torque makes it better suited to hardware and cable holes.",
+   "bestFor": "Makita LXT owners who need a light angle drill.",
+   "pros": [
+    "Fits the Makita LXT battery range",
+    "Keyless chuck speeds bit changes",
+    "Light and well balanced",
+    "Good for small holes and screws"
+   ],
+   "cons": [
+    "Low torque of 121 in-lbs",
+    "Not for large bits",
+    "Bare tool needs a battery"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B00OXUPOTK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UCBE3kklL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0000789HO",
+   "badge": "Best Corded",
+   "name": "Makita DA3010F 3/8 Inch Corded Angle Drill",
+   "specs": [
+    "4.0 amp corded",
+    "3.5 lb",
+    "0 to 2,400 rpm",
+    "10-5/8 inch long"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "4.0 amp corded"
+    },
+    {
+     "label": "Weight",
+     "value": "3.5 lb"
+    },
+    {
+     "label": "Speed",
+     "value": "0 to 2,400 rpm"
+    },
+    {
+     "label": "Length",
+     "value": "10-5/8 inches"
+    },
+    {
+     "label": "Head width",
+     "value": "2-5/8 inches"
+    },
+    {
+     "label": "Direction",
+     "value": "Reversible"
+    }
+   ],
+   "description": "The Makita DA3010F is a corded right angle drill with a 4.0 amp motor and a 0 to 2,400 rpm speed range. It weighs 3.5 lb, light for a corded tool, and its head is 2-5/8 inches wide. It runs without a battery, so power never fades.\n\nIt is a classic tool for electricians who work in a house with outlets nearby. Compared with the cordless Ryobi HP it has less torque, but it never needs charging. Its length of 10-5/8 inches is longer than the cordless models.\n\nAnd it is a reversible tool that suits small holes and screws. Check the cord and keep the vents clear. Cord length matters, so pair it with a heavy gauge extension cord.",
+   "bestFor": "Electricians who want a battery free angle drill.",
+   "pros": [
+    "No battery to charge or replace",
+    "Light for a corded tool at 3.5 lb",
+    "Reversible for driving screws",
+    "Narrow head fits between studs"
+   ],
+   "cons": [
+    "Cord limits movement",
+    "Lower torque than heavy duty tools",
+    "Longer body than cordless models"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0000789HO?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31-PbIZ4MwL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Head size and length",
+   "explanation": "A right angle drill earns its place by fitting where other drills cannot. The DeWalt DCD740B measures 4.0 inches front to back, while the Makita DA3010F has a 2-5/8 inch head but is 10-5/8 inches long. Studs are spaced 16 inches on center, so a tool must fit with the battery attached. Measure your tightest bay first. Put the battery on the tool before you check the fit."
+  },
+  {
+   "criterion": "Torque and bit size",
+   "explanation": "Large auger bits need serious torque. The Ryobi HP delivers up to 350 in-lbs, while the Makita XAD02Z is rated 121 in-lbs. The Milwaukee Hole Hawg is built for 1 inch and larger bits. Using a small tool with a large bit stalls the motor and can twist your wrist. Bits wear faster in framing nails, so keep spares."
+  },
+  {
+   "criterion": "Speed range and gearing",
+   "explanation": "Low gear drives large bits slowly with torque, and high gear drills small holes quickly. The DeWalt DCD740B offers 0 to 650 and 0 to 2,000 rpm. A single speed tool limits what you can do. Check the gear switch. Gear switches should click firmly."
+  },
+  {
+   "criterion": "Chuck type",
+   "explanation": "A ratcheting chuck grips bits firmly and prevents slip, as on the Milwaukee 2415-20. Keyless chucks on the Makita XAD02Z make swaps quick. A chuck in a tight bay is hard to reach, so a one hand design helps. Test it if you can. Reversing is useful for backing out bits."
+  },
+  {
+   "criterion": "Corded or cordless",
+   "explanation": "A cordless tool moves freely, while the corded Makita DA3010F never runs out of power. Batteries add length and weight to the back of the tool. For long runs in an attic, a cord can be a nuisance. Choose based on where you work. Extension cords add voltage drop on long runs."
+  },
+  {
+   "criterion": "Platform and bare tool cost",
+   "explanation": "Most right angle drills here are bare tools, so you need batteries and a charger. DeWalt 20V MAX, Ryobi ONE+, Milwaukee M12 or M18 and Makita LXT each carry a broad ecosystem. Buy the one that matches tools you already own. A bare tool saves money only if you already own the packs."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Front to back length",
+   "meaning": "The total length of the tool along the drill axis, which decides if it fits between studs. The DeWalt DCD740B is 4.0 inches. Shorter is easier to place.",
+   "watchFor": "Add the battery length if it sits behind the motor. Check the listing for the battery's added length."
+  },
+  {
+   "spec": "Max torque",
+   "meaning": "The peak twisting force, such as 350 in-lbs on the Ryobi HP and 121 in-lbs on the Makita XAD02Z. It sets the largest bit you can run.",
+   "watchFor": "Peak figures are not sustained, so keep bits well below the limit. A cheap tool with an inflated figure often has a weak gearbox."
+  },
+  {
+   "spec": "Speed range",
+   "meaning": "The rpm from low gear to high gear, such as 0 to 650 and 0 to 2,000 rpm on the DeWalt. Low gear suits large bits.",
+   "watchFor": "Single speed models restrict what you can drill. Low gear matters more than top rpm for auger bits."
+  },
+  {
+   "spec": "Chuck size",
+   "meaning": "The largest shank diameter the chuck holds. Most compact tools use 3/8 inch, while the Hole Hawg uses 1/2 inch.",
+   "watchFor": "A 3/8 inch chuck rules out some large bit shanks. Reducing bushings do not add torque, only fit."
+  },
+  {
+   "spec": "Amp rating",
+   "meaning": "For corded tools like the Makita DA3010F at 4.0 amps, it shows motor load. Higher amps usually mean more power.",
+   "watchFor": "Amps measure input, not output. Compare amps only within the same class of tool."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Size and access",
+   "description": "We compared lengths and head widths, including 4.0 inches on the DeWalt and a 2-5/8 inch head on the Makita corded. Tools that fit tight bays ranked higher."
+  },
+  {
+   "title": "Torque and bit capacity",
+   "description": "We compared 350 in-lbs on the Ryobi HP with 121 in-lbs on the Makita XAD02Z. The Hole Hawg anchored the heavy duty end."
+  },
+  {
+   "title": "Speed and chuck",
+   "description": "Two speed gearboxes and secure chucks earned credit. A ratcheting chuck on the Milwaukee M12 ranked well."
+  },
+  {
+   "title": "Power source",
+   "description": "We weighed corded reliability against cordless freedom. The Makita DA3010F is the corded pick, and the rest are cordless."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "The DCD740B leads for balance, the Ryobi HP for value and the Hole Hawg for big holes. The Milwaukee M12 and Makita tools fill light duty roles."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Job",
+   "table": {
+    "headers": [
+     "Job",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "General remodeling and trades",
+      "DeWalt DCD740B",
+      "Short length and two speeds"
+     ],
+     [
+      "Homeowner projects",
+      "Ryobi ONE+ HP",
+      "350 in-lbs, low cost"
+     ],
+     [
+      "Large holes through framing",
+      "Milwaukee Hole Hawg 2807-20",
+      "Heavy duty torque"
+     ],
+     [
+      "Electrical small holes",
+      "Milwaukee M12 2415-20",
+      "Light and ratcheting"
+     ],
+     [
+      "Light work on Makita LXT",
+      "Makita XAD02Z",
+      "Platform fit"
+     ],
+     [
+      "Shop or attic with power",
+      "Makita DA3010F",
+      "Corded, no battery"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Ryobi ONE+ HP",
+      "Brushless at a low price"
+     ],
+     [
+      "Low to mid",
+      "Makita DA3010F",
+      "Corded simplicity"
+     ],
+     [
+      "Mid",
+      "Makita XAD02Z",
+      "Light duty LXT"
+     ],
+     [
+      "Upper mid",
+      "DeWalt DCD740B",
+      "Pro compact"
+     ],
+     [
+      "High",
+      "Milwaukee M12 2415-20",
+      "Compact pro"
+     ],
+     [
+      "Highest",
+      "Milwaukee Hole Hawg 2807-20",
+      "Heavy duty"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Compact vs Heavy Duty",
+   "cards": [
+    {
+     "label": "Compact",
+     "text": "Short, light tools that fit between studs. The DeWalt DCD740B, Ryobi HP and Milwaukee M12 fit here. They suit small and mid size bits."
+    },
+    {
+     "label": "Heavy duty",
+     "text": "Larger tools with more torque for big bits. The Milwaukee Hole Hawg 2807-20 is the one. It will not fit the tightest bays."
+    }
+   ],
+   "note": "Most buyers want compact. Choose heavy duty only if you drill large holes daily."
+  },
+  {
+   "subheading": "Corded or Cordless",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cordless freedom",
+      "DeWalt DCD740B",
+      "Short and flexible"
+     ],
+     [
+      "No batteries",
+      "Makita DA3010F",
+      "Reliable power"
+     ],
+     [
+      "Cordless value",
+      "Ryobi ONE+ HP",
+      "Brushless"
+     ],
+     [
+      "Cordless light",
+      "Milwaukee M12 2415-20",
+      "Small battery"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Electrical Work Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A short body, a ratcheting chuck and an auger bit capacity for 3/4 inch holes. Low weight helps overhead. Variable speed gives control."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Milwaukee M12 2415-20 and DeWalt DCD740B suit electricians best. The Hole Hawg is the pick for big runs."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You drill every day or need large bits. The Milwaukee Hole Hawg and DeWalt DCD740B repay the cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You drill a few holes a year. The Ryobi ONE+ HP or Makita DA3010F is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the chuck",
+   "interval": "Monthly",
+   "why": "Dust prevents bits from locking. Wipe and blow out."
+  },
+  {
+   "task": "Check the gear head",
+   "interval": "Every 6 months",
+   "why": "The gearbox takes shocks from binding bits. Look for oil leaks or play."
+  },
+  {
+   "task": "Inspect the cord",
+   "interval": "Before use",
+   "why": "Corded tools get dragged through attics. A nicked cord is a hazard."
+  },
+  {
+   "task": "Keep batteries at half charge",
+   "interval": "Between jobs",
+   "why": "Lithium cells age faster when full or empty."
+  },
+  {
+   "task": "Use a side handle on big bits",
+   "interval": "Always",
+   "why": "Binding bits twist the tool. A handle gives control."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is a right angle drill used for?",
+   "a": "Drilling in tight spaces such as stud bays, joists and cabinets where a standard drill will not fit. Electricians and plumbers use them daily. In a typical house, that means getting through top plates and studs to run cable or pipe without opening the wall."
+  },
+  {
+   "q": "Is corded or cordless better?",
+   "a": "Cordless is more convenient, while corded never runs out. Corded tools like the Makita DA3010F are light and reliable. The corded model suits a shop or a house with outlets, while a cordless tool suits attics and new construction."
+  },
+  {
+   "q": "Can it drill 1 inch holes?",
+   "a": "Only the heavy duty tools such as the Milwaukee Hole Hawg. Small tools will stall. Holes beyond roughly 1 inch in dense lumber also call for a low gear and a side handle to control reaction torque."
+  },
+  {
+   "q": "Do I need a special bit?",
+   "a": "Use bits with short shanks and self feed tips for big holes. Check the chuck capacity. Self feed bits and auger bits pull themselves through wood, so the tool needs torque and a firm grip rather than speed."
+  },
+  {
+   "q": "Is brushless worth it?",
+   "a": "For heavy use, yes. The Ryobi HP shows brushless in an affordable tool. The extra run time matters on long days when you may drill a hundred holes."
+  },
+  {
+   "q": "How do I avoid wrist injury?",
+   "a": "Use the side handle, brace your stance and choose a tool with enough torque. Binding bits are the main cause of injury. Keep your wrist straight and your body behind the tool, and never hold the chuck while the tool runs."
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/41Pl7d-0eeL._SL500_.jpg",
+ "relatedGuides": []
+}

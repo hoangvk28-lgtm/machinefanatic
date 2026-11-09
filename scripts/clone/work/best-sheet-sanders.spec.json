@@ -1,0 +1,588 @@
+{
+ "guideSlug": "best-sheet-sanders",
+ "categorySlug": "power-tools",
+ "mainKeyword": "sheet sander",
+ "guideTitle": "Best Sheet Sanders (2026)",
+ "metaTitle": "Best Sheet Sanders for Finishing Work (2026)",
+ "metaDescription": "Quarter and third sheet palm sanders compared by OPM, paper clamp, dust collection, vibration and pad size for cabinets, trim and paint prep.",
+ "lastUpdated": "2026-11-09",
+ "readTime": "13 min",
+ "expertTake": "The DeWalt DWE6411K is the best sheet sander for most users: a 2.3 amp motor at 14,000 OPM, a good paper clamp and a comfortable overmolded body. The Makita BO4556K is the pick for low vibration and a smooth finish, and the WEN 6313 is the value pick if you want a larger third-sheet pad. If you need to strip paint or flatten big boards, a random orbital or belt sander does the job faster.",
+ "introParagraphs": [
+  "A sheet sander, also called a finishing or palm sander, moves a rectangular pad in tiny orbits and holds a standard quarter or third sheet of sandpaper with clamps. Its square corners reach into cabinet corners and flat edges that a round random orbital pad cannot, which is why it is the tool for paint prep and the last pass before finish.",
+  "The trade is aggression: a sheet sander cuts slowly and can leave straight-line scratches if you sand across the grain. This guide explains the specs that decide control and finish quality, then points you to the top picks above and the reviews below."
+ ],
+ "products": [
+  {
+   "id": "B00ZWJDN5S",
+   "badge": "Best Overall",
+   "name": "DEWALT DWE6411K 1/4 Sheet Palm Sander Kit",
+   "price": "",
+   "specs": [
+    "2.3 amp motor",
+    "14,000 OPM",
+    "Quarter sheet",
+    "Rubber overmold"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "2.3 amp"
+    },
+    {
+     "label": "Speed",
+     "value": "14,000 OPM"
+    },
+    {
+     "label": "Paper size",
+     "value": "1/4 sheet"
+    },
+    {
+     "label": "Grip",
+     "value": "Rubber overmold"
+    },
+    {
+     "label": "Paper clamp",
+     "value": "Improved design"
+    },
+    {
+     "label": "Kit",
+     "value": "Case included"
+    }
+   ],
+   "description": "The DWE6411K is a quarter sheet palm sander with a 2.3 amp motor that runs at a fixed 14,000 orbits per minute. A rubber overmold covers the body for a grip that stays comfortable and secure through a long session, and the paper clamps are improved over earlier versions.\n\nThe fixed speed is the compromise: the Milwaukee and WEN 6313 vary theirs, while the DeWalt trades a speed dial for simplicity and a strong, consistent cut. At 2.3 amps it has more motor than the Bosch GSS20-40 at 2 amps, which shows up on cabinet doors and hardwood. The kit adds a carry case that keeps sheets and the sander together.\n\nPaper changes are where cheap sanders annoy you, and a good clamp holds the sheet taut without tearing it. Use pre-cut quarter sheets or tear full sheets in four. Empty the dust bag often, since a full bag cuts suction and returns dust to the pad. Keep a spare quarter-sheet pad handy, since the hooks and foam wear before the motor does.",
+   "bestFor": "Cabinet and trim finishing where you want a solid, comfortable tool.",
+   "pros": [
+    "2.3 amp motor with 14,000 OPM",
+    "Overmolded rubber grip for comfort",
+    "Improved paper clamps hold sheets taut",
+    "Carry case included"
+   ],
+   "cons": [
+    "Single speed, no dial for delicate work",
+    "Onboard bag captures only part of the dust"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00ZWJDN5S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41DkMwNFkaL._SL500_.jpg"
+  },
+  {
+   "id": "B00171JEE4",
+   "badge": "Best Low Vibration",
+   "name": "Makita BO4556K 1/4 Sheet Finishing Sander with Case",
+   "price": "",
+   "specs": [
+    "14,000 OPM",
+    "Ball bearing build",
+    "Quarter sheet",
+    "Rubber palm grip"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "14,000 OPM"
+    },
+    {
+     "label": "Paper size",
+     "value": "1/4 sheet"
+    },
+    {
+     "label": "Bearings",
+     "value": "Precision ball bearings"
+    },
+    {
+     "label": "Grip",
+     "value": "Contoured rubberized palm"
+    },
+    {
+     "label": "Kit",
+     "value": "With tool case"
+    }
+   ],
+   "description": "The BO4556K runs at 14,000 OPM and uses precision ball bearing construction to reduce vibration and noise, which Makita highlights as a core feature. A contoured, rubberized palm grip completes a design built for comfort during repeat passes.\n\nVibration is what separates good finishing sanders from tiresome ones, because the tool rides on top of the work and every shake telegraphs into your hand. Compared with the DeWalt DWE6411K, the Makita is a quieter, smoother feel with a similar speed, though the DeWalt has a stronger motor rating. It comes with a case.\n\nCheck that the paper clamp holds the sheet evenly, and keep the pad flat. A pad with a warp or a curled edge leaves lines on the work. Because it is a finishing tool, resist the urge to lean on it, since the weight of the tool alone is enough pressure.",
+   "bestFor": "Fine finish sanding where vibration and noise matter.",
+   "pros": [
+    "Ball bearings reduce vibration and noise",
+    "Contoured rubber palm grip",
+    "14,000 OPM finish speed",
+    "Case included"
+   ],
+   "cons": [
+    "Motor rating is not published in the listing",
+    "Single speed only"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B00171JEE4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lC7kBwMzL._SL500_.jpg"
+  },
+  {
+   "id": "B01LY8Y2UU",
+   "badge": "Best Orbital Precision",
+   "name": "BOSCH GSS20-40 1/4 Sheet 2 Amp Orbital Finishing Sander",
+   "price": "",
+   "specs": [
+    "2 amp motor",
+    "12,000 OPM",
+    "Aluminum plate",
+    "Micro-filter box"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "2 amp"
+    },
+    {
+     "label": "Speed",
+     "value": "12,000 OPM"
+    },
+    {
+     "label": "Paper size",
+     "value": "1/4 sheet"
+    },
+    {
+     "label": "Plate",
+     "value": "Precision-machined aluminum"
+    },
+    {
+     "label": "Dust",
+     "value": "Micro-filter canister"
+    }
+   ],
+   "description": "The GSS20-40 is a quarter sheet sander engineered for very tight orbital motion, with a 2 amp motor and 12,000 OPM. A precision-machined aluminum sanding plate keeps the pad flat, and a micro-filter dust canister with a screw-off cap captures fine particles.\n\nA tight orbit leaves a finer scratch pattern than a wide one, which is why this style suits final sanding before stain or clear coat. It has less raw power than the DeWalt, which is not a problem for finish sanding but slows it on bare boards. The flat aluminum plate is an advantage over cheaper plastic pads that warp.\n\nEmpty the canister regularly and clean the filter, since a clogged filter reduces suction and lets dust settle on the work. The aluminum plate is easy to wipe clean, and the filter canister can be rinsed and dried between jobs.",
+   "bestFor": "Final sanding before stain or clear coat.",
+   "pros": [
+    "Tight orbit leaves a fine scratch pattern",
+    "Aluminum plate stays flat",
+    "Micro-filter canister traps fine dust",
+    "Compact quarter sheet size"
+   ],
+   "cons": [
+    "Lower power than the 2.3 amp DeWalt",
+    "12,000 OPM is slower on rough stock"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B01LY8Y2UU?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41+hqrB9D8L._SL500_.jpg"
+  },
+  {
+   "id": "B0BN28XGZ2",
+   "badge": "Best Cordless",
+   "name": "Milwaukee M18 1/4 Sheet Sander",
+   "price": "",
+   "specs": [
+    "M18 cordless",
+    "11,000-13,000 OPM",
+    "Low vibration",
+    "95% dust claim"
+   ],
+   "specList": [
+    {
+     "label": "Platform",
+     "value": "M18, 18V"
+    },
+    {
+     "label": "Speed",
+     "value": "11,000 to 13,000 OPM dial"
+    },
+    {
+     "label": "Paper size",
+     "value": "1/4 sheet"
+    },
+    {
+     "label": "Dust",
+     "value": "Up to 95% collected (maker claim)"
+    },
+    {
+     "label": "Vibration",
+     "value": "Low vibration design"
+    }
+   ],
+   "description": "The Milwaukee M18 quarter sheet sander runs on M18 batteries with a variable speed dial between 11,000 and 13,000 OPM. Milwaukee claims up to 95 percent of dust is collected, a manufacturer figure under its own conditions, and designs the tool for low vibration.\n\nCordless means you can sand a door or railing without dragging a cord across the finish. The variable dial lets you drop speed for delicate work, a feature the DeWalt DWE6411K lacks. The cost is battery weight and the need for an M18 pack, since this is a bare tool listing.\n\nIf you own M18 batteries it is a convenient finishing tool. A 2.0Ah pack is enough for a cabinet door or two, and a larger pack for a full kitchen. Keep the battery charged but not left on the tool, and let it cool before storing.",
+   "bestFor": "M18 owners who want cordless finishing without a cord.",
+   "pros": [
+    "Cordless with variable 11,000 to 13,000 OPM",
+    "Low vibration design",
+    "Strong dust collection claim",
+    "Fits all M18 batteries"
+   ],
+   "cons": [
+    "Battery and charger sold separately",
+    "Heavier than corded sheet sanders"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0BN28XGZ2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31K9+64m7IL._SL500_.jpg"
+  },
+  {
+   "id": "B004I9D6C8",
+   "badge": "Best Pressure Control",
+   "name": "SKIL 7292-02 2 Amp 1/4 Sheet Palm Sander with Pressure Control",
+   "price": "",
+   "specs": [
+    "2 amp motor",
+    "Pressure control",
+    "Micro-filter",
+    "Clear dust canister"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "2 amp"
+    },
+    {
+     "label": "Paper size",
+     "value": "1/4 sheet"
+    },
+    {
+     "label": "Feature",
+     "value": "Pressure control alert"
+    },
+    {
+     "label": "Dust",
+     "value": "Micro-filtration canister"
+    },
+    {
+     "label": "Canister",
+     "value": "Clear view"
+    }
+   ],
+   "description": "The SKIL 7292-02 adds pressure control technology, which warns you when you press too hard. Pressing hard is the main cause of uneven sanding and swirl marks, so a warning teaches the right touch, and it suits beginners well.\n\nIt also has a micro-filter canister with a clear window so you can see when it needs emptying. The 2 amp motor is the same class as the Bosch GSS20-40, and it is among the more affordable picks here. It is not as refined as the Makita or DeWalt for long sessions.\n\nEmpty the canister regularly and avoid leaning on the tool. The feedback light is a tool for learning, and once you have the feel you can sand without it. Use the clear canister as a prompt to tap out the filter every time the dust reaches the line.",
+   "bestFor": "Beginners who want feedback on sanding pressure.",
+   "pros": [
+    "Pressure control warns of heavy pressing",
+    "Clear canister shows when to empty",
+    "Micro-filtration for fine dust",
+    "Affordable entry"
+   ],
+   "cons": [
+    "Less refined than DeWalt or Makita",
+    "Moderate motor power"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B004I9D6C8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qPZAXXRtL._SL500_.jpg"
+  },
+  {
+   "id": "B00WMM084C",
+   "badge": "Best Third-Sheet Value",
+   "name": "WEN 6313 1/3 Sheet Electric Sander",
+   "price": "",
+   "specs": [
+    "1.2 amp motor",
+    "12,000 OPM",
+    "1/3 sheet pad",
+    "3 lb weight"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "1.2 amp"
+    },
+    {
+     "label": "Speed",
+     "value": "12,000 OPM"
+    },
+    {
+     "label": "Pad",
+     "value": "3-5/8 x 7-3/8 in"
+    },
+    {
+     "label": "Weight",
+     "value": "About 3 lb"
+    },
+    {
+     "label": "Paper size",
+     "value": "1/3 sheet"
+    }
+   ],
+   "description": "The WEN 6313 is a one-third sheet sander with a 3-5/8 by 7-3/8 inch pad, a 1.2 amp motor and 12,000 OPM. The larger pad covers more area per pass than a quarter sheet, so it speeds up work on doors and panels.\n\nAt about 3 pounds it is light, which suits overhead work. The 1.2 amp motor is the lowest rating here, and the WEN does not have the comfort or dust performance of the premium picks. It is the least expensive way to get a larger pad.\n\nUse one third of a sheet and be careful of the larger pad's corners, which can dig into edges. Replace the paper as soon as it clogs. Store it flat so the pad does not curl, and keep paper in a dry drawer, since damp paper clogs instantly.",
+   "bestFor": "Occasional sanding of flat panels at low cost.",
+   "pros": [
+    "Larger third-sheet pad covers more area",
+    "Light at about 3 pounds",
+    "12,000 OPM finishing speed",
+    "Low cost"
+   ],
+   "cons": [
+    "Lowest motor rating in the lineup",
+    "Less refined dust collection"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B00WMM084C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41FD7JMzgoL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Pad size",
+   "explanation": "Quarter sheet pads suit corners and trim, as on the DeWalt DWE6411K and Makita BO4556K, while the WEN 6313 uses a one-third sheet pad of 3-5/8 by 7-3/8 inches. A bigger pad covers more area but is harder to control. A common mistake is buying a large pad for cabinet work and gouging edges. Match pad size to the work you do most, because a pad that is too large is hard to control."
+  },
+  {
+   "criterion": "Orbit speed",
+   "explanation": "Finish sanders run 11,000 to 14,000 OPM. The Milwaukee covers 11,000 to 13,000 with a dial, while the Makita and DeWalt are fixed at 14,000. Variable speed helps on delicate finishes and fixed speed is simpler. Faster does not mean smoother, as tight orbits at lower speeds can leave a finer finish. Test the dial and grip for a minute, since you will hold this tool for long stretches."
+  },
+  {
+   "criterion": "Paper clamp design",
+   "explanation": "A weak clamp lets the sheet slip and tear. The DeWalt advertises an improved clamp, and cheap sanders often use small fiddly clamps. Hook-and-loop options exist, but sheet sanders cut punched paper to size. Check clamp tension when you buy. Replace a weak clamp at the first sign of slipping paper."
+  },
+  {
+   "criterion": "Dust collection",
+   "explanation": "Palm sanders put dust in your face. The Bosch GSS20-40 and SKIL 7292-02 use micro-filter canisters, and the Milwaukee claims up to 95 percent capture. A vacuum port is better. Match punched holes in the paper to the pad. A canister you can see through tells you when suction is dropping."
+  },
+  {
+   "criterion": "Weight and grip",
+   "explanation": "A finishing sander is held in one hand, often overhead. The WEN 6313 weighs about 3 pounds, and the Makita BO4556K has a contoured rubber grip. Pick a sander that fits your palm, since fatigue ruins control. Hold the tool for a few minutes to see whether your hand tires."
+  },
+  {
+   "criterion": "Corded or cordless",
+   "explanation": "Corded sanders like the DeWalt give steady power and no weight penalty. Cordless sanders like the Milwaukee M18 avoid cords across wet finishes. If you sand once a month, corded is cheaper. If you finish trim on a ladder, cordless is easier. If you sand only occasionally, a corded tool is the cheaper way to go."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "OPM",
+   "meaning": "Orbits per minute is how often the pad completes its tiny orbit. Higher OPM gives a finer cut at the same pressure but not necessarily a better finish.",
+   "watchFor": "Some budget listings quote 26,000 OPM, which describes a vibrating head, not a better cut."
+  },
+  {
+   "spec": "Sheet size",
+   "meaning": "Quarter sheet is a quarter of a 9 by 11 inch sheet, and a third sheet is a third. Using the sander's own size avoids wasted paper.",
+   "watchFor": "Pad size differs from sheet size in some listings, so check the actual dimensions."
+  },
+  {
+   "spec": "Amp rating",
+   "meaning": "Amps measure current draw. At 1.2 amps the WEN 6313 draws about half what a random orbital does, and has less torque under load.",
+   "watchFor": "Power matters less than vibration and dust on a finish sander."
+  },
+  {
+   "spec": "Orbit size",
+   "meaning": "The orbit is the diameter of the pad's circle. A small orbit leaves fine scratches and a large one removes faster.",
+   "watchFor": "The spec is often missing. Look for tight orbit in the Bosch description."
+  },
+  {
+   "spec": "Dust capture claim",
+   "meaning": "A capture percentage such as 95 percent refers to a controlled test with a vacuum or bag. Real results depend on the paper and the work.",
+   "watchFor": "The Milwaukee 95 percent figure is a manufacturer claim."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Finish quality",
+   "description": "We looked at orbit speed, pad flatness and plate material. The Bosch aluminum plate and the Makita ball bearing build led this category."
+  },
+  {
+   "title": "Vibration and comfort",
+   "description": "We compared grip design and balance. The DeWalt overmold and Makita palm grip stand out."
+  },
+  {
+   "title": "Dust handling",
+   "description": "We compared canister, bag and vacuum designs. The Bosch and SKIL micro-filters rank well, and the Milwaukee makes a high capture claim."
+  },
+  {
+   "title": "Paper handling",
+   "description": "We looked at clamp design and sheet size. The DeWalt clamp is improved, and the WEN uses a third sheet."
+  },
+  {
+   "title": "Power and platform",
+   "description": "We compared motor ratings from 1.2 amps on the WEN 6313 to 2.3 amps on the DeWalt, and the Milwaukee's M18 platform."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Type of Work",
+   "table": {
+    "headers": [
+     "Scenario",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cabinet doors and trim",
+      "DEWALT DWE6411K",
+      "Strong motor and comfortable grip"
+     ],
+     [
+      "Final pass before stain",
+      "BOSCH GSS20-40",
+      "Tight orbit"
+     ],
+     [
+      "Smooth finish",
+      "Makita BO4556K",
+      "Low vibration"
+     ],
+     [
+      "Door and panel faces",
+      "WEN 6313",
+      "Third-sheet pad"
+     ],
+     [
+      "Ladder work",
+      "Milwaukee M18",
+      "Cordless"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Entry",
+      "WEN 6313",
+      "Least expensive"
+     ],
+     [
+      "Value",
+      "SKIL 7292-02",
+      "Pressure feedback"
+     ],
+     [
+      "Mid-range",
+      "BOSCH GSS20-40",
+      "Aluminum plate"
+     ],
+     [
+      "Upper",
+      "DEWALT DWE6411K",
+      "Power and kit"
+     ],
+     [
+      "Cordless",
+      "Milwaukee M18",
+      "Needs batteries"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Quarter Sheet vs Third Sheet",
+   "cards": [
+    {
+     "label": "Quarter sheet",
+     "text": "Reaches corners and tight areas, and the standard for trim and cabinets. The DeWalt, Makita, Bosch, Milwaukee and SKIL use it."
+    },
+    {
+     "label": "Third sheet",
+     "text": "Covers more area on flat panels but is harder to control. The WEN 6313 is the third sheet pick."
+    }
+   ],
+   "note": "Pick quarter sheet for detail and third sheet for flat surfaces."
+  },
+  {
+   "subheading": "Dust System",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick"
+    ],
+    "rows": [
+     [
+      "Micro-filter canister",
+      "BOSCH GSS20-40"
+     ],
+     [
+      "Clear canister",
+      "SKIL 7292-02"
+     ],
+     [
+      "High capture claim",
+      "Milwaukee M18"
+     ],
+     [
+      "Dust bag",
+      "DEWALT DWE6411K"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Paint Prep Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a tight orbit, a flat plate and good dust control so you do not wreck a fresh surface."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Bosch GSS20-40 and Makita BO4556K suit paint prep, and the DeWalt works for heavier scuffing."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more on the DEWALT DWE6411K or Makita if you sand weekly."
+    },
+    {
+     "label": "Save if",
+     "text": "Save with the WEN 6313 or SKIL if you sand occasionally."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace the sanding pad",
+   "interval": "When worn or warped",
+   "why": "A warped pad leaves lines. A new pad restores a flat surface."
+  },
+  {
+   "task": "Empty the dust bag or canister",
+   "interval": "Every 10 minutes",
+   "why": "A full container reduces suction. It also lets dust fall on the work."
+  },
+  {
+   "task": "Clean the filter",
+   "interval": "After each session",
+   "why": "A clogged filter reduces airflow. Tap it out."
+  },
+  {
+   "task": "Check the paper clamp",
+   "interval": "Monthly",
+   "why": "A weak clamp lets paper slip. Replace worn clamps."
+  },
+  {
+   "task": "Inspect the cord",
+   "interval": "Before use",
+   "why": "A damaged cord is a hazard. Replace it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the difference between a sheet sander and a random orbital?",
+   "a": "A sheet sander has a square pad and orbits in a small fixed circle, so it reaches corners. A random orbital has a round pad and also spins, which avoids patterns. Many woodworkers own one of each, using the square pad for corners and the round pad for open areas."
+  },
+  {
+   "q": "Can I sand across the grain?",
+   "a": "Avoid it with a sheet sander, because the fixed orbit leaves straight scratches. Sand with the grain. Sanding across the grain on a bare board shows up as scratches once stain goes on, so mark the grain direction first."
+  },
+  {
+   "q": "What grit should I use?",
+   "a": "Use 120 for prep, 180 for final and 220 before finish. Do not skip more than one grit. Skipping from 80 to 220 leaves deep scratches that the fine paper cannot remove, so step through each grit."
+  },
+  {
+   "q": "Do I need a vacuum?",
+   "a": "A vacuum improves capture. Onboard canisters work for light jobs. A shop vacuum on a port also keeps dust off the finish, which matters more than speed."
+  },
+  {
+   "q": "Quarter or third sheet?",
+   "a": "Quarter sheet for trim and corners. Third sheet for flat panels. If you are unsure, quarter sheet is the more versatile size, because paper is cheap and easy to find."
+  },
+  {
+   "q": "Why does my sander leave marks?",
+   "a": "Marks come from too much pressure, a dirty pad or grit contamination. Lighten up and change paper often. Dust trapped between pad and paper also scratches, so blow off the pad when you change sheets."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41DkMwNFkaL._SL500_.jpg"
+}

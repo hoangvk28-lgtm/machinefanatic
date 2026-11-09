@@ -222,3 +222,6 @@ Blenders 8, kettles 8, rice cookers 6, slow cookers 5, pressure cookers 5, toast
 
 ## Round 12 (2026-11-09): 30 kitchen guides
 Food processors/choppers 7, immersion blenders 3, hand mixers 3, coffee makers 6, air fryers 5, griddles 2, countertop dishwashers 2, compact bread makers 1, small microwaves 1. New research: electric-griddles, microwaves, countertop-dishwashers.
+
+## Power tools round 1 (2026-11-09): 50 new power-tool guides
+New topics added to source-index (power-tools had none left). Drills 12, saws 15, sanders 6, grinders 2, routers 2, planer, joiner, nailer, heat gun, rotary tool, polisher, batteries/chargers 3, combo kit, multi-tool, track/band/scroll saws. No skips.

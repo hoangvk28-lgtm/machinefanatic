@@ -1,0 +1,634 @@
+{
+ "guideSlug": "best-table-saws",
+ "categorySlug": "power-tools",
+ "mainKeyword": "table saw",
+ "guideTitle": "Best Table Saws (2026)",
+ "metaTitle": "Best Table Saws in 2026",
+ "metaDescription": "Six table saws compared on rip capacity, fence design, motor type, blade brake and stand for woodworking shops, job sites and small garages.",
+ "lastUpdated": "2026-11-06",
+ "readTime": "14 min",
+ "expertTake": "The DeWalt DWE7491RS is the table saw most woodworkers and contractors should buy, with a 32-1/2 inch rip capacity, a rack and pinion fence and a folding rolling stand. The Skil TS6307-00 is the value pick. If you want a quiet, cast iron shop saw with a flesh sensing brake, skip jobsite saws and look at a cabinet or hybrid saw, because portable saws trade mass and noise for a handle.",
+ "introParagraphs": [
+  "A table saw is the center of most woodworking shops because it rips boards to width, cuts sheet goods and makes repeatable crosscuts with a miter gauge or sled. The tool lives or dies by its fence, its table flatness and its blade guard, far more than by horsepower.",
+  "This guide explains rip capacity, fence design, motor types and safety systems, and where portable jobsite saws differ from heavy shop saws."
+ ],
+ "products": [
+  {
+   "id": "B00F2CGXGG",
+   "badge": "Best Overall",
+   "name": "DeWalt DWE7491RS 10 Inch Table Saw with Rolling Stand",
+   "specs": [
+    "32-1/2 inch rip",
+    "15 amp",
+    "4,800 rpm",
+    "Rack and pinion"
+   ],
+   "specList": [
+    {
+     "label": "Blade",
+     "value": "10 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "15 amp, 4,800 rpm"
+    },
+    {
+     "label": "Rip capacity",
+     "value": "32-1/2 inches"
+    },
+    {
+     "label": "Fence",
+     "value": "Rack and pinion telescoping"
+    },
+    {
+     "label": "Stand",
+     "value": "Foldable rolling"
+    },
+    {
+     "label": "Support",
+     "value": "Patented material support for narrow rips"
+    }
+   ],
+   "description": "The DWE7491RS has a 15 amp motor turning at 4,800 rpm, a 10 inch blade and a 32-1/2 inch rip capacity, enough to rip full sheets of plywood in half. A rack and pinion telescoping fence makes adjustments fast, smooth and accurate. A foldable rolling stand makes it easy to move between a shop and a site.\n\nIts patented material support helps with narrow rips, and a two position flip-over fence handles different thicknesses. Compared with the Bosch GTS15-10 at 32-1/8 inches it has slightly more capacity and a longer track record. Against the Skil SPT99-11 it is lighter and less heavy duty.\n\nA portable saw like this needs regular fence checks, because transport can shift the alignment. Keep the table waxed and the rack clean, and use a push stick. Use a 24 tooth ripping blade for hardwood and a 40 tooth combination blade for plywood.",
+   "bestFor": "Contractors and woodworkers who want a proven jobsite saw.",
+   "pros": [
+    "32-1/2 inch rip capacity handles sheet goods",
+    "Rack and pinion fence is fast and accurate",
+    "Foldable rolling stand for transport",
+    "Material support helps narrow rips"
+   ],
+   "cons": [
+    "Jobsite table is less flat than cast iron",
+    "Louder than induction shop saws",
+    "Fence needs checking after transport"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00F2CGXGG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aHc-jYnVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CKS6G6TC",
+   "badge": "Best Brake",
+   "name": "Bosch GTS15-10 10 Inch Portable Jobsite Table Saw with Stand",
+   "specs": [
+    "32-1/8 inch rip",
+    "15 amp",
+    "3,800 rpm",
+    "Blade brake"
+   ],
+   "specList": [
+    {
+     "label": "Blade",
+     "value": "10 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "15 amp, 3,800 rpm"
+    },
+    {
+     "label": "Rip capacity",
+     "value": "32-1/8 inches"
+    },
+    {
+     "label": "Fence",
+     "value": "Rack and pinion with color-coded index pins"
+    },
+    {
+     "label": "Brake",
+     "value": "Blade stops in about 3 seconds"
+    },
+    {
+     "label": "Stand",
+     "value": "Rise wheeled stand"
+    }
+   ],
+   "description": "The Bosch GTS15-10 offers a 15 amp motor at 3,800 rpm, a 32-1/8 inch rip capacity and a rack and pinion fence with color-coded index pins. A convenience brake stops the blade in about three seconds, which saves time between cuts. A rise wheeled stand makes transport easy.\n\nCompared with the DeWalt DWE7491RS it has a similar capacity and a slightly lower blade speed. The brake and the smooth gravity rise stand are its stand out features. Against the Skil TS6307-00 it is a more refined saw.\n\nCheck that the fence locks parallel to the blade, and keep the stand hardware tight. A sharp blade makes any saw safer. The brake adds a small amount of resistance to blade changes, so follow the manual.",
+   "bestFor": "Woodworkers who value fast stops and a refined stand.",
+   "pros": [
+    "Blade brake stops in about 3 seconds",
+    "32-1/8 inch rip capacity",
+    "Rack and pinion fence with index pins",
+    "Rise stand eases loading"
+   ],
+   "cons": [
+    "Lower blade speed than the DeWalt",
+    "Premium cost",
+    "Jobsite table is smaller than a cabinet saw"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CKS6G6TC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41g5EhD6F0L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07657FP2G",
+   "badge": "Best Worm Drive",
+   "name": "Skil SPT99-11 10 Inch Worm Drive Table Saw with Stand",
+   "specs": [
+    "Worm drive",
+    "3-5/8 inch depth",
+    "30-1/2 inch rip",
+    "16 inch wheels"
+   ],
+   "specList": [
+    {
+     "label": "Drive",
+     "value": "Worm drive gearing"
+    },
+    {
+     "label": "Depth of cut",
+     "value": "3-5/8 inches"
+    },
+    {
+     "label": "Rip capacity",
+     "value": "30-1/2 inches"
+    },
+    {
+     "label": "Fence",
+     "value": "Rack and pinion"
+    },
+    {
+     "label": "Stand",
+     "value": "Rolling with 16 inch wheels"
+    },
+    {
+     "label": "Weight",
+     "value": "Heavy, 94.3 lb"
+    }
+   ],
+   "description": "The Skil SPT99-11 uses worm drive gearing for torque, with a 3-5/8 inch depth of cut that exceeds most jobsite saws and a 30-1/2 inch rip capacity. A rack and pinion fence keeps adjustments accurate, and a rolling stand with 16 inch wheels deals with rough ground. It is a heavy, powerful saw.\n\nCompared with the DeWalt DWE7491RS it has more depth and torque for thick lumber, at much more weight. Against the Bosch it is bulkier but stronger in hardwood. It is a good fit for builders who rip thick stock on a site.\n\nWorm drive gear oil needs periodic changes. Check the oil level and keep the table clean. Change the gear oil per the manual, and keep the worm gear housing clean.",
+   "bestFor": "Builders who rip thick lumber on site.",
+   "pros": [
+    "Worm drive torque cuts thick stock",
+    "3-5/8 inch depth of cut",
+    "Rolling stand with 16 inch wheels",
+    "Rack and pinion fence"
+   ],
+   "cons": [
+    "Heavy at about 94 lb",
+    "Gear oil needs changes",
+    "Bulky for small shops"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07657FP2G?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51nHwyWVJjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08F9RFJ2K",
+   "badge": "Best Value",
+   "name": "Skil TS6307-00 15 Amp 10 Inch Jobsite Table Saw with Folding Stand",
+   "specs": [
+    "15 amp",
+    "10 inch blade",
+    "Rack and pinion",
+    "Folding stand"
+   ],
+   "specList": [
+    {
+     "label": "Blade",
+     "value": "10 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "15 amp"
+    },
+    {
+     "label": "Fence",
+     "value": "Rack and pinion rails"
+    },
+    {
+     "label": "Stand",
+     "value": "Integrated folding legs"
+    },
+    {
+     "label": "Alignment",
+     "value": "Micro-adjust parallel blade alignment"
+    },
+    {
+     "label": "Model",
+     "value": "TS6307-00"
+    }
+   ],
+   "description": "The Skil TS6307-00 has a 15 amp motor and a 10 inch blade, with rack and pinion fence rails that keep the fence parallel. Integrated folding legs form the stand, and micro-adjustment lets you set the blade parallel to the fence and miter slot. It is a complete jobsite saw at a lower price.\n\nCompared with the DeWalt DWE7491RS it has a simpler stand and fewer refinements, but it saves money. Against the Evolution R10TS it lacks multi material cutting and a dado plate. It suits homeowners and part time builders.\n\nCheck the blade alignment out of the box, using the micro-adjust. Tighten the stand legs before each use. A zero-clearance insert improves cuts on thin stock and plywood.",
+   "bestFor": "Homeowners and part time builders who want a complete saw.",
+   "pros": [
+    "15 amp motor with a 10 inch blade",
+    "Rack and pinion fence rails",
+    "Folding stand built in",
+    "Micro-adjust blade alignment"
+   ],
+   "cons": [
+    "Less refined than DeWalt",
+    "Jobsite table is smaller than a cabinet saw",
+    "Lighter duty stand"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B08F9RFJ2K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41IBsx2WCzL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DVCZWB19",
+   "badge": "Best Multi-Material",
+   "name": "Evolution R10TS 10 Inch Jobsite Table Saw with Dado Plate",
+   "specs": [
+    "15 amp",
+    "26 inch rip",
+    "3-3/8 inch depth",
+    "Dado plate"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "15 amp with soft start"
+    },
+    {
+     "label": "Rip capacity",
+     "value": "26 inches"
+    },
+    {
+     "label": "Depth of cut",
+     "value": "3-3/8 inches"
+    },
+    {
+     "label": "Included",
+     "value": "Zero-clearance plate, dado plate, cross-cut sled"
+    },
+    {
+     "label": "Fence",
+     "value": "Rack and pinion"
+    },
+    {
+     "label": "Materials",
+     "value": "Wood, plastic, non-ferrous metal"
+    }
+   ],
+   "description": "The Evolution R10TS is built for multi material cutting, with a 15 amp motor that has soft start, a 26 inch rip capacity and a 3-3/8 inch depth of cut. It includes a zero-clearance throat plate, a dado plate and a cross-cut sled, which are usually extras. A rack and pinion fence handles rips.\n\nCompared with the DeWalt DWE7491RS it has a shorter rip but more included accessories. Against the Skil TS6307-00 it offers dado capability. It suits hobbyists who cut dadoes and joints.\n\nThe stand is sold separately on this version. Use the correct blade for each material, and check the fence parallel to the blade. Add a push block and featherboard for safer narrow rips.",
+   "bestFor": "Hobbyists who want dado capability and accessories included.",
+   "pros": [
+    "Dado plate and sled included",
+    "3-3/8 inch depth of cut",
+    "Soft start protects the motor",
+    "Zero-clearance plate for clean cuts"
+   ],
+   "cons": [
+    "26 inch rip is shorter",
+    "Stand not included on this model",
+    "Jobsite table is smaller than a cabinet saw"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DVCZWB19?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413AYaWFwTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0842QDW95",
+   "badge": "Best Compact",
+   "name": "DeWalt DWE7485 8-1/4 Inch Compact Portable Jobsite Table Saw",
+   "specs": [
+    "8-1/4 inch blade",
+    "24.5 inch rip",
+    "15 amp",
+    "Modular guard"
+   ],
+   "specList": [
+    {
+     "label": "Blade",
+     "value": "8-1/4 inch"
+    },
+    {
+     "label": "Motor",
+     "value": "15 amp"
+    },
+    {
+     "label": "Rip capacity",
+     "value": "24.5 inches"
+    },
+    {
+     "label": "Fence",
+     "value": "Rack and pinion telescoping rails"
+    },
+    {
+     "label": "Guarding",
+     "value": "Site-Pro modular, tool-free"
+    },
+    {
+     "label": "Design",
+     "value": "Compact portable"
+    }
+   ],
+   "description": "The DWE7485 is a compact table saw with an 8-1/4 inch blade, a 15 amp motor and a 24.5 inch rip capacity, enough to rip 4x8 sheets of plywood or OSB into manageable pieces. A Site-Pro modular guarding system allows tool-free adjustments of the blade guard. Rack and pinion telescoping fence rails make adjustments fast and accurate.\n\nCompared with the DWE7491RS it has a smaller blade and shorter rip, but it weighs far less and stores in a closet. Against the Skil SPT99-11 it is a fraction of the weight. It is the saw for trim carpenters and homeowners with little space.\n\nA smaller blade cuts shallower, so check depth for thick lumber. Keep the guard clean and align the fence at setup. Store the saw indoors, since rust on the table ruins glide.",
+   "bestFor": "Trim carpenters and homeowners with limited storage space.",
+   "pros": [
+    "Compact and easy to carry and store",
+    "24.5 inch rip handles sheet goods",
+    "Tool-free modular guard adjustments",
+    "Rack and pinion fence rails"
+   ],
+   "cons": [
+    "8-1/4 inch blade limits depth of cut",
+    "Shorter rip than 10 inch saws",
+    "Less power for thick hardwood"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0842QDW95?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41blXcaQsqL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Rip capacity",
+   "explanation": "Rip capacity is the distance from the blade to the fence's far edge, which sets the widest board you can rip. A 32 inch capacity, as on the DeWalt DWE7491RS and Bosch GTS15-10, rips a 4x8 sheet in half. The Evolution R10TS offers 26 inches and the compact saws 24-1/2 inches. Choose capacity for your widest cut. The common mistake is to read rip capacity as a promise that the fence is accurate at that distance. A fence that flexes at 30 inches can produce a tapered rip, so check it at the far end with a square and a scrap board before you trust a cut."
+  },
+  {
+   "criterion": "Fence quality",
+   "explanation": "The fence decides accuracy, and a rack and pinion system moves it smoothly and locks it parallel. The DeWalt, Bosch, Skil and Evolution saws use rack and pinion. A fence that drifts causes burning and kickback. Check parallelism at setup. Universal motors spin at 4,000 to 5,000 rpm and are loud, while induction motors on heavier saws run at lower speed and quieter. Horsepower claims on jobsite saws are peaks, so judge by amps, blade speed and depth of cut."
+  },
+  {
+   "criterion": "Motor and drive",
+   "explanation": "A 15 amp universal motor is typical on jobsite saws, such as 4,800 rpm on the DeWalt. A worm drive, as on the Skil SPT99-11, adds torque and depth. Induction motors on shop saws are quieter but heavier. Choose power for the thickest wood. Table saws cause more serious injuries than most shop tools, so use a push stick every time and keep your hands out of the line of the blade. Never rip a board freehand without the fence, and never stand directly behind the blade."
+  },
+  {
+   "criterion": "Safety systems",
+   "explanation": "Look for a riving knife, a blade guard and a push stick. The Bosch GTS15-10 adds a convenience brake that stops the blade in about three seconds. A flesh sensing brake exists only on SawStop saws. Never remove the riving knife for through cuts. A stand that flexes under a heavy sheet can pull the fence out of alignment. Press down on the table corner with your hand, and check that the legs lock and the saw does not rock before you rely on it."
+  },
+  {
+   "criterion": "Table and stand",
+   "explanation": "Aluminum tables are light but less flat than cast iron. Rolling stands, like the DeWalt and Bosch, make transport easy. A wobbly stand ruins accuracy. Check stand rigidity. Dust collection on jobsite saws captures only part of the dust, so wear a mask and use a vacuum on the port. Dado work and plywood create fine particles that linger."
+  },
+  {
+   "criterion": "Dust and accessories",
+   "explanation": "A table saw makes huge amounts of dust, so a dust port matters. The Evolution R10TS includes a dado plate and a cross-cut sled. Included accessories save money. Check what ships in the box. Count the extras: a cross-cut sled, a dado plate, a zero-clearance insert and a miter gauge are all things you might buy later at extra cost. Compare the box contents, not just the saw."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Rip capacity",
+   "meaning": "The distance from the blade to the end of the fence rail, such as 32-1/2 inches on the DeWalt DWE7491RS. It sets the widest rip.",
+   "watchFor": "Some listings quote the maximum with the fence extended. Measure rip capacity with the fence at its far end."
+  },
+  {
+   "spec": "Rack and pinion fence",
+   "meaning": "A fence moved by a gear on a rail, so it slides smoothly and locks parallel.",
+   "watchFor": "Cheap versions can loosen over time. Check amps, not horsepower."
+  },
+  {
+   "spec": "Depth of cut",
+   "meaning": "The maximum blade height, such as 3-5/8 inches on the Skil SPT99-11. It sets how thick a board you can cut.",
+   "watchFor": "Depth shrinks at a bevel. Depth of cut falls at a bevel."
+  },
+  {
+   "spec": "Riving knife",
+   "meaning": "A thin blade behind the saw blade that keeps the kerf open and prevents kickback.",
+   "watchFor": "Do not remove it for through cuts. Check the riving knife aligns after blade changes."
+  },
+  {
+   "spec": "Soft start",
+   "meaning": "Electronics that ramp the motor up slowly, reducing the jolt on startup. It is on the Evolution R10TS.",
+   "watchFor": "It does not replace a good guard. Soft start does not replace guards."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Rip capacity and fence",
+   "description": "We compared rip capacity from 32-1/2 inches on the DeWalt DWE7491RS to 26 inches on the Evolution, and rewarded rack and pinion fences. We checked fence travel against listed rip capacity."
+  },
+  {
+   "title": "Power and depth",
+   "description": "We compared motors and depth, including the Skil SPT99-11 at 3-5/8 inches. Motor claims were treated as peaks."
+  },
+  {
+   "title": "Safety features",
+   "description": "We credited the Bosch brake and the riving knife systems. Brakes were weighed as a convenience, not a safety guarantee."
+  },
+  {
+   "title": "Portability and stand",
+   "description": "We weighed stands and wheels, from the DeWalt rolling stand to the Skil folding legs. Stand rigidity was weighed against weight."
+  },
+  {
+   "title": "Lineup positioning",
+   "description": "The DWE7491RS leads overall, the Bosch for the brake and the Skil SPT99-11 for torque. The Skil TS6307-00 is the value pick and the Evolution the accessory rich pick. The order reflects who each saw suits best."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use",
+   "table": {
+    "headers": [
+     "Use",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Jobsite and shop, all around",
+      "DeWalt DWE7491RS",
+      "32-1/2 inch rip"
+     ],
+     [
+      "Woodworking with a brake",
+      "Bosch GTS15-10",
+      "Blade brake"
+     ],
+     [
+      "Thick lumber",
+      "Skil SPT99-11",
+      "Worm drive depth"
+     ],
+     [
+      "Homeowner, value",
+      "Skil TS6307-00",
+      "Complete saw"
+     ],
+     [
+      "Joinery and dadoes",
+      "Evolution R10TS",
+      "Dado plate included"
+     ],
+     [
+      "Small garages",
+      "Skil TS6307-00",
+      "Folding stand"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Skil TS6307-00",
+      "Basic complete saw"
+     ],
+     [
+      "Low",
+      "Evolution R10TS",
+      "Accessories included"
+     ],
+     [
+      "Mid",
+      "DeWalt DWE7491RS",
+      "Pro value"
+     ],
+     [
+      "Upper",
+      "Bosch GTS15-10",
+      "Brake and stand"
+     ],
+     [
+      "Highest",
+      "Skil SPT99-11",
+      "Worm drive"
+     ],
+     [
+      "Highest",
+      "Skil SPT99-11",
+      "Heavy duty"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Portable vs Stationary",
+   "cards": [
+    {
+     "label": "Portable jobsite",
+     "text": "Lighter with aluminum tables and stands. The DeWalt, Bosch, Skil and Evolution saws fit here. Good for moving."
+    },
+    {
+     "label": "Stationary shop",
+     "text": "Heavy cast iron with induction motors. None of these saws fit, and the shop saw is a better long term investment."
+    }
+   ],
+   "note": "Choose portable for sites and small garages, and stationary for a dedicated shop."
+  },
+  {
+   "subheading": "Fence and Capacity",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Rip a full sheet",
+      "DeWalt DWE7491RS",
+      "32-1/2 inches"
+     ],
+     [
+      "Close second",
+      "Bosch GTS15-10",
+      "32-1/8 inches"
+     ],
+     [
+      "Thick stock",
+      "Skil SPT99-11",
+      "30-1/2 inches"
+     ],
+     [
+      "Moderate",
+      "Evolution R10TS",
+      "26 inches"
+     ],
+     [
+      "Compact",
+      "DeWalt DWE7485",
+      "24.5 inches"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sheet Goods Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "At least 30 inches of rip, outfeed support and a smooth fence. Plywood needs a fine blade and a zero-clearance plate. A dust port helps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DeWalt DWE7491RS and Bosch GTS15-10 suit sheet goods best. The Evolution adds a zero-clearance plate."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use the saw weekly or need accuracy. The DeWalt DWE7491RS or Bosch GTS15-10 repays the cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You build occasionally. The Skil TS6307-00 or Evolution R10TS is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check fence parallel to blade",
+   "interval": "Before each project",
+   "why": "A fence out of parallel burns and kicks back. Check with a combination square."
+  },
+  {
+   "task": "Wax the table",
+   "interval": "Every few months",
+   "why": "A waxed table lets boards glide. Rust and pitch slow cuts."
+  },
+  {
+   "task": "Clean the rack and rails",
+   "interval": "Monthly",
+   "why": "Dust makes the fence stick. Brush and vacuum it out."
+  },
+  {
+   "task": "Replace the blade",
+   "interval": "When cuts burn",
+   "why": "A dull blade strains the motor."
+  },
+  {
+   "task": "Check the riving knife alignment",
+   "interval": "Every few months",
+   "why": "A misaligned knife causes binding."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What rip capacity do I need?",
+   "a": "About 30 inches rips a sheet of plywood in half. Smaller saws need a track saw for sheets. Never cut a board that is twisted or bowed without support."
+  },
+  {
+   "q": "Is a jobsite saw good for a home shop?",
+   "a": "Yes for most work. A cabinet saw is quieter and heavier. Cabinet saws are heavier but quieter and more accurate."
+  },
+  {
+   "q": "What safety gear matters?",
+   "a": "A riving knife, a guard and push sticks. Wear eye and hearing protection. Never ride the guard or riving knife off the saw."
+  },
+  {
+   "q": "Do I need a dado blade?",
+   "a": "Only for joinery. Check dado capacity, since many portable saws limit it. Many portable saws limit dado width, so check the manual."
+  },
+  {
+   "q": "What blade should I use?",
+   "a": "A 24 tooth blade for ripping and a 40 to 60 tooth blade for crosscuts. Use a thin kerf blade if your saw lacks torque."
+  },
+  {
+   "q": "Is there a saw that stops on skin contact?",
+   "a": "SawStop makes saws with a flesh sensing brake. None of these saws have it. Flesh sensing brakes add cost and require specific blades."
+  }
+ ],
+ "heroImage": "https://m.media-amazon.com/images/I/41aHc-jYnVL._SL500_.jpg",
+ "relatedGuides": []
+}
