@@ -1,0 +1,18 @@
+# Bench grinders, benchtop jointers, wood lathes
+- Bench grinder wheel size 6 in vs 8 in: 8 in wheels have more surface speed at the same RPM, flatter grind on tools; 6 in is light, cheaper, suits small tools.
+- Standard 3,450 RPM grinders burn tool steel quickly; low-speed (1,725 to 1,750 RPM) cool grinding protects chisel and plane iron temper; variable speed units (about 1,000 to 3,450) cover both.
+- Wheel types: gray or white aluminum oxide (white runs cooler, friable), CBN and diamond wheels cool and long-lasting; 36 to 60 grit coarse, 80 to 120 grit fine. Wheel rated RPM must be at or above grinder speed. Ring test wheels for cracks. Wheels should be dressed (star-wheel or diamond dresser) to stay true and flat.
+- Tool rest gap 1/8 in or less to the wheel, spark guard within 1/4 in; eye shield, face protection; never grind on the side of the wheel.
+- Cast iron base and tool rests dampen vibration; stamped steel bases walk and chatter; motor 1/2 to 1 HP; induction motors are quieter than universal.
+- Wire wheels and buffing wheels on the arbor ends convert it into a polisher; wire wheel sheds wires, wear eye protection.
+- Benchtop jointers flatten a face or edge before planing; a 6 in benchtop jointer cannot do wide boards; short infeed and outfeed tables are a weakness (6 to 8 in beds roughly 24 in long).
+- Cutterhead: straight knives (2 or 3 HSS knives, need setting and sharpening) vs spiral or helical (small carbide inserts, rotate to refresh, quieter, less tear-out on figured wood).
+- Depth of cut up to about 1/8 in; fence adjustable 90 to 135 degrees; fence flatness and table coplanarity matter more than motor amps; cast iron tables beat aluminum for flatness.
+- Dust port 2-1/2 or 4 in; benchtop jointers throw lots of chips and need dust collection; always use push blocks; never joint pieces shorter than about 12 in.
+- Wood lathe: swing (diameter over the bed) and distance between centers (length); 10x14 and 12x18 are bench class, 14x20 to 16x24 for bowls and spindles, 12x21 mid.
+- Spindle thread 1 in x 8 TPI is common for midi and full size; 3/4 in x 16 TPI is typical on mini lathes; Morse taper 1 or 2 in headstock and tailstock.
+- Variable speed (belt step vs electronic variable speed EVS) lets you slow a large blank to about 500 RPM for roughing; large bowls need low speeds for safety.
+- Motor power: 1/3 to 1/2 HP for mini; 3/4 to 1 HP for midi; 1.5 to 2 HP for full size; torque at low speed matters more than peak HP; reversing helps sanding.
+- Safety: tool rest height at centerline, face shield, rough blanks round at low speed, keep clothing and hair clear, secure the tool rest and tailstock before starting.
+- Bed material: cast iron bed dampens vibration, sliding headstock or swivel head adds capacity; mass matters for out-of-balance blanks.
+- Accessories: faceplate, 4-jaw chuck, live center, spur drive, tool rest lengths; a set of gouges and scrapers is separate from the lathe.

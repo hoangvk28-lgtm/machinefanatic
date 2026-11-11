@@ -257,3 +257,6 @@ Deferred to todo: transfer switches 15A/20A/220V/240V, Generac 22kW, RV generato
 ## Round 14 (2026-11-09): shop-garage, 11 guides
 Done: transfer switches 15A/20A/220V/240V/200A, Generac 22kW transfer switch, RV generators 2000W/2500W, 1000W RV solar kit, foldable solar 100W/120W. 2 Sonnet writers, research reused from docs/research/*.md, no web search. No skips.
 Notes: best-200-amp-generator-transfer-switch has 4 products (only 4 distinct 200A machines); best-100w-foldable-solar-panels has 5. The 22kW guide mixes Generac 22kW packages, Generac ATS units and one 60A manual switch. The 220V guide flags DIN-rail dual-power switches as not clearly listed for US homes.
+
+## Round 15 (2026-11-12): PopMech gap, priority 1 shop-garage
+38 guides: 12 wet-dry vacs, 3 floor jacks, 3 nailers, 9 air compressors, 7 welders/plasma, 4 bench machines. Skipped best-air-compressors-under-200 (2 underCap items).

@@ -1,0 +1,19 @@
+# Welders and plasma cutters
+- Amperage is the maximum output, not usable thickness; duty cycle at a stated amperage and input voltage is the real rating (for example 20 percent at 130A means 2 minutes welding then 8 resting in a 10 minute window).
+- 120V 20A circuits limit MIG/flux-core inverters to roughly 140 to 160A max and realistic work in 1/8 to 3/16 in steel with good prep; 240V doubles reach, up to 1/4 in single pass and 3/8 in multi-pass.
+- Dual voltage inverter machines are light (7 to 30 lb) and tolerant of generator power, but check generator surge capacity and clean power.
+- MIG (GMAW) uses solid wire and shielding gas (75/25 argon CO2 for steel); cleaner, faster, best for thin to medium steel indoors; needs a gas cylinder and still air.
+- Flux-core (FCAW-S, self-shielded, E71T-GS or E71T-11) needs no gas, tolerates wind and rust, more spatter and slag; polarity is DCEN (electrode negative), a common beginner mistake; thin sheet burn-through risk.
+- Stick (SMAW): E6013 easy on thin or dirty steel, E7018 low-hydrogen needs dry rods, E6010 deep penetration on DC; good outdoors and for rust; hot start, arc force, anti-stick features help beginners.
+- TIG (GTAW): precise, clean, best on thin stock, stainless, aluminum (needs AC); slow, needs pure argon, foot pedal helps; lift-start vs HF start; pulse reduces heat on thin metal.
+- AC TIG needed for aluminum; DC-only TIG is for steel and stainless; balance and frequency controls shape bead.
+- Multi-process machines (MIG, flux, TIG, stick) are good value but each mode is a compromise; TIG on cheap units is often lift-start DC only; MIG spool gun may be needed for aluminum.
+- Synergic control picks voltage and wire speed from a thickness setting; helps beginners but pro users prefer manual dials.
+- Wire feed: drive roll type (V-groove for solid, knurled for flux-core), spool size 2 lb vs 10 lb, torch liner length.
+- Safety: auto-darkening helmet with proper shade (10 to 13), gloves, long sleeves, ventilation or fume extraction; galvanized and stainless fumes are hazardous; never weld near fuel or on closed containers.
+- Gas: argon mixes cost money; cylinders need a regulator and flowmeter; set 15 to 25 CFH.
+- Plasma cutters: rated by clean cut and severance cut thickness; a 50A unit cleanly cuts about 1/2 in mild steel; severance is a ragged limit. Pilot arc starts without touching metal and cuts rusty or painted steel; HF start can interfere with electronics, non-HF (blowback) is friendlier.
+- Plasma needs clean dry air, about 4 to 6 CFM at 60 to 75 PSI; a small compressor is the hidden cost; consumables (tips, electrodes) wear.
+- Duty cycle on plasma units is typically 40 to 60 percent at rated amps; cutting speed and tip choice affect consumable life.
+- Hot work safety: fire blanket, extinguisher, remove flammables; ground clamp close to the work.
+- Cheap unknown-brand units vary in warranty and support; confirm UL or ETL listing, warranty length and consumable availability.

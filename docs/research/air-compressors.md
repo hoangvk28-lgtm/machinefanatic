@@ -1,0 +1,19 @@
+# Air compressors and tire inflators
+- Judge by SCFM at 90 PSI, not horsepower or "peak HP"; peak HP on 120V units is a marketing number because a 15A circuit tops out near 1.8 running HP.
+- Tank gallons only buy buffer time; CFM is what a tool consumes. Pump delivery must match the hungriest tool's average draw.
+- Typical tool draw at 90 PSI: brad/finish nailer 0.3 to 1 CFM, framing nailer 2 to 3 (bursts), impact wrench 4 to 5, die grinder 4 to 6, orbital sander 6 to 9, HVLP gun 4 to 10, sandblaster 10+.
+- Pancake (2 to 6 gal): light, 25 to 40 lb, noisy 78 to 85 dB, suits nailers and inflation. Hot dog and wheeled twin-stack hold more air.
+- Oil-free pumps: no oil changes, lighter, louder, shorter rated life; oil-lubricated cast iron pumps last longer, run cooler, quieter, need oil checks and level standing.
+- Single stage compresses once to about 125 to 175 PSI; two stage compresses twice, runs cooler, better above 5 HP class for 230V shop use.
+- Duty cycle: consumer units are 50 to 70 percent; continuous use of an air tool beyond pump delivery makes it overheat and trip the thermal cutout.
+- Direct drive (consumer) vs belt drive (stationary): belt drive spins the pump slower and cooler, longer life.
+- Quiet units (60 to 75 dB) use induction motors at 1,680 to 1,750 RPM instead of 3,400+ RPM universal motors; they cost more per CFM but are usable indoors.
+- 120V 15A circuits: starting surge trips breakers on long thin extension cords; use short 12 gauge cords. 60 gallon 230V units need a dedicated 30A circuit typically.
+- Drain tank condensate after each use; rust from the inside is the main tank failure and a safety issue. Tank pressure vessels should never be modified or welded.
+- Water in lines ruins paint and tools: use a regulator, filter and add a few drops of air tool oil to oil-needing tools.
+- Hose: 3/8 in ID for most tools beats 1/4 in; long 1/4 in hoses starve impact wrenches.
+- Gas-driven compressors (6.5 to 15 HP) are for sites without power; they deliver 4.7 to 24+ CFM but need engine upkeep and outdoor use only.
+- Tire inflators: 12V plug-in (cigarette lighter 10A to 15A fuse) vs built-in battery vs tool-battery; digital gauge with auto shutoff; small 150 PSI pumps are duty-cycle limited, usually 5 to 10 minutes then rest.
+- Rate inflators by time per 5 PSI step on a standard 195/65 R15 tire; a truck or SUV tire needs much more volume; battery packs deliver only a few tire fills.
+- Presta/Schrader adapters, hose length and a cold-start nozzle matter; gauges on cheap units can be off a few PSI, so check with a separate gauge.
+- Storage: depressurize the tank, drain, keep dry; vertical tanks save floor space but stack heat.
