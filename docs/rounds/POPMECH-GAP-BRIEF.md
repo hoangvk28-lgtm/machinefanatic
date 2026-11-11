@@ -5,20 +5,16 @@ Written 2026-11-12. Read `CLAUDE.md` first (the MachineFanatic rules at the top 
 ## Why these topics
 In November 2026 we compared popularmechanics.com's Home & DIY menu with our guide list. Round 15 (commit `7bc8a96`) covered priority 1 (shop & garage: wet-dry vacs, air compressors, welders, floor jacks, nailers, bench machines). What is still missing:
 
-| Round | Cluster | Guides on site before | Topics |
-|---|---|---|---|
-| 16 | Smokers | 0 | 6 |
-| 16 | Grills and griddles | 0 grills, 2 griddles | 7 |
-| 16 | Pizza ovens | 0 | 5 |
-| 17 | Sump and utility pumps | 0 | 4 |
-| 17 | AC (mini-split, window, portable) | 10 portable AC (mostly RV) | 3 |
-| 17 | Tankless water heaters | 7 (RV) | 1 |
-| 17 | Air purifiers | 4 (all under-N) | 3 |
-| 17 | Espresso machines | 0 | 3 |
+| Round | Clusters | Topics |
+|---|---|---|
+| 16 | Smokers (15), pizza ovens (13) | 28 |
+| 17 | Pellet/gas/charcoal/electric grills, griddles (32) | 32 |
+| 18 | Sump/well/pool pumps (13), window/portable/mini-split AC (15), tankless water heaters (7) | 35 |
+| 19 | Air purifiers (15), espresso machines and grinders (15) | 30 |
 
-Exact slugs, titles and categories are in `docs/rounds/popmech-gap-topics.txt`. Do not take gadget topics (thermostats, locks, cameras, doorbells, smoke detectors, WiFi, TVs): the user wants machines.
+125 topics in total. Each cluster gets the main topic plus variants by type, size (BTU, inches, HP, burners), brand, use case and budget (under-N, see the CLAUDE.md rule). Exact slugs are in `docs/rounds/popmech-gap-topics.txt`, one `## ROUND` block per round. Do not take gadget topics (thermostats, locks, cameras, doorbells, smoke detectors, WiFi, TVs): the user wants machines.
 
-Each round has about 16 to 18 topics, so 2 Sonnet writer agents with 8 or 9 slugs each, split by cluster. If you need to cut, do round 16 first: it has the highest-ticket products.
+Expect prefilter to drop 10% to 25% of the brand, size and under-N topics. That is normal: never write a guide with fewer than 4 real matching machines. Each round is sized like round 15 (about 30 to 40 topics): 2 Sonnet writer agents with roughly 15 to 20 slugs each, split by cluster. Run the rounds one at a time, in order (16 first: highest-ticket products).
 
 ## Step 0: setup on the remote machine
 ```bash
@@ -28,8 +24,9 @@ git config user.name >/dev/null || echo "NO GIT IDENTITY: ask the user before co
 `.env.local` must hold the Amazon Creators API keys. Print their length, never the value: a short fixed length means a redacted Vercel secret.
 
 ## Step 1: Stage A (zero AI tokens)
-Split the topic file per round first: copy the round 16 lines into `docs/rounds/r16.txt` (or use the whole file and drop slugs from the list afterwards).
+Split the topic file per round first (example for round 16):
 ```bash
+awk '/^## ROUND 16/{f=1;next} /^## ROUND/{f=0} f' docs/rounds/popmech-gap-topics.txt > docs/rounds/r16.txt
 node scripts/clone/add-topics.mjs docs/rounds/r16.txt scripts/clone/work/round16.txt
 SLUGS_FILE=scripts/clone/work/round16.txt node scripts/clone/next-batch.mjs 40
 for s in $(cat scripts/clone/work/round16.txt); do node scripts/clone/compact.mjs $s; done

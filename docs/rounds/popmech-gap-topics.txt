@@ -1,12 +1,38 @@
-# PopMech gap topics, priorities 2 to 4. Format: slug-key|Title|category
-# Round 16: outdoor cooking (cluster smokers)
+# PopMech gap topics. Format: slug-key|Title|category
+# One round = one "## ROUND" block, about 40 topics, 2 Sonnet agents with ~20 each (same as round 15).
+# add-topics.mjs skips slugs that already exist. Prefilter will drop brand/size topics with fewer than 4 matching machines.
+
+## ROUND 16: smokers and pizza ovens
 smokers|Smokers|kitchen-machines
 electric-smokers|Electric Smokers|kitchen-machines
 pellet-smokers|Pellet Smokers|kitchen-machines
 vertical-smokers|Vertical Smokers|kitchen-machines
 propane-smokers|Propane Smokers|kitchen-machines
 offset-smokers|Offset Smokers|kitchen-machines
-# Round 16: outdoor cooking (cluster grills)
+charcoal-smokers|Charcoal Smokers|kitchen-machines
+digital-electric-smokers|Digital Electric Smokers|kitchen-machines
+wifi-pellet-smokers|WiFi Pellet Smokers|kitchen-machines
+smokers-for-beginners|Smokers for Beginners|kitchen-machines
+masterbuilt-smokers|Masterbuilt Smokers|kitchen-machines
+pit-boss-smokers|Pit Boss Smokers|kitchen-machines
+smokers-under-200|Smokers Under $200|kitchen-machines
+smokers-under-300|Smokers Under $300|kitchen-machines
+smokers-under-500|Smokers Under $500|kitchen-machines
+pizza-ovens|Pizza Ovens|kitchen-machines
+outdoor-pizza-ovens|Outdoor Pizza Ovens|kitchen-machines
+gas-pizza-ovens|Gas Pizza Ovens|kitchen-machines
+wood-fired-pizza-ovens|Wood Fired Pizza Ovens|kitchen-machines
+electric-pizza-ovens|Electric Pizza Ovens|kitchen-machines
+indoor-pizza-ovens|Indoor Pizza Ovens|kitchen-machines
+portable-pizza-ovens|Portable Pizza Ovens|kitchen-machines
+pellet-pizza-ovens|Pellet Pizza Ovens|kitchen-machines
+16-inch-pizza-ovens|16 Inch Pizza Ovens|kitchen-machines
+ooni-pizza-ovens|Ooni Pizza Ovens|kitchen-machines
+pizza-ovens-under-300|Pizza Ovens Under $300|kitchen-machines
+pizza-ovens-under-500|Pizza Ovens Under $500|kitchen-machines
+countertop-pizza-ovens|Countertop Pizza Ovens|kitchen-machines
+
+## ROUND 17: grills and griddles
 pellet-grills|Pellet Grills|kitchen-machines
 gas-grills|Gas Grills|kitchen-machines
 portable-gas-grills|Portable Gas Grills|kitchen-machines
@@ -14,28 +40,97 @@ charcoal-grills|Charcoal Grills|kitchen-machines
 kamado-grills|Kamado Grills|kitchen-machines
 flat-top-grills|Flat Top Grills|kitchen-machines
 outdoor-griddles|Outdoor Griddles|kitchen-machines
-# Round 16: outdoor cooking (cluster pizza ovens)
-pizza-ovens|Pizza Ovens|kitchen-machines
-outdoor-pizza-ovens|Outdoor Pizza Ovens|kitchen-machines
-gas-pizza-ovens|Gas Pizza Ovens|kitchen-machines
-wood-fired-pizza-ovens|Wood Fired Pizza Ovens|kitchen-machines
-electric-pizza-ovens|Electric Pizza Ovens|kitchen-machines
-# Round 17: home machines (cluster pumps)
+portable-pellet-grills|Portable Pellet Grills|kitchen-machines
+wifi-pellet-grills|WiFi Pellet Grills|kitchen-machines
+traeger-pellet-grills|Traeger Pellet Grills|kitchen-machines
+pit-boss-pellet-grills|Pit Boss Pellet Grills|kitchen-machines
+pellet-grills-under-500|Pellet Grills Under $500|kitchen-machines
+pellet-grills-under-1000|Pellet Grills Under $1000|kitchen-machines
+2-burner-gas-grills|2 Burner Gas Grills|kitchen-machines
+3-burner-gas-grills|3 Burner Gas Grills|kitchen-machines
+4-burner-gas-grills|4 Burner Gas Grills|kitchen-machines
+natural-gas-grills|Natural Gas Grills|kitchen-machines
+weber-gas-grills|Weber Gas Grills|kitchen-machines
+gas-grills-under-300|Gas Grills Under $300|kitchen-machines
+gas-grills-under-500|Gas Grills Under $500|kitchen-machines
+portable-charcoal-grills|Portable Charcoal Grills|kitchen-machines
+electric-grills|Electric Grills|kitchen-machines
+outdoor-electric-grills|Outdoor Electric Grills|kitchen-machines
+blackstone-griddles|Blackstone Griddles|kitchen-machines
+36-inch-griddles|36 Inch Griddles|kitchen-machines
+28-inch-griddles|28 Inch Griddles|kitchen-machines
+22-inch-griddles|22 Inch Griddles|kitchen-machines
+portable-griddles|Portable Griddles|kitchen-machines
+griddles-with-lid|Griddles with Lid|kitchen-machines
+grill-and-griddle-combos|Grill and Griddle Combos|kitchen-machines
+camping-grills|Camping Grills|kitchen-machines
+tabletop-grills|Tabletop Grills|kitchen-machines
+
+## ROUND 18: pumps, AC, water heaters
 sump-pumps|Sump Pumps|home-machines
 submersible-sump-pumps|Submersible Sump Pumps|home-machines
 battery-backup-sump-pumps|Battery Backup Sump Pumps|home-machines
+pedestal-sump-pumps|Pedestal Sump Pumps|home-machines
+1-3-hp-sump-pumps|1/3 HP Sump Pumps|home-machines
+1-2-hp-sump-pumps|1/2 HP Sump Pumps|home-machines
 utility-pumps|Utility Pumps|home-machines
-# Round 17: cooling (cluster air conditioners)
+transfer-pumps|Water Transfer Pumps|home-machines
+sewage-pumps|Sewage Pumps|home-machines
+well-pumps|Well Pumps|home-machines
+shallow-well-pumps|Shallow Well Pumps|home-machines
+pool-pumps|Pool Pumps|home-machines
+pool-cover-pumps|Pool Cover Pumps|home-machines
 mini-split-air-conditioners|Mini Split Air Conditioners|home-machines
+diy-mini-split-air-conditioners|DIY Mini Split Air Conditioners|home-machines
 window-air-conditioners|Window Air Conditioners|home-machines
+5000-btu-window-air-conditioners|5000 BTU Window Air Conditioners|home-machines
+8000-btu-window-air-conditioners|8000 BTU Window Air Conditioners|home-machines
+10000-btu-window-air-conditioners|10000 BTU Window Air Conditioners|home-machines
+12000-btu-window-air-conditioners|12000 BTU Window Air Conditioners|home-machines
+quiet-window-air-conditioners|Quiet Window Air Conditioners|home-machines
+inverter-window-air-conditioners|Inverter Window Air Conditioners|home-machines
+window-air-conditioners-with-heat|Window Air Conditioners with Heat|home-machines
+window-air-conditioners-under-300|Window Air Conditioners Under $300|home-machines
 portable-air-conditioners|Portable Air Conditioners|home-machines
-# Round 17: water heating
+dual-hose-portable-air-conditioners|Dual Hose Portable Air Conditioners|home-machines
+quiet-portable-air-conditioners|Quiet Portable Air Conditioners|home-machines
+through-the-wall-air-conditioners|Through the Wall Air Conditioners|home-machines
 tankless-water-heaters|Tankless Water Heaters|home-machines
-# Round 17: air purifiers (2 already in index as todo; the script keeps them)
+electric-tankless-water-heaters|Electric Tankless Water Heaters|home-machines
+gas-tankless-water-heaters|Gas Tankless Water Heaters|home-machines
+propane-tankless-water-heaters|Propane Tankless Water Heaters|home-machines
+point-of-use-water-heaters|Point of Use Water Heaters|home-machines
+outdoor-tankless-water-heaters|Outdoor Tankless Water Heaters|home-machines
+heat-pump-water-heaters|Heat Pump Water Heaters|home-machines
+
+## ROUND 19: air purifiers and espresso machines
 air-purifiers|Air Purifiers|home-machines
 hepa-air-purifiers|HEPA Air Purifiers|home-machines
 air-purifiers-for-large-rooms|Air Purifiers for Large Rooms|home-machines
-# Round 17: espresso
+air-purifiers-for-bedrooms|Air Purifiers for Bedrooms|home-machines
+air-purifiers-for-pets|Air Purifiers for Pets|home-machines
+air-purifiers-for-allergies|Air Purifiers for Allergies|home-machines
+air-purifiers-for-smoke|Air Purifiers for Smoke|home-machines
+air-purifiers-for-mold|Air Purifiers for Mold|home-machines
+quiet-air-purifiers|Quiet Air Purifiers|home-machines
+smart-air-purifiers|Smart Air Purifiers|home-machines
+levoit-air-purifiers|Levoit Air Purifiers|home-machines
+coway-air-purifiers|Coway Air Purifiers|home-machines
+winix-air-purifiers|Winix Air Purifiers|home-machines
+air-purifiers-for-basements|Air Purifiers for Basements|home-machines
+air-purifiers-for-workshops|Air Purifiers for Workshops|shop-garage
 espresso-machines|Espresso Machines|kitchen-machines
 super-automatic-espresso-machines|Super Automatic Espresso Machines|kitchen-machines
 espresso-machines-with-grinder|Espresso Machines with Grinder|kitchen-machines
+semi-automatic-espresso-machines|Semi Automatic Espresso Machines|kitchen-machines
+espresso-machines-for-beginners|Espresso Machines for Beginners|kitchen-machines
+espresso-machines-with-milk-frother|Espresso Machines with Milk Frother|kitchen-machines
+dual-boiler-espresso-machines|Dual Boiler Espresso Machines|kitchen-machines
+compact-espresso-machines|Compact Espresso Machines|kitchen-machines
+breville-espresso-machines|Breville Espresso Machines|kitchen-machines
+delonghi-espresso-machines|DeLonghi Espresso Machines|kitchen-machines
+espresso-machines-under-200|Espresso Machines Under $200|kitchen-machines
+espresso-machines-under-500|Espresso Machines Under $500|kitchen-machines
+espresso-machines-under-1000|Espresso Machines Under $1000|kitchen-machines
+burr-coffee-grinders|Burr Coffee Grinders|kitchen-machines
+espresso-grinders|Espresso Grinders|kitchen-machines
