@@ -1,0 +1,41 @@
+# PopMech gap topics, priorities 2 to 4. Format: slug-key|Title|category
+# Round 16: outdoor cooking (cluster smokers)
+smokers|Smokers|kitchen-machines
+electric-smokers|Electric Smokers|kitchen-machines
+pellet-smokers|Pellet Smokers|kitchen-machines
+vertical-smokers|Vertical Smokers|kitchen-machines
+propane-smokers|Propane Smokers|kitchen-machines
+offset-smokers|Offset Smokers|kitchen-machines
+# Round 16: outdoor cooking (cluster grills)
+pellet-grills|Pellet Grills|kitchen-machines
+gas-grills|Gas Grills|kitchen-machines
+portable-gas-grills|Portable Gas Grills|kitchen-machines
+charcoal-grills|Charcoal Grills|kitchen-machines
+kamado-grills|Kamado Grills|kitchen-machines
+flat-top-grills|Flat Top Grills|kitchen-machines
+outdoor-griddles|Outdoor Griddles|kitchen-machines
+# Round 16: outdoor cooking (cluster pizza ovens)
+pizza-ovens|Pizza Ovens|kitchen-machines
+outdoor-pizza-ovens|Outdoor Pizza Ovens|kitchen-machines
+gas-pizza-ovens|Gas Pizza Ovens|kitchen-machines
+wood-fired-pizza-ovens|Wood Fired Pizza Ovens|kitchen-machines
+electric-pizza-ovens|Electric Pizza Ovens|kitchen-machines
+# Round 17: home machines (cluster pumps)
+sump-pumps|Sump Pumps|home-machines
+submersible-sump-pumps|Submersible Sump Pumps|home-machines
+battery-backup-sump-pumps|Battery Backup Sump Pumps|home-machines
+utility-pumps|Utility Pumps|home-machines
+# Round 17: cooling (cluster air conditioners)
+mini-split-air-conditioners|Mini Split Air Conditioners|home-machines
+window-air-conditioners|Window Air Conditioners|home-machines
+portable-air-conditioners|Portable Air Conditioners|home-machines
+# Round 17: water heating
+tankless-water-heaters|Tankless Water Heaters|home-machines
+# Round 17: air purifiers (2 already in index as todo; the script keeps them)
+air-purifiers|Air Purifiers|home-machines
+hepa-air-purifiers|HEPA Air Purifiers|home-machines
+air-purifiers-for-large-rooms|Air Purifiers for Large Rooms|home-machines
+# Round 17: espresso
+espresso-machines|Espresso Machines|kitchen-machines
+super-automatic-espresso-machines|Super Automatic Espresso Machines|kitchen-machines
+espresso-machines-with-grinder|Espresso Machines with Grinder|kitchen-machines
