@@ -568,7 +568,7 @@
  "faq": [
   {
    "q": "How long will a battery backup run?",
-   "a": "Runtime depends on battery amp-hours and how often the pump cycles. Typical lead-acid setups give roughly five to seven hours of continuous pumping; light cycling stretches that. A lithium bank can last longer between charges, but check that the charger in your system supports that chemistry before you buy."
+   "a": "Size the battery to the inflow your pit actually sees, not to the pump's badge rating. Typical lead-acid setups give roughly five to seven hours of continuous pumping; light cycling stretches that. A lithium bank can last longer between charges, but check that the charger in your system supports that chemistry before you buy."
   },
   {
    "q": "Battery backup or water-powered backup?",
