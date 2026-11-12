@@ -326,3 +326,37 @@ Topics from `source-index.json` todo (snow blowers; lawn aerators, electric deth
 Writer A (snow blowers) wrote each spec by hand: 3,000 to 3,304 words, low cross-guide repetition.
 Writer B (lawn care) built a generator from shared pools despite the brief. A second Sonnet pass rewrote product descriptions, but again with a script. **Known quality debt: round 21 product descriptions read templated and in places ungrammatical.** The user chose to ship as-is (2026-11-12). Original specs are backed up in the session scratchpad. `docs/rounds/NEXT-ROUNDS-BRIEF.md` now forbids generators and adds a manual brand/type filter (Stage A2).
 Finish: register-dynamic + register-new on all 58, mark done, `audit-guides.mjs` ok, zero full-width brackets, zero em or en dashes, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
+
+### Prefilter skips (2026-11-12)
+| Skipped slug | Reason |
+|---|---|
+| best-bosch-garden-shredders | prefilter: only 0 distinct items match brand bosch after extra searches |
+| best-earthwise-garden-shredders | prefilter: only 2 distinct items match brand earthwise after extra searches |
+| best-einhell-garden-shredders | prefilter: only 2 distinct items match brand einhell after extra searches |
+| best-ryobi-garden-shredders | prefilter: only 0 distinct items match brand ryobi after extra searches |
+| best-vevor-garden-shredders | prefilter: only 3 distinct items match brand vevor after extra searches |
+| best-dr-electric-log-splitters | prefilter: only 1 distinct items match brand dr after extra searches |
+| best-earthquake-electric-log-splitters | prefilter: only 3 distinct items match brand earthquake after extra searches |
+| best-echo-pole-saws | prefilter: only 3 distinct items match brand echo after extra searches |
+| best-gardentrax-garden-augers | prefilter: only 2 distinct items match brand gardentrax after extra searches |
+| best-greenworks-electric-tillers | prefilter: only 3 distinct items match brand greenworks after extra searches |
+| best-mtd-wood-chippers | prefilter: only 3 distinct items match brand mtd after extra searches |
+| best-power-planter-garden-augers | prefilter: only 3 distinct items match brand power after extra searches |
+| best-wen-electric-log-splitters | prefilter: only 0 distinct items match brand wen after extra searches |
+| Stage A2 skips r22-23 (2026-11-12) | best-garden-auger-bits best-garden-augers-for-bulbs best-garden-augers-for-planting best-small-garden-augers best-bulb-planting-augers best-extended-length-garden-augers best-garden-augers-for-potted-plants best-garden-augers-for-seniors best-dewalt-electric-log-splitters best-greatcircleusa-wood-chippers best-ryobi-electric-log-splitters best-dr-wood-chippers best-earthquake-wood-chippers best-big-bear-wood-chippers best-boss-industrial-electric-log-splitters best-cyclone-leaf-vacuums best-yardmax-electric-log-splitters best-refurbished-leaf-blowers best-hand-garden-augers best-bear-cat-wood-chippers best-dewalt-cordless-hedge-trimmers best-hyundai-garden-shredders best-country-pro-wood-chippers best-jcb-garden-shredders best-dewalt-cordless-pole-hedge-trimmers best-mcculloch-garden-shredders best-homelite-electric-log-splitters best-mini-vacuum-cleaner-and-blower-combos best-garden-hand-cultivators |
+
+### Prefilter skips (2026-11-12)
+| Skipped slug | Reason |
+|---|---|
+| best-bosch-garden-shredders | prefilter: only 0 distinct items match brand bosch after extra searches |
+| best-earthwise-garden-shredders | prefilter: only 2 distinct items match brand earthwise after extra searches |
+| best-einhell-garden-shredders | prefilter: only 2 distinct items match brand einhell after extra searches |
+| best-ryobi-garden-shredders | prefilter: only 0 distinct items match brand ryobi after extra searches |
+| best-dr-electric-log-splitters | prefilter: only 1 distinct items match brand dr after extra searches |
+| best-gardentrax-garden-augers | prefilter: only 2 distinct items match brand gardentrax after extra searches |
+| best-wen-electric-log-splitters | prefilter: only 0 distinct items match brand wen after extra searches |
+
+## Rounds 22-23 finished (2026-11-13)
+- 85 guides total for rounds 22-23: leaf blowers/vacuums, wood chippers, garden shredders, log splitters, tillers, pole saws, hedge trimmers, string trimmers. The last 49 were written this session by 2 Sonnet writers (A: 24 leaf/shredder/chipper, B: 25 hedge/string trimmer).
+- Writer skips (fewer than 3 distinct real machines): best-walk-behind-leaf-vacuums (2 powered walk-behind units), best-roller-garden-shredders (2 machines; one generic electric roller sold under 6 names), best-milwaukee-cordless-hedge-trimmers (2 real Milwaukee units; the rest are third-party tools for Milwaukee batteries).
+- Words 3,000 to 3,782. Checks: audit 0 failures, no 【, cross-guide duplicates limited to a few short maintenance lines (at most 4 repeats), tsc clean, build compiled + Finished TypeScript.
