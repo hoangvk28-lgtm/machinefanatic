@@ -1,0 +1,147 @@
+# Brief: clone rounds 24 and later (coordinator on a remote machine)
+
+Written 2026-11-12. Read `CLAUDE.md` first: the MachineFanatic rules at the top win over everything else. This brief adds only what is specific to these rounds. The copy-paste coordinator prompt is at the end.
+
+## State when this was written
+- Rounds 16 to 19 (PopMech gap, 125 topics) are done and pushed.
+- Round 20 (snow blowers): 20 guides written, 28 skipped. Not yet registered or committed.
+- Round 21 (aerators, dethatchers, sweepers): 38 guides written, 20 skipped. Product descriptions are being rewritten (see lesson 1). Not yet registered or committed.
+- Rounds 22 (leaf blowers, leaf vacuums, hedge trimmers, string trimmers) and 23 (wood chippers, shredders, log splitters, augers, pole saws, tillers): Stage A started on the local machine.
+- **Before starting round 24, run `git pull` and check `docs/clone-log.md`** to see whether rounds 20 to 23 were finished and pushed. Never re-run a round that is already in the log.
+- `source-index.json` still has about 2,100 `todo` topics.
+
+## Round plan
+
+| Round | Cluster (regex on todo slugs) | Research file to reuse |
+|---|---|---|
+| 24 | `edger\|sprayer\|lawn-mower\|pressure-washer` | edgers.md, garden-sprayers.md, lawn-mowers.md, pressure-washers.md |
+| 25 | `generator` (not `solar-generator`) + `inverter` + `power-station` | inverter-generators.md, power-inverters.md, power-stations.md |
+| 26 | `solar-generator\|solar-panel\|panel-kit` | power-stations.md, solar-panels.md |
+| 27 | `cordless-vacuum\|stick-vacuum\|handheld-vacuum\|upright-vacuum\|canister-vacuum` | **new**: write vacuums.md from web search |
+| 28 | `robot-vacuum\|cleaning-robot\|pool-cleaner\|vacuum-mop` | **new**: robot-vacuums.md, pool-cleaners.md |
+| 29 | `carpet-cleaner\|steam-cleaner\|steam-mop\|electric-mop\|garment-steamer\|steam-iron` | steam-cleaners.md (+ new carpet-cleaners.md) |
+| 30 | `space-heater\|dehumidifier\|humidifier\|patio-heater\|camping-fan\|tent-fan` | space-heaters.md, dehumidifiers.md, humidifiers.md, patio-heaters.md, camping-fans.md |
+| 31+ | Kitchen machines: vacuum sealers, kettles, immersion blenders, toaster ovens, countertop dishwashers, coffee makers, air fryers, food processors, slow/rice cookers, bread makers, ice makers | almost all exist in docs/research |
+| last | `transfer-switch` leftovers (112) and `buyer-notes` (53) | only if the user asks |
+
+**Never take:** label printers, 3D printers and filament, podcast/streaming/XLR mixers, oven mitts, tents, detectors, accessories (cabs, tires, tines, chains, covers, bags). The user wants machines, not gadgets (memory: topic preference).
+
+Each round should be 30 to 50 topics **after** the extra brand filter (Stage A2 below). If a regex returns more than about 70 todo slugs, split it into two rounds.
+
+## Budget (under-N) topics
+The user wants budget guides for these machine clusters too. Rules are in CLAUDE.md ("under-N budget guides may name their cap") and the "Budget topics" section of `docs/BEST-GUIDE-BRIEF-LEAN.md`.
+
+- Some under-N slugs already exist as `todo` (vacuums, carpet cleaners, compact washers, camping fans…). They ride along with their cluster's round automatically if the regex matches them.
+- For clusters that have none, add them with `scripts/clone/add-topics.mjs`. Format, one per line: `<slug-without-best->|<Title>|<category>`. Example file `docs/rounds/budget-outdoor.txt`:
+
+```
+snow-blowers-under-500|Snow Blowers Under $500|outdoor-power
+snow-blowers-under-1000|Snow Blowers Under $1000|outdoor-power
+electric-snow-blowers-under-300|Electric Snow Blowers Under $300|outdoor-power
+lawn-aerators-under-100|Lawn Aerators Under $100|outdoor-power
+electric-dethatchers-under-200|Electric Dethatchers Under $200|outdoor-power
+lawn-sweepers-under-200|Lawn Sweepers Under $200|outdoor-power
+leaf-blowers-under-100|Leaf Blowers Under $100|outdoor-power
+cordless-leaf-blowers-under-200|Cordless Leaf Blowers Under $200|outdoor-power
+hedge-trimmers-under-100|Hedge Trimmers Under $100|outdoor-power
+string-trimmers-under-100|String Trimmers Under $100|outdoor-power
+wood-chippers-under-500|Wood Chippers Under $500|outdoor-power
+log-splitters-under-1000|Log Splitters Under $1000|outdoor-power
+tillers-under-300|Tillers Under $300|outdoor-power
+pole-saws-under-150|Pole Saws Under $150|outdoor-power
+pressure-washers-under-200|Pressure Washers Under $200|outdoor-power
+lawn-mowers-under-300|Lawn Mowers Under $300|outdoor-power
+inverter-generators-under-1000|Inverter Generators Under $1000|shop-garage
+power-stations-under-500|Portable Power Stations Under $500|shop-garage
+```
+
+- Before adding a slug, run `grep -c "<slug>" scripts/clone/source-index.json` and `ls data/guides/ | grep <stem>-under`. `add-topics.mjs` skips existing slugs, but check by eye anyway, because a near-duplicate cap (under-100 vs under-75) is a thin page.
+- Pick caps where real machines exist: about the bottom third of the cluster's price range. The cap must sit well above the cheapest junk, or the lineup will be toys and parts.
+- Budget slugs go into the round of their cluster, never a separate round. They then share the research file.
+- `compact.mjs` marks `underCap: true` and `prefilter.mjs` counts only those. A budget slug needs **4 or more items with underCap true that are real machines**. Otherwise, skip it.
+
+## Stage A (zero AI tokens)
+```bash
+git pull
+git config user.name >/dev/null || echo "NO GIT IDENTITY: ask the user before committing"
+node -e "
+const a=require('./scripts/clone/source-index.json');
+const r=a.filter(x=>x.status==='todo'&&/<REGEX>/.test(x.slug)).map(x=>x.slug);
+require('fs').writeFileSync('scripts/clone/work/round24.txt',r.join('\n')+'\n');console.log(r.length)"
+SLUGS_FILE=scripts/clone/work/round24.txt node scripts/clone/next-batch.mjs 100
+for s in $(tr -d '\r' < scripts/clone/work/round24.txt); do node scripts/clone/compact.mjs $s; done
+node scripts/clone/prefilter.mjs --inprogress
+```
+
+### Stage A2: brand and type filter by hand (new, mandatory)
+Prefilter is too loose. In round 20 it passed 48 snow blower slugs and the writer had to skip 28 of them. It matched "yard" for Yard Glow, counted parts and toys, and passed Toro, John Deere, Kubota and Ventrac with zero real machines. In round 21 it passed 58 slugs and the writer skipped 20. Every one of those skips cost writer tokens.
+
+Before spawning writers, for every brand or type slug print the compact titles and count real machines:
+```bash
+for s in $(tr -d '\r' < scripts/clone/work/round24.txt); do
+  n=$(node -e "const j=require('./scripts/clone/work/$s.compact.json');const it=j.items||j.products||[];console.log(it.length)")
+  echo "== $s ($n)"; node -e "const j=require('./scripts/clone/work/$s.compact.json');(j.items||j.products||[]).forEach(i=>console.log('  ',(i.underCap===false?'[over] ':'')+(i.title||i.name).slice(0,90)))"
+done > scripts/clone/work/round24.titles.txt
+```
+Read the file. Skip (`node scripts/clone/mark.mjs skip <slug>` + one line in clone-log) any slug with:
+- **brand slugs:** fewer than 4 distinct models whose title starts with or clearly contains that brand (bundles or kit/tool-only variants of one model count as one);
+- **type slugs** (riding, robotic, tow-behind, two-stage, commercial, industrial, ride-on, skid-steer, ATV…): fewer than 4 machines that are really that type;
+- **accessory topics** (cabs, tires, tines, blades, covers, bags, chains, liquid "aerators").
+
+Write the surviving list to `scripts/clone/work/round24.ok.txt`. Only that list goes to writers.
+
+## Research
+Reuse `docs/research/<file>.md` when it exists. For a new cluster (vacuums, robot vacuums, pool cleaners, carpet cleaners), the coordinator runs 2 to 4 WebSearch queries first ("how to choose", "vs", common buyer mistakes, safety/standards) and saves `docs/research/<cluster>.md` from what the searches returned. **Never write research from memory.**
+
+## Writers
+2 Sonnet writers (`model: "sonnet"`, never Opus), each given its whole list up front, grouped by cluster. Keep each list to **25 to 30 slugs at most**. A writer with 50+ slugs in round 21 ran out of patience and built a generator.
+
+### Lesson 1 (round 21): no generators, no shared sentence pools
+Writer B in round 21 wrote a script that assembled 58 specs from shared pools. Every product description got the same skeleton ("The listing gives type…", "The compromises are plain:…", "The strongest points are…", "It is aimed at…", 200+ times each) and maintenance lines were copied across guides. It passed selfcheck and audit but is duplicate content. The user caught it, and the descriptions had to be rewritten. The writer prompt below forbids this. The coordinator's cross-guide check (Finish step 5) catches it if it happens anyway.
+
+### Lesson 2 (round 20): words at the floor
+Round 20 guides sit at 3,000 to 3,070 words, right at the selfcheck floor. Spot-check 2 or 3 for padding (the same idea restated) before shipping.
+
+## Finish (coordinator)
+```bash
+S=$(tr -d '\r' < scripts/clone/work/round24.ok.txt | grep -vxFf <(cut -d: -f1 scripts/clone/skip-a.txt scripts/clone/skip-b.txt) | tr '\n' ' ')
+for s in $S; do node scripts/register-dynamic-guide.mjs $s; done
+node scripts/register-new-guides.mjs $S            # Node 22 needed for the .ts imports
+node scripts/clone/mark.mjs done $S
+node scripts/audit-guides.mjs $S
+grep -l '【' $(for s in $S; do echo data/guides/$s.ts; done)   # must print nothing
+# 5. cross-guide duplicate check (must print at most a few short safety lines):
+for s in $S; do grep -oE '[A-Z][^.!?"]{40,}[.!?]' data/guides/$s.ts | sort -u; done | sort | uniq -c | awk '$1>=3' | sort -rn | head -20
+# 6. description skeleton check: no 4-word opening more than 5 times across the round
+for s in $S; do grep -oE 'description: "[^"]+"' data/guides/$s.ts | grep -oE '[A-Z][^.!?]{20,}[.!?]' | sed -E 's/^(([^ ]+ ){4}).*/\1/'; done | sort | uniq -c | sort -rn | head
+npx tsc --noEmit
+NODE_OPTIONS=--max-old-space-size=6144 npx next build > build.log 2>&1; grep -E "Compiled successfully|Finished TypeScript|Error" build.log
+```
+Then add a round entry to `docs/clone-log.md` (topics, skips with reasons, writers, word range, checks). Commit only `data/`, `docs/` and `scripts/clone/source-index.json`, plus the `.spec.json` files only if earlier rounds committed them. Send preview links, and push to `main` only after the user approves.
+
+### Preview
+The agent's background dev server dies whenever the agent session restarts, and the user then cannot open the links. Ask the user to run `npx next dev -p 3000` in their own terminal and give them the `/guide/<slug>` links. If that fails, push a `preview-<round>` branch for a Vercel preview, which needs a git identity.
+
+## Coordinator prompt (paste this tomorrow)
+```
+Read CLAUDE.md and docs/rounds/NEXT-ROUNDS-BRIEF.md. Checkout main and git pull.
+Check docs/clone-log.md for which rounds are finished. Start at the first unfinished round from round 24 in the brief's plan.
+Add the budget topics from the brief for that round's cluster with add-topics.mjs (check for existing/near-duplicate caps first).
+Run Stage A and Stage A2 exactly as the brief says. Show me the per-slug machine counts and the skip list before spawning writers.
+Then spawn 2 Sonnet writers with the writer prompt from the brief (max 25-30 slugs each). When they finish, run the Finish steps including both duplicate checks, and give me preview instructions. Do not push to main before I approve.
+```
+
+## Writer prompt (coordinator fills in the <> parts)
+```
+You are writer agent <A|B> for the MachineFanatic project. Repo root: <path>. ALWAYS cd to the repo root before running any node script.
+Read ONLY docs/BEST-GUIDE-BRIEF-LEAN.md. Follow it exactly.
+Your slugs, grouped by cluster (research file in brackets):
+Cluster <name> (docs/research/<file>.md): <slug>, <slug>, ...
+For each slug: read scripts/clone/work/<slug>.compact.json (never .input.json), write the spec by hand in ONE Write, run node scripts/clone/selfcheck.mjs <slug> and fix by Edit, then node scripts/clone/finish.mjs <slug> (must print "built | audit ok").
+FORBIDDEN: writing any script, generator, template or shared sentence pool that assembles specs; copying sentences between guides; a fixed per-product skeleton (e.g. every description opening "The strongest points are..." / "It is aimed at..."). Every product description is written for that machine: lead with what is distinctive about it, vary structure, and make maintenance advice specific to its design. If you feel the need to automate, stop and report instead.
+Research: if the cluster research file is missing, run 2-4 web searches first; never write research from memory. Give each sibling guide its own angle.
+Budget slugs (-under-N): only products with underCap true; the cap may appear in title/meta/prose, no other dollar figure, never a product price.
+Type/brand slugs: every product must really be that type/brand. If a slug has fewer than 4 distinct real on-topic machines, append "<slug>: reason" to scripts/clone/skip-<a|b>.txt (the 40% candidate quota is never a skip reason).
+Do NOT run register scripts, mark.mjs, npm run build or git, and do not edit shared files.
+Final report: one line per slug, done or skipped: reason.
+```

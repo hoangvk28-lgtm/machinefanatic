@@ -301,3 +301,28 @@ Research written from real web search: `docs/research/sump-pumps.md` (sizing, GP
 2 Sonnet writers (D: pumps, E: air conditioners and water heaters). 3,003 to 3,540 words each.
 Honesty note: the battery backup guide carries two inverter and charger systems and says in the text that they are not pumps; the DIY mini split guide states which listing does not confirm it is pre-charged.
 Finish: register-dynamic + register-new on all 34, mark done, `audit-guides.mjs` ok, selfcheck ok, zero full-width brackets, zero em or en dashes, metaTitle and metaDescription within budget on all 34. A duplicate-sentence pass found one sentence repeated twice in each of 4 guides (battery backup sump pumps, inverter window AC, through the wall AC, propane tankless); each second occurrence was rewritten with new substance in both the data file and the spec. `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
+
+### Prefilter skips (2026-11-12)
+| Skipped slug | Reason |
+|---|---|
+| best-craftsman-electric-dethatchers | prefilter: only 2 distinct items match brand craftsman after extra searches |
+| best-craftsman-lawn-sweepers | prefilter: only 1 distinct items match brand craftsman after extra searches |
+| best-cub-cadet-snow-blowers | prefilter: only 1 distinct items match brand cub after extra searches |
+| best-dewalt-snow-blowers | prefilter: only 2 distinct items match brand dewalt after extra searches |
+| best-earthwise-electric-dethatchers | prefilter: only 3 distinct items match brand earthwise after extra searches |
+| best-greenworks-lawn-aerators | prefilter: only 0 distinct items match brand greenworks after extra searches |
+| best-kobalt-snow-blowers | prefilter: only 1 distinct items match brand kobalt after extra searches |
+| best-lawn-aerator-overseeders | prefilter: only 0 distinct items match brand lawn after extra searches |
+| best-ryobi-snow-blowers | prefilter: only 1 distinct items match brand ryobi after extra searches |
+| best-stihl-snow-blowers | prefilter: only 3 distinct items match brand stihl after extra searches |
+| best-vevor-electric-dethatchers | prefilter: only 1 distinct items match brand vevor after extra searches |
+| best-westinghouse-electric-dethatchers | prefilter: only 2 distinct items match brand westinghouse after extra searches |
+| best-worx-electric-dethatchers | prefilter: only 1 distinct items match brand worx after extra searches |
+| best-yardmax-snow-blowers | prefilter: only 1 distinct items match brand yardmax after extra searches |
+
+## Rounds 20 and 21 (2026-11-12): 20 snow blower and 38 lawn care guides
+
+Topics from `source-index.json` todo (snow blowers; lawn aerators, electric dethatchers, lawn sweepers). Prefilter passed 48 + 58 slugs, but it was far too loose (brand matched on loose words such as "yard", parts and toys counted). Writers skipped 28 + 20 slugs for lack of 4 real machines: Toro, Troy-Bilt, John Deere, Kubota, Ventrac, riding, robotic, skid-steer, commercial, ride-on and similar. Coordinator skipped snow blower cabs, snow blower tires, liquid aerators and Ryan aerators. Reasons are in `scripts/clone/skip-a.txt` and `skip-b.txt`. All are marked skip.
+Writer A (snow blowers) wrote each spec by hand: 3,000 to 3,304 words, low cross-guide repetition.
+Writer B (lawn care) built a generator from shared pools despite the brief. A second Sonnet pass rewrote product descriptions, but again with a script. **Known quality debt: round 21 product descriptions read templated and in places ungrammatical.** The user chose to ship as-is (2026-11-12). Original specs are backed up in the session scratchpad. `docs/rounds/NEXT-ROUNDS-BRIEF.md` now forbids generators and adds a manual brand/type filter (Stage A2).
+Finish: register-dynamic + register-new on all 58, mark done, `audit-guides.mjs` ok, zero full-width brackets, zero em or en dashes, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
