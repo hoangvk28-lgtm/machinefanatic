@@ -58,7 +58,7 @@ power-stations-under-500|Portable Power Stations Under $500|shop-garage
 - Before adding a slug, run `grep -c "<slug>" scripts/clone/source-index.json` and `ls data/guides/ | grep <stem>-under`. `add-topics.mjs` skips existing slugs, but check by eye anyway, because a near-duplicate cap (under-100 vs under-75) is a thin page.
 - Pick caps where real machines exist: about the bottom third of the cluster's price range. The cap must sit well above the cheapest junk, or the lineup will be toys and parts.
 - Budget slugs go into the round of their cluster, never a separate round. They then share the research file.
-- `compact.mjs` marks `underCap: true` and `prefilter.mjs` counts only those. A budget slug needs **4 or more items with underCap true that are real machines**. Otherwise, skip it.
+- `compact.mjs` marks `underCap: true` and `prefilter.mjs` counts only those. A budget slug needs **3 or more items with underCap true that are real machines**. Otherwise, skip it.
 
 ## Stage A (zero AI tokens)
 ```bash
@@ -84,8 +84,8 @@ for s in $(tr -d '\r' < scripts/clone/work/round24.txt); do
 done > scripts/clone/work/round24.titles.txt
 ```
 Read the file. Skip (`node scripts/clone/mark.mjs skip <slug>` + one line in clone-log) any slug with:
-- **brand slugs:** fewer than 4 distinct models whose title starts with or clearly contains that brand (bundles or kit/tool-only variants of one model count as one);
-- **type slugs** (riding, robotic, tow-behind, two-stage, commercial, industrial, ride-on, skid-steer, ATV…): fewer than 4 machines that are really that type;
+- **brand slugs:** fewer than 3 distinct models whose title starts with or clearly contains that brand (bundles or kit/tool-only variants of one model count as one);
+- **type slugs** (riding, robotic, tow-behind, two-stage, commercial, industrial, ride-on, skid-steer, ATV…): fewer than 3 machines that are really that type;
 - **accessory topics** (cabs, tires, tines, blades, covers, bags, chains, liquid "aerators").
 
 Write the surviving list to `scripts/clone/work/round24.ok.txt`. Only that list goes to writers.
@@ -141,7 +141,15 @@ For each slug: read scripts/clone/work/<slug>.compact.json (never .input.json), 
 FORBIDDEN: writing any script, generator, template or shared sentence pool that assembles specs; copying sentences between guides; a fixed per-product skeleton (e.g. every description opening "The strongest points are..." / "It is aimed at..."). Every product description is written for that machine: lead with what is distinctive about it, vary structure, and make maintenance advice specific to its design. If you feel the need to automate, stop and report instead.
 Research: if the cluster research file is missing, run 2-4 web searches first; never write research from memory. Give each sibling guide its own angle.
 Budget slugs (-under-N): only products with underCap true; the cap may appear in title/meta/prose, no other dollar figure, never a product price.
-Type/brand slugs: every product must really be that type/brand. If a slug has fewer than 4 distinct real on-topic machines, append "<slug>: reason" to scripts/clone/skip-<a|b>.txt (the 40% candidate quota is never a skip reason).
+Type/brand slugs: every product must really be that type/brand. If a slug has fewer than 3 distinct real on-topic machines, append "<slug>: reason" to scripts/clone/skip-<a|b>.txt (the 40% candidate quota is never a skip reason).
 Do NOT run register scripts, mark.mjs, npm run build or git, and do not edit shared files.
 Final report: one line per slug, done or skipped: reason.
 ```
+
+## RESUME FIRST: rounds 22 and 23 were in progress (2026-11-13)
+Writers were mid-run when the session ran out. Stage A and A2 are done. Lists: `scripts/clone/work/r22a.txt` (38 leaf blower/vacuum), `round23.ok.txt` (32 chipper/shredder/splitter/auger/pole saw/tiller) and `r22b.txt` (26 hedge/string trimmer, not started). The `.compact.json` files are in `scripts/clone/work/` on the ORIGINAL machine only (work/ is not committed). On a different machine, re-run Stage A for those lists first.
+A slug is finished when `data/guides/<slug>.ts` exists and `finish.mjs` printed "built | audit ok"; skips are in `scripts/clone/skip-a.txt` / `skip-b.txt`. Give each new Sonnet writer only the unfinished, unskipped slugs:
+```bash
+for f in r22a.txt round23.ok.txt r22b.txt; do for s in $(tr -d '\r' < scripts/clone/work/$f); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done > scripts/clone/work/left-$f; done
+```
+Writer prompt: the one below, plus "3 distinct real machines is enough, write it" and "do not stop early because the list is long". Then run Finish for all of rounds 22 and 23 together (register, mark done + mark skip, audit, both duplicate checks, tsc, build, clone-log, commit, push).

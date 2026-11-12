@@ -28,6 +28,9 @@ Target 15k to 20k AI tokens per guide (round 1 cost ~36k to 39k per guide). Ever
 - **"Stage A" (the user's name for it) = the zero-AI-token data step:** `git pull`, `next-batch.mjs` (Amazon data), `compact.mjs`, `prefilter.mjs`. The user often runs it in their own terminal. If `scripts/clone/work/<slug>.compact.json` files already exist for the round, do not re-run it: go straight to writers.
 - Coordinator (not writers) runs registration, mark.mjs, clone-log, tsc, build, commit.
 
+## MachineFanatic rule: 3 real machines is enough for a guide (added 2026-11-12, per explicit user instruction)
+A topic with 3 distinct real on-topic machines gets written, not skipped ("đừng skip mà phí"). Skip only below 3. Never pad with off-topic or other-brand items to reach 5. `prefilter.mjs` MIN = 3 and `selfcheck.mjs` accepts 3 to 7 products. Older text below that says "4+" or "fewer than 4" is superseded.
+
 ## MachineFanatic rule: "under-N" budget guides may name their cap (added 2026-11-07, per explicit user instruction)
 For slugs ending in `-under-N`, the cap `$N` is the search keyword and may appear in guideTitle, metaTitle, metaDescription and prose. No other dollar figure is allowed, and never a product price. Products must be at or below the cap at their live Amazon price (`underCap: true` from `scripts/clone/compact.mjs`; `prefilter.mjs` checks it). `audit-guides.mjs` and `selfcheck.mjs` whitelist only that cap. Rules for writers are in the "Budget topics" section of `docs/BEST-GUIDE-BRIEF-LEAN.md`.
 

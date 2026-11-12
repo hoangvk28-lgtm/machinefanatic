@@ -30,7 +30,7 @@ for (const p of s.products || []) {
   if ((p.cons || []).length < 2) errs.push(`${p.id}: needs 2-3 cons`);
   for (const c of p.specs || []) if (c.length > 24) errs.push(`${p.id}: chip "${c}" > 24 chars`);
 }
-const np = (s.products || []).length; if (np < 4 || np > 7) errs.push(`${np} products (want 5-7)`);
+const np = (s.products || []).length; if (np < 3 || np > 7) errs.push(`${np} products (want 3-7; 3 allowed only when fewer real machines exist)`);
 for (const [k, n] of [["buyingCriteria", 6], ["specDecoder", 5], ["howWeEvaluated", 5], ["howToChoose", 6], ["faq", 6]]) if ((s[k] || []).length !== n) errs.push(`${k} needs ${n} entries`);
 const wc = words.length; if (wc < 3000 || wc > 3800) errs.push(`word count ${wc} (want 3,000 to 3,800)`);
 console.log(errs.length ? `FIX ${slug} (${wc} words)\n  - ${errs.join("\n  - ")}` : `ok  ${slug} (${wc} words)`);

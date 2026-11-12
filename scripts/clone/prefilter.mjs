@@ -11,7 +11,7 @@ const rows = JSON.parse(readFileSync(IDX, "utf-8"));
 const DRY = process.argv.includes("--dry");
 let slugs = process.argv.slice(2).filter((a) => a !== "--dry");
 if (slugs[0] === "--inprogress") slugs = rows.filter((r) => r.status === "inprogress" && !existsSync(`${W}/${r.slug}.spec.json`)).map((r) => r.slug);
-const MIN = 4;
+const MIN = 3;
 const UNIT = {
   inch: (n) => new RegExp(`(?<![\\d.])\\b${n}(\\s?-?\\s?(inch|in\\b)|"|''|”)`, "i"),
   v: (n) => new RegExp(`(?<![\\d.])\\b${n}\\s?-?\\s?(v\\b|volt)`, "i"),
