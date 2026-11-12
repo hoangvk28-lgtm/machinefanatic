@@ -268,3 +268,11 @@ Junk terms added to `scripts/clone/junk.mjs` for this cluster: grill/smoker/grid
 Research written from real web search: `docs/research/smokers.md`, `docs/research/pizza-ovens.md`.
 2 Sonnet writers, one per cluster, each running its full list in one go. 15 smoker guides + 13 pizza oven guides, 3,004 to 3,785 words each.
 Finish: register-dynamic + register-new (needs Node 22 with `--experimental-strip-types`; Node 20 cannot import the .ts data files), mark done, `audit-guides.mjs` ok on all 28, zero full-width brackets, zero repeated 30+ char sentences, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
+
+## Round 17 (PopMech gap, 2026-11-12): 32 grill and griddle guides
+
+Topics from `docs/rounds/popmech-gap-topics.txt` ROUND 17: pellet grills (6), gas grills (9, incl. 2/3/4-burner, natural gas, Weber, portable, under $300, under $500), charcoal and kamado (3), electric and outdoor electric (2), flat top and griddles (9, incl. Blackstone, 36/28/22 inch, portable, with lid, grill-griddle combos), camping and tabletop (2). Prefilter dropped nothing: all 32 had 4+ real matching machines.
+
+Research reused from `docs/research/grills.md` and `docs/research/griddles.md` (written from real web search in this cluster).
+3 Sonnet writers (A: grills, B: griddles and portable, C: the two under-N gas grill topics). 3,000 to 3,612 words each.
+Finish: register-dynamic + register-new on all 32 (Node 22 required for the .ts imports), mark done, `audit-guides.mjs` ok on all 32, zero full-width brackets, zero em or en dashes, zero repeated 30+ char sentences, intros spot-checked for category-level framing, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
