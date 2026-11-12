@@ -260,3 +260,11 @@ Notes: best-200-amp-generator-transfer-switch has 4 products (only 4 distinct 20
 
 ## Round 15 (2026-11-12): PopMech gap, priority 1 shop-garage
 38 guides: 12 wet-dry vacs, 3 floor jacks, 3 nailers, 9 air compressors, 7 welders/plasma, 4 bench machines. Skipped best-air-compressors-under-200 (2 underCap items).
+
+### Round 16 (2026-11-12): PopMech gap, smokers and pizza ovens
+28 topics taken from `docs/rounds/popmech-gap-topics.txt` (round 16 block), 28 written, 0 skipped.
+Stage A: `add-topics.mjs` -> `next-batch.mjs` -> `compact.mjs` -> `prefilter.mjs` (run with explicit slugs, since `--inprogress` trips over stale inprogress rows whose `.input.json` lives on another machine). Every slug cleared 4+ real machines; `best-outdoor-pizza-ovens` needed 3 extra searches (its first pull was mostly indoor electric units).
+Junk terms added to `scripts/clone/junk.mjs` for this cluster: grill/smoker/griddle covers, wood chips and chunks, brand-blend pellets, pizza stones/peels/cutters, meat and grill thermometers, grill grates/brushes/baskets/gloves, griddle press and scraper, heat plates, drip pans, smoker tubes, smoke generators, cookbooks, gaskets, cocktail smokers, propane tanks and regulators. All phrase-based and tested against real machine titles first (CLAUDE.md rule 4).
+Research written from real web search: `docs/research/smokers.md`, `docs/research/pizza-ovens.md`.
+2 Sonnet writers, one per cluster, each running its full list in one go. 15 smoker guides + 13 pizza oven guides, 3,004 to 3,785 words each.
+Finish: register-dynamic + register-new (needs Node 22 with `--experimental-strip-types`; Node 20 cannot import the .ts data files), mark done, `audit-guides.mjs` ok on all 28, zero full-width brackets, zero repeated 30+ char sentences, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
