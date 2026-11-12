@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-propane-tankless-water-heaters",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best propane tankless water heaters",
+ "guideTitle": "Best Propane Tankless Water Heaters (2026)",
+ "metaTitle": "Best Propane Tankless Water Heaters (2026)",
+ "metaDescription": "Six propane tankless water heaters from 95,000 to 199,900 BTU compared on tank draw, regulator needs, condensing design and real GPM at your temperature rise.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Rheem RTGH 9.5 GPM condensing unit is the best pick for a large propane home because its 0.93 UEF stretches every gallon of fuel and it vents in PVC. The ThermoMate CZ422LP is the value pick for a small household. If you only have a single 20 pound cylinder and no bulk tank, skip whole-house propane tankless, because the fuel draw will empty a cylinder in hours.",
+ "introParagraphs": [
+  "Propane tankless heaters serve homes without natural gas, such as rural houses, cabins and outbuildings. The burner and heat exchanger are the same as on a natural gas model, but the fuel delivery is different, with its own regulator, orifice and tank to size.",
+  "The fuel draw is the surprise. A large tankless burns propane faster than most people expect, so the tank size and the supply line matter as much as the heater itself. Run the numbers before you pick a unit."
+ ],
+ "products": [
+  {
+   "id": "B0C826BQG3",
+   "badge": "Best Overall",
+   "name": "Rheem RTGH 9.5 GPM Condensing Propane Tankless, 199,900 BTU",
+   "specs": [
+    "9.5 GPM",
+    "199,900 BTU",
+    "Condensing",
+    "UEF 0.93"
+   ],
+   "specList": [
+    {
+     "label": "Max flow",
+     "value": "9.5 GPM"
+    },
+    {
+     "label": "Input",
+     "value": "199,900 BTU"
+    },
+    {
+     "label": "Type",
+     "value": "Condensing"
+    },
+    {
+     "label": "Efficiency",
+     "value": "UEF 0.93"
+    },
+    {
+     "label": "Fuel",
+     "value": "Liquid propane, indoor"
+    }
+   ],
+   "description": "The RTGH is a condensing propane unit with a stated UEF of 0.93 and 199,900 BTU of input, rated at 9.5 GPM. Condensing means a second heat exchanger recovers heat from the exhaust, so it vents in PVC and wastes less of the fuel you pay to truck in.\n\nThe efficiency matters more on propane than on natural gas, because propane costs more per BTU. At 0.93 efficiency the useful heat is about 186,000 BTU, which is about 5.3 GPM at a 70F rise and 9.3 GPM at a 40F rise. Compared with the non-condensing Rheem RTG at 0.82, it extracts about 13 percent more heat from the same fuel.\n\nOwnership needs a condensate drain and neutralizer, a properly sized propane line and regulator, and a yearly descale. Plan on a large tank or a bulk delivery contract, since the burner uses about 2.2 gallons of propane per hour at full fire. Ask the propane supplier to confirm that the tank, the first-stage regulator and the line to the house can deliver the full input, because a frosted regulator on a cold morning is the classic cause of a sudden loss of hot water.",
+   "bestFor": "A large propane home with a bulk tank where fuel efficiency and capacity matter.",
+   "pros": [
+    "Stated UEF of 0.93 stretches propane",
+    "199,900 BTU input for large households",
+    "Vents in PVC",
+    "Wide brand service network"
+   ],
+   "cons": [
+    "Needs a condensate drain and neutralizer",
+    "Burns about 2.2 gallons an hour at full fire",
+    "Highest price tier in the lineup"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0C826BQG3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31kiWzVBmYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C828MJBK",
+   "badge": "Best Outdoor Install",
+   "name": "Rheem RTG 7.0 GPM Liquid Propane Tankless, 160,000 BTU, Outdoor",
+   "specs": [
+    "7.0 GPM",
+    "160,000 BTU",
+    "Outdoor",
+    "UEF 0.82"
+   ],
+   "specList": [
+    {
+     "label": "Max flow",
+     "value": "7.0 GPM"
+    },
+    {
+     "label": "Input",
+     "value": "160,000 BTU"
+    },
+    {
+     "label": "Type",
+     "value": "Non-condensing"
+    },
+    {
+     "label": "Efficiency",
+     "value": "UEF 0.82"
+    },
+    {
+     "label": "Install",
+     "value": "Outdoor, liquid propane"
+    }
+   ],
+   "description": "This RTG is the outdoor liquid propane version, rated 7.0 GPM at 160,000 BTU and 0.82 UEF. Outdoor mounting removes the vent run entirely and keeps combustion out of the house, which is the main reason to choose it for a cabin or a retrofit with no good vent path.\n\nThe tradeoff is freeze exposure. An outdoor unit needs its freeze protection to work, which depends on electric power, and in a long outage in a cold climate the water in the heat exchanger can freeze. Against the RTGH it is less efficient and needs no condensate line, and against the indoor units it avoids venting.\n\nOwnership is the usual descale and inlet screen care, plus a look at the cabinet and vent cap after storms. Check the regulator and the propane line for leaks each year. If you live where winter outages are common, plan a small generator or battery backup for the freeze protection, since an unpowered outdoor unit relies on you draining it.",
+   "bestFor": "A cabin or home with no vent path where outdoor mounting is easier.",
+   "pros": [
+    "Outdoor mounting needs no vent run",
+    "Stated UEF of 0.82",
+    "160,000 BTU input",
+    "Established brand with service coverage"
+   ],
+   "cons": [
+    "Freeze protection depends on power",
+    "Less efficient than the condensing model",
+    "Non-condensing exhaust runs hot"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0C828MJBK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/317qyHdTliL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GJFMHRTJ",
+   "badge": "Best High Input Value",
+   "name": "Ranein Propane Tankless, 190,000 BTU, 8.5 GPM, Indoor",
+   "specs": [
+    "190,000 BTU",
+    "8.5 GPM",
+    "Indoor",
+    "4 to 6 points"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "190,000 BTU"
+    },
+    {
+     "label": "Max flow",
+     "value": "8.5 GPM"
+    },
+    {
+     "label": "Water points",
+     "value": "4 to 6"
+    },
+    {
+     "label": "Fan",
+     "value": "Under-mounted blower"
+    },
+    {
+     "label": "Inlet",
+     "value": "3/4 inch G thread"
+    }
+   ],
+   "description": "Ranein's 190,000 BTU unit is rated at 8.5 GPM for four to six water points and places its fan underneath the combustion chamber, which the listing says prevents smoke backflow. It uses a three-quarter inch inlet.\n\nIts rating deserves a calculation. At 190,000 BTU and a non-condensing efficiency near 0.8, the useful heat is about 152,000 BTU, giving roughly 4.3 GPM at a 70F rise and 7.6 GPM at a 40F rise. The 8.5 GPM headline therefore assumes a rise near 36F. Compared with the Rheem RTGH it has similar input but no stated UEF, and compared with the Westinghouse it has much more capacity.\n\nOwnership includes the usual descaling, venting and regulator care. Because the brand is less established, check the warranty and parts availability before you buy. Keep an eye on the propane tank level during the first winter, because a high-input unit shows you how fast a modest tank empties.",
+   "bestFor": "A larger home in a mild climate that wants high input at a lower price tier.",
+   "pros": [
+    "190,000 BTU input for large households",
+    "Under-mounted fan against smoke backflow",
+    "Rated for four to six water points",
+    "Lower price tier than the Rheem units"
+   ],
+   "cons": [
+    "No UEF stated in the data",
+    "8.5 GPM claim assumes a small rise",
+    "Newer brand with less service depth"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GJFMHRTJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31HcCEBrqbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F66K2YGR",
+   "badge": "Best Smart Mid-Size",
+   "name": "Westinghouse 120,000 BTU Indoor Propane Tankless, 5.5 GPM, WiFi",
+   "specs": [
+    "120,000 BTU",
+    "5.5 GPM",
+    "WiFi app",
+    "Self-modulating"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "120,000 BTU"
+    },
+    {
+     "label": "Max flow",
+     "value": "5.5 GPM"
+    },
+    {
+     "label": "Control",
+     "value": "Smartphone app and LED panel"
+    },
+    {
+     "label": "Modulation",
+     "value": "Self-modulating gas and water"
+    },
+    {
+     "label": "Fuel",
+     "value": "Propane, indoor"
+    }
+   ],
+   "description": "Westinghouse's propane unit lists 120,000 BTU, 5.5 GPM, app control and an LED panel, with self-modulating technology that adjusts gas and water flow to hold the setpoint. It is aimed at whole-home use in a mid-size house.\n\nAt 120,000 BTU and an efficiency near 0.8, the useful heat is about 96,000 BTU, so roughly 2.7 GPM at a 70F rise and 4.8 GPM at a 40F rise. It suits two to three fixtures in a mild climate. Compared with the Ranein it has about two-thirds of the input, and compared with the APUS it adds app control and more input.\n\nOwnership is routine: descaling, an inlet screen check and a venting inspection. The app is a convenience, and the physical panel is the fallback. A well-sealed vent and a combustion air path matter more on propane than people expect, since propane is heavier than air and settles low if it leaks.",
+   "bestFor": "A two to three bathroom home on propane that wants app monitoring.",
+   "pros": [
+    "120,000 BTU input for mid-size homes",
+    "Self-modulating gas and water control",
+    "App and LED panel control",
+    "Known appliance brand name"
+   ],
+   "cons": [
+    "Flow falls fast in cold climates",
+    "No UEF stated in the data",
+    "App adds a software dependency"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F66K2YGR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/317yKZ5cJJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DRDCD8MN",
+   "badge": "Best Value",
+   "name": "ThermoMate CZ422LP Propane Tankless, 102,000 BTU, up to 5 GPM",
+   "specs": [
+    "102,000 BTU",
+    "Up to 5 GPM",
+    "CSA certified",
+    "8 protections"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "102,000 BTU"
+    },
+    {
+     "label": "Max flow",
+     "value": "Up to 5 GPM"
+    },
+    {
+     "label": "Certification",
+     "value": "CSA"
+    },
+    {
+     "label": "Protections",
+     "value": "Boil-dry, freeze, flame-out, overheat and more"
+    },
+    {
+     "label": "Heat exchanger",
+     "value": "Oxygen-free copper"
+    }
+   ],
+   "description": "The CZ422LP is the propane version of ThermoMate's small tankless, with 102,000 BTU, a rated flow up to 5 GPM, CSA certification and eight listed protections. The listing says it can run two showers at once, which is true only in a mild climate.\n\nAt 102,000 BTU the useful heat is roughly 82,000 BTU, so about 2.3 GPM at a 70F rise and 4.1 GPM at a 40F rise. In a cold climate it serves one shower at a time. Against the APUS 95,000 BTU it has slightly more input, and against the Rheem it costs less and burns less fuel.\n\nOwnership centers on a correctly set regulator, a yearly descale and a vent check. The protections help, but they do not replace a proper installation. It is also the easiest of the six to size a tank around, because its fuel draw sits near one gallon per hour.",
+   "bestFor": "A small household or cabin on propane in a mild climate.",
+   "pros": [
+    "CSA certified with eight protections",
+    "Oxygen-free copper heat exchanger",
+    "Lower fuel draw than larger units",
+    "Lower price tier"
+   ],
+   "cons": [
+    "One shower at a time in cold climates",
+    "Less capacity than the 120,000 BTU and larger units",
+    "Smaller brand with less service depth"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DRDCD8MN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319aftw0dbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FF4DJ4SL",
+   "badge": "Best Compact Mid-Range",
+   "name": "APUS 95,000 BTU Indoor Propane Tankless, 4.42 GPM",
+   "specs": [
+    "95,000 BTU",
+    "4.42 GPM",
+    "95 to 140F range",
+    "Copper exchanger"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "95,000 BTU"
+    },
+    {
+     "label": "Max flow",
+     "value": "4.42 GPM"
+    },
+    {
+     "label": "Temperature range",
+     "value": "95 to 140F control"
+    },
+    {
+     "label": "Fixtures",
+     "value": "2 to 3"
+    },
+    {
+     "label": "Heat exchanger",
+     "value": "Oxygen-free copper"
+    }
+   ],
+   "description": "APUS's 95,000 BTU propane unit lists 4.42 GPM for two to three fixtures, a 95F to 140F temperature range and sensors with a smart CPU for steady output. It uses an oxygen-free copper heat exchanger.\n\nThe flow claim needs a reality check: at 95,000 BTU and about 0.8 efficiency, the useful heat is about 76,000 BTU, which is roughly 2.2 GPM at a 70F rise and 3.8 GPM at a 40F rise. It suits a small home or two fixtures in a mild climate. Compared with the ThermoMate it has slightly less input, and compared with the Westinghouse it lacks an app.\n\nOwnership is the usual descale, screen and vent care. Its low input also lowers the propane draw, which helps if your tank is small. Pair it with a low-flow shower head if your tank is small, which stretches both the hot water and the fuel.",
+   "bestFor": "A small home or secondary bathroom on propane with a modest tank.",
+   "pros": [
+    "Temperature control from 95F to 140F",
+    "Copper heat exchanger",
+    "Lower propane draw",
+    "Smart CPU temperature control"
+   ],
+   "cons": [
+    "About 2.2 GPM at a 70F rise",
+    "No app control",
+    "Smaller brand with less service depth"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FF4DJ4SL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4155WePP6UL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Check the fuel draw first",
+   "explanation": "Propane carries about 91,500 BTU per gallon, so a 199,900 BTU burner uses about 2.2 gallons per hour at full fire. A 20 pound cylinder holds roughly 4.7 gallons, which is two hours of full-fire use. Whole-house units need a large tank or a bulk supply, so size the tank before you buy the heater."
+  },
+  {
+   "criterion": "Propane regulator and supply",
+   "explanation": "Propane appliances run at a lower supply pressure than the tank, so a regulator steps it down, and a long run needs a larger pipe. An undersized regulator or a frosted line starves the burner in cold weather. Have a propane supplier size the regulator and line."
+  },
+  {
+   "criterion": "Efficiency pays more on propane",
+   "explanation": "Propane costs more per BTU than natural gas, so the 0.93 UEF of the Rheem RTGH saves more than the same gain would on natural gas. Against the 0.82 UEF Rheem RTG, it extracts about 13 percent more heat per gallon. Over a year of family use that can mean a noticeable amount of fuel."
+  },
+  {
+   "criterion": "Real GPM at your rise",
+   "explanation": "Flow is about BTU input times efficiency divided by 500 times the temperature rise. The Ranein at 190,000 BTU makes about 4.3 GPM at a 70F rise, not the 8.5 on the box. Use your coldest incoming water, not the maker's chart."
+  },
+  {
+   "criterion": "Indoor versus outdoor",
+   "explanation": "The Rheem RTG outdoor model avoids a vent run but has to handle freezing, which depends on electric power. Indoor units like the Westinghouse and Ranein need a vent that exits the building and a combustion air path. Pick on your climate and your vent route."
+  },
+  {
+   "criterion": "Conversion kits and fuel labels",
+   "explanation": "Some tankless units ship set for natural gas and need a conversion kit for propane, and the wrong orifice makes combustion unsafe. The units here are sold as propane models, but confirm the label. Never run a unit on a fuel it was not set up for."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "BTU per hour",
+   "meaning": "The fuel energy the burner can use each hour. Higher input allows higher flow at a given rise.",
+   "watchFor": "The range runs from 95,000 BTU on the APUS to 199,900 BTU on the Rheem RTGH."
+  },
+  {
+   "spec": "UEF",
+   "meaning": "Uniform Energy Factor, the DOE efficiency rating. Higher means less fuel per gallon heated.",
+   "watchFor": "The Rheem RTGH states 0.93 and the RTG 0.82, but the others give no UEF in the data."
+  },
+  {
+   "spec": "Condensing",
+   "meaning": "A design with a second heat exchanger that recovers exhaust heat, allowing PVC venting and higher efficiency.",
+   "watchFor": "The Rheem RTGH is the only condensing unit in the lineup."
+  },
+  {
+   "spec": "Fuel draw",
+   "meaning": "Gallons of propane per hour at full fire, about the BTU input divided by 91,500.",
+   "watchFor": "A 199,900 BTU unit draws about 2.2 gallons an hour and a 95,000 BTU unit about 1.0."
+  },
+  {
+   "spec": "Self-modulating",
+   "meaning": "The gas and water flow adjust automatically to hold the set temperature.",
+   "watchFor": "The Westinghouse lists it, and others describe similar sensors."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Fuel efficiency",
+   "description": "We weighted stated UEF heavily, since propane is costly. The Rheem RTGH at 0.93 and the RTG at 0.82 were credited, and units with no stated efficiency scored cautiously."
+  },
+  {
+   "title": "Real capacity",
+   "description": "We converted input and efficiency into GPM at a 70F rise, giving about 5.3 for the RTGH, 4.3 for the Ranein and 2.2 for the APUS. We treated headline GPM as a best case."
+  },
+  {
+   "title": "Install demands",
+   "description": "We counted vent type, condensate needs, outdoor versus indoor placement and fuel line size. The condensing Rheem needs a drain, and the outdoor RTG avoids venting."
+  },
+  {
+   "title": "Safety features",
+   "description": "We credited CSA certification and listed protections on the ThermoMate and the under-mounted fan on the Ranein. Safety features scored higher than marketing claims."
+  },
+  {
+   "title": "Support",
+   "description": "We considered brand service depth based on owner feedback patterns. Rheem scored highest, Westinghouse in the middle and newer brands lower."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Household Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cabin or secondary bath",
+      "APUS 95,000 BTU",
+      "Lowest fuel draw"
+     ],
+     [
+      "Small home, 1 bathroom",
+      "ThermoMate CZ422LP",
+      "102,000 BTU"
+     ],
+     [
+      "2 to 3 bathrooms",
+      "Westinghouse 120,000 BTU",
+      "5.5 GPM with app"
+     ],
+     [
+      "4 or more bathrooms",
+      "Rheem RTGH 9.5 GPM",
+      "199,900 BTU condensing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "APUS 95,000 BTU",
+      "Smallest unit"
+     ],
+     [
+      "Low-to-mid",
+      "ThermoMate CZ422LP",
+      "CSA certified"
+     ],
+     [
+      "Mid-range high input",
+      "Ranein 190,000 BTU",
+      "High capacity"
+     ],
+     [
+      "Highest outlay",
+      "Rheem RTGH 9.5 GPM",
+      "Best efficiency"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Condensing vs Non-Condensing",
+   "cards": [
+    {
+     "label": "Condensing",
+     "text": "The Rheem RTGH recovers exhaust heat at 0.93 UEF, so it vents in PVC and burns less propane for the same hot water. It needs a condensate drain and costs more."
+    },
+    {
+     "label": "Non-condensing",
+     "text": "The Rheem RTG, Ranein, Westinghouse, ThermoMate and APUS exhaust hotter gas and need metal venting. They cost less and need no condensate line."
+    }
+   ],
+   "note": "On propane the fuel saving of condensing pays back faster than on natural gas."
+  },
+  {
+   "subheading": "Fuel Tank Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small tank, limited fuel",
+      "APUS 95,000 BTU",
+      "About 1 gallon per hour"
+     ],
+     [
+      "Mid-size tank",
+      "ThermoMate CZ422LP",
+      "About 1.1 gallons per hour"
+     ],
+     [
+      "Large tank or bulk",
+      "Rheem RTGH 9.5 GPM",
+      "About 2.2 gallons per hour at full fire"
+     ],
+     [
+      "Outdoor tank near the wall",
+      "Rheem RTG Outdoor",
+      "160,000 BTU, about 1.7 gallons per hour"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Off-Grid Cabins Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A unit that burns little fuel, survives freezing and has a simple installation. Remember that most tankless heaters need household power for the fan and controls."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The APUS 95,000 BTU and ThermoMate CZ422LP draw the least fuel, and the Rheem RTG outdoor avoids a vent path."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a large household or run the heater daily. The Rheem RTGH repays its price in saved propane."
+    },
+    {
+     "label": "Save if",
+     "text": "The household is small or the cabin seldom used. The ThermoMate or APUS does the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Descale the heat exchanger",
+   "interval": "Yearly, more often in hard water",
+   "why": "Scale cuts heat transfer and flow. Circulate descaling solution through the service valves."
+  },
+  {
+   "task": "Check the regulator and lines",
+   "interval": "Yearly",
+   "why": "A weeping regulator or a corroded fitting is a safety risk. Test joints with leak detector fluid."
+  },
+  {
+   "task": "Clean the inlet screen",
+   "interval": "Every 6 to 12 months",
+   "why": "A clogged screen starves the unit of flow. Rinse it with the water shut off."
+  },
+  {
+   "task": "Inspect the vent",
+   "interval": "Yearly",
+   "why": "A blocked or corroded vent is a safety risk. Clear nests and check the joints."
+  },
+  {
+   "task": "Check tank level and supply",
+   "interval": "Each season",
+   "why": "Running the tank low can draw sediment into the line. Schedule a refill before it drops below a quarter."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much propane does a tankless heater use?",
+   "a": "Propane carries about 91,500 BTU per gallon, so a 199,900 BTU unit burns about 2.2 gallons an hour at full fire. In normal use it burns far less, since the burner modulates, but the tank must handle peak draw. A propane supplier can size the tank from the heater input and your household use."
+  },
+  {
+   "q": "Can I run a propane tankless on a 20 pound cylinder?",
+   "a": "Only small units, and only for light use. A 20 pound cylinder holds about 4.7 gallons, so a large unit would empty it in hours. Use a bulk tank for a whole house."
+  },
+  {
+   "q": "Is a condensing propane tankless worth the cost?",
+   "a": "Often yes, because propane costs more per BTU and a 0.93 UEF unit extracts about 13 percent more heat from each gallon than a 0.82 unit. The saving grows with use."
+  },
+  {
+   "q": "Can I convert a natural gas unit to propane?",
+   "a": "Some models offer a conversion kit, but the units here are sold as propane models. Never run a unit on a fuel it was not set up for. A licensed gas fitter should verify the orifice and pressure after any change."
+  },
+  {
+   "q": "Does a propane tankless heater need electricity?",
+   "a": "Most do, for the fan, the controls and the ignition. In a power cut the heater stops, so plan a backup if the house depends on it. A battery backup can keep a small unit running through a short outage."
+  },
+  {
+   "q": "How often should I descale?",
+   "a": "About once a year, more often in hard water. The service valves let you circulate descaling solution through the unit."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31kiWzVBmYL._SL500_.jpg"
+}

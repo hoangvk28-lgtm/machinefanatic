@@ -2842,7 +2842,7 @@
    "The Office Journal",
    "workcocoon"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-bedrooms",
@@ -2857,7 +2857,7 @@
    "B09FJSJQ95",
    "B0CM6VDKSQ"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-bedrooms-and-home-offices",
@@ -2988,7 +2988,7 @@
    "B0BGPF71Q6",
    "B0B9SL7894"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-mold-spores",
@@ -3079,7 +3079,7 @@
    "B07VVK39F7",
    "B09GTRVJQM"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-printer-and-office-odors",
@@ -3156,7 +3156,7 @@
    "The Office Journal",
    "workcocoon"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-vocs",
@@ -5962,7 +5962,7 @@
    "B08FJ678YK",
    "B09GTRVJQM"
   ],
-  "status": "todo"
+  "status": "skip"
  },
  {
   "slug": "best-creality-3d-printers",
@@ -9832,7 +9832,7 @@
    "The Office Journal",
    "workcocoon"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-hepa-and-carbon-air-purifiers",
@@ -11789,7 +11789,7 @@
    "B0B9SL7894",
    "B0GXKSC38S"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-levoit-dehumidifiers",
@@ -17263,7 +17263,7 @@
    "The Office Journal",
    "workcocoon"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-smart-dehumidifiers",
@@ -20269,7 +20269,7 @@
    "B0DY4S3HP2",
    "B08HW4HX66"
   ],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-wireless-label-printers",
@@ -53883,7 +53883,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-gas-grills",
@@ -53892,7 +53892,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-portable-gas-grills",
@@ -53901,7 +53901,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-charcoal-grills",
@@ -53910,7 +53910,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-kamado-grills",
@@ -53919,7 +53919,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-flat-top-grills",
@@ -53928,7 +53928,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-outdoor-griddles",
@@ -53937,7 +53937,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-portable-pellet-grills",
@@ -53946,7 +53946,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-wifi-pellet-grills",
@@ -53955,7 +53955,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-traeger-pellet-grills",
@@ -53964,7 +53964,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-pit-boss-pellet-grills",
@@ -53973,7 +53973,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-pellet-grills-under-500",
@@ -53982,7 +53982,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-pellet-grills-under-1000",
@@ -53991,7 +53991,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-2-burner-gas-grills",
@@ -54000,7 +54000,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-3-burner-gas-grills",
@@ -54009,7 +54009,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-4-burner-gas-grills",
@@ -54018,7 +54018,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-natural-gas-grills",
@@ -54027,7 +54027,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-weber-gas-grills",
@@ -54036,7 +54036,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-gas-grills-under-300",
@@ -54045,7 +54045,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-gas-grills-under-500",
@@ -54054,7 +54054,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-portable-charcoal-grills",
@@ -54063,7 +54063,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-electric-grills",
@@ -54072,7 +54072,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-outdoor-electric-grills",
@@ -54081,7 +54081,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-blackstone-griddles",
@@ -54090,7 +54090,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-36-inch-griddles",
@@ -54099,7 +54099,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-28-inch-griddles",
@@ -54108,7 +54108,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-22-inch-griddles",
@@ -54117,7 +54117,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-portable-griddles",
@@ -54126,7 +54126,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-griddles-with-lid",
@@ -54135,7 +54135,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-grill-and-griddle-combos",
@@ -54144,7 +54144,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-camping-grills",
@@ -54153,7 +54153,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-tabletop-grills",
@@ -54162,7 +54162,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "done"
+  "status": "inprogress"
  },
  {
   "slug": "best-sump-pumps",
@@ -54486,7 +54486,7 @@
   "category": "home-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-mold",
@@ -54495,7 +54495,7 @@
   "category": "home-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-quiet-air-purifiers",
@@ -54504,7 +54504,7 @@
   "category": "home-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-basements",
@@ -54513,7 +54513,7 @@
   "category": "home-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-air-purifiers-for-workshops",
@@ -54522,7 +54522,7 @@
   "category": "shop-garage",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-machines",
@@ -54531,7 +54531,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-super-automatic-espresso-machines",
@@ -54540,7 +54540,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-machines-with-grinder",
@@ -54549,7 +54549,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-semi-automatic-espresso-machines",
@@ -54558,7 +54558,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-machines-for-beginners",
@@ -54567,7 +54567,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-machines-with-milk-frother",
@@ -54576,7 +54576,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-dual-boiler-espresso-machines",
@@ -54585,7 +54585,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-compact-espresso-machines",
@@ -54594,7 +54594,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-breville-espresso-machines",
@@ -54603,7 +54603,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-delonghi-espresso-machines",
@@ -54612,7 +54612,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-machines-under-200",
@@ -54621,7 +54621,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-machines-under-500",
@@ -54630,7 +54630,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-machines-under-1000",
@@ -54639,7 +54639,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-burr-coffee-grinders",
@@ -54648,7 +54648,7 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  },
  {
   "slug": "best-espresso-grinders",
@@ -54657,6 +54657,6 @@
   "category": "kitchen-machines",
   "source": "popmech-gap",
   "asins": [],
-  "status": "todo"
+  "status": "done"
  }
 ]

@@ -276,3 +276,19 @@ Topics from `docs/rounds/popmech-gap-topics.txt` ROUND 17: pellet grills (6), ga
 Research reused from `docs/research/grills.md` and `docs/research/griddles.md` (written from real web search in this cluster).
 3 Sonnet writers (A: grills, B: griddles and portable, C: the two under-N gas grill topics). 3,000 to 3,612 words each.
 Finish: register-dynamic + register-new on all 32 (Node 22 required for the .ts imports), mark done, `audit-guides.mjs` ok on all 32, zero full-width brackets, zero em or en dashes, zero repeated 30+ char sentences, intros spot-checked for category-level framing, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
+
+### Prefilter skips (2026-11-12)
+| Skipped slug | Reason |
+|---|---|
+| best-coway-air-purifiers | prefilter: only 1 distinct Coway unit in the data after extra searches |
+
+Three of these four were false skips from prefilter bugs, fixed in `scripts/clone/prefilter.mjs` and rewritten as inprogress: BTU sizes were matched as a brand and failed on Amazon's thousands comma ("5,000 BTU"), and the brand test failed on an apostrophe in the title ("De'Longhi"). Only best-coway-air-purifiers is a real skip.
+
+## Round 19 (PopMech gap, 2026-11-12): 29 air purifier and espresso guides
+
+Topics from `docs/rounds/popmech-gap-topics.txt` ROUND 19: air purifiers (14: main, HEPA, large rooms, bedrooms, pets, allergies, smoke, mold, quiet, smart, Levoit, Winix, basements, workshops) and espresso (15: main, super automatic, semi automatic, with grinder, for beginners, with milk frother, dual boiler, compact, Breville, De'Longhi, under $200/$500/$1000, burr coffee grinders, espresso grinders). 1 skip: best-coway-air-purifiers (only 1 Coway unit in the data).
+
+Research: `docs/research/air-purifiers.md` reused; `docs/research/espresso-machines.md` written from 3 real web searches (9 bar at the puck vs advertised pump pressure, boiler types and PID, 54 vs 58mm baskets, burr geometry).
+2 Sonnet writers (F: purifiers, G: espresso). 3,002 to 3,717 words each.
+A duplicate-sentence pass caught a filler line repeated 7 times in best-espresso-machines-under-1000 and 4 times in best-espresso-machines-under-500, plus 2 smaller repeats; the writer replaced each with product-specific prose in both the spec and the data file, so re-running finish.mjs cannot bring them back.
+Finish: register-dynamic + register-new on all 29, mark done, `audit-guides.mjs` ok, selfcheck ok, zero full-width brackets, zero em or en dashes, zero sentences of 30+ chars repeating even twice, metaTitle 29 to 48 chars and metaDescription 128 to 160 on every guide, brand guides brand-pure (Levoit 7/7, Winix 6/6, Breville 6/6, De'Longhi 6/6) and both grinder guides grinder-only, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".

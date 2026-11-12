@@ -1,0 +1,537 @@
+{
+ "guideSlug": "best-air-purifiers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "air purifiers",
+ "guideTitle": "Best Air Purifiers (2026)",
+ "metaTitle": "Best Air Purifiers, Sized by CADR (2026)",
+ "metaDescription": "Air purifiers ranked by real airflow, room size and air changes per hour, with the filter upkeep each one will demand over three years of ownership.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41i8YqmfF9L._SL500_.jpg",
+ "expertTake": "The Winix 5520 is the pick for anyone who wants a purifier sized honestly for a living room, and the Fulminare is the value pick for a bedroom. Treat every 'up to' square footage number as one air change per hour and divide it by about five before you trust it. Anyone with no particle problem at all, no pets, no allergies, no smoke, can skip the category and just keep the HVAC filter fresh.",
+ "introParagraphs": [
+  "An air purifier is a fan pulling room air through a filter, and almost every buying decision comes down to how much air that fan moves compared with the size of the room. Packaging squares the circle with a big square footage number, but the number only means something when you know the assumption behind it.",
+  "This guide ranks the units by airflow first, then by filter cost, noise and the small ownership details that decide whether a purifier is still running in year three. Read the sizing section before the product list if you only read one part."
+ ],
+ "products": [
+  {
+   "id": "B0DT4F8T4L",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Winix 5520 True HEPA with air quality monitor",
+   "amazonUrl": "https://www.amazon.com/dp/B0DT4F8T4L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41i8YqmfF9L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "AHAM at 392 sq ft",
+    "True HEPA + carbon",
+    "Air quality monitor"
+   ],
+   "specList": [
+    {
+     "label": "AHAM room size",
+     "value": "392 sq ft"
+    },
+    {
+     "label": "One air change per hour",
+     "value": "1,882 sq ft"
+    },
+    {
+     "label": "Filtration",
+     "value": "Mesh pre-filter, True HEPA, carbon"
+    },
+    {
+     "label": "Monitor",
+     "value": "Air quality display"
+    },
+    {
+     "label": "Class",
+     "value": "Large room"
+    }
+   ],
+   "description": "The Winix 5520 is the only unit in this lineup that states its coverage in a way you can check. It lists a verified room size of 392 square feet and a one-hour figure of 1,882 square feet, and the ratio between them is about 4.8, which is the number of air changes per hour you get at the honest room size. That makes it a purifier you can match to a room with a tape measure instead of a guess.\n\nThe filter stack is a mesh pre-filter, a True HEPA layer and a carbon filter for cooking and pet odor, which is the sensible order for a machine that has to live with household dust. The built-in air quality monitor drives the auto mode, so the fan idles when the room is clean and ramps up after you cook. Against the Levoit 143 CFM tower, the Winix moves well over the double the air and is aimed at a living room rather than a bedroom, so it is louder at the top speed.\n\nOwnership is a filter-replacement cycle, and the genuine True HEPA and carbon set is the recurring cost, so check the replacement price before you commit. The mesh pre-filter vacuums clean in a minute and shields the main filter from hair. Plan on a footprint close to a small trash can, with a clear foot of space around the intake.",
+   "bestFor": "Living rooms and open plan spaces up to about 390 square feet where the room is sized honestly.",
+   "pros": [
+    "States its verified room size and its one-hour figure",
+    "True HEPA plus carbon covers dust and cooking odor",
+    "Air quality monitor drives a usable auto mode",
+    "Mesh pre-filter vacuums clean and protects the HEPA layer"
+   ],
+   "cons": [
+    "Genuine replacement filters are a recurring cost",
+    "Loud at the top fan speed in a bedroom"
+   ]
+  },
+  {
+   "id": "B07VVK39F7",
+   "rank": 2,
+   "badge": "Best Balanced Tower",
+   "name": "Levoit 143 CFM Quiet HEPA tower",
+   "amazonUrl": "https://www.amazon.com/dp/B07VVK39F7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "143 CFM CADR",
+    "56W motor",
+    "Sleep mode"
+   ],
+   "specList": [
+    {
+     "label": "CADR",
+     "value": "143 CFM"
+    },
+    {
+     "label": "Motor",
+     "value": "56W"
+    },
+    {
+     "label": "Filtration",
+     "value": "Pre-filter, HEPA, carbon"
+    },
+    {
+     "label": "Verification",
+     "value": "AHAM Verifide"
+    },
+    {
+     "label": "Class",
+     "value": "Bedroom to small living room"
+    }
+   ],
+   "description": "This Levoit is the cleanest example of how CADR turns into room size. Its listing gives a 143 CFM rating, and at that airflow it moves one full room volume in an hour for a space of roughly a thousand square feet with eight-foot ceilings. For the five air changes per hour that matter to allergy sufferers, the same airflow fits a room of about 220 square feet, which is a bedroom or a home office.\n\nThe 56W motor is what lets it hold that airflow through a stack of pre-filter, HEPA and carbon, and the AHAM Verifide mark means the CADR number was set by a third party rather than the brand. Compared with the Levoit Vital 200S-P, it is the plainer machine with no app, and it costs less to own because there is nothing to connect. The sleep mode drops the fan low enough for a bedroom.\n\nYear three means a filter swap every six to twelve months and a pre-filter that you wipe, so keep the replacement set in a drawer rather than waiting for a reminder. It is a floor unit, so keep it away from curtains that restrict the intake.",
+   "bestFor": "Bedrooms and offices around 200 square feet that need verified airflow without an app.",
+   "pros": [
+    "Third party verified 143 CFM CADR number",
+    "Fits a 220 square foot room at five air changes",
+    "Sleep mode is quiet enough for a bedroom",
+    "No app or account, so nothing to break later"
+   ],
+   "cons": [
+    "Too small for open plan living areas",
+    "Filter swaps arrive every six to twelve months"
+   ]
+  },
+  {
+   "id": "B0BGPF71Q6",
+   "rank": 3,
+   "badge": "Best Smart Pick",
+   "name": "Levoit Vital 200S-P smart purifier, 27 dB sleep",
+   "amazonUrl": "https://www.amazon.com/dp/B0BGPF71Q6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/510mgrRPPIL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Up to 1,875 sq ft",
+    "27 dB sleep",
+    "AHAM Verifide"
+   ],
+   "specList": [
+    {
+     "label": "Listed coverage",
+     "value": "1,875 sq ft"
+    },
+    {
+     "label": "Sleep noise",
+     "value": "27 dB"
+    },
+    {
+     "label": "Verification",
+     "value": "AHAM Verifide"
+    },
+    {
+     "label": "Control",
+     "value": "App and voice"
+    },
+    {
+     "label": "Positioning",
+     "value": "Allergy focused"
+    }
+   ],
+   "description": "The Vital 200S-P is Levoit's allergy-oriented larger unit, and its listing leads with a 27 dB sleep figure and a coverage claim of up to 1,875 square feet. As with every 'up to' figure, that is the one-air-change-per-hour version of coverage, so divide by about five and you land near 375 square feet for allergy-grade cleaning. That is still a big bedroom or a small living room.\n\nIt is a smart machine, so schedules, sensor readings and voice control live in an app, and the useful part of that is the auto mode that follows the particle sensor. The Levoit 143 CFM tower is the machine to choose if you want no app, and the Vital 200S-P is the one to choose if you want the fan to follow the room without any hand adjustment.\n\nOwnership detail is the filter price and the app dependence: the unit still runs when the app is unavailable, but the schedule features need the connection. Wipe the intake grille and clear the sensor window every few months so the auto mode keeps reading true.",
+   "bestFor": "Bedrooms and living rooms where a sensor driven auto mode and a very quiet sleep mode matter.",
+   "pros": [
+    "27 dB sleep figure suits light sleepers",
+    "AHAM Verifide airflow rating from a third party",
+    "Auto mode follows the particle sensor",
+    "App schedules and voice control for hands-off use"
+   ],
+   "cons": [
+    "The up-to figure overstates allergy-grade coverage",
+    "Smart features depend on the app connection"
+   ]
+  },
+  {
+   "id": "B0DCBC8KKV",
+   "rank": 4,
+   "badge": "Best for Big Rooms",
+   "name": "MOOKA PR1 H13 HEPA, pet mode, 26 dB",
+   "amazonUrl": "https://www.amazon.com/dp/B0DCBC8KKV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/516Q3qcYzqL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Up to 2,200 sq ft",
+    "H13 True HEPA",
+    "26 dB"
+   ],
+   "specList": [
+    {
+     "label": "Listed coverage",
+     "value": "2,200 sq ft"
+    },
+    {
+     "label": "Filter grade",
+     "value": "H13 True HEPA"
+    },
+    {
+     "label": "Sleep noise",
+     "value": "26 dB"
+    },
+    {
+     "label": "Sensor",
+     "value": "PM2.5 with display"
+    },
+    {
+     "label": "Mode",
+     "value": "Pet mode"
+    }
+   ],
+   "description": "MOOKA's PR1 is the largest claim in the lineup that still comes with an H13 True HEPA filter, a PM2.5 sensor and a display. Its 2,200 square foot listing is the one-air-change figure, which puts the realistic allergy-grade room nearer 440 square feet, similar to the Winix 5520 at its verified 392. The extra headroom is useful because it lets the fan sit on a lower, quieter speed in a large room.\n\nThe pet mode raises the fan after a spike in particles, and the sensor display gives you a number to watch rather than a light color to interpret. The brand is newer than Levoit and Winix, and the airflow number here is the brand's own listing claim, so give it less trust than the verified figures on the Winix and Levoit.\n\nYear-three ownership depends on how easy the replacement filter is to find, so confirm availability before you buy. Keep the intake clear of walls and vacuum the pre-stage if it is accessible.",
+   "bestFor": "Large living rooms that need headroom so the fan can run on a lower speed.",
+   "pros": [
+    "H13 True HEPA with a PM2.5 display",
+    "Large headroom lets the fan run slower",
+    "Pet mode reacts to particle spikes",
+    "26 dB sleep figure on the listing"
+   ],
+   "cons": [
+    "Airflow is a brand claim, not a verified rating",
+    "Newer brand with a shorter parts track record"
+   ]
+  },
+  {
+   "id": "B0B4ZSKPNL",
+   "rank": 5,
+   "badge": "Best Value",
+   "name": "FULMINARE H13 HEPA bedroom purifier, 20 dB",
+   "amazonUrl": "https://www.amazon.com/dp/B0B4ZSKPNL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414NIpA+xLL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Up to 1,086 sq ft",
+    "H13 HEPA",
+    "20 dB"
+   ],
+   "specList": [
+    {
+     "label": "Listed coverage",
+     "value": "1,086 sq ft"
+    },
+    {
+     "label": "Filter grade",
+     "value": "H13 HEPA"
+    },
+    {
+     "label": "Noise",
+     "value": "20 dB lowest"
+    },
+    {
+     "label": "Airflow design",
+     "value": "Dual-channel, 360 degree outlet"
+    },
+    {
+     "label": "Class",
+     "value": "Bedroom"
+    }
+   ],
+   "description": "The Fulminare is the cheapest machine in this comparison and it is honest about its class: a bedroom unit with an H13 HEPA filter and a 1,086 square foot one-change claim, which translates to roughly 215 square feet at five changes per hour. That fits a bedroom or a nursery and no more.\n\nIt uses a dual-channel design with a 360 degree outlet to spread air around the room, and the 20 dB figure is quoted at the lowest speed, which is the speed you would use at night and not the one that clears a room after cooking. Next to the VOOPNU or the Levoit units it is the most affordable way in, with the compromise that the airflow number is a brand claim.\n\nYear three is about the filter, so confirm the genuine replacement is available before buying. Keep the intake clear of curtains and furniture. Because the unit is small, a bedroom with a closed door is the setting where it performs closest to its rating.",
+   "bestFor": "Small bedrooms where low cost and low noise matter more than verified airflow.",
+   "pros": [
+    "Lowest cost in the comparison",
+    "H13 HEPA grade filter on a small unit",
+    "Dual-channel design spreads air widely",
+    "20 dB at the lowest speed suits sleep"
+   ],
+   "cons": [
+    "Brand-claimed airflow, not third-party verified",
+    "Only suits rooms near 215 square feet"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "CADR, not square footage",
+   "explanation": "CADR is the filtered airflow in cubic feet per minute that AHAM measures at the highest speed, and it is the only number that you can compare across brands. One air change per hour needs CADR equal to room volume divided by 60, so a 143 CFM unit moves one volume of a roughly 1,070 square foot room each hour with eight-foot ceilings. Buyers who size by the box number end up with a machine one fifth as effective as they imagine. The Levoit 143 CFM tower and the Winix 5520 both publish numbers you can use."
+  },
+  {
+   "criterion": "Air changes per hour target",
+   "explanation": "For allergy, smoke or pet use you want about four to five air changes per hour, not one. Take the maker's up-to figure and divide it by about five, which turns the Winix 5520 from 1,882 into roughly 376 square feet and the MOOKA PR1 from 2,200 into about 440. Higher ceilings cut the effective coverage in proportion, so a nine-foot ceiling means a smaller real room. Always choose a unit one size larger than the minimum."
+  },
+  {
+   "criterion": "Verified versus claimed numbers",
+   "explanation": "AHAM Verifide on the listing means the airflow was set by a third party testing program. The Winix 5520 and the Levoit Vital 200S-P carry it, while the Fulminare and the MOOKA PR1 present brand-stated figures. A brand-claimed number is not false, but it has no independent check, so build in a margin of about twenty percent when the room is near the limit."
+  },
+  {
+   "criterion": "Filter grade and the HEPA label",
+   "explanation": "True HEPA captures 99.97 percent of 0.3 micron particles, and an H13 label is a European grade that points to the same class. Terms like HEPA-type or HEPA-like are marketing and promise nothing. Both the Fulminare and the MOOKA PR1 list H13, and the Winix lists True HEPA, which is the wording to look for."
+  },
+  {
+   "criterion": "Noise at the speed you will use",
+   "explanation": "A noise figure is quoted at the lowest speed, and the top speed is far louder. A large-room unit with plenty of CADR can run at a low speed all day, which is why oversizing helps. The Fulminare quotes 20 dB at its lowest speed, and the Levoit Vital 200S-P quotes 27 dB in sleep mode, and neither number describes the fan at full power."
+  },
+  {
+   "criterion": "Cost of the replacement filter",
+   "explanation": "The filter is the real price of ownership and it repeats every six to twelve months. A cheap purifier with an expensive proprietary filter costs more over three years than a dearer machine with a reasonable one. Check the genuine replacement for the Winix 5520 and the Levoit tower before you buy, and avoid models where the filter is unavailable."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CADR",
+   "meaning": "Clean air delivery rate is the airflow through the filter in cubic feet per minute at the top speed. It is how fast a machine cleans, not how well the filter captures.",
+   "watchFor": "Compare the Levoit 143 CFM figure to any unit that gives only square footage."
+  },
+  {
+   "spec": "Up to X sq ft",
+   "meaning": "The largest room the machine can turn over once an hour. It is a ceiling, not a recommendation.",
+   "watchFor": "Divide the MOOKA PR1's 2,200 by five to see its allergy-grade room."
+  },
+  {
+   "spec": "AHAM Verifide",
+   "meaning": "A third party verification of the airflow claims in the listing. It means the number was not set by the brand alone.",
+   "watchFor": "The Winix 5520 and Levoit Vital 200S-P carry it, while the Fulminare does not."
+  },
+  {
+   "spec": "H13 / True HEPA",
+   "meaning": "Both point at a filter that captures 99.97 percent of 0.3 micron particles. The vague HEPA-type wording is not a grade.",
+   "watchFor": "Look for the explicit grade on the FULMINARE and the MOOKA listings."
+  },
+  {
+   "spec": "dB (sleep mode)",
+   "meaning": "Sound at the quietest setting, usually the lowest fan speed. The highest speed is much louder.",
+   "watchFor": "Treat the Vital 200S-P's 27 dB as a night figure, not a working figure."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Airflow versus room size",
+   "description": "We started from the CADR or the one-hour coverage figure and converted each to an allergy-grade room using about five air changes per hour. The Winix 5520 at 392 verified square feet and the Fulminare near 215 are the two ends of the lineup. A unit that could not be matched to a room was ranked lower."
+  },
+  {
+   "title": "Verification of claims",
+   "description": "We favored numbers backed by AHAM Verifide, and treated brand-only airflow figures as claims. This is a spec-sheet evaluation, not a lab run. Each unit's listing was read for the grade of filter and the form of the coverage claim."
+  },
+  {
+   "title": "Filter stack and upkeep",
+   "description": "We looked at the order of pre-filter, HEPA and carbon, whether the pre-filter is washable or vacuumable, and how the replacement cycle is described. A washable or cleanable first stage extends the main filter and lowers running cost."
+  },
+  {
+   "title": "Noise and sleep use",
+   "description": "We compared the quietest speed claims, from 20 dB on the Fulminare to 27 dB on the Vital 200S-P. We weighed these by room class, because a quiet claim on a unit too small for the room says little."
+  },
+  {
+   "title": "Ownership and platform",
+   "description": "We considered app dependence, parts availability and the difference between the plain Levoit tower and the app-led Vital 200S-P. The lineup spans a verified 143 CFM unit to claimed 2,200 square foot machines, so we weighted the brand's track record for filter supply."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room Size",
+   "intro": "Room size at about five air changes per hour, with eight-foot ceilings.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Bedroom near 200 square feet",
+      "Levoit 143 CFM tower",
+      "143 CFM fits about 220 square feet at five changes"
+     ],
+     [
+      "Small bedroom or nursery",
+      "FULMINARE H13",
+      "1,086 square foot claim is about 215 at five changes"
+     ],
+     [
+      "Living room near 390 square feet",
+      "Winix 5520",
+      "Verified at 392 square feet"
+     ],
+     [
+      "Large open plan near 440 square feet",
+      "MOOKA PR1",
+      "2,200 claim leaves headroom"
+     ],
+     [
+      "Bedroom with sensor automation",
+      "Levoit Vital 200S-P",
+      "Particle sensor drives the fan"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Relative tiers inside this comparison.",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "FULMINARE H13",
+      "Cheapest in the lineup, bedroom class"
+     ],
+     [
+      "Mid range",
+      "Levoit 143 CFM tower",
+      "Verified airflow without an app"
+     ],
+     [
+      "Upper mid",
+      "MOOKA PR1",
+      "Large-room claim with H13 and display"
+     ],
+     [
+      "Premium here",
+      "Winix 5520",
+      "Verified sizing with monitor and carbon"
+     ],
+     [
+      "Smart premium",
+      "Levoit Vital 200S-P",
+      "App, voice and sensor"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Verified vs Claimed Airflow",
+   "cards": [
+    {
+     "label": "Verified (AHAM Verifide)",
+     "text": "The Winix 5520 and the Levoit Vital 200S-P give you a number set by a third party. The Levoit 143 CFM tower sits here too. You can size a room with confidence."
+    },
+    {
+     "label": "Brand claimed",
+     "text": "The FULMINARE and MOOKA PR1 give a coverage figure from the maker. Keep a twenty percent margin and expect to run them on the higher speed in a room near their limit."
+    }
+   ],
+   "note": "Choose verified if the room is near the unit's limit, and accept claimed numbers when you have a large margin."
+  },
+  {
+   "subheading": "Secondary Axis: App or No App",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No app, no account",
+      "Levoit 143 CFM tower",
+      "Plain controls and a sleep mode"
+     ],
+     [
+      "Display, no app",
+      "MOOKA PR1",
+      "PM2.5 reading on the unit"
+     ],
+     [
+      "App and voice",
+      "Levoit Vital 200S-P",
+      "Schedules and sensor automation"
+     ],
+     [
+      "Monitor on the unit",
+      "Winix 5520",
+      "Air quality display drives auto mode"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sleeping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A quiet figure quoted at the lowest speed and enough CADR that you never need the top speed. A bedroom near 200 square feet needs about 140 CFM."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Levoit 143 CFM tower and the Fulminare at 20 dB suit sleep, and the Vital 200S-P adds a 27 dB sleep mode with a sensor."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your room is near the unit's limit, you need verified airflow, or you want the Winix 5520's monitor and carbon stage for cooking odors."
+    },
+    {
+     "label": "Save if",
+     "text": "The room is a small bedroom and you can accept a brand-claimed number, which is where the Fulminare earns its place."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Vacuum or wipe the pre-filter",
+   "interval": "Every 2 to 4 weeks",
+   "why": "Hair and lint block the intake and force the fan to work harder. A clean pre-filter keeps the HEPA layer cleaner for longer."
+  },
+  {
+   "task": "Replace the main filter",
+   "interval": "Every 6 to 12 months",
+   "why": "A loaded HEPA layer restricts airflow and the delivered CADR falls. Replace on the interval in the manual, not when the filter looks dirty."
+  },
+  {
+   "task": "Clean the sensor window",
+   "interval": "Every 3 months",
+   "why": "Dust on the particle sensor skews the auto mode. A soft dry brush restores the reading."
+  },
+  {
+   "task": "Check clearance around the intake",
+   "interval": "Monthly",
+   "why": "Curtains and walls choke the intake. Leave about a foot of free space."
+  },
+  {
+   "task": "Replace the carbon stage",
+   "interval": "Per manual",
+   "why": "Carbon saturates and stops adsorbing odors even when it looks fine. Thin carbon sheets go first."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I choose between a small and a large purifier?",
+   "a": "Calculate the room's square footage, multiply by eight for volume at standard ceilings, and aim for four to five air changes per hour. A larger machine can run on a low, quiet speed, so oversizing is usually the better choice."
+  },
+  {
+   "q": "Are cheap purifiers worth it?",
+   "a": "They can be, if the room is small and the filter is easy to buy. The Fulminare is the low-cost bedroom option here, with the trade that its airflow is a brand claim."
+  },
+  {
+   "q": "How long do filters last?",
+   "a": "Plan on six to twelve months for the main filter, depending on dust load and use hours. A washable or vacuumable pre-filter stretches that interval."
+  },
+  {
+   "q": "Does a higher square footage mean better filtration?",
+   "a": "No. Square footage reflects airflow, and filtration quality depends on the filter grade. A big number on a poor filter cleans fast and poorly."
+  },
+  {
+   "q": "Is an ozone-producing ionizer safe?",
+   "a": "Ionizers can emit ozone, so look for an explicit low-ozone statement or CARB certification, and keep them off around pet birds. A plain filter machine avoids the question."
+  },
+  {
+   "q": "Where should I put the purifier?",
+   "a": "Put it where the intake has about a foot of open space, away from corners and curtains. Central placement in the room works better than a wall."
+  }
+ ],
+ "relatedGuides": []
+}

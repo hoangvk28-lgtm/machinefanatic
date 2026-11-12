@@ -1,0 +1,19 @@
+# Tankless water heaters research
+- Sizing needs two numbers: peak simultaneous flow in GPM and the temperature rise (target hot temp minus winter incoming water temp).
+- Typical incoming water: about 40 to 45 F in cold climates, 50 to 55 F temperate, 60 to 70 F warm; size on the winter figure.
+- Colder inlet reduces deliverable flow: one unit rated 6.5 GPM at a 45 F rise delivers about 4.5 GPM at a 77 F rise.
+- Electric load formula: kW = GPM x 500 x temperature rise / 3,412; 3 GPM at a 78 F rise needs about 34 kW.
+- Amperage is roughly kW x 1000 / voltage; a 36 kW unit on 240 V draws about 150 A, so whole house electrics often need multiple 40 to 60 A breakers and a 200 A panel.
+- A 24 kW whole house electric draws about 100 A and needs about 150 A service in one maker's guidance; panel upgrades can be a large added cost.
+- Small point-of-use electrics (about 3 to 5 kW on 120 V or 3 to 7 kW on 240 V) serve a single sink and give roughly 0.5 to 1.5 GPM of useful rise.
+- Gas tankless units are rated in BTU/h input and GPM at a stated rise; 140,000 to 199,000 BTU/h units are typical whole house sizes.
+- Non-condensing gas units run hot exhaust and need stainless or metal venting; condensing units extract more heat, vent in PVC, and need a condensate drain.
+- Condensing units cost more upfront but venting and efficiency differences can offset it; ideal location is near an outside wall.
+- Gas supply line size matters: a tankless often needs a larger gas line than the tank heater it replaces.
+- Propane versions need a different orifice or conversion kit and the right regulator; BTU output per gallon differs from natural gas.
+- Outdoor models mount on an exterior wall and avoid indoor venting, but need freeze protection in cold climates; many have built in heaters for the water path, which only work with power.
+- Hard water scale reduces heat transfer and flow; annual descaling by circulating vinegar or descaling solution through the service valves is the standard routine.
+- Maintenance also includes cleaning the inlet water filter screen.
+- Tankless units have minimum activation flow, often about 0.25 to 0.5 GPM; very low flows can cause cold water sandwich effects.
+- Gas units need an annual service by a qualified technician; vent and combustion safety must be installed to code.
+- Expected life is commonly cited around 15 to 20 years with maintenance.

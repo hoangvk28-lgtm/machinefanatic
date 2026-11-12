@@ -1,0 +1,22 @@
+# Air conditioners research (window, portable, through-the-wall, mini split)
+- Sizing baseline is about 20 BTU per square foot of living space at an 8 ft ceiling; some calculators start at 30, so treat it as a range.
+- Ceiling above 8 ft adds load: roughly 5% per extra foot, or 10 to 12% at 9 ft and 15 to 25% at 10 ft.
+- Strong direct sun adds about 10%; a south facing wall of single pane glass can nearly double the load of a normal room.
+- Kitchens need about 4,000 extra BTU for appliance heat; extra occupants and humid climates also raise the need.
+- Oversizing is a mistake: a unit that satisfies the thermostat too fast short cycles and leaves the room clammy.
+- Manual J is the proper load calculation for whole house and mini split work.
+- Portable ACs carry a DOE SACC (Seasonally Adjusted Cooling Capacity) rating, introduced around 2017, that is lower than the ASHRAE marketing BTU. A 14,000 BTU ASHRAE unit may deliver 9,000 to 10,000 SACC.
+- Dual hose portables typically rate higher SACC than single hose at the same nominal size, roughly 9,000 to 10,000 versus 7,000 to 8,500 in one comparison.
+- Mechanism: single hose pulls room air to cool the condenser and exhausts it, creating negative pressure that draws warm air in from gaps; dual hose uses outside air for the condenser.
+- Efficiency savings claimed for dual hose (20 to 40%) are vendor claims, not independent measurements; say "less infiltration" rather than quote a percent.
+- Inverter compressors modulate speed instead of cycling on and off, giving a lower noise floor and steadier room temperature.
+- Quiet window units list roughly 40 to 45 dB for inverter U-shaped designs versus about 50 to 55 dB for conventional 5,000 to 6,000 BTU units.
+- Above 55 dB most people report sleep disturbance; manufacturers usually rate dB on the lowest fan setting, so real sound is higher when the compressor runs.
+- U-shaped window units put the compressor outside the sash, with the window closing on a narrow section, which reduces indoor noise.
+- Window units need a stable sash and a support bracket; through-the-wall units need a framed wall sleeve and cannot be dropped into a window without an adapter.
+- Through-the-wall units are usually 14,000+ BTU capable, use a metal sleeve, and the sleeve size must match the existing opening.
+- Window units with heat use electric resistance strips or a reverse cycle; resistance heat is expensive per BTU compared with a heat pump.
+- DIY mini splits use pre-charged line sets with quick-connect fittings so no vacuum pump or refrigerant handling is needed; the line set length is limited by the charge.
+- Standard mini splits require a licensed technician for refrigerant handling and vacuuming in most jurisdictions.
+- Mini split efficiency is rated by SEER2 and HSPF2; 115V 9,000 to 12,000 BTU units fit a standard circuit but check breaker size.
+- Condensate drains: window units drip outside, portables often self evaporate in dry air but need a drain in humid rooms.

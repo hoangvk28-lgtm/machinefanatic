@@ -1,0 +1,20 @@
+# Espresso machines and grinders research (web search, 2026-11)
+- Brew target is about 9 bar at the puck. A 15 or 20 bar figure on a box is the vibratory pump's maximum against a blocked system, not brew pressure.
+- An overpressure valve (OPV) diverts excess water back to the tank, so the puck sees roughly 9 bar; cheap machines often omit a good OPV or tune it loosely.
+- Gauge reading can differ from real puck pressure; tubing friction can cost around 1 bar.
+- Gaggia owners can swap the OPV spring to lower brew pressure; this is a known mod.
+- Thermoblock: heats water on demand, fast warm-up, quick switch between brew and steam, but less thermal mass so temperature swings more.
+- Single boiler: better thermal stability and steam than thermoblock, but you wait between brewing and steaming (temperature surfing or cooldown flush).
+- Heat exchanger: one boiler at steam temperature with a tube for brew water; brews and steams together, needs a cooling flush.
+- Dual boiler: separate brew and steam boilers; brew and steam simultaneously, independent PID, the prosumer standard.
+- PID is a temperature controller that can sit on any boiler type; on a thermoblock it still fluctuates more than on a boiler.
+- Pressurized (dual wall) baskets add a restrictor hole so pressure builds regardless of grind; forgiving for beginners and pre-ground coffee or ESE pods, but crema is artificial and extraction is capped.
+- Non-pressurized baskets need the puck to create resistance; target grind roughly 150 to 250 microns, needs a capable grinder.
+- Common portafilter sizes: 54mm (Breville Barista Express class) and 58mm (commercial standard, more accessory choice). Dose 16 to 19 g in a double basket, 18 to 22 g in a bottomless/triple.
+- Grinder matters more than the machine for espresso: a good grinder on a modest machine beats the reverse.
+- Stepped grinders offer repeatable known settings; stepless gives infinite fine control. Step count matters; burr quality and size matter more than stepped vs stepless.
+- Conical vs flat: flat is said to give clarity, conical body and tolerance; differences are partly anecdotal.
+- Beans do best roughly 4 to 14 days off roast; stale beans make flat, fast shots.
+- Beginner mistakes: grinding too coarse (sour, fast), too fine (bitter, choked), no scale for dose, stale beans, skipping preheat of portafilter and cup, not purging steam wand.
+- Super-automatics grind, dose, tamp and brew internally; convenient but pressure and temperature are fixed and brew-unit cleaning matters.
+- Descaling and backflushing keep boilers and group seals healthy; hard water is the main killer of small machines.

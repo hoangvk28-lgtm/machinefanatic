@@ -18,6 +18,8 @@ const UNIT = {
   ton: (n) => new RegExp(`(?<![\\d.])\\b${n}\\s?-?\\s?(ton|t\\b)`, "i"),
   psi: (n) => new RegExp(`(?<![\\d.])\\b${n.replace(/(\d)(?=(\d{3})+$)/g, "$1,?")}\\s?(max\\s)?psi`, "i"),
   gallon: (n) => new RegExp(`\\b${n}\\s?-?\\s?(gallon|gal\\b)`, "i"),
+  // Amazon writes BTU with a thousands comma ("5,000 BTU"), so the comma is optional here.
+  btu: (n) => new RegExp(`(?<![\\d.])\\b${n.replace(/(\d)(?=(\d{3})+$)/g, "$1,?")}\\s?-?\\s?btu`, "i"),
 };
 // Head noun of the machine, e.g. "log-splitters" -> /splitter/, "lawn-edgers" -> /edger/.
 function nounRe(slug) {
@@ -25,13 +27,15 @@ function nounRe(slug) {
   return new RegExp(w.slice(0, Math.max(4, w.length - 1)), "i");
 }
 function constraint(slug, items) {
-  const m = slug.match(/^best-(\d+(?:-\d)?)-?(inch|v|ton|psi|gallon)\b/);
+  const m = slug.match(/^best-(\d+(?:-\d)?)-?(inch|v|ton|psi|gallon|btu)\b/);
   if (m) { const n = m[1].replace("-", "\\.?"); return { label: `${m[1].replace("-", ".")} ${m[2]}`, test: (t) => UNIT[m[2]](n).test(t) }; }
   const first = slug.replace(/^best-/, "").split("-")[0];
   const brands = new Set(items.map((i) => (i.brand || "").toLowerCase().replace(/[^a-z]/g, "")));
   if ([...brands].some((b) => b && b.startsWith(first.replace(/[^a-z]/g, "")))) {
     const re = new RegExp(`\\b${first.replace(/-/g, "[- ]?")}`, "i");
-    return { label: `brand ${first}`, test: (t, i) => re.test(t) || re.test(i.brand || "") };
+    // Brands often carry an apostrophe in the listing title ("De'Longhi", "De’Longhi"): compare without it.
+    const noApos = (s) => String(s || "").replace(/['‘’ʼ]/g, "");
+    return { label: `brand ${first}`, test: (t, i) => re.test(noApos(t)) || re.test(noApos(i.brand)) };
   }
   return null; // generic topic (e.g. all-wheel-drive): leave the judgement to the writer
 }

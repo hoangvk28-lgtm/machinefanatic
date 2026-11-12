@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-quiet-portable-air-conditioners",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best quiet portable air conditioners",
+ "guideTitle": "Best Quiet Portable Air Conditioners (2026)",
+ "metaTitle": "Best Quiet Portable Air Conditioners (2026)",
+ "metaDescription": "Six quieter portable air conditioners compared on compressor design, inverter control, DOE capacity and noise claims, so a bedroom unit stays calm.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Midea Duo 14,000 BTU inverter is the best pick for a large quiet room because its variable-speed compressor and 12,000 BTU SACC rating mean it rarely runs flat out. The DREO 318S 8,000 BTU is the pick for a small bedroom when you want a compact unit with noise isolation. If you are a light sleeper, skip portables and look at a window inverter or a mini split, since the compressor sits in the room with a portable.",
+ "introParagraphs": [
+  "Portable air conditioners are the noisiest way to cool a room, because the compressor, the fans and the condenser all sit a few feet from you. Quiet models fight that with inverter compressors that avoid hard starts, insulation around the compressor and fans that turn slower.",
+  "A decibel number on the box only tells part of the story. It is measured at the quietest setting, and the real sound depends on the compressor type and on how often the unit cycles. Judge the design, then the number."
+ ],
+ "products": [
+  {
+   "id": "B0DDBYD47T",
+   "badge": "Best Overall",
+   "name": "Midea Duo 14,000 BTU Inverter Portable AC, 12,000 SACC, 550 sq ft",
+   "specs": [
+    "14,000 BTU ASHRAE",
+    "12,000 BTU SACC",
+    "Inverter",
+    "550 sq ft"
+   ],
+   "specList": [
+    {
+     "label": "Marketing capacity",
+     "value": "14,000 BTU ASHRAE"
+    },
+    {
+     "label": "DOE capacity",
+     "value": "12,000 BTU SACC"
+    },
+    {
+     "label": "Compressor",
+     "value": "Variable-speed inverter"
+    },
+    {
+     "label": "Hose design",
+     "value": "Hose-in-hose dual duct"
+    },
+    {
+     "label": "Coverage",
+     "value": "Up to 550 sq ft"
+    }
+   ],
+   "description": "Midea's Duo pairs a variable-speed inverter with a hose-in-hose design that brings outdoor air to the condenser and sends heat back out in one duct. The inverter is what makes it quiet: instead of starting at full power and shutting off, the compressor ramps up, then slows to hold the room temperature.\n\nIts 12,000 BTU SACC rating means it has real capacity for a 550 square foot room, so it spends more time at partial load, which is the quiet part of the curve. Against the DREO 515S it has more capacity and a hose-in-hose layout, and against the LG 6,000 BTU it is a much larger unit.\n\nOwnership is the portable routine of condensate care and filter washing, plus keeping the thick duct short and straight. It is a heavy, bulky unit, so confirm the floor space and the path into the room before ordering. A practical trick is to run it on its sleep setting from the start of the evening, because an inverter that has already pulled the room down to temperature spends the night at its lowest speed.",
+   "bestFor": "A large bedroom or living room up to 550 square feet where quiet matters.",
+   "pros": [
+    "Inverter compressor ramps instead of hard starting",
+    "12,000 BTU SACC leaves headroom for quiet partial load",
+    "Hose-in-hose design cuts room-air infiltration",
+    "Covers up to 550 square feet"
+   ],
+   "cons": [
+    "High price tier",
+    "Thick duct is stiff to route",
+    "Heavy and bulky in the room"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DDBYD47T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/314l32eptYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F3HRSN8B",
+   "badge": "Best Noise Isolation",
+   "name": "DREO 515S 12,000 BTU Portable AC, 8,000 DOE, Drainage-Free",
+   "specs": [
+    "12,000 BTU ASHRAE",
+    "8,000 BTU DOE",
+    "Noise isolation",
+    "Smart app"
+   ],
+   "specList": [
+    {
+     "label": "Marketing capacity",
+     "value": "12,000 BTU ASHRAE"
+    },
+    {
+     "label": "DOE capacity",
+     "value": "8,000 BTU"
+    },
+    {
+     "label": "Noise design",
+     "value": "Patented noise isolation system"
+    },
+    {
+     "label": "Throw",
+     "value": "Up to 16 ft"
+    },
+    {
+     "label": "Drainage",
+     "value": "Drainage-free cooling"
+    }
+   ],
+   "description": "DREO's 515S lists 12,000 BTU ASHRAE and 8,000 BTU DOE with a patented noise isolation system that, according to the listing, reduces the sound of the standing compressor. It also claims drainage-free cooling and an air throw of up to 16 feet.\n\nThe noise isolation is the feature to evaluate. The company does not publish a decibel figure in the data, so the claim is about design, not a number you can compare. Its 8,000 DOE capacity places it in the bedroom to medium-room class, close to the BLACK+DECKER 12,000 BTU in real cooling but with a quiet focus.\n\nOwnership is routine. Drainage-free does not mean never, since very humid weather can still fill the pan, so keep a drain path. As a newer brand, keep your proof of purchase and check the warranty length. Set it on a firm, level floor rather than a rug, since a soft surface lets the cabinet vibrate and can undo some of the isolation the design provides.",
+   "bestFor": "A bedroom of 300 to 400 square feet where compressor noise is the main complaint.",
+   "pros": [
+    "Noise isolation system around the compressor",
+    "8,000 BTU DOE capacity",
+    "Drainage-free cooling design",
+    "Throw up to 16 feet"
+   ],
+   "cons": [
+    "No decibel figure in the data",
+    "Drainage-free has limits in humid weather",
+    "Newer brand with a shorter record"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3HRSN8B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31RDqP0XCfL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DYDRXDG3",
+   "badge": "Best Compact Bedroom Pick",
+   "name": "DREO 318S 8,000 BTU Portable AC, 5,000 DOE, Drainage-Free",
+   "specs": [
+    "8,000 BTU ASHRAE",
+    "5,000 BTU DOE",
+    "Drainage-free",
+    "Smart app"
+   ],
+   "specList": [
+    {
+     "label": "Marketing capacity",
+     "value": "8,000 BTU ASHRAE"
+    },
+    {
+     "label": "DOE capacity",
+     "value": "5,000 BTU"
+    },
+    {
+     "label": "Throw",
+     "value": "Up to 14 ft"
+    },
+    {
+     "label": "Modes",
+     "value": "Cool, fan, dry"
+    },
+    {
+     "label": "Drainage",
+     "value": "Drainage-free cooling"
+    }
+   ],
+   "description": "The 318S is the small DREO, with 8,000 BTU ASHRAE and 5,000 BTU DOE ratings, an air throw of up to 14 feet and cool, fan and dry modes. The small size makes it a bedroom unit, and the smart app adds timers and schedules.\n\nReal capacity is modest, so it fits a bedroom up to about 250 square feet. In that room it will run longer at low speed, which is where it is quietest. Compared with the 515S it has about two-thirds of the capacity and a smaller footprint, and compared with the LG it matches in size with a similar DOE rating.\n\nOwnership includes condensate care, filter washing and checking the window kit. Do not try to cool a room much bigger than it was designed for, because a small unit at full speed is neither quiet nor effective. If your bedroom is larger than the unit is meant for, the answer is a bigger unit, not a longer runtime, because a small portable pushed hard is the loudest option available.",
+   "bestFor": "A small bedroom or office up to about 250 square feet.",
+   "pros": [
+    "Compact footprint",
+    "5,000 BTU DOE rating suits a small room",
+    "Drainage-free design",
+    "Smart app with timers"
+   ],
+   "cons": [
+    "Limited capacity for larger rooms",
+    "No decibel figure in the data",
+    "Newer brand"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DYDRXDG3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31XoXjXBtuL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GY9GBHLP",
+   "badge": "Best Compact Brand",
+   "name": "LG 6,000 BTU DOE Portable AC with Wi-Fi, 250 sq ft",
+   "specs": [
+    "6,000 BTU DOE",
+    "8,000 BTU ASHRAE",
+    "Wi-Fi and remote",
+    "250 sq ft"
+   ],
+   "specList": [
+    {
+     "label": "DOE capacity",
+     "value": "6,000 BTU"
+    },
+    {
+     "label": "Marketing capacity",
+     "value": "8,000 BTU ASHRAE"
+    },
+    {
+     "label": "Coverage",
+     "value": "Up to 250 sq ft"
+    },
+    {
+     "label": "Control",
+     "value": "Wi-Fi and remote"
+    },
+    {
+     "label": "Mobility",
+     "value": "Rolling casters"
+    }
+   ],
+   "description": "LG lists 6,000 BTU DOE and 8,000 BTU ASHRAE, with coverage up to 250 square feet, Wi-Fi, a remote and built-in rolling casters. The listing describes it as compact and quiet.\n\nIts 6,000 DOE is a bit above the DREO 318S at 5,000, so for a small bedroom it has more real capacity, and the LG name brings a wider service network than the smaller portable brands. It does not state a decibel figure in the data, so judge the quiet claim as a design intent.\n\nOwnership is the usual routine. The casters make it easy to move, and the compact body fits beside a bed. Keep the window kit sealed and the filter clean. It also pairs well with a bedside fan on low, which lets you set the portable a degree warmer and keeps its compressor at the quiet end of its range.",
+   "bestFor": "A bedroom up to 250 square feet where a known brand is preferred.",
+   "pros": [
+    "6,000 BTU DOE for a compact unit",
+    "Wi-Fi and remote control",
+    "Rolling casters for easy moves",
+    "LG service network"
+   ],
+   "cons": [
+    "Limited coverage at 250 square feet",
+    "No decibel figure in the data",
+    "Single unit capacity does not suit large rooms"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GY9GBHLP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21iUDfynICL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GYF65P1T",
+   "badge": "Best Published dB",
+   "name": "DREO 14,000 BTU Inverter Dual-Hose Portable AC, 42 dB",
+   "specs": [
+    "14,000 BTU ASHRAE",
+    "10,000 BTU DOE",
+    "42 dB",
+    "Dual hose inverter"
+   ],
+   "specList": [
+    {
+     "label": "Marketing capacity",
+     "value": "14,000 BTU ASHRAE"
+    },
+    {
+     "label": "DOE capacity",
+     "value": "10,000 BTU"
+    },
+    {
+     "label": "Quiet figure",
+     "value": "42 dB"
+    },
+    {
+     "label": "Hose design",
+     "value": "Dual hose"
+    },
+    {
+     "label": "Compressor",
+     "value": "Inverter"
+    }
+   ],
+   "description": "This DREO is the one unit here that publishes both a decibel number, 42 dB, and a full dual-hose inverter design, with 14,000 BTU ASHRAE and 10,000 BTU DOE. The dual hose avoids drawing room air out, and the inverter smooths cycling, which together help the unit run at partial load.\n\nThe 42 dB figure is measured at the quietest setting, so expect more sound when the unit is working hard. Against the Midea Duo it has less real capacity and a more conventional two-hose layout, and against the DREO 515S it publishes a number while the 515S describes a design.\n\nOwnership is the usual routine of condensate care, filter washing and a sealed window kit. Use sleep mode at night so the fan stays at its lowest speed. If you hear a rattle, check the hose connectors and the window panel first, since loose plastic parts are a more common source than the compressor.",
+   "bestFor": "A bedroom or medium room where a stated 42 dB figure matters.",
+   "pros": [
+    "Published 42 dB figure",
+    "10,000 BTU DOE capacity",
+    "Inverter and dual hose",
+    "Smart app control"
+   ],
+   "cons": [
+    "The 42 dB figure applies to the quietest setting",
+    "Newer brand",
+    "Two hoses to route and seal"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GYF65P1T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31AtD2nF+7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GJZKWRCG",
+   "badge": "Best Value Inverter",
+   "name": "ZAFRO 14,000 BTU Smart Inverter Dual-Hose Portable AC, 10,000 SACC",
+   "specs": [
+    "14,000 BTU ASHRAE",
+    "10,000 BTU SACC",
+    "Inverter",
+    "Dual hose"
+   ],
+   "specList": [
+    {
+     "label": "Marketing capacity",
+     "value": "14,000 BTU ASHRAE"
+    },
+    {
+     "label": "DOE capacity",
+     "value": "10,000 BTU SACC"
+    },
+    {
+     "label": "Compressor",
+     "value": "Inverter"
+    },
+    {
+     "label": "Hose design",
+     "value": "Dual hose"
+    },
+    {
+     "label": "Control",
+     "value": "Smart app"
+    }
+   ],
+   "description": "ZAFRO's unit is an inverter dual-hose design with 14,000 BTU ASHRAE and 10,000 BTU SACC and a smart app. The listing says the inverter keeps the temperature stable, which is the mechanism behind a quieter night.\n\nIt competes with the DREO 14,000 BTU on capacity, but the data does not publish a decibel figure, so you are relying on the design. It is the value option for an inverter dual-hose unit, and the tradeoff is a smaller brand with less service history.\n\nOwnership is the usual condensate care and filter washing. Because the brand is less established, keep the receipt and check the warranty in writing. Treat any new brand as a two-season test: note how the unit sounds in the first week and use the return window if the compressor hum bothers you.",
+   "bestFor": "A bedroom or medium room where an inverter dual-hose unit is wanted at a lower price tier.",
+   "pros": [
+    "Inverter dual-hose design",
+    "10,000 BTU SACC",
+    "Smart app control",
+    "Lower price tier than the Midea Duo"
+   ],
+   "cons": [
+    "No decibel figure in the data",
+    "Smaller brand with less history",
+    "Two hoses to route and seal"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GJZKWRCG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oioxU69IL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Compressor type drives the noise",
+   "explanation": "A fixed-speed compressor starts at full power with a thump, runs loud and stops. An inverter ramps up and then slows to hold the setpoint, so the Midea Duo, DREO 14,000 BTU and ZAFRO run quietly most of the time. In a portable, where the compressor is in the room, that matters more than any fan tweak."
+  },
+  {
+   "criterion": "Oversize for quiet, not for speed",
+   "explanation": "A unit with headroom runs at partial load, which is the quiet part of an inverter's curve. The Midea Duo at 12,000 SACC in a 400 square foot room spends its time slow, while a 5,000 DOE unit in the same room runs flat out. Buy enough capacity so the unit never has to shout."
+  },
+  {
+   "criterion": "Treat dB numbers carefully",
+   "explanation": "The DREO 14,000 BTU lists 42 dB, but that is measured at the quietest setting and in a test room. Real sound at full output is higher. Where a listing gives no number, as with the LG and ZAFRO, judge by compressor type and the presence of noise isolation."
+  },
+  {
+   "criterion": "Noise isolation and insulation",
+   "explanation": "The DREO 515S describes a patented noise isolation system that reduces the sound of the standing compressor. Insulation around the compressor and a vibration-damped mount are real design features. They are worth more than a quiet-fan mode if the compressor is the loud part."
+  },
+  {
+   "criterion": "Hose design affects cycling",
+   "explanation": "A dual-hose unit does not draw conditioned room air outside, so it cools the room faster and cycles less. The Midea Duo, DREO 14,000 BTU and ZAFRO are dual hose. Less cycling means fewer noisy starts."
+  },
+  {
+   "criterion": "Placement and floor",
+   "explanation": "A portable on a hard floor transmits vibration, and next to a bed it is at its loudest. Put it on a rubber mat, away from walls and as far from your head as the hose allows. A short, straight hose also reduces noise from airflow. Avoid placing the unit in a corner, where the walls reflect sound back toward you."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "dB",
+   "meaning": "A sound pressure level, usually measured at the lowest fan setting. Ten decibels sounds roughly twice as loud.",
+   "watchFor": "Only the DREO 14,000 BTU publishes a number in the data, at 42 dB."
+  },
+  {
+   "spec": "Inverter",
+   "meaning": "A compressor whose speed varies with demand, avoiding hard starts.",
+   "watchFor": "The Midea Duo, DREO 14,000 BTU and ZAFRO use inverters."
+  },
+  {
+   "spec": "DOE or SACC BTU",
+   "meaning": "The real cooling capacity under DOE test conditions. It is lower than the marketing ASHRAE number.",
+   "watchFor": "The range runs from 5,000 on the DREO 318S to 12,000 on the Midea Duo."
+  },
+  {
+   "spec": "Noise isolation",
+   "meaning": "Design features that decouple and insulate the compressor from the cabinet. They reduce vibration and sound.",
+   "watchFor": "The DREO 515S lists a patented system, but no number backs it."
+  },
+  {
+   "spec": "Drainage-free",
+   "meaning": "A system that evaporates condensate so you rarely empty a tank. It works best in moderate humidity.",
+   "watchFor": "The DREO 318S and 515S list it, and humid weather can still require draining."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Compressor design",
+   "description": "We ranked inverter units above fixed-speed units for noise, since inverters avoid the hard start. The Midea Duo, DREO 14,000 BTU and ZAFRO scored highest on this point."
+  },
+  {
+   "title": "Published sound data",
+   "description": "We credited the 42 dB figure on the DREO 14,000 BTU and treated missing numbers on the LG, DREO 318S and 515S as design claims. A published figure scored higher than an adjective."
+  },
+  {
+   "title": "Capacity headroom",
+   "description": "We compared DOE and SACC capacity to realistic room sizes, 5,000 for the DREO 318S up to 12,000 for the Midea Duo. Units with headroom run slower and quieter."
+  },
+  {
+   "title": "Hose and install",
+   "description": "We looked at dual-hose layouts and the effort of sealing the window kit. Dual-hose units cycle less, which scored better for noise."
+  },
+  {
+   "title": "Support",
+   "description": "We considered brand depth based on owner feedback patterns. Midea and LG scored higher on service, and newer brands lost points for warranty uncertainty."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small bedroom up to 250 sq ft",
+      "LG 6,000 BTU DOE",
+      "Compact and branded"
+     ],
+     [
+      "Small office or bedroom",
+      "DREO 318S",
+      "5,000 DOE, drainage-free"
+     ],
+     [
+      "Bedroom up to 400 sq ft",
+      "DREO 515S",
+      "8,000 DOE, noise isolation"
+     ],
+     [
+      "Large room up to 550 sq ft",
+      "Midea Duo 14,000 BTU",
+      "12,000 SACC inverter"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "DREO 318S",
+      "Smallest capacity"
+     ],
+     [
+      "Low-to-mid brand",
+      "LG 6,000 BTU DOE",
+      "Service network"
+     ],
+     [
+      "Mid-range inverter",
+      "ZAFRO 14,000 BTU",
+      "10,000 SACC inverter"
+     ],
+     [
+      "Highest outlay",
+      "Midea Duo 14,000 BTU",
+      "Largest capacity, hose-in-hose"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Inverter vs Fixed-Speed Noise",
+   "cards": [
+    {
+     "label": "Inverter",
+     "text": "The Midea Duo, DREO 14,000 BTU and ZAFRO ramp the compressor up and down, so they avoid the hard start and run quiet at partial load. They cost more."
+    },
+    {
+     "label": "Noise isolation design",
+     "text": "The DREO 515S relies on insulation and mounting around the compressor. It claims quieter operation by design but publishes no number."
+    }
+   ],
+   "note": "Choose an inverter for the best real-world quiet, and noise isolation if the budget is tighter."
+  },
+  {
+   "subheading": "Published Number vs Design Claim",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Want a stated dB figure",
+      "DREO 14,000 BTU",
+      "42 dB"
+     ],
+     [
+      "Want a noise isolation system",
+      "DREO 515S",
+      "Patented system"
+     ],
+     [
+      "Want a branded compact unit",
+      "LG 6,000 BTU DOE",
+      "Service network"
+     ],
+     [
+      "Want headroom for partial load",
+      "Midea Duo 14,000 BTU",
+      "12,000 SACC"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Light Sleepers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "An inverter compressor, a published dB figure, a dual-hose layout and capacity that exceeds the room. Place the unit on a mat and away from your head."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DREO 14,000 BTU publishes 42 dB, and the Midea Duo has the capacity headroom. A window inverter or mini split is quieter than any portable."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "The room is over 400 square feet or you sleep lightly. The Midea Duo 14,000 BTU or the DREO 14,000 BTU repays the premium."
+    },
+    {
+     "label": "Save if",
+     "text": "The room is a small bedroom. The DREO 318S or LG 6,000 BTU is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash the filter",
+   "interval": "Every 2 weeks in use",
+   "why": "A clogged filter makes the fan work harder and louder. Dry it fully before refitting."
+  },
+  {
+   "task": "Check the hose and seal",
+   "interval": "Each install",
+   "why": "Leaks lengthen cycles and add noise. Seal the window kit with foam."
+  },
+  {
+   "task": "Drain condensate",
+   "interval": "As needed",
+   "why": "A full pan shuts the unit off. Use the drain path in humid weather."
+  },
+  {
+   "task": "Place on a vibration mat",
+   "interval": "Each install",
+   "why": "A rubber mat reduces vibration through the floor. It also keeps the unit from walking."
+  },
+  {
+   "task": "Dry and store upright",
+   "interval": "End of season",
+   "why": "Leftover water breeds mold. Run fan mode to dry the unit, then store it upright."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the quietest type of portable air conditioner?",
+   "a": "An inverter dual-hose unit with noise isolation, because it avoids hard starts and does not draw room air out. Even then, a portable is louder than a window inverter or a mini split. If silence is the real goal, a window inverter with an outside compressor is the better tool."
+  },
+  {
+   "q": "Is 42 dB really quiet?",
+   "a": "It is quiet for a portable, but it is measured at the quietest setting. At full output the sound is higher, and the compressor start of a non-inverter unit adds a thump."
+  },
+  {
+   "q": "Should I buy a bigger portable to be quieter?",
+   "a": "Yes, within reason. A unit with headroom runs at partial load, which is the quiet part of the curve. An undersized unit runs flat out and sounds worse."
+  },
+  {
+   "q": "Do portable ACs make more noise than window ACs?",
+   "a": "Generally yes, because the compressor sits in the room. A window unit places the heat rejection outside, and U-shaped designs go further."
+  },
+  {
+   "q": "Can I reduce portable AC noise?",
+   "a": "Use sleep mode, place the unit on a rubber mat, keep hoses short and straight and seal the window kit. These steps cut vibration and airflow noise."
+  },
+  {
+   "q": "Does drainage-free mean no emptying?",
+   "a": "Usually in moderate humidity, but not always. Very humid weather can fill the pan, so keep a drain path ready."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/314l32eptYL._SL500_.jpg"
+}
