@@ -1,0 +1,575 @@
+{
+ "guideSlug": "best-rv-inverter-for-residential-refrigerator",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best rv inverter for residential refrigerator",
+ "guideTitle": "Best RV Inverter for Residential Refrigerator (2026)",
+ "metaTitle": "Best RV Inverter for Residential Fridge (2026)",
+ "metaDescription": "Six pure sine inverters sized for a residential RV refrigerator, covering startup surge, defrost-cycle draw, 12V versus 48V banks and transfer switching.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The ZETAWALE 2500W with a built-in transfer switch is the best overall for a residential refrigerator because it keeps the fridge on grid power automatically and takes over from batteries cleanly. The Vansdon 2000W is the value pick. A coach owner whose bank is only a pair of lead-acid batteries should skip a residential fridge conversion until the battery side is upgraded.",
+ "introParagraphs": [
+  "Residential refrigerators have become common in newer coaches and fifth wheels because they hold more food and are cheaper to replace, but they are built for a house where power never goes away. They have defrost heaters, large compressors and electronic controls that all behave differently on an inverter.",
+  "Powering one reliably is less about the biggest rating than about surge handling, clean output and a bank that survives the periodic heater cycle. The picks here are compared against those realities rather than against headline watts."
+ ],
+ "products": [
+  {
+   "id": "B0DMVGNW95",
+   "badge": "Best Overall",
+   "name": "ZETAWALE 2500W Pure Sine Inverter with Built-in ATS",
+   "specs": [
+    "2500W continuous",
+    "5000W peak",
+    "Built-in ATS",
+    "12V DC input"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Peak output",
+     "value": "5000W"
+    },
+    {
+     "label": "Transfer switch",
+     "value": "Built-in automatic"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    },
+    {
+     "label": "Target use",
+     "value": "RV, van and off-grid"
+    }
+   ],
+   "description": "A residential refrigerator is the one appliance in a coach that should never notice the power source changing, and an inverter with a built-in automatic transfer switch is the best way to ensure that. The ZETAWALE selects between shore power and the battery, so the fridge simply keeps running when you unplug at the pedestal. That removes a separate transfer box and one common point of failure.\n\nWith 2500W continuous and 5000W peak it has room for a typical 18 to 25 cubic foot fridge, which usually draws on the order of 100 to 250 watts while running and several times that on compressor start. The defrost heater cycle adds a few hundred watts every so often, which the 2500W rating absorbs without strain. Compared with the 2000W Vansdon it adds 500W of margin and the switch, and compared with the 3000W Jlouneo it gives up 500W but includes the switching hardware.\n\nWire the AC input carefully, because a miswired transfer switch can back-feed a pedestal, and have the circuit checked by someone competent. Fuse the battery cable for about 230 amps and switch the inverter off if the coach will be stored without the fridge running.",
+   "bestFor": "Coaches that want a residential fridge to stay on across shore and battery power without manual switching.",
+   "pros": [
+    "Built-in transfer switch keeps the fridge running when shore power drops",
+    "2500W continuous covers fridge plus defrost cycles",
+    "5000W peak handles large compressor starts",
+    "Pure sine output suits residential control boards"
+   ],
+   "cons": [
+    "Needs careful AC input wiring and inspection",
+    "About 230 amps at full load from 12V",
+    "Brand with a short support history"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DMVGNW95?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cnDn+zwSL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G6Z76YFC",
+   "badge": "Best Value",
+   "name": "Vansdon 2000W Pure Sine Inverter with 4000W Surge",
+   "specs": [
+    "2000W continuous",
+    "4000W surge",
+    "THD 3 to 4%",
+    "Stable voltage"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2000W"
+    },
+    {
+     "label": "Surge output",
+     "value": "4000W"
+    },
+    {
+     "label": "Distortion",
+     "value": "3 to 4 percent THD"
+    },
+    {
+     "label": "Output regulation",
+     "value": "115 to 120V above 12V input"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    }
+   ],
+   "description": "The cheapest unit in this lineup is also the one that stays closest to what a residential fridge expects from a wall socket. The Vansdon holds its output between 115 and 120 volts when the input stays above 12 volts and keeps it above 110 volts even when the battery sags, which prevents the low-voltage faults that make fridge control boards beep. Its distortion of 3 to 4 percent is low enough for the electronic board.\n\nWith 2000W continuous and 4000W surge it will start most residential compressors, but there is less margin than with the 2500W ZETAWALE and none of the switching. It suits a coach where the fridge is the biggest load and the microwave is run separately. Against the 4000W EFFORTWAY it is small and light on the battery, and against the 3000W LVYUAN it is lower in capacity but easier to feed.\n\nPlan the install with a short, heavy cable and a fuse for about 190 amps at full load. Keep the unit ventilated and switch it off when the fridge is empty and not needed, because the idle draw of any inverter adds up over days.",
+   "bestFor": "Budget-conscious owners powering a residential fridge as the main inverter load.",
+   "pros": [
+    "Stable 115 to 120V output reduces nuisance faults",
+    "3 to 4 percent distortion is gentle on control boards",
+    "Lowest outlay in the lineup",
+    "2000W with 4000W surge covers typical residential fridges"
+   ],
+   "cons": [
+    "Less headroom than the 2500W and larger units",
+    "No transfer switch or hardwire remote in the listing",
+    "Brand with limited track record"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0G6Z76YFC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/511ixTPQsHL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FWRPPTFL",
+   "badge": "Best High-Capacity Plug-in Pick",
+   "name": "Jlouneo 3000W Pure Sine Inverter 12V",
+   "specs": [
+    "3000W continuous",
+    "Pure sine wave",
+    "12V DC only",
+    "Off-grid ready"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "3000W"
+    },
+    {
+     "label": "Waveform",
+     "value": "Pure sine wave"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC only"
+    },
+    {
+     "label": "Intended use",
+     "value": "RV, truck, off-grid"
+    },
+    {
+     "label": "Class",
+     "value": "High-capacity 12V unit"
+    }
+   ],
+   "description": "Three kilowatts of pure sine output give the Jlouneo the capacity to carry a residential fridge together with a microwave or a toaster oven. The listing stresses that it is built for 12V input only, so it must never be connected to a 24V bank. Clean, stable energy is the claim, and the pure sine waveform is the right shape for a residential control board.\n\nThe price of that capacity is a battery draw of about 280 amps at full load, far more than any fridge needs on its own. Used only for a fridge it is wasteful, because a bigger inverter idles at a higher draw than a 2000W unit, but if the fridge shares the circuit with kitchen appliances it makes sense. Against the 2500W ZETAWALE it adds capacity but lacks the transfer switch, and against the 4000W EFFORTWAY it is smaller and easier on the bank.\n\nPair it with a lithium bank able to deliver 280 amps and a battery management system that does not trip at compressor start. Keep the cables short, mount it vertically and treat the idle draw as part of your energy budget.",
+   "bestFor": "Large 12V lithium systems that power a residential fridge and other kitchen loads.",
+   "pros": [
+    "3000W pure sine output has capacity for fridge and kitchen",
+    "Designed for RV, truck and off-grid use",
+    "Clean waveform for residential electronics",
+    "Simple plug-in installation"
+   ],
+   "cons": [
+    "About 280 amps at full load from a 12V bank",
+    "No transfer switch or charger",
+    "Idle draw is wasteful if only the fridge is plugged in"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FWRPPTFL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51TYodIldvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DMVFGJF9",
+   "badge": "Best for 48V Systems",
+   "name": "ZETAWALE 2500W 48V Pure Sine Inverter",
+   "specs": [
+    "2500W continuous",
+    "5000W peak",
+    "48V DC input",
+    "4 AC outlets"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "2500W"
+    },
+    {
+     "label": "Peak output",
+     "value": "5000W"
+    },
+    {
+     "label": "Input voltage",
+     "value": "48V DC"
+    },
+    {
+     "label": "Outlets",
+     "value": "Four AC and one hardwire terminal"
+    },
+    {
+     "label": "USB",
+     "value": "5V 3.1A and 30W USB-C PD"
+    }
+   ],
+   "description": "Voltage is the great equalizer for big appliances, and moving to a 48 volt bank cuts the battery current to a quarter of what a 12 volt system would need. At 2500W the ZETAWALE draws only about 55 amps from a 48V bank, so thin cable and modest fuses work comfortably and the voltage drop that confuses residential fridges nearly vanishes. Internal heat sinks move heat away from the electronics.\n\nIt has four AC outlets, a hardwire terminal, a 5V 3.1A USB port and a 30W USB-C PD charging port, so it doubles as a small kitchen hub. The catch is the bank: this unit is only useful in a coach already built around 48V lithium, or one willing to rebuild its power system. Compared with the 2500W ZETAWALE with the transfer switch, it has the same rating but better efficiency in cable and no switching hardware.\n\nFor a new build, this is the cleanest way to run a residential fridge. Have the bank wired with a proper BMS and a class-T fuse, and plan the AC side with its own breaker. Leave the 12V items on the coach's existing system through a DC-to-DC converter.",
+   "bestFor": "Builders designing a 48V lithium system around a residential fridge.",
+   "pros": [
+    "48V input cuts battery current to about 55 amps at full load",
+    "Thin cable and small fuses suffice",
+    "Four outlets, a hardwire terminal and USB-C PD",
+    "Internal heat sinks aid cooling"
+   ],
+   "cons": [
+    "Requires a 48V bank, which most coaches lack",
+    "No transfer switch built in",
+    "Needs a separate path for 12V coach loads"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DMVFGJF9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UFYASCvGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GVJBFK82",
+   "badge": "Best High-Headroom Pick",
+   "name": "EFFORTWAY 4000W Pure Sine Inverter 12V",
+   "specs": [
+    "4000W continuous",
+    "8000W surge",
+    "Up to 90% efficient",
+    "Fast USB"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "4000W"
+    },
+    {
+     "label": "Surge output",
+     "value": "8000W"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Up to 90 percent"
+    },
+    {
+     "label": "Outlets",
+     "value": "Three AC outlets"
+    },
+    {
+     "label": "USB",
+     "value": "Two 20W USB-A and two 20W USB-C"
+    }
+   ],
+   "description": "Efficiency of up to 90 percent with low no-load loss is the claim that makes this 4000W unit relevant to a fridge, because the wasted watts in an idling inverter are what drain a bank overnight. The unit holds a stable output as the battery voltage falls and supplies three AC outlets and four fast-charging USB ports.\n\nThe 8000W surge handles any residential compressor, and the 4000W continuous rating lets the same inverter run a fridge, a microwave and a coffee maker at once. It would pull about 370 amps from a 12 volt bank at full load, so it is for large lithium systems only. Compared with the 3000W Jlouneo it adds a kilowatt, and compared with the 3000W LVYUAN it adds capacity at the cost of more current.\n\nUse it where the inverter runs several appliances and the fridge is one of them. Run heavy cable, fuse for 370 amps and ventilate generously. For a coach that only needs fridge power, this is far more inverter than needed.",
+   "bestFor": "Large banks where a residential fridge shares an inverter with several kitchen appliances.",
+   "pros": [
+    "4000W continuous with 8000W surge covers any fridge",
+    "Up to 90 percent efficiency with low no-load loss",
+    "Four fast-charging USB ports",
+    "Stable output as battery voltage drops"
+   ],
+   "cons": [
+    "About 370 amps at full load from 12V",
+    "Wasteful if the fridge is the only load",
+    "Only three AC outlets"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GVJBFK82?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41R9Pkt1-JL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F6B98PY7",
+   "badge": "Best Plug-and-Go Pick",
+   "name": "LVYUAN 3000W Pure Sine Inverter 12V",
+   "specs": [
+    "3000W continuous",
+    "4 AC outlets",
+    "Pure sine wave",
+    "USB-C and USB"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "3000W"
+    },
+    {
+     "label": "Waveform",
+     "value": "Pure sine wave"
+    },
+    {
+     "label": "Outlets",
+     "value": "Four AC"
+    },
+    {
+     "label": "USB",
+     "value": "Two 5V 3.1A and 20W USB-C"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    }
+   ],
+   "description": "Plenty of outlets and a straightforward pure sine design make the LVYUAN the plug-and-go choice for a residential fridge that does not need hardwiring. It supplies four AC outlets, two fast USB ports and a USB-C port, so a laptop and a fridge can share the same box without a power strip. The listing notes that pure sine output is more efficient than modified sine and kinder to electronic loads.\n\nAt 3000W it matches the Jlouneo on continuous capacity, and both draw about 280 amps at full load from a 12 volt bank. It is not the choice for a coach that needs a transfer switch or 48V operation, but for a rig that plugs its fridge into the inverter and leaves it there, it is simple. Against the 2000W Vansdon it offers a thousand more watts and more outlets.\n\nPlug-in use of a fridge is acceptable if the plug is solid and the cable short. Check the plug contact periodically for warmth and consider a locking cord cap. Keep the inverter ventilated and set a battery alarm so a flat bank never leaves the fridge warm.",
+   "bestFor": "Plug-in installs wanting multiple outlets and USB ports alongside a residential fridge.",
+   "pros": [
+    "Four AC outlets plus USB-A and USB-C ports",
+    "3000W pure sine capacity",
+    "Simple plug-and-go installation",
+    "Pure sine design kind to electronic loads"
+   ],
+   "cons": [
+    "No transfer switch or hardwire option",
+    "About 280 amps at full load from 12V",
+    "Plug connections can warm under constant fridge duty"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F6B98PY7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Yyk-qSBdL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Defrost heater cycle",
+   "explanation": "Residential frost-free refrigerators run a defrost heater every several hours, adding a few hundred watts on top of the compressor. A 2000W unit like the Vansdon absorbs that easily, but a 1000W inverter would be marginal. Check the fridge's nameplate for the heater rating before choosing."
+  },
+  {
+   "criterion": "Compressor startup spike",
+   "explanation": "A residential fridge compressor can pull several times its running watts at start. The ZETAWALE 2500W with 5000W peak and the EFFORTWAY 4000W with 8000W surge cover that spike, while the Vansdon's 4000W surge is adequate for typical models. Match the surge to the compressor's locked-rotor rating."
+  },
+  {
+   "criterion": "Transfer switching",
+   "explanation": "A built-in switch like the ZETAWALE 2500W's keeps the fridge on grid power when it is available and moves to battery automatically. The Jlouneo and LVYUAN lack this, so you would add an external switch or manually change over. For a fridge that holds thousands of dollars of food, automatic switching is worth it."
+  },
+  {
+   "criterion": "Battery voltage choice",
+   "explanation": "A 12V 3000W inverter draws about 280 amps, while the ZETAWALE 48V 2500W draws about 55. Higher voltage means smaller cable, smaller fuses and less voltage sag. If you are building a bank from scratch, consider 48V."
+  },
+  {
+   "criterion": "Output stability under sag",
+   "explanation": "Residential control boards fault when voltage dips, so an inverter that holds 115 to 120V as the battery falls, like the Vansdon, gives fewer nuisance alarms. Cheap inverters let output drift with the battery. Stable output beats raw wattage for a fridge."
+  },
+  {
+   "criterion": "Idle consumption",
+   "explanation": "The inverter is on 24 hours a day, so its no-load draw is a constant cost. The EFFORTWAY claims up to 90 percent efficiency with low no-load loss, but a 4000W unit still idles above a 2000W one. Choose the smallest unit that comfortably handles the surge."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Locked-rotor or startup watts",
+   "meaning": "The brief spike a compressor draws as it starts against pressure. It can be three to five times the running watts.",
+   "watchFor": "Compare the fridge's startup to the Vansdon's 4000W and the EFFORTWAY's 8000W surge."
+  },
+  {
+   "spec": "Input voltage",
+   "meaning": "The nominal DC voltage of the battery bank. Higher voltage means lower current for the same power.",
+   "watchFor": "The ZETAWALE 48V is the only non-12V unit in the lineup."
+  },
+  {
+   "spec": "Built-in ATS",
+   "meaning": "An automatic transfer switch that selects between shore and battery power without a manual step.",
+   "watchFor": "Only the ZETAWALE 2500W includes one in this group."
+  },
+  {
+   "spec": "THD",
+   "meaning": "Total harmonic distortion, a measure of waveform purity. Lower values are gentler on electronics.",
+   "watchFor": "The Vansdon states 3 to 4 percent."
+  },
+  {
+   "spec": "No-load loss",
+   "meaning": "The power an inverter draws with no appliances plugged in. For an always-on fridge setup it is a constant tax.",
+   "watchFor": "The EFFORTWAY advertises low no-load loss, a useful trait for fridge duty."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Surge and defrost headroom",
+   "description": "We compared each unit's surge and continuous ratings with typical residential fridge startup and defrost cycles. The EFFORTWAY 4000W and ZETAWALE 2500W lead, and the Vansdon 2000W is adequate for standard models."
+  },
+  {
+   "title": "Output stability",
+   "description": "Residential control boards fault on low voltage, so we weighed output regulation and distortion claims. The Vansdon's 115 to 120V regulation and 3 to 4 percent THD scored well."
+  },
+  {
+   "title": "Source switching",
+   "description": "We rated how each unit handles the move between shore and battery power. The ZETAWALE with ATS scored highest."
+  },
+  {
+   "title": "Battery system fit",
+   "description": "We weighed the current each unit demands at full load. The 48V ZETAWALE draws about 55 amps, while the 3000W 12V units need roughly 280."
+  },
+  {
+   "title": "Ownership realism",
+   "description": "Idle draw, fan noise and brand support came from spec sheets and owner feedback patterns. Units with a stated efficiency or low no-load loss gained."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Refrigerator Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Standard 18 cubic foot fridge as main load",
+      "Vansdon 2000W",
+      "2000W with 4000W surge and stable output"
+     ],
+     [
+      "Large 25 cubic foot fridge with ice maker",
+      "ZETAWALE 2500W",
+      "2500W and a built-in transfer switch"
+     ],
+     [
+      "Fridge plus microwave on one inverter",
+      "Jlouneo 3000W",
+      "3000W continuous covers both"
+     ],
+     [
+      "Fridge plus several kitchen appliances",
+      "EFFORTWAY 4000W",
+      "4000W with 8000W surge"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "Vansdon 2000W",
+      "Cheapest unit that still handles a residential fridge"
+     ],
+     [
+      "Middle",
+      "LVYUAN 3000W",
+      "More capacity and outlets for a modest premium"
+     ],
+     [
+      "Highest",
+      "ZETAWALE 48V 2500W",
+      "A 48V system costs more but cuts current"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "12V vs 48V Systems",
+   "cards": [
+    {
+     "label": "12V",
+     "text": "The Vansdon, Jlouneo, LVYUAN, EFFORTWAY and ZETAWALE 2500W fit existing 12V banks, but their currents run from 190 to 370 amps and demand heavy cable."
+    },
+    {
+     "label": "48V",
+     "text": "The ZETAWALE 48V 2500W draws only about 55 amps, so cabling is simple and voltage sag nearly disappears. It requires a 48V bank."
+    }
+   ],
+   "note": "Stay 12V if the bank exists, and choose 48V for a new build."
+  },
+  {
+   "subheading": "Switching and Installation",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Automatic shore-to-battery switching",
+      "ZETAWALE 2500W",
+      "Built-in ATS"
+     ],
+     [
+      "Simple plug-in with many outlets",
+      "LVYUAN 3000W",
+      "Four AC outlets and USB ports"
+     ],
+     [
+      "Fixed hardwired fridge circuit",
+      "ZETAWALE 48V 2500W",
+      "Hardwire terminal and low current"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Extended Power Outages Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A transfer switch so the fridge never sees an interruption, stable output as the bank falls, and enough battery to hold a full day. A fridge averages perhaps a third of its day on."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ZETAWALE 2500W handles the switching, and the Vansdon 2000W keeps output stable as the bank sags."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You live in the coach or store valuable food. The ZETAWALE 2500W's switch and a 48V rebuild with the ZETAWALE 48V give a dependable setup."
+    },
+    {
+     "label": "Save if",
+     "text": "The coach mostly sits on shore power. The Vansdon 2000W is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect fuse and cable",
+   "interval": "Every season",
+   "why": "A fridge circuit runs constantly, so corroded cable heats. Replace discolored cable promptly."
+  },
+  {
+   "task": "Retorque terminals",
+   "interval": "After the first trip, then yearly",
+   "why": "Vibration loosens lugs. Loose terminals overheat under a constant load."
+  },
+  {
+   "task": "Clean vents",
+   "interval": "Twice a year",
+   "why": "Dust reduces cooling. An inverter running all day in a closed bay needs clear airflow."
+  },
+  {
+   "task": "Check fridge plug temperature",
+   "interval": "Monthly",
+   "why": "A warm plug signals a loose contact. Replace it before it melts."
+  },
+  {
+   "task": "Test transfer and alarms",
+   "interval": "Every few months",
+   "why": "Unplug shore power to confirm the fridge keeps running. Check the low-voltage alarm sounds early."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many watts does a residential RV refrigerator need?",
+   "a": "It typically draws around 100 to 250 watts running, with a startup spike several times higher and a defrost heater that adds a few hundred more. A 2000W to 2500W inverter covers most models."
+  },
+  {
+   "q": "Can a residential fridge run on batteries overnight?",
+   "a": "Yes, with a lithium bank of a few hundred amp-hours. A fridge averages perhaps a third of its day on, so a 200Ah 12V bank can usually carry it through a night."
+  },
+  {
+   "q": "Do I need pure sine wave?",
+   "a": "Yes. Residential fridges have electronic controls that run better on pure sine, and all six picks provide it."
+  },
+  {
+   "q": "Is a transfer switch necessary?",
+   "a": "It is strongly recommended. Without one, a power change needs a manual step, and a missed switch can spoil food."
+  },
+  {
+   "q": "Is 48V worth the change?",
+   "a": "For a new build, yes. It cuts current to a quarter of a 12V system, simplifying cable and reducing voltage sag."
+  },
+  {
+   "q": "Can I run the fridge from the starting battery?",
+   "a": "No. Use a separate house bank so a flat battery never leaves you unable to start the engine."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41cnDn+zwSL._SL500_.jpg"
+}

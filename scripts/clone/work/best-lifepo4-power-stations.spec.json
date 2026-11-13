@@ -1,0 +1,525 @@
+{
+ "guideSlug": "best-lifepo4-power-stations",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best lifepo4 power stations",
+ "guideTitle": "Best LiFePO4 Power Stations (2026)",
+ "metaTitle": "Best LiFePO4 Power Stations (2026)",
+ "metaDescription": "Five LiFePO4 portable power stations from 292Wh to 2048Wh, compared on stated cycle life, continuous output, charging speed, solar input and real runtime.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The BLUETTI AC180 is the best overall LiFePO4 power station because it pairs 1152Wh with 1800W output and a hard-to-beat charge speed, while the Jackery Explorer 300 is the value pick for small loads. The Dyness 2048Wh is the one to buy for serious runtime. Anyone who only needs to charge phones for a weekend does not need LiFePO4 at all and can save weight with a smaller conventional pack.",
+ "introParagraphs": [
+  "Lithium iron phosphate cells have become the default chemistry for serious portable power stations because they last far longer than the older lithium-ion packs. The trade is weight, since LiFePO4 holds less energy for each pound than the cells it replaces.",
+  "A long cycle life is only worth paying for if the rest of the machine is sound, so this guide judges each station on capacity, output, recharge speed and how it will feel to own after several years of regular use."
+ ],
+ "products": [
+  {
+   "id": "B0C1SMJTDT",
+   "badge": "Best Overall",
+   "name": "BLUETTI AC180 1152Wh LiFePO4 Power Station",
+   "specs": [
+    "1152Wh LiFePO4",
+    "1800W AC output",
+    "1 hour AC charge",
+    "500W solar input"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1152Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W continuous, 2700W peak"
+    },
+    {
+     "label": "AC charging",
+     "value": "Full in about 1 hour at 1440W"
+    },
+    {
+     "label": "Solar input",
+     "value": "Up to 500W, about 2.8 to 3.3 hours"
+    },
+    {
+     "label": "Outlets",
+     "value": "Eight, with app control"
+    }
+   ],
+   "description": "Recharging in about an hour at 1440 watts of AC input is the feature that separates the AC180 from most stations of its size. A big battery that takes ten hours to fill is a plan; one that fills during a lunch break is a tool. The unit stores 1152 watt-hours in LiFePO4 cells and delivers 1800 watts continuous with a 2700 watt peak, which is enough for a microwave, a coffee maker or a corded circular saw.\n\nEight outlets and an app let you switch circuits individually, and a 500 watt solar input charges it from panels in roughly three hours of good sun. Against the 1024Wh EcoFlow Delta 3 it carries more energy and a stronger solar input, and against the 2048Wh Dyness it is half the storage but far easier to carry. Its weight, however, is real, so it suits a car trunk or a campsite more than a hike. A realistic way to use it is to run the microwave for a few minutes at a time, not to cook for an hour, because 1152Wh disappears quickly at 1500 watts.\n\nLiFePO4 cells tolerate heat and repeated cycling better than older chemistries, so the AC180 is a sensible long-term purchase. Store it at partial charge, keep it out of a hot car and top it up every few months. Expect the fan to run during fast charging and heavy loads.",
+   "bestFor": "Campers and home users wanting strong output with the fastest recharge in this group.",
+   "pros": [
+    "Recharges in about an hour from AC at 1440W",
+    "1800W continuous output with 2700W peak",
+    "Eight outlets with app control",
+    "500W solar input charges from panels in about 3 hours"
+   ],
+   "cons": [
+    "Heavy for hiking or frequent lifting",
+    "Fan noise rises during fast charging",
+    "1152Wh is modest for multi-day home backup"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DCBYMC9D",
+   "badge": "Best Expandable Pick",
+   "name": "EcoFlow Delta 3 1024Wh LiFePO4 Power Station",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1800W AC output",
+    "56 min full charge",
+    "Expands to 5kWh"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W"
+    },
+    {
+     "label": "Charging",
+     "value": "Full in 56 minutes"
+    },
+    {
+     "label": "Inputs",
+     "value": "500W solar and 1500W AC"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 5kWh with ecosystem batteries"
+    }
+   ],
+   "description": "Expansion is the trick that separates EcoFlow's design from fixed-capacity rivals: the Delta 3 can connect to additional batteries up to 5 kilowatt-hours, so you can start with one unit and grow. It delivers 1800 watts from 1024 watt-hours of LiFePO4 and charges fully in 56 minutes by combining 500 watts of solar with up to 1500 watts of AC. The maker quotes 4000 cycles to 80 percent capacity, a figure that implies a decade of regular use.\n\nCompared with the AC180 it carries 128Wh less but offers the expansion path, and compared with the Jackery Explorer 1000 v2 it matches capacity while adding that ecosystem. The expansion modules cost extra, so the real price of a bigger system is more than the headline unit. For someone who might later want home backup, that flexibility is the point.\n\nThe usual rules apply: keep it cool, store at partial charge and do not leave it in a hot vehicle. The app lets you tune charge limits, and keeping the maximum charge at 80 percent for daily use extends the cells further. It is heavy, so plan where it lives. If you do add expansion later, check that your solar input and AC charging limits still suit the larger system.",
+   "bestFor": "Buyers who want a mid-size station now with a clear path to more storage later.",
+   "pros": [
+    "Expands to 5kWh with ecosystem batteries",
+    "Full charge in 56 minutes from combined solar and AC",
+    "1800W output with a stated 4000 cycles to 80 percent",
+    "App lets you set charge limits"
+   ],
+   "cons": [
+    "Expansion batteries add significant cost",
+    "Heavy for a 1024Wh unit",
+    "Ecosystem lock-in to the same brand"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DCBYMC9D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31QO9wVU+QL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GYF47VK2",
+   "badge": "Best High-Capacity Pick",
+   "name": "DYNESS 2048Wh LiFePO4 Power Station",
+   "specs": [
+    "2048Wh LiFePO4",
+    "2400W output",
+    "0 to 80% in 1.8 hours",
+    "4000+ cycles"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2048Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2400W"
+    },
+    {
+     "label": "Charging",
+     "value": "0 to 80% in 1.8 hours, full in 2.3 hours"
+    },
+    {
+     "label": "Cycle life",
+     "value": "4000+ stated"
+    },
+    {
+     "label": "Target use",
+     "value": "Home backup and outdoor"
+    }
+   ],
+   "description": "Twice the energy of the AC180 for the same sort of recharge time is what the Dyness offers: 2048 watt-hours, a 2400 watt output and a charge from empty to 80 percent in 1.8 hours. The maker quotes more than 4000 charge cycles, and the pitch is simple, power for refrigerators, microwaves and coffee makers when the grid fails or the campsite has no hookup.\n\nThat capacity means a refrigerator can run on it for a day or more, and a microwave is no problem at 2400 watts. Next to the 1152Wh BLUETTI it doubles the storage, and beside the 1024Wh EcoFlow it adds both energy and output, at the cost of weight and a bulkier case. It is a unit to roll or carry with two hands, not a casual grab-and-go.\n\nBecause the brand is less known than Jackery or BLUETTI, check warranty terms and support before buying. As with any LiFePO4 pack, store at partial charge, avoid heat and do not charge below freezing. Plan a place for it to live permanently if home backup is the goal. For a refrigerator backup, a defrost-cycle spike is the load to confirm against the 2400W rating before relying on it.",
+   "bestFor": "Home backup and long campsites where runtime matters more than portability.",
+   "pros": [
+    "2048Wh stores twice the energy of the 1024Wh class",
+    "2400W output handles microwaves and refrigerators",
+    "0 to 80 percent in 1.8 hours",
+    "Stated 4000+ cycles on LiFePO4 cells"
+   ],
+   "cons": [
+    "Heavy and bulky for transport",
+    "Less established brand with limited support history",
+    "Cannot charge below freezing"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GYF47VK2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41njOPSiAVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GSDX8LTM",
+   "badge": "Best Mid-Size Value",
+   "name": "LIBRIDS 640Wh LiFePO4 Power Station with 10ms UPS",
+   "specs": [
+    "640Wh LiFePO4",
+    "1200W surge",
+    "10ms UPS",
+    "1.5 hour charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "640Wh LiFePO4"
+    },
+    {
+     "label": "Surge output",
+     "value": "1200W"
+    },
+    {
+     "label": "UPS switchover",
+     "value": "10 milliseconds"
+    },
+    {
+     "label": "AC charging",
+     "value": "Full in about 1.5 hours"
+    },
+    {
+     "label": "Outlets",
+     "value": "Four AC"
+    }
+   ],
+   "description": "A built-in UPS function with a 10 millisecond switchover keeps routers, CPAP machines and desktop computers running through a brief outage, and that makes the Librids more than a camping toy. At 640 watt-hours it sits between the pocket-size stations and the big ones, with four AC outlets and a surge rating of 1200 watts.\n\nFull recharge from the wall takes roughly 1.5 hours, which is quick for this capacity. Compared with the 292Wh Jackery Explorer 300 it has more than double the energy and the UPS function, and compared with the 1152Wh BLUETTI AC180 it is smaller and lighter but far less powerful. It suits a bedside or a home office where a short outage is the likeliest problem. That UPS promise only holds while the station sits on the wall plug, so treat it as an appliance you leave connected rather than a bag item.\n\nThe UPS feature works only if the station stays plugged in and charged, so leave it connected and check it occasionally. Store it at partial charge if it will sit unused, and keep the vents clear.",
+   "bestFor": "Home users wanting a UPS-style backup for a router or CPAP plus occasional camping.",
+   "pros": [
+    "10ms UPS switchover protects routers and computers",
+    "640Wh capacity balances weight and runtime",
+    "Fast 1.5 hour AC charge",
+    "Four AC outlets for several devices"
+   ],
+   "cons": [
+    "1200W surge limits heavy appliances",
+    "Less established brand",
+    "Continuous output rating is lower than the larger units"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GSDX8LTM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41MOGpMRJyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B082TMBYR6",
+   "badge": "Best Value",
+   "name": "Jackery Explorer 300 292Wh LiFePO4 Power Station",
+   "specs": [
+    "292Wh LiFePO4",
+    "7.5 lb",
+    "2 AC outlets",
+    "100W USB-C PD"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "292Wh LiFePO4"
+    },
+    {
+     "label": "Weight",
+     "value": "7.5 lb"
+    },
+    {
+     "label": "Outlets",
+     "value": "Two AC, USB-C PD 100W, two USB-A, car port"
+    },
+    {
+     "label": "Cycle life",
+     "value": "Over 4000 stated"
+    },
+    {
+     "label": "Class",
+     "value": "Small portable"
+    }
+   ],
+   "description": "At 7.5 pounds the Explorer 300 is the lightest unit in this lineup and the only one most people will happily carry on a hike. It holds 292 watt-hours in LiFePO4 cells, enough to charge a laptop several times, run a small fan or power a CPAP for a night. The maker quotes more than 4000 cycles, which makes it a long-lived small unit. For a weekend trip, it covers two laptop charges and a night of phone use before it needs a top-up.\n\nIt has two AC outlets, a 100 watt USB-C PD port, two USB-A ports and a 120 watt car port, so six devices can run together. The compromise is power: it cannot run a hair dryer, a kettle or any appliance that wants more than its continuous rating. Compared with the 640Wh Librids it has less than half the capacity but is much lighter, and compared with the 1152Wh BLUETTI it is a quarter of the energy at a fraction of the weight.\n\nThis is a good first power station. Keep it charged to about 60 percent when stored, recharge it every few months and keep it out of a hot car. Because it is small, it also doubles as a bedside backup for a lamp during a short outage.",
+   "bestFor": "Campers, travelers and everyday users who need laptop and phone power at low weight.",
+   "pros": [
+    "Lightest unit here at 7.5 lb",
+    "Stated cycle life above 4000 on LiFePO4",
+    "100W USB-C PD charges laptops directly",
+    "Established brand with wide support"
+   ],
+   "cons": [
+    "Cannot run heating or high-wattage appliances",
+    "292Wh is a short runtime for a refrigerator",
+    "Only two AC outlets"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WY4aAoRLL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Cycle life claims",
+   "explanation": "LiFePO4 cells are stated at 3000 to 4000 or more cycles against 500 to 800 for ordinary lithium-ion, and the Jackery Explorer 300, Dyness and EcoFlow all cite around 4000. The figure usually means cycles to 80 percent capacity, so read the fine print. The longer life only matters if you cycle the pack often. A pack cycled once a week reaches 4000 cycles in about 77 years, so the claim matters mainly for daily-use setups."
+  },
+  {
+   "criterion": "Weight for the capacity",
+   "explanation": "LiFePO4 is heavier than other lithium chemistries, so the BLUETTI AC180 and Dyness 2048Wh are two-hand carries, while the Jackery 300 at 7.5 lb is not. Decide whether the station will move or sit. A heavy unit that stays in a car trunk is fine, and one you carry to a trailhead is not. LiFePO4 also needs more space than a lithium-ion pack of the same energy, which affects cases and bags."
+  },
+  {
+   "criterion": "Continuous output versus appliances",
+   "explanation": "Match the station's continuous watts to the biggest appliance. The ALLWEI 300W and Jackery 300 cannot run a kettle, the LIBRIDS handles a few hundred watts continuously and the BLUETTI 1800W or Dyness 2400W run a microwave. Peak numbers only cover startup."
+  },
+  {
+   "criterion": "Recharge speed",
+   "explanation": "A large battery that takes ten hours to fill is hard to live with. The AC180 charges in about an hour and the Delta 3 in 56 minutes, while the Dyness takes 1.8 hours to reach 80 percent. Fast charging can run the fan hot."
+  },
+  {
+   "criterion": "Solar input limits",
+   "explanation": "Solar charging depends on input wattage and voltage window. The AC180 and Delta 3 both accept up to 500W, which fills their batteries in a few hours of clear sun, while small units accept far less. Check the connector type and voltage range of any panel before buying. Cloudy weather can halve real output, so treat the stated hours as best case."
+  },
+  {
+   "criterion": "UPS switchover",
+   "explanation": "A station that switches to battery in 10 milliseconds, like the LIBRIDS, can protect a router or computer through an outage. Many stations have no such feature and drop power for a moment. Look for an explicit UPS claim, not an assumption."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Watt-hours",
+   "meaning": "The energy the battery stores, which sets runtime. Divide by the load in watts and multiply by about 0.85 for a realistic estimate.",
+   "watchFor": "The lineup runs from 292Wh on the Jackery to 2048Wh on the Dyness."
+  },
+  {
+   "spec": "Continuous watts",
+   "meaning": "The most the inverter can supply for hours. It decides which appliances the station can run.",
+   "watchFor": "Compare the 1800W BLUETTI and 2400W Dyness against a microwave's nameplate."
+  },
+  {
+   "spec": "Cycle life",
+   "meaning": "How many full charge cycles the cells survive before dropping to about 80 percent capacity. LiFePO4 typically exceeds 3000.",
+   "watchFor": "The Jackery 300, EcoFlow and Dyness all cite roughly 4000."
+  },
+  {
+   "spec": "UPS switchover",
+   "meaning": "How quickly the station moves from wall power to battery. Ten milliseconds or less keeps most electronics running.",
+   "watchFor": "The LIBRIDS lists 10ms, while some rivals only claim a vague emergency mode."
+  },
+  {
+   "spec": "Solar input",
+   "meaning": "The maximum panel wattage the station accepts. It sets how quickly the battery refills from the sun.",
+   "watchFor": "The AC180 and Delta 3 accept up to 500W."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cell chemistry and cycle claims",
+   "description": "All five stations use LiFePO4, so we compared stated cycle life and capacity retention. The Jackery 300, EcoFlow Delta 3 and Dyness cite around 4000 cycles, which sets the benchmark."
+  },
+  {
+   "title": "Output versus capacity balance",
+   "description": "A big battery with a weak inverter strands energy. The BLUETTI AC180 at 1152Wh and 1800W and the Dyness at 2048Wh and 2400W balance the two better than the small units."
+  },
+  {
+   "title": "Recharge behavior",
+   "description": "We compared AC and solar charge times because refill speed changes daily use. The AC180 at about an hour and the Delta 3 at 56 minutes led."
+  },
+  {
+   "title": "Portability",
+   "description": "We weighed capacity against carrying weight. The Jackery Explorer 300 at 7.5 lb is far more portable than the heavy Dyness, and each earned credit for its purpose."
+  },
+  {
+   "title": "Ownership realism",
+   "description": "Fan noise, app support and brand backing came from spec sheets and owner feedback patterns. Established brands such as Jackery, BLUETTI and EcoFlow earned credit for support."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Intended Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Hiking, travel, laptop and phones",
+      "Jackery Explorer 300",
+      "7.5 lb with USB-C PD"
+     ],
+     [
+      "Router or CPAP during outages",
+      "LIBRIDS 640Wh",
+      "10ms UPS switchover"
+     ],
+     [
+      "Camping with a microwave or coffee maker",
+      "BLUETTI AC180",
+      "1800W with a one-hour recharge"
+     ],
+     [
+      "Home backup of a refrigerator",
+      "Dyness 2048Wh",
+      "2048Wh and 2400W output"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "Jackery Explorer 300",
+      "Cheapest entry into LiFePO4"
+     ],
+     [
+      "Middle",
+      "LIBRIDS 640Wh",
+      "More capacity and UPS for a moderate cost"
+     ],
+     [
+      "Highest",
+      "Dyness 2048Wh",
+      "Most energy at the highest outlay"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Small Station vs Large Station",
+   "cards": [
+    {
+     "label": "Small station",
+     "text": "The Jackery Explorer 300 and LIBRIDS 640Wh are portable and quick to charge, but they run only small loads. They suit travel and bedside backup."
+    },
+    {
+     "label": "Large station",
+     "text": "The BLUETTI AC180, Delta 3 and Dyness run appliances and last longer but weigh far more. They suit car camping and home backup."
+    }
+   ],
+   "note": "Choose small for carrying and large for appliances."
+  },
+  {
+   "subheading": "Recharge Needs",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fastest AC recharge",
+      "EcoFlow Delta 3",
+      "Full in 56 minutes"
+     ],
+     [
+      "Fast recharge with big output",
+      "BLUETTI AC180",
+      "About one hour at 1440W"
+     ],
+     [
+      "Large capacity, still quick",
+      "Dyness 2048Wh",
+      "0 to 80 percent in 1.8 hours"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Long-Term Ownership Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Stated cycle life above 3000, a battery management system, an app with charge limits and a manufacturer with a track record. Keep the daily charge limit near 80 percent."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The EcoFlow Delta 3 offers charge limits and expansion, and the Jackery 300 offers a proven brand with a stated 4000 cycles."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want home backup or a campsite kitchen. The Dyness 2048Wh or BLUETTI AC180 delivers the output and runtime."
+    },
+    {
+     "label": "Save if",
+     "text": "You only charge phones and a laptop. The Jackery Explorer 300 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Store at partial charge",
+   "interval": "During storage",
+   "why": "About 40 to 60 percent charge reduces cell stress. A full or empty pack ages faster."
+  },
+  {
+   "task": "Top up the battery",
+   "interval": "Every three months",
+   "why": "Self-discharge slowly drains a stored pack. Topping up keeps it above the protection cutoff."
+  },
+  {
+   "task": "Avoid heat and freezing",
+   "interval": "Always",
+   "why": "Hot cars degrade cells and charging below freezing can damage them. Keep the unit in a stable environment."
+  },
+  {
+   "task": "Check vents and fans",
+   "interval": "Twice a year",
+   "why": "Dust blocks cooling during fast charging. Compressed air keeps airflow clear."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "Yearly",
+   "why": "App updates can improve charge limits and fix bugs. Check before a trip."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Why choose LiFePO4 over standard lithium-ion?",
+   "a": "LiFePO4 survives far more charge cycles, often 3000 or more against 500 to 800, and tolerates heat better. The cost is more weight for the same energy."
+  },
+  {
+   "q": "How long will a 1000Wh station run a refrigerator?",
+   "a": "A typical refrigerator averages around 50 to 100 watts, so roughly 8 to 16 hours is realistic after conversion losses. Defrost cycles and startup spikes shorten that. Running the fridge from a smaller station is possible overnight but not for a full weekend."
+  },
+  {
+   "q": "Can I run it while charging?",
+   "a": "Many models support pass-through use, but it adds heat and wear. Use it for a router or laptop, not as a routine way to run heavy loads."
+  },
+  {
+   "q": "Do small stations need a pure sine inverter?",
+   "a": "Sensitive electronics and some chargers prefer pure sine. Check the listing's wording, since some small units use simplified output. If the manual lists a pure sine output, it is the safer choice for laptops and medical devices."
+  },
+  {
+   "q": "Can I charge it from solar panels?",
+   "a": "Yes, within the unit's solar input limits. The AC180 and Delta 3 accept up to 500W, while small units take less, and connectors and voltage windows must match."
+  },
+  {
+   "q": "Can I fly with a power station?",
+   "a": "Only very small ones. Airlines allow up to 100Wh without approval and 160Wh with it, so every unit here, even the 292Wh Jackery, is ground-use only."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg"
+}

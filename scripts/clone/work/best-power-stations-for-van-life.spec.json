@@ -1,0 +1,580 @@
+{
+ "guideSlug": "best-power-stations-for-van-life",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best power stations for van life",
+ "guideTitle": "Best Power Stations for Van Life (2026)",
+ "metaTitle": "Best Power Stations for Van Life (2026)",
+ "metaDescription": "Six portable power stations for van life from 256Wh to 3840Wh, compared on weight, DC outputs, solar and driving recharge, fridge runtime and real daily loads.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The BLUETTI Apex 300 is the best power station for a full-time van because its 2764Wh pack, six AC outlets and DC hub run a fridge, laptop and kitchen gear in one box, while the DaranEner 288Wh with 600W output is the value pick for weekend rigs. The BLUETTI Elite 400 kit adds panels for off-grid stretches. Anyone running a rooftop air conditioner from a van battery should plan a dedicated lithium bank instead.",
+ "introParagraphs": [
+  "A van is a small, moving electrical system with a tight budget for space and weight. Every pound of battery eats into payload, every cubic inch matters in a cabinet, and a power station has to earn its place by doing several jobs at once.",
+  "The best choice depends on how you live. A weekend camper needs lights, a laptop and a phone, a full-timer needs a fridge, cooking and a work setup, and both need a sensible way to recharge on the road. This guide compares six stations across that range."
+ ],
+ "products": [
+  {
+   "id": "B0FJ1XXXGD",
+   "badge": "Best Overall",
+   "name": "BLUETTI Apex 300 2764.8Wh LFP Power Station with Hub D1",
+   "specs": [
+    "2764.8Wh LFP",
+    "3840W AC output",
+    "6 AC outlets",
+    "120/240V output"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2764.8Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3840W across six outlets"
+    },
+    {
+     "label": "Voltage",
+     "value": "120V and 240V simultaneous output"
+    },
+    {
+     "label": "DC hub",
+     "value": "Hub D1 with 50A Anderson, lighter ports, DC5521, USB-C and USB-A"
+    },
+    {
+     "label": "Intended use",
+     "value": "RV and van power without shore hookup"
+    }
+   ],
+   "description": "Six AC outlets and a bolt-on DC hub turn the Apex 300 into the closest thing to a built-in van electrical system you can buy as a box. The 2764.8 watt-hour LFP battery feeds 3840 watts of AC and, uniquely in this guide, 120 and 240 volt output at the same time. The Hub D1 adds a 50 amp Anderson connector, two cigarette lighter ports, two DC5521 ports and USB-C and USB-A ports, so a 12V compressor fridge, lights and a Starlink-style dish can run without the inverter.\n\nThat breadth means a van with a fridge, a laptop desk, an induction cooktop and a fan can run off one device. Compared with the 3840Wh Elite 400 it has less energy but a much stronger inverter and the hub, and against the 288Wh stations it is nearly ten times the storage at several times the weight. It is a fixed installation, not a grab-and-go bag.\n\nSecure it with straps and a mounting plate, because a heavy battery in an accident is dangerous. Plan ventilation around the case, use the DC hub for fridge and lights to save inverter overhead, and recharge from solar or a DC-to-DC source on drive days. Run the DC hub's output through fuses sized for each device, since a short on a 50 amp connector is a real fire risk.",
+   "bestFor": "Full-time vans that want one box to run a fridge, desk and kitchen.",
+   "pros": [
+    "2764.8Wh LFP with 3840W AC output",
+    "Six AC outlets with 120V and 240V output",
+    "Hub D1 adds a 50A Anderson and DC ports",
+    "Runs a full van kitchen without a built-in bank"
+   ],
+   "cons": [
+    "Very heavy and takes payload and cabinet space",
+    "Highest outlay among the single boxes",
+    "Overkill for a weekend rig"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJ1XXXGD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41AYzvs0fvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G8XP6GLQ",
+   "badge": "Best Solar Kit",
+   "name": "BLUETTI Elite 400 3840Wh Station with Two 200W Panels",
+   "specs": [
+    "3840Wh",
+    "2600W output",
+    "3900W surge",
+    "Two 200W panels"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3840Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "2600W, 3900W power lifting"
+    },
+    {
+     "label": "Solar",
+     "value": "Two 200W panels included"
+    },
+    {
+     "label": "Mobility",
+     "value": "Easy-roll trolley system"
+    },
+    {
+     "label": "Use",
+     "value": "Refrigerators to power tools"
+    }
+   ],
+   "description": "Three and a half kilowatt-hours with panels in the box is the pitch for off-grid stretches, and the Elite 400 kit includes two 200 watt solar panels and a rolling trolley. Its 2600 watt output with a 3900 watt surge runs a fridge, a laptop desk and a kettle together, and the biggest battery in this guide keeps a van going for days of modest use.\n\nFour hundred watts of panels will not refill 3840 watt-hours quickly, so expect a day or more of good sun to recover a deep discharge, which makes a van's roof or a driving DC source a useful companion. Compared with the Apex 300 it holds more energy but offers a lower output and no DC hub, and against the 519Wh GRECELL it has seven times the storage.\n\nIn a van the trolley is mostly for loading, since the case will sit in a cabinet or on the floor. Strap it down, set a charge limit for storage and use the panels on a stand outside the van when parked.",
+   "bestFor": "Boondocking vans that want maximum storage with solar included.",
+   "pros": [
+    "3840Wh is the largest capacity in the group",
+    "Two 200W solar panels included",
+    "2600W output with 3900W surge",
+    "Trolley makes loading easier"
+   ],
+   "cons": [
+    "400W of panels recharge it slowly",
+    "Heavy and bulky for most vans",
+    "Lower output than the Apex 300"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0G8XP6GLQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BNMGT1rqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B9H8W8HP",
+   "badge": "Best Mid-Size Pick",
+   "name": "GRECELL 500W 519Wh Portable Power Station",
+   "specs": [
+    "519Wh",
+    "500W pure sine",
+    "60W USB-C PD",
+    "10 devices"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "519Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "500W pure sine"
+    },
+    {
+     "label": "USB-C",
+     "value": "60W PD"
+    },
+    {
+     "label": "Devices",
+     "value": "Up to 10 at once"
+    },
+    {
+     "label": "Chemistry",
+     "value": "Lithium, not stated as LiFePO4"
+    }
+   ],
+   "description": "Mid-size means 519 watt-hours and 500 watts of pure sine output, the sweet spot for a weekend van with a laptop, lights and a small fan. A 60 watt USB-C PD port charges phones and laptops directly, and the unit can run up to ten devices at once through its AC, DC and USB ports.\n\nThe listing describes a lithium pack without naming LiFePO4, so expect a shorter cycle life than a LiFePO4 unit, which matters in a van that cycles the battery daily. Compared with the 288Wh DaranEner it has nearly double the energy, and against the 2764Wh Apex 300 it is a small, portable choice. It will not run a kettle or an induction burner.\n\nUse it for lighting, a laptop and phones, and recharge it from solar or the vehicle's 12V socket. Store it out of direct sun, since a van cabin can exceed safe temperatures for lithium cells. Because it is a small unit, it also works as a secondary battery for a laptop desk while the main system runs the fridge.",
+   "bestFor": "Weekend vans with modest loads and a limited budget.",
+   "pros": [
+    "519Wh with 500W pure sine output",
+    "60W USB-C PD charges laptops directly",
+    "Runs up to ten devices at once",
+    "Compact enough for a shelf"
+   ],
+   "cons": [
+    "Listing does not state LiFePO4, so cycle life is shorter",
+    "500W cannot run cooking or heating appliances",
+    "Less polished app and support"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0B9H8W8HP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F247MPFL",
+   "badge": "Best Value",
+   "name": "DaranEner 288Wh 600W LiFePO4 Power Station",
+   "specs": [
+    "288Wh LiFePO4",
+    "600W, 1200W surge",
+    "8.3 lb",
+    "3500+ cycles"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "288Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "600W, 1200W surge"
+    },
+    {
+     "label": "Weight",
+     "value": "8.3 lb"
+    },
+    {
+     "label": "Fast charge",
+     "value": "0 to 80 percent in 2 hours by AC"
+    },
+    {
+     "label": "Cycle claim",
+     "value": "3500+ cycles with 12 safety protections"
+    }
+   ],
+   "description": "A 600 watt inverter with a 1200 watt surge on a 288 watt-hour LiFePO4 pack at 8.3 pounds makes this DaranEner a small station that can still run a blender or a small hot plate for a few minutes. The 3500-plus cycle claim and 12 safety protections with a battery management system suit a van where the battery is cycled almost every day.\n\nIt recharges to 80 percent in about two hours by AC, or faster with solar and AC together, which fits a stop at a campground. Compared with the 256Wh ALLWEI it has a stronger inverter and a higher surge, and against the 519Wh GRECELL it has about half the energy but a LiFePO4 pack and more output. It is a gear battery, not a kitchen battery.\n\nUse it for a laptop, lights and a router, and keep it in a cabinet with a few inches of airflow. Recharge it from a solar panel or the vehicle, and do not rely on it for a fridge.",
+   "bestFor": "Weekend and part-time vans that want LiFePO4 life in a small, light unit.",
+   "pros": [
+    "600W output with 1200W surge in 8.3 lb",
+    "3500+ stated cycles on LiFePO4",
+    "12 safety protections with a BMS",
+    "Recharges to 80 percent in about 2 hours"
+   ],
+   "cons": [
+    "288Wh is short for a fridge",
+    "Basic app and limited support",
+    "Slower recharge than the premium brands"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F247MPFL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cFJ7+6p3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B082TMBYR6",
+   "badge": "Best Established Brand Pick",
+   "name": "Jackery Explorer 300 292Wh LiFePO4 Power Station",
+   "specs": [
+    "292Wh LiFePO4",
+    "7.5 lb",
+    "100W USB-C PD",
+    "2 AC outlets"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "292Wh LiFePO4"
+    },
+    {
+     "label": "Weight",
+     "value": "7.5 lb"
+    },
+    {
+     "label": "USB-C",
+     "value": "100W PD"
+    },
+    {
+     "label": "Other ports",
+     "value": "Two AC, two USB-A, 120W car port"
+    },
+    {
+     "label": "Cycle life",
+     "value": "Over 4000 stated"
+    }
+   ],
+   "description": "A 120 watt car port and a 100 watt USB-C port are the outputs that suit a van, because they power 12V gear and laptops without wasting energy through the AC inverter. The Explorer 300 weighs 7.5 pounds, uses LiFePO4 cells rated for more than 4000 cycles and carries a brand with a wide support network, which matters when you are far from home.\n\nIt has two AC outlets and four other ports, so six devices can run at once. Capacity is modest, at 292 watt-hours, so it is a supplement to the van's main battery or the sole source for a minimalist rig. Compared with the 288Wh DaranEner it has a similar capacity with more output flexibility and brand support, but a lower inverter rating.\n\nStrap it down so it cannot slide, keep it out of a hot cabin and recharge it while driving through the 12V socket. For day-to-day van life it works as a go-bag battery. Keep its charge cable in the same drawer, since a lost charger in a remote spot is the most common reason a small battery fails.",
+   "bestFor": "Minimalist vans and day trips that need a light, proven battery.",
+   "pros": [
+    "100W USB-C PD and 120W car port suit DC gear",
+    "7.5 lb is light for van storage",
+    "Over 4000 stated cycles on LiFePO4",
+    "Established brand with wide support"
+   ],
+   "cons": [
+    "292Wh limits runtime for a laptop desk and fridge",
+    "Only two AC outlets",
+    "Lower inverter rating than the DaranEner"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WY4aAoRLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08CXN4TZR",
+   "badge": "Best Small LiFePO4 Pick",
+   "name": "ALLWEI 300W 256Wh Pure Sine LiFePO4 Power Station",
+   "specs": [
+    "256Wh LiFePO4",
+    "300W, 600W surge",
+    "Pure sine AC",
+    "60W USB-C PD"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "256Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "300W continuous, 600W peak surge"
+    },
+    {
+     "label": "AC outlets",
+     "value": "One pure sine outlet"
+    },
+    {
+     "label": "Other ports",
+     "value": "Two DC5521, car lighter, USB-A 18W, PD 60W"
+    },
+    {
+     "label": "Class",
+     "value": "Compact personal power"
+    }
+   ],
+   "description": "One pure sine AC outlet, two DC5521 ports, a car lighter port, an 18 watt USB-A port and a 60 watt PD USB-C port make the ALLWEI a compact personal power pack for a van. It stores 256 watt-hours in LiFePO4 cells and supplies 300 watts, with 600 watts of surge for brief spikes.\n\nIt is the smallest station here after the Jackery, and it makes sense for one person with a laptop, lights and a phone. Compared with the 292Wh Jackery it has similar capacity but only one AC outlet, and against the 288Wh DaranEner it has half the output rating. It will not cope with kitchen gear, and the single outlet limits what you can run at once.\n\nUse the DC outputs for lights and a fan to save inverter losses, and recharge it from the vehicle on drive days. Keep it somewhere that stays cool in summer. A silicone mat under the case reduces vibration and keeps it from sliding on rough roads.",
+   "bestFor": "Solo travelers with a laptop, lights and phone and little space.",
+   "pros": [
+    "256Wh LiFePO4 with pure sine output",
+    "60W USB-C PD and several DC outputs",
+    "Compact and light",
+    "600W surge covers small startup spikes"
+   ],
+   "cons": [
+    "Only one AC outlet",
+    "300W rating limits kitchen appliances",
+    "Short runtime for a fridge"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B08CXN4TZR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Daily watt-hours in a van",
+   "explanation": "Add the day: a 12V compressor fridge uses 300 to 600Wh, a laptop desk 200 to 300Wh, lights and a fan 100Wh. That is 600 to 1000Wh, which suits the Apex 300's 2764Wh with margin and overwhelms a 288Wh unit. Weekend rigs can live on 288Wh to 519Wh."
+  },
+  {
+   "criterion": "DC outputs versus AC inverter",
+   "explanation": "Running a 12V fridge or lights from a DC port avoids inverter losses of 10 to 15 percent. The Apex 300's Hub D1 provides a 50A Anderson and lighter ports, while the Jackery 300 offers a 120W car port. An AC-only unit wastes energy on DC gear."
+  },
+  {
+   "criterion": "Weight and tie-down",
+   "explanation": "A heavy battery in a collision is a projectile. The Apex 300 and Elite 400 need a bolted or strapped mount, while the 7.5 lb Jackery 300 and 8.3 lb DaranEner fit a shelf with a strap. Count payload as well."
+  },
+  {
+   "criterion": "Recharging while driving",
+   "explanation": "Van life is mostly parked, so recharging on drive days matters. A 12V socket supplies a few hundred watt-hours an hour at most, while a DC-to-DC charger or an alternator input does more. Check each unit's DC input limit."
+  },
+  {
+   "criterion": "Solar input fit",
+   "explanation": "The Elite 400 includes 400W of panels, while others need panels sold separately. Roof space limits array size, so check the unit's solar wattage and voltage window. Cloudy weeks need generous storage."
+  },
+  {
+   "criterion": "Heat in a parked van",
+   "explanation": "A closed van in summer can exceed 60 degrees Celsius inside, which stresses lithium cells. LiFePO4 units like the Jackery 300 and DaranEner tolerate heat better, but ventilation and shade still help."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Watt-hours",
+   "meaning": "The energy stored, which sets days of use. Compare it with your daily watt-hours.",
+   "watchFor": "The lineup runs from 256Wh on the ALLWEI to 3840Wh on the Elite 400."
+  },
+  {
+   "spec": "DC output current",
+   "meaning": "The amps available at 12V for fridges, lights and pumps. High DC output avoids inverter losses.",
+   "watchFor": "The Apex 300 hub lists a 50A Anderson connector."
+  },
+  {
+   "spec": "Surge watts",
+   "meaning": "A brief allowance for motor startup, such as a fridge compressor.",
+   "watchFor": "The DaranEner lists 1200W surge and the ALLWEI 600W."
+  },
+  {
+   "spec": "Cycle life",
+   "meaning": "The number of full cycles before capacity falls to about 80 percent. Vans cycle daily, so it matters.",
+   "watchFor": "The Jackery states over 4000 and the DaranEner 3500 plus."
+  },
+  {
+   "spec": "120V and 240V output",
+   "meaning": "Split-phase output that can power both 120V and 240V appliances.",
+   "watchFor": "Only the Apex 300 lists simultaneous 120V and 240V."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Fit for van daily loads",
+   "description": "We matched capacity and output to a fridge, laptop and lighting day. The Apex 300 and Elite 400 cover a full-time day, and smaller units cover weekends."
+  },
+  {
+   "title": "DC and charging options",
+   "description": "We rated DC ports and road charging, since vans live on 12V. The Apex 300's hub and the Jackery's car port led."
+  },
+  {
+   "title": "Weight and mounting",
+   "description": "Payload and safety matter in a van. Lighter units scored higher, and the heaviest need a proper mount."
+  },
+  {
+   "title": "Chemistry and cycle life",
+   "description": "We favored LiFePO4 for daily cycling. The GRECELL's unstated chemistry cost it points."
+  },
+  {
+   "title": "Ownership realism",
+   "description": "Support, app polish and heat tolerance came from spec sheets and owner feedback patterns. Established brands earned credit for warranty reach."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Van Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Solo traveler with a laptop",
+      "ALLWEI 256Wh",
+      "Compact LiFePO4 with USB-C PD"
+     ],
+     [
+      "Weekend van, small gear",
+      "DaranEner 288Wh",
+      "600W output in 8.3 lb"
+     ],
+     [
+      "Part-time van with a fridge",
+      "GRECELL 519Wh",
+      "519Wh with 500W pure sine"
+     ],
+     [
+      "Full-time van with kitchen and desk",
+      "BLUETTI Apex 300",
+      "2764Wh, six AC outlets and a DC hub"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "ALLWEI 256Wh",
+      "Cheapest small LiFePO4 pick"
+     ],
+     [
+      "Low to middle",
+      "DaranEner 288Wh",
+      "Strong inverter for its price"
+     ],
+     [
+      "Middle",
+      "GRECELL 519Wh",
+      "More energy at a moderate outlay"
+     ],
+     [
+      "Highest",
+      "BLUETTI Elite 400 kit",
+      "Largest capacity with panels included"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Single Station vs Built-In Battery Bank",
+   "cards": [
+    {
+     "label": "Single station",
+     "text": "The Apex 300 and DaranEner install in minutes and can leave the van. They cost more per watt-hour but need no wiring."
+    },
+    {
+     "label": "Built-in battery bank",
+     "text": "A bolted-in lithium bank with an inverter and DC-to-DC charger costs less per watt-hour and integrates cleanly, but it needs wiring skill."
+    }
+   ],
+   "note": "Choose a station for simplicity and a built-in bank for a permanent build."
+  },
+  {
+   "subheading": "Charging Style",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Solar included",
+      "BLUETTI Elite 400 kit",
+      "Two 200W panels in the box"
+     ],
+     [
+      "Car socket and USB-C recharge",
+      "Jackery Explorer 300",
+      "120W car port and 100W USB-C"
+     ],
+     [
+      "Fast AC refill at a campground",
+      "DaranEner 288Wh",
+      "0 to 80 percent in 2 hours"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Remote Work Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "USB-C PD for the laptop, enough watt-hours for a day of work and a router, and a way to recharge on the move. Quiet fans help on calls."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Jackery 300 and GRECELL offer PD ports, and the Apex 300 runs a full desk setup with room to spare."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You live in the van full time or run a fridge and a desk. The Apex 300 or Elite 400 earns its cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You only camp on weekends. The DaranEner 288Wh or ALLWEI is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check the tie-down",
+   "interval": "Before each trip",
+   "why": "A loose battery is a hazard in a collision. Retighten straps and mounts."
+  },
+  {
+   "task": "Store at partial charge",
+   "interval": "During storage",
+   "why": "About 40 to 60 percent reduces cell stress."
+  },
+  {
+   "task": "Avoid heat",
+   "interval": "Summer",
+   "why": "A closed van is hot. Keep the unit shaded and ventilated."
+  },
+  {
+   "task": "Clean vents",
+   "interval": "Twice a year",
+   "why": "Dust blocks cooling, and vans collect a lot of it."
+  },
+  {
+   "task": "Check DC connectors",
+   "interval": "Every season",
+   "why": "Vibration loosens connectors. Loose DC contacts overheat under load."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How big a power station do I need for van life?",
+   "a": "A fridge, laptop and lights total roughly 600 to 1000Wh a day. Weekend vans can use 288Wh to 519Wh, while full-timers need 2000Wh or more."
+  },
+  {
+   "q": "Can a power station run a 12V fridge?",
+   "a": "Yes, ideally through a DC output. A 12V compressor fridge averages 30 to 50 watts, so a 500Wh unit lasts roughly 8 to 12 hours. Opening the lid often and hot weather push the number toward the high end."
+  },
+  {
+   "q": "How do I recharge on the road?",
+   "a": "By solar, the vehicle's 12V socket or a DC-to-DC charger. A 12V socket adds only a few hundred watt-hours per hour of driving. Solar on the roof is the only truly independent option, so many vans combine it with a smaller drive charge."
+  },
+  {
+   "q": "Is LiFePO4 better for van life?",
+   "a": "Yes. It tolerates heat and daily cycling better and lasts thousands of cycles."
+  },
+  {
+   "q": "Can I run an air conditioner?",
+   "a": "Not for long. A 3000Wh station runs a 1500W unit for roughly an hour and a half. Use shore power or a larger bank."
+  },
+  {
+   "q": "Should I secure the power station?",
+   "a": "Yes. Strap or bolt it down, since a loose battery is dangerous in a crash."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41AYzvs0fvL._SL500_.jpg"
+}

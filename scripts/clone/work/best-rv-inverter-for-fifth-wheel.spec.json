@@ -1,0 +1,575 @@
+{
+ "guideSlug": "best-rv-inverter-for-fifth-wheel",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best rv inverter for fifth wheel",
+ "guideTitle": "Best RV Inverter for Fifth Wheel (2026)",
+ "metaTitle": "Best RV Inverter for Fifth Wheel (2026)",
+ "metaDescription": "Six large RV inverters for fifth wheels, from 24V inverter chargers to 5000W pure sine units, with surge, battery current, sine wave and wiring explained.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The AIMS 4000W 24V inverter charger is the best overall for a fifth wheel that is being rewired seriously, and the Jlouneo 3500W is the value pick for a plug-in 12V system. The Go Power 5000HD is a cheaper modified sine option for resistive loads. Fifth-wheel owners who expect to run both air conditioners and a residential fridge off batteries should skip a 12V inverter entirely and plan a 24V or 48V bank.",
+ "introParagraphs": [
+  "Fifth wheels are the heaviest electrical consumers in the RV world. They carry big refrigerators, multiple air conditioners and long lists of circuits, so an inverter that works for a camper van is usually far too small here.",
+  "A good fifth-wheel inverter therefore has to be judged as part of the whole power system, including the bank voltage, the charger and the way the AC loads are divided. This guide compares large units by continuous rating, surge, battery current and how they fit a rig of this size."
+ ],
+ "products": [
+  {
+   "id": "B07MVMJDQL",
+   "badge": "Best Overall",
+   "name": "AIMS 4000W 24V Pure Sine Inverter Charger",
+   "specs": [
+    "4000W continuous",
+    "12000W surge",
+    "24V DC input",
+    "Charger and ATS"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "4000W"
+    },
+    {
+     "label": "Surge output",
+     "value": "12000W for up to 20 seconds"
+    },
+    {
+     "label": "Input voltage",
+     "value": "24V DC"
+    },
+    {
+     "label": "Functions",
+     "value": "Inverter, multi-stage charger, transfer switch"
+    },
+    {
+     "label": "Battery support",
+     "value": "LiFePO4, AGM, gel, lead-acid"
+    }
+   ],
+   "description": "Moving from 12 volts to 24 volts is the single smartest upgrade a big fifth wheel can make, and this AIMS is built around it. At 4000W a 12V inverter would pull around 370 amps, but at 24V the same load needs only about 185, which means thinner cable, cooler terminals and far less voltage drop. The surge allowance of 12000W for up to 20 seconds is exceptionally generous, enough to start a stubborn rooftop compressor.\n\nThe unit also includes a multi-stage battery charger and an automatic transfer switch, so shore power both feeds the coach and refills the bank. That removes a separate converter, which in a fifth wheel is a significant wiring simplification. Against the 6000W AIMS it gives up 2000W but weighs less, costs less and fits a more modest 24V bank, and against 12V rivals like the Jlouneo 3500W it demands a 24V battery system you may not yet have.\n\nPlan the install seriously. Run the AC output to a dedicated subpanel with only the circuits you want inverted, because a fifth wheel's 50 amp service has two 120V legs and the inverter provides one. Set the charger profile for your battery chemistry before the first use, and mount it where its fan noise will not bother the bedroom.",
+   "bestFor": "Fifth wheel owners moving to a 24V bank and wanting inverter, charger and switch together.",
+   "pros": [
+    "24V input halves battery current compared with a 12V unit",
+    "12000W surge capability starts hard compressors",
+    "Built-in charger and transfer switch simplify wiring",
+    "Supports LiFePO4, AGM, gel and lead-acid charging profiles"
+   ],
+   "cons": [
+    "Requires a 24V battery system, which means new batteries",
+    "Heavy and needs a dedicated subpanel installation",
+    "One 120V leg only, so a 50A coach needs circuit planning"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B07MVMJDQL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41m5w3uKlQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07MVMNM44",
+   "badge": "Best High-Capacity Pick",
+   "name": "AIMS 6000W 24V Pure Sine Inverter Charger",
+   "specs": [
+    "6000W continuous",
+    "18000W surge",
+    "24V DC input",
+    "4-stage charger"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "6000W"
+    },
+    {
+     "label": "Surge output",
+     "value": "18000W for up to 20 seconds"
+    },
+    {
+     "label": "Input voltage",
+     "value": "24V DC"
+    },
+    {
+     "label": "Charger",
+     "value": "Four-stage smart charger"
+    },
+    {
+     "label": "Functions",
+     "value": "Inverter, charger, transfer switch"
+    }
+   ],
+   "description": "Six kilowatts of continuous output is the largest figure in the lineup, and it is the one that can carry a fifth wheel through a full day of normal living. Two air conditioners cannot be run at once from most banks, but with this unit the microwave, the residential refrigerator, an induction cooktop and one air conditioner can all share the same leg. The surge capability of 18000W handles every compressor start you can name.\n\nThat capacity has costs. At 6000W on a 24V system the current is about 270 amps, so you need a lithium bank able to deliver that continuously, big cables and a fuse rated for it. Compared with the 4000W AIMS it adds 2000W for a substantial price and weight premium, and compared with the 5000W Sunivora it holds more output but needs a 24V system instead of a 12V one.\n\nOwnership favors people who plan. A unit this size generates real heat, so vent the compartment and avoid sealing it in a closet. Check terminal torque each season, program the four-stage charger to match the batteries, and keep a battery monitor so a low-voltage shutdown never surprises you in the middle of a heat wave.",
+   "bestFor": "Large fifth wheels with a big 24V lithium bank and residential-scale appliances.",
+   "pros": [
+    "6000W continuous is the largest rating in the lineup",
+    "18000W surge handles any compressor start",
+    "Four-stage charger supports lithium and lead-acid banks",
+    "24V input keeps battery current manageable at high power"
+   ],
+   "cons": [
+    "Needs a large 24V lithium bank and heavy cabling",
+    "Highest cost and weight in the group",
+    "A single 120V leg still needs planned subpanel wiring"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07MVMNM44?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4160Y-PTrPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DNW39T4V",
+   "badge": "Best Plug-in 12V Powerhouse",
+   "name": "SUNIVORA 5000W Pure Sine Inverter 12V with Remote",
+   "specs": [
+    "5000W continuous",
+    "10000W peak",
+    "4 AC outlets",
+    "Remote and LCD"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "5000W"
+    },
+    {
+     "label": "Peak output",
+     "value": "10000W"
+    },
+    {
+     "label": "Outlets",
+     "value": "Four AC plus one 5V 4A USB"
+    },
+    {
+     "label": "Wiring",
+     "value": "Hardwired terminal block"
+    },
+    {
+     "label": "Remote",
+     "value": "Remote control and LCD"
+    }
+   ],
+   "description": "Five thousand watts from a 12V input is the headline here, with four AC outlets and a hardwire terminal block to feed a subpanel. The remote control and LCD make it easier to monitor and switch from inside the coach. For someone who wants to keep their existing 12V bank and add serious power, this is the most capable unit in the group.\n\nThe cost of 12V is current: 5000W would draw roughly 470 amps, which is beyond almost any practical battery bank and any cable you can reasonably install. In practice the Sunivora is limited by the battery, not the inverter, and real use sits well below the rating. Next to the 3500W Jlouneo it offers 1500W more on paper, and against the 4000W AIMS it offers more watts but none of the charger or transfer-switch integration.\n\nTreat it as a high-power tool rather than a daily driver. Install it close to the battery, use cables in the range of 4/0 or larger, add a class-T fuse, and plan on running the engine or a generator for the heaviest loads. The fan is loud under load, so mount it away from sleeping areas.",
+   "bestFor": "Owners keeping a 12V system who want the highest possible rating.",
+   "pros": [
+    "5000W continuous rating with a 10000W peak allowance",
+    "Four AC outlets plus a hardwire terminal block",
+    "Remote and LCD for control from inside the coach",
+    "Pure sine output suits motors and electronics"
+   ],
+   "cons": [
+    "Draws roughly 470 amps at full load from a 12V bank",
+    "No charger or transfer switch built in",
+    "Fan is loud when working hard"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DNW39T4V?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51FI8-VdBTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FW54M994",
+   "badge": "Best Value",
+   "name": "Jlouneo 3500W Pure Sine Inverter 12V with 7000W Surge",
+   "specs": [
+    "3500W continuous",
+    "7000W surge",
+    "Pure sine wave",
+    "12V DC only"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "3500W"
+    },
+    {
+     "label": "Surge output",
+     "value": "7000W"
+    },
+    {
+     "label": "Waveform",
+     "value": "Pure sine wave"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC battery only"
+    },
+    {
+     "label": "Intended use",
+     "value": "Truck, semi, RV, solar, home"
+    }
+   ],
+   "description": "Value in a fifth-wheel inverter means a pure sine output at a modest outlay, and the Jlouneo 3500W provides exactly that. It is the cheapest unit in this lineup and carries a surge allowance of 7000W, enough for most refrigerator and fan startups. It is a sensible way to feed the lights, the television, a microwave and one appliance without a full system rewrite.\n\nThe 3500W rating still demands a lot of the 12V bank: about 330 amps at full load. That means a large lithium battery or two in parallel, with heavy cable and a fuse near the post. It is aimed at a 12V input only, and the listing is explicit that it must not be connected to a 24V system. Compared with the 4000W AIMS it gives up charger and switch but costs much less, and compared with the 5000W Sunivora it asks less of the battery.\n\nAs a daily tool it is easy to live with. Keep the cables short, mount it vertically with space around the fan, and avoid running the full rating for long periods. Treat it as the entry-level choice for a fifth wheel that mostly runs on shore power and uses the inverter for brief outages.",
+   "bestFor": "Fifth wheels with a 12V bank that need the lowest-cost route to pure sine power.",
+   "pros": [
+    "Lowest cost of the pure sine units in the lineup",
+    "3500W continuous covers a microwave and electronics",
+    "7000W surge handles most refrigerator starts",
+    "Simple plug-in installation on a 12V bank"
+   ],
+   "cons": [
+    "No transfer switch or built-in charger",
+    "Draws about 330 amps at full load",
+    "12V only, so it cannot join a 24V upgrade later"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FW54M994?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51cHSA1391L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07Z8WSQ5R",
+   "badge": "Best for Solar-Ready Setups",
+   "name": "WZRELB RBP-500012S 5000W Pure Sine Inverter",
+   "specs": [
+    "5000W continuous",
+    "10000W surge",
+    "Pure sine wave",
+    "Full protections"
+   ],
+   "specList": [
+    {
+     "label": "Continuous output",
+     "value": "5000W"
+    },
+    {
+     "label": "Surge output",
+     "value": "10000W"
+    },
+    {
+     "label": "Waveform",
+     "value": "Pure sine wave"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    },
+    {
+     "label": "Protections",
+     "value": "Over and low voltage, overload, short, overheat, reverse polarity"
+    }
+   ],
+   "description": "Reverse polarity protection is a detail that often goes missing on cheap inverters, and the WZRELB lists it alongside over-voltage, low-voltage, overload, short circuit and overheat shutdowns. That wider protection set matters on a big install where a wrong connection could cause real damage. The unit uses a copper inductor in its filter stage, which the listing credits for a clean pure sine waveform.\n\nIt matches the Sunivora at 5000W continuous and 10000W surge but lacks the multi-outlet and remote extras, so it appeals to someone who will hardwire it and not care about a front panel. Against the Jlouneo 3500W it offers 1500W more for a higher price and heavier current demand, and against the Go Power 5000HD it adds true pure sine output.\n\nOwnership comes down to the same hard rules as any 12V giant. Use the heaviest cable that physically fits, a class-T fuse, short runs and good ventilation. Because the brand is less common, keep the manual and a note of the fuse size, and plan around the fact that parts or support may be harder to reach than with a major brand.",
+   "bestFor": "Hardwired solar-style installs that want strong protection circuitry at 5000W.",
+   "pros": [
+    "Reverse polarity and other protections are listed",
+    "5000W continuous with a 10000W surge",
+    "Pure sine output with a filtered waveform",
+    "Suitable for solar and RV hardwired use"
+   ],
+   "cons": [
+    "Draws roughly 470 amps at full 12V load",
+    "No display or remote described in the listing",
+    "Lesser-known brand with limited support reach"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07Z8WSQ5R?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WiEI0jzwL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B074R6135K",
+   "badge": "Best Budget Modified Sine Pick",
+   "name": "Go Power GP-5000HD 5000W Modified Sine Inverter",
+   "specs": [
+    "5000W",
+    "Modified sine wave",
+    "4 outlets",
+    "Heavy duty"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "5000W"
+    },
+    {
+     "label": "Waveform",
+     "value": "Modified sine wave"
+    },
+    {
+     "label": "Outlets",
+     "value": "Four"
+    },
+    {
+     "label": "Input",
+     "value": "12V DC"
+    },
+    {
+     "label": "Class",
+     "value": "Heavy-duty RV inverter"
+    }
+   ],
+   "description": "A modified sine wave inverter is a stepped approximation of grid power, and the Go Power GP-5000HD is the only one of that type in this lineup. That keeps it simpler and usually cheaper than the pure sine units, and it handles resistive loads such as lights, a toaster or a kettle without complaint. Its four outlets and 5000W rating make it capable of running several of them together.\n\nThe trade-off is compatibility. Motors, some chargers, audio gear and light dimmers can buzz, run hot or fail to start on modified sine, and a residential refrigerator or a rooftop air conditioner is exactly the kind of load that struggles. Beside the pure sine WZRELB 5000W it gives up quality for lower cost, and against the AIMS inverter chargers it offers no charging or transfer function.\n\nOwners should treat it as a tool for simple loads. Keep a pure sine option for refrigerators and electronics, ventilate it well and expect the same enormous 12V currents as any 5000W unit. If your fifth wheel carries a residential fridge, skip this model.",
+   "bestFor": "Owners who want a low-cost 5000W unit for lights, heaters and simple resistive loads.",
+   "pros": [
+    "Lowest-complexity design for resistive loads",
+    "Four outlets and 5000W rating",
+    "Established RV brand with wide parts availability",
+    "Typically cheaper than comparable pure sine units"
+   ],
+   "cons": [
+    "Modified sine can hurt motors and sensitive electronics",
+    "Unsuitable for a residential refrigerator or rooftop air conditioner",
+    "Draws enormous current from a 12V bank"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B074R6135K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Rs9pTR4LL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Battery bank voltage",
+   "explanation": "Current equals watts divided by voltage, so a 24V system needs half the amps of a 12V system for the same power. The AIMS 4000W at 24V draws about 185 amps, while the Sunivora 5000W at 12V would pull roughly 470. If you are building a new fifth-wheel power system, choose 24V and pick a matching inverter."
+  },
+  {
+   "criterion": "Continuous watts for real loads",
+   "explanation": "A fifth wheel's residential refrigerator, microwave and one air conditioner can total 4000 to 5000W. The AIMS 6000W and Sunivora 5000W cover that, while the Jlouneo 3500W is better suited to the microwave and electronics alone. Add up the loads you really intend to run at once, not everything the coach owns."
+  },
+  {
+   "criterion": "Waveform and load types",
+   "explanation": "Compressors in refrigerators and air conditioners run best on pure sine output. The Go Power 5000HD is modified sine and may make them buzz, run hot or refuse to start. Reserve modified sine for lights and heaters."
+  },
+  {
+   "criterion": "Surge allowance and duration",
+   "explanation": "The AIMS units list surge for up to 20 seconds at three times the continuous rating, which is far more useful than a split-second peak. The Jlouneo's 7000W surge covers a refrigerator start but may not carry a hard-starting air conditioner. Match the surge to the largest motor you own."
+  },
+  {
+   "criterion": "Charger and transfer switch",
+   "explanation": "A fifth wheel on shore power should recharge its bank automatically, and the AIMS 4000W and 6000W do this with a built-in multi-stage charger and transfer switch. The Sunivora, WZRELB, Jlouneo and Go Power lack both, so you need separate hardware. Integration saves wiring and failure points."
+  },
+  {
+   "criterion": "Wiring a 50 amp coach",
+   "explanation": "A 50 amp fifth wheel has two 120V legs, and one inverter powers only one. The sensible plan is a subpanel with the fridge, outlets and microwave on the inverted leg, with air conditioners left on shore or generator power. Discuss the layout with an electrician before purchase."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Input voltage",
+   "meaning": "The nominal DC voltage of the battery bank the inverter connects to. Higher voltage means lower current for the same power.",
+   "watchFor": "The two AIMS units are 24V, and the other four are 12V, so they cannot be swapped without changing the bank."
+  },
+  {
+   "spec": "Continuous watts",
+   "meaning": "The power the inverter can supply for hours. It is the figure to match against combined appliance loads.",
+   "watchFor": "The range runs from 3500W on the Jlouneo to 6000W on the large AIMS."
+  },
+  {
+   "spec": "Surge duration",
+   "meaning": "How long the unit can exceed its continuous rating for startup. Longer duration helps hard-starting compressors.",
+   "watchFor": "The AIMS units quote surge up to 20 seconds, which is unusually clear."
+  },
+  {
+   "spec": "Modified vs pure sine",
+   "meaning": "Pure sine matches grid power, modified sine is a stepped approximation. Motors and electronics prefer pure sine.",
+   "watchFor": "Only the Go Power 5000HD is modified sine in this lineup."
+  },
+  {
+   "spec": "Reverse polarity protection",
+   "meaning": "A safeguard against connecting the battery cables backward. It can save an expensive inverter from an installation mistake.",
+   "watchFor": "The WZRELB lists it explicitly, and other listings are less clear."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Capacity for fifth-wheel loads",
+   "description": "We compared each unit's continuous rating with a typical fifth wheel's refrigerator, microwave and air conditioner load. Ratings from the 3500W Jlouneo to the 6000W AIMS were mapped to what each can run together."
+  },
+  {
+   "title": "Battery current and system fit",
+   "description": "Current at full load shapes the entire installation. The 24V AIMS units scored higher because they cut current in half compared with the 12V options."
+  },
+  {
+   "title": "Waveform quality",
+   "description": "Pure sine units were favored because fifth wheels carry compressor-based appliances. The modified sine Go Power was ranked last for this reason, though it earns a niche role."
+  },
+  {
+   "title": "Integration and installation",
+   "description": "Built-in chargers, transfer switches and terminal blocks reduce wiring complexity. The AIMS units lead, followed by the Sunivora with its hardwire block."
+  },
+  {
+   "title": "Ownership realism",
+   "description": "Brand support, protections and likely heat management were based on spec sheets and owner feedback patterns. Units with a reverse polarity protection or an established parts network gained."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Fifth Wheel Load",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fridge, microwave and electronics only",
+      "Jlouneo 3500W",
+      "3500W covers it at the lowest outlay"
+     ],
+     [
+      "Fridge, microwave and one air conditioner",
+      "AIMS 4000W 24V",
+      "4000W continuous and 12000W surge"
+     ],
+     [
+      "Full-time living with large appliances",
+      "AIMS 6000W 24V",
+      "6000W continuous with generous surge"
+     ],
+     [
+      "Existing 12V bank, high output wanted",
+      "Sunivora 5000W",
+      "Highest rating that fits a 12V system"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay for pure sine",
+      "Jlouneo 3500W",
+      "Cheapest of the pure sine units"
+     ],
+     [
+      "Low outlay for simple loads",
+      "Go Power 5000HD",
+      "Modified sine keeps it affordable"
+     ],
+     [
+      "Highest outlay, full system",
+      "AIMS 6000W 24V",
+      "Charger and transfer switch included"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "12V vs 24V Systems",
+   "cards": [
+    {
+     "label": "12V",
+     "text": "The Jlouneo 3500W, Sunivora 5000W, WZRELB 5000W and Go Power 5000HD fit an existing 12V bank, but their full-load currents run from 330 to 470 amps and push battery and cable limits."
+    },
+    {
+     "label": "24V",
+     "text": "The AIMS 4000W and 6000W halve the current for the same power, so cable, fuse and terminals run cooler. The price is a new bank wired for 24V."
+    }
+   ],
+   "note": "Choose 12V to keep existing batteries, and 24V for a new serious build."
+  },
+  {
+   "subheading": "Waveform and Appliances",
+   "table": {
+    "headers": [
+     "Appliance mix",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Residential refrigerator and rooftop air conditioner",
+      "AIMS 4000W",
+      "Pure sine and 12000W surge"
+     ],
+     [
+      "Mixed electronics and motors",
+      "WZRELB 5000W",
+      "Pure sine with protections"
+     ],
+     [
+      "Heaters and lights only",
+      "Go Power 5000HD",
+      "Modified sine handles resistive loads"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Outage Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A built-in transfer switch so the coach flips to battery without manual steps, plus enough continuous watts for the fridge and microwave. A charger refills the bank when power returns."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The AIMS 4000W handles outage switching, charging and the key appliances in one box, which the 12V units cannot match."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You live in the coach or boondock regularly. The AIMS 6000W and a 24V lithium bank give real residential power."
+    },
+    {
+     "label": "Save if",
+     "text": "The inverter is for short outages and the coach mostly sits on shore power. The Jlouneo 3500W is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Retorque DC terminals",
+   "interval": "After first trip, then yearly",
+   "why": "Loose lugs at hundreds of amps heat and melt. Vibration on the road loosens them."
+  },
+  {
+   "task": "Inspect battery cables",
+   "interval": "Every season",
+   "why": "Corrosion adds resistance and heat. Replace any cable showing discoloration."
+  },
+  {
+   "task": "Clean the fan and vents",
+   "interval": "Twice a year",
+   "why": "Blocked airflow causes overheat shutdowns. Compressed air restores cooling."
+  },
+  {
+   "task": "Check charger settings",
+   "interval": "When batteries change",
+   "why": "Wrong charge profiles damage batteries. Match the AIMS setting to your chemistry."
+  },
+  {
+   "task": "Exercise the transfer switch",
+   "interval": "Every few months",
+   "why": "Cycle shore power off and on to confirm clean switching. A stuck relay leaves loads dead."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What size inverter does a fifth wheel need?",
+   "a": "Add the running watts of what you will use at once. Fridge, microwave and electronics usually total 2500 to 3500W, while adding an air conditioner pushes the need to 4000 to 5000W."
+  },
+  {
+   "q": "Is a 24V system worth it?",
+   "a": "For a 4000W or larger inverter, yes. A 24V bank halves the current, so cables and terminals are smaller, cooler and safer."
+  },
+  {
+   "q": "Can one inverter run both air conditioners?",
+   "a": "Rarely. Two compressors draw more than most banks can supply, and a single inverter leg usually feeds only half of a 50 amp coach. Plan on one air conditioner at a time on batteries."
+  },
+  {
+   "q": "Does a modified sine inverter damage a refrigerator?",
+   "a": "It can make the compressor run hotter and noisier, and shorten its life. A residential refrigerator is better served by pure sine output."
+  },
+  {
+   "q": "Do I need a transfer switch?",
+   "a": "If the inverter feeds the same circuits as shore power, yes. The AIMS units include one, and others need a separate switch to prevent back-feeding."
+  },
+  {
+   "q": "Is peak power important?",
+   "a": "Only for startup spikes. The AIMS 20-second surge is more meaningful than a one-second peak, but continuous watts still decide what runs."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41m5w3uKlQL._SL500_.jpg"
+}

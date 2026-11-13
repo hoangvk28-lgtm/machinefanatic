@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-power-stations-for-refrigerators",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best power stations for refrigerators",
+ "guideTitle": "Best Power Stations for Refrigerators (2026)",
+ "metaTitle": "Best Power Stations for Refrigerators (2026)",
+ "metaDescription": "Six power stations for keeping a refrigerator cold in a blackout or camp, compared on standby drain, compressor startup surge, UPS switching and real hours.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The BLUETTI FridgePower is the best power station for a household refrigerator because its 4W standby draw, 2016Wh pack and 10ms switchover are built for the job, while the BLUETTI AC180 is the value pick if you also want a general camping station. The BougeRV 266Wh is for a 12V camping fridge. Anyone with only a small beverage cooler can use a 300Wh unit and skip the big hardware.",
+ "introParagraphs": [
+  "A refrigerator is the one appliance people most want to rescue during an outage, and it is also one of the trickiest for a battery to carry. The compressor starts with a spike of power, the unit cycles on and off through the day, and the contents spoil if the battery runs dry.",
+  "So the right station is chosen for startup surge, idle efficiency and honest watt-hours, not for the biggest number on the box. This guide compares six stations, from a purpose-built fridge battery to small units for camping coolers."
+ ],
+ "products": [
+  {
+   "id": "B0GX1GHYMM",
+   "badge": "Best Overall",
+   "name": "BLUETTI FridgePower 2016Wh 1800W LFP Backup Station",
+   "specs": [
+    "2016Wh LFP",
+    "1800W output",
+    "3600W surge",
+    "4W standby"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2016Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W, 3600W surge"
+    },
+    {
+     "label": "Standby draw",
+     "value": "4W self-consumption"
+    },
+    {
+     "label": "Switchover",
+     "value": "10 milliseconds"
+    },
+    {
+     "label": "Form",
+     "value": "Ultra-slim, purpose-built for refrigerators"
+    }
+   ],
+   "description": "A 4 watt standby draw is the figure that makes the FridgePower a proper refrigerator battery instead of a general camping station. Most stations burn tens of watts just keeping their inverter awake, and over a long outage that waste adds up to hours of lost fridge time. BLUETTI claims 26 percent longer runtime because of this, and the 2016 watt-hour LFP pack and 1800 watt inverter are matched to household compressors.\n\nA 10 millisecond switch to battery means the fridge does not notice a blackout, so the compressor never sees an unstable supply. The 3600 watt surge rating covers the startup spike of a full-size refrigerator or freezer, and the slim case, about 75 millimeters thick, is shaped to slide beside a fridge rather than stand in the middle of a kitchen. Compared with the 1024Wh Jackery Fridge Guard it has twice the energy, and against the 1152Wh AC180 it has nearly double the runtime and a far lower idle draw.\n\nPlug the fridge into it permanently, with the station on the wall circuit, so it works like a UPS. Keep the vents clear, set a charge limit in the app and test it with a lamp before storm season. It is a dedicated unit, so it is the wrong choice if you also want a camping station. Because it is meant to stay armed for years, a charge limit of around 80 percent in the app is a sensible setting.",
+   "bestFor": "Households that want an always-armed backup specifically for a refrigerator or freezer.",
+   "pros": [
+    "4W standby draw preserves runtime for a fridge",
+    "10ms switchover keeps the compressor unaware of outages",
+    "3600W surge covers full-size compressor starts",
+    "Slim shape slides beside a refrigerator"
+   ],
+   "cons": [
+    "Designed for refrigerators, less suited to camping",
+    "Heavy for a unit that rarely moves",
+    "Highest outlay among refrigerator options"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GX1GHYMM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31z4HFhmY9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HQ475VDW",
+   "badge": "Best Compact Fridge Backup",
+   "name": "Jackery Fridge Guard 1024Wh 800W Backup Station",
+   "specs": [
+    "1024Wh LiFePO4",
+    "800W output",
+    "1600W peak",
+    "10ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "800W, 1600W peak"
+    },
+    {
+     "label": "Switchover",
+     "value": "10 milliseconds"
+    },
+    {
+     "label": "Weight",
+     "value": "23.2 lb"
+    },
+    {
+     "label": "Thickness",
+     "value": "2.6 inches"
+    }
+   ],
+   "description": "Just 2.6 inches thick and 23.2 pounds, the Fridge Guard is built to disappear beside or behind a refrigerator, and a mount is included. Jackery quotes up to about 15 hours of runtime for a typical household fridge from its 1024 watt-hours, with a 10 millisecond automatic switch to battery when the grid drops. It is a plug-and-play design rather than a camping gadget.\n\nThe 800 watt inverter with 1600 watts of peak is lower than the FridgePower's, which means a very large freezer or a fridge with a heavy compressor start may stress it, so check the nameplate. Against the 2016Wh BLUETTI it has half the energy and a lower surge, but it is lighter, cheaper and easier to place. Compared with the Explorer 1000 v2 it trades output for a tidier form.\n\nUse it for an ordinary 18 to 22 cubic foot refrigerator and keep the load to the fridge alone. Keep it plugged in, avoid heat from the compressor grille and run a test with a lamp occasionally. Place it so the compressor grille's warm exhaust does not blow across the battery case.",
+   "bestFor": "Apartments and ordinary kitchens needing a slim, plug-and-play fridge backup.",
+   "pros": [
+    "2.6 inch slim design with a mount included",
+    "10ms auto switch UPS",
+    "23.2 lb is easy to place",
+    "Quoted around 15 hours for a typical fridge"
+   ],
+   "cons": [
+    "800W and 1600W peak can strain big compressors",
+    "1024Wh limits long outages",
+    "Not meant for camping or general use"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0HQ475VDW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/310LaLHK8eL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D7PPG25F",
+   "badge": "Best General-Purpose Pick",
+   "name": "Jackery Explorer 1000 v2 1024Wh Power Station",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1500W output",
+    "3000W peak",
+    "10ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1500W, 3000W peak"
+    },
+    {
+     "label": "Fast charge",
+     "value": "50 minutes"
+    },
+    {
+     "label": "UPS function",
+     "value": "10 millisecond switchover"
+    },
+    {
+     "label": "Outlets",
+     "value": "Two pure sine AC, USB-C, USB-A, car"
+    }
+   ],
+   "description": "Versatility is the argument for the Explorer 1000 v2: it can keep a refrigerator cold during an outage and then go camping the next weekend. Its 1500 watt output and 3000 watt peak handle household compressors, and the 10 millisecond UPS switch keeps electronics on. A 50 minute fast charge refills it between uses.\n\nThe idle draw of a general-purpose inverter is higher than the FridgePower's 4 watts, so over a long outage it wastes more of its 1024 watt-hours. A refrigerator averaging 60 watts plus inverter overhead may last about 10 to 13 hours rather than a full day. Next to the 1152Wh BLUETTI AC180 it has a bit less energy and lower output, and against the 1024Wh Fridge Guard it has more output but a bulkier shape.\n\nUse the pure sine AC outlets for the fridge and keep the station on a short cord. A plain fridge plug does not need a power strip, and a modest cord keeps voltage drop low. A fridge is a motor load, so avoid plugging a second heavy appliance into the same station during an outage.",
+   "bestFor": "Buyers who want a fridge backup that doubles as a camping station.",
+   "pros": [
+    "1500W output with 3000W peak for compressor starts",
+    "10ms UPS switchover",
+    "Pure sine AC outlets",
+    "Fast 50 minute recharge"
+   ],
+   "cons": [
+    "Higher idle draw than a purpose-built fridge unit",
+    "Only two AC outlets",
+    "Bulkier than a slim fridge battery"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319bA1rsZGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C1SMJTDT",
+   "badge": "Best Mid-Size Value",
+   "name": "BLUETTI AC180 1152Wh 1800W Power Station",
+   "specs": [
+    "1152Wh LiFePO4",
+    "1800W output",
+    "2700W peak",
+    "1 hour recharge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1152Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W, 2700W peak"
+    },
+    {
+     "label": "AC charging",
+     "value": "About 1 hour at 1440W"
+    },
+    {
+     "label": "Solar input",
+     "value": "Up to 500W"
+    },
+    {
+     "label": "Outlets",
+     "value": "Eight with app control"
+    }
+   ],
+   "description": "Eight outlets and an app give the AC180 the flexibility to power a refrigerator, a chest freezer and a few small items together. At 1152 watt-hours and 1800 watts, it comfortably covers a compressor start and a day of intermittent running for a single fridge, and a one-hour recharge at 1440 watts means it is ready again quickly.\n\nA general inverter overhead means a fridge setup lasts less than the nameplate arithmetic suggests, but the AC180 holds more than the Jackery 1000 v2 and costs less than the FridgePower. A 500 watt solar input lets it recharge from panels during a multi-day outage. Compared with the Fridge Guard it carries slightly more energy but lacks the slim shape.\n\nTurn the AC output off between uses if the fridge is not connected, and use the app to switch outlets. It is a heavy unit, so choose a spot near the fridge and do not move it often. If you also want to run a chest freezer, the eight outlets make that straightforward but add to the draw.",
+   "bestFor": "Households wanting a refrigerator backup with solar and several extra outlets.",
+   "pros": [
+    "1152Wh and 1800W cover a fridge and extras",
+    "About one hour to recharge from AC",
+    "500W solar input for multi-day outages",
+    "Eight outlets with app control"
+   ],
+   "cons": [
+    "Higher idle draw than a dedicated fridge unit",
+    "Heavy and bulky",
+    "No stated UPS switchover time"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FJD7LCY4",
+   "badge": "Best Small Cooler Backup",
+   "name": "EnginStar 300W 296Wh Pure Sine Power Station",
+   "specs": [
+    "296Wh",
+    "300W output",
+    "Pure sine AC",
+    "ETL certified"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "296Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "Two 110V pure sine outlets, 300W"
+    },
+    {
+     "label": "Certification",
+     "value": "ETL"
+    },
+    {
+     "label": "Size",
+     "value": "9 by 5.5 by 7.5 inches"
+    },
+    {
+     "label": "Protection",
+     "value": "Battery management system"
+    }
+   ],
+   "description": "ETL certification and two pure sine AC outlets make the EnginStar a credible small unit for a mini fridge or a cooler. At 296 watt-hours and 300 watts it is sized for a compact refrigerator of around 50 watts, which it can run for a few hours, and the pure sine output suits the control electronics in modern compact fridges. The battery management system handles voltage control and protection.\n\nIt is not for a full-size household refrigerator, because a compressor start and a few hundred watts would exceed it quickly. Compared with the 266Wh BougeRV it has slightly more energy and AC outlets, and against the 1024Wh Jackery Fridge Guard it is a fraction of the capacity. Its portable size, 9 by 5.5 by 7.5 inches, fits in a bag.\n\nUse it for a dorm fridge, a medication cooler or a camping icebox. Check the fridge nameplate, remember to switch the inverter off when idle and recharge the unit after each outage.",
+   "bestFor": "Mini fridges, medication coolers and camping iceboxes that need a few hours of backup.",
+   "pros": [
+    "ETL certified with pure sine AC outlets",
+    "Compact 9 by 5.5 by 7.5 inch case",
+    "Battery management protections",
+    "Runs a compact fridge for hours"
+   ],
+   "cons": [
+    "Too small for a full-size refrigerator",
+    "300W limits compressors with a high startup",
+    "Basic features and a short runtime"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJD7LCY4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gapbcAKVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GMZ641BQ",
+   "badge": "Best for 12V Camping Fridges",
+   "name": "BougeRV 266Wh Power Station for 12V Refrigerators",
+   "specs": [
+    "266Wh",
+    "Fits CRPRO compartment",
+    "XT60 and USB-C input",
+    "Up to 17 hours"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "266Wh"
+    },
+    {
+     "label": "Fit",
+     "value": "Compatible BougeRV CRPRO refrigerator compartments"
+    },
+    {
+     "label": "Charging inputs",
+     "value": "XT60 and USB-C"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 17 hours quoted for a compatible fridge"
+    },
+    {
+     "label": "Included",
+     "value": "XT60 car charging cable"
+    }
+   ],
+   "description": "A slot that fits inside the battery compartment of a compatible BougeRV CRPRO refrigerator is this unit's whole design idea. It is not a household-fridge station but a 12V camping-fridge battery, quoted for up to 17 hours of runtime with a compatible fridge. It charges through an XT60 or a USB-C port and comes with an XT60 car charging cable.\n\nFor a camper with a 12V compressor fridge, this is far more efficient than inverting battery power to AC and then running an AC refrigerator, since the DC path avoids inverter losses. Compared with the 296Wh EnginStar it has slightly less energy but a purpose-built connection, and against any of the larger stations it is for a different job entirely.\n\nCheck that your refrigerator model is compatible before buying, and keep the battery charged from the car while driving. For anything else in a campsite it is not designed to serve as a general power source.",
+   "bestFor": "Campers with a compatible 12V compressor fridge who want a DC battery path.",
+   "pros": [
+    "Fits a compatible CRPRO refrigerator compartment",
+    "Up to 17 hours quoted for a compatible fridge",
+    "XT60 and USB-C inputs with a car cable included",
+    "DC path avoids inverter losses"
+   ],
+   "cons": [
+    "Works only with compatible 12V fridges",
+    "No household AC outlet use described",
+    "Short capacity at 266Wh"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GMZ641BQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415+gmPhTCL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Compressor startup surge",
+   "explanation": "A household refrigerator compressor can need two to three times its running power for a moment at start. The BLUETTI FridgePower lists 3600W of surge and the Jackery 1000 v2 lists 3000W peak, while the Fridge Guard's 1600W peak and the EnginStar's 300W limit them to smaller compressors. Check the nameplate before buying."
+  },
+  {
+   "criterion": "Standby consumption",
+   "explanation": "A refrigerator runs about a third of the time, so the inverter idles most of the day. The FridgePower's 4W standby draw saves hours over a long outage compared with a general station that burns more. Check the manual for the standby figure."
+  },
+  {
+   "criterion": "Runtime arithmetic",
+   "explanation": "A typical household fridge averages 50 to 100 watts over a day, so 1024Wh lasts roughly 8 to 16 hours and 2016Wh about a day or more. Subtract inverter overhead and cold-weather capacity loss. A 296Wh unit runs only a compact fridge for hours. Opening the door often and a warm kitchen both push the average toward the high end of that range."
+  },
+  {
+   "criterion": "UPS-style switchover",
+   "explanation": "A switch within 10 milliseconds, as on the FridgePower, Fridge Guard and Explorer 1000 v2, keeps the fridge unaware of a blackout. A slower or manual transfer is fine for a camp cooler. For a plugged-in kitchen unit, automatic switching is worth the premium."
+  },
+  {
+   "criterion": "Shape and placement",
+   "explanation": "A station beside a fridge needs a footprint that fits. The FridgePower is about 75mm slim and the Fridge Guard is 2.6 inches thick, while the AC180 is a conventional block. Ventilation around the compressor grille matters."
+  },
+  {
+   "criterion": "AC fridge versus 12V fridge",
+   "explanation": "A 12V compressor fridge needs a DC battery like the BougeRV 266Wh, which avoids inverter losses. A household fridge needs an AC inverter with enough surge. Match the station to the fridge type."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Standby draw",
+   "meaning": "The power the station uses with nothing plugged in. For a fridge, it decides how long the battery really lasts.",
+   "watchFor": "The FridgePower lists 4W, and general stations draw more."
+  },
+  {
+   "spec": "Surge or peak watts",
+   "meaning": "The brief allowance for compressor startup.",
+   "watchFor": "The FridgePower lists 3600W, the Explorer 1000 v2 3000W and the Fridge Guard 1600W."
+  },
+  {
+   "spec": "UPS switchover",
+   "meaning": "The time to move to battery when the grid drops. Ten milliseconds or less is seamless for a fridge.",
+   "watchFor": "The FridgePower, Fridge Guard and Explorer 1000 v2 list 10ms."
+  },
+  {
+   "spec": "Watt-hours",
+   "meaning": "The energy stored, which sets hours of runtime.",
+   "watchFor": "The lineup runs from 266Wh on the BougeRV to 2016Wh on the FridgePower."
+  },
+  {
+   "spec": "DC input and output",
+   "meaning": "Direct current ports avoid inverter losses and suit 12V appliances.",
+   "watchFor": "The BougeRV is designed around a 12V fridge connection."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Fridge-specific design",
+   "description": "We checked standby draw, surge and UPS switching because those decide whether a station saves the food. The FridgePower with 4W standby and 3600W surge led."
+  },
+  {
+   "title": "Runtime for a typical fridge",
+   "description": "We estimated hours using watt-hours and inverter overhead. The 2016Wh FridgePower and 1152Wh AC180 gave the longest times."
+  },
+  {
+   "title": "Placement and shape",
+   "description": "We rated how well each station sits beside a refrigerator. The FridgePower and Fridge Guard slim designs scored best."
+  },
+  {
+   "title": "Flexibility",
+   "description": "General stations like the Explorer 1000 v2 and AC180 earn credit for camping use. The FridgePower scored lower for flexibility."
+  },
+  {
+   "title": "Ownership realism",
+   "description": "Fan noise, app support and brand backing came from spec sheets and owner feedback patterns. Established brands earned credit for warranty reach."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Refrigerator Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Full-size household fridge, long outages",
+      "BLUETTI FridgePower",
+      "2016Wh, 4W standby and 3600W surge"
+     ],
+     [
+      "Ordinary kitchen fridge, slim placement",
+      "Jackery Fridge Guard",
+      "2.6 inch slim with 10ms UPS"
+     ],
+     [
+      "Fridge plus camping use",
+      "BLUETTI AC180",
+      "1152Wh and eight outlets"
+     ],
+     [
+      "12V camping fridge",
+      "BougeRV 266Wh",
+      "Fits a compatible compartment"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "EnginStar 296Wh",
+      "Small unit for a compact fridge"
+     ],
+     [
+      "Low to middle",
+      "BougeRV 266Wh",
+      "A DC battery for a 12V camping fridge"
+     ],
+     [
+      "Middle",
+      "BLUETTI AC180",
+      "Mid-size capacity and solar input"
+     ],
+     [
+      "Higher",
+      "Jackery Explorer 1000 v2",
+      "UPS and 1500W with a trusted brand"
+     ],
+     [
+      "Highest",
+      "BLUETTI FridgePower",
+      "Purpose-built for household fridges"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Dedicated Fridge Battery vs General Station",
+   "cards": [
+    {
+     "label": "Dedicated fridge battery",
+     "text": "The FridgePower and Fridge Guard are slim, always-armed and efficient in standby. They suit a kitchen but are not made for camping."
+    },
+    {
+     "label": "General station",
+     "text": "The AC180 and Explorer 1000 v2 do fridge backup and camping, but their higher idle draw shortens fridge runtime."
+    }
+   ],
+   "note": "Choose dedicated for a kitchen and general for flexibility."
+  },
+  {
+   "subheading": "Outage Length",
+   "table": {
+    "headers": [
+     "Typical outage",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "A few hours",
+      "Jackery Fridge Guard",
+      "1024Wh and quick 10ms switching"
+     ],
+     [
+      "Overnight",
+      "Jackery Explorer 1000 v2",
+      "1024Wh and 1500W"
+     ],
+     [
+      "A day or more",
+      "BLUETTI FridgePower",
+      "2016Wh with 4W standby"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Camping Coolers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A small, light battery that matches the fridge type: DC for a 12V compressor fridge or a pure sine AC outlet for an AC mini fridge."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BougeRV 266Wh suits a compatible 12V fridge, and the EnginStar 296Wh suits an AC mini fridge."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Outages are long or the freezer is full. The FridgePower pays for itself in saved food."
+    },
+    {
+     "label": "Save if",
+     "text": "You only keep a few items cold. A small unit like the EnginStar is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test the switchover",
+   "interval": "Every three months",
+   "why": "Unplug wall power with a lamp connected. Confirm the switch is clean."
+  },
+  {
+   "task": "Keep it plugged in",
+   "interval": "Always",
+   "why": "A UPS-style unit works only if armed. Leave it connected to wall power."
+  },
+  {
+   "task": "Clear the compressor grille",
+   "interval": "Twice a year",
+   "why": "A dusty grille raises the fridge's own draw. Vacuum it to reduce load."
+  },
+  {
+   "task": "Set a charge limit",
+   "interval": "After setup",
+   "why": "Holding full charge for years ages the cells. About 80 percent is a good limit for always-on use."
+  },
+  {
+   "task": "Check vents and cables",
+   "interval": "Yearly",
+   "why": "Dust blocks cooling, and a worn cord can overheat."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long will a power station run a refrigerator?",
+   "a": "A typical household fridge averages 50 to 100 watts, so 1024Wh lasts roughly 8 to 16 hours and 2016Wh about a day or more after losses."
+  },
+  {
+   "q": "Why does standby draw matter so much?",
+   "a": "A refrigerator runs about a third of the time, so the inverter idles most of the day. A station with a 4W standby draw saves hours over one that burns 20 to 30W."
+  },
+  {
+   "q": "Can a small power station run a full-size fridge?",
+   "a": "Not reliably. A compressor start can exceed 300 to 800W, and a small unit empties quickly. Use a station with at least 1000Wh and a 1500W inverter. A compact dorm fridge is the exception, and the EnginStar 296Wh suits that."
+  },
+  {
+   "q": "Should the fridge be plugged into the station all the time?",
+   "a": "With a UPS-style unit like the FridgePower or Fridge Guard, yes. It then takes over within milliseconds when the grid fails."
+  },
+  {
+   "q": "Is a 12V fridge better for camping?",
+   "a": "Often, because it avoids inverter losses. A 12V compressor fridge on a DC battery like the BougeRV lasts longer than an AC fridge on the same energy."
+  },
+  {
+   "q": "What about a chest freezer?",
+   "a": "A chest freezer draws a similar running load but a different startup. Check the nameplate and choose a station with surge above the compressor start."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31z4HFhmY9L._SL500_.jpg"
+}
