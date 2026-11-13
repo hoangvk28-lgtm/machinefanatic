@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-solar-generator-for-home-backup",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar generator for home backup",
+ "guideTitle": "Best Solar Generator for Home Backup (2026)",
+ "metaTitle": "Best Solar Generator for Home Backup (2026)",
+ "metaDescription": "Six solar generators ranked for home backup by switchover speed, recharge between outages and how long each carries a sump pump, router and fridge.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31QO9wVU+QL._SL500_.jpg",
+ "expertTake": "The EcoFlow DELTA 3 is the pick for short, frequent outages because it recharges in under an hour and grows to 5kWh. The Jackery HomePower 3600 Plus is the choice for a long outage with a well pump. A home that loses power for days at a time needs a much larger system than any single unit here.",
+ "introParagraphs": [
+  "Home backup is a specific job: the grid drops, and a few chosen loads must stay on without anyone touching anything. That makes switchover speed, recharge time between events and the ability to start a motor more important than the headline capacity.",
+  "The difference between a unit that works for camping and one that works for backup shows up in small details, such as whether it keeps passing power while plugged in, how quickly it refills when the grid returns and whether it can grow when you learn how much you really use. This guide ranks units on those points."
+ ],
+ "products": [
+  {
+   "id": "B0DCBYMC9D",
+   "badge": "Best Overall",
+   "name": "EcoFlow DELTA 3 1024Wh 1800W LiFePO4",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1800W AC",
+    "56 min full charge",
+    "5kWh expandable"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W"
+    },
+    {
+     "label": "Charge",
+     "value": "Full in 56 minutes"
+    },
+    {
+     "label": "Inputs",
+     "value": "1500W AC plus 500W solar"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 5kWh"
+    }
+   ],
+   "description": "EcoFlow's DELTA 3 is built for a home that loses power often and briefly. It combines a 1500W AC input with 500W of solar to reach a full charge in 56 minutes, which means a unit drained overnight is ready again before the next storm band passes. Its 1024Wh LiFePO4 pack is modest, but EcoFlow's expansion stack takes it up to 5kWh as needs grow.\n\nIt is not a deep reserve on its own. A fridge, router and a few lights draw about 150W together, so 1024Wh lasts about six hours, and a well pump would start only if its surge stays under the inverter's limit. The unit sits at a mid price tier, with expansion batteries as extra cost.\n\nThe app lets you set charge limits, watch live watts and update firmware, and EcoFlow's service network is broad. Keep it on a level floor near the fridge, plugged in so it stays full, and test it twice a year by pulling the wall plug. It is the best fit for a household that needs a flexible, quickly recharged starting point. A common pattern is to run the fridge and router from it permanently on a short power strip, so that a grid drop changes nothing in the house, and to add a second pack only after a season of watching the real nightly draw on the app.",
+   "bestFor": "Homes with frequent short outages that want a fast recharge and a growth path.",
+   "pros": [
+    "Full charge in 56 minutes",
+    "1800W inverter handles a fridge and router",
+    "Expandable to 5kWh",
+    "App with charge limits and live watts"
+   ],
+   "cons": [
+    "1024Wh lasts about six hours on essentials",
+    "Expansion packs add cost",
+    "Mid price tier for a 1kWh unit"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DCBYMC9D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31QO9wVU+QL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D2L1G66J",
+   "badge": "Best UPS Behavior",
+   "name": "Jackery Solar Generator 1000 v2 with 200W panel, 1024Wh",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1500W / 3000W",
+    "10ms UPS",
+    "50 min charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1500W, 3000W peak"
+    },
+    {
+     "label": "UPS",
+     "value": "10ms"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 100% in 50 minutes"
+    },
+    {
+     "label": "Panel",
+     "value": "200W foldable"
+    }
+   ],
+   "description": "Where this Jackery earns its place is the 10ms UPS. Plug a router, modem and desktop into it and the wall outlet into the unit, and when the grid drops the switchover is quick enough that most electronics never notice. A 3000W peak lets it start a small sump pump or a fridge compressor without stalling.\n\nIts energy is the limit. At 1024Wh a fridge, router and lights get about six to eight hours, and the 200W foldable panel adds 120 to 160W in sun, a bonus for multi day events but not a recharge strategy. A 50 minute wall charge is on par with the EcoFlow, but the unit has no stackable expansion, so more energy means a second unit.\n\nOwnership is easy: about 24 lb, quiet at light loads, and Jackery's warranty and parts network is among the best. Leave it plugged in with the inverter on to use the UPS function, check it quarterly and keep the vents clear. It is a good pick for a home office and a few essentials. If your outages are mostly an hour or two, a unit this size may never run low, and the money saved over a 3kWh model can go toward a transfer switch or a second pack later.",
+   "bestFor": "Home offices and routers that must not reboot when the grid drops.",
+   "pros": [
+    "10ms UPS keeps electronics running",
+    "3000W peak starts a small pump",
+    "50 minute full charge",
+    "Strong warranty and service"
+   ],
+   "cons": [
+    "No expansion path",
+    "1024Wh covers a fridge for about a day at most",
+    "Panel is a slow bonus"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318axJyN-lL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FR8VG94V",
+   "badge": "Best Heating Loads",
+   "name": "EcoFlow DELTA 3 Max with 220W bifacial panel, 2048Wh",
+   "specs": [
+    "2048Wh",
+    "3400W X-Boost",
+    "80% in 1.13 hr",
+    "220W panel"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2048Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "3400W with X-Boost"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 80% in 1.13 hours"
+    },
+    {
+     "label": "Panel",
+     "value": "220W bifacial"
+    },
+    {
+     "label": "Platform",
+     "value": "X-Stream charging"
+    }
+   ],
+   "description": "The DELTA 3 Max doubles the DELTA 3's pack and adds X-Boost, which lets it supply resistive loads such as a space heater, a toaster or a hair dryer up to 3400W. In a winter outage that is the difference between a warm room and a cold one, at least for the first hour. A 0 to 80 percent charge in 1.13 hours keeps it ready between events.\n\nIts weaknesses are that X-Boost reduces voltage to reach the extra watts, so it suits only resistive loads, and that 2048Wh drains in about an hour at a 1,500W heater. The 220W bifacial panel is a modest bundle but still gives 130 to 180W. It is among the pricier units in this guide.\n\nOwnership resembles the DELTA 3: a mature app, broad service network and frequent firmware updates. Winter storage belongs in a heated room, since charging below freezing is blocked or damaging, and test it by pulling the wall plug twice a year. It suits homes that want heating loads and quick recharge. Remember that a heater at 1,500W for an hour uses 1,500Wh, about three quarters of the pack, so X-Boost is best used for warming a single room in short sessions while the furnace blower runs from the same unit.",
+   "bestFor": "Cold climates where a short burst of heating load matters during outages.",
+   "pros": [
+    "X-Boost runs resistive loads to 3400W",
+    "2048Wh pack",
+    "0 to 80% in about 1.13 hours",
+    "220W bifacial panel included"
+   ],
+   "cons": [
+    "X-Boost works only for resistive loads",
+    "2048Wh empties in an hour on a heater",
+    "High price tier"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FR8VG94V?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31xUhB4xOqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FM8653F1",
+   "badge": "Best for Well Pumps",
+   "name": "Jackery HomePower 3600 Plus 3584Wh, 3600W",
+   "specs": [
+    "3584Wh LFP",
+    "3600W AC",
+    "7200W paralleled",
+    "21kWh expandable"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3584Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3600W, 7200W in parallel"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 21kWh"
+    },
+    {
+     "label": "Cells",
+     "value": "Ceramic membrane LFP"
+    },
+    {
+     "label": "Panels",
+     "value": "Not in this listing"
+    }
+   ],
+   "description": "This listing is the HomePower 3600 Plus station alone, without panels, which suits a home that will rely on the grid and a wall charger rather than the sun. Its 3600W inverter is strong enough for a typical well pump or sump pump start, and 3584Wh of LFP covers a day of essentials, so it handles the outage that kills a smaller unit.\n\nThe cost is price and weight. It sits at the upper tier, and a two person lift is needed to place it. Without panels it relies on wall charging, so a long outage requires a plan for recharge, such as a generator or solar bought later. A single unit does not give 240V, so a 240V pump needs a pair.\n\nJackery ties the ceramic membrane cell design to heat tolerance, a helpful trait in a closet or garage. Check the charge every few months, keep it dry and level, and plan for an electrician if you want transfer switch wiring. It is the pick when a pump or a long outage drives the decision.",
+   "bestFor": "Homes with a well or sump pump that need a day or more of backup.",
+   "pros": [
+    "3600W starts typical pumps",
+    "3584Wh LFP covers a day",
+    "Expandable to 21kWh",
+    "Strong warranty and service"
+   ],
+   "cons": [
+    "Upper price tier",
+    "No panels in this listing",
+    "Single unit cannot supply 240V"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C1Z4GLKS",
+   "badge": "Best Proven Platform",
+   "name": "EcoFlow DELTA Pro 3600Wh 3600W, expandable",
+   "specs": [
+    "3600Wh LFP",
+    "3600W AC",
+    "4500W expanded",
+    "2.7 hr charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3600Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3600W, 4500W expanded"
+    },
+    {
+     "label": "Charge",
+     "value": "Full in about 2.7 hours"
+    },
+    {
+     "label": "Expansion",
+     "value": "Extra batteries available"
+    },
+    {
+     "label": "Ecosystem",
+     "value": "Mature accessories"
+    }
+   ],
+   "description": "DELTA Pro has been used for home backup long enough that installers know it, and the accessory catalogue, including smart panel and generator integration, is deep. Its 3600Wh LFP pack and 3600W inverter match the HomePower 3600 Plus, and a full recharge takes about 2.7 hours, which is quick for this capacity.\n\nIt is an older design, so it lacks some newer features, and the listing does not bundle panels. It is heavy and best placed where it will live. Expanding output to 4500W requires a second unit, which adds cost.\n\nOwnership benefits from the community: wiring guides and real world runtime reports are easy to find. Keep it between 20 and 80 percent when idle, clean the fans and test it twice a year. It suits owners who want a unit with years of field history behind it. Look up your local installers before buying, because an electrician who has already wired this unit to a panel will finish the job faster and with fewer surprises than one meeting it for the first time.",
+   "bestFor": "Owners who want a long field record and a deep accessory catalogue.",
+   "pros": [
+    "Long field history and accessories",
+    "3600Wh LFP pack",
+    "2.7 hour full recharge",
+    "Expands to 4500W output"
+   ],
+   "cons": [
+    "Older design with fewer new features",
+    "No panels bundled",
+    "Heavy"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F47FKBQ4",
+   "badge": "Best Large Pack Value",
+   "name": "ABOK Ark3600 3840Wh with 3x200W panels",
+   "specs": [
+    "3840Wh LiFePO4",
+    "3600W / 7200W",
+    "3x200W panels",
+    "11.5kWh expandable"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3840Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "3600W rated, 7200W peak"
+    },
+    {
+     "label": "Panels",
+     "value": "3 x 200W"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 11520Wh"
+    },
+    {
+     "label": "Ports",
+     "value": "15 including TT-30"
+    }
+   ],
+   "description": "ABOK's Ark3600 puts a 3840Wh LiFePO4 pack, a 3600W inverter and three 200W panels in one purchase, which makes it the most complete backup kit for the cost. The panels add 360 to 480W in sun, enough to nudge a multi day outage along, and the 7200W peak starts a pump.\n\nBrand risk is the catch. ABOK is newer and its service history is thin, so a failure could take longer to resolve. Several listings pair the same station with different panels or alternator chargers, and they are one machine. It is heavy, over 80 lb, and needs a fixed spot.\n\nFor ownership, plan an installation: level floor, airflow, and a transfer switch by an electrician if you want hardwired circuits. Check connectors twice a year and keep a record of the purchase. It suits budget minded homeowners who want capacity and panels in one box.",
+   "bestFor": "Budget focused homeowners who want a big pack and panels for backup.",
+   "pros": [
+    "3840Wh LiFePO4 pack",
+    "3x200W panels included",
+    "7200W peak starts pumps",
+    "Expandable to 11.5kWh"
+   ],
+   "cons": [
+    "Newer brand with limited service history",
+    "Heavy at over 80 lb",
+    "Needs a fixed spot"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F47FKBQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Switchover speed",
+   "explanation": "A UPS style switchover of 10ms or less keeps desktops and routers alive, while a slower or manual switchover reboots them. The Jackery 1000 v2 lists 10ms, and EcoFlow lists fast switchover on the DELTA line. Check whether pass through or UPS mode is on by default."
+  },
+  {
+   "criterion": "Recharge between events",
+   "explanation": "A unit that refills in under an hour, like the DELTA 3 at 56 minutes, is ready for the next storm band. A 3.6kWh unit at 2.7 hours is slower, and solar at 240 to 320W takes days. Plan for the second outage, not just the first."
+  },
+  {
+   "criterion": "Motor starting",
+   "explanation": "Sump and well pumps can surge to 2 or 3 times running watts. The Jackery 1000 v2's 3000W peak covers a small sump pump, while a well pump may need the 3600W units with 7200W surge. Read the pump's label for starting amps."
+  },
+  {
+   "criterion": "Energy for a night",
+   "explanation": "A fridge, router and lights average about 150W, so a night needs about 1.5 to 2kWh. The 1024Wh units cover half a night with a margin if you trim loads, the 3.6kWh units cover two. Count what you would really keep on."
+  },
+  {
+   "criterion": "Growth path",
+   "explanation": "EcoFlow expands the DELTA 3 to 5kWh, Jackery the 3600 Plus to 21kWh and ABOK to 11.5kWh. Starting small and adding packs spreads cost. Verify that expansion packs are in stock and priced fairly."
+  },
+  {
+   "criterion": "Installation and safety",
+   "explanation": "Extension cords work for plug in loads. Hardwired circuits need a manual transfer switch installed by an electrician. Never back feed a panel through an outlet, since it endangers line workers."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "10ms UPS",
+   "meaning": "Switchover time on the Jackery 1000 v2 when the grid fails.",
+   "watchFor": "A slower switchover can reboot a desktop."
+  },
+  {
+   "spec": "56 minute charge",
+   "meaning": "The DELTA 3's time to full using 1500W AC and 500W solar.",
+   "watchFor": "Needs a circuit that supplies the input."
+  },
+  {
+   "spec": "3000W peak",
+   "meaning": "A brief surge allowance for pump starts.",
+   "watchFor": "It does not extend the 1500W continuous rating."
+  },
+  {
+   "spec": "X-Boost",
+   "meaning": "EcoFlow's mode for resistive loads above the normal rating.",
+   "watchFor": "Not suitable for motors."
+  },
+  {
+   "spec": "21kWh expansion",
+   "meaning": "The Jackery 3600 Plus maximum stack.",
+   "watchFor": "Extra batteries are sold separately."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Switchover behavior",
+   "description": "We compared UPS claims and pass through behavior, ranking the Jackery 1000 v2's 10ms figure and EcoFlow's fast switchover above units with no stated time."
+  },
+  {
+   "title": "Recharge time",
+   "description": "We compared charging speed, from the DELTA 3's 56 minutes to the DELTA Pro's 2.7 hours, and the slower solar paths."
+  },
+  {
+   "title": "Motor starts",
+   "description": "We checked inverter and surge ratings against sump and well pump starts. The 3600W units with 7200W surge scored highest."
+  },
+  {
+   "title": "Runtime for essentials",
+   "description": "We computed hours for a 150W load, from about 6 hours on the 1024Wh units to about 20 on the 3.6kWh units."
+  },
+  {
+   "title": "Support and cost",
+   "description": "We weighed brand service reach and price tier, with Jackery and EcoFlow leading on support and ABOK on cost."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Outage Length",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Short outages, a few hours",
+      "EcoFlow DELTA 3",
+      "56 minute recharge"
+     ],
+     [
+      "Home office uptime",
+      "Jackery Solar Generator 1000 v2",
+      "10ms UPS"
+     ],
+     [
+      "Winter outages with heating loads",
+      "EcoFlow DELTA 3 Max",
+      "X-Boost to 3400W"
+     ],
+     [
+      "Day long outage with a pump",
+      "Jackery HomePower 3600 Plus",
+      "3600W and 3584Wh"
+     ],
+     [
+      "Multi day outage on a budget",
+      "ABOK Ark3600",
+      "3840Wh and 600W of panels"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Jackery Solar Generator 1000 v2",
+      "Small pack, UPS"
+     ],
+     [
+      "Lower mid",
+      "EcoFlow DELTA 3",
+      "Fast charge and expansion"
+     ],
+     [
+      "Mid",
+      "ABOK Ark3600",
+      "Large pack and panels"
+     ],
+     [
+      "Upper mid",
+      "EcoFlow DELTA Pro",
+      "Proven platform"
+     ],
+     [
+      "Highest",
+      "Jackery HomePower 3600 Plus",
+      "Pump capable and expandable"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fast Recharge vs Big Tank",
+   "cards": [
+    {
+     "label": "Fast recharge",
+     "text": "The EcoFlow DELTA 3 and DELTA 3 Max refill in about an hour, so they suit repeated short outages. They hold less energy, so long outages need expansion."
+    },
+    {
+     "label": "Big tank",
+     "text": "The Jackery 3600 Plus, DELTA Pro and ABOK hold 3.6 to 3.8kWh and ride out a day. They refill more slowly and cost more."
+    }
+   ],
+   "note": "Choose fast recharge for frequent short outages, a big tank for rare long ones."
+  },
+  {
+   "subheading": "Wiring Approach",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Plug in only, no electrician",
+      "Jackery Solar Generator 1000 v2",
+      "Extension cords and a UPS"
+     ],
+     [
+      "Plug in with growth",
+      "EcoFlow DELTA 3",
+      "Expandable stack"
+     ],
+     [
+      "Transfer switch install",
+      "Jackery HomePower 3600 Plus",
+      "Paralleling to 7200W"
+     ],
+     [
+      "Smart panel integration",
+      "EcoFlow DELTA Pro",
+      "Mature accessories"
+     ],
+     [
+      "Large panel set included",
+      "ABOK Ark3600",
+      "3x200W panels"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sump Pump Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A UPS or fast switchover, surge above the pump's start amps and enough energy for hours of running. A sump pump uses 400 to 1,000W while running and cycles for a few minutes each hour."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Jackery 1000 v2's 3000W peak and 10ms UPS suit a small pump, and the HomePower 3600 Plus handles larger pumps for days."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a well pump, medical device or long outages. The HomePower 3600 Plus and DELTA Pro give the energy and surge."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need a router and fridge for hours. The DELTA 3 and Jackery 1000 v2 cover that at lower tiers."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Pull the wall plug test",
+   "interval": "Twice a year",
+   "why": "Confirms switchover works and the load stays on. Do it in daylight with the household aware, and check that the router, modem and any computers on the unit stay up through the swap, since that is the one thing you cannot discover during a real storm."
+  },
+  {
+   "task": "Check charge level",
+   "interval": "Every 3 months",
+   "why": "A tripped breaker can leave a unit flat."
+  },
+  {
+   "task": "Inspect transfer switch wiring",
+   "interval": "Every year",
+   "why": "Loose lugs heat under load. An electrician should check torque."
+  },
+  {
+   "task": "Clean vents",
+   "interval": "Every 6 months",
+   "why": "Dust raises inverter temperature."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "When prompted",
+   "why": "Updates improve battery management and switchover behavior."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a solar generator power my sump pump?",
+   "a": "Yes. A sump pump draws 400 to 1,000W with a short start surge. A unit with 3000W peak or higher and a fast switchover handles it, and a 1kWh pack gives several hours of cycling."
+  },
+  {
+   "q": "Will it switch on automatically?",
+   "a": "Units with a UPS mode switch in 10 to 20ms if you plug loads into them while they are connected to the wall. Others need manual action. Check the listing for UPS or pass through behavior."
+  },
+  {
+   "q": "How long will a unit run my fridge and router?",
+   "a": "About 150W together, so a 1024Wh unit lasts six to seven hours, a 2048Wh unit about twelve and a 3.6kWh unit about twenty."
+  },
+  {
+   "q": "Do I need panels for backup?",
+   "a": "Panels help in multi day outages, but wall charging is the main refill. A 400W array gives 240 to 320W, so a day of sun adds a few hundred watt-hours."
+  },
+  {
+   "q": "Should I connect it to my panel?",
+   "a": "Only through a manual transfer switch or interlock installed by an electrician. Back feeding through an outlet is dangerous."
+  },
+  {
+   "q": "Does leaving it plugged in hurt the battery?",
+   "a": "LiFePO4 handles it well, but staying at 100 percent ages cells a little faster. Use a charge cap in the app if available."
+  }
+ ],
+ "relatedGuides": []
+}

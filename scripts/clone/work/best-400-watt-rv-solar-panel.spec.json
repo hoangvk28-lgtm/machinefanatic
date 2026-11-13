@@ -1,0 +1,589 @@
+{
+ "guideTitle": "Best 400 Watt RV Solar Panels (2026)",
+ "metaTitle": "Best 400 Watt RV Solar Panels in 2026",
+ "metaDescription": "Six 400W RV solar panel options compared by layout, cell type, size, wiring voltage and whether you want a fixed roof array or a portable one.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The Renogy 400W two-panel set is the top pick because its N-type cells and compact 24V-class layout suit most vans and trailers. The HQST 4x100W set is the value route for cramped roofs. Skip 400W of fixed panels if you only camp a few weekends a year, and buy a portable panel instead.",
+ "introParagraphs": [
+  "Four hundred watts is the sweet spot for many RVs: enough to run a fridge, lights, a fan and device charging without a generator, yet small enough to fit on a typical roof. The wattage can arrive as one large panel, two mid-size panels or four small ones.",
+  "How those watts are split changes everything about wiring, shade behaviour and roof fit. Choosing the layout first and the brand second gives a more reliable system."
+ ],
+ "products": [
+  {
+   "id": "B0F4QHCFY3",
+   "badge": "Best Overall",
+   "name": "Renogy 400W N-Type Solar Panels, 2 x 200W",
+   "specs": [
+    "400W set",
+    "N-Type 16BB",
+    "25% eff.",
+    "24V class"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W (2 x 200W)"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-Type 16BB"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "25%"
+    },
+    {
+     "label": "Voltage class",
+     "value": "24V panel"
+    },
+    {
+     "label": "Size vs predecessor",
+     "value": "7.5% smaller, 11.7% lighter"
+    }
+   ],
+   "description": "Renogy sells this as a pair of 200W N-type panels, each using 16-busbar cells at a claimed 25 percent efficiency. The maker states the panels are 7.5 percent smaller and 11.7 percent lighter than its predecessor, which helps on a crowded roof. A 24V-class panel keeps current low, which means less cable loss over a typical RV run.\n\nCompared with the HQST 2x200W pair, it carries the same cell family, so the choice comes down to brand support and sizing. Wiring two panels in series raises voltage and tolerates partial shade better, but requires an MPPT controller able to accept the higher voltage. Wiring in parallel keeps voltage low and suits small PWM systems, at the cost of more current in the cable.\n\nThe frame is aluminium and mounts with standard Z-brackets, so installation is straightforward on a flat roof. Plan for sealant on every roof screw and inspect annually, because a dried Dicor bead is the usual leak source.",
+   "bestFor": "Van and trailer owners wanting a compact, N-type rigid array from a well-known brand.",
+   "pros": [
+    "N-type 16BB cells hold up in heat",
+    "Smaller and lighter than the previous model",
+    "24V-class panels reduce cable loss",
+    "Two panels give a flexible layout"
+   ],
+   "cons": [
+    "Needs an MPPT controller for series wiring",
+    "Costs more than the DOKIO single panel"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0F4QHCFY3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/410Q6zprjTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GK146PX4",
+   "badge": "Best Compact Pair",
+   "name": "HQST 400W Solar Panels, 2 x 200W N-Type",
+   "specs": [
+    "400W set",
+    "N-Type 16BB",
+    "25.4% eff.",
+    "IP65"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W (2 x 200W)"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-Type 16BB Grade A+"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "up to 25.4%"
+    },
+    {
+     "label": "Panel size",
+     "value": "46.3 x 30.1 x 1.2 in"
+    },
+    {
+     "label": "Water rating",
+     "value": "IP65"
+    }
+   ],
+   "description": "The HQST set gives two panels measuring 46.3 by 30.1 inches, each 1.2 inches thick, which is compact for 200W and aimed at Class B vans. Grade A+ 16-busbar N-type cells claim up to 25.4 percent efficiency, and IP65 sealing protects the junction box and connectors. Its compactness leaves room for a roof vent or an air conditioner on the same roof.\n\nAgainst the Renogy pair it claims a slightly higher efficiency and similar construction, so the real difference is warranty support and local availability. The tradeoff is the same: two panels mean two sets of connectors and a decision about series or parallel wiring. For a 12V battery bank with a modern MPPT controller, series wiring is generally the cleaner choice.\n\nKeep the panels clear of roof edges that collect leaves, and fit a drip edge below the cable gland. A flat, level mount with a tiny air gap beneath lets the aluminium frame shed heat.",
+   "bestFor": "Class B van owners who need two compact panels around a roof vent.",
+   "pros": [
+    "Compact 46.3 by 30.1 inch footprint",
+    "Grade A+ N-type cells at up to 25.4 percent",
+    "IP65 sealed junction and connectors",
+    "Two-panel layout fits around roof gear"
+   ],
+   "cons": [
+    "Two panels need wiring decisions",
+    "Newer brand with less documentation"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ouu03inTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DWF27PWF",
+   "badge": "Best Bifacial Pair",
+   "name": "JJN 400W Bifacial Solar Panels, 2 x 200W",
+   "specs": [
+    "400W set",
+    "Bifacial",
+    "N-Type 16BB",
+    "25% eff."
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W (2 x 200W)"
+    },
+    {
+     "label": "Design",
+     "value": "Transparent backsheet, bifacial"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-Type 16BB"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "25% plus"
+    },
+    {
+     "label": "Frame",
+     "value": "Black aluminium"
+    }
+   ],
+   "description": "The JJN pair adds a transparent backsheet so light reflected from the ground can reach the rear of the cells. On a roof, the gain is small because there is little reflecting surface, so treat this feature as useful for ground-mounted or raised arrays rather than flush-mounted ones. The cells are N-type 16-busbar and claim over 25 percent efficiency.\n\nThe black corrosion-resistant aluminium frame is rated for strong winds, and the listing states the package contains the panels only, so you need to buy brackets and a controller separately. Set against the Renogy pair, you gain the bifacial design at a lower price but lose brand support. It suits owners who plan to prop the panels on the ground beside the RV.\n\nBecause there is no controller in the box, budget for an MPPT unit sized for your voltage. If you mount flush to the roof, the bifacial gain is minimal, so do not pay a premium for it in that case.",
+   "bestFor": "Campers who set panels on the ground beside a parked rig and want bifacial pickup.",
+   "pros": [
+    "Transparent backsheet captures reflected light",
+    "N-type 16BB cells claim over 25 percent",
+    "Black frame resists corrosion and wind",
+    "Lower cost than the name-brand pair"
+   ],
+   "cons": [
+    "Bifacial gain is minimal on a flush roof",
+    "Panels only, no controller or brackets"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DWF27PWF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51lOSLnRwXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HF7VWBJN",
+   "badge": "Best for Tight Roofs",
+   "name": "HQST 400W 12V Solar Panels, 4 x 100W",
+   "specs": [
+    "400W set",
+    "4 x 100W",
+    "23% eff.",
+    "IP65"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W (4 x 100W)"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "23%"
+    },
+    {
+     "label": "Panel size",
+     "value": "31.8 x 27.5 x 1.18 in"
+    },
+    {
+     "label": "Wind load",
+     "value": "2400Pa"
+    },
+    {
+     "label": "Snow load",
+     "value": "5400Pa"
+    }
+   ],
+   "description": "This kit splits 400W into four 100W square panels, each 31.8 by 27.5 inches and 11 percent smaller than a traditional 100W panel. The square shape slots around roof vents and skylights where a long 200W panel cannot. Cells are 166mm Grade A+ with 100 percent EL testing, and the panels are rated for 2400Pa of wind and 5400Pa of snow.\n\nFour panels mean eight connectors and more wiring, plus a combiner or a series-parallel layout, so installation takes longer than the two-panel sets. The upside is partial shade tolerance when wired in a sensible series-parallel array, since a single shadow stops only one small panel. It trails the N-type sets on efficiency at 23 percent, so it needs more roof area per watt.\n\nUse a combiner box and fuse each parallel branch. Label the wiring clearly, because debugging a four-panel array without labels is slow.",
+   "bestFor": "Owners with a cluttered roof where only small square panels fit.",
+   "pros": [
+    "Square panels fit around vents and skylights",
+    "Rated for 2400Pa wind and 5400Pa snow",
+    "One shaded panel stops only a quarter of the array",
+    "Grade A+ cells with full EL testing"
+   ],
+   "cons": [
+    "More connectors and wiring than a two-panel set",
+    "23 percent efficiency trails N-type sets"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0HF7VWBJN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51zeoWxMANL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DMSM7CPP",
+   "badge": "Best Single Panel",
+   "name": "DOKIO 400W 31V Monocrystalline Solar Panel",
+   "specs": [
+    "400W single",
+    "31V",
+    "25% eff.",
+    "Aluminum frame"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W single panel"
+    },
+    {
+     "label": "Voltage class",
+     "value": "31V"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "25%"
+    },
+    {
+     "label": "System",
+     "value": "12V or 24V"
+    },
+    {
+     "label": "Cell grade",
+     "value": "Grade A"
+    }
+   ],
+   "description": "The DOKIO puts all 400W into one large aluminium-framed panel, so the roof sees one mounting footprint and one pair of leads. It is a 31V panel for 12V and 24V systems, with Grade A cells claiming 25 percent efficiency. The listing is honest that 400W is the lab rating and that real output depends on sun, heat, shade and cable gauge.\n\nA single big panel is simple to wire, but it is physically large, so confirm that roof length and a lifting plan work before ordering. It is harder to move than two 200W panels, and one shadow can drop the whole panel instead of half. For 12V systems the listing recommends parallel wiring or a high-input controller, which is a hint to check your MPPT input ceiling.\n\nHandle it on edge and avoid flexing the frame. Mount with at least four fixing points and sealant around each.",
+   "bestFor": "Owners with a long, clear roof who want one panel and one mounting footprint.",
+   "pros": [
+    "Single panel means one mount and one wire pair",
+    "31V class suits both 12V and 24V systems",
+    "Aluminium frame with pre-drilled mounting holes",
+    "Output caveats stated plainly in the listing"
+   ],
+   "cons": [
+    "Large panel is awkward to lift and mount",
+    "One shadow can drop the whole panel"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DMSM7CPP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41yKWJOP-FL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D4LMVKYD",
+   "badge": "Best Portable",
+   "name": "Renogy 400W Portable Foldable Solar Panel Suitcase",
+   "specs": [
+    "400W portable",
+    "30.2 lb",
+    "ETFE fiberglass",
+    "Plug and play"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W portable"
+    },
+    {
+     "label": "Weight",
+     "value": "30.2 lb"
+    },
+    {
+     "label": "Folded size",
+     "value": "33.7 x 27.95 in"
+    },
+    {
+     "label": "Build",
+     "value": "Fiberglass and ETFE"
+    },
+    {
+     "label": "Carry",
+     "value": "Included case"
+    }
+   ],
+   "description": "The Renogy portable puts 400W in a folding suitcase that weighs 30.2 lb and measures 33.7 by 27.95 inches folded. Construction uses fiberglass and ETFE reinforcement, and a carry case is included. The listing names compatible stations including Jackery, EcoFlow and Anker models, which makes it a strong match for owners with a portable power station.\n\nIt is not a roof panel, since the whole point is to set it in the sun, aim it and pack it away. That helps owners who park in shade and move the panel into a clearing, or who rent and cannot drill the roof. The tradeoff is carry weight, and you have to set it out each day.\n\nCheck your station input voltage and connector before buying, since a 400W panel can exceed a smaller station limit. Keep it in the case during transport and avoid dragging it across gravel.",
+   "bestFor": "Campers with a power station who want solar without drilling the roof.",
+   "pros": [
+    "Folds into a suitcase with a carry case",
+    "Fiberglass and ETFE construction",
+    "Compatible with several popular stations",
+    "No roof drilling needed"
+   ],
+   "cons": [
+    "30.2 lb is a heavy carry",
+    "Must be set out and aimed every day"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0D4LMVKYD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31jeVOI5H1L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "One panel or several",
+   "explanation": "A single 400W panel such as the DOKIO is simple but large, while the Renogy and HQST pairs split it in two and the HQST 4x100W splits it in four. More panels mean more shade resilience and easier roof fit but more connectors. Measure your free roof before choosing."
+  },
+  {
+   "criterion": "Series or parallel wiring",
+   "explanation": "Series raises voltage and allows thinner wire and better shade tolerance, but needs an MPPT controller sized for the voltage. Parallel keeps voltage low and suits small PWM systems, but increases current and fuse needs. For two 200W panels such as the Renogy pair, series with an MPPT controller is usually the cleaner route."
+  },
+  {
+   "criterion": "Controller compatibility",
+   "explanation": "A 400W array needs an MPPT controller, since PWM wastes headroom above about 150W. Check that the controller input voltage ceiling exceeds the array open-circuit voltage in cold weather. Also confirm a lithium charge profile if you run LiFePO4 batteries."
+  },
+  {
+   "criterion": "Cell type and heat",
+   "explanation": "N-type cells, used in the Renogy, HQST 2x200W and JJN sets, degrade more slowly and handle roof heat better than the PERC cells in older designs. The HQST 4x100W uses cells at 23 percent. Buy N-type if you camp in hot regions."
+  },
+  {
+   "criterion": "Roof footprint and weight",
+   "explanation": "Rigid 200W panels measure around 46 by 30 inches, while 100W squares measure 31.8 by 27.5. Count vents, skylights and ladders before ordering. Weight also matters for payload on a small van."
+  },
+  {
+   "criterion": "Fixed versus portable",
+   "explanation": "A roof array charges while you drive and park, but a portable panel such as the Renogy 400W suitcase lets you chase sun and avoid drilling. A portable setup suits renters and shaded campsites. Choose fixed for full-time use."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "STC rating",
+   "meaning": "The lab wattage under standard test conditions of strong light and a cool cell. Real roof output is usually 60 to 80 percent of it.",
+   "watchFor": "The DOKIO listing states this openly, so size the battery bank to realistic output."
+  },
+  {
+   "spec": "Panel voltage class",
+   "meaning": "A 12V panel has around 18V open circuit and a 24V-class panel runs higher. Higher voltage lowers current for the same wattage.",
+   "watchFor": "The DOKIO is 31V and the Renogy pair is a 24V-class panel."
+  },
+  {
+   "spec": "Bifacial",
+   "meaning": "A transparent backsheet lets reflected light enter the rear of the cells. The gain depends on a bright surface behind the panel.",
+   "watchFor": "The JJN pair is bifacial, but gains little when mounted flat on a roof."
+  },
+  {
+   "spec": "Wind and snow load",
+   "meaning": "The pressure the frame is rated to survive, given in pascals. Higher numbers suit rough roads and winter use.",
+   "watchFor": "The HQST 4x100W lists 2400Pa wind and 5400Pa snow."
+  },
+  {
+   "spec": "IP65 rating",
+   "meaning": "Dust-tight and resistant to water jets. It describes the junction and connectors, not full immersion.",
+   "watchFor": "The HQST pair lists IP65 and the JJN lists weather resistance only in general terms."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Layout and roof fit",
+   "description": "We compared how each 400W package splits its watts, from one DOKIO panel to four HQST squares. Smaller footprints and flexible layouts scored well for crowded roofs. Single large panels scored for wiring simplicity."
+  },
+  {
+   "title": "Cell technology",
+   "description": "We checked for N-type, bifacial and Grade A cell claims, and for the busbar counts. N-type sets scored highest for heat tolerance, while the 23 percent HQST 4x100W scored lower on efficiency."
+  },
+  {
+   "title": "Weather ratings",
+   "description": "We read the stated wind loads, snow loads and IP ratings. The HQST 4x100W stood out with explicit pascal figures. Panels without clear ratings lost points."
+  },
+  {
+   "title": "Completeness of package",
+   "description": "We noted whether brackets, controllers or carry cases are included. The JJN pair ships panels only, while the Renogy portable includes a case. Hidden extra purchases counted against a pick."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We reviewed recurring owner complaints on shipping damage, connector fit and overstated output. Repeated issues reduced ranking."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Roof Layout",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Long clear roof",
+      "DOKIO 400W",
+      "One panel, one mount"
+     ],
+     [
+      "Roof with one central vent",
+      "Renogy 2 x 200W",
+      "Two panels flank the vent"
+     ],
+     [
+      "Compact Class B roof",
+      "HQST 2 x 200W",
+      "46.3 by 30.1 inch panels"
+     ],
+     [
+      "Cluttered roof with vents and skylights",
+      "HQST 4 x 100W",
+      "Square 31.8 by 27.5 inch panels"
+     ],
+     [
+      "No roof drilling allowed",
+      "Renogy 400W portable",
+      "Sets on the ground"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "HQST 4 x 100W",
+      "Value with 23 percent cells"
+     ],
+     [
+      "Low to mid",
+      "JJN 2 x 200W",
+      "N-type bifacial for less"
+     ],
+     [
+      "Mid-range",
+      "DOKIO 400W",
+      "Single large panel"
+     ],
+     [
+      "Upper mid",
+      "HQST 2 x 200W",
+      "Grade A+ N-type cells"
+     ],
+     [
+      "Premium",
+      "Renogy portable or Renogy 2 x 200W",
+      "Brand support or portability"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fixed Roof vs Portable",
+   "cards": [
+    {
+     "label": "Fixed roof array",
+     "text": "The Renogy and HQST pairs charge while you drive and park, with no daily setup. They need drilling, sealant and a controller."
+    },
+    {
+     "label": "Portable suitcase",
+     "text": "The Renogy 400W portable weighs 30.2 lb and is set in the sun each day. It avoids drilling and follows the light."
+    }
+   ],
+   "note": "Full-timers should pick a fixed array, and weekend campers with a power station should pick the portable."
+  },
+  {
+   "subheading": "Wiring Approach",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Simplest wiring",
+      "DOKIO 400W",
+      "One panel, one pair of leads"
+     ],
+     [
+      "Series with MPPT",
+      "Renogy 2 x 200W",
+      "24V-class panels reduce current"
+     ],
+     [
+      "Shade tolerance via series-parallel",
+      "HQST 4 x 100W",
+      "One shaded panel stops a quarter"
+     ],
+     [
+      "Ground-mounted array",
+      "JJN 2 x 200W",
+      "Bifacial rear gain"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Hot Climates Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Choose N-type cells and an aluminium frame with an air gap, since roof temperatures cut output. Check the temperature coefficient if published."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Renogy 2 x 200W, HQST 2 x 200W and JJN set all use N-type cells. The HQST 4 x 100W uses older cells at 23 percent."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more on the Renogy pair or portable when brand support matters or the system must run for years. Better cells repay the cost in hot summers."
+    },
+    {
+     "label": "Save if",
+     "text": "Save with the JJN pair or HQST 4 x 100W when budget is tight and you can handle extra wiring. Extra connectors are the main cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect roof sealant",
+   "interval": "Every 6 months",
+   "why": "Sealant cracks under heat and UV. A cracked bead around a screw leaks into the roof core."
+  },
+  {
+   "task": "Check connectors",
+   "interval": "Every season",
+   "why": "MC4 plugs loosen and corrode with vibration. A bad plug can burn and cut the whole array."
+  },
+  {
+   "task": "Clean the panels",
+   "interval": "Monthly in season",
+   "why": "Dust and pollen reduce output by several percent. A soft cloth and water suffice."
+  },
+  {
+   "task": "Tighten mounting hardware",
+   "interval": "Yearly",
+   "why": "Road vibration loosens brackets. A loose panel can lift in wind."
+  },
+  {
+   "task": "Check controller settings",
+   "interval": "After any battery change",
+   "why": "A wrong battery profile undercharges lithium or overcharges lead acid. Verify the profile in the controller menu."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is 400W enough for an RV?",
+   "a": "For a small rig running a fridge, lights and device charging, yes. A large RV with air conditioning needs more panels or a generator, since 400W yields roughly 1200 to 1600Wh per day in good sun."
+  },
+  {
+   "q": "Should I buy one 400W panel or two 200W panels?",
+   "a": "Two 200W panels fit more roofs and tolerate shade better, while one large panel is simpler to wire. Choose by roof length and layout, and remember that two panels also give you a fallback: if one is damaged by a branch or a bad connector, the other keeps charging while you arrange a replacement. A single large panel leaves you with nothing until the whole unit is swapped out."
+  },
+  {
+   "q": "What controller do I need for 400W?",
+   "a": "An MPPT controller sized for the array voltage and your battery bank. A 30A unit often suits 12V, but check the input ceiling for series wiring."
+  },
+  {
+   "q": "Are 400W kits cheaper than buying panels separately?",
+   "a": "Sometimes, but a panels-only set such as the JJN needs brackets and a controller on top. Add those to compare fairly, because a bare set that looks cheap can end up costing more once an MPPT controller, brackets, fuses and cable are in the cart."
+  },
+  {
+   "q": "Does bifacial help on an RV roof?",
+   "a": "Gain is minimal when panels sit flat on a roof, because little light reflects behind them. It helps on ground or raised mounts."
+  },
+  {
+   "q": "Can I use a portable 400W panel instead of a roof array?",
+   "a": "Yes, if you own a compatible power station and accept daily setup. It also avoids drilling and lets you follow the sun."
+  }
+ ],
+ "relatedGuides": [],
+ "guideSlug": "best-400-watt-rv-solar-panel",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best 400 watt rv solar panel",
+ "heroImage": "https://m.media-amazon.com/images/I/410Q6zprjTL._SL500_.jpg"
+}

@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-foldable-solar-panels-with-charge-controllers",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best foldable solar panels with charge controllers",
+ "guideTitle": "Best Foldable Solar Panels With Charge Controllers (2026)",
+ "metaTitle": "Best Foldable Solar Panels With Controllers",
+ "metaDescription": "Six suitcase-style folding solar panels that ship with a charge controller, compared on controller type, fold size, weight and battery fit for RV and camp use.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Renogy 200W suitcase is the most complete answer here because its panel and waterproof controller are matched for battery charging. The TOPRAY 100W is the value pick since it is the only kit with an MPPT controller. Anyone who only wants to top up a phone or a tiny power bank should skip this category, because a controller kit is built for a 12V battery.",
+ "introParagraphs": [
+  "A folding panel that ships with its own charge controller is the simplest way to put solar on a battery without drilling a roof. The controller sits between the cells and the battery, and that small box decides how much of the sunlight you actually bank. The cells are rarely the weak link; the controller and the connectors usually are.",
+  "Buyers get tripped up by what that controller really does. Some are basic PWM units that only clamp the panel down to battery voltage, while others use MPPT tracking to find a better operating point. We evaluated each kit on its spec sheet and owner feedback patterns, comparing fold size, weight, cable length and whether the controller suits the battery chemistry you own."
+ ],
+ "products": [
+  {
+   "id": "B07RFQVB9M",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Renogy 200W 12V Suitcase Panel With 20A Controller",
+   "price": "",
+   "specs": [
+    "200W N-type cells",
+    "20A sealed controller",
+    "Suitcase fold",
+    "Station compatible"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cell type",
+     "value": "N-type, up to 25% efficiency"
+    },
+    {
+     "label": "Controller",
+     "value": "20A, waterproof"
+    },
+    {
+     "label": "Weight",
+     "value": "About 28.5 lb"
+    },
+    {
+     "label": "Form",
+     "value": "Suitcase fold"
+    }
+   ],
+   "description": "Renogy builds this kit around N-type cells, which hold their output better in heat than older P-type cells, and it pairs them with a waterproof 20A controller instead of a bare cable. That pairing matters because the controller is already matched to the panel, so a first-time owner is not guessing at amp limits. The listing also names several popular power stations as compatible, which tells you the output side has been thought through.\n\nThe cost of that completeness is bulk. At roughly 28.5 lb it is nearly twice the weight of the Holdwell 100W, and you will feel it on a walk from the truck to a campsite. It is a vehicle-to-camp panel, not a pack-in one, and a person who carries gear by hand should look at the 100W kits below instead.\n\nAfter a few seasons the parts that wear are the hinges, the handle and the cable jacket, not the cells. Keep the controller dry even though it is rated for rain, and wind the lead loosely rather than tight around the case so the insulation does not crack at the fold line. Because it is the only kit here whose panel and controller come from one maker, a warranty claim has a single door to knock on.",
+   "bestFor": "Campers who want a matched, ready-to-run 12V battery kit and will carry it by vehicle.",
+   "pros": [
+    "N-type cells cope with heat better than older panels",
+    "Waterproof 20A controller is matched to the panel",
+    "Listed as compatible with several large power stations",
+    "Suitcase fold protects the glass-free face in transit"
+   ],
+   "cons": [
+    "Heavy enough that it needs a vehicle for transport",
+    "Controller is rated for 12V battery work, so it is not for a 24V bank"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07RFQVB9M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lXOrWRnlL._SL500_.jpg"
+  },
+  {
+   "id": "B0FY4YM1QP",
+   "rank": 2,
+   "badge": "Best Value",
+   "name": "TOPRAY 100W Folding Kit With 10A MPPT Controller",
+   "price": "",
+   "specs": [
+    "100W mono cells",
+    "10A MPPT controller",
+    "Up to 25% efficiency",
+    "4-in-1 adapter"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Controller",
+     "value": "10A MPPT, 12V"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "Up to 25%"
+    },
+    {
+     "label": "Display",
+     "value": "Charge status screen"
+    },
+    {
+     "label": "Adapter",
+     "value": "4-in-1 connector set"
+    }
+   ],
+   "description": "Most kits in this price class settle for a PWM controller, so an MPPT unit on a 100W panel is the first thing that sets the TOPRAY apart. MPPT tracks the panel's best voltage and current instead of dragging it down to the battery level, and the gain is largest when the panel is cold or the sun is weak. A 10A limit at 12V comfortably covers 100W, which is about 8A in practice.\n\nThe small controller screen shows charge status, so you are not blind to what the battery is doing, and the four-in-one adapter is meant to cover the connector zoo found on power stations. That is useful, but check it against your exact station before trusting the claim, since connector shapes vary by maker. Next to the Holdwell 100W, this one gives up the tempered glass face and the larger controller headroom.\n\nSuitcase panels of this style fail at the folding seam and the cable strain relief long before the cells fade. Open and close it gently, and do not leave it propped open in strong wind because the thin case catches like a sail. Because the controller is only 10A, leave it as a 100W kit and do not try to chain a second panel onto it later.",
+   "bestFor": "Anyone who wants MPPT charging on a small, light 12V kit.",
+   "pros": [
+    "MPPT controller recovers more energy than a PWM unit",
+    "Charge status display shows what the battery is doing",
+    "Light enough to carry by hand to a site",
+    "Adapter set covers several common power station plugs"
+   ],
+   "cons": [
+    "10A controller caps the kit at about 100W of panels",
+    "Thin case and cable strain relief feel less rugged than glass-faced rivals"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FY4YM1QP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51KLD3sambL._SL500_.jpg"
+  },
+  {
+   "id": "B0GK7FYTJW",
+   "rank": 3,
+   "badge": "Best Glass Panel",
+   "name": "Holdwell S 200W Glass Suitcase With 30A PWM Controller",
+   "price": "",
+   "specs": [
+    "200W PERC glass",
+    "30A PWM controller",
+    "Backlit LCD",
+    "IP65 rated"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "Ten-busbar PERC, 23% efficient"
+    },
+    {
+     "label": "Controller",
+     "value": "30A PWM, backlit LCD"
+    },
+    {
+     "label": "Open size",
+     "value": "46.5 x 35.3 in"
+    },
+    {
+     "label": "Weight",
+     "value": "About 26.8 lb"
+    }
+   ],
+   "description": "Holdwell puts ten-busbar PERC cells behind tempered glass, and the glass is the story. A glass face resists scratches and hail dings better than the laminated plastic skins on many folding panels, and it sheds dust more easily. The 30A PWM controller with a backlit LCD has plenty of current headroom for 200W of panel, and direct MC4 output lets you bypass the controller if you want to feed a power station.\n\nPWM is the compromise. Because it pulls the panel voltage down to the battery, the Holdwell leaves some energy on the table compared with the TOPRAY's MPPT design, and the gap grows in cold weather. It is a better pick for a lead-acid or lithium battery you charge every day than for squeezing maximum watts from a weak winter sun.\n\nUnfolded it measures 46.5 by 35.3 inches, so it needs a flat patch of ground clear of shade and a way to stop it blowing over. Wipe the glass with a soft cloth to avoid micro-scratches. At 26.8 lb it is a little lighter than the Renogy 200W, which is a small win if you carry it often.",
+   "bestFor": "Buyers who prefer a scratch-resistant glass face and a roomy 30A controller.",
+   "pros": [
+    "Tempered glass face resists scratches and dust",
+    "30A controller has real headroom for 200W",
+    "Direct MC4 output lets you skip the controller",
+    "Backlit LCD stays readable in bright sun"
+   ],
+   "cons": [
+    "PWM design wastes some energy compared with MPPT",
+    "Large open footprint needs a flat, unshaded spot"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GK7FYTJW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/515v8mtq8SL._SL500_.jpg"
+  },
+  {
+   "id": "B0HDYJX7JJ",
+   "rank": 4,
+   "badge": "Best for Big Batteries",
+   "name": "DOKIO 300W N-Type Suitcase Kit With 20A Controller",
+   "price": "",
+   "specs": [
+    "300W N-type 16BB",
+    "20A sealed controller",
+    "USB ports",
+    "Alligator clip leads"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "300W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Controller",
+     "value": "20A, waterproof, USB"
+    },
+    {
+     "label": "Open size",
+     "value": "78.4 x 31.1 in"
+    },
+    {
+     "label": "Bracket",
+     "value": "30 degree adjustable"
+    }
+   ],
+   "description": "Three hundred watts is the biggest folding output in this lineup, and DOKIO fits N-type 16-busbar cells into an aluminum frame with reinforced corners. The kit includes a 3m extension cable so the controller can sit in shade while the panel sits in full sun, plus an adjustable bracket that props it at 30 degrees. Alligator clips on the leads let you connect straight to a battery, which is quick but needs careful attention to polarity.\n\nHere is the catch worth knowing. Three hundred watts into a 20A controller at 12V is a mismatch, because 20A times 14V only handles about 280W, so in practice the controller will clip the top of the panel's output on a bright day. That is fine for a 12V battery but it means you are not getting the full 300W, and the 200W kits with the same controller class are more honest fits.\n\nThe unfolded length of 78.4 inches is long, so you need real space. Swap the clips for a fused ring-terminal lead if the kit will live on a battery. It beats the Holdwell 200W for output but not for headroom, which is why it sits fourth.",
+   "bestFor": "Campers with a large 12V battery bank who have room to spread a long panel.",
+   "pros": [
+    "Highest folding output in this lineup",
+    "Three metre extension cable keeps the controller in shade",
+    "Adjustable bracket props the panel at 30 degrees",
+    "Aluminum frame with reinforced corners handles rough use"
+   ],
+   "cons": [
+    "Controller current limit clips the top of a 300W panel at 12V",
+    "Very long open length needs a big clear site"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0HDYJX7JJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41kcEj4AUtL._SL500_.jpg"
+  },
+  {
+   "id": "B0GK7K62VC",
+   "rank": 5,
+   "badge": "Best Compact Glass",
+   "name": "Holdwell S 100W Glass Suitcase With 20A PWM Controller",
+   "price": "",
+   "specs": [
+    "100W PERC glass",
+    "20A PWM controller",
+    "IP67 rated",
+    "14.3 lb"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cells",
+     "value": "Twelve-busbar PERC, 24% efficient"
+    },
+    {
+     "label": "Controller",
+     "value": "20A PWM, backlit LCD"
+    },
+    {
+     "label": "Open size",
+     "value": "36.6 x 22.6 in"
+    },
+    {
+     "label": "Weight",
+     "value": "14.3 lb"
+    }
+   ],
+   "description": "Twelve-busbar PERC cells sit behind tempered glass here, and the whole panel weighs 14.3 lb, which is light for a glass-faced suitcase. It opens to 36.6 by 22.6 inches and folds to roughly half that, so it slides behind a seat. The 20A PWM controller has a backlit LCD, and the IP67 rating is the highest of any kit in the lineup.\n\nA 20A controller for a 100W panel is generous, so the kit leaves room to add a second matching panel in parallel if your needs grow. The trade is that PWM leaves energy unharvested, and a 100W panel has little to spare. For a small van or a weekend cooler battery this is plenty, but a daily-driver fridge on a long trip needs more panel than this one supplies.\n\nBecause the suitcase hinge is the one moving part, check it for play after every few trips and keep grit out of the seam before closing the case. Rinse the glass with clean water rather than scrubbing it dry, and coil the cable in loose loops. Compared with the DOKIO 100W it costs more weight but gives you a glass face that tolerates years of knocks.",
+   "bestFor": "Light 12V users who want a glass panel small enough to stow behind a seat.",
+   "pros": [
+    "Glass face and IP67 rating suit rough outdoor use",
+    "Only 14.3 lb, light for a glass suitcase",
+    "20A controller leaves room for a second panel",
+    "Backlit LCD shows charging status in daylight"
+   ],
+   "cons": [
+    "100W gives little margin for a refrigerator loop",
+    "PWM controller wastes energy compared with MPPT"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GK7K62VC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/515v8mtq8SL._SL500_.jpg"
+  },
+  {
+   "id": "B07VL3XF96",
+   "rank": 6,
+   "badge": "Lightest Pick",
+   "name": "DOKIO 100W Foldable Kit With PWM Controller and USB",
+   "price": "",
+   "specs": [
+    "100W foldable",
+    "Separate PWM box",
+    "USB output",
+    "3m extension cable"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Controller",
+     "value": "Standalone 12V PWM"
+    },
+    {
+     "label": "Protections",
+     "value": "Reverse, overcharge"
+    },
+    {
+     "label": "Extension cable",
+     "value": "9.85 ft (3 m)"
+    },
+    {
+     "label": "Outputs",
+     "value": "USB plus battery leads"
+    }
+   ],
+   "description": "DOKIO sells this as the light end of the folding range, and the main reason to buy it is that the controller is a separate box you can leave in shade. A 9.85 ft cable separates the controller from the panel, which keeps the electronics cooler than controllers that bolt to the hot panel back. The unit protects against reverse polarity and overcharge.\n\nThe listing gives mixed weights, quoting about 5.3 lb in one place and about 6 lb in another, so treat it as roughly the weight of a hardback book rather than a measured figure. Either way it is the lightest kit in this guide, but it also uses a laminated panel rather than glass, so it is gentler on your back and tougher on your handling habits. The Holdwell 100W is the better choice if you toss gear into a truck bed.\n\nA separate controller means two cables to keep track of, so tape a label on each end before a trip. Keep the USB port sealed from dust, and never leave the panel face down on gravel. If the controller ever fails, you can replace it with a different 12V unit without buying a new panel, which is a quiet advantage over kits with the controller built into the case.",
+   "bestFor": "Backpackers and van campers who count every pound and want a replaceable controller.",
+   "pros": [
+    "Lightest kit in the lineup by a wide margin",
+    "Separate controller can sit in shade away from heat",
+    "Reverse polarity and overcharge protection included",
+    "Controller can be swapped without replacing the panel"
+   ],
+   "cons": [
+    "Laminated surface scratches easier than glass-faced panels",
+    "Two loose cables are easy to misplace or tangle"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07VL3XF96?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51rFZlfvrrL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "PWM versus MPPT controller",
+   "explanation": "A PWM controller connects the panel straight to the battery and holds it near battery voltage, so the panel never works at its best point. An MPPT controller converts the surplus voltage into extra current, which is why the TOPRAY 100W recovers more in cold or hazy light than the Holdwell 100W. The mistake buyers make is paying for panel watts while ignoring the controller that throttles them."
+  },
+  {
+   "criterion": "Controller amps versus panel watts",
+   "explanation": "Divide panel watts by roughly 14V to get the charging current, then make sure the controller rating sits above that. A 100W panel makes about 7 to 8A, so the Holdwell 100W with a 20A controller has headroom, while the DOKIO 300W at 20A is oversubscribed. Oversized panels do not damage the controller, but the excess is simply wasted."
+  },
+  {
+   "criterion": "Battery chemistry support",
+   "explanation": "Lithium iron phosphate batteries want a controller with a lithium or user-adjustable profile, because lead-acid profiles can under or over charge them. The Renogy 200W lists several battery types in its documentation, but you should confirm the exact profile for your pack before you plug in. Wrong charge voltage shortens battery life quietly and you rarely notice until the bank loses capacity."
+  },
+  {
+   "criterion": "Fold size and carry weight",
+   "explanation": "A 200W suitcase such as the Holdwell S 200W opens to 46.5 by 35.3 inches but weighs about 26.8 lb, while the 100W Holdwell is 14.3 lb. Weigh what you will really carry from the vehicle to the site, since a heavy panel stays in the trunk. Remember that open size, not folded size, decides where you can put it."
+  },
+  {
+   "criterion": "Connector and cable reality",
+   "explanation": "Kits end in alligator clips, MC4, SAE or station-specific plugs, and each needs a matching mate on your battery or station. The DOKIO 300W ships with alligator clips for fast hookup, but clips are poor permanent connections and heat at high current. Budget for a fused ring-terminal cable if the setup will stay connected."
+  },
+  {
+   "criterion": "Glass face versus laminated skin",
+   "explanation": "Tempered glass on the Holdwell kits resists scratches and clears dust, while laminated panels such as the DOKIO 100W weigh less but mark up. Glass can crack from a drop onto rock, so a case rated IP65 or IP67 does not replace careful handling. Pick glass if the panel will live in a truck bed, laminate if weight is the priority."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Wattage (W)",
+   "meaning": "This is the maximum output at standard laboratory conditions with the panel kept at a set temperature and light level. Real output in the field usually lands at 60 to 80 percent of the label.",
+   "watchFor": "Do not size a battery bank around the 300W DOKIO figure, expect closer to 200W on a good day."
+  },
+  {
+   "spec": "Controller amp rating",
+   "meaning": "The maximum current the controller passes to the battery. It must sit above panel watts divided by battery voltage.",
+   "watchFor": "The 20A controllers on the Renogy 200W and DOKIO 300W suit 12V banks but clip peak output on bigger panels."
+  },
+  {
+   "spec": "IP rating",
+   "meaning": "IP65 means dust tight and splash resistant, while IP67 survives brief submersion. The number applies to the panel junction box or controller, not the hinge seam.",
+   "watchFor": "The Holdwell 100W is IP67 and the Holdwell 200W is IP65, a small difference that matters in heavy rain."
+  },
+  {
+   "spec": "Cell efficiency",
+   "meaning": "The share of sunlight turned into electricity, typically 22 to 25 percent for current panels. Higher efficiency means a smaller panel for the same watts, not more output per square foot of roof.",
+   "watchFor": "The 24 percent Holdwell 100W and the up to 25 percent TOPRAY are close, so judge the controller instead."
+  },
+  {
+   "spec": "Open and folded dimensions",
+   "meaning": "The unfolded footprint decides where the panel fits and how it will aim at the sun. The folded size decides where it stores.",
+   "watchFor": "The DOKIO 300W unfolds to 78.4 inches, far more than the 36.6 inch Holdwell 100W."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Controller type and headroom",
+   "description": "We read each spec sheet for the controller type, amp rating and battery profile support. A PWM controller on a small panel scored lower than an MPPT design, and we flagged any controller smaller than the panel's expected current. The TOPRAY 100W earned credit as the only MPPT kit here."
+  },
+  {
+   "title": "Build and weather rating",
+   "description": "We looked at glass versus laminate faces, frame material and IP ratings. The IP67 Holdwell 100W scored higher than the IP65 Holdwell 200W on moisture, though both are fine for normal weather. We noted hinge and cable strain relief designs as likely wear points."
+  },
+  {
+   "title": "Portability",
+   "description": "We compared fold size and weight, using the 14.3 lb Holdwell 100W and the 28.5 lb Renogy 200W as the two ends of the range. A panel that is too heavy to carry tends to stay home, so weight counted. Open size was also checked against where a campsite can actually place it."
+  },
+  {
+   "title": "Battery and station fit",
+   "description": "We checked which connectors each kit ships with and which battery chemistries the controller supports. The kits with alligator clips scored well for convenience but lost points for being a weak permanent connection. Lithium compatibility was treated as a must for anyone with a LiFePO4 bank."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Broad owner feedback patterns shaped the pros and cons, particularly around hinge durability and controller reliability. We discounted any claim that could not be tied to a spec."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Battery Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small 12V battery, weekend use",
+      "Holdwell S 100W",
+      "Light, glass face, plenty of controller headroom"
+     ],
+     [
+      "Medium battery, daily charging",
+      "Renogy 200W suitcase",
+      "Matched controller, 200W of N-type cells"
+     ],
+     [
+      "Large bank and room to spread out",
+      "DOKIO 300W",
+      "Highest output, long cable for shade placement"
+     ],
+     [
+      "Winter or hazy light",
+      "TOPRAY 100W",
+      "MPPT gains the most in weak sun"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest entry",
+      "Holdwell S 100W",
+      "Lowest cost kit with a glass face"
+     ],
+     [
+      "Low to mid range",
+      "DOKIO 100W",
+      "Light and a swappable controller"
+     ],
+     [
+      "Mid range",
+      "TOPRAY 100W",
+      "MPPT at a small-panel price"
+     ],
+     [
+      "Premium",
+      "Renogy 200W suitcase",
+      "Matched, waterproof controller from one maker"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "PWM vs MPPT",
+   "cards": [
+    {
+     "label": "PWM",
+     "text": "Simple, cheap and robust, but it throws away voltage headroom. The Holdwell 100W and 200W and both DOKIO kits sit in this group. It works well when the battery is nearly empty and the sun is strong."
+    },
+    {
+     "label": "MPPT",
+     "text": "Tracks the panel's best operating point and gains most in cold or weak light. The TOPRAY 100W is the only MPPT kit here. It is a smart choice when you charge a lithium battery in winter."
+    }
+   ],
+   "note": "Choose PWM if you want rugged and simple, MPPT if you camp in cool or cloudy conditions."
+  },
+  {
+   "subheading": "Glass vs Laminate",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Scratch resistance",
+      "Holdwell S 200W",
+      "Tempered glass face"
+     ],
+     [
+      "Lowest weight",
+      "DOKIO 100W",
+      "Laminated skin, light case"
+     ],
+     [
+      "Rough truck-bed use",
+      "Holdwell S 100W",
+      "Glass plus IP67"
+     ],
+     [
+      "Mixed use",
+      "Renogy 200W",
+      "N-type cells in a rugged case"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Powering a 12V Fridge Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A fridge cycles its compressor, so you need enough panel to cover daily watt-hours at 4 to 5 sun hours, and a controller that will not clip. Aim for 200W of panel for a typical 12V fridge."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Renogy 200W and Holdwell 200W both fit this job. The Renogy has the better match of controller and cells, while the Holdwell gives more current headroom."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want MPPT, N-type cells or a matched maker kit. The Renogy 200W suits permanent battery charging, while the TOPRAY 100W suits cold-weather efficiency."
+    },
+    {
+     "label": "Save if",
+     "text": "You only top up a small battery on weekends. The Holdwell 100W and DOKIO 100W do that job without the extra cost or weight."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wipe the panel face",
+   "interval": "After each trip",
+   "why": "Dust and pollen cut output by a few percent and can scratch laminated skins when dragged across them. Use clean water and a soft cloth."
+  },
+  {
+   "task": "Inspect hinges and handle",
+   "interval": "Every season",
+   "why": "The folding seam is the highest stress point on a suitcase panel. A loose hinge lets the glass or laminate flex and eventually crack."
+  },
+  {
+   "task": "Check MC4 and clip connections",
+   "interval": "Every season",
+   "why": "Corroded plugs or clips raise resistance and heat. Clean them and confirm they click or clamp firmly."
+  },
+  {
+   "task": "Verify controller settings",
+   "interval": "Every few months",
+   "why": "Battery type and voltage setpoints can drift or be changed by mistake. A wrong profile slowly damages the battery."
+  },
+  {
+   "task": "Dry the case before storage",
+   "interval": "Before each storage period",
+   "why": "A damp case grows mildew in the seam and swells the cable jacket. Store flat and dry with the cable loosely coiled."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is MPPT worth it on a small folding panel?",
+   "a": "On a 100W panel the gain is modest in strong sun but meaningful in cold weather or low sun, often 10 to 30 percent more energy. If you charge a lithium battery in winter, the TOPRAY 100W MPPT kit earns its place. For summer weekends a PWM kit is adequate."
+  },
+  {
+   "q": "Can I run a second panel on the same controller?",
+   "a": "Only if the controller amp rating covers both panels. The Holdwell 100W has a 20A controller, enough for two 100W panels in parallel. The TOPRAY 100W has a 10A controller and has no room for expansion."
+  },
+  {
+   "q": "How much does a 200W panel really produce?",
+   "a": "Expect around 120 to 160W in good sun and far less under haze or when the panel is flat. At 4 to 5 sun hours that is roughly 600 to 800 watt-hours a day, depending on tilt and temperature."
+  },
+  {
+   "q": "Do I need to change the controller if I own a lithium battery?",
+   "a": "You need a controller with a lithium or adjustable profile. Many included controllers support lead-acid, gel and lithium settings, but confirm your exact battery chemistry in the manual before connecting."
+  },
+  {
+   "q": "Are these kits waterproof enough for rain?",
+   "a": "IP65 and IP67 grades cover splashes and brief wetting of the panel and controller. Do not submerge the plugs, and fold the panel up in a storm because wind is the larger hazard."
+  },
+  {
+   "q": "Why does my panel make less than the label says?",
+   "a": "The label rating is measured under laboratory conditions with a cool panel and a perfect angle. Heat, dust, tilt, wire loss and the controller type all subtract from it, which is why 60 to 80 percent is normal."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41lXOrWRnlL._SL500_.jpg"
+}

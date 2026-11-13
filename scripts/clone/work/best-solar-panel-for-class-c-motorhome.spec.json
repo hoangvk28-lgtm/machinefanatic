@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-solar-panel-for-class-c-motorhome",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar panel for class c motorhome",
+ "guideTitle": "Best Solar Panels for Class C Motorhomes (2026)",
+ "metaTitle": "Best Solar Panels for Class C Motorhomes",
+ "metaDescription": "Six solar panels and kits for Class C motorhome roofs, from slim 100W modules to 200W kits, compared on roof tiling, weight, cable runs and controller match.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Renogy 200W N-type panel is the best building block for a Class C roof because it is light, efficient and easy to tile around the air conditioner. The ECO-WORTHY 200W kit is the value pick for owners who want everything in one box. Anyone who mostly camps at full-hookup parks should skip a large array and focus on battery upgrades.",
+ "introParagraphs": [
+  "A Class C motorhome has more usable roof than any van or small trailer, but that roof is far from empty. An air conditioner, vent covers, a satellite dish, a ladder and the cab-over overhang all claim space, and the free area between them is often a patchwork of odd rectangles.",
+  "That patchwork favors smaller modules that tile well, and the long drive from the roof to the house battery makes voltage and wire size matter. We evaluated each pick on its spec sheet and owner feedback patterns, comparing module size, weight, cell type, kit contents and how each one scales into a multi-panel array."
+ ],
+ "products": [
+  {
+   "id": "B0DYD8VT9C",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Renogy 200W N-Type 16BB Rigid Panel",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "25% efficient",
+    "11.7% lighter",
+    "24V-class output"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, 25%"
+    },
+    {
+     "label": "Weight",
+     "value": "11.7% lighter than prior model"
+    },
+    {
+     "label": "Size",
+     "value": "7.5% smaller than prior model"
+    },
+    {
+     "label": "Voltage",
+     "value": "24V-class output"
+    }
+   ],
+   "description": "Renogy's 200W N-type panel is the module I would use as the unit of a Class C array. It is 7.5% smaller and 11.7% lighter than the model it replaces, which matters when you are carrying several up a ladder, and its higher operating voltage trims current and wire loss on the long run from roof to house battery. N-type cells keep output up on a hot roof, where air-conditioner heat and sun combine.\n\nSeries wiring of two or three of these is the usual Class C approach, and it requires an MPPT controller with enough input voltage and the headroom for cold mornings. A Class C's long chassis makes thin wire attractive, and series wiring delivers it. Shade is the weakness, because this panel has no special layout, so a roof ladder or dish shadow will cut a series string sharply.\n\nPlan the layout so panels sit clear of the air conditioner's shadow and leave a walkway. Seal the feet with lap sealant, since a fiberglass or rubber roof differs in how it takes screws, and check the sealant yearly. Compared with the Callsun 100W it gives double the power per panel for the same mounting effort.",
+   "bestFor": "Class C owners building a 400W to 800W array from identical rigid modules.",
+   "pros": [
+    "N-type cells with 25% efficiency keep output up on a hot roof",
+    "Lighter and smaller than the maker's previous model",
+    "Higher voltage cuts current and wire loss on a long run",
+    "Identical modules tile into larger arrays"
+   ],
+   "cons": [
+    "No shade-tolerant layout, so a ladder shadow costs output",
+    "Needs an MPPT controller to use its voltage"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg"
+  },
+  {
+   "id": "B015DEY2TM",
+   "rank": 2,
+   "badge": "Best Complete Kit",
+   "name": "Renogy 200W N-Type Kit With Adventurer 30A Controller",
+   "price": "",
+   "specs": [
+    "200W N-type panels",
+    "Adventurer 30A PWM",
+    "22% efficient",
+    "800Wh daily claim"
+   ],
+   "specList": [
+    {
+     "label": "Array",
+     "value": "200W"
+    },
+    {
+     "label": "Controller",
+     "value": "Adventurer 30A PWM, LCD"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "22%"
+    },
+    {
+     "label": "Daily energy",
+     "value": "About 800Wh in 4 sun hours"
+    },
+    {
+     "label": "Mounting",
+     "value": "Flush-mount controller"
+    }
+   ],
+   "description": "The Adventurer controller sits flush in a wall, which is useful in a Class C where the electrical cabinet is often a narrow panel near the entry door. The kit combines 200W of N-type panels at 22% efficiency with a 30A PWM controller with an LCD, and the listing claims 800Wh a day in four hours of sun. It is a neat way to start with one order.\n\nThe controller is PWM, so the kit wastes some energy compared with MPPT, and the 30A limit caps the array near 400W at 12V if you expand. For a Class C that already runs a larger battery, you will probably outgrow it. The panels themselves are good, and you can keep them if you swap the controller later.\n\nIt installs the way most kits do: brackets, sealant, a roof entry gland, fuses at the battery. A Class C's long wire run from roof to battery calls for thicker cable than the kit supplies in some cases, so measure and upgrade if needed. It costs more than the ECO-WORTHY kit and offers a cleaner controller and better documentation.",
+   "bestFor": "Owners who want a flush-mounted controller and one-order simplicity.",
+   "pros": [
+    "Flush-mount controller gives a clean interior install",
+    "N-type panels at 22% efficiency",
+    "800Wh daily energy claim is realistic for 200W",
+    "Panels can be kept if the controller is replaced"
+   ],
+   "cons": [
+    "30A PWM controller limits later expansion",
+    "Supplied cable may be short for a long Class C roof run"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B015DEY2TM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hH3UbUtML._SL500_.jpg"
+  },
+  {
+   "id": "B09RZZHHHM",
+   "rank": 3,
+   "badge": "Best Value Kit",
+   "name": "ECO-WORTHY 200W Kit With 30A PWM Controller",
+   "price": "",
+   "specs": [
+    "200W mono panels",
+    "30A PWM controller",
+    "12V or 24V",
+    "800Wh daily claim"
+   ],
+   "specList": [
+    {
+     "label": "Array",
+     "value": "200W"
+    },
+    {
+     "label": "Controller",
+     "value": "30A PWM"
+    },
+    {
+     "label": "Daily energy",
+     "value": "About 800Wh in 4 sun hours"
+    },
+    {
+     "label": "Cell gain",
+     "value": "Up to 21.5% claim"
+    },
+    {
+     "label": "Frame",
+     "value": "Corrosion-resistant aluminum"
+    }
+   ],
+   "description": "ECO-WORTHY undercuts the other kits on price while still supplying 200W of monocrystalline panels and a 30A PWM controller. The listing claims 800Wh a day in four sun hours and states the frame is corrosion resistant and rated for strong wind. It is also configurable for 12V or 24V banks, which is flexible.\n\nWhat you give up is polish: the cells are the older monocrystalline type rather than N-type, the controller is basic, and documentation is thinner than Renogy's. For a Class C with a big roof, that matters less than in a van, because you can add another panel if output is short. The PWM design wastes some energy in cold weather.\n\nBecause a Class C often has a rubber or fiberglass roof, check the mounting hardware included and replace any thin screws with stainless ones. Seal the feet and keep the wiring neat. It is a cost-first path to a working roof system that you can improve later.",
+   "bestFor": "Budget-minded Class C owners who plan to expand the array later.",
+   "pros": [
+    "Complete 200W kit at a low price point",
+    "Configurable for 12V or 24V battery banks",
+    "Corrosion-resistant aluminum frame",
+    "Plenty of Class C roof area for adding panels"
+   ],
+   "cons": [
+    "Older monocrystalline cells give fewer watts per square foot",
+    "PWM controller wastes energy in cold weather"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg"
+  },
+  {
+   "id": "B0DJP782Z3",
+   "rank": 4,
+   "badge": "Best Small Module",
+   "name": "Callsun 100W N-Type 16BB Panel, 31.1 x 22.7 in",
+   "price": "",
+   "specs": [
+    "100W N-type 16BB",
+    "31.1 x 22.7 x 1.1 in",
+    "11.4 lb",
+    "25% efficient"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, 25%"
+    },
+    {
+     "label": "Size",
+     "value": "31.1 x 22.7 x 1.1 in"
+    },
+    {
+     "label": "Weight",
+     "value": "11.4 lb"
+    },
+    {
+     "label": "Size gain",
+     "value": "15% smaller than traditional 100W"
+    }
+   ],
+   "description": "The 31.1 by 22.7 inch size is what makes this panel useful on a roof full of odd gaps. At 11.4 lb and 15% smaller than traditional 100W panels, it fits next to a vent or between a dish mount and the air conditioner where a 200W panel simply cannot. N-type 16-busbar cells deliver up to 25% efficiency, with better light absorption and fewer hot spots than 9BB or 10BB cells.\n\nSmall modules cost more mounting effort per watt: more feet, more sealant, more connectors. Four of these make 400W, but each needs its own penetration points, so decide if your roof can carry the extra holes. The upside is flexibility, since you can tile them around fixtures and still reach a large total.\n\nWire them in parallel or series depending on the controller, and keep a consistent orientation. Check the connectors seasonally and clean the glass with water. It is the right choice when roof geometry, not budget, limits your array.",
+   "bestFor": "Class C roofs with many fixtures and small gaps that need compact modules.",
+   "pros": [
+    "31.1 by 22.7 inch size fits small roof gaps",
+    "15% smaller than traditional 100W panels",
+    "N-type 16BB cells at up to 25% efficiency",
+    "Reduces hot spots compared with 9BB or 10BB cells"
+   ],
+   "cons": [
+    "More mounting points and connectors per watt",
+    "11.4 lb per 100W adds up in a large array"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DJP782Z3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41slYmN9D7L._SL500_.jpg"
+  },
+  {
+   "id": "B0GS2K44DH",
+   "rank": 5,
+   "badge": "Best Light Roof Load",
+   "name": "ECO-WORTHY 100W Ultra-Slim Panel, 4.7 lb",
+   "price": "",
+   "specs": [
+    "100W 18BB N-type",
+    "4.7 lb",
+    "0.2 in thick",
+    "IP68 rated"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 18 busbar, 25%"
+    },
+    {
+     "label": "Weight",
+     "value": "4.7 lb, about 60% lighter"
+    },
+    {
+     "label": "Thickness",
+     "value": "0.2 in"
+    },
+    {
+     "label": "Rating",
+     "value": "IP68"
+    }
+   ],
+   "description": "Ultra-slim means 0.2 inches thick and 4.7 lb, which ECO-WORTHY says is 60% lighter than a conventional panel and 85% slimmer than a standard rigid frame. The idea is to cut roof load and wind noise, and to give a small gain in driving range. The 18BB N-type cells claim 25% efficiency and the panel carries an IP68 rating.\n\nOn a Class C, where a four-panel array of conventional glass adds roughly forty pounds up high, the weight saving is real but not dramatic. These panels are thin laminate, so they bond to the roof rather than bolt to it, which changes the mounting plan and the repair options. Heat trapped behind them also reduces output on hot days.\n\nUse it where the roof is weight-limited or where the cab-over curve prevents a rigid panel from sitting flat. Install with the maker's recommended adhesive and seal the edges, and expect a shorter life than a glass panel. It pairs well with one rigid panel on a mixed array.",
+   "bestFor": "Class C owners with weight limits or curved cab-over areas.",
+   "pros": [
+    "Only 4.7 lb and 0.2 inches thick",
+    "18BB N-type cells claim 25% efficiency",
+    "IP68 rating handles heavy weather",
+    "Lower wind resistance and noise than rigid frames"
+   ],
+   "cons": [
+    "Adhesive mount is permanent and heat shortens life",
+    "100W per panel needs many panels to build a large array"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GS2K44DH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LEB31GmBL._SL500_.jpg"
+  },
+  {
+   "id": "B0D3DZWXT4",
+   "rank": 6,
+   "badge": "Best Modular 100W",
+   "name": "Renogy 100W N-Type 16BB Rigid Panel",
+   "price": "",
+   "specs": [
+    "100W N-type 16BB",
+    "Grade A+ cells",
+    "Low heat power loss",
+    "Compact frame"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, grade A+"
+    },
+    {
+     "label": "Heat behavior",
+     "value": "Low temperature coefficient"
+    },
+    {
+     "label": "Frame",
+     "value": "Compact, smaller and lighter"
+    },
+    {
+     "label": "System",
+     "value": "12V"
+    }
+   ],
+   "description": "A 100W Renogy panel gives you a known quantity: N-type 16-busbar grade A+ cells with a low temperature coefficient, in a frame the maker calls smaller and lighter than before. On a Class C roof beside a hot air conditioner, the low temperature coefficient means less power lost as the panel heats. You can add them one at a time as the budget allows.\n\nThe cost of modularity is count. Reaching 400W means four panels and the sealant, feet and wiring that go with them, compared with two 200W units. For many Class C owners the 200W Renogy is a better building block unless the roof has gaps that suit the smaller size.\n\nWire them in parallel for a small system with a PWM controller, or in series with MPPT for a large one. Check sealant yearly and wipe the glass with water. It slots in as the second-best choice when a 200W panel will not fit a particular roof gap.",
+   "bestFor": "Owners adding a small, well-known panel to fill a leftover roof gap.",
+   "pros": [
+    "Low temperature coefficient limits loss on a hot roof",
+    "N-type 16BB cells in a compact frame",
+    "Easy to add one panel at a time",
+    "Fits gaps a 200W panel cannot"
+   ],
+   "cons": [
+    "Reaching 400W takes four panels and more mounting work",
+    "Smaller panels cost more effort per watt"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0D3DZWXT4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zl4REf4lL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Roof area after the fixtures",
+   "explanation": "A Class C roof loses space to the air conditioner, vents, a dish and the cab-over, so measure the free rectangles before choosing panel size. The Callsun 100W at 31.1 by 22.7 inches fits gaps a 200W panel cannot. Leave a walkway and clearance for ladder access."
+  },
+  {
+   "criterion": "Weight on the roof",
+   "explanation": "Glass panels add weight high on the vehicle, and the ECO-WORTHY 100W Ultra-Slim at 4.7 lb is far lighter than the Callsun 100W at 11.4 lb. A four-panel array can differ by dozens of pounds depending on which you pick. Check your roof load rating and your cargo capacity."
+  },
+  {
+   "criterion": "Cable run and voltage",
+   "explanation": "A Class C can have 20 feet or more of cable between roof and battery, so resistance matters. Series wiring raises voltage and lowers current, allowing thin wire with small losses, which suits the Renogy 200W N-type with an MPPT controller. Always calculate voltage drop before choosing wire gauge."
+  },
+  {
+   "criterion": "Roof material and mounting",
+   "explanation": "Fiberglass, rubber and metal roofs each need different mounting methods and sealants. Rigid panels use feet and sealant, while the ultra-slim ECO-WORTHY bonds with adhesive. Check what your roof can accept and what your warranty allows."
+  },
+  {
+   "criterion": "Heat from the air conditioner",
+   "explanation": "A roof near an air conditioner can run very hot, and N-type panels with a low temperature coefficient lose less power. The Renogy 100W lists this trait and the 200W N-type uses the same cells. Leave an air gap beneath rigid panels so heat escapes."
+  },
+  {
+   "criterion": "Controller and expansion",
+   "explanation": "A Class C can support 400 to 800W, which is beyond a 30A PWM controller's practical range at 12V. The Renogy Adventurer and ECO-WORTHY kits ship with 30A PWM units, so plan to replace them with MPPT when you grow. Buy the controller you will need, not the one you start with."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Watts per panel",
+   "meaning": "Higher watts per panel means fewer mounting points but a bigger footprint. Small panels fit gaps but multiply feet and connectors.",
+   "watchFor": "The 200W Renogy and the 100W Callsun differ by 100W per panel but also by size."
+  },
+  {
+   "spec": "Panel weight",
+   "meaning": "Weight on a roof affects handling and payload. Thin laminates weigh a fraction of glass and aluminum.",
+   "watchFor": "The ECO-WORTHY Ultra-Slim is 4.7 lb while the Callsun 100W is 11.4 lb."
+  },
+  {
+   "spec": "Temperature coefficient",
+   "meaning": "The percent of power lost per degree above 25 C. A lower value means better output on a hot roof.",
+   "watchFor": "Renogy lists a low coefficient for its 100W N-type panel."
+  },
+  {
+   "spec": "PWM versus MPPT",
+   "meaning": "PWM clamps the panel to battery voltage, while MPPT tracks the best operating point and gains in cold or low light.",
+   "watchFor": "Both kits here use 30A PWM controllers."
+  },
+  {
+   "spec": "Series versus parallel",
+   "meaning": "Series adds voltage and allows thin wire, while parallel adds current. Shade hurts a series string more.",
+   "watchFor": "A long Class C cable run favors series with MPPT."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Roof fit and tiling",
+   "description": "We compared module size and weight against the patchwork of a Class C roof. The Callsun 100W at 31.1 by 22.7 inches and the Renogy 100W scored high for filling gaps. The 200W panels scored on watts per mounting point."
+  },
+  {
+   "title": "Weight and roof load",
+   "description": "We compared stated weights, using the 4.7 lb ECO-WORTHY Ultra-Slim and the 11.4 lb Callsun 100W as endpoints. A larger array multiplies the difference. Heavier glass panels got credit for durability."
+  },
+  {
+   "title": "Cell technology and heat",
+   "description": "We looked at N-type versus older cells and any heat behavior claims. The Renogy panels and the ECO-WORTHY Ultra-Slim use N-type cells, while the ECO-WORTHY kit uses an older monocrystalline design. Heat near the air conditioner makes this relevant."
+  },
+  {
+   "title": "Kit completeness",
+   "description": "We checked what each kit includes and how easily it expands. The Renogy Adventurer kit's flush controller scored well, while both kits lost points for the 30A PWM limit. Panels without controllers were judged as modules."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Owner feedback patterns shaped our view of adhesive mounting, controller reliability and cable length. We discounted efficiency claims not tied to a stated figure."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Roof Space",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large open area",
+      "Renogy 200W N-type",
+      "Fewer panels per watt"
+     ],
+     [
+      "Many small gaps",
+      "Callsun 100W",
+      "31.1 by 22.7 inch size"
+     ],
+     [
+      "Curved cab-over",
+      "ECO-WORTHY Ultra-Slim",
+      "0.2 inch laminate"
+     ],
+     [
+      "Filling one leftover gap",
+      "Renogy 100W",
+      "Compact rigid panel"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest",
+      "ECO-WORTHY 200W kit",
+      "Complete 200W with controller"
+     ],
+     [
+      "Low to mid",
+      "Renogy 100W",
+      "Add one panel at a time"
+     ],
+     [
+      "Mid",
+      "Renogy 200W N-type",
+      "Strong building block"
+     ],
+     [
+      "Premium",
+      "Renogy 200W kit with Adventurer",
+      "Flush controller and N-type panels"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rigid vs Slim Laminate",
+   "cards": [
+    {
+     "label": "Rigid",
+     "text": "The Renogy 200W and 100W, Callsun 100W and the ECO-WORTHY kit last longer and run cooler with an air gap. They weigh more and need sealed feet."
+    },
+    {
+     "label": "Slim laminate",
+     "text": "The ECO-WORTHY Ultra-Slim is 4.7 lb and 0.2 inches thick. It bonds flat, runs hotter and ages faster, but it saves weight and wind noise."
+    }
+   ],
+   "note": "Choose rigid for the main array and slim laminate where weight or curve forces it."
+  },
+  {
+   "subheading": "Array Size",
+   "table": {
+    "headers": [
+     "Daily need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lights and fan",
+      "ECO-WORTHY 200W kit",
+      "About 800Wh a day"
+     ],
+     [
+      "Fridge and electronics",
+      "Renogy 200W N-type x2",
+      "400W from two panels"
+     ],
+     [
+      "Full-time use",
+      "Renogy 200W N-type x3",
+      "600W with series wiring"
+     ],
+     [
+      "Small add-on",
+      "Renogy 100W",
+      "Fills a gap"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Running the Roof Air Conditioner Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A battery bank, inverter and soft-start device sized for the air conditioner, plus thousands of watts of panel. A roof array alone cannot run it for long."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Even four Renogy 200W panels make only about 800W, so use solar to trim loads and a generator for the air conditioner."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You boondock in a Class C or plan an array above 400W. The Renogy 200W N-type panels and an MPPT controller are the foundation."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp mostly with hookups. The ECO-WORTHY 200W kit covers a fridge and lights without a big investment."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect roof seals and sealant",
+   "interval": "Every year",
+   "why": "UV, heat and flex crack sealant on a large Class C roof. Check around every foot and the cable gland."
+  },
+  {
+   "task": "Clean panels",
+   "interval": "Monthly in season",
+   "why": "A Class C roof collects tree debris and bird droppings. Use water and a soft cloth, working from a stable ladder."
+  },
+  {
+   "task": "Check cable runs and fuses",
+   "interval": "Every season",
+   "why": "A long roof-to-battery run flexes with the body. Look for chafed insulation and warm fuse holders."
+  },
+  {
+   "task": "Check adhesive edges on slim panels",
+   "interval": "Every season",
+   "why": "Heat and washing lift edges, and wind can then catch the panel. Reseal early."
+  },
+  {
+   "task": "Verify controller settings",
+   "interval": "Every few months",
+   "why": "Battery type and charge voltages can change by mistake. A wrong profile shortens battery life."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many solar panels fit on a Class C?",
+   "a": "Most Class C roofs fit three to five 200W panels after fixtures, or more 100W modules. Measure free area and leave a walkway."
+  },
+  {
+   "q": "Can solar run a Class C air conditioner?",
+   "a": "Not on a typical roof array. An air conditioner draws far more than 800W and needs a large battery and inverter, so use a generator or shore power."
+  },
+  {
+   "q": "Should I choose 100W or 200W panels?",
+   "a": "Use 200W panels for open roof and 100W panels to fill gaps. Smaller panels cost more in mounting effort per watt."
+  },
+  {
+   "q": "Does the roof material matter?",
+   "a": "Yes, fiberglass, rubber and metal roofs need different sealants and fasteners. Follow your roof manufacturer's guidance to keep the warranty."
+  },
+  {
+   "q": "Do I need MPPT on a Class C?",
+   "a": "For more than about 200W, yes. A long cable run and a bigger array make series wiring and MPPT the efficient choice."
+  },
+  {
+   "q": "What is the benefit of a slim panel?",
+   "a": "It cuts weight and wind noise and conforms to curves. It also runs hotter and ages faster than rigid glass."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg"
+}

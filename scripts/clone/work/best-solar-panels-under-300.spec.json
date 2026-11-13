@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-solar-panels-under-300",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar panels under 300",
+ "guideTitle": "Best Solar Panels Under $300 (2026)",
+ "metaTitle": "Best Solar Panels Under $300 (2026)",
+ "metaDescription": "Six 300W solar panels under $300, from a rigid N-type module and bifacial panel to flexible sheets and two foldable suitcases, compared for real use.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "13 min",
+ "expertTake": "The Mndstek 300W 10BB N-type rigid panel is the best overall for a fixed install because it delivers 300 watts on proven rigid construction with IP68 connectors. The DOKIO foldable kit is the value pick for a portable setup since a controller and USB ports come with it. Anyone who plans to bond a panel flat on a vehicle roof should reconsider flexible panels, since heat is the real enemy there.",
+ "introParagraphs": [
+  "At this level a single panel can carry real loads. Three hundred watts yields about a kilowatt-hour on a good day, which is enough to run a compact fridge, a laptop desk, lights and a small fan with room to spare, so the first system a buyer assembles here often stays in place for years.",
+  "The offers divide into three shapes: rigid glass modules for permanent mounts, flexible sheets for curved surfaces, and foldable suitcases for power stations. Each shape brings its own failure modes and wiring needs, so the guide groups the decision around how the panel will be mounted before it looks at efficiency claims."
+ ],
+ "products": [
+  {
+   "id": "B0FF9WS11B",
+   "badge": "Best Overall",
+   "name": "Mndstek 300W 10BB N-Type Half-Cut Solar Panel",
+   "price": "",
+   "specs": [
+    "300W",
+    "N-type 10BB",
+    "Half-cut",
+    "IP68 connector"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "300W"
+    },
+    {
+     "label": "Cell design",
+     "value": "N-type, half-cut, 10 busbar"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "up to 25 percent"
+    },
+    {
+     "label": "Connector rating",
+     "value": "IP68"
+    },
+    {
+     "label": "Voltage class",
+     "value": "12V or 24V systems"
+    }
+   ],
+   "description": "Half-cut cells split each cell in two, so current per cell is lower, resistive losses fall and the panel can keep working in two halves when one is shaded. This Mndstek panel pairs that with N-type silicon and a ten-busbar hidden grid, and the listing claims up to 25 percent efficiency. The connectors carry an IP68 rating that matters because water in a plug is the commonest failure on an outdoor array.\n\nIts limitation is size: a rigid 300W panel is about the same footprint as two small modules, so it needs real roof or ground space. Seen against the Mndstek bifacial option, this one has fewer busbars but costs the same power on a flat roof where rear gain is negligible. It also leaves the controller to you.\n\nAn owner should plan for a 30A or larger MPPT controller on a 12V bank, or a smaller unit on 24V. Use stainless fasteners, place spacers to keep air moving behind the panel, and check torque after the first month. For a year-round installation that is meant to be forgotten, this is the safest fit.",
+   "bestFor": "Permanent roof or ground installs where long life and sealed connectors matter most.",
+   "pros": [
+    "Half-cut N-type cells reduce losses and handle partial shade",
+    "IP68 connector protects the weakest outdoor joint",
+    "Rigid glass design lasts longest in the group",
+    "Fits 12V or 24V system layouts"
+   ],
+   "cons": [
+    "Large footprint needs a clear mounting area",
+    "No controller or hardware included"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FF9WS11B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lWxBfMMvL._SL500_.jpg"
+  },
+  {
+   "id": "B0H7J197XC",
+   "badge": "Best Bifacial",
+   "name": "Mndstek 300W 18BB Bifacial N-Type Panel",
+   "price": "",
+   "specs": [
+    "300W",
+    "Bifacial",
+    "N-type 18BB",
+    "25.3% cells"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "300W"
+    },
+    {
+     "label": "Cell design",
+     "value": "N-type, 18 busbar"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "25.3 percent"
+    },
+    {
+     "label": "Bifacial claim",
+     "value": "up to 30 percent extra"
+    },
+    {
+     "label": "System voltage",
+     "value": "12V or 24V"
+    }
+   ],
+   "description": "Two-sided cells allow this panel to harvest reflected light on its back face, and the listing claims up to thirty percent more energy. That figure belongs to optimal conditions, where the panel is lifted clear of the ground over a bright surface. The 18-busbar N-type cells also push efficiency to 25.3 percent, a small step above the 10BB sibling.\n\nBifacial benefits fade fast on a flush mount. If the panel is screwed flat to a shed roof, the back sees almost nothing, and you are paying for a feature you cannot use. The seller also notes that output varies with sun intensity and angle, which is an honest caveat.\n\nThe practical use case is a tilt frame in a yard, over pale gravel or near a snow field. Keep the underside unobstructed, clean the rear glass once a season and use rear-clearance brackets. If you can mount it that way, it is the most energy-efficient fixed panel in this guide.",
+   "bestFor": "Tilt-frame ground arrays over light surfaces where rear-side gain is real.",
+   "pros": [
+    "18BB N-type cells at 25.3 percent listed efficiency",
+    "Rear side can add energy over reflective ground",
+    "Same 300W nameplate as the standard rigid panel",
+    "Works with 12V or 24V systems"
+   ],
+   "cons": [
+    "Little benefit on a flush roof mount",
+    "Double glass is heavier and less forgiving of impacts"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H7J197XC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51wcyyXklmL._SL500_.jpg"
+  },
+  {
+   "id": "B0GJSQSYM1",
+   "badge": "Best Portable Kit",
+   "name": "DOKIO 300W Foldable Solar Kit with PWM Controller",
+   "price": "",
+   "specs": [
+    "300W",
+    "PWM controller",
+    "15.2 lb",
+    "USB ports"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "300W"
+    },
+    {
+     "label": "Weight",
+     "value": "15.2 lb"
+    },
+    {
+     "label": "Folded size",
+     "value": "19.3 x 37.4 x 1.1 in"
+    },
+    {
+     "label": "Controller",
+     "value": "PWM with reverse polarity protection"
+    },
+    {
+     "label": "Extras",
+     "value": "USB ports and clamp leads"
+    }
+   ],
+   "description": "DOKIO folds a 300W array into a slab only 1.1 inches thick, and the whole package weighs 15.2 pounds, so it slides under a bed or into a trunk. A separate PWM controller guards a 12V battery against reverse polarity and overcharge, and the kit adds USB ports and battery clamps. For someone who wants to charge a battery rather than a power station, that is what makes it usable the day it arrives.\n\nPWM controllers do waste energy compared with MPPT, and 300W is where that loss becomes noticeable in watt-hours. Next to the rigid Mndstek, this kit gives up about a fifth of harvest in cool weather in exchange for portability and simplicity. It also uses standard mono cells rather than N-type.\n\nPractical care: fold along the seams, use the handles, and avoid dragging it over gravel. The controller should live in the shade and away from moisture. If you later buy a power station, you can bypass the controller and feed the panel directly through MC4 adapters, provided the voltage is within its window.",
+   "bestFor": "Campers and off-grid weekenders who want a complete charging kit that packs away.",
+   "pros": [
+    "Folds to 1.1 inches thick and weighs 15.2 lb",
+    "PWM controller and clamps are included",
+    "USB ports charge phones directly",
+    "Reverse-polarity protection reduces wiring mistakes"
+   ],
+   "cons": [
+    "PWM controller leaves energy unused versus MPPT",
+    "Standard mono cells age faster than N-type"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GJSQSYM1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51drxNtUqsL._SL500_.jpg"
+  },
+  {
+   "id": "B0GY6RH1Q7",
+   "badge": "Best Power Station Suitcase",
+   "name": "Ecosonique 300W 40V Portable Suitcase Panel",
+   "price": "",
+   "specs": [
+    "300W",
+    "40V",
+    "23.5% mono",
+    "IP65"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "300W"
+    },
+    {
+     "label": "Operating voltage",
+     "value": "40V class"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "23.5 percent"
+    },
+    {
+     "label": "Surface",
+     "value": "Oxford fabric with CPC lamination, IP65"
+    },
+    {
+     "label": "Adapter cable",
+     "value": "3 m MC4 to Anderson, XT60, DC8020"
+    }
+   ],
+   "description": "This suitcase-style panel outputs at a 40V class, which suits larger power stations and series-wired inputs, and it ships with a three meter MC4 cable that converts to Anderson, XT60 and DC8020 plugs. The listing says the design is eighteen percent lighter than the previous generation, and the surface is Oxford fabric with a lamination that carries an IP65 rating.\n\nThe weak spot is input voltage compatibility. A 40V panel can exceed the solar input limit of small power stations, so you must read the station's maximum input voltage before buying. It is a good match for 1,000Wh to 3,000Wh stations with high-voltage MPPT inputs and a poor match for small 12V controllers.\n\nCare is the usual portable routine: unfold on a flat surface, prop the kickstand, and keep the cable out of puddles. The longer lead lets you place the panel in sun while keeping the station in shade, which is a real advantage on a hot day.",
+   "bestFor": "Owners of larger power stations with high-voltage solar inputs.",
+   "pros": [
+    "Three meter cable lets the station stay in shade",
+    "Includes Anderson, XT60 and DC8020 adapters",
+    "IP65-rated Oxford fabric surface",
+    "Lighter than the earlier generation by about 18 percent"
+   ],
+   "cons": [
+    "40V class can exceed small station input limits",
+    "Fabric surface wears faster than glass panels"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GY6RH1Q7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41fyd2Ai2vL._SL500_.jpg"
+  },
+  {
+   "id": "B0FB31M826",
+   "badge": "Best Budget Blanket",
+   "name": "LVYUAN 300W 24V Foldable Solar Blanket",
+   "price": "",
+   "specs": [
+    "300W",
+    "20V to 24V",
+    "P-PERC",
+    "IP64"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "300W"
+    },
+    {
+     "label": "Output voltage",
+     "value": "20V to 24V"
+    },
+    {
+     "label": "Cell type",
+     "value": "P-PERC, 23 percent claim"
+    },
+    {
+     "label": "Ingress rating",
+     "value": "IP64"
+    },
+    {
+     "label": "Format",
+     "value": "Foldable blanket"
+    }
+   ],
+   "description": "LVYUAN lists output between 20V and 24V and repeats a warning that most Jackery, EcoFlow and Bluetti panel connectors will not match without an adapter. That candor is useful, because incompatible voltage or polarity is a common reason a portable panel disappoints. Cells are P-PERC at a claimed 23 percent efficiency.\n\nIt is a blanket in every sense: IP64 means splash resistant but not weatherproof, and the surface wears where it folds. For occasional trips it is a sensible budget route to 300W, and its lower output voltage suits smaller power stations that choke on 40V input.\n\nOwners should unfold it flat, secure the corners against wind, and wipe off dew before folding it. Store it away from sharp tools in a dry space. It is not a permanent solution for a vehicle roof, but it will keep a mid-size station topped up on a weekend away.",
+   "bestFor": "Mid-size power station owners who want 300W at a lower input voltage.",
+   "pros": [
+    "20V to 24V output suits small and mid-size stations",
+    "Adapter and polarity warnings are stated clearly",
+    "Folds for carrying and storage",
+    "300W in a portable format at a budget tier"
+   ],
+   "cons": [
+    "IP64 rating is the weakest weather protection here",
+    "P-PERC cells are a generation behind the N-type panels"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FB31M826?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41e7YcFpOeL._SL500_.jpg"
+  },
+  {
+   "id": "B0HC7DGZ4S",
+   "badge": "Best Flexible Panel",
+   "name": "Mndstek 300W Flexible Monocrystalline Panel",
+   "price": "",
+   "specs": [
+    "300W",
+    "240 degree bend",
+    "2mm thin",
+    "IP68 surface"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "300W"
+    },
+    {
+     "label": "Thickness",
+     "value": "2mm"
+    },
+    {
+     "label": "Bend",
+     "value": "up to 240 degrees"
+    },
+    {
+     "label": "Surface rating",
+     "value": "IP68 polymer"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "25 percent"
+    }
+   ],
+   "description": "At 2mm thick and bendable to a 240 degree arc, this panel wraps around curved van roofs, boat tops and trailers where a glass module cannot go. The polymer surface carries an IP68 rating and resists rain, salt spray and hail. The listing claims 25 percent efficiency from monocrystalline cells.\n\nThe tradeoff is heat. A panel bonded flat to a metal roof cannot shed warmth through its back, so it runs hot and degrades faster than a rigid panel that sits on spacers. If you mount it, use adhesive in strips to leave air channels, and expect a shorter service life than the rigid Mndstek.\n\nCheck the edges every season for lift, since water under the film shortens life quickly. Do not walk on the surface, and keep tools off it. If the roof is flat and there is room for a rigid panel, spend the same money there.",
+   "bestFor": "Curved or weight-limited surfaces where a rigid panel simply cannot go.",
+   "pros": [
+    "2mm thickness and 240 degree bend fit curves",
+    "IP68 polymer face resists salt spray and hail",
+    "Low weight for roof payload limits",
+    "25 percent efficiency listed"
+   ],
+   "cons": [
+    "Bonded flat, it runs hot and ages faster",
+    "Adhesive mounting makes removal difficult"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0HC7DGZ4S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lud9xa04L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Shape fits the mount",
+   "explanation": "A rigid panel like the Mndstek 10BB lasts longest but needs flat space. Flexible sheets suit curves and weight limits, while suitcase panels such as the Ecosonique serve a power station. Choose the shape first, because efficiency differences between them are smaller than the lifespan gap. A good rule is to measure the clear mounting area twice and subtract three inches on every side for brackets and airflow."
+  },
+  {
+   "criterion": "Controller or station input",
+   "explanation": "A 300W panel at 12V draws near twenty-five amps, which demands a 30A or bigger controller and 8 AWG to 10 AWG wire. At 24V the current halves. Check whether your power station accepts 40V input like the Ecosonique, or only 20V to 24V like the LVYUAN. Fuse the panel lead near the battery with a rating about 25 percent above the panel current, and keep the run as short as practical."
+  },
+  {
+   "criterion": "PWM versus MPPT",
+   "explanation": "The DOKIO kit uses PWM, which gives up roughly 20 to 30 percent of harvest compared with MPPT in cool light. At 300W that loss amounts to dozens of watt-hours a day. If you have the budget, buy an MPPT controller with a rigid panel. PWM still has a place on a small 12V bank where the panel voltage already sits close to battery voltage, which is why the DOKIO kit remains reasonable."
+  },
+  {
+   "criterion": "Cell technology",
+   "explanation": "The two rigid Mndstek panels use N-type cells with half-cut or 18BB layouts, which resist heat and shade better than the older mono and P-PERC cells in the DOKIO and LVYUAN. The difference becomes visible over years, not days. For a fixed array you expect to keep a decade, the N-type premium is worth paying; for a trip panel, it is not."
+  },
+  {
+   "criterion": "Heat and ventilation",
+   "explanation": "Panel output falls as temperature rises. The flexible Mndstek bonded flat can run hot, while a rigid panel on spacers stays cooler. If you must use flexible, bond in strips and leave an air gap. Hot climates make this a bigger factor, because rooftop surfaces can pass 65 C in summer."
+  },
+  {
+   "criterion": "Connector and ingress rating",
+   "explanation": "The Mndstek 10BB lists IP68 connectors, the Ecosonique IP65, and the LVYUAN IP64. Water in a plug is the most common outdoor failure. Choose the higher rating for anything that will stay outside. Also check that the plug brand matches your extension leads, since mixed MC4 clones are a frequent cause of loose, warm connections."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Half-cut cells",
+   "meaning": "Each cell is cut in two so current per half is lower and losses drop. The panel behaves like two smaller panels in shade. The panel's junction box usually has three bypass diodes to make this work.",
+   "watchFor": "Mndstek 10BB uses half-cut N-type cells."
+  },
+  {
+   "spec": "Vmp and Voc",
+   "meaning": "Working voltage and open-circuit voltage. The controller or station must accept both, especially in cold weather.",
+   "watchFor": "Ecosonique is a 40V class panel; LVYUAN outputs 20V to 24V. Cold mornings push Voc above the label value, so add a margin."
+  },
+  {
+   "spec": "Bifacial",
+   "meaning": "Cells receive light on both sides. Gains need clearance and a bright surface.",
+   "watchFor": "Mndstek 18BB claims up to 30 percent extra."
+  },
+  {
+   "spec": "Bend radius",
+   "meaning": "How far a flexible panel can curve before cells crack.",
+   "watchFor": "Mndstek flexible lists 240 degrees at 2mm thick."
+  },
+  {
+   "spec": "CPC lamination",
+   "meaning": "A protective coating over fabric panel surfaces for waterproofing.",
+   "watchFor": "Ecosonique pairs Oxford fabric with CPC lamination. Lamination protects against rain but not against sharp objects or hot surfaces."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Construction and cells",
+   "description": "We compared cell type, busbar layout and format. N-type half-cut and 18BB panels ranked above older mono and P-PERC cells. Rigid panels were ranked above flexible and fabric panels on lifespan. We also noted that half-cut layouts handle shade better in theory but depend on the panel wiring."
+  },
+  {
+   "title": "Electrical match",
+   "description": "We checked voltage class and connectors. The Ecosonique's 40V and LVYUAN's 20V to 24V illustrate why a station's input window decides which panel works. Clear voltage data earned credit."
+  },
+  {
+   "title": "System completeness",
+   "description": "We looked for controllers, clamps and adapters. The DOKIO's PWM kit and the Ecosonique's three-meter cable improve first-day usability. Bare rigid panels were scored on how simply they wire. A listing that spells out the contents of the box was favored over one that left accessories vague."
+  },
+  {
+   "title": "Weather protection",
+   "description": "We compared ingress ratings and surface materials. IP68 on the Mndstek connectors and flexible surface outranks IP64 on the LVYUAN blanket. Surface material was weighed separately from the ingress code."
+  },
+  {
+   "title": "Portability versus permanence",
+   "description": "We separated carry weight from install durability. The DOKIO at 15.2 lb travels well; the rigid Mndstek panels do not but last longer. Customer rating figures played no part in scoring."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Mounting Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Permanent roof or ground mount",
+      "Mndstek 300W 10BB",
+      "Rigid, half-cut N-type and IP68 plugs"
+     ],
+     [
+      "Ground tilt frame over bright surface",
+      "Mndstek 300W bifacial",
+      "Rear side adds energy"
+     ],
+     [
+      "Curved roof or weight limit",
+      "Mndstek 300W flexible",
+      "240 degree bend at 2mm"
+     ],
+     [
+      "Trips with a large power station",
+      "Ecosonique 300W suitcase",
+      "40V class with long cable"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Spend level",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest within the cap",
+      "LVYUAN 300W blanket",
+      "Budget portable 300W"
+     ],
+     [
+      "Low, complete kit",
+      "DOKIO 300W kit",
+      "Controller and USB ports included"
+     ],
+     [
+      "Mid, flexible",
+      "Mndstek 300W flexible",
+      "Curved-surface capability"
+     ],
+     [
+      "Highest in the group",
+      "Mndstek 300W bifacial",
+      "Highest cell efficiency listed"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rigid vs Portable",
+   "cards": [
+    {
+     "label": "Rigid",
+     "text": "The Mndstek 10BB and bifacial panels last longest, cost least per watt and resist heat. They need a permanent mount and a controller."
+    },
+    {
+     "label": "Portable",
+     "text": "The DOKIO, Ecosonique and LVYUAN fold for carrying and feed a station or battery. They wear faster and do not suit permanent outdoor use."
+    }
+   ],
+   "note": "Choose a rigid Mndstek for a fixed site and DOKIO or Ecosonique if the panel moves with you."
+  },
+  {
+   "subheading": "Controller Type",
+   "table": {
+    "headers": [
+     "Controller path",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Bundled basic controller",
+      "DOKIO 300W kit",
+      "PWM with reverse-polarity protection"
+     ],
+     [
+      "MPPT at 12V",
+      "Mndstek 300W 10BB",
+      "Fits 12V or 24V layouts"
+     ],
+     [
+      "MPPT at 24V",
+      "Mndstek 300W bifacial",
+      "Lower current for long runs"
+     ],
+     [
+      "Station with 40V input",
+      "Ecosonique 300W suitcase",
+      "40V class matches large stations"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Power Station Charging Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "The station's maximum solar input voltage and watts, plus the connector type. Many stations cap solar input at 200W to 400W, so 300W is usable but check it first."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The LVYUAN suits mid-size stations with a 20V to 24V window, while the Ecosonique suits large stations with higher input voltage."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need a larger array or a premium warranty. Two panels doubling to 600W would need a bigger controller and wire."
+    },
+    {
+     "label": "Save if",
+     "text": "You only fill a small station on weekends. The LVYUAN or DOKIO is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the glass or fabric",
+   "interval": "Quarterly, or after dust",
+   "why": "Film from dust cuts output noticeably at 300W. Use water and a soft cloth. Clean early in the day, when the glass is cool, and avoid detergents that leave film."
+  },
+  {
+   "task": "Check flexible panel edges",
+   "interval": "Every 6 months",
+   "why": "Lifting edges let water into the laminate. Re-bond early."
+  },
+  {
+   "task": "Inspect connectors for heat",
+   "interval": "Each season",
+   "why": "A warm plug means resistance. Replace any connector with discolored plastic. Cold weather contracts plastics, so inspect connectors again after the first freeze."
+  },
+  {
+   "task": "Verify controller settings",
+   "interval": "After battery changes",
+   "why": "Wrong profiles undercharge lithium or overcharge lead-acid."
+  },
+  {
+   "task": "Dry and store portable panels flat",
+   "interval": "After each trip",
+   "why": "Damp folds cause mold and cracked cells. Keep them out of heat. Keep silica gel in the carry case to absorb moisture."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much energy does a 300W panel make?",
+   "a": "Roughly 600Wh to 1,000Wh on a good day, depending on location and sun hours. Cloudy weather can cut that by more than half. The best months for output are around the summer solstice, so size the system for winter if you use it year round."
+  },
+  {
+   "q": "Is flexible or rigid better?",
+   "a": "Rigid lasts longer and runs cooler. Flexible is for curved or weight-limited surfaces where rigid is impossible. If you are unsure, choose rigid and mount it on spacers to keep it cool."
+  },
+  {
+   "q": "Will a 300W panel work with my power station?",
+   "a": "Only if its voltage and watts fall inside the station's solar input window. Read the manual first. A mismatch in connector polarity is the quickest way to damage an input, so test with a meter first."
+  },
+  {
+   "q": "Do I need MPPT?",
+   "a": "At 300W it is worth it. MPPT recovers about 20 to 30 percent more energy in cold or low light than PWM. Pairing an MPPT controller with N-type panels gives the best result."
+  },
+  {
+   "q": "Is bifacial worth it?",
+   "a": "Only on a raised mount over a bright surface. On a flush roof, it adds little. Raise the panel at least eight inches above the surface and keep the back unshaded."
+  },
+  {
+   "q": "Do prices stay at the cap?",
+   "a": "They move. The $300 cap reflects listing prices when this guide was updated."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41lWxBfMMvL._SL500_.jpg"
+}

@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-solar-generator-to-run-refrigerator-and-freezer",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "solar generator to run refrigerator and freezer",
+ "guideTitle": "Best Solar Generators for a Refrigerator and Freezer (2026)",
+ "metaTitle": "Solar Generators for a Refrigerator and Freezer",
+ "metaDescription": "Six solar generators that can carry a refrigerator and a freezer together, with advice on two-compressor startup and how long each unit holds out.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The BLUETTI FridgePower Backup System is the best pick for a refrigerator and freezer together because it ships with an expansion battery and a 4W standby draw that stretches two days of backup. The Jackery Explorer 1000 v2 is the value route when outages are short. Skip any station under about 1,500W of inverter, since two compressors starting close together can trip a small one.",
+ "introParagraphs": [
+  "Two cold appliances change the problem. Each compressor cycles on its own schedule, so the load alternates between a hum and a double kick, and the battery has to carry the combined daily energy as well as the occasional overlap of both startups.",
+  "This guide looks at six solar generators through that lens: how big a tank covers a full day of both appliances, which inverters handle two compressors starting together, and how to stagger the load so a smaller unit can still do the job."
+ ],
+ "products": [
+  {
+   "id": "B0H45GF28P",
+   "badge": "Best Overall",
+   "name": "BLUETTI FridgePower Backup System, 2,016Wh Expandable to 4,032Wh",
+   "specs": [
+    "2,016Wh plus expansion",
+    "1,800W AC",
+    "3,600W surge",
+    "4W standby"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2,016Wh, expands to 4,032Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "1,800W"
+    },
+    {
+     "label": "Surge",
+     "value": "3,600W"
+    },
+    {
+     "label": "Standby draw",
+     "value": "About 4W"
+    },
+    {
+     "label": "Switchover",
+     "value": "10ms"
+    }
+   ],
+   "description": "This listing bundles the main unit with one expansion battery, and the maker claims two to three days of refrigerator backup out of the box. For a household with a refrigerator and a chest freezer that is the right scale: together they might draw 1,800 to 2,200Wh a day, so a 4,032Wh bank carries them for roughly two days without any sun.\n\nWhat separates it from a general power station is the standby behavior. It claims 4W of self-consumption and a 10ms switch to battery, and if the unit itself fails it returns to grid power automatically so the food never loses supply. The 3,600W surge comfortably handles two compressors starting at once.\n\nIt is slim, meant to sit near the appliances, and has a display you can place on the refrigerator door. Compared with the Anker S2000 it is more purpose-built but less portable. Dust the vents each season, check the automatic return to grid by tripping a breaker once a year and keep the pair of batteries around half charged if you are heading out of town. The display also shows remaining hours, which beats guessing when a storm is still raging.",
+   "bestFor": "Households that want an always-ready fridge and freezer backup for days.",
+   "pros": [
+    "Includes an expansion battery for 4,032Wh",
+    "4W standby draw preserves stored energy",
+    "Automatic return to grid if the unit fails",
+    "3,600W surge covers two compressor starts"
+   ],
+   "cons": [
+    "Purpose-built, less flexible for camping",
+    "Less portable than a handle-style station",
+    "Solar panels are an extra purchase"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0H45GF28P?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3150Rs2-HgL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GY4TQ2P8",
+   "badge": "Best Compact Runtime",
+   "name": "Anker SOLIX S2000 Solar Generator, 2,010Wh 1,500W",
+   "specs": [
+    "2,010Wh LFP",
+    "1,500W AC",
+    "6W idle draw",
+    "35-hour fridge claim"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2,010Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "1,500W"
+    },
+    {
+     "label": "Idle draw",
+     "value": "6W"
+    },
+    {
+     "label": "Weight and size",
+     "value": "25% lighter than older 2kWh units"
+    },
+    {
+     "label": "Cell life",
+     "value": "10,000 cycles"
+    }
+   ],
+   "description": "The S2000 is the clever small answer. With 2,010Wh and a quoted 6W idle draw, it can run a refrigerator alone for the 35 hours Anker claims, and adding a chest freezer roughly halves that to a day. The 1,500W inverter is enough to start both compressors if you let them stagger by even a few seconds.\n\nIts ten-thousand-cycle LFP cells mean the battery will outlast the appliances it keeps cold, and at 30 percent smaller than the maker's earlier 2kWh units it fits under a counter. The trade against the BLUETTI FridgePower is runtime: you get half the energy, so it suits shorter outages.\n\nThere are no panels in this listing, so the solar side is up to you. Run the freezer from a smart plug timer so both compressors never start in the same second, keep the vents clear and store at moderate charge. A second advantage of compact size is that you can keep it right beside the freezer and use short cables with no voltage drop.",
+   "bestFor": "Smaller households with a fridge and a chest freezer and outages under a day.",
+   "pros": [
+    "6W idle draw gives long runtime per Wh",
+    "Compact and light for 2kWh",
+    "10,000-cycle LFP cells",
+    "1,500W handles staggered compressor starts"
+   ],
+   "cons": [
+    "2,010Wh covers about a day of fridge plus freezer",
+    "No panels in this listing",
+    "1,500W has little margin if both start together"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D7PPG25F",
+   "badge": "Best Value for Short Outages",
+   "name": "Jackery Explorer 1000 v2 Portable Power Station, 1,024Wh",
+   "specs": [
+    "1,024Wh LiFePO4",
+    "1,500W AC",
+    "3,000W surge",
+    "10ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "1,500W"
+    },
+    {
+     "label": "Surge",
+     "value": "3,000W"
+    },
+    {
+     "label": "Recharge",
+     "value": "About 50 minutes"
+    },
+    {
+     "label": "Ports",
+     "value": "2 AC, 2 USB-C, 1 USB-A, 1 car"
+    }
+   ],
+   "description": "A kilowatt-hour tank covers a refrigerator for most of a day but only about half a day if a chest freezer shares it, so this is a short-outage choice. The inverter is rated 1,500W with a 3,000W surge, adequate for starting both compressors if they are not simultaneous, and two AC outlets mean no power strip is needed.\n\nWhat you get for the lower capacity is cost and simplicity. A 50 minute recharge to full means a grid return can reset it quickly, and the brand's app and panels are widely available. Compared with the Bluetti Elite 200 V2 it has half the energy and a lower inverter rating but a far smaller footprint.\n\nUse it where outages are brief and you can add a 200W panel later. Do not chain it with a freezer you cannot afford to lose; use a thermometer and keep the doors closed. Leave it at roughly half charge and refresh it every few months. Its pass-through charging lets it sit on the wall as a small buffer while the grid is up.",
+   "bestFor": "Apartments and short-outage regions with one fridge and a small freezer.",
+   "pros": [
+    "Quick 50-minute recharge",
+    "3,000W surge for compressor starts",
+    "10ms switchover keeps electronics alive",
+    "Easy to store and move"
+   ],
+   "cons": [
+    "Covers about half a day of fridge plus freezer",
+    "Panels are an extra cost",
+    "Little reserve for long outages"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319bA1rsZGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FSJM6NZC",
+   "badge": "Best Mid-Size Kit with Panels",
+   "name": "BLUETTI Elite 200 V2 with 2x200W Solar Panels, 2,080Wh",
+   "specs": [
+    "2,080Wh LFP",
+    "2,600W AC",
+    "3,900W surge",
+    "400W panels"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2,080Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "2,600W"
+    },
+    {
+     "label": "Surge",
+     "value": "3,900W"
+    },
+    {
+     "label": "Standby draw",
+     "value": "About 10W"
+    },
+    {
+     "label": "Solar recharge",
+     "value": "About 5.5 hours"
+    }
+   ],
+   "description": "The Elite 200 V2 handles both appliances with a different strength: a 2,600W inverter and a 3,900W surge, which means a refrigerator and a freezer starting at once are not a worry. Add a sump pump or a router and you are still inside the rating.\n\nThe kit includes two 200W panels, and a full solar recharge takes about five and a half hours of sun. In a gray stretch you will not refill, but on a clear day 400W of panels produce around 1,200Wh, which covers most of a refrigerator and a chest freezer's daily need.\n\nIt is a heavier, bulkier option than the compact stations, yet the added output is useful if you want to share the battery with other loads. Its standby draw of about 10W is double the FridgePower's, so turn the inverter off during the day if you are running a different plan. Keep the vents clear and the panels clean. Its 10W standby is the reason to flip the inverter off whenever the appliances are idle on the grid.",
+   "bestFor": "Homes that want solar included and extra headroom for other loads.",
+   "pros": [
+    "2,600W with 3,900W surge for two compressors",
+    "Two 200W panels in the kit",
+    "2,080Wh tank at a moderate size",
+    "Solar recharge in about 5.5 hours"
+   ],
+   "cons": [
+    "10W standby is higher than a purpose-built fridge unit",
+    "Panels are bulky to deploy daily",
+    "Two appliances still drain it in about a day"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FSJM6NZC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Q6JjGYa7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C1Z4GLKS",
+   "badge": "Best Fast Recharge",
+   "name": "EcoFlow DELTA Pro 3,600Wh Power Station, 120V 3,600W",
+   "specs": [
+    "3,600Wh LFP",
+    "3,600W AC",
+    "Expandable output",
+    "1.8h at 240V"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,600Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Expanded output",
+     "value": "Up to 4,500W"
+    },
+    {
+     "label": "240V recharge",
+     "value": "About 1.8 hours"
+    },
+    {
+     "label": "Wall recharge",
+     "value": "About 2.7 hours"
+    }
+   ],
+   "description": "A 3,600Wh LFP battery is about one and a half to two days for a refrigerator and a chest freezer together, and the 3,600W inverter shrugs at the startup overlap. The real talking point is recharge: 1.8 hours from a 240V outlet and 2.7 from a standard circuit mean any short grid window refills most of the tank.\n\nThat suits a pattern of rolling outages, where power returns for a few hours between losses. It has a large accessory ecosystem, including expansion batteries and transfer kits, and a long track record behind it. It is the heaviest option here apart from the Jackery HomePower 3600 Plus.\n\nSet it where it can stay: a garage corner near the freezer is ideal. Keep the intake clear, test it under load a few times a year and do not leave it at full charge for months. If you add an extra battery later, plan for its footprint beside the unit.",
+   "bestFor": "Areas with rolling outages where quick recharging matters.",
+   "pros": [
+    "3,600Wh tank covers about two days",
+    "Recharges in under two hours at 240V",
+    "Mature accessory and transfer-kit ecosystem",
+    "3,600W output for any kitchen overlap"
+   ],
+   "cons": [
+    "Heavy, built to stay in place",
+    "Older design than the newest rivals",
+    "No panels in this listing"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FM8653F1",
+   "badge": "Best for Long Outages",
+   "name": "Jackery HomePower 3600 Plus Power Station, 3,584Wh",
+   "specs": [
+    "3,584Wh LFP",
+    "3,600W AC",
+    "Expands to 21kWh",
+    "Parallel 7,200W"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,584Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Parallel output",
+     "value": "7,200W"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 21kWh"
+    },
+    {
+     "label": "Cell design",
+     "value": "Ceramic membrane LFP"
+    }
+   ],
+   "description": "If your outages run for days, this is the one. A 3,584Wh pack carries a refrigerator and a chest freezer for around two days by itself, and the 21kWh expansion ceiling means you can grow it to cover most of a week. The 3,600W rating also leaves room for a sump pump or a furnace blower.\n\nThe listing highlights a heat-resistant ceramic membrane cell design and a plug-and-play route into a house through a manual transfer switch, which is how you would wire a refrigerator and freezer circuit.\n\nIt is a long-term investment more than a gadget. Install it with the transfer switch in mind, keep it in a cool dry spot and let the battery sit around half charged when not in use. Compared with the BLUETTI FridgePower System it is general-purpose, so you pay for flexibility. Before installing, ask the electrician to label the refrigerator and freezer circuits clearly on the transfer panel.",
+   "bestFor": "Homes planning for outages measured in days.",
+   "pros": [
+    "3,584Wh with expansion up to 21kWh",
+    "7,200W when paralleled",
+    "Transfer-switch route to house circuits",
+    "Heat-resistant cell design"
+   ],
+   "cons": [
+    "Heaviest and costliest option",
+    "No panels in this listing",
+    "Idle draw is higher than purpose-built units"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Combined daily energy",
+   "explanation": "A modern refrigerator uses 1,000 to 1,500Wh a day and a chest freezer 300 to 600Wh. Together that is roughly 1,500 to 2,100Wh, so the Jackery 1000 v2's 1,024Wh gives half a day and the BLUETTI FridgePower System's 4,032Wh nearly two."
+  },
+  {
+   "criterion": "Two-compressor startup",
+   "explanation": "Each compressor needs several times its running watts for a moment. If both start together you may need 2,000 to 3,000W of surge. The Elite 200 V2's 3,900W and the FridgePower's 3,600W handle it; the Anker S2000's 1,500W relies on staggering."
+  },
+  {
+   "criterion": "Standby draw",
+   "explanation": "An idle inverter at 10 to 15W burns 240 to 360Wh a day, a fifth of your load. The FridgePower lists 4W and the Anker 6W. Switching to a purpose-built unit can add hours to a two-appliance backup. Always turn the inverter off if you are not using the output, since this is the largest silent loss."
+  },
+  {
+   "criterion": "Recharge speed",
+   "explanation": "Rolling outages demand a quick refill when power returns. The DELTA Pro recharges in 1.8 hours at 240V and the Jackery 1000 v2 in about 50 minutes. A slow charger leaves you exposed to a second outage."
+  },
+  {
+   "criterion": "Solar to extend runtime",
+   "explanation": "A 400W array yields roughly 1,200Wh on a good day, about 60 percent of two appliances' needs. The Elite 200 V2 includes panels, while the FridgePower and Anker require separate ones. Check the station's solar input range first."
+  },
+  {
+   "criterion": "Freezer contents and safe hold time",
+   "explanation": "A full freezer holds food safe for about 48 hours unopened and a half-full one about 24. If you are short on battery, cycle the freezer rather than running it constantly, and keep the lid shut. Use an appliance thermometer."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Surge watts",
+   "meaning": "The brief peak available for compressor starts. Two compressors starting together double the demand.",
+   "watchFor": "The FridgePower lists 3,600W, the Elite 200 V2 3,900W and the Jackery 1000 v2 3,000W."
+  },
+  {
+   "spec": "Self-consumption",
+   "meaning": "Power the unit uses with no load. It silently shortens runtime.",
+   "watchFor": "The FridgePower claims 4W, the Anker 6W and the Elite 200 V2 about 10W."
+  },
+  {
+   "spec": "Expandable capacity",
+   "meaning": "Extra battery packs lengthen runtime. The inverter stays the same.",
+   "watchFor": "The FridgePower goes to 4,032Wh and the HomePower 3600 Plus to 21kWh."
+  },
+  {
+   "spec": "Automatic grid return",
+   "meaning": "If the unit faults, a bypass sends grid power straight to the appliance.",
+   "watchFor": "Only the FridgePower describes this protection."
+  },
+  {
+   "spec": "Recharge time",
+   "meaning": "How long from empty to full at the wall or from solar.",
+   "watchFor": "The DELTA Pro takes 1.8 hours at 240V, the Elite 200 V2 about 5.5 hours of solar."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Runtime for two appliances",
+   "description": "We estimated a combined 1,800Wh daily draw and applied a 0.85 conversion factor. The FridgePower System gives about 1.9 days and the Jackery 1000 v2 about half a day."
+  },
+  {
+   "title": "Startup overlap",
+   "description": "We compared surge ratings to the combined inrush of two compressors. Units with 3,000W or more surge scored well, while the 1,500W Anker was credited with staggering advice."
+  },
+  {
+   "title": "Standby efficiency",
+   "description": "We favored lower self-consumption. The FridgePower's 4W and Anker's 6W beat the Elite's 10W."
+  },
+  {
+   "title": "Recharge and solar",
+   "description": "We looked at wall recharge speed and included panels. The Elite 200 V2 includes 400W and the DELTA Pro recharges in 1.8 hours at 240V."
+  },
+  {
+   "title": "Ownership",
+   "description": "We used the listings and owner feedback patterns for weight, support and accessories, not personal use."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Outage Length",
+   "table": {
+    "headers": [
+     "Outage",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Under 12 hours",
+      "Jackery Explorer 1000 v2",
+      "1,024Wh and quick recharge"
+     ],
+     [
+      "About a day",
+      "Anker SOLIX S2000",
+      "2,010Wh and 6W idle"
+     ],
+     [
+      "One to two days",
+      "BLUETTI FridgePower Backup System",
+      "4,032Wh bundle"
+     ],
+     [
+      "Rolling outages",
+      "EcoFlow DELTA Pro",
+      "1.8-hour recharge at 240V"
+     ],
+     [
+      "Several days",
+      "Jackery HomePower 3600 Plus",
+      "3,584Wh expandable to 21kWh"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Jackery Explorer 1000 v2",
+      "Smallest cost"
+     ],
+     [
+      "Low-mid",
+      "BLUETTI Elite 200 V2",
+      "Includes two panels"
+     ],
+     [
+      "Mid",
+      "Anker SOLIX S2000",
+      "Long-lived cells"
+     ],
+     [
+      "Upper",
+      "BLUETTI FridgePower System",
+      "Expansion battery included"
+     ],
+     [
+      "Premium",
+      "Jackery HomePower 3600 Plus",
+      "Expansion and transfer switch"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Dedicated Fridge Unit vs General Station",
+   "cards": [
+    {
+     "label": "Dedicated unit",
+     "text": "The BLUETTI FridgePower stays plugged in, switches in 10ms and falls back to grid on a fault. It is the set-and-forget route, but it does little else."
+    },
+    {
+     "label": "General station",
+     "text": "The Jackery, Anker and EcoFlow units also serve for camping and other loads. They are more flexible and portable, at the cost of higher idle draw."
+    }
+   ],
+   "note": "Choose a dedicated unit if the refrigerator is the only job, a general station if the battery earns its keep elsewhere."
+  },
+  {
+   "subheading": "Stagger the Load",
+   "table": {
+    "headers": [
+     "Strategy",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Smart plug timer on the freezer",
+      "Anker SOLIX S2000",
+      "1,500W needs staggering"
+     ],
+     [
+      "No special wiring",
+      "BLUETTI Elite 200 V2",
+      "3,900W surge covers both starts"
+     ],
+     [
+      "Automatic management",
+      "BLUETTI FridgePower System",
+      "Built for fridge loads"
+     ],
+     [
+      "Manual cycling",
+      "Jackery Explorer 1000 v2",
+      "Limited tank, switch freezer on and off"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Chest Freezer Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Chest freezers have a better thermal mass and use less power than uprights. A 7 cubic foot chest freezer needs about 300 to 600Wh a day, and the lid should stay shut."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Anker S2000 handles a refrigerator and a chest freezer for about a day. The FridgePower System stretches to two."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You store a lot of food or face multi-day outages. The FridgePower Backup System or the HomePower 3600 Plus is the safer path."
+    },
+    {
+     "label": "Save if",
+     "text": "Outages are rare and short. The Jackery 1000 v2 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Add a thermometer to each appliance",
+   "interval": "Once",
+   "why": "A cheap thermometer in the freezer tells you when food is at risk, long before you smell it."
+  },
+  {
+   "task": "Simulate an outage",
+   "interval": "Every six months",
+   "why": "Unplug the wall for an hour to confirm both compressors restart and the battery holds."
+  },
+  {
+   "task": "Clean condenser coils on both appliances",
+   "interval": "Twice a year",
+   "why": "Dirty coils lengthen run time and drain the battery faster."
+  },
+  {
+   "task": "Store at half charge when idle",
+   "interval": "During standby",
+   "why": "LiFePO4 cells age slowest at moderate charge, so top up every few months. Avoid leaving the unit hot in a sealed garage in summer."
+  },
+  {
+   "task": "Check the freezer door gasket",
+   "interval": "Yearly",
+   "why": "A leaky gasket forces longer compressor cycles and shortens battery life."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can one solar generator run a refrigerator and a freezer together?",
+   "a": "Yes, if the inverter is at least 1,500W and the tank matches the combined 1,500 to 2,100Wh daily load. A 2,000Wh unit lasts about a day, and a 4,000Wh bank about two."
+  },
+  {
+   "q": "Will two compressors start at the same time?",
+   "a": "Occasionally. A smart plug timer or a unit with 3,000W-plus surge, like the Elite 200 V2 or FridgePower, handles it. The 1,500W Anker relies on staggering the starts. If both appliances are older, give the battery a larger margin because their inrush is bigger."
+  },
+  {
+   "q": "Which option is the best value?",
+   "a": "The Jackery 1000 v2 is the cheapest and fine for short outages, while the BLUETTI Elite 200 V2 adds panels and headroom. For multi-day cover the FridgePower System offers the most energy for the outlay."
+  },
+  {
+   "q": "How long does food stay safe without power?",
+   "a": "About four hours in a closed refrigerator and 24 to 48 hours in a freezer, depending on how full it is. Keep doors closed and use a thermometer."
+  },
+  {
+   "q": "Do I need solar panels?",
+   "a": "They extend runtime, but a battery alone covers a short outage. A 400W array offsets roughly 1,200Wh a day, which is most of a refrigerator and freezer's need. Panels matter most when the outage stretches beyond the battery's two-day reserve."
+  },
+  {
+   "q": "Is it okay to leave it plugged in?",
+   "a": "The FridgePower is designed for it. With other stations the pass-through works but adds heat and wear, so periodic cycling helps."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/3150Rs2-HgL._SL500_.jpg"
+}

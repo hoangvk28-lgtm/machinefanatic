@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-solar-panels-under-750",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar panels under 750",
+ "guideTitle": "Best Solar Panels Under $750 (2026)",
+ "metaTitle": "Best Solar Panels Under $750 (2026)",
+ "metaDescription": "Six solar panel pairs and portable panels from 400W to 990W under $750, including bifacial, frameless and foldable options, compared for real installs.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "14 min",
+ "expertTake": "The STAR 990W bifacial pair is the best overall because two 495W UL-certified N-type panels deliver almost a kilowatt with only two sets of leads. The HQST 400W pair is the value pick for compact roofs. Anyone planning a home system or grid tie should skip this tier, since inverter, mounting and permitting costs sit outside what these panels alone solve.",
+ "introParagraphs": [
+  "This is the top rung for DIY buyers who want serious capacity without moving into a contractor's price range. A pair of large panels or a single big portable can charge a sizable battery bank in a day, and the better ones carry safety certifications that matter if an inspector or insurer ever asks.",
+  "Because the nameplate numbers are large, the practical limits shift from the panel to everything around it: controller amps, wire gauge, fusing, mounting rails and your roof's strength. The picks here are sorted by how well the panel itself helps with those limits, not just by the biggest number on the box."
+ ],
+ "products": [
+  {
+   "id": "B0DFBSBWDG",
+   "badge": "Best Overall",
+   "name": "STAR 990W Bifacial Pair, 2 x 495W N-Type",
+   "price": "",
+   "specs": [
+    "990W total",
+    "2 x 495W",
+    "Bifacial",
+    "UL 61730"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "990W (2 x 495W)"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "25.6 percent"
+    },
+    {
+     "label": "Voltage class",
+     "value": "24V per panel"
+    },
+    {
+     "label": "Frame",
+     "value": "Frameless Cleanedge dual-glass"
+    },
+    {
+     "label": "Certification",
+     "value": "UL, ISO9001, CE"
+    }
+   ],
+   "description": "Two 495W panels give STAR the biggest total in this lineup with only two sets of leads, and the N-type cells at a listed 25.6 percent efficiency keep the footprint reasonable for the output. The panels use a frameless Cleanedge design that sheds rain and dust, and STAR claims a fifteen percent power gain over normal framed panels from the lack of a dirt-trapping lip, a vendor figure best read as an upper bound. UL 61730 listing adds a safety paper trail.\n\nThe cost is size and handling. Each frameless dual-glass panel is large and heavy, needs two people to place, and must be clamped at the marked points rather than drilled. Where the HQST pair fits on a van roof, the STAR pair is a cabin or ground-mount product. It also needs an MPPT controller sized for the voltage, since 24V class panels in series reach roughly 100V.\n\nExpect a tidy install: stand-off rails, a fused combiner or direct series wiring, and an MPPT controller rated at 150V input. Wash the glass seasonally, and inspect the clamps after the first winter. For anyone building a permanent off-grid cabin system, it is the strongest value in this guide. If you later add a second pair, make sure the controller can handle about 2,000W of input or buy a second controller.",
+   "bestFor": "Permanent cabin or ground arrays that need the most certified watts from two panels.",
+   "pros": [
+    "990W from two panels with only two lead pairs",
+    "UL 61730 certification listed",
+    "Frameless dual-glass sheds dust and snow",
+    "N-type 25.6 percent cells for slow aging"
+   ],
+   "cons": [
+    "Large and heavy, needs two people to mount",
+    "24V class needs an MPPT controller with a high input limit"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DFBSBWDG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Eu3rd0LhL._SL500_.jpg"
+  },
+  {
+   "id": "B0CPLQGGD7",
+   "badge": "Best Half-Cut Bifacial",
+   "name": "EPOCH 860W Bifacial Half-Cut N-Type Panels",
+   "price": "",
+   "specs": [
+    "860W total",
+    "Half-cut",
+    "Bifacial",
+    "5400Pa snow"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "860W"
+    },
+    {
+     "label": "Cell design",
+     "value": "Grade A+ N-type half-cut"
+    },
+    {
+     "label": "Transparency",
+     "value": "91.5 percent glass"
+    },
+    {
+     "label": "Snow load",
+     "value": "up to 5400Pa"
+    },
+    {
+     "label": "Wind load",
+     "value": "up to 2400Pa"
+    }
+   ],
+   "description": "EPOCH sells half-cut N-type bifacial panels at an 860W total, with bypass diodes and glass transparency of 91.5 percent. Half-cut cells split the current and let two halves of the panel work independently, so a shadow on the lower half does not zero the upper one. It rates hail and snow loading at 5400Pa and wind at 2400Pa, matching the standard rigid benchmark.\n\nThe constraint is that the listing is less specific than STAR's about certification and panel count, so check the box contents and marking before you pay. Against the STAR pair, EPOCH gives roughly 130W less nameplate for a similar structure, and that difference matters most for roof-limited installs.\n\nTreat the bifacial gain as optional, since it depends on mounting height and surface. Mount on rails with air space, use a combiner with fuses, and make sure your MPPT controller handles the series voltage. Inspect the back glass for scratches, because rear damage can hurt output on a two-sided design. Photograph the label and the serial number before installation, as warranty claims on lesser-known brands often depend on them.",
+   "bestFor": "Shaded or snowy sites where half-cut cells and a high snow rating help.",
+   "pros": [
+    "Half-cut N-type cells hold up in partial shade",
+    "91.5 percent glass transparency aids rear collection",
+    "5400Pa snow and 2400Pa wind loads listed",
+    "Works with 12V or 24V systems"
+   ],
+   "cons": [
+    "Listing gives fewer certification details",
+    "Lower total wattage than the STAR pair"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CPLQGGD7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PNfSmgR5L._SL500_.jpg"
+  },
+  {
+   "id": "B0DMSKP7JD",
+   "badge": "Best Plain Large Pair",
+   "name": "DOKIO 800W 2-Pack 400W Solar Panels",
+   "price": "",
+   "specs": [
+    "800W total",
+    "2 x 400W",
+    "31V",
+    "Grade A cells"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "800W (2 x 400W)"
+    },
+    {
+     "label": "Voltage class",
+     "value": "31V per panel"
+    },
+    {
+     "label": "Cell grade",
+     "value": "Grade A, 25 percent claim"
+    },
+    {
+     "label": "Frame",
+     "value": "Aluminum with sealed junction boxes"
+    },
+    {
+     "label": "Battery types",
+     "value": "AGM, gel and LiFePO4"
+    }
+   ],
+   "description": "Two framed aluminum 400W panels with sealed junction boxes are the plain, durable way to reach 800W. DOKIO says fewer splitters and joints than eight small panels means fewer failure points and a cleaner array, which is accurate. The panels are compatible with AGM, gel and LiFePO4 batteries via PWM or MPPT controllers.\n\nIt has no frameless or bifacial extras and quotes a Grade A cell rating, a step under the A+ and N-type used by STAR and EPOCH. Next to the Callsun 400W pair, it delivers twice the watts but each panel is larger. A framed panel is also easier to drill and mount than frameless glass.\n\nFor ownership, expect a straightforward system: stand-off rails, rated hardware, and an MPPT controller. Wash it a few times a year and check the sealed boxes after storms.",
+   "bestFor": "Plain, framed installs where drilling and standard rails are preferred.",
+   "pros": [
+    "Two 400W framed panels reach 800W",
+    "Sealed junction boxes and a robust aluminum frame",
+    "Works with AGM, gel and LiFePO4 banks",
+    "Easy to mount on standard rails"
+   ],
+   "cons": [
+    "Cell grade is a step below N-type A+",
+    "No bifacial or anti-shade features"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DMSKP7JD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/410-HQAd-xL._SL500_.jpg"
+  },
+  {
+   "id": "B0GK146PX4",
+   "badge": "Best Compact Pair",
+   "name": "HQST 400W Pair, 2 x 200W N-Type",
+   "price": "",
+   "specs": [
+    "400W total",
+    "2 x 200W",
+    "N-type 16BB",
+    "IP65"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W (2 x 200W)"
+    },
+    {
+     "label": "Cell design",
+     "value": "N-type, 16 busbar, grade A+"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "up to 25.4 percent"
+    },
+    {
+     "label": "Panel size",
+     "value": "46.3 x 30.1 x 1.2 in each"
+    },
+    {
+     "label": "Sealing",
+     "value": "IP65 connectors"
+    }
+   ],
+   "description": "Each panel in this HQST pair measures 46.3 by 30.1 inches, small enough for a Class B van or a short roof, and HQST states that its N-type cells make the panels lighter than PERC modules. The pair adds up to 400W using proven 16BB construction and IP65 connectors. Grade A+ cells and the brand's warranty make this the most low-risk purchase for a vehicle.\n\nAt 400W it is also the smallest array in the guide, so it will not suit loads over about one kilowatt-hour a day. Compared with the 990W STAR, it makes less than half the energy, but it fits where the larger panels cannot.\n\nWire the two in series for MPPT or in parallel for a smaller controller, and confirm your controller's input limit first. Seal every roof penetration with a roof-grade sealant, and check the sealant each spring. If you run through a roof vent, use a sealed cable gland rather than a bare hole.",
+   "bestFor": "Vans, trailers and small roofs that need 400W with brand support.",
+   "pros": [
+    "Compact 46 by 30 inch panels fit tight roofs",
+    "N-type 16BB cells at up to 25.4 percent",
+    "IP65 connectors suit roof use",
+    "Brand warranty and support are easy to reach"
+   ],
+   "cons": [
+    "Only 400W total, well below the larger pairs",
+    "Controller and wiring must be bought separately"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ouu03inTL._SL500_.jpg"
+  },
+  {
+   "id": "B0DC6T55ZK",
+   "badge": "Best Series-Ready Bifacial",
+   "name": "Callsun 400W Bifacial Pair, 2 x 200W N-Type",
+   "price": "",
+   "specs": [
+    "400W total",
+    "2 x 200W",
+    "Bifacial",
+    "25.6% cells"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W (2 x 200W)"
+    },
+    {
+     "label": "Series values",
+     "value": "47.48V Vmp, 54.62V Voc"
+    },
+    {
+     "label": "Current",
+     "value": "8.43A in series"
+    },
+    {
+     "label": "Cell design",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Rear surface",
+     "value": "Transparent backsheet"
+    }
+   ],
+   "description": "Callsun publishes the series numbers that most sellers leave out: two panels in series give 47.48V at maximum power, 54.62V open-circuit and 8.43A. That makes planning the controller easy, because you know exactly the input voltage and current. The panels are N-type with sixteen busbars at a listed 25.6 percent and have a transparent backsheet for rear light capture.\n\nThe transparent backsheet is a lighter alternative to dual glass, but it exposes the back cells to scratching and UV over time. On a flat roof, rear gain is small, so the main appeal is the published data. Beside the HQST pair, it gives the same 400W with bifacial capability, but fewer reassuring paper certificates.\n\nPick it for a tilted ground mount or a boat arch where you want clean numbers. Check the controller's max Voc with a margin for cold mornings, and keep the rear free of shade and stored items.",
+   "bestFor": "Planners who want exact series voltage and current figures for controller sizing.",
+   "pros": [
+    "Series Vmp, Voc and current are published",
+    "N-type 16BB cells at a listed 25.6 percent",
+    "Transparent backsheet allows rear light",
+    "400W from two compact 200W panels"
+   ],
+   "cons": [
+    "Transparent backsheet is more exposed than dual glass",
+    "Little rear gain on a flat roof"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DC6T55ZK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jCPISHFGL._SL500_.jpg"
+  },
+  {
+   "id": "B0FCC39XY7",
+   "badge": "Best Portable 400W",
+   "name": "TWELSEAVAN 400W Foldable ETFE Solar Panel",
+   "price": "",
+   "specs": [
+    "400W",
+    "22.7 lb",
+    "ETFE fiberglass",
+    "24% cells"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W"
+    },
+    {
+     "label": "Weight",
+     "value": "22.7 lb"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "24 percent, A+ mono"
+    },
+    {
+     "label": "Surface",
+     "value": "ETFE on fiberglass"
+    },
+    {
+     "label": "Connectors",
+     "value": "5-in-1 MC4 cable and 3 DC adapters"
+    }
+   ],
+   "description": "At 22.7 pounds for 400W, this panel is light enough for one person to carry, thanks to fiberglass instead of heavy glass. The ETFE surface sheds dirt and the cells convert about 24 percent. A five-in-one MC4 cable and three DC adapters help it plug into most large power stations.\n\nPortable panels give up long-term durability. The fabric folds, the connectors take abuse, and the ETFE surface scratches, so this is a camp panel rather than a roof install. Next to the DOKIO pair, which is heavier per watt but far more durable, this panel trades life for mobility.\n\nCheck the panel's Voc against the station's limit first. Use it with a power station that accepts its voltage, anchor it against wind, and store it flat. For an occasional user with a large station, one 400W panel can top it up in a day.",
+   "bestFor": "Large power station owners who need 400W that one person can carry.",
+   "pros": [
+    "22.7 lb is light for 400W",
+    "ETFE surface sheds dirt",
+    "5-in-1 MC4 cable and DC adapters included",
+    "A+ mono cells at about 24 percent"
+   ],
+   "cons": [
+    "Surface and folds wear faster than glass panels",
+    "Needs wind anchoring when unfolded"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FCC39XY7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/519hIfpanHL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Pair or single large panel",
+   "explanation": "Two 400W to 495W panels, as in the STAR and DOKIO packs, produce close to a kilowatt with only two lead sets. Smaller 200W pairs such as the HQST and Callsun are easier to place. Choose by what your roof or frame can physically carry. Remember that a bigger panel also catches more wind, so rails and roof attachments need to be rated for the extra load."
+  },
+  {
+   "criterion": "Series voltage check",
+   "explanation": "Two panels in series add voltage. The Callsun pair reaches 54.62V Voc and 47.48V Vmp, while the STAR 495W pair could approach 100V. Confirm your MPPT controller's maximum input and leave a margin for cold mornings. Parallel wiring avoids the voltage problem but doubles current, which calls for thick cable and a high-amp controller."
+  },
+  {
+   "criterion": "Framed or frameless",
+   "explanation": "Framed panels like the DOKIO and HQST are easy to drill and mount. Frameless dual-glass panels like the STAR shed snow and dust but must be clamped at marked points and handled with care. Choose frameless for snowy or dusty sites. Frameless glass also lacks pre-drilled holes, so confirm that your rail kit offers clamps designed for glass edges."
+  },
+  {
+   "criterion": "Safety certification",
+   "explanation": "The STAR lists UL, ISO9001 and CE, while other panels name fewer. Certification matters if an insurer or inspector reviews the installation. It does not guarantee output, but it points to a documented design. For a vehicle, certified panels also make it easier to explain the installation to an insurance adjuster."
+  },
+  {
+   "criterion": "Bifacial versus single-sided",
+   "explanation": "EPOCH, STAR and Callsun offer rear-side collection, which pays off on raised mounts over bright ground. On a flush roof it adds little. If your mount is flush, spend on cell quality rather than the bifacial label. A tilted frame over light gravel is the best case; shaded or dark ground reduces the benefit to almost nothing."
+  },
+  {
+   "criterion": "Portable versus fixed",
+   "explanation": "The TWELSEAVAN is a 22.7 lb foldable meant to feed a power station. A rigid pair lasts decades, while a foldable ages in a few seasons. Match the format to whether the panel will sit still."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Vmp and Voc in series",
+   "meaning": "Working voltage and open-circuit voltage when two panels are wired in series. The controller must accept the Voc. Always add margin for cold, because Voc climbs by roughly 0.3 percent per degree Celsius below 25.",
+   "watchFor": "Callsun lists 47.48V Vmp and 54.62V Voc."
+  },
+  {
+   "spec": "Half-cut cells",
+   "meaning": "Cells cut in half reduce current per cell and let sections work independently in shade.",
+   "watchFor": "EPOCH uses half-cut N-type cells."
+  },
+  {
+   "spec": "Glass transparency",
+   "meaning": "The share of light that passes through the glass. Higher values help cells and bifacial rear collection.",
+   "watchFor": "EPOCH lists 91.5 percent. High transparency also lets the panel pass UV, so check the encapsulant quality."
+  },
+  {
+   "spec": "Pa wind and snow loads",
+   "meaning": "Mechanical load ratings in pascals. They show how stiff the module is.",
+   "watchFor": "EPOCH states 5400Pa snow and 2400Pa wind."
+  },
+  {
+   "spec": "ETFE surface",
+   "meaning": "A fluoropolymer film that sheds dirt and resists UV. It is lighter than glass but softer.",
+   "watchFor": "TWELSEAVAN uses ETFE over fiberglass. ETFE also resists yellowing, a reason it is favored over plain plastic films."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Total usable watts",
+   "description": "We compared nameplate watts across sets, from HQST's 400W to STAR's 990W. We weighed how many panels and leads were needed to reach each figure. A bundle that reaches high watts with few panels was favored for simplicity."
+  },
+  {
+   "title": "Cell and glass quality",
+   "description": "We read cell type and glass details. N-type half-cut and dual-glass panels ranked above single-glass mono. Published efficiency figures were noted but not used alone."
+  },
+  {
+   "title": "Certification and ratings",
+   "description": "We looked for UL, ISO and TUV listings plus wind and snow loads. STAR's UL listing and EPOCH's 5400Pa rating helped them rank."
+  },
+  {
+   "title": "Electrical data clarity",
+   "description": "We rewarded listings that publish Vmp, Voc and current, such as Callsun's series figures. Clear numbers make controller choice safer. Missing numbers do not mean a panel is poor, only that planning requires more homework."
+  },
+  {
+   "title": "Handling and mounting",
+   "description": "We considered weight, size and the need for clamps or rails. A frameless 495W panel is demanding to lift; a 22.7 lb portable is easy but less durable. Review counts played no part in scoring."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Mounting Space",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cabin or ground array with open space",
+      "STAR 990W",
+      "Most certified watts from two panels"
+     ],
+     [
+      "Van or short roof",
+      "HQST 400W pair",
+      "Compact 46 by 30 inch panels"
+     ],
+     [
+      "Snowy or shaded site",
+      "EPOCH 860W",
+      "Half-cut cells and 5400Pa rating"
+     ],
+     [
+      "Standard rails and drilling",
+      "DOKIO 800W",
+      "Framed aluminum modules"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Spend level",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest within the cap",
+      "HQST 400W pair",
+      "Compact N-type pair"
+     ],
+     [
+      "Low, portable",
+      "TWELSEAVAN 400W",
+      "Light foldable for a station"
+     ],
+     [
+      "Mid, large pair",
+      "DOKIO 800W",
+      "Plain framed pair at 800W"
+     ],
+     [
+      "Highest in the group",
+      "STAR 990W",
+      "Highest total and UL listing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Framed vs Frameless",
+   "cards": [
+    {
+     "label": "Framed",
+     "text": "The DOKIO and HQST are easy to mount and drill. They tolerate rough handling better and cost less to ship."
+    },
+    {
+     "label": "Frameless",
+     "text": "The STAR panels shed snow and dust. They need clamps, careful handling and two people to lift."
+    }
+   ],
+   "note": "Choose framed for DIY simplicity and frameless for snowy or dusty sites."
+  },
+  {
+   "subheading": "Series Voltage Planning",
+   "table": {
+    "headers": [
+     "Controller situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Controller with 100V input limit",
+      "Callsun 400W pair",
+      "Voc 54.62V in series leaves margin"
+     ],
+     [
+      "Controller with 150V input limit",
+      "STAR 990W",
+      "Two panels can approach 100V"
+     ],
+     [
+      "Small 12V controller",
+      "HQST 400W pair",
+      "Parallel wiring keeps voltage low"
+     ],
+     [
+      "Station with high-voltage input",
+      "TWELSEAVAN 400W",
+      "Portable panel with adapters"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Off-Grid Cabin Systems Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Certified panels, a controller that handles the series voltage and a battery bank sized for two days without sun. Plan roughly 1 kWh of battery per 250W of panels as a starting ratio."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The STAR 990W pair suits a cabin with an MPPT controller, while the DOKIO 800W pair suits a simpler framed install."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want grid tie, a whole-home array or more than 1,500W. These panels power a cabin, not a house."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need to charge a medium battery. The HQST pair is enough for most vans."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash the arrays",
+   "interval": "Every 2 to 3 months",
+   "why": "Dust or snow on one panel cuts the whole string. Use soft brushes and water. Shade from fallen leaves also creates hot spots, so clear debris after storms."
+  },
+  {
+   "task": "Inspect mounting hardware",
+   "interval": "After the first month, then yearly",
+   "why": "Heat and wind loosen bolts and clamps. Loose clamps can chip frameless glass. A torque screwdriver set to the rail maker's value prevents both loose and over-tightened clamps."
+  },
+  {
+   "task": "Check combiner boxes and fuses",
+   "interval": "Each season",
+   "why": "High current needs sound fuses and tight terminals. Replace anything discolored. Take a photograph of the wiring so you can compare it after any repairs."
+  },
+  {
+   "task": "Read controller logs",
+   "interval": "Monthly",
+   "why": "A falling daily watt-hour figure often flags dirt or a failing connector."
+  },
+  {
+   "task": "Store portable panels flat",
+   "interval": "After each trip",
+   "why": "Folded creases and heat damage cells. Keep it dry and out of the sun."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much can 990W produce in a day?",
+   "a": "Roughly 2 to 3 kWh on a good sunny day. That runs a fridge, lights, pumps and electronics, but not electric heat. Winter output in higher latitudes can drop below half that figure."
+  },
+  {
+   "q": "Do I need an inverter?",
+   "a": "Only if you run AC loads. Panels feed a controller and battery, and the inverter converts battery power. Panels alone do not power appliances. Size the inverter to your peak AC load plus about 25 percent headroom."
+  },
+  {
+   "q": "Series or parallel?",
+   "a": "Series suits MPPT controllers and long wire runs. Parallel suits small 12V systems. Check the controller's input limit first. Mixing both, such as two strings of two panels, suits larger arrays."
+  },
+  {
+   "q": "Is frameless glass safe?",
+   "a": "It is safe when clamped correctly, but the edges are exposed. Handle it with two people and avoid dropping it. Never walk on the panels, and use clamps designed for glass edges."
+  },
+  {
+   "q": "Is bifacial worth it at this level?",
+   "a": "On raised mounts over bright ground, yes. On a flat roof the gain is small. Even then, expect the extra to be between 5 and 15 percent rather than the headline 30."
+  },
+  {
+   "q": "Do prices change?",
+   "a": "Yes. The $750 cap reflects listing prices when this guide was updated."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31Eu3rd0LhL._SL500_.jpg"
+}

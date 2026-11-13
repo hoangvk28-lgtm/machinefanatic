@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-36w-foldable-solar-panels",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best 36w foldable solar panels",
+ "guideTitle": "Best 36W Foldable Solar Panels (2026)",
+ "metaTitle": "Best 36W Foldable Solar Panels (2026)",
+ "metaDescription": "Five 36W foldable solar panels compared on controller design, port limits, cell size and weather sealing, for pocket-size phone and USB battery charging.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/21C-TsZiHxL._SL500_.jpg",
+ "expertTake": "The AMPSOS 36W is the pick if you want the panel to manage its own power conversion with a built-in MPPT stage. The Gendome 36W is the value pick for a sealed, ETFE-coated panel without frills. If you need to run anything bigger than a phone, a tablet or a USB battery bank, move up to a 100W class panel instead.",
+ "introParagraphs": [
+  "Panels in this class are pocket chargers. They sit between a trickle panel and a real camping panel, and their sweet spot is a day on the trail where a phone, a GPS and a headlamp all need a top-up. Their weakness is that they cannot do much more, and no amount of marketing changes that.",
+  "The useful differences are the ones you only notice after a few outings: how the panel regulates voltage into a USB port, how the cells survive being folded, how the connectors hold up in sand, and whether the output is steady when a cloud passes. Wattage labels in this class are so close that they barely help you choose."
+ ],
+ "products": [
+  {
+   "id": "B0GSMZ18PT",
+   "badge": "Best Overall",
+   "name": "AMPSOS 36W Portable Panel with Built-in MPPT, USB-C",
+   "price": "",
+   "specs": [
+    "36W rated",
+    "Built-in MPPT",
+    "M10 182mm cells",
+    "900D shell"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "36W"
+    },
+    {
+     "label": "Controller",
+     "value": "Integrated MPPT"
+    },
+    {
+     "label": "Cell size",
+     "value": "M10 182mm"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "23 percent plus"
+    },
+    {
+     "label": "Shell fabric",
+     "value": "900D polyester"
+    }
+   ],
+   "description": "AMPSOS puts a maximum power point tracking stage inside the panel, which is rare at this size. A tracker continuously adjusts the load so the cells operate at their best voltage, and that matters most in the weak, changing light that dominates real days outdoors. A panel without one hands whatever the sun gives it straight to the port, and the output sags when a cloud passes.\n\nThe cells are larger M10 182mm wafers, which means fewer, bigger cells and fewer inter-cell joints for a hinge to stress. The shell is heavy 900D polyester, so the folded block feels more like a pack accessory than a gadget. The listing claims conversion above 23 percent, which describes the cell and not the finished panel. Compared with the FlexSolar, it is the more engineered design, though it leaves out the DC barrel the FlexSolar offers.\n\nLong term, the electronics are the thing to protect. Keep the controller pocket dry and avoid bending the panel right at the edge where the electronics sit, because a flexed circuit board cracks long before a cell does. Shake out grit from the fold lines, and give it a damp wipe after dusty days so the surface keeps its output.",
+   "bestFor": "Backpackers who want steady output as light conditions change.",
+   "pros": [
+    "Built-in MPPT tracks the panel's best operating point",
+    "Large M10 cells reduce the number of seams",
+    "900D shell resists abrasion in a pack",
+    "USB-C output suits modern phones"
+   ],
+   "cons": [
+    "No DC barrel output listed for 12V gear",
+    "Electronics make hard impacts riskier than on a plain panel"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GSMZ18PT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21C-TsZiHxL._SL500_.jpg"
+  },
+  {
+   "id": "B0DJN6VWWX",
+   "badge": "Best Value",
+   "name": "Gendome 36W ETFE Portable Solar Panel, IP68",
+   "price": "",
+   "specs": [
+    "36W rated",
+    "ETFE surface",
+    "IP68",
+    "USB-C compatible"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "36W"
+    },
+    {
+     "label": "Surface",
+     "value": "ETFE"
+    },
+    {
+     "label": "Water rating",
+     "value": "IP68"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "Up to 23 percent"
+    },
+    {
+     "label": "Device fit",
+     "value": "Most USB-C devices"
+    }
+   ],
+   "description": "Gendome keeps things simple: an ETFE-coated panel rated IP68, with outputs aimed at most USB-C devices. There is no tracker, no built-in display and no extra accessories, which keeps the cost near the bottom of the lineup. For a person who wants a dependable weekend panel and nothing more, that restraint is the appeal.\n\nThe IP68 rating is the notable spec, since it exceeds the IP67 on the EYONGPV and FlexSolar. As with all such ratings, it covers the sealed panel body and not the open port. Against the AMPSOS, you lose the regulating electronics, so output follows light more directly and a cloud costs you more. Against the budget unbranded panel on this list, the ETFE coat is a meaningful step up in longevity.\n\nUpkeep is straightforward. Rinse off salt, dry the ports and keep the folded panel flat, because ETFE can develop permanent creases if it is crumpled into a pack under load. If you notice the film clouding after a long summer in a car, move it indoors, since heat behind glass is the fastest way to age any laminated panel.",
+   "bestFor": "Casual campers who want a sealed, no-frills 36W panel.",
+   "pros": [
+    "ETFE surface with IP68 rating suits wet conditions",
+    "Simple build with no electronics to fail",
+    "Works with most USB-C devices",
+    "Priced at the budget end of this lineup"
+   ],
+   "cons": [
+    "No tracker, so cloud cover drops output quickly",
+    "Few accessories or connector options included"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DJN6VWWX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31zOs2YJWcL._SL500_.jpg"
+  },
+  {
+   "id": "B0FY654LFK",
+   "badge": "Best for Small Packs",
+   "name": "FlexSolar 36W Ultra-Portable Panel, USB-A, USB-C, DC",
+   "price": "",
+   "specs": [
+    "36W rated",
+    "USB-A, USB-C, DC",
+    "7.7 x 5.1 in fold",
+    "Triple-layer build"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "36W"
+    },
+    {
+     "label": "Outputs",
+     "value": "USB-A, USB-C, 5.5 x 2.1 mm DC"
+    },
+    {
+     "label": "Folded size",
+     "value": "7.7 x 5.1 in"
+    },
+    {
+     "label": "Surface",
+     "value": "Scratch-resistant film"
+    },
+    {
+     "label": "Layers",
+     "value": "Film, UV-stable EVA, cells"
+    }
+   ],
+   "description": "The FlexSolar 36W folds to roughly 7.7 x 5.1 inches, small enough for a jacket pocket. That compact fold is the whole point: it is the panel you will actually bring because it does not need a bag. A triple-layer build of scratch-resistant film, UV-stabilized EVA and cells keeps the sheet protected without adding bulk.\n\nIt has three output paths, USB-A, USB-C and a 5.5 x 2.1 mm DC barrel, which makes it more versatile than the Gendome or the AMPSOS. The DC output lets you run a small 12V light or feed a compatible battery pack directly. The trade is that the small footprint limits real output, so a 36W label on a panel this small behaves like a high-quality 25W in practice, and cloud cover hurts more.\n\nPocket carry brings its own care issues. Pocket lint and sweat can get into ports, so keep the flaps closed and use a small ziplock around the folded panel. Do not fold it while it is hot after sun exposure, since a flexed warm laminate is where creases form; let it cool for a minute first.",
+   "bestFor": "Travelers who want the smallest folded size with three outputs.",
+   "pros": [
+    "Folds to about 7.7 x 5.1 inches, pocket-sized",
+    "USB-A, USB-C and a DC barrel on one panel",
+    "Scratch-resistant film and UV-stable EVA layers",
+    "Light enough to bring on every outing"
+   ],
+   "cons": [
+    "Small footprint caps real-world output below the rating",
+    "No tracking electronics to smooth cloud swings"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FY654LFK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YFXvmJJ5L._SL500_.jpg"
+  },
+  {
+   "id": "B0FL1SL7NZ",
+   "badge": "Best Cable Design",
+   "name": "EYONGPV 36W Foldable Panel, Croc-Eye USB-C, IP67",
+   "price": "",
+   "specs": [
+    "36W rated",
+    "Croc-Eye USB-C",
+    "IP67",
+    "One-piece lamination"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "36W"
+    },
+    {
+     "label": "Output port",
+     "value": "Croc-Eye USB-C"
+    },
+    {
+     "label": "Water rating",
+     "value": "IP67"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "Up to 26 percent"
+    },
+    {
+     "label": "Construction",
+     "value": "One-piece ETFE and EVA"
+    }
+   ],
+   "description": "EYONGPV's calling card is the Croc-Eye USB-C port, a recessed output designed to hold the plug in place so a tug on the cable does not interrupt charging. Anyone who has watched a USB-C cable slip out of a panel in a gust of wind will understand the idea. It sits on a one-piece ETFE and EVA laminate rated IP67.\n\nThe listing claims up to 26 percent cell efficiency, the highest claim in the lineup, though I would treat all efficiency figures as cell-level and not as an indicator of the finished panel's output. In practice it sits near the Gendome and FlexSolar for charging speed, and its advantage is the connector retention. It lacks the AMPSOS's tracker and the FlexSolar's DC port, which narrows its use to USB devices.\n\nBecause the port is a proprietary shape, keep the supplied cable handy; a spare cable bought later may not seat the same way. Wipe the recessed port with a dry cotton swab, since lint is the thing that stops a retention design from clicking, and keep it closed during transport. Panels with one-piece lamination should never be force-bent along the seam.",
+   "bestFor": "Windy or bumpy settings where cables get yanked loose.",
+   "pros": [
+    "Croc-Eye port helps hold the plug in place",
+    "One-piece ETFE and EVA laminate with IP67 rating",
+    "High quoted cell efficiency of up to 26 percent",
+    "Straightforward USB-C PD design"
+   ],
+   "cons": [
+    "Proprietary port shape ties you to the supplied cable",
+    "No DC output or MPPT stage"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FL1SL7NZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PflHnSxtL._SL500_.jpg"
+  },
+  {
+   "id": "B0DNFBLTQ8",
+   "badge": "Lowest Entry Cost",
+   "name": "Ctolity 36W Foldable 14V Solar Charger, USB-A and USB-C",
+   "price": "",
+   "specs": [
+    "36W rated",
+    "14V panel",
+    "USB-A and USB-C",
+    "18W fast charge"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "36W"
+    },
+    {
+     "label": "Panel voltage",
+     "value": "14V"
+    },
+    {
+     "label": "USB outputs",
+     "value": "USB-A and USB-C"
+    },
+    {
+     "label": "Fast charge",
+     "value": "18W"
+    },
+    {
+     "label": "Form",
+     "value": "Compact folding charger"
+    }
+   ],
+   "description": "This is the entry-level option, a 14V foldable panel with USB-A and USB-C outputs and 18W fast charging. It does not claim an elaborate lamination story or electronics, and it is priced to match. If a panel is going to live in a glovebox or a day bag and get used a handful of times a year, the cost of the better panels is harder to justify.\n\nThe 18W ceiling is the real constraint. It means a phone charges at a reasonable pace, but a tablet will be slow and two devices at once will split the current. Against the EYONGPV, you lose the cable retention and the one-piece lamination; against the AMPSOS, you lose regulation. It will not match either on durability.\n\nSince the build is basic, treat it gently. Keep the zipper or hook closed, avoid leaving it in direct sun when not in use, and check the output port for lint before you plug in. If output drops below what you expect on a clear day, inspect the fold line for a hairline crack and replace the panel rather than patching it.",
+   "bestFor": "Occasional users who want the lowest-cost 36W panel for emergency kits.",
+   "pros": [
+    "Lowest entry cost in this comparison",
+    "USB-A and USB-C both present",
+    "18W fast-charge limit suits phones",
+    "Light enough for a glovebox"
+   ],
+   "cons": [
+    "No lamination or ETFE advertised, so durability is unproven",
+    "Fast charge tops out at 18W"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DNFBLTQ8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419A3UoTmtL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Built-in regulation matters",
+   "explanation": "A panel with an MPPT stage, like the AMPSOS, adjusts the load so cells stay near their best voltage as light changes. Without it, a USB panel passes along whatever the sun gives, and output sags when a cloud passes. On partly cloudy days that can mean the difference between steady charging and constant interruption."
+  },
+  {
+   "criterion": "Cell size and seam count",
+   "explanation": "Larger cells, such as the 182mm M10 wafers on the AMPSOS, mean fewer joints that a hinge can stress. Smaller cells give more flexibility but more seams. For a panel folded dozens of times a year, fewer seams usually last longer. Ask yourself how often you will fold it: a weekend panel tolerates more seams than one that goes in a bag every morning."
+  },
+  {
+   "criterion": "Connector design and retention",
+   "explanation": "USB-C ports vary in how well they hold the plug. The EYONGPV's Croc-Eye port is designed to keep the plug from tugging out, while standard ports depend on the cable fit. In wind or on a moving boat that difference is easy to feel."
+  },
+  {
+   "criterion": "Folded size you will carry",
+   "explanation": "The FlexSolar folds to 7.7 x 5.1 inches, small enough for a jacket pocket. Panels that need a bag get left behind more often. The best panel is the one you actually pack."
+  },
+  {
+   "criterion": "Ingress rating honesty",
+   "explanation": "The Gendome lists IP68, the EYONGPV and FlexSolar IP67. Those ratings cover the panel with the ports closed and do not cover an open USB socket in the rain. A rating helps with splash and dust, and does not make a port rain-proof."
+  },
+  {
+   "criterion": "Wattage you will actually see",
+   "explanation": "A 36W label translates to roughly 22 to 28 watts in good midday sun, less in haze. That charges a phone fast but a tablet slowly. If you want more than USB battery top-ups, step up to 60W or 100W."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "MPPT",
+   "meaning": "Maximum power point tracking adjusts the electrical load to extract the most from the cells at any moment. Small panels rarely include it.",
+   "watchFor": "Only the AMPSOS advertises an integrated MPPT in this lineup."
+  },
+  {
+   "spec": "M10 182mm cells",
+   "meaning": "A standard wafer size, 182mm on a side, used in modern panels. Larger cells mean fewer cells per panel.",
+   "watchFor": "Look for cell size in the listing, since the AMPSOS states it and most others do not."
+  },
+  {
+   "spec": "ETFE film",
+   "meaning": "A fluoropolymer surface that resists UV and sheds water better than the PET film on cheap panels.",
+   "watchFor": "The Gendome and EYONGPV both list ETFE, while the Ctolity does not."
+  },
+  {
+   "spec": "IP67 versus IP68",
+   "meaning": "Both mean dust-tight; the second digit shows how long immersion is survived. The panel body is rated, the port is not.",
+   "watchFor": "The Gendome's IP68 is a step above the IP67 FlexSolar and EYONGPV."
+  },
+  {
+   "spec": "5.5 x 2.1 mm DC",
+   "meaning": "The most common barrel connector size for small 12V devices. Check polarity before connecting anything.",
+   "watchFor": "Only the FlexSolar lists this barrel output alongside USB."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Wattage class filter",
+   "description": "Only panels rated at 36W stayed in the lineup. Larger panels in the data, such as 300W and 400W units, and different class panels like the 30W FlexSolar were dropped because they distort the comparison."
+  },
+  {
+   "title": "Electronics and regulation",
+   "description": "We compared which panels include regulation and which are plain cells to a port. The AMPSOS stands apart with a tracker, while the Ctolity and Gendome are plain panels."
+  },
+  {
+   "title": "Sealing and surface",
+   "description": "We read ingress ratings and surface materials, from IP67 on the EYONGPV to IP68 on the Gendome, and weighed ETFE or lamination as durability signals."
+  },
+  {
+   "title": "Portability",
+   "description": "Folded size and handling were compared, with the FlexSolar at 7.7 x 5.1 inches the smallest pocket carry. Panels that need a bag were scored lower for daily use."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We weighed recurring complaints about connector fit, delamination and optimistic output claims. Panels with repeated issues dropped in ranking regardless of spec."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Carry Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Jacket pocket carry",
+      "FlexSolar 36W",
+      "Folds to 7.7 x 5.1 inches."
+     ],
+     [
+      "Backpack with rough use",
+      "AMPSOS 36W",
+      "900D shell and large cells."
+     ],
+     [
+      "Boat or beach",
+      "Gendome 36W",
+      "IP68 ETFE panel."
+     ],
+     [
+      "Windy trail with moving cables",
+      "EYONGPV 36W",
+      "Croc-Eye port holds the plug."
+     ],
+     [
+      "Glovebox emergency kit",
+      "Ctolity 36W",
+      "Lowest entry cost."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Ctolity 36W",
+      "Plain panel, basic USB."
+     ],
+     [
+      "Lower mid",
+      "Gendome 36W",
+      "ETFE and IP68 at a modest step."
+     ],
+     [
+      "Mid",
+      "EYONGPV 36W",
+      "Retention port and lamination."
+     ],
+     [
+      "Upper mid",
+      "FlexSolar 36W",
+      "Three outputs and compact fold."
+     ],
+     [
+      "Top of lineup",
+      "AMPSOS 36W",
+      "Integrated MPPT and large cells."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Tracked vs Untracked",
+   "cards": [
+    {
+     "label": "Built-in MPPT",
+     "text": "The AMPSOS tracks the best operating point and keeps charging steady as light shifts. It costs more and its electronics are more fragile than a plain panel."
+    },
+    {
+     "label": "Plain panel to port",
+     "text": "The Gendome, Ctolity and FlexSolar pass sunlight straight to the port. They are simpler and cheaper but fall off quickly when clouds drift by."
+    }
+   ],
+   "note": "Choose the AMPSOS if light changes constantly, and a plain panel if you camp in open, sunny country."
+  },
+  {
+   "subheading": "USB vs DC Output",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Phones and tablets only",
+      "EYONGPV 36W",
+      "Retention USB-C."
+     ],
+     [
+      "Small 12V lights or packs",
+      "FlexSolar 36W",
+      "5.5 x 2.1 mm DC barrel."
+     ],
+     [
+      "Maximum regulation",
+      "AMPSOS 36W",
+      "Integrated MPPT."
+     ],
+     [
+      "Minimum cost",
+      "Ctolity 36W",
+      "USB-A and USB-C only."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Day Hikes Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A folded size small enough for a jacket pocket, a durable shell and a USB-C port that stays seated when you move. Output regulation helps when light flickers through trees."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The FlexSolar 36W is the easiest carry, and the AMPSOS 36W is the better panel when light is patchy under tree cover. The EYONGPV 36W is the choice if cables keep falling out."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You charge daily in changing light. The AMPSOS 36W with its tracker keeps output steadier, and the better build lasts longer than the Ctolity."
+    },
+    {
+     "label": "Save if",
+     "text": "You charge a phone a few times a year. The Ctolity 36W or the Gendome 36W covers that with much less spending."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wipe the surface",
+   "interval": "After dusty or sandy outings",
+   "why": "Dust blocks light before it scratches anything. A damp cloth restores lost output on the Gendome and FlexSolar."
+  },
+  {
+   "task": "Check the electronics pocket",
+   "interval": "Monthly in use",
+   "why": "The AMPSOS keeps its regulator near an edge. A crushed corner can crack the board long before a cell fails."
+  },
+  {
+   "task": "Clean the output port",
+   "interval": "Every few trips",
+   "why": "Lint in a recessed port, such as the EYONGPV's Croc-Eye design, stops it clicking. A dry cotton swab fixes it."
+  },
+  {
+   "task": "Inspect fold lines",
+   "interval": "Each season",
+   "why": "Hairline cell cracks start at fold lines. A panel with one cracked cell loses a section of output."
+  },
+  {
+   "task": "Store cool and flat",
+   "interval": "Between trips",
+   "why": "Heat in a parked car softens laminate adhesives. A shelf indoors keeps the ETFE clear."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is 36W enough to charge a laptop?",
+   "a": "Only a USB-C laptop with a low power draw, and slowly, since most thin laptops pull 30W to 65W while running. Real output of 22 to 28 watts will not keep up with most laptops under load, so it works as a top-up, not a primary source."
+  },
+  {
+   "q": "Does a built-in MPPT matter at this size?",
+   "a": "It helps most in changing light, where a plain panel's output sags. In steady full sun the difference is small, so open-country campers can skip it."
+  },
+  {
+   "q": "Are ETFE panels worth the extra cost?",
+   "a": "ETFE resists UV yellowing and sheds water, so it usually stays clearer and lasts longer than a PET skin. It costs more, but for a panel left outdoors it earns its place."
+  },
+  {
+   "q": "Can I use it to charge a power station?",
+   "a": "Only a very small one with a matching DC input. A 36W panel needs most of a day in sun to add a meaningful amount to even a small station. Check the station's input voltage window first, because a 14V to 18V panel can fall below the minimum a station needs to start charging at all."
+  },
+  {
+   "q": "Why does output drop with heat?",
+   "a": "Silicon cells lose roughly a third of a percent in output for every degree above about 25 C. A panel in hot sun will deliver less than its rating even on a clear day."
+  },
+  {
+   "q": "Should I choose 36W or 60W?",
+   "a": "Choose 36W for a pocket-size carry and phone-class charging. Choose 60W if you want a tablet or a power bank to fill in a few hours. The 60W class is also where a panel starts to give a small station a meaningful boost, so think about what you plan to own in a year, not only what you carry today."
+  }
+ ],
+ "relatedGuides": []
+}

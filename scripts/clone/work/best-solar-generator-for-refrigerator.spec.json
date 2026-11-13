@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-solar-generator-for-refrigerator",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar generator for refrigerator",
+ "guideTitle": "Best Solar Generator for Refrigerator (2026)",
+ "metaTitle": "Best Solar Generator for Refrigerator (2026)",
+ "metaDescription": "Six solar generators matched to a household refrigerator, with duty cycle runtime math, compressor surge limits and honest limits for a long outage.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31FECM5Xx+L._SL500_.jpg",
+ "expertTake": "The Jackery Solar Generator 1000 Plus v2 is the pick for a single fridge because its priority load management protects the compressor first and it expands when you add more. The BLUETTI AC180 is the value choice with a bigger pack for the size. Anyone with a fridge and a separate chest freezer should read the companion freezer guide first.",
+ "introParagraphs": [
+  "A refrigerator looks like a small load until you try to back it up. Its compressor cycles on and off, draws a large burst every time it starts and keeps running through the night, so the number on the label and the energy it actually uses over a day are very different.",
+  "Choosing a unit for it is a matter of three checks: whether the inverter can start the compressor, whether the pack holds a day or more of cycling and whether the unit wastes energy sitting idle. This guide ranks six units on those checks and explains the math so you can verify it against your own appliance."
+ ],
+ "products": [
+  {
+   "id": "B0HF4JKGMC",
+   "badge": "Best Overall",
+   "name": "Jackery Solar Generator 1000 Plus v2 with 200W panel, 1024Wh",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1800W AC",
+    "11kWh expandable",
+    "Priority load"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 11kWh with 5 packs"
+    },
+    {
+     "label": "Outlets",
+     "value": "4 AC on two independent circuits"
+    },
+    {
+     "label": "Panel",
+     "value": "200W"
+    }
+   ],
+   "description": "What sets the 1000 Plus v2 apart for a refrigerator is how it divides its power. Its four AC outlets are split into two independently controlled groups with a priority function, so the fridge can be guaranteed power while a lower priority load such as a television gets shut off first if the pack runs low. That behavior protects the one load you cannot lose.\n\nThe pack itself is modest at 1024Wh, which carries a household fridge for about ten to twelve hours of cycling, but the system expands up to 11kWh by adding battery packs, so the limit is a purchase decision. The 200W panel adds 120 to 160W in sun, enough to keep a fridge running through the day.\n\nIt is a mid to upper price tier, and each expansion pack adds cost. Jackery's service network is strong. Place it near the fridge on a hard floor, plug the fridge into a priority outlet and check the charge every few months. It is the best choice for someone who wants a safe, growing fridge backup.",
+   "bestFor": "Single fridge backup that can grow into freezer and pump coverage.",
+   "pros": [
+    "Priority load protects the fridge first",
+    "Expandable up to 11kWh",
+    "1800W handles compressor starts",
+    "200W panel included"
+   ],
+   "cons": [
+    "1024Wh covers about ten hours of a fridge",
+    "Expansion packs add cost",
+    "Mid to upper price tier"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0HF4JKGMC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31FECM5Xx+L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C1SMJTDT",
+   "badge": "Best Value Pack Size",
+   "name": "BLUETTI AC180 1152Wh 1800W LiFePO4",
+   "specs": [
+    "1152Wh LiFePO4",
+    "1800W / 2700W",
+    "8 outlets",
+    "1 hr full charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1152Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W, 2700W peak"
+    },
+    {
+     "label": "Outlets",
+     "value": "8 including 4 AC"
+    },
+    {
+     "label": "AC charge",
+     "value": "Full in 1 hour at 1440W"
+    },
+    {
+     "label": "App",
+     "value": "BLUETTI app control"
+    }
+   ],
+   "description": "Bluetti's AC180 holds 1152Wh, about 12 percent more than the 1024Wh class, which adds an hour or so of fridge runtime. The 1800W inverter with 2700W peak starts a household compressor without strain, and the 1 hour full charge at 1440W AC input means it is ready quickly after an outage.\n\nIt has no expansion path in the way the Jackery does, and the 2700W peak is lower than the 3000W or 3600W surges on some rivals. It is also an older design, so it lacks some newer features like a certified UPS speed. It sits at a mid tier, a little below the Jackery.\n\nBluetti's app shows live watts, which helps you measure the fridge's real draw, and the service network is solid. Keep it on a level floor, charge it after each outage and check the pack every few months. It is the pick when you want the biggest tank in the class at a lower tier.",
+   "bestFor": "Fridge backup where the largest tank in the class matters most.",
+   "pros": [
+    "1152Wh is larger than the 1024Wh class",
+    "1800W with 2700W peak starts compressors",
+    "Full charge in about an hour",
+    "App shows live watts"
+   ],
+   "cons": [
+    "No expansion path",
+    "Older design without a certified UPS",
+    "2700W peak is lower than some rivals"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FRMQPZF6",
+   "badge": "Best Fast Recharge",
+   "name": "EcoFlow DELTA 3 Classic with 220W panel, 1024Wh",
+   "specs": [
+    "1024Wh",
+    "1800W / 3600W",
+    "45 min to 80%",
+    "220W panel"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W, 3600W surge"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 80% in 45 minutes"
+    },
+    {
+     "label": "Panel",
+     "value": "220W"
+    },
+    {
+     "label": "USB-C",
+     "value": "100W output"
+    }
+   ],
+   "description": "The DELTA 3 Classic's selling point for a fridge is its 3600W surge, double the Bluetti's peak, which means even a sluggish old compressor starts cleanly. A 45 minute 0 to 80 percent charge makes recovery after an outage fast, and the 220W panel yields 130 to 180W, which carries a fridge through a sunny day.\n\nIts tank is 1024Wh, so overnight it is about ten hours, and it has no priority load function, so if you plug in more than the fridge a smaller load could drain the pack first. The expansion option exists for the platform, but it adds cost. The price tier is mid.\n\nThe app lets you cap charge, read watts and update firmware, and EcoFlow's service network is broad. Plug only the fridge and a router into it during an outage, and test with the wall plug pulled twice a year. Pick it if you want fast recovery and a high surge.",
+   "bestFor": "Fridges with older compressors that need a high surge, plus fast recovery.",
+   "pros": [
+    "3600W surge starts stubborn compressors",
+    "0 to 80% in about 45 minutes",
+    "220W panel included",
+    "Mature app and service"
+   ],
+   "cons": [
+    "No priority load function",
+    "1024Wh gives about ten hours",
+    "Expansion adds cost"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FRMQPZF6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31k4M4wngWL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FS71NRSZ",
+   "badge": "Best Output and Expansion",
+   "name": "OUPES Mega 1 with 100W panel, 1024Wh 2000W",
+   "specs": [
+    "1024Wh LiFePO4",
+    "2000W / 4500W",
+    "5120Wh expandable",
+    "36 min to 80%"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2000W pure sine, 4500W surge"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 5120Wh"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 80% in 36 minutes"
+    },
+    {
+     "label": "Panel",
+     "value": "100W"
+    }
+   ],
+   "description": "OUPES builds the Mega 1 with a 4500W surge, the highest in this guide, along with a 2000W pure sine inverter and a quick 36 minute charge to 80 percent. For a fridge with a fussy compressor or a chest freezer added later, that surge is reassuring, and expansion up to 5120Wh gives it a growth path.\n\nThe unit's weaknesses are the brand's thinner service reach and a small 100W panel that yields only 60 to 80W. As a fridge unit it has no priority load function, and the 2000W inverter is more than a fridge needs, which wastes nothing but costs more.\n\nCare is routine: keep it on a hard floor, charge after each outage and store at partial charge. It suits buyers who want growth room and high surge at a lower tier than the Jackery, and who accept a newer brand.",
+   "bestFor": "Buyers who want high surge and an expansion path at a mid tier.",
+   "pros": [
+    "4500W surge starts any household compressor",
+    "Expandable to 5120Wh",
+    "0 to 80% in about 36 minutes",
+    "LiFePO4 pack"
+   ],
+   "cons": [
+    "Newer brand with thinner service",
+    "100W panel adds little",
+    "No priority load function"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FS71NRSZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zSzY5ecJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DG8NXM21",
+   "badge": "Best for Fridge Plus Extras",
+   "name": "Jackery Explorer 2000 v2 with 2x200W panels, 2042Wh",
+   "specs": [
+    "2042Wh LiFePO4",
+    "2200W AC",
+    "39.5 lb",
+    "2x200W panels"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2042Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2200W"
+    },
+    {
+     "label": "Weight",
+     "value": "39.5 lb"
+    },
+    {
+     "label": "UPS",
+     "value": "20ms"
+    },
+    {
+     "label": "Panels",
+     "value": "2 x 200W"
+    }
+   ],
+   "description": "If the fridge is joined by a router, lights and a few other loads, 2042Wh doubles your runtime to about a day. The Explorer 2000 v2 holds that energy in LiFePO4 cells at 39.5 lb, and two 200W panels give 240 to 320W of real solar, which covers a fridge's daytime draw twice over.\n\nIts limits are weight and no expansion. It costs more than the 1kWh units, and the 20ms UPS is slower than 10ms rivals, though a fridge is not sensitive to it. A 2200W inverter easily starts a compressor.\n\nOwnership is simple with Jackery's service network. Keep it indoors on a hard floor, charge it after outages and check it quarterly. It is the right pick when the fridge is just one of several loads you want covered.",
+   "bestFor": "Households backing up a fridge plus router and lights for about a day.",
+   "pros": [
+    "2042Wh covers a fridge for about a day",
+    "2x200W panels match a fridge's daytime draw",
+    "2200W starts compressors",
+    "Strong service network"
+   ],
+   "cons": [
+    "39.5 lb is a two hand lift",
+    "No expansion path",
+    "Higher price tier"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DG8NXM21?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ripynhqTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D2L1G66J",
+   "badge": "Best Portable Pick",
+   "name": "Jackery Solar Generator 1000 v2 with 200W panel, 1024Wh",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1500W / 3000W",
+    "10ms UPS",
+    "50 min charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1500W, 3000W peak"
+    },
+    {
+     "label": "UPS",
+     "value": "10ms"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 100% in 50 minutes"
+    },
+    {
+     "label": "Panel",
+     "value": "200W foldable"
+    }
+   ],
+   "description": "The plain 1000 v2 is the portable choice that also backs up a fridge. A 1500W inverter with 3000W peak starts a household compressor, a 10ms UPS keeps a router and the fridge on together through a switchover, and at about 24 lb it can move to a camp or a friend's house.\n\nIt does not have the priority load function or the expansion path of the 1000 Plus v2, so it is a fixed 1024Wh. That means about ten hours of fridge cycling, so a longer outage needs sun or a second unit. Its price is at the mid to upper tier.\n\nCare is simple: keep it half full when idle, charge it after use and wipe the vents each season. It is a good pick for a household that wants a fridge backup that also works for camping.",
+   "bestFor": "Households that want a fridge backup that also travels.",
+   "pros": [
+    "3000W peak starts compressors",
+    "10ms UPS keeps fridge and router on",
+    "50 minute full charge",
+    "About 24 lb and portable"
+   ],
+   "cons": [
+    "No expansion path or priority load",
+    "1024Wh gives about ten hours",
+    "Mid to upper price tier"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318axJyN-lL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Fridge duty cycle",
+   "explanation": "A modern 18 cubic foot fridge draws about 100 to 150W while the compressor runs and cycles on about a third of the time, so it uses 1 to 1.5kWh a day. A 1024Wh unit lasts about ten hours, the 1152Wh AC180 about eleven, the 2042Wh Jackery about twenty. Measure your own fridge for a day with a plug in meter. The reading often surprises people: a fridge in a hot garage or one with a dusty coil can use double what its label suggests, and the label itself is an average taken in a cool lab."
+  },
+  {
+   "criterion": "Compressor start surge",
+   "explanation": "A compressor can draw 3 to 7 times its running watts for a fraction of a second. The OUPES lists 4500W surge, the DELTA 3 Classic 3600W, the Jackery 1000 v2 3000W and the Bluetti 2700W. Older fridges with worn start capacitors draw more, so favor higher surge if yours is old."
+  },
+  {
+   "criterion": "Idle and inverter losses",
+   "explanation": "An inverter that stays on wastes 10 to 30W with no load, which is a quarter or more of a fridge's draw. Ask whether the unit has an eco mode that sleeps when the load is small. Over ten hours, a 20W idle burns 200Wh, a fifth of a 1kWh pack."
+  },
+  {
+   "criterion": "Priority load management",
+   "explanation": "The Jackery 1000 Plus v2 splits outlets into two independent groups and guarantees one. In a long outage, a television left on can drain the pack and take the fridge with it. A priority circuit protects what matters. Without it, discipline is the only protection."
+  },
+  {
+   "criterion": "Recharge strategy",
+   "explanation": "A 200W panel gives 120 to 160W, about 600 to 800Wh a day, enough to offset most of a fridge's day. The OUPES panel of 100W gives half that. Wall charging is fast, 36 to 60 minutes, but it needs power. Combining a panel with the pack is what stretches an outage."
+  },
+  {
+   "criterion": "Door openings and temperature",
+   "explanation": "Every door opening adds load as the compressor recovers. Keep the fridge full, since cold mass holds temperature, and open it as little as possible. Food stays safe for about four hours in an unopened fridge, so a unit that carries it longer is a safety net, not a luxury. Fill empty shelf space with water bottles before a storm, since extra cold mass slows warming and smooths the compressor cycles that your battery has to feed."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Duty cycle",
+   "meaning": "The fraction of time a compressor runs, usually a third for a modern fridge.",
+   "watchFor": "A 120W fridge at a one third duty cycle uses about 1kWh a day."
+  },
+  {
+   "spec": "4500W surge",
+   "meaning": "The OUPES Mega 1's brief startup allowance.",
+   "watchFor": "It lasts about a second and does not extend the 2000W continuous rating."
+  },
+  {
+   "spec": "Priority load",
+   "meaning": "A setting that keeps power to a chosen circuit when the pack runs low.",
+   "watchFor": "Listed on the Jackery 1000 Plus v2."
+  },
+  {
+   "spec": "Idle draw",
+   "meaning": "The power the inverter uses with no load connected.",
+   "watchFor": "Idle losses of 10 to 30W add up in a long outage."
+  },
+  {
+   "spec": "11kWh expansion",
+   "meaning": "The Jackery 1000 Plus v2's maximum with five extra packs.",
+   "watchFor": "Extra packs are sold separately."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Fridge runtime",
+   "description": "We assumed a 1.2kWh daily fridge load and 85 percent efficiency. The 1024Wh units give about ten hours, the AC180 about eleven, the 2042Wh unit about twenty."
+  },
+  {
+   "title": "Compressor starts",
+   "description": "We compared surge ratings from 2700W on the Bluetti to 4500W on the OUPES, favoring higher surge for older compressors."
+  },
+  {
+   "title": "Load management",
+   "description": "We looked for priority load functions and UPS speeds. The Jackery 1000 Plus v2 and 1000 v2 stand out in different ways."
+  },
+  {
+   "title": "Recharge",
+   "description": "We compared charge speed and panel size, from the OUPES 36 minute fast charge to the DELTA 3 Classic's 220W panel."
+  },
+  {
+   "title": "Support and growth",
+   "description": "We weighed service reach and expansion, ranking the Jackery line highest for support and expansion options."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Fridge Setup",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "One modern fridge, may add more",
+      "Jackery Solar Generator 1000 Plus v2",
+      "Priority load and expansion"
+     ],
+     [
+      "Largest tank for the size",
+      "BLUETTI AC180",
+      "1152Wh"
+     ],
+     [
+      "Old compressor with big start",
+      "OUPES Mega 1",
+      "4500W surge"
+     ],
+     [
+      "Fast recovery after outages",
+      "EcoFlow DELTA 3 Classic kit",
+      "45 minute charge"
+     ],
+     [
+      "Fridge, router and lights for a day",
+      "Jackery Explorer 2000 v2",
+      "2042Wh"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "BLUETTI AC180",
+      "Larger tank at a lower tier"
+     ],
+     [
+      "Lower mid",
+      "OUPES Mega 1",
+      "Surge and growth path"
+     ],
+     [
+      "Mid",
+      "EcoFlow DELTA 3 Classic kit",
+      "Fast charge with panel"
+     ],
+     [
+      "Upper mid",
+      "Jackery Solar Generator 1000 v2",
+      "Portable with UPS"
+     ],
+     [
+      "Highest",
+      "Jackery Explorer 2000 v2",
+      "Two times the runtime"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fixed Tank vs Expandable",
+   "cards": [
+    {
+     "label": "Fixed tank",
+     "text": "The BLUETTI AC180, Jackery 1000 v2 and Explorer 2000 v2 carry what they carry. They are simpler and cheaper, and the runtime is set at purchase."
+    },
+    {
+     "label": "Expandable",
+     "text": "The Jackery 1000 Plus v2 and OUPES Mega 1 add battery packs later, up to 11kWh and 5120Wh. They spread cost over time, but packs cost extra."
+    }
+   ],
+   "note": "Choose fixed if one fridge is the plan, expandable if a freezer or pump may follow."
+  },
+  {
+   "subheading": "Solar Planning",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Biggest panel set",
+      "Jackery Explorer 2000 v2",
+      "2x200W included"
+     ],
+     [
+      "Single large panel",
+      "EcoFlow DELTA 3 Classic kit",
+      "220W included"
+     ],
+     [
+      "Mid panel",
+      "Jackery Solar Generator 1000 Plus v2",
+      "200W included"
+     ],
+     [
+      "Small panel",
+      "OUPES Mega 1",
+      "100W included"
+     ],
+     [
+      "Add your own",
+      "BLUETTI AC180",
+      "No panel bundled"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Long Outages Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Enough Wh for 24 hours of fridge duty plus a panel that offsets the daytime. A fridge uses about 1.2kWh a day, so 2kWh covers a day and a sunny panel stretches it."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Jackery Explorer 2000 v2 covers about a day alone. The 1000 Plus v2 can stretch with expansion packs."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want protection and growth. The Jackery 1000 Plus v2 and Explorer 2000 v2 add priority load and double runtime."
+    },
+    {
+     "label": "Save if",
+     "text": "A single fridge for a night is enough. The BLUETTI AC180 and OUPES Mega 1 give capacity or surge at lower tiers."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Measure the fridge draw",
+   "interval": "Once a year",
+   "why": "A plug in meter shows real watts and daily kWh, which changes as the compressor ages."
+  },
+  {
+   "task": "Pull the wall plug test",
+   "interval": "Twice a year",
+   "why": "Confirms the unit takes over and the fridge restarts cleanly."
+  },
+  {
+   "task": "Check charge level",
+   "interval": "Every 3 months",
+   "why": "A tripped breaker can leave the unit flat."
+  },
+  {
+   "task": "Clean fridge coils",
+   "interval": "Every 6 months",
+   "why": "Dusty coils raise compressor runtime and the energy a backup must supply. Vacuum the coils behind or under the fridge twice a year, and a clean fridge can cut its energy use by ten to fifteen percent, which stretches every battery option in this guide."
+  },
+  {
+   "task": "Clean unit vents",
+   "interval": "Every 6 months",
+   "why": "Dust raises inverter temperature, and a fridge backup may sit in a warm utility corner."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long will a solar generator run a refrigerator?",
+   "a": "A modern fridge uses about 1 to 1.5kWh a day, so a 1024Wh unit runs about ten hours, a 2042Wh unit about twenty and a 3kWh unit about two days. Panels extend that in daylight."
+  },
+  {
+   "q": "Will it start the compressor?",
+   "a": "Usually. Compressors surge 3 to 7 times running watts. Surge ratings from 2700W to 4500W on these units cover most household fridges, but older ones may need the higher end."
+  },
+  {
+   "q": "Should the unit stay plugged in?",
+   "a": "If it has UPS or pass through behavior, yes, so the fridge swaps over without a restart. Otherwise you must plug the fridge in manually when the power drops."
+  },
+  {
+   "q": "Is food safe during the outage?",
+   "a": "An unopened fridge keeps food safe for about four hours, a full freezer about 48 hours. A backup unit that keeps the compressor cycling extends that."
+  },
+  {
+   "q": "Can I run a freezer too?",
+   "a": "A chest freezer adds about 0.5 to 1kWh a day. A 2kWh unit can run both for a day. Check the companion guide for fridge and freezer pairs."
+  },
+  {
+   "q": "Do I need a panel?",
+   "a": "No for short outages. For longer events, a 200W panel adds 600 to 800Wh a day, which offsets most of a fridge's daytime use. Place it in open sun, tilt it toward the south in the northern hemisphere and keep the cable run short, since a long thin lead wastes a noticeable share of a small panel's output."
+  }
+ ],
+ "relatedGuides": []
+}

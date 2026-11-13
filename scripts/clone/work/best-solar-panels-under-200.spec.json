@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-solar-panels-under-200",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar panels under 200",
+ "guideTitle": "Best Solar Panels Under $200 (2026)",
+ "metaTitle": "Best Solar Panels Under $200 (2026)",
+ "metaDescription": "Six 200W solar panels under $200: bifacial, N-type, a PWM kit and a portable blanket, compared on voltage, cells, controller needs and mounting.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "13 min",
+ "expertTake": "The Renogy 200W 24V N-type is the best overall because its higher operating voltage lets thin wire carry the power and its brand backs it with parts and support. The ECO-WORTHY kit is the value pick for a beginner because the PWM controller and wiring arrive in the box. Anyone planning to run an air conditioner or induction cooktop should skip single-panel setups entirely.",
+ "introParagraphs": [
+  "Two hundred watts is the size at which a panel stops being an accessory and starts being the backbone of a small system. It is the usual unit that van builders, cabin owners and boaters multiply by two, three or four, so wiring and voltage choices made now follow you through later expansion.",
+  "Most of the six options share that nameplate, which pushes the real comparison into voltage class, cell generation, bifacial construction, and whether the box includes a controller. Reading those details prevents the common mistake of buying a panel that cannot be paired with the controller already on hand."
+ ],
+ "products": [
+  {
+   "id": "B08CRJYJ22",
+   "badge": "Best Overall",
+   "name": "Renogy 200W 24V N-Type 16BB Solar Panel",
+   "price": "",
+   "specs": [
+    "200W",
+    "24V",
+    "N-type 16BB",
+    "25% cells"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Operating voltage",
+     "value": "24V"
+    },
+    {
+     "label": "Cell design",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "25 percent"
+    },
+    {
+     "label": "Size change",
+     "value": "7.5 percent smaller, 11.7 percent lighter than prior model"
+    }
+   ],
+   "description": "Renogy runs this panel at 24V, which halves the current for the same power compared with a 12V-class panel. Lower current means thinner wire, less voltage drop on a long run and a cooler connection at the controller. The panel uses N-type, sixteen busbar cells at a listed 25 percent efficiency, and Renogy says it is 7.5 percent smaller and 11.7 percent lighter than the previous 200W model.\n\nThe catch is that a 24V panel needs an MPPT controller that accepts higher input voltage, or it will waste much of its capability. A basic PWM controller drags it down to battery voltage. Anyone with an older PWM unit must budget for an MPPT replacement or choose a 12V-class panel such as the DOKIO.\n\nRenogy sells matching controllers, mounts and cables, so it is easy to build around. Check that your chosen controller's maximum input voltage exceeds the panel's open-circuit voltage by a margin, especially in cold weather when voltage rises. Torque the mounts after the first month and seal roof holes. If you later add a second matching panel, wire the pair in series to reach roughly 48V and keep the current at about the same level, which suits a larger MPPT controller.",
+   "bestFor": "Buyers building an expandable MPPT system who want strong brand support.",
+   "pros": [
+    "24V operation halves current and wire losses",
+    "N-type 16BB cells with 25 percent efficiency",
+    "Smaller and lighter than the previous 200W model",
+    "Matching Renogy controllers and mounts available"
+   ],
+   "cons": [
+    "Needs an MPPT controller that accepts higher voltage",
+    "Premium brand pricing within the cap"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08CRJYJ22?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg"
+  },
+  {
+   "id": "B0GL88FCYB",
+   "badge": "Best Bifacial",
+   "name": "HQST 200W Bifacial N-Type Solar Panel",
+   "price": "",
+   "specs": [
+    "200W",
+    "Bifacial",
+    "N-type 16BB",
+    "IP68"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cell design",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "up to 25.4 percent"
+    },
+    {
+     "label": "Bifacial claim",
+     "value": "30 percent extra from rear"
+    },
+    {
+     "label": "Sealing",
+     "value": "IP68"
+    }
+   ],
+   "description": "The rear surface of this HQST panel collects reflected light, and the listing claims up to thirty percent extra. That figure applies in ideal conditions, with the panel raised off the ground over a bright surface; a flush roof mount sees only a few percent. What holds up in any install is the N-type 16BB cell layout and the IP68 junction box rating.\n\nThe trade is that bifacial glass is heavier and more fragile on the edges than a single-glass module, so lifting and mounting need care. In practice it fits ground mounts, pergolas, sheds with a tilt frame and boats with reflective decks better than a van roof. For a roof, a standard N-type panel gives similar output for less hassle.\n\nOwners should keep the underside clean and unshaded. A white gravel bed or light-colored roof coating below the panel increases rear gain. Check the hardware yearly, because bifacial panels are rated on two sides and vibration can loosen frame clips.",
+   "bestFor": "Ground-mount and tilt-frame installs where the back of the panel sees light.",
+   "pros": [
+    "Rear glass adds energy over reflective ground",
+    "N-type 16BB cells with up to 25.4 percent efficiency",
+    "IP68 junction box suits wet sites",
+    "Compact for a 200W bifacial panel"
+   ],
+   "cons": [
+    "Gain is minimal when mounted flat on a roof",
+    "Dual-glass construction needs careful handling"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GL88FCYB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51RIb2aTj8L._SL500_.jpg"
+  },
+  {
+   "id": "B0GFMKY3QV",
+   "badge": "Best N-Type Value",
+   "name": "ECOBOSS 200W N-Type 12V Solar Panel",
+   "price": "",
+   "specs": [
+    "200W",
+    "N-type 16BB",
+    "25.6% cells",
+    "Bypass diodes"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cell design",
+     "value": "182mm N-type, 16 busbar"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "up to 25.6 percent"
+    },
+    {
+     "label": "Voltage class",
+     "value": "12V"
+    },
+    {
+     "label": "Shade protection",
+     "value": "Integrated bypass diodes"
+    }
+   ],
+   "description": "ECOBOSS builds this panel from 182mm Grade A+ N-type cells with sixteen busbars and puts bypass diodes in the junction box to limit losses in partial shade. The 12V class means it connects directly to a standard PWM or MPPT controller without special voltage planning. Its listed efficiency of up to 25.6 percent is the highest of the 200W panels here.\n\nIts limitation is the brand's short track record. Where Renogy and HQST offer broad accessories and documented support, ECOBOSS leaves you leaning on the listing and the seller's return window. That is a fair risk at this cap if you inspect the panel on delivery and photograph the label.\n\nFor practical use, treat it as the budget route to N-type cells. Run 10 AWG leads, fuse the positive near the battery, and mount it with spacers for airflow. Bypass diodes help in shade but do not rescue a panel that is mostly covered. A panel like this also works well as the second unit in a parallel pair with another 12V-class module of similar current.",
+   "bestFor": "Cost-conscious buyers who want N-type cells with a simple 12V layout.",
+   "pros": [
+    "182mm N-type cells with up to 25.6 percent efficiency",
+    "Bypass diodes in the junction box limit shade loss",
+    "12V class pairs with any standard controller",
+    "Strong spec sheet for the price tier"
+   ],
+   "cons": [
+    "Seller has a short support record",
+    "No bifacial or anti-shade extras beyond diodes"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GFMKY3QV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41nbpicmQQL._SL500_.jpg"
+  },
+  {
+   "id": "B0DQ4TPW16",
+   "badge": "Best Plain 12V Panel",
+   "name": "DOKIO 200W 18V Monocrystalline Panel",
+   "price": "",
+   "specs": [
+    "200W",
+    "18V mono",
+    "Pre-drilled frame",
+    "MC4 leads"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Voltage class",
+     "value": "18V for 12V systems"
+    },
+    {
+     "label": "Frame",
+     "value": "Aluminum, pre-drilled holes"
+    },
+    {
+     "label": "Connectors",
+     "value": "MC4 leads"
+    },
+    {
+     "label": "Use",
+     "value": "Roof, RV, boat, cabin, farm"
+    }
+   ],
+   "description": "DOKIO sells this panel as a general-purpose rigid module with an aluminum frame, MC4 leads and pre-drilled mounting holes. The listing stresses reliable output in heat and partial shade without exaggerated claims, which is an honest tone for a basic panel. The 18V class is meant for 12V battery systems and works with ordinary controllers.\n\nIt uses older monocrystalline cells, so long-term decay will be faster than on the N-type panels, and busbar count is not advertised. For a stationary cabin or shed setup that runs a few years before expansion, that difference is acceptable; for a ten-year roof investment, the Renogy or ECOBOSS is a better bet.\n\nInstallation is simple: the holes line up with standard brackets, and the MC4 plugs let you add a second panel in parallel. Use a fuse near the battery, keep leads off sharp edges and wash the glass seasonally. The pre-drilled frame saves a drilling step, but always check hole spacing against your bracket before you order.",
+   "bestFor": "Simple 12V installs where an inexpensive, plain panel will do.",
+   "pros": [
+    "Pre-drilled aluminum frame matches standard brackets",
+    "MC4 leads allow easy expansion",
+    "18V class works with any ordinary controller",
+    "Plain design with no complexity"
+   ],
+   "cons": [
+    "Older cell generation, so faster long-term decay",
+    "Spec sheet gives few details on busbars or shade design"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ4TPW16?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419f2MSaaSL._SL500_.jpg"
+  },
+  {
+   "id": "B09RZZHHHM",
+   "badge": "Best Complete Kit",
+   "name": "ECO-WORTHY 200W 12V/24V Kit with 30A PWM Controller",
+   "price": "",
+   "specs": [
+    "200W",
+    "30A PWM",
+    "12V or 24V",
+    "Kit"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W (kit)"
+    },
+    {
+     "label": "Controller",
+     "value": "30A PWM"
+    },
+    {
+     "label": "Daily output claim",
+     "value": "about 800Wh in 4 sun hours"
+    },
+    {
+     "label": "Cell design",
+     "value": "Monocrystalline, up to 21.5 percent claim"
+    },
+    {
+     "label": "Frame",
+     "value": "Corrosion-resistant aluminum alloy"
+    }
+   ],
+   "description": "ECO-WORTHY packages the panels with a 30A PWM controller so the buyer receives a basic working system. The listing quotes about 800Wh per day in four hours of full sun, a figure that implies a kit of more than one panel at 200W total, so read the contents list carefully before ordering. It supports both 12V and 24V battery wiring.\n\nPWM controllers are the cheap part of any solar kit, and they leave roughly 20 to 30 percent of the available energy unused compared with MPPT. For a small cabin or shed that is acceptable, but if you will expand, replace the controller. Against the Renogy 200W, which needs a separate MPPT controller, the ECO-WORTHY is simpler to start but less efficient.\n\nExpect a tidy beginner path. Follow the connection order printed in the manual, battery first and panel second, and mount the controller where it can shed heat. Keep spare fuses, and check the kit's cable gauge for long runs.",
+   "bestFor": "Beginners who want panels, controller and wiring in one box.",
+   "pros": [
+    "Includes a 30A PWM controller and cabling",
+    "Supports 12V and 24V battery systems",
+    "Aluminum alloy frame resists corrosion",
+    "Quoted output near 800Wh per day on sunny days"
+   ],
+   "cons": [
+    "PWM controller leaves energy unused versus MPPT",
+    "Cell efficiency claim is lower than the N-type panels"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg"
+  },
+  {
+   "id": "B0F7KLG1Y4",
+   "badge": "Best Portable Blanket",
+   "name": "LVYUAN 200W 24V Foldable Solar Blanket",
+   "price": "",
+   "specs": [
+    "200W",
+    "20V to 24V",
+    "P-PERC",
+    "IP64"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Output voltage",
+     "value": "20V to 24V"
+    },
+    {
+     "label": "Cell type",
+     "value": "P-PERC, 23 percent claim"
+    },
+    {
+     "label": "Ingress rating",
+     "value": "IP64"
+    },
+    {
+     "label": "Format",
+     "value": "Foldable blanket"
+    }
+   ],
+   "description": "For campers with a power station, LVYUAN's blanket-style panel folds to carry and outputs 20V to 24V. The listing warns plainly that connectors differ across Jackery, EcoFlow and Bluetti stations, so an adapter is required and voltage windows must be checked. Cell type is P-PERC at a claimed 23 percent efficiency.\n\nThe cost of portability is durability. An IP64 rating is splash-proof but not a match for the IP68 boxes on the rigid panels, and fabric surfaces wear at the folds. Choosing between this and a rigid panel is the same decision as choosing between a tent and a cabin: one is for moving, one is for staying.\n\nCare matters. Fold it along the factory lines, keep the connectors dry and brush off dirt rather than scrubbing. Store it flat away from heat. It will keep a power station fed on a trip, but it is not meant for a permanent roof.",
+   "bestFor": "Campers charging a power station who need 200W that packs away.",
+   "pros": [
+    "Folds for storage and travel",
+    "20V to 24V output suits many stations",
+    "Adapter notes are stated honestly in the listing",
+    "200W in a carryable package"
+   ],
+   "cons": [
+    "IP64 rating is weaker than the rigid panels",
+    "Connector adapters are often required"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F7KLG1Y4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41QMUiMgEIL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "12V class versus 24V class",
+   "explanation": "A 24V panel like the Renogy runs half the current of a 12V panel at the same watts, so wire and connectors stay cooler. It then needs an MPPT controller that accepts the higher voltage. A 12V-class panel such as the DOKIO or ECOBOSS works with any controller, which makes it the safer choice if you already own one."
+  },
+  {
+   "criterion": "Kit versus bare panel",
+   "explanation": "The ECO-WORTHY arrives with a 30A PWM controller, while the Renogy, HQST, ECOBOSS and DOKIO do not. A kit shortens setup and avoids mismatched parts. A bare panel lets you choose an MPPT controller that recovers roughly 20 to 30 percent more energy. Whichever you choose, confirm the controller's amp rating exceeds panel watts divided by battery volts by at least a quarter."
+  },
+  {
+   "criterion": "Bifacial worth for your mount",
+   "explanation": "The HQST bifacial claims thirty percent extra from the rear, but that needs raised mounting over bright ground. On a flat roof, expect a few percent. If your panel will sit on a tilt frame over gravel or snow, the rear side earns its keep."
+  },
+  {
+   "criterion": "Cell type and busbar layout",
+   "explanation": "The Renogy, HQST and ECOBOSS use N-type 16BB cells, which decay more slowly and tolerate heat. The DOKIO and ECO-WORTHY use older mono cells. Choose N-type if the panel will last more than five years. Ask the seller for the datasheet, since a listing that names cell size and busbar count usually reflects a better documented product."
+  },
+  {
+   "criterion": "Portable versus fixed",
+   "explanation": "The LVYUAN blanket carries easily but is rated IP64 and wears at the folds. The rigid panels are rated IP68 on the HQST. Match the format to the job and do not expect a blanket to survive year-round exposure. Also confirm the carry weight and folded thickness, because a 200W blanket is bulky in a small vehicle."
+  },
+  {
+   "criterion": "Voltage window and cold weather",
+   "explanation": "Panel voltage rises as temperature falls. A 24V panel may reach 45V or more open-circuit on a freezing morning, so the controller's maximum input must leave margin. Check the controller's spec before buying any 24V option."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Voc (open-circuit voltage)",
+   "meaning": "The highest voltage the panel reaches with no load, usually on cold mornings. The controller must tolerate it.",
+   "watchFor": "The 24V Renogy and LVYUAN need a controller with a high maximum input. Add a safety margin of about 20 percent for freezing climates."
+  },
+  {
+   "spec": "Bifacial gain",
+   "meaning": "Extra power from the rear surface. The figure depends on mounting height and surface brightness.",
+   "watchFor": "HQST claims 30 percent; plan on far less on a roof."
+  },
+  {
+   "spec": "PWM vs MPPT",
+   "meaning": "PWM pulls the panel to battery voltage and wastes headroom, while MPPT tracks the best voltage. MPPT harvests more in cold or low light.",
+   "watchFor": "ECO-WORTHY includes PWM; the other rigid panels need a separate controller."
+  },
+  {
+   "spec": "IP rating",
+   "meaning": "Dust and water protection for the box and connectors. IP68 allows immersion, IP64 only splashes.",
+   "watchFor": "HQST lists IP68; LVYUAN lists IP64. Listings that give no code at all should be treated as splash-resistant only."
+  },
+  {
+   "spec": "Cell size (182mm)",
+   "meaning": "Larger cells mean fewer cells per panel and higher current per cell. It helps efficiency when paired with good busbar layout.",
+   "watchFor": "ECOBOSS names 182mm cells."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Electrical design",
+   "description": "We compared voltage class, cell chemistry and shade protection such as bypass diodes. The Renogy's 24V N-type layout and ECOBOSS's 182mm cells led. A clear electrical story earned credit over marketing language."
+  },
+  {
+   "title": "System completeness",
+   "description": "We looked at what comes in the box. Only the ECO-WORTHY includes a controller, so it scored well for beginners but lost points on efficiency. We treated PWM as a limitation. Kits that name the contents clearly scored above those that left the panel count ambiguous."
+  },
+  {
+   "title": "Durability signals",
+   "description": "We weighed ingress ratings, frame descriptions and format. The HQST's IP68 box counted above the LVYUAN's IP64. A fixed rigid panel was expected to outlast a foldable blanket."
+  },
+  {
+   "title": "Compatibility planning",
+   "description": "We considered how clearly each listing handles voltage and connectors. LVYUAN's honest adapter warning is useful; Renogy's published voltage lets you plan the controller."
+  },
+  {
+   "title": "Brand and support",
+   "description": "We favored brands with accessories and documentation. Renogy and HQST lead on support, ECOBOSS and DOKIO rely on seller terms. We did not use customer rating numbers. A seller that publishes a manual and wiring diagram earns extra credit."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Installation Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Permanent roof with MPPT controller",
+      "Renogy 200W 24V",
+      "Low current and strong support"
+     ],
+     [
+      "Tilt frame over reflective ground",
+      "HQST 200W bifacial",
+      "Rear side adds energy"
+     ],
+     [
+      "First solar project, no controller yet",
+      "ECO-WORTHY kit",
+      "Controller and wire in the box"
+     ],
+     [
+      "Camping with a power station",
+      "LVYUAN 200W blanket",
+      "Folds and carries"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Spend level",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest, plain panel",
+      "DOKIO 200W",
+      "Basic 12V rigid module"
+     ],
+     [
+      "Low, with electronics",
+      "ECO-WORTHY kit",
+      "Controller included"
+     ],
+     [
+      "Mid, N-type",
+      "ECOBOSS 200W",
+      "N-type cells at an affordable tier"
+     ],
+     [
+      "Highest in the group",
+      "Renogy 200W 24V",
+      "Brand support and 24V layout"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "12V Class vs 24V Class",
+   "cards": [
+    {
+     "label": "12V class",
+     "text": "The DOKIO, ECOBOSS and HQST work with ordinary controllers and are easy to wire. They carry about eleven amps at 200W, so wire and fuses must be sized up."
+    },
+    {
+     "label": "24V class",
+     "text": "The Renogy and LVYUAN operate at higher voltage and half the current. That allows thin wire and longer runs but requires an MPPT controller with a higher input limit."
+    }
+   ],
+   "note": "Pick 24V if you own or plan to buy an MPPT controller; choose 12V if you want maximum compatibility."
+  },
+  {
+   "subheading": "Kit vs Bare Panel",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Simplest setup",
+      "ECO-WORTHY kit",
+      "Controller and cables bundled"
+     ],
+     [
+      "Best energy harvest",
+      "Renogy 200W 24V",
+      "Pairs with an MPPT unit"
+     ],
+     [
+      "Own a controller already",
+      "DOKIO 200W",
+      "No extra parts"
+     ],
+     [
+      "Plan to expand",
+      "ECOBOSS 200W",
+      "Standard 12V layout"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Van and Cabin Systems Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A panel size that fits the roof, a controller with margin for cold-weather voltage, and enough wire gauge for the current. Add 25 percent headroom to controller ratings."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Renogy 24V suits a van with MPPT, and the DOKIO 200W suits a cabin with an existing 12V controller."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want 400W or more, a premium warranty, or lithium battery integration. The Renogy is the top of this cap, and a larger array requires a stronger controller."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need to trickle a small battery. The DOKIO or ECO-WORTHY kit is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the glass",
+   "interval": "Quarterly, or after dust",
+   "why": "Dust, pollen and bird droppings cut output and can cause hot spots. A soft brush and water are enough. Clean in the morning or evening, when the glass is cool, to avoid thermal shock from cold water."
+  },
+  {
+   "task": "Check controller settings",
+   "interval": "After any battery change",
+   "why": "The charge profile must match the chemistry. A wrong profile undercharges lithium or overcharges lead-acid. Write the settings on a label inside the controller cover so a later owner can check them."
+  },
+  {
+   "task": "Inspect cables and MC4 plugs",
+   "interval": "Every 6 months",
+   "why": "Sun and heat degrade insulation and loosen plugs. A warm connector is a warning sign. Replace any plug that shows melted plastic or discoloration instead of cleaning it."
+  },
+  {
+   "task": "Re-seal roof penetrations",
+   "interval": "Each spring",
+   "why": "Sealant ages and cracks in the sun. A leak starts quietly and can ruin a roof core."
+  },
+  {
+   "task": "Fold and store the blanket carefully",
+   "interval": "After each trip",
+   "why": "Creasing in a wet bag cracks cells. Dry it and store it flat."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is one 200W panel enough for an RV?",
+   "a": "It covers lights, a fan, a router and a small fridge on most days. It will not run an air conditioner or microwave, so owners often add a second panel. Pairing two panels in parallel on a 12V bank doubles current, so confirm the controller can handle it."
+  },
+  {
+   "q": "Should I choose 12V or 24V?",
+   "a": "Choose 24V if you have an MPPT controller and long wire runs. Choose 12V for maximum compatibility with simple controllers. Cold climates raise open-circuit voltage, so leave a 20 percent margin on the controller input."
+  },
+  {
+   "q": "Is bifacial really better?",
+   "a": "On a ground or tilt mount over bright surfaces, yes. On a flush roof it adds little, so a standard N-type panel is a better value. The extra cost of bifacial glass is worth it mainly for ground arrays near snow."
+  },
+  {
+   "q": "What does a PWM controller cost me in energy?",
+   "a": "Roughly 20 to 30 percent of potential harvest in cold or low light, compared with MPPT. For a small system that may be acceptable."
+  },
+  {
+   "q": "How long will these last?",
+   "a": "Rigid N-type panels can last 25 years or more with slow decline. Blankets and foldables last fewer seasons because of folding wear. Output typically declines by around half a percent per year on good N-type modules."
+  },
+  {
+   "q": "Do prices stay at the cap?",
+   "a": "They move often. The $200 cap reflects listing prices when this guide was updated, so recheck before buying."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg"
+}

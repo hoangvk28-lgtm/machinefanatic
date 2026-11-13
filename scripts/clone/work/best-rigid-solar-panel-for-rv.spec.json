@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-rigid-solar-panel-for-rv",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best rigid solar panel for rv",
+ "guideTitle": "Best Rigid Solar Panels for RV (2026)",
+ "metaTitle": "Best Rigid Solar Panels for RV (2026)",
+ "metaDescription": "Six rigid framed solar panels for RV roofs, from 100W to 200W, compared on cell type, shade handling, weather rating and how they mount and wire.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Renogy ShadowFlux 200W is the top pick because its anti-shading design addresses the biggest rooftop problem, which is partial shade from vents and AC units. The HQST 200W is the value pick with a compact frame and a long warranty claim. Anyone with a curved roof or a tight weight limit should skip rigid glass and look at flexible panels.",
+ "introParagraphs": [
+  "A rigid panel is a glass and aluminum sandwich that bolts to the roof, and it is still the standard for people who want years of dependable charging. Glass runs cooler than a flexible laminate, lasts longer in sun, and costs less per watt. The price of that durability is weight and a flat mounting surface.",
+  "Most roofs add awkward shade from vents, a satellite dish or the air conditioner, so the layout of the cells matters as much as the headline watts. We evaluated each model on its spec sheet and owner feedback patterns, comparing cell type, shade strategy, frame size, ingress rating and whether its voltage suits your battery bank."
+ ],
+ "products": [
+  {
+   "id": "B0DMT2WTC8",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Renogy ShadowFlux 200W N-Type Rigid Panel",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "Anti-shading layout",
+    "Up to 25% efficient",
+    "Rooftop framed"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Shade design",
+     "value": "ShadowFlux anti-shading"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Up to 25%"
+    },
+    {
+     "label": "Size",
+     "value": "About 7% smaller than PERC"
+    }
+   ],
+   "description": "Renogy built the ShadowFlux around a cell layout designed to keep producing when part of the panel falls into shadow. On an RV roof, where a vent hood or ladder casts a moving shadow, that is the most useful trait a panel can have. The N-type 16-busbar cells reach up to 25% efficiency, and Renogy says the frame is about 7% smaller than comparable PERC panels.\n\nThe tradeoff is cost and limited electrical detail in the listing. The company advertises the shade behavior but does not publish the percentage of output retained under a shadow, so you should treat it as an advantage rather than a guarantee. Next to the plain Renogy 200W N-type, you pay extra for the shade layout, which pays off only if your roof is cluttered.\n\nMounting is conventional, with pre-drilled holes for Z-brackets or tilt mounts, and every penetration needs lap sealant and a yearly check. Wipe grime from the glass with water and a soft sponge, and inspect the MC4 junction box for cracks after hail or low branches. With a clean roof and good sealing it should serve well for many seasons.",
+   "bestFor": "RV owners whose roof is crowded with vents, AC units and antennas.",
+   "pros": [
+    "Anti-shading cell layout limits power loss from partial shadow",
+    "N-type 16BB cells reach up to 25% efficiency",
+    "Smaller frame than comparable PERC panels",
+    "Fits standard Z-bracket and tilt mounts"
+   ],
+   "cons": [
+    "Priced above the standard Renogy 200W N-type panel",
+    "Rigid glass cannot follow a curved roof"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DMT2WTC8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/310PuU3YOmL._SL500_.jpg"
+  },
+  {
+   "id": "B0DYD8VT9C",
+   "rank": 2,
+   "badge": "Best Plain 200W",
+   "name": "Renogy 200W N-Type 16BB Rigid Panel",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "25% efficient",
+    "12V and 24V use",
+    "11.7% lighter"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Efficiency",
+     "value": "25%"
+    },
+    {
+     "label": "Size and weight",
+     "value": "7.5% smaller, 11.7% lighter than prior model"
+    },
+    {
+     "label": "System",
+     "value": "12V or 24V batteries"
+    }
+   ],
+   "description": "Here is the straightforward version of the same N-type idea, without the shade-tolerant layout. Renogy says it is 7.5% smaller and 11.7% lighter than its previous model while keeping the same output, which makes it easier to lift to a roof alone. The panel's operating voltage is higher than the older 12V-class designs, which reduces current and wire loss on a long run.\n\nThat higher voltage has a catch. A panel meant for 12V and 24V battery systems needs a controller that accepts its input voltage, and a basic PWM unit will waste the headroom. Pair it with an MPPT controller sized for the panel's open-circuit voltage, especially in cold weather when voltage climbs. Compared with the ShadowFlux it is cheaper but drops more power when the roof shadows it.\n\nInstalling two in series on an MPPT controller is the typical upgrade path. Keep the cable runs short and use roof entry glands rather than drilling a fresh hole for each lead. A yearly clean and a sealant inspection is all the care it asks.",
+   "bestFor": "Owners with an open roof who want strong output without paying for shade features.",
+   "pros": [
+    "N-type cells hold output better in summer heat",
+    "Lighter and smaller than the maker's previous model",
+    "Higher operating voltage trims wire loss on long runs",
+    "Works in both 12V and 24V battery systems"
+   ],
+   "cons": [
+    "No shade-tolerant cell layout, so shadows cost output",
+    "Needs an MPPT controller to use its voltage headroom"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg"
+  },
+  {
+   "id": "B0DC6TLF9S",
+   "rank": 3,
+   "badge": "Best Bifacial",
+   "name": "Callsun 200W N-Type Bifacial Rigid Panel",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "Bifacial backsheet",
+    "Dual-module design",
+    "25.6% efficient"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, 25.6%"
+    },
+    {
+     "label": "Backsheet",
+     "value": "Transparent, bifacial"
+    },
+    {
+     "label": "Layout",
+     "value": "Dual-module parallel"
+    },
+    {
+     "label": "Battery system",
+     "value": "12V"
+    }
+   ],
+   "description": "Callsun makes the panel see light from both sides using a transparent backsheet. Reflected light from a white roof coating or snow can add a few percent on top of the front-side rating, though the gain depends on how far the panel sits above the surface. The dual-module parallel design splits the panel into two independent halves, so shade on one half does not shut down the whole panel.\n\nBifacial gains on a flat RV roof are modest because the panel sits close to the surface, and the rear gain is smaller than on a ground-mounted array. You should treat the bifacial claim as a bonus and rely on the dual-module shading behavior for real value. It sits between the plain Renogy and the ShadowFlux in shade tolerance.\n\nBecause the back is clear, you can see the cell backs and any cracking, but road grime and tree sap on the back also matter. Mount it on raised brackets with airflow to let the rear side breathe and the cells stay cool. Check the sealant around the feet every season.",
+   "bestFor": "Owners who want shade resilience and a light-reflecting roof coating to help.",
+   "pros": [
+    "Dual-module parallel layout limits shade losses",
+    "N-type 16BB cells reach 25.6% efficiency",
+    "Transparent backsheet captures reflected light",
+    "Rated for 12V battery systems"
+   ],
+   "cons": [
+    "Bifacial gain is small when mounted flat to a roof",
+    "Clear back shows grime and needs cleaning"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DC6TLF9S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lRVcDQfrL._SL500_.jpg"
+  },
+  {
+   "id": "B0GK146PX4",
+   "rank": 4,
+   "badge": "Best Compact Value",
+   "name": "HQST 400W Set, Two 200W N-Type Panels, 46.3 x 30.1 in",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "Up to 25.4% efficient",
+    "IP65 rated",
+    "46.3 x 30.1 x 1.2 in"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, Grade A+"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Up to 25.4%"
+    },
+    {
+     "label": "Size",
+     "value": "46.3 x 30.1 x 1.2 in"
+    },
+    {
+     "label": "Rating",
+     "value": "IP65, 30-year output claim"
+    }
+   ],
+   "description": "This listing is a pair, and at 46.3 by 30.1 by 1.2 inches each HQST 200W panel packs its watts into a frame that fits a Class B campervan roof beside a fan. It uses Grade A+ N-type 16-busbar cells with up to 25.4% efficiency and an IP65 junction box, and the listing cites a 30-year output warranty. The thin 1.2 inch frame helps with clearance under roof racks.\n\nThe 30-year figure is an output warranty, which usually promises a gradual decline in performance rather than perfect output, so read the fine print before banking on it. The IP65 rating is also one step below the IP68 on the 18BB panel in this guide, which matters if you drive through heavy spray. It does not claim shade tolerance, so a shadow across one cell row will still cut output.\n\nThe frame holes line up with common Z-bracket spacing, and a 30 by 46 inch footprint leaves room for two panels on many short roofs. Check each bracket foot seal yearly and wipe the surface with water and a soft cloth. It suits vans and small trailers where space is tight.",
+   "bestFor": "Van and small trailer owners with limited roof space.",
+   "pros": [
+    "46.3 by 30.1 inch footprint fits crowded van roofs",
+    "N-type cells reach up to 25.4% efficiency",
+    "Slim 1.2 inch frame clears roof racks",
+    "Long output warranty claim in the listing"
+   ],
+   "cons": [
+    "IP65 is a step below the IP68 18BB panel",
+    "No dedicated shade-tolerant layout"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ouu03inTL._SL500_.jpg"
+  },
+  {
+   "id": "B0G58HWV72",
+   "rank": 5,
+   "badge": "Best Weather Rating",
+   "name": "200W N-Type 18BB Monofacial Rigid Panel, IP68",
+   "price": "",
+   "specs": [
+    "200W N-type 18BB",
+    "25.6% efficient",
+    "IP68 junction box",
+    "EL-imaged A+ cells"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W with positive tolerance"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 18 busbar, 25.6%"
+    },
+    {
+     "label": "Junction box",
+     "value": "IP68, sealed MC4"
+    },
+    {
+     "label": "Cell testing",
+     "value": "EL-imaged A+ grade"
+    },
+    {
+     "label": "Face",
+     "value": "Monofacial"
+    }
+   ],
+   "description": "Eighteen busbars per cell lowers current losses and helps hold output through small cracks, and this panel pairs them with N-type cells at 25.6% efficiency. The listing says cells are EL inspected, which means electroluminescence imaging was used to catch hidden cracks before shipping. A positive power tolerance means the panel may output slightly above its 200W label at standard conditions.\n\nIts best feature for RV life is the IP68 junction box and sealed MC4 connectors, the best weather seal in this lineup. If you wash with a pressure wand or drive through heavy spray, the extra protection counts. The downside is that it is an unnamed brand in the listing, so you should check warranty terms and support before buying.\n\nBecause it is monofacial, the back is plain white and you do not pay for bifacial features you will not use on a flat roof. Mount it as you would any rigid panel, with sealed feet and airflow beneath. Inspect the connectors yearly, since they are the main failure point.",
+   "bestFor": "Owners who drive in wet climates and want the best connector sealing.",
+   "pros": [
+    "IP68 junction box and sealed connectors beat the IP65 rivals",
+    "N-type 18BB cells reach 25.6% efficiency",
+    "EL-imaged cells screen for hidden cracks",
+    "Positive tolerance can lift output above the label"
+   ],
+   "cons": [
+    "Unnamed brand means support and warranty need checking",
+    "No shade-tolerant layout"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0G58HWV72?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Sc8-xy10L._SL500_.jpg"
+  },
+  {
+   "id": "B0D3DZWXT4",
+   "rank": 6,
+   "badge": "Best 100W",
+   "name": "Renogy 100W N-Type 16BB Rigid Panel",
+   "price": "",
+   "specs": [
+    "100W N-type 16BB",
+    "Grade A+ cells",
+    "Low heat power loss",
+    "Compact frame"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, grade A+"
+    },
+    {
+     "label": "Heat behavior",
+     "value": "Low heat power loss"
+    },
+    {
+     "label": "Class",
+     "value": "Compact for vans and trailers"
+    },
+    {
+     "label": "System",
+     "value": "12V"
+    }
+   ],
+   "description": "A 100W rigid panel is the building block for many RV systems, because you can add more in parallel or series as the budget allows. Renogy's version uses grade A+ N-type 16-busbar cells with a low temperature coefficient, which means output drops less as the panel heats on a hot roof. That is a real advantage compared with older PERC panels at the same price.\n\nOne hundred watts alone is only enough for lights, a fan and phones, and a refrigerator loop will exceed it. Two of them match a 200W panel's output but cost more and need more roof footprint, so the 200W panels above are better for most owners. It makes sense where roof space is split into small gaps between vents.\n\nIts small size makes it easy to carry up a ladder by yourself. Seal the feet, keep the leads short, and clean the glass seasonally. If you later add a second panel, a controller with at least 20A is a safer choice than the smallest unit.",
+   "bestFor": "Small rigs and builders who want modular 100W blocks.",
+   "pros": [
+    "Low temperature coefficient keeps output up on hot roofs",
+    "Small enough to place in tight roof gaps",
+    "N-type cells with 16 busbars for better current collection",
+    "Easy for one person to lift and mount"
+   ],
+   "cons": [
+    "100W alone cannot support a refrigerator",
+    "Two 100W panels cost and occupy more than one 200W panel"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0D3DZWXT4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zl4REf4lL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Cell type: N-type versus PERC",
+   "explanation": "N-type cells degrade more slowly and lose less output as they heat. On a dark roof in summer, a panel can run 30 degrees above ambient. Both Renogy 200W models and the HQST 200W use N-type cells, so they gain on older PERC designs at similar prices."
+  },
+  {
+   "criterion": "Shade strategy",
+   "explanation": "A standard panel has all cells in series, so one shadowed row can cut output sharply. The ShadowFlux 200W and the Callsun bifacial dual-module design both address this, while the plain Renogy 200W and the HQST 200W do not. If your roof has vents, fans and a dish, shade handling beats a one-point efficiency gain."
+  },
+  {
+   "criterion": "Footprint and roof fit",
+   "explanation": "The HQST 200W measures 46.3 by 30.1 inches, which is compact for 200W. Measure the free space between your roof fixtures, subtract the mounting clearance, and check that your panel layout leaves room for heat to escape. A panel that fits only if you cut it into a vent will not work."
+  },
+  {
+   "criterion": "Voltage and controller match",
+   "explanation": "Panels marketed for 12V and 24V systems, such as the Renogy 200W, have a higher open-circuit voltage than classic 12V panels. A basic PWM controller wastes that headroom and may reject the voltage entirely. Use an MPPT controller sized for the voltage, and remember that cold mornings push voltage higher."
+  },
+  {
+   "criterion": "Weather sealing",
+   "explanation": "An IP65 junction box handles rain, while IP68 allows longer submersion and suits driving in heavy spray. The 18BB panel offers IP68 on its junction box and sealed MC4 connectors, while the HQST 200W lists IP65. Connectors are the likeliest water entry point on a roof."
+  },
+  {
+   "criterion": "Mounting and sealant plan",
+   "explanation": "Z-brackets and tilt mounts need through-bolts and lap sealant on the roof surface. Every hole is a potential leak, so plan to reuse existing holes or use adhesive-based feet. Check sealant yearly, since UV and flexing crack it."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Busbars (9BB, 16BB, 18BB)",
+   "meaning": "These are thin metal lines that collect current from each cell. More lines mean shorter current paths and better crack tolerance.",
+   "watchFor": "Cell type matters more than the busbar count, so a 16BB N-type beats a 9BB P-type."
+  },
+  {
+   "spec": "Efficiency percent",
+   "meaning": "The share of sunlight turned into power under test conditions. A higher rate means a smaller panel for the same watts.",
+   "watchFor": "The 18BB panel claims 25.6%, while the HQST 200W claims up to 25.4%, a difference too small to feel."
+  },
+  {
+   "spec": "IP65 versus IP68",
+   "meaning": "The second digit rates water protection, where 5 means jets and 8 means continuous immersion. Roofs see rain and spray, rarely immersion.",
+   "watchFor": "Only the 18BB panel lists IP68 on its junction box."
+  },
+  {
+   "spec": "Temperature coefficient",
+   "meaning": "The percent of power lost for each degree above 25 C. A lower number means better hot-weather output.",
+   "watchFor": "Renogy lists a low coefficient for its 100W N-type panel, but the listing does not publish the exact figure."
+  },
+  {
+   "spec": "Bifacial",
+   "meaning": "The panel collects light on both sides through a clear backsheet. The gain depends on how much light reflects up from below.",
+   "watchFor": "A roof-mounted panel sits close to the roof, so the Callsun bifacial gain is smaller than on a ground mount."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cell technology",
+   "description": "We checked each panel's cell type, busbar count and claimed efficiency. N-type cells scored above PERC, and we noted heat behavior. The 18BB panel and the Callsun bifacial had the highest listed efficiency at 25.6%."
+  },
+  {
+   "title": "Shade and layout",
+   "description": "We looked at whether the panel splits into independent sections or uses a shade-tolerant design. The ShadowFlux and Callsun scored highest, while single-string panels scored lowest. A cluttered roof makes this the most consequential factor."
+  },
+  {
+   "title": "Weather and build",
+   "description": "We compared IP ratings, frame thickness and sealing. The 18BB panel's IP68 box scored above the IP65 HQST 200W. We also looked at connector quality and glass thickness where listed."
+  },
+  {
+   "title": "Size and roof fit",
+   "description": "We compared footprint and weight, using the HQST 200W at 46.3 by 30.1 inches as a compact benchmark. Smaller frames let you fit more panels around roof fixtures. We counted the 100W panel as a modular option."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Owner feedback patterns informed our view of connector and warranty issues, particularly for lesser-known brands. We treated advertised warranty periods as claims to verify, not facts."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Roof Condition",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Crowded roof with vents and AC",
+      "Renogy ShadowFlux 200W",
+      "Anti-shading layout"
+     ],
+     [
+      "Open, clear roof",
+      "Renogy 200W N-type",
+      "Full output without paying for shade features"
+     ],
+     [
+      "Light-colored roof coating",
+      "Callsun 200W bifacial",
+      "Rear side catches reflected light"
+     ],
+     [
+      "Tight van roof",
+      "HQST 200W",
+      "46.3 by 30.1 inch footprint"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest entry",
+      "Renogy 100W",
+      "Modular block to add to later"
+     ],
+     [
+      "Low to mid",
+      "HQST 200W",
+      "200W in a compact frame"
+     ],
+     [
+      "Mid",
+      "Renogy 200W N-type",
+      "Proven maker and N-type cells"
+     ],
+     [
+      "Premium",
+      "Renogy ShadowFlux 200W",
+      "Shade-resistant cells"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rigid vs Flexible",
+   "cards": [
+    {
+     "label": "Rigid",
+     "text": "Glass and an aluminum frame run cooler, last longer and cost less per watt. All six panels here are rigid, and they need a flat surface and an air gap under the frame."
+    },
+    {
+     "label": "Flexible",
+     "text": "Thin laminates follow curves and cut weight, but they run hot when glued flat and age faster. They suit curved roofs or tight weight limits, not a general-purpose roof."
+    }
+   ],
+   "note": "Choose rigid if your roof is flat and your weight budget can carry it, flexible only when you have to."
+  },
+  {
+   "subheading": "Weather Exposure",
+   "table": {
+    "headers": [
+     "Condition",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Frequent heavy rain",
+      "200W 18BB IP68 panel",
+      "Sealed IP68 junction box"
+     ],
+     [
+      "Hot desert roof",
+      "Renogy 100W N-type",
+      "Low heat power loss"
+     ],
+     [
+      "Mixed climate",
+      "Renogy 200W N-type",
+      "Balanced efficiency and size"
+     ],
+     [
+      "Winter and low sun",
+      "Callsun 200W bifacial",
+      "Rear light helps on reflective snow"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Running a 12V Fridge Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "At least 200W of panel and a roof position with minimal shade, since a fridge cycles all day. A shade-tolerant panel protects the compressor loop when a vent casts a shadow."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Renogy ShadowFlux 200W and Renogy 200W N-type both cover it, with the ShadowFlux better on a cluttered roof."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your roof is cluttered, or you live in heavy weather. The ShadowFlux 200W and the IP68 18BB panel solve those problems."
+    },
+    {
+     "label": "Save if",
+     "text": "Your roof is open and you drive in mild weather. The Renogy 200W N-type and the HQST 200W give the same output for less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the glass",
+   "interval": "Monthly in season",
+   "why": "Dust and bird droppings cut output and create hot spots. Plain water with a soft sponge is all it takes, and an abrasive pad is never worth the risk."
+  },
+  {
+   "task": "Inspect roof sealant",
+   "interval": "Every year",
+   "why": "UV and flexing crack sealant at the feet, which leads to leaks. Reseal with a roof-compatible lap sealant."
+  },
+  {
+   "task": "Check MC4 connectors",
+   "interval": "Every season",
+   "why": "Loose or corroded connectors heat up and can melt. Press them fully home and look for discoloration."
+  },
+  {
+   "task": "Tighten brackets",
+   "interval": "Every six months",
+   "why": "Road vibration loosens hardware over time. A loose panel flaps and fatigues the frame and cells."
+  },
+  {
+   "task": "Look for cracks and hot spots",
+   "interval": "After hail or branch strikes",
+   "why": "A cracked cell can overheat and degrade the panel. Inspect the glass surface and the backside seam."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many rigid panels fit on a typical RV roof?",
+   "a": "It depends on roof clutter more than size, and most trailers fit two to four 200W panels. Measure free space around vents and leave a gap for airflow and bracket access."
+  },
+  {
+   "q": "Can I mix different panels on one controller?",
+   "a": "Mixing different wattages or voltages in series drags the stronger panel down to the weakest one. Parallel is more forgiving, but identical panels still give the best result."
+  },
+  {
+   "q": "Is bifacial worth paying for on a roof?",
+   "a": "Usually only a small gain, since the panel sits close to the roof surface. A light-colored roof coating helps, but shade handling and cell type matter more."
+  },
+  {
+   "q": "Do rigid panels need an MPPT controller?",
+   "a": "Panels designed for 12V and 24V systems, like the Renogy 200W, work best with MPPT. PWM can handle small 100W setups but wastes voltage headroom."
+  },
+  {
+   "q": "How long should a rigid panel last?",
+   "a": "Quality glass panels typically keep producing for 20 years or more with gradual decline. Brackets, sealant and connectors fail sooner than the cells."
+  },
+  {
+   "q": "Why is my panel producing under its rating?",
+   "a": "The rating is measured under ideal lab conditions, and heat, dust, tilt and wire loss all subtract from it. Real output of 60 to 80 percent is common."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/310PuU3YOmL._SL500_.jpg"
+}

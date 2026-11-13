@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-solar-generator-for-home-backup-picks",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar generator for home backup picks",
+ "guideTitle": "Best Home Backup Solar Generator Picks (2026)",
+ "metaTitle": "Best Home Backup Solar Generator Picks (2026)",
+ "metaDescription": "Six home backup solar generator picks, one for each outage length from a few hours to several days, with runtime math for router, fridge and furnace.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
+ "expertTake": "The EcoFlow DELTA 3 Classic kit is the pick for a typical overnight outage because it pairs 1024Wh with a quick recharge and a 220W panel. The Jackery Explorer 2000 v2 is the value choice for a two day event. If your outages run past three days, the answer is a larger system, not a better small unit.",
+ "introParagraphs": [
+  "The easiest way to pick a home backup unit is to start from the longest outage you have actually lived through, not from a product page. A few hours, a night, two days and a week call for different amounts of stored energy, and the difference in cost between those tiers is large.",
+  "This list is organized that way: one pick for each outage length, with the runtime math shown so you can check it against your own appliances. Picks higher up the list cost more and weigh more, and each step only makes sense if you really need the extra time."
+ ],
+ "products": [
+  {
+   "id": "B0G429L5B4",
+   "badge": "Best for a Few Hours",
+   "name": "Jackery Solar Generator 300 with 40W panel, 292Wh",
+   "specs": [
+    "292Wh",
+    "300W AC",
+    "7.5 lb",
+    "100W USB-C"
+   ],
+   "specList": [
+    {
+     "label": "Outage length",
+     "value": "A few hours"
+    },
+    {
+     "label": "Capacity",
+     "value": "292Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "300W"
+    },
+    {
+     "label": "Weight",
+     "value": "7.5 lb"
+    },
+    {
+     "label": "Panel",
+     "value": "40W foldable"
+    }
+   ],
+   "description": "Think of this one as connectivity insurance. A modem and router at about 25W together run roughly ten hours on 292Wh, and the 100W USB-C port keeps a laptop or phone topped up without waking the AC inverter. At 7.5 lb it can live in a drawer or a hall closet.\n\nIt does not back up a fridge in any meaningful way. A compact fridge pulls 60 to 100W with a start surge that a 300W inverter may not tolerate, and 292Wh runs out in a few hours. The 40W panel is a trickle source that adds 100 to 150Wh on a sunny day.\n\nOwnership is trivial: top it up every three months, keep it at about half charge in storage and keep it away from heat. Its service network is strong for a small unit. For the tiniest tier of backup, it does the job quietly. Many owners keep it beside the router with the cables already attached, and park a small lantern and a phone charger cable in the same drawer, so that the whole outage kit is one grab and not a search through the house in the dark.",
+   "bestFor": "Households that only need router, phones and a laptop through a short outage.",
+   "pros": [
+    "7.5 lb fits a drawer or closet",
+    "100W USB-C PD charges laptops directly",
+    "Router runs about ten hours",
+    "Strong service network"
+   ],
+   "cons": [
+    "Cannot back up a fridge",
+    "40W panel is a trickle source",
+    "Pays a brand premium for its size"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FRMQPZF6",
+   "badge": "Best for One Night",
+   "name": "EcoFlow DELTA 3 Classic with 220W panel, 1024Wh",
+   "specs": [
+    "1024Wh",
+    "1800W / 3600W",
+    "45 min to 80%",
+    "220W panel"
+   ],
+   "specList": [
+    {
+     "label": "Outage length",
+     "value": "One night"
+    },
+    {
+     "label": "Capacity",
+     "value": "1024Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W, 3600W surge"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 80% in 45 minutes"
+    },
+    {
+     "label": "Panel",
+     "value": "220W"
+    }
+   ],
+   "description": "EcoFlow's DELTA 3 Classic kit is the overnight answer. 1024Wh covers a fridge at about 100W, a router and lights for eight to ten hours, and the 1800W inverter with a 3600W surge handles the fridge compressor start. A 45 minute 0 to 80 percent charge means it is back to ready quickly after the lights return.\n\nWhat it does not do is run for days without help. After about ten hours the pack is empty, and the 220W panel adds 130 to 180W in real sun, which only stretches the runtime by a few hours a day. Treat it as a bridge between outages, not a long term solution.\n\nThe app shows live watts, sets charge caps and takes updates, and EcoFlow's service network is broad. Keep it near the fridge on a hard floor, plugged in, and pull the wall plug twice a year to prove it works. It is the sweet spot for most houses. The numbers that make it the middle tier are simple: an overnight outage of ten hours at about 100W is 1kWh, which is exactly what the pack holds after losses, and the quick recharge means a second event the next evening is covered too.",
+   "bestFor": "Houses that face overnight outages and want a fast recharge afterward.",
+   "pros": [
+    "1024Wh covers fridge, router and lights overnight",
+    "0 to 80% in about 45 minutes",
+    "1800W inverter with 3600W surge",
+    "220W panel included"
+   ],
+   "cons": [
+    "Empty after about ten hours of essentials",
+    "Panel adds only a few hours a day",
+    "Mid price tier"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FRMQPZF6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31k4M4wngWL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F6YN3XJ4",
+   "badge": "Best Light Backup With Panel",
+   "name": "Jackery Solar Generator 1000 v2 with 100W panel, 1024Wh",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1500W / 3000W",
+    "10ms UPS",
+    "100W panel"
+   ],
+   "specList": [
+    {
+     "label": "Outage length",
+     "value": "One night with UPS"
+    },
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1500W, 3000W peak"
+    },
+    {
+     "label": "UPS",
+     "value": "10ms"
+    },
+    {
+     "label": "Panel",
+     "value": "100W"
+    }
+   ],
+   "description": "The Jackery 1000 v2 with a 100W panel serves the same overnight tier as the EcoFlow but leans on UPS behavior. Plug a desktop, monitor and router into it and a 10ms switchover keeps work going when the grid drops. A 50 minute wall charge is a match for the EcoFlow.\n\nIts panel is smaller, 100W against 220W, so its solar contribution is about 60 to 80W in real light. Without expansion, it is also a dead end if your needs grow. At about 24 lb it is still a one person carry, and Jackery's warranty and parts reach are the best in the guide at this size.\n\nPlug it in permanently, with the inverter on, check it quarterly and keep the vents clear. It is the right choice if uptime of electronics matters more than a larger solar bundle. The smaller panel also means it packs away easily, and because the unit and panel together weigh far less than the two day tier, a single person can move the whole kit to a balcony or porch when the sun comes out.",
+   "bestFor": "Home offices that need electronics to stay up through overnight outages.",
+   "pros": [
+    "10ms UPS for desktops and routers",
+    "1024Wh LiFePO4 pack",
+    "50 minute full charge",
+    "Strong service network"
+   ],
+   "cons": [
+    "100W panel adds little",
+    "No expansion path",
+    "Mid to upper price tier"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F6YN3XJ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31evCcjreOL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DG8NXM21",
+   "badge": "Best for Two Days",
+   "name": "Jackery Explorer 2000 v2 with 2x200W panels, 2042Wh",
+   "specs": [
+    "2042Wh LiFePO4",
+    "2200W AC",
+    "39.5 lb",
+    "2x200W panels"
+   ],
+   "specList": [
+    {
+     "label": "Outage length",
+     "value": "One to two days"
+    },
+    {
+     "label": "Capacity",
+     "value": "2042Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2200W"
+    },
+    {
+     "label": "Weight",
+     "value": "39.5 lb"
+    },
+    {
+     "label": "Panels",
+     "value": "2 x 200W"
+    }
+   ],
+   "description": "At two days, the energy requirement doubles, and this is the smallest unit that comfortably clears it. A fridge, router and lights draw about 150W together, or 3.6kWh over a day, so 2042Wh covers about twelve hours alone, and the two 200W panels add 240 to 320W in sun, stretching it toward a day and a half in clear weather.\n\nThe weakness is that it needs sun to reach two full days, and it is not expandable. The 20ms UPS is slower than the 1000 v2's 10ms, and at 39.5 lb it is a two hand lift. It sits at a mid to upper price tier.\n\nOwnership is straightforward, backed by Jackery's service. A dry corner, a quarterly charge check and panels within easy reach are all it asks. For a two day outage with a sunny window, it is the economical choice. If the forecast shows overcast skies, ration it: run the fridge and router, skip the microwave and the television, and the pack will outlast the storm on stored energy alone.",
+   "bestFor": "Homes that expect a day or two without power and have a sunny panel spot.",
+   "pros": [
+    "2042Wh LiFePO4 pack",
+    "2x200W panels extend runtime",
+    "2200W inverter runs a microwave",
+    "Strong service network"
+   ],
+   "cons": [
+    "Needs sun to cover two full days",
+    "Not expandable",
+    "39.5 lb is a two hand lift"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DG8NXM21?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ripynhqTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FFSDCNR4",
+   "badge": "Best for Three Days",
+   "name": "Jackery HomePower 3000 3072Wh with 2x200W panels",
+   "specs": [
+    "3072Wh LFP",
+    "3600W / 7200W",
+    "20ms UL UPS",
+    "2x200W panels"
+   ],
+   "specList": [
+    {
+     "label": "Outage length",
+     "value": "Two to three days"
+    },
+    {
+     "label": "Capacity",
+     "value": "3072Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3600W, 7200W surge"
+    },
+    {
+     "label": "UPS",
+     "value": "20ms, UL certified"
+    },
+    {
+     "label": "Panels",
+     "value": "2 x 200W"
+    }
+   ],
+   "description": "For an outage that runs into a third day, the HomePower 3000 brings 3072Wh, a 7200W surge and a UL certified UPS. A fridge, freezer, router and furnace blower average about 400W, so the pack carries about a day and a half without sun, and the panels add 240 to 320W a day.\n\nIts limits are size and expansion: 3072Wh is the ceiling of the unit and expansion is narrower than the 3600 Plus. The 20ms UPS is fine for most devices but slower than the 10ms alternatives. It is heavy and sits at an upper price tier.\n\nOwnership favors planning: keep it on a level floor with airflow, charge it above freezing and have an electrician wire a transfer switch if you want hardwired circuits. It is the choice if you have a well pump or a medical device and need UL certified switchover. A well pump that draws 1,000W while filling a pressure tank runs only a few minutes at a time, so the pack's real drain from it is modest, and the surge rating is the spec that actually decides whether the pump starts.",
+   "bestFor": "Homes with a well pump or medical device that need certified switchover for days.",
+   "pros": [
+    "3072Wh LFP covers a day and a half of essentials",
+    "7200W surge starts big motors",
+    "UL certified UPS",
+    "Panels included"
+   ],
+   "cons": [
+    "Heavy and costly",
+    "20ms is slower than some rivals",
+    "Narrower expansion path"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F47FKBQ4",
+   "badge": "Best for a Week With Add-Ons",
+   "name": "ABOK Ark3600 3840Wh with 3x200W panels",
+   "specs": [
+    "3840Wh LiFePO4",
+    "3600W / 7200W",
+    "3x200W panels",
+    "11.5kWh expandable"
+   ],
+   "specList": [
+    {
+     "label": "Outage length",
+     "value": "Three days, more with expansion"
+    },
+    {
+     "label": "Capacity",
+     "value": "3840Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "3600W rated, 7200W peak"
+    },
+    {
+     "label": "Panels",
+     "value": "3 x 200W"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 11520Wh"
+    }
+   ],
+   "description": "To stretch toward a week, you need either a lot of stored energy or a lot of solar, and the ABOK offers both: 3840Wh, 600W of panels and an expansion path to 11.5kWh. With a 360 to 480W real solar harvest, a modest 300W essentials load can run almost indefinitely in good sun.\n\nThe tradeoff is that ABOK is a newer brand with thin service history, and the unit is heavy at over 80 lb. A week long outage also means weather that may not cooperate, so panels cannot be relied on. The same station appears in several listings with different panels or alternator chargers, and these are one machine.\n\nPlan a proper installation: level floor, airflow, transfer switch by an electrician and a note of the purchase. Check connectors twice a year. It suits budget focused homeowners who want to push toward a week. Treat the week as a plan with rationing: cut loads to the fridge, router and a few lights, and the combined stored energy and panels can carry you well past the point where a smaller unit would have gone dark.",
+   "bestFor": "Homes that fear a week long outage and want expansion and solar together.",
+   "pros": [
+    "3840Wh LiFePO4 pack",
+    "3x200W panels give 360 to 480W real",
+    "7200W peak starts pumps",
+    "Expandable to 11.5kWh"
+   ],
+   "cons": [
+    "Newer brand with thin service history",
+    "Over 80 lb and needs a fixed spot",
+    "Solar depends on weather"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F47FKBQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Start from outage length",
+   "explanation": "A few hours needs 300Wh for a router and phones, a night needs about 1kWh for a fridge and lights, two days needs 3.5kWh with sun, and a week needs expansion or a larger system. The Jackery 300, EcoFlow DELTA 3 Classic and Jackery Explorer 2000 v2 correspond to the first three. Pick your tier before the product."
+  },
+  {
+   "criterion": "Essentials load in watts",
+   "explanation": "A fridge averages 80 to 120W, a router 12W, lights 20W, a furnace blower 300 to 600W. Total essentials average 150W without a furnace and 450W with one. At 150W, 1024Wh lasts about six hours, at 450W only about two. Add your own list."
+  },
+  {
+   "criterion": "Recharge between events",
+   "explanation": "The DELTA 3 Classic reaches 80 percent in 45 minutes, the Jackery 1000 v2 in about 50. A 3kWh unit takes two to three hours. If your area has repeated outages within a day, favor faster recharge over capacity."
+  },
+  {
+   "criterion": "Solar bonus realism",
+   "explanation": "A 220W panel gives 130 to 180W, about 600 to 800Wh on a sunny day, but winter and cloud can cut it by two thirds. The 600W ABOK set gives 360 to 480W. Count solar as a bonus, not the plan, in storm weather."
+  },
+  {
+   "criterion": "UPS and startup",
+   "explanation": "A 10ms UPS keeps electronics running and a 3000W or higher surge starts a fridge or sump pump. The Jackery 1000 v2 lists 10ms, and the HomePower 3000 lists 20ms with a UL certification. Check which matters more for your loads."
+  },
+  {
+   "criterion": "Growth and weight",
+   "explanation": "The ABOK expands to 11.5kWh, others are fixed. A 39.5 lb Explorer 2000 v2 is a two hand lift and the 80 lb ABOK needs a cart. Decide where the unit will live and how you will move it."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "292Wh",
+   "meaning": "The Jackery 300's stored energy, about 250Wh usable.",
+   "watchFor": "A router and modem run about ten hours."
+  },
+  {
+   "spec": "1800W / 3600W surge",
+   "meaning": "The DELTA 3 Classic's continuous and brief surge ratings.",
+   "watchFor": "Surge helps a fridge start, not a sustained load."
+  },
+  {
+   "spec": "20ms UL UPS",
+   "meaning": "The HomePower 3000's certified switchover time.",
+   "watchFor": "Slower than 10ms units."
+  },
+  {
+   "spec": "2x200W panels",
+   "meaning": "A 400W set that gives 240 to 320W in real sun.",
+   "watchFor": "A day of sun adds 1 to 1.5kWh."
+  },
+  {
+   "spec": "11.5kWh expansion",
+   "meaning": "The ABOK's maximum stack.",
+   "watchFor": "Extra packs are sold separately."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Outage tier fit",
+   "description": "We matched each unit to an outage length, from a few hours on the 292Wh Jackery to three days on the 3840Wh ABOK, using a 150W essentials load."
+  },
+  {
+   "title": "Runtime math",
+   "description": "We applied 85 percent efficiency and computed hours at 150W and 450W loads, from about 1.6 hours at 450W on the 292Wh unit to about 7 hours on the 3072Wh unit."
+  },
+  {
+   "title": "Recharge speed",
+   "description": "We compared wall charging from the 45 minute EcoFlow to multi hour 3kWh units, and noted solar contributions."
+  },
+  {
+   "title": "Backup behavior",
+   "description": "We looked at UPS ratings and surge for fridge and pump starts. The Jackery 1000 v2 and HomePower 3000 scored highest."
+  },
+  {
+   "title": "Support and cost",
+   "description": "We weighed brand service reach and price tier. Jackery and EcoFlow lead on support, ABOK on capacity per cost."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Outage Length",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "A few hours, router and phones",
+      "Jackery Solar Generator 300",
+      "292Wh and 7.5 lb"
+     ],
+     [
+      "One night, fridge and lights",
+      "EcoFlow DELTA 3 Classic kit",
+      "1024Wh and fast recharge"
+     ],
+     [
+      "One night, desktop and router",
+      "Jackery Solar Generator 1000 v2",
+      "10ms UPS"
+     ],
+     [
+      "One to two days",
+      "Jackery Explorer 2000 v2",
+      "2042Wh and 400W panels"
+     ],
+     [
+      "Two to three days or more",
+      "Jackery HomePower 3000",
+      "3072Wh and UL UPS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Jackery Solar Generator 300",
+      "Small and light"
+     ],
+     [
+      "Lower mid",
+      "EcoFlow DELTA 3 Classic kit",
+      "Fast charge for the size"
+     ],
+     [
+      "Mid",
+      "Jackery Solar Generator 1000 v2",
+      "UPS and support"
+     ],
+     [
+      "Upper mid",
+      "Jackery Explorer 2000 v2",
+      "Two day coverage"
+     ],
+     [
+      "Highest",
+      "Jackery HomePower 3000",
+      "Certified UPS and surge"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Small Unit vs Big Unit",
+   "cards": [
+    {
+     "label": "Small unit",
+     "text": "The Jackery 300, DELTA 3 Classic and 1000 v2 are light, fast to recharge and cost less. They cover hours to a night, and extra time needs a second unit."
+    },
+    {
+     "label": "Big unit",
+     "text": "The Explorer 2000 v2, HomePower 3000 and ABOK hold 2 to 3.8kWh and cover days. They are heavy and cost more, and recharge more slowly."
+    }
+   ],
+   "note": "Buy the smallest tier that covers your longest real outage."
+  },
+  {
+   "subheading": "Solar Contribution",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Biggest panel set",
+      "ABOK Ark3600",
+      "3x200W included"
+     ],
+     [
+      "Mid panel set",
+      "Jackery Explorer 2000 v2",
+      "2x200W included"
+     ],
+     [
+      "Single large panel",
+      "EcoFlow DELTA 3 Classic kit",
+      "220W included"
+     ],
+     [
+      "Small panel",
+      "Jackery Solar Generator 1000 v2",
+      "100W included"
+     ],
+     [
+      "Trickle panel",
+      "Jackery Solar Generator 300",
+      "40W included"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Medical Device Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "UPS switchover, pure sine output and a pack sized to the device's draw and the hours needed. A CPAP at 40W for eight hours needs about 400Wh, an oxygen concentrator at 300W far more."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Jackery 1000 v2 and HomePower 3000 list UPS speeds. Only the device maker can approve a power source for medical use."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your outages exceed a night or you have a pump or medical device. The Explorer 2000 v2, HomePower 3000 and ABOK extend time and surge."
+    },
+    {
+     "label": "Save if",
+     "text": "Your outages are short. The Jackery 300 and DELTA 3 Classic cover hours to a night at lower tiers."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Pull the wall plug test",
+   "interval": "Twice a year",
+   "why": "Confirms the unit takes over and the loads stay up."
+  },
+  {
+   "task": "Check charge level",
+   "interval": "Every 3 months",
+   "why": "A tripped breaker can leave the unit flat, and a pack that has drifted to a low charge is useless when you need it."
+  },
+  {
+   "task": "Check panel cables",
+   "interval": "Every 6 months",
+   "why": "Cracked insulation causes shorts and loss."
+  },
+  {
+   "task": "Clean vents",
+   "interval": "Every 6 months",
+   "why": "Dust raises inverter temperature."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "When prompted",
+   "why": "Updates improve battery management."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I pick the right outage tier?",
+   "a": "Use the longest outage you have actually faced. Hours need 300Wh, a night 1kWh, two days 3.5kWh with sun. Add 20 percent margin."
+  },
+  {
+   "q": "Can a small unit run my fridge?",
+   "a": "A 1024Wh unit can for eight to ten hours, a 292Wh unit only about three. A fridge averages 80 to 120W with a start surge of 3 times."
+  },
+  {
+   "q": "How much does a panel add?",
+   "a": "A 220W panel gives about 600 to 800Wh on a sunny day, offsetting a fridge and router. In winter or cloud it adds less than half that."
+  },
+  {
+   "q": "Is it worth paying for UPS?",
+   "a": "If a desktop, router or medical device cannot reboot, yes. A 10ms UPS is fast enough for most electronics."
+  },
+  {
+   "q": "Should I buy a bigger unit than I need?",
+   "a": "Only if you expect longer outages. Extra capacity costs money and weight, and an unused pack ages in a closet. A better use of the extra budget is often a second small unit or a transfer switch, which adds flexibility without locking money into one large pack."
+  },
+  {
+   "q": "Can I connect it to my house panel?",
+   "a": "Only through a manual transfer switch installed by an electrician. Back feeding through an outlet is dangerous."
+  }
+ ],
+ "relatedGuides": []
+}

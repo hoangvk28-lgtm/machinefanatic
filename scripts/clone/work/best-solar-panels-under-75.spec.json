@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-solar-panels-under-75",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar panels under 75",
+ "guideTitle": "Best Solar Panels Under $75 (2026)",
+ "metaTitle": "Best Solar Panels Under $75 (2026)",
+ "metaDescription": "Six solar panels under $75, mostly 100W 12V modules plus one foldable USB panel, compared on cell type, frame, controller kits and RV fit.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The HQST 100W is the pick for a first RV or shed system because of its compact square footprint and documented wind and snow loading. The Sanpyl 100W kit is the value choice for anyone who wants the controller in the box. If you need to run daily loads of more than a few hundred watt-hours, step past this cap, because a single 100W module cannot carry them.",
+ "introParagraphs": [
+  "This price band is where single-panel solar becomes useful rather than symbolic. A hundred-watt class module can run lights, a vent fan, a router and phone charging for a small camper or a garden shed, provided it is sized against the battery it feeds.",
+  "Most listings quote the same headline wattage, so the useful differences live in cell generation, frame or frameless construction, whether a controller is bundled, and how easy the panel is to mount. We sorted the options by those practical differences instead of by claimed efficiency alone."
+ ],
+ "products": [
+  {
+   "id": "B0H4152J7K",
+   "badge": "Best Overall",
+   "name": "HQST 100W 12V Compact Monocrystalline Panel",
+   "price": "",
+   "specs": [
+    "100W",
+    "9BB Grade A+",
+    "IP65",
+    "31.8 x 27.5 in"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cell design",
+     "value": "166mm Grade A+, 9 busbar"
+    },
+    {
+     "label": "Size",
+     "value": "31.8 x 27.5 x 1.18 in"
+    },
+    {
+     "label": "Wind and snow load",
+     "value": "2400Pa and 5400Pa"
+    },
+    {
+     "label": "Sealing",
+     "value": "IP65 connectors and box"
+    }
+   ],
+   "description": "HQST has given this panel a nearly square body instead of the long rectangle most hundred-watt modules use, and the listing says it is about eleven percent smaller than a traditional unit. That shape helps on a van or trailer roof where the space is boxed in by vents and a skylight. The cells are 166mm Grade A+ with 100 percent electroluminescence inspection, which is a quality-control step that catches microcracks before shipping.\n\nIts compromise is cell generation: nine busbars and a stated 23 percent efficiency are a rung below the N-type designs in the STAR and Rvpozwer panels. In real use that shows up as slightly faster decay and a bit less shade tolerance, not as a visible day-one gap. Wind and snow ratings of 2400Pa and 5400Pa match the standard rigid-module benchmark, which gives reassurance for a roof mount.\n\nOwnership is straightforward. It is a bare panel, so budget a controller, MC4 extension leads and a fuse; the HQST name makes warranty claims easier than with no-name sellers. Bolt it through the pre-drilled frame holes with a sealant such as Dicor on each penetration and inspect the seal every spring.",
+   "bestFor": "RV, van and shed owners who want a compact, well-rated 100W starting panel.",
+   "pros": [
+    "Square body fits cramped roof layouts",
+    "Cells carry 100 percent electroluminescence inspection",
+    "2400Pa wind and 5400Pa snow loading stated",
+    "Established brand makes warranty claims simpler"
+   ],
+   "cons": [
+    "Nine busbar cells trail the N-type panels on shade tolerance",
+    "Controller and cabling are separate purchases"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0H4152J7K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41XfEtRGmNL._SL500_.jpg"
+  },
+  {
+   "id": "B0FJXNQ911",
+   "badge": "Best Value Kit",
+   "name": "Sanpyl 100W 12V Panel Kit with Controller",
+   "price": "",
+   "specs": [
+    "100W",
+    "23% cells",
+    "Controller included",
+    "IP67"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "23 percent"
+    },
+    {
+     "label": "Controller outputs",
+     "value": "USB, Type C, DC"
+    },
+    {
+     "label": "Sealing",
+     "value": "IP67 junction box and plugs"
+    },
+    {
+     "label": "Format",
+     "value": "Portable monocrystalline kit"
+    }
+   ],
+   "description": "This kit solves the problem that stops many first-time buyers: it includes a controller with USB, Type C and DC outputs, so the panel can feed a battery and charge devices without extra parts. Sanpyl lists a 23 percent conversion rate and an anti-corrosive aluminum frame, and the junction box and connectors are rated IP67. For someone who has never wired a solar system, getting everything in one box removes the biggest source of mistakes.\n\nThe downside is the controller. Bundled units at this level are usually basic regulators rather than MPPT trackers, and they lose a share of the energy that a better controller would capture. Next to the HQST 100W, which is panel only, the Sanpyl trades controller quality for convenience, and it will not suit a lithium bank unless the controller has that profile.\n\nIn year three, expect the weak link to be the clamp or ring terminals rather than the glass. Re-torque the connections once a season, keep the controller shaded and ventilated, and replace it with a proper MPPT unit if you ever expand to a second panel. Until then the kit is a sensible way to learn how a solar charging circuit behaves.",
+   "bestFor": "First-time buyers who want a panel, controller and device ports in one purchase.",
+   "pros": [
+    "Controller with USB, Type C and DC ports is included",
+    "IP67 junction box and connectors for outdoor use",
+    "23 percent cell efficiency is competitive for the class",
+    "Removes the guesswork of matching parts"
+   ],
+   "cons": [
+    "Bundled controller is likely basic and not MPPT",
+    "Upgrading to a larger system means replacing parts"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJXNQ911?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41HcPu2itxL._SL500_.jpg"
+  },
+  {
+   "id": "B0DD4BNTG4",
+   "badge": "Best Frameless Pick",
+   "name": "STAR 100W 24V Frameless N-Type Solar Panel",
+   "price": "",
+   "specs": [
+    "100W",
+    "N-type 25%",
+    "Frameless",
+    "24V"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "25 percent"
+    },
+    {
+     "label": "Frame",
+     "value": "Frameless Cleanedge design"
+    },
+    {
+     "label": "Voltage class",
+     "value": "24V"
+    },
+    {
+     "label": "Certifications listed",
+     "value": "ETL, ISO9001, CE"
+    }
+   ],
+   "description": "Instead of an aluminum rim, STAR uses a frameless Cleanedge design that lets rain and dust slide off the lower edge. The listing claims a fifteen percent power gain over normal panels from that lack of dust-trapping lip, which is a vendor figure and should be read as a best case. It also advertises 25 percent N-type cells and ETL, ISO9001 and CE certifications, which is a stronger paper trail than most panels at this cap.\n\nThe catch is the 24V rating. A 24V class panel produces higher voltage than a 12V module, so it needs an MPPT controller or a 24V system to work well; a basic PWM controller will waste a lot of its potential. Compared with the HQST 100W it is the better panel on paper but harder for a beginner to wire correctly.\n\nFrameless glass-on-glass panels are lighter on the edges but more prone to chipping if dropped, so handle and ship it carefully. Mount it with rubber-backed clamps rather than point loads, wipe it a couple of times a season, and treat it as a fit for a system where you already own or plan to buy an MPPT controller.",
+   "bestFor": "Buyers with an MPPT controller who want N-type cells and a dust-shedding frameless build.",
+   "pros": [
+    "Frameless edge lets debris run off the panel",
+    "25 percent N-type cells for slower aging",
+    "ETL, ISO9001 and CE certifications are listed",
+    "Strong choice for shaded, dusty or snowy sites"
+   ],
+   "cons": [
+    "24V class needs a controller that handles higher input voltage",
+    "Glass edges are more exposed than a framed module"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DD4BNTG4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31V1k93DfnL._SL500_.jpg"
+  },
+  {
+   "id": "B0DSHPR3KH",
+   "badge": "Best N-Type Value",
+   "name": "Rvpozwer 100W 18BB N-Type Solar Panel",
+   "price": "",
+   "specs": [
+    "100W",
+    "18BB N-type",
+    "IP68 box",
+    "25% cells"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cell design",
+     "value": "N-type, 18 busbar"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "25 percent"
+    },
+    {
+     "label": "Junction box",
+     "value": "IP68"
+    },
+    {
+     "label": "Intended use",
+     "value": "RV and marine"
+    }
+   ],
+   "description": "Eighteen busbars and N-type silicon give this panel the most advanced cell layout among the framed 100W options here. The extra busbars shorten the path each current carrier travels, so output holds up better when a cell cracks or a shadow crosses the panel. The junction box is rated IP68, and the module glass is described as cured, weather-resistant solar glass.\n\nThere is little brand history behind the Rvpozwer name, so you are leaning on the spec sheet and the seller's return policy. Compared with the HQST 100W it offers better cells but a thinner support network, which matters if a panel fails after the first year. It also ships as a bare module, so a controller must be bought separately.\n\nFor an installer who values efficiency per dollar, it is the closest thing to a premium panel at this cap. Inspect it on arrival for scratches or loose junction box covers, wire it with 10 AWG or 12 AWG leads for runs over ten feet, and keep a photograph of the label in case the listing disappears.",
+   "bestFor": "DIY installers who want 18BB N-type cells and accept a lesser-known brand.",
+   "pros": [
+    "18 busbar N-type layout resists cracking and shade",
+    "IP68 junction box for wet climates",
+    "25 percent cell efficiency listed",
+    "Standard 12V compatibility for battery charging"
+   ],
+   "cons": [
+    "Brand has a short track record for support",
+    "No controller or mounting hardware included"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DSHPR3KH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41rg8e11C7L._SL500_.jpg"
+  },
+  {
+   "id": "B09V4ZDJTJ",
+   "badge": "Best Wind-Rated Budget",
+   "name": "JJN 100W 10BB Monocrystalline Solar Panel",
+   "price": "",
+   "specs": [
+    "100W",
+    "10BB cells",
+    "23% claim",
+    "2100Pa wind"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Cell design",
+     "value": "Grade A+ mono, 10 busbar"
+    },
+    {
+     "label": "Listed efficiency",
+     "value": "23 percent"
+    },
+    {
+     "label": "Frame",
+     "value": "Black corrosion-resistant aluminum"
+    },
+    {
+     "label": "Wind load",
+     "value": "Up to 2100Pa"
+    }
+   ],
+   "description": "JJN keeps things simple: Grade A+ monocrystalline cells with ten busbars, a black aluminum frame, and a stated 2100Pa wind and snow rating. The black frame looks tidy on a dark roof and runs a little cooler than a bare finish in direct sun. It is a standard hundred-watt rectangle, which makes it easy to fit to existing brackets.\n\nIts weaker point is documentation. The wind rating is slightly below the 2400Pa on the HQST, and the cell design is a generation behind the 18BB Rvpozwer. It is the least differentiated panel here, which is exactly why it suits buyers who want a plain, predictable module without added features.\n\nExpect a trouble-free life if the install is sound. Pre-drill the frame, use stainless fasteners, and seal every hole. If you tilt it on an adjustable bracket, aim it south in the northern hemisphere and re-check the angle at the changes of season.",
+   "bestFor": "Straightforward 12V installs where a plain, rigid 100W panel is all that is needed.",
+   "pros": [
+    "Plain rigid design with no gimmicks",
+    "10 busbar Grade A+ mono cells",
+    "Black frame stays discreet on a dark roof",
+    "Wind and snow rating stated for planning"
+   ],
+   "cons": [
+    "Wind rating trails the HQST at 2400Pa",
+    "Cell generation is behind the N-type panels"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B09V4ZDJTJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414F4vaJwSL._SL500_.jpg"
+  },
+  {
+   "id": "B0CSM4G6CY",
+   "badge": "Best Portable Foldable",
+   "name": "MESUVIDA 60W Foldable Solar Charger with USB-C",
+   "price": "",
+   "specs": [
+    "60W",
+    "USB-C PD 45W",
+    "3.9 lb",
+    "5 ports"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "60W"
+    },
+    {
+     "label": "USB-C output",
+     "value": "PD 45W"
+    },
+    {
+     "label": "Ports",
+     "value": "MC4 18V, DC, 2 USB-A, USB-C"
+    },
+    {
+     "label": "Weight",
+     "value": "3.9 lb"
+    },
+    {
+     "label": "Folded size",
+     "value": "about 15.7 x 16.7 in"
+    }
+   ],
+   "description": "Every other pick here is a fixed panel; the MESUVIDA is the one to carry. At 3.9 pounds and roughly 15.7 by 16.7 inches folded, it fits a daypack, and its five ports include MC4, DC, two USB-A and a USB-C that supports 45W power delivery. That mix lets it charge a phone directly in a campsite or feed a small power station through the MC4 lead.\n\nLimits are physical. Sixty watts is well below the hundred-watt panels, and foldable panels with fabric-backed cells lose output faster to heat and flexing than glass panels. USB charging also depends on the panel receiving steady sun; a passing cloud can make a phone stop and restart charging.\n\nFor ownership, fold along the seams only, keep the pouch for storage, and wipe the surface after dust or sand. Do not leave it face-up on a hot car dash for days. It is a great way to keep devices alive on a trip, though it is not a permanent roof solution.",
+   "bestFor": "Campers and hikers who need to charge phones and a small battery on the move.",
+   "pros": [
+    "Folds to about the size of a small bag at 3.9 lb",
+    "USB-C port supports 45W power delivery",
+    "Five outputs including MC4 for power stations",
+    "Works without any controller for USB devices"
+   ],
+   "cons": [
+    "Only 60W, well under the 100W fixed panels",
+    "Foldable fabric cells age faster than glass modules"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CSM4G6CY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51KMF-vrXdL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Rigid or foldable format",
+   "explanation": "A fixed rigid panel gives the best watts and life per dollar, and it suits a roof, a shed or a fence. A foldable panel like the MESUVIDA 60W is a travel tool: it gives up wattage and durability for portability. Pick by where the panel will sit most of its life, because a foldable bolted to a roof will fail early."
+  },
+  {
+   "criterion": "Controller bundled or not",
+   "explanation": "A charge controller sits between the panel and battery to prevent overcharge. The Sanpyl kit bundles one, while the HQST, STAR, Rvpozwer and JJN do not. A bundled basic controller is fine for a small lead-acid battery, but a lithium battery needs a lithium profile and an MPPT unit extracts more energy."
+  },
+  {
+   "criterion": "12V or 24V panel class",
+   "explanation": "The STAR is a 24V class panel, while the HQST and JJN are 12V class. A 24V panel on a basic PWM controller can waste much of its output, so it demands an MPPT controller. Check your controller's maximum input voltage before buying either type."
+  },
+  {
+   "criterion": "Cell generation",
+   "explanation": "N-type cells with 16 to 18 busbars, as in the STAR and Rvpozwer, hold output in heat and shade better than 9BB or 10BB cells in the HQST and JJN. The difference shows up over years, not in the first month. If the lineup is within a few watts of each other, take the newer cell."
+  },
+  {
+   "criterion": "Footprint and mounting",
+   "explanation": "The HQST measures about 31.8 by 27.5 inches, a size built to fit around vents. Long-format panels are cheaper to mount in a row but harder on a short roof. Measure the clear area, then add room for ventilation and cable entry."
+  },
+  {
+   "criterion": "Documentation and support",
+   "explanation": "A stated wind rating and a recognised brand matter when something fails in year two. The HQST lists 2400Pa and 5400Pa and the JJN 2100Pa, while the Rvpozwer offers few details. For a roof install, paperwork and a reachable seller are worth a small step in price."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Busbars (9BB to 18BB)",
+   "meaning": "Busbars collect current across each cell. More lines mean less power lost when a cell cracks or is shaded.",
+   "watchFor": "Rvpozwer lists 18BB, JJN 10BB, HQST 9BB."
+  },
+  {
+   "spec": "N-type vs P-type",
+   "meaning": "N-type silicon suffers less initial light-induced loss and handles heat better. It generally lasts longer in the field.",
+   "watchFor": "STAR and Rvpozwer list N-type; HQST and JJN do not."
+  },
+  {
+   "spec": "Wind and snow load in Pa",
+   "meaning": "This is the pressure a panel frame is rated to survive. 2400Pa wind and 5400Pa snow is the common standard.",
+   "watchFor": "HQST states 2400Pa and 5400Pa, JJN 2100Pa."
+  },
+  {
+   "spec": "IP rating",
+   "meaning": "Ingress protection for the junction box and connectors. IP65 resists jets of water, IP67 and IP68 survive immersion.",
+   "watchFor": "Rvpozwer lists IP68, Sanpyl IP67, HQST IP65."
+  },
+  {
+   "spec": "USB-C PD wattage",
+   "meaning": "Power delivery negotiates voltage so a laptop or tablet can charge. A 45W port can refill a phone quickly but only slowly charge a laptop.",
+   "watchFor": "MESUVIDA's USB-C is 45W, but the panel itself is only 60W."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cell and busbar construction",
+   "description": "We read each spec sheet for cell chemistry and busbar count. The Rvpozwer's 18BB N-type layout ranks above the HQST's 9BB cells on paper. We treated this as a durability and shade-tolerance factor rather than a day-one output factor."
+  },
+  {
+   "title": "Bundled versus separate electronics",
+   "description": "We checked what each listing includes. The Sanpyl comes with a controller, ports and DC outputs, while the others are bare. We scored completeness for beginners separately from panel quality."
+  },
+  {
+   "title": "Mechanical ratings",
+   "description": "We compared stated wind and snow loads and ingress ratings. HQST names 2400Pa and 5400Pa; JJN names 2100Pa. A named number was treated as stronger evidence than a general waterproof claim."
+  },
+  {
+   "title": "Fit and mounting",
+   "description": "We compared footprint and format, from the HQST's compact square body to the long rectangle on the JJN. We also considered whether a panel needed a bracket kit and whether it was fixed or foldable."
+  },
+  {
+   "title": "Brand and seller trail",
+   "description": "We weighed how established the brand is, since a panel failure in year two depends on support. HQST and STAR have longer records than Rvpozwer. We did not use customer rating numbers in scoring."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Install Location",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Van or trailer roof with tight space",
+      "HQST 100W",
+      "Compact square footprint"
+     ],
+     [
+      "Shed or fence with a MPPT controller",
+      "STAR 100W",
+      "Frameless N-type and 24V class"
+     ],
+     [
+      "Camper where wiring is new to you",
+      "Sanpyl 100W kit",
+      "Controller and ports are included"
+     ],
+     [
+      "Tent, hike or boat on the move",
+      "MESUVIDA 60W",
+      "Folds to 3.9 lb with USB-C"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Spend level",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in this lineup",
+      "Sanpyl 100W kit",
+      "Includes controller and ports"
+     ],
+     [
+      "Low with a standard panel",
+      "JJN 100W",
+      "Plain 10BB panel for a simple install"
+     ],
+     [
+      "Mid within the cap",
+      "HQST 100W",
+      "Better paperwork and compact size"
+     ],
+     [
+      "Top of the cap",
+      "STAR 100W",
+      "N-type frameless build"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fixed Panel vs Foldable Panel",
+   "cards": [
+    {
+     "label": "Fixed rigid",
+     "text": "The HQST, STAR, Rvpozwer, JJN and Sanpyl are made to sit in place for a decade. They give the most watts and the longest life per dollar, but they need a bracket and a permanent mount."
+    },
+    {
+     "label": "Foldable",
+     "text": "The MESUVIDA 60W trades roughly forty percent of the wattage for being able to move. It charges phones directly and a small station through MC4, but it is a poor fit for a roof."
+    }
+   ],
+   "note": "Mount a rigid panel if the system will stay put; take the MESUVIDA if you move camp."
+  },
+  {
+   "subheading": "Basic Controller vs MPPT",
+   "table": {
+    "headers": [
+     "Controller path",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Basic controller, small battery",
+      "Sanpyl 100W kit",
+      "Bundled regulator is adequate"
+     ],
+     [
+      "MPPT controller, 12V battery",
+      "HQST 100W",
+      "12V class panel works with either type"
+     ],
+     [
+      "MPPT controller, 24V bank",
+      "STAR 100W",
+      "24V class needs MPPT to perform"
+     ],
+     [
+      "MPPT with lithium",
+      "Rvpozwer 100W",
+      "N-type cells pair well with MPPT"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For RV Rooftops Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A compact footprint, a stated wind rating and a sealant plan for the screw holes. Roof vibration and heat soak punish weak frames, so documentation counts."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The HQST 100W fits tight roofs and states both loads. Where space is generous, the STAR 100W frameless panel sheds dust best."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need more than about 300Wh a day or want to run a fridge. One 100W panel like the HQST only yields 200Wh to 300Wh in good sun, so a larger system is needed."
+    },
+    {
+     "label": "Save if",
+     "text": "You only run lights, a fan and phones. The JJN or Sanpyl will handle that with no added cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash the glass",
+   "interval": "Every 2 to 3 months",
+   "why": "Dust cuts output by a few percent and bird droppings can create hot spots. Use water and a soft sponge."
+  },
+  {
+   "task": "Check roof sealant",
+   "interval": "Each spring",
+   "why": "Sealant dries and cracks with heat cycles. A small gap can let water into the roof core."
+  },
+  {
+   "task": "Inspect MC4 connectors",
+   "interval": "Every 6 months",
+   "why": "Loose connectors arc and melt. Press them until they click and check for discoloration."
+  },
+  {
+   "task": "Verify controller settings",
+   "interval": "After any battery change",
+   "why": "A controller set for the wrong battery chemistry will under or overcharge. Confirm the profile when you swap chemistries."
+  },
+  {
+   "task": "Fold and store the portable panel",
+   "interval": "After each trip",
+   "why": "Fabric-backed panels crease and crack if stored under weight. Keep it in its pouch away from heat."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a 100W panel enough for an RV?",
+   "a": "For lights, a fan and phone charging, yes. A 100W panel yields roughly 200Wh to 300Wh in good sun, which will not run an air conditioner or a heavy fridge."
+  },
+  {
+   "q": "Do I need MPPT or is PWM fine?",
+   "a": "For one small 12V panel PWM is acceptable. MPPT gets roughly 20 to 30 percent more energy in cool or low light, which matters most on 24V panels like the STAR."
+  },
+  {
+   "q": "Frameless or framed, which lasts longer?",
+   "a": "A framed panel survives knocks better, while a frameless one sheds dust and snow. Both can last a decade if mounted carefully."
+  },
+  {
+   "q": "Can I link two of these panels together?",
+   "a": "Yes, in parallel for 12V panels or series for higher voltage. Check the controller's maximum input and use proper fuses on parallel runs."
+  },
+  {
+   "q": "Will a bigger cap buy me better solar panels?",
+   "a": "It buys more watts and N-type cells, not a fundamentally different panel. A higher cap adds wattage and features such as bifacial cells."
+  },
+  {
+   "q": "Do prices stay the same?",
+   "a": "No, they change often. The $75 cap reflects listing prices when this guide was updated."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41XfEtRGmNL._SL500_.jpg"
+}

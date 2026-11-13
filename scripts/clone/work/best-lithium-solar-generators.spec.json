@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-lithium-solar-generators",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best lithium solar generators",
+ "guideTitle": "Best Lithium Solar Generators (2026)",
+ "metaTitle": "Best Lithium Solar Generators (2026)",
+ "metaDescription": "Six lithium solar generators from carry-on sized packs to a 1kWh unit, compared on watt-hours, weight, air travel limits and honest runtime.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31alDcISAQL._SL500_.jpg",
+ "expertTake": "The BLUETTI Elite 100 V2 is the best pick for a lithium based unit that can run real appliances, with a 45 minute fast charge and a 10ms UPS. The EnginStar 296Wh is the value choice for a light outage kit. The two smallest units are fine for a phone and a lamp, but they are not solar generators in the way a larger unit is.",
+ "introParagraphs": [
+  "Lithium in a solar generator usually means the lighter, denser pack chemistry that runs phones and laptops, in contrast with the heavier iron phosphate packs aimed at daily cycling. For travel, hiking and occasional outage kits, that lightness is the whole point.",
+  "The catch is that small lithium packs behave very differently from large ones. A pack under about a hundred watt-hours can ride in a carry-on, while a bigger one cannot, and the inverter rating on the label tells you little about how long a night will last. This guide sorts picks by how they are really used."
+ ],
+ "products": [
+  {
+   "id": "B0F4253JB6",
+   "badge": "Best Overall",
+   "name": "BLUETTI Elite 100 V2 1024Wh 1800W with 100W panel",
+   "specs": [
+    "1024Wh",
+    "1800W / 3600W",
+    "45 min to 80%",
+    "10ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W, 3600W surge"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 80% in 45 minutes"
+    },
+    {
+     "label": "Weight",
+     "value": "25 lb, 17L"
+    },
+    {
+     "label": "Panel",
+     "value": "100W, full charge in about 7 hours"
+    }
+   ],
+   "description": "Bluetti's Elite 100 V2 takes a 1024Wh pack and gives it an 1800W inverter and a 3600W surge, which makes it the only unit here that can start a small window air conditioner or a drill press. The 25 lb body and a hidden handle make it one handed to carry, and a 10ms UPS means a desktop or router stays up through a blink.\n\nThe tradeoffs are the 100W bundled panel and the price. With a 100W panel real output is 60 to 80W, which Bluetti says fills the pack in about 7 hours of full sun under ideal conditions, which in practice means a couple of days. The unit sits at an upper tier among lithium picks and costs more than three of the small packs combined.\n\nIt is easy to own. The app lets you cap the charge level, update firmware and read live watts, and the fast charge of 0 to 80 percent in 45 minutes recovers well after an outage. Keep it dry, store it at around half charge and keep the vents clear. For anyone whose loads exceed a laptop and a lamp, it is the pick. Against the 296Wh EnginStar it holds more than three times the energy at roughly four times the weight, so the choice comes down to whether you need appliance power or only device charging, and whether the extra 18 lb matters to you.",
+   "bestFor": "Buyers who need real appliance power and a fast charge from a lithium unit.",
+   "pros": [
+    "1800W inverter with 3600W surge",
+    "0 to 80% charge in about 45 minutes",
+    "10ms UPS switchover",
+    "App control and charge limits"
+   ],
+   "cons": [
+    "100W panel refills slowly",
+    "Upper price tier",
+    "25 lb is heavy for a backpack"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0F4253JB6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31alDcISAQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FKMF2JSB",
+   "badge": "Best Value Outage Kit",
+   "name": "EnginStar 296Wh pure sine station, 300W AC",
+   "specs": [
+    "296Wh",
+    "300W AC",
+    "6.5 lb",
+    "Pure sine"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "296Wh (80000mAh)"
+    },
+    {
+     "label": "AC output",
+     "value": "300W, 2 outlets"
+    },
+    {
+     "label": "Weight",
+     "value": "6.5 lb"
+    },
+    {
+     "label": "Size",
+     "value": "9 x 5.5 x 7.5 in"
+    },
+    {
+     "label": "Wave",
+     "value": "Pure sine"
+    }
+   ],
+   "description": "EnginStar's 296Wh pack puts nearly 300Wh in a 6.5 lb box about the size of a lunch cooler. That capacity runs a 30W router for roughly eight hours or a CPAP for a night, and two pure sine outlets keep sensitive chargers happy. It is the pack to buy for an outage kit where the goal is a few devices alive for a night.\n\nWhat you give up is flexibility. The 300W inverter cannot run a kettle, hair dryer or microwave, and no panel is included, so solar use means buying a panel and matching its voltage and connector. The brand is small and the listing says little about cycle life, so assume a standard lithium-ion pack of 500 to 800 cycles.\n\nOwnership is simple: keep it half charged in storage, avoid hot cars and top it up quarterly. Compared with the GRECELL below it holds about 28 percent more energy for similar weight. It is a strong fit for the buyer who wants the most watt-hours for the lowest price.",
+   "bestFor": "Outage kits and CPAP backup where capacity per cost matters most.",
+   "pros": [
+    "296Wh in a 6.5 lb body",
+    "Two pure sine AC outlets",
+    "Compact 9 x 5.5 x 7.5 in shell",
+    "Low cost for its capacity"
+   ],
+   "cons": [
+    "300W cannot run heating loads",
+    "No panel bundled",
+    "Small brand with little service history"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/411K6EBF2ML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B286D2V7",
+   "badge": "Best USB-C Power",
+   "name": "GRECELL 330W 230.88Wh with 60W USB-C PD",
+   "specs": [
+    "230.88Wh",
+    "330W / 600W surge",
+    "60W PD",
+    "Pure sine"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "230.88Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "330W, 600W surge"
+    },
+    {
+     "label": "USB-C",
+     "value": "60W PD"
+    },
+    {
+     "label": "Wave",
+     "value": "Pure sine"
+    },
+    {
+     "label": "Targets",
+     "value": "CPAP, projectors, laptops"
+    }
+   ],
+   "description": "GRECELL's 330W unit prioritizes outputs. It can run a CPAP, a projector or a laptop, and the 60W USB-C PD port feeds most laptops directly, which saves the energy that would be lost through the AC inverter. The 600W surge handles a small fan or a mini fridge start.\n\nIts pack is smaller than the EnginStar's at about 231Wh, so a CPAP night is closer to a one night margin than two. The lithium cell chemistry and the maker's mention of quality cells suggest a careful design, but the listing does not publish cycle life or UPS performance. It also has no panel in the base listing.\n\nFor ownership, it is a light, simple box. Keep the vents clear and store at partial charge. It suits travelers and remote workers who value PD output, while the larger EnginStar suits those who value capacity first. A typical use is a day of video calls from a campsite or a park bench: a laptop at 45W plus a phone at 10W stretches 231Wh to around four hours of real work, which is plenty for a half day session before the wall or a panel brings it back.",
+   "bestFor": "Remote workers and CPAP users who want strong USB-C output and 330W AC.",
+   "pros": [
+    "60W USB-C PD for direct laptop charging",
+    "330W AC with 600W surge",
+    "Pure sine output",
+    "Light compact body"
+   ],
+   "cons": [
+    "230.88Wh is a modest tank",
+    "No panel bundled",
+    "No published cycle life"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0B286D2V7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41x6adFhCqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CJHNCZ8T",
+   "badge": "Best Camping Kit",
+   "name": "MARBERO M823 300W 237Wh camping station",
+   "specs": [
+    "237Wh",
+    "300W / 375W peak",
+    "2 AC outlets",
+    "Pure sine"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "237Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "300W, 375W peak"
+    },
+    {
+     "label": "Series",
+     "value": "M82 series, latest 300W model"
+    },
+    {
+     "label": "Outlets",
+     "value": "2 AC, DC, USB"
+    },
+    {
+     "label": "Wave",
+     "value": "Pure sine"
+    }
+   ],
+   "description": "MARBERO's M823 is the latest 300W model of its M82 series, built for camping with two AC outlets plus DC and USB ports. The 237Wh pack runs lights, phone charging and a small fan through a night, and the pure sine output suits camera chargers and laptops.\n\nThe pack is mid sized and its peak rating of 375W is modest, so surges beyond a small fan are not covered. The listing lists no panel in this variant, and the brand has little documented service history. Compared with the EnginStar it holds 20 percent less energy, but the M82 series has a record of owner use as a camping box.\n\nOwnership is routine: switch the inverter off when idle, avoid heat, and top up every few months. MARBERO also sells a bundled solar kit of the same series. This variant suits campers who want a dependable camping box and will add panels separately.",
+   "bestFor": "Campers who want a simple camping box with two AC outlets.",
+   "pros": [
+    "Two AC outlets plus DC and USB",
+    "Pure sine output",
+    "237Wh handles a night of light loads",
+    "Part of an established M82 series"
+   ],
+   "cons": [
+    "375W peak is modest",
+    "No panel in this variant",
+    "Smaller pack than the EnginStar"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CJHNCZ8T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ZtLxeqjXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09YLWLFLF",
+   "badge": "Best Carry-On Size",
+   "name": "HOWEASY 88Wh 120W station, 2.3 lb",
+   "specs": [
+    "88Wh",
+    "120W / 240W peak",
+    "2.3 lb",
+    "8 ports"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "88Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "120W, 240W peak"
+    },
+    {
+     "label": "Weight",
+     "value": "2.3 lb"
+    },
+    {
+     "label": "Size",
+     "value": "6.6 x 4 x 3 in"
+    },
+    {
+     "label": "Ports",
+     "value": "8 including 2 AC"
+    }
+   ],
+   "description": "HOWEASY's 88Wh pack is under the 100Wh carry-on limit most airlines apply, so it can ride in cabin baggage where bigger stations cannot. At 2.3 lb and 6.6 x 4 x 3 inches it is closer to a power bank with an AC outlet than a generator, and it has eight ports including two 120V sockets.\n\nIts power is limited. 120W continuous and 240W peak run a laptop, a phone and a small fan, nothing more, and 88Wh is about one laptop charge plus some. It is a travel convenience, not a solar generator in the sense of the bigger units, though it can accept a small panel.\n\nOwnership is light: store at half charge, avoid heat and do not leave it in a checked bag, since airlines restrict spare lithium packs. This one is for a traveler who wants AC outlets on a flight day and nothing more.",
+   "bestFor": "Flyers and commuters who want AC and USB ports in a carry-on size.",
+   "pros": [
+    "88Wh is under the 100Wh carry-on limit",
+    "2.3 lb body",
+    "Eight ports including two AC outlets",
+    "Low cost"
+   ],
+   "cons": [
+    "120W limit runs only light loads",
+    "Only one laptop charge of energy",
+    "Small solar capability"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B09YLWLFLF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41JkdSPMuML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CHVZBRK4",
+   "badge": "Best Budget Pocket Pack",
+   "name": "ENOFLO 97.68Wh station with 120W peak AC socket",
+   "specs": [
+    "97.68Wh",
+    "120W peak AC",
+    "26,400mAh",
+    "6 ports"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "97.68Wh (26,400mAh)"
+    },
+    {
+     "label": "AC output",
+     "value": "1 socket, 120W peak"
+    },
+    {
+     "label": "Ports",
+     "value": "6 including USB-C"
+    },
+    {
+     "label": "Class",
+     "value": "Pocket pack"
+    },
+    {
+     "label": "Air travel",
+     "value": "Under the 100Wh limit"
+    }
+   ],
+   "description": "ENOFLO's 97.68Wh pack is as close to the 100Wh airline limit as a station gets, so you can take a bigger battery on a plane than many alternatives. It has a single 110V AC socket with a 120W peak, a USB-C port and four other outputs, and it fits a day pack.\n\nIts role is narrow. One socket and 120W peak mean one laptop or a few small devices, and the pack empties fast under any real load. As a solar generator it is a stretch: a 20W panel would barely keep up with a phone. It is also a pack with a small brand and little documentation.\n\nFor ownership, treat it as a power bank: keep it dry, charge it before trips and do not let it sit empty. It is the choice for buyers who only need AC for a laptop or a camera on a trip and want the lowest outlay. Pack it in carry-on baggage rather than checked, keep it switched off in transit and carry the charging cable with it, because airline staff may ask to see the Wh rating on the label.",
+   "bestFor": "Travelers who need a single AC socket in a pocketable pack.",
+   "pros": [
+    "97.68Wh stays under the 100Wh carry-on limit",
+    "Six output ports",
+    "Pocketable size",
+    "Lowest cost in the guide"
+   ],
+   "cons": [
+    "Single AC socket with 120W peak",
+    "Tiny energy reserve",
+    "Small brand with limited detail"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CHVZBRK4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413KGxlmZ3L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Know the 100Wh airline limit",
+   "explanation": "Most airlines allow spare lithium packs up to 100Wh in cabin baggage, and larger ones up to 160Wh need approval. The HOWEASY at 88Wh and ENOFLO at 97.68Wh fit under 100Wh, while the 237Wh, 296Wh and 1024Wh units cannot fly. Check your airline's current rules."
+  },
+  {
+   "criterion": "Cycle life of lithium-ion",
+   "explanation": "Standard lithium-ion packs in units like the EnginStar and GRECELL are typically rated 500 to 800 cycles, against 2,000 or more for LiFePO4. For occasional use that is plenty, but a weekly camper would see capacity fall within three years. Match the chemistry to frequency."
+  },
+  {
+   "criterion": "Watt-hours decide the night",
+   "explanation": "A 296Wh pack runs a 30W router for about eight hours, a 230Wh pack about six and an 88Wh pack under three. The inverter wattage only matters if you run heavy loads. Always start from watt-hours."
+  },
+  {
+   "criterion": "USB-C power delivery",
+   "explanation": "Feeding a laptop through the AC outlet loses 10 to 20 percent as heat. The GRECELL's 60W PD port can power a typical ultrabook directly. Match the PD wattage to your charger, since a 65W charger on a 60W port will charge slowly."
+  },
+  {
+   "criterion": "Panel compatibility",
+   "explanation": "Small units accept limited solar input, often 12 to 24V barrel connectors at 60 to 100W. The Elite 100 V2 comes with a 100W panel. For the others, check the input voltage window and connector before buying a panel."
+  },
+  {
+   "criterion": "Weight and portability",
+   "explanation": "The EnginStar is 6.5 lb for 296Wh, the Elite 100 V2 25 lb for 1024Wh, and the HOWEASY 2.3 lb for 88Wh. Energy per pound is similar, so choose by how much energy you actually need to carry."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "100Wh limit",
+   "meaning": "The cabin baggage threshold for spare lithium batteries on most airlines.",
+   "watchFor": "HOWEASY 88Wh and ENOFLO 97.68Wh fall under it."
+  },
+  {
+   "spec": "mAh vs Wh",
+   "meaning": "Milliamp-hours at 3.7V convert to watt-hours by multiplying by 0.0037.",
+   "watchFor": "ENOFLO lists 26,400mAh, which is 97.68Wh."
+  },
+  {
+   "spec": "120W peak",
+   "meaning": "A brief AC surge on the smallest units, not a continuous rating.",
+   "watchFor": "ENOFLO lists 120W peak on a single socket."
+  },
+  {
+   "spec": "10ms UPS",
+   "meaning": "Switchover time to battery during a power failure.",
+   "watchFor": "Only the Elite 100 V2 lists it here."
+  },
+  {
+   "spec": "1800W",
+   "meaning": "The Elite 100 V2's continuous inverter output.",
+   "watchFor": "It is six times the output of the 300W units."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Energy and runtime",
+   "description": "We compared watt-hours and computed runtime at 30W and 60W loads, from 88Wh on the HOWEASY to 1024Wh on the Elite 100 V2."
+  },
+  {
+   "title": "Air travel eligibility",
+   "description": "We checked pack sizes against the 100Wh and 160Wh carry-on thresholds. Only the HOWEASY and ENOFLO qualify for cabin use without approval."
+  },
+  {
+   "title": "Chemistry and life",
+   "description": "We noted that the small packs are standard lithium-ion with a shorter cycle life than LiFePO4, treated the Elite 100 V2 as the heavy duty exception, and weighed occasional use against heavy cycling."
+  },
+  {
+   "title": "Ports and output",
+   "description": "We compared AC wattage, USB-C PD and outlet count. The Elite 100 V2's 1800W and the GRECELL's 60W PD stand out."
+  },
+  {
+   "title": "Support and value",
+   "description": "We weighed brand service reach, solar bundles and cost per watt-hour. Bluetti leads support, while the small brands score on price."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Trip Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Flight with a laptop and phone",
+      "HOWEASY 88Wh",
+      "Under the 100Wh cabin limit"
+     ],
+     [
+      "Flight with a camera and phone",
+      "ENOFLO 97.68Wh",
+      "Largest pack that still flies"
+     ],
+     [
+      "Weekend camping, light loads",
+      "MARBERO M823",
+      "Two AC outlets and 237Wh"
+     ],
+     [
+      "Outage kit with CPAP",
+      "EnginStar 296Wh",
+      "Largest small pack"
+     ],
+     [
+      "Appliance backup",
+      "BLUETTI Elite 100 V2",
+      "1800W and 1024Wh"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "ENOFLO 97.68Wh",
+      "Pocket pack for devices"
+     ],
+     [
+      "Lower",
+      "HOWEASY 88Wh",
+      "Light carry-on kit"
+     ],
+     [
+      "Lower mid",
+      "EnginStar 296Wh",
+      "Most Wh per cost"
+     ],
+     [
+      "Mid",
+      "GRECELL 330W",
+      "USB-C PD and surge"
+     ],
+     [
+      "Highest",
+      "BLUETTI Elite 100 V2",
+      "Appliance power and UPS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Flyable vs Ground Only",
+   "cards": [
+    {
+     "label": "Flyable packs",
+     "text": "The HOWEASY at 88Wh and ENOFLO at 97.68Wh are under the common 100Wh cabin limit. They suit travelers who need AC for a laptop on arrival, but they hold only a charge or two."
+    },
+    {
+     "label": "Ground only packs",
+     "text": "The EnginStar, GRECELL, MARBERO and Elite 100 V2 exceed 160Wh and cannot fly in the cabin. They suit road trips, camping and home backup, with far more energy."
+    }
+   ],
+   "note": "Pick a flyable pack only if you must fly with it, otherwise buy the energy."
+  },
+  {
+   "subheading": "Solar Readiness",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Panel in the box",
+      "BLUETTI Elite 100 V2",
+      "100W panel bundled"
+     ],
+     [
+      "Panel you choose",
+      "EnginStar 296Wh",
+      "Large pack, bring your own panel"
+     ],
+     [
+      "Small panel top up",
+      "MARBERO M823",
+      "Camping series with solar options"
+     ],
+     [
+      "Minimal solar",
+      "ENOFLO 97.68Wh",
+      "Pocket pack for small panels"
+     ],
+     [
+      "USB-C solar input",
+      "GRECELL 330W",
+      "PD charging path"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Medical Device Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Pure sine output, a pack sized to the device draw and clear instructions from the device maker. A CPAP at 30 to 40W with no humidifier runs about six hours on a 230Wh pack."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The EnginStar 296Wh and GRECELL 330W provide pure sine output at CPAP scale. Only the device maker can approve a power source for medical use."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want appliance power, a fast charge and support. The BLUETTI Elite 100 V2 gives 1800W and 10ms UPS at an upper tier."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need device power. The EnginStar and HOWEASY give a night of devices at low cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check charge level",
+   "interval": "Every 3 months",
+   "why": "Lithium-ion packs self discharge. Keep them at 50 to 60 percent for storage."
+  },
+  {
+   "task": "Keep out of heat",
+   "interval": "Always",
+   "why": "Heat above 40 C ages lithium cells quickly. Avoid hot cars, sunny window sills and enclosed gear boxes in summer, and let a pack that has been in the cold come up to room temperature before you charge it."
+  },
+  {
+   "task": "Inspect cables and sockets",
+   "interval": "Every 6 months",
+   "why": "Loose barrel plugs overheat and limit charging."
+  },
+  {
+   "task": "Switch the inverter off",
+   "interval": "After every use",
+   "why": "The AC inverter draws standby power even with nothing plugged in."
+  },
+  {
+   "task": "Run a full cycle",
+   "interval": "Once a year",
+   "why": "Reveals capacity loss and recalibrates the gauge."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I take a solar generator on a plane?",
+   "a": "Only if it is under about 100Wh in cabin baggage, or 160Wh with airline approval. Units like the HOWEASY at 88Wh and ENOFLO at 97.68Wh qualify. Larger packs cannot fly in the cabin."
+  },
+  {
+   "q": "Is lithium-ion worse than LiFePO4?",
+   "a": "It is lighter and cheaper but rated for fewer cycles, usually 500 to 800 against 2,000 or more. For occasional use that difference may never matter."
+  },
+  {
+   "q": "How long will 296Wh run a CPAP?",
+   "a": "A CPAP without humidifier draws 30 to 40W, so about six to seven hours after losses. Add a humidifier and the time drops to about three."
+  },
+  {
+   "q": "Does the 120W rating mean it can run a hair dryer?",
+   "a": "No. A hair dryer draws 1,000W or more. A 120W unit runs a laptop, phone and small fan."
+  },
+  {
+   "q": "Can small lithium units use solar panels?",
+   "a": "Yes within the input limit, often 60 to 100W at 12 to 24V. Check the connector type and voltage before buying a panel."
+  },
+  {
+   "q": "Are all lithium stations the same?",
+   "a": "No. Cell grade, battery management and inverter quality vary. Look for pure sine output and listed protections such as over current, over temperature and short circuit cutoffs, and prefer sellers that publish a warranty length and a support contact over those that publish only a capacity number."
+  }
+ ],
+ "relatedGuides": []
+}

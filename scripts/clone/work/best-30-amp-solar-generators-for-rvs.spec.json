@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-30-amp-solar-generators-for-rvs",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best 30 amp solar generators for rvs",
+ "guideTitle": "Best 30 Amp Solar Generators for RVs (2026)",
+ "metaTitle": "Best 30 Amp Solar Generators for RVs (2026)",
+ "metaDescription": "Six solar generators matched to a 30 amp RV inlet: TT-30 outlets, usable watts, alternator charging and what a travel trailer can really run.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41YF-n2JswL._SL500_.jpg",
+ "expertTake": "The BLUETTI Elite 300 is the pick because it ships with a TT-30 outlet, a 12V/30A DC port and an alternator charging path in a compact body. The DJI Power 2000 is the value route for a smaller trailer. Skip all of these as a way to run a roof air conditioner all night; none of them carries enough energy for that.",
+ "introParagraphs": [
+  "The household style inlet on a travel trailer can carry a lot in theory, but most trailers never draw anywhere near its limit. A solar generator wired to that inlet replaces the shore power cord, silently feeding the converter, the fridge, the water pump and the lights from a battery that also charges from panels and the tow vehicle.",
+  "The practical question is whether the machine has a native RV style outlet, how it recharges while you drive, and whether its pack can carry the loads you actually switch on. The plug shape, alternator charging and honest watt-hour math matter more here than the headline inverter number."
+ ],
+ "products": [
+  {
+   "id": "B0GKSKGKLX",
+   "badge": "Best Overall",
+   "name": "BLUETTI Elite 300 with Charger 2 alternator charger, 3014Wh",
+   "specs": [
+    "3014Wh LFP",
+    "2400W / 4800W",
+    "TT-30 outlet",
+    "1200W alternator"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3014.4Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "2400W, 4800W surge"
+    },
+    {
+     "label": "RV connection",
+     "value": "TT-30 outlet, 12V/30A DC"
+    },
+    {
+     "label": "Alternator charging",
+     "value": "1200W Charger 2"
+    },
+    {
+     "label": "Footprint",
+     "value": "59% smaller than traditional units"
+    }
+   ],
+   "description": "Bluetti designed the Elite 300 around the RV, and it shows in the connectors. A TT-30 outlet takes a standard travel trailer cord directly, and a separate 12V/30A DC output feeds 12V systems without running through the inverter and losing energy. The listing's bundled Charger 2 pulls up to 1200W from the tow vehicle's alternator, which the maker says is up to 13 times faster than a 12V socket, so a half day of driving can refill a meaningful part of the 3014Wh pack.\n\nThe weak point is that its 2400W inverter does not use the full 3,600W a 30 amp inlet could carry. A roof air conditioner that draws 1,300 to 1,800W running will start, but a second big load such as a microwave will push the unit near its limit. At 3014Wh the pack covers about 2,500Wh of AC use, which is perhaps eight hours of A/C duty cycle or a full day of fridge, lights and electronics.\n\nBluetti's app lets you set charging limits, which helps if the unit stays plugged into shore power at a campground for weeks. Keep it strapped on a level shelf, check the alternator charger's cable gauge and fuse before long drives, and store at a partial charge in winter. It suits full timers and weekenders who want one compact box that connects like shore power.",
+   "bestFor": "Travel trailer and van owners who want a native TT-30 outlet and alternator charging.",
+   "pros": [
+    "TT-30 outlet plugs a 30 amp cord directly",
+    "12V/30A DC output skips inverter losses",
+    "1200W alternator charger refills while driving",
+    "Compact for 3014Wh of LFP"
+   ],
+   "cons": [
+    "2400W inverter caps heavy simultaneous loads",
+    "Alternator charger must be fused and wired correctly",
+    "High price tier"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GKSKGKLX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YF-n2JswL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FJ1YTBKR",
+   "badge": "Best Expandable System",
+   "name": "BLUETTI Apex 300 with B300K battery, TT-30 cable, 5530Wh",
+   "specs": [
+    "5529.6Wh LFP",
+    "3840W AC",
+    "Parallel 2 to 3",
+    "TT-30 cable"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "5529.6Wh with B300K battery"
+    },
+    {
+     "label": "AC output",
+     "value": "3840W"
+    },
+    {
+     "label": "Scaling",
+     "value": "Parallel 2 to 3 units, 5.5 to 8.3kWh"
+    },
+    {
+     "label": "RV connection",
+     "value": "TT-30 30A cable included"
+    },
+    {
+     "label": "Generator mode",
+     "value": "Charges by day, switches to battery at night"
+    }
+   ],
+   "description": "The Apex 300 is the only 30 amp pick that can actually use the whole 3,600W an inlet allows, because its inverter is rated at 3840W. This listing includes the B300K battery and a TT-30 cable, bringing storage to 5529.6Wh, enough to run a fridge, converter, lights and a roof air conditioner on a cycling basis through a long evening. Bluetti says you can parallel two or three units for 5.5 to 8.3kWh, so the system grows with the rig.\n\nThat capability costs money and weight. This is the most expensive and heaviest solution in the guide, and a bolted down installation is a better idea than a loose box in a closet. It is also more than a weekend camper needs. Compared with the Elite 300, you gain 700 to 900W of output and nearly double the energy, but you give up the compact carry.\n\nOne feature suits full timers: the generator mode lets a gas or inverter generator charge the pack during the day and then switch to silent battery power at night, with zero noise or exhaust. Check the lug and cable fusing, strap the units on a rated shelf and keep the vents clear. Choose it for a big fifth wheel or a trailer with a heavy air conditioner.",
+   "bestFor": "Large trailers and full timers who want to run a roof air conditioner on battery.",
+   "pros": [
+    "3840W inverter covers the full 30 amp inlet",
+    "5529.6Wh with the B300K battery",
+    "Parallel 2 to 3 units for 8.3kWh",
+    "Silent generator charge and battery switchover"
+   ],
+   "cons": [
+    "Heaviest and costliest option here",
+    "Needs a fixed mount and careful wiring",
+    "More capacity than weekend use requires"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJ1YTBKR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41T4iOjuSLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F47FKBQ4",
+   "badge": "Best Value Capacity",
+   "name": "ABOK Ark3600 3840Wh with 3x200W panels, TT-30 port",
+   "specs": [
+    "3840Wh LiFePO4",
+    "3600W / 7200W",
+    "TT-30 port",
+    "3x200W panels"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3840Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "3600W rated, 7200W peak"
+    },
+    {
+     "label": "RV connection",
+     "value": "TT-30 outlet"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 11520Wh"
+    },
+    {
+     "label": "Charging",
+     "value": "2 hour fast charge"
+    }
+   ],
+   "description": "ABOK's Ark3600 is the budget route to the full 3,600W: a 3600W inverter with a 7200W peak matches the capacity of a 30 amp inlet, and a TT-30 outlet is built in. The 3840Wh pack is the second largest in the guide, and the listing bundles three 200W panels, so you have 600W of solar rated, about 360 to 480W in good conditions.\n\nThe weakness is the brand's track record. It is a newer name with a long feature list and a thin service history, so a failed warranty claim could be harder than with Bluetti or Anker. The bundled panels are separate rigid pieces, so storing them in a travel trailer needs thought. Different listings pair the same station with 200W, 400W or alternator options, and those are the same machine, not separate models.\n\nMaintenance is minimal if you mount it properly. Strap it to a shelf, route the TT-30 and any alternator leads away from heat, and check connector tightness each season. The pack can expand to 11.5kWh, which helps if you later add loads. Take this one if you want the most capacity and a full 30 amp match for the lowest outlay.",
+   "bestFor": "Budget minded RV owners who want a full 3600W TT-30 unit with panels included.",
+   "pros": [
+    "3600W inverter matches a 30 amp inlet",
+    "3840Wh LiFePO4 pack",
+    "TT-30 outlet built in",
+    "Expandable to 11.5kWh"
+   ],
+   "cons": [
+    "Newer brand with limited service history",
+    "Rigid panels are bulky to store",
+    "Heavy and needs a fixed mount"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F47FKBQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FR8DZ98L",
+   "badge": "Best Proven Platform",
+   "name": "BLUETTI AC200PL 2304Wh with 350W solar panel",
+   "specs": [
+    "2304Wh LiFePO4",
+    "2400W",
+    "8448Wh expandable",
+    "350W panel"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2304Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2400W, 4 outlets"
+    },
+    {
+     "label": "AC input",
+     "value": "up to 2400W, 0 to 80% in 60 min"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 8448Wh"
+    },
+    {
+     "label": "Panel",
+     "value": "350W foldable"
+    }
+   ],
+   "description": "The AC200PL is Bluetti's long running RV and cabin staple. Its 2304Wh pack is smaller than the Elite 300, but the platform is proven, the app is mature and the 2400W AC input reaches 80 percent in about an hour, so a short campground stop with shore power refills it fast. The bundled 350W foldable panel is the largest single panel in the group, giving about 210 to 280W real output.\n\nIt does not include a TT-30 outlet, so you need an adapter to feed a 30 amp inlet, and its four 120V outlets are not the same as a single hard wired inlet. The 2400W inverter limit is the same as the Elite 300, but the pack runs a trailer for a shorter time. Expandable up to 8448Wh, it allows a growth path.\n\nIn ownership terms, it is heavy for a portable unit and benefits from a fixed shelf. The cooling fans collect dust over a season, so blow them out, and keep the unit out of direct sun inside a van. It is a safe choice for someone who values a long record and a deep owner community over the newest design.",
+   "bestFor": "Campers wanting a proven unit with a big 350W panel and room to expand.",
+   "pros": [
+    "350W panel bundled",
+    "2400W AC input charges to 80% in about an hour",
+    "Expandable to 8448Wh",
+    "Mature app and owner community"
+   ],
+   "cons": [
+    "No native TT-30 outlet",
+    "Smaller pack than newer units",
+    "Heavy for a portable"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FR8DZ98L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ZqpeGyApL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F8BC2LFS",
+   "badge": "Best Low Idle Draw",
+   "name": "Anker SOLIX F3000 3072Wh 6000W LiFePO4",
+   "specs": [
+    "3072Wh LiFePO4",
+    "6000W peak",
+    "Low idle draw",
+    "Expandable"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3072Wh LiFePO4"
+    },
+    {
+     "label": "Output",
+     "value": "6000W class, 120V and 240V"
+    },
+    {
+     "label": "Idle draw",
+     "value": "Ultra low consumption"
+    },
+    {
+     "label": "Expansion",
+     "value": "Expandable battery"
+    },
+    {
+     "label": "Backup",
+     "value": "Outage switchover support"
+    }
+   ],
+   "description": "Anker's SOLIX F3000 targets owners who leave a station connected all season. The listing highlights an ultra low idle consumption, which matters in an RV because a unit that drains a few watts constantly can lose 100Wh a day doing nothing. It has a 3072Wh LiFePO4 pack and a 6000W class rating, so a 30 amp inlet is easily covered.\n\nIts drawback is that this is a home backup oriented design rather than an RV one. It does not come with the TT-30 outlet of the Elite 300 or ABOK, so you will use an adapter or a hardwired inlet. At this weight it needs a fixed shelf and two people to place. The big 6000W label is also well above what a 30 amp inlet can carry, so the headroom is wasted.\n\nOwnership is dependable: Anker has a large service network and a clear warranty process. Update the firmware through the app, store at around half charge in the off season and keep the vents clear. Choose it when your priority is low standby loss and strong support, and you can live with adapters.",
+   "bestFor": "Owners who leave the unit connected for months and want low idle drain.",
+   "pros": [
+    "Ultra low idle power consumption",
+    "3072Wh LiFePO4 pack",
+    "Large brand service network",
+    "6000W class headroom"
+   ],
+   "cons": [
+    "No native TT-30 outlet",
+    "Inverter headroom exceeds what 30 amp can use",
+    "Heavy and needs a fixed mount"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0F8BC2LFS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31twHXJikJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FBRD1B8C",
+   "badge": "Best Fast Recharge",
+   "name": "DJI Power 2000 2048Wh 3000W LFP",
+   "specs": [
+    "2048Wh LFP",
+    "3000W",
+    "80% in 55 min",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2048Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3000W stable"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 80% in 55 minutes"
+    },
+    {
+     "label": "Cells",
+     "value": "LFP"
+    },
+    {
+     "label": "Target loads",
+     "value": "Kettles, cookers, projectors"
+    }
+   ],
+   "description": "DJI's Power 2000 is the smallest pack in the guide with a high output: 3000W from 2048Wh. That combination handles a kettle or a cooker for a short burst, something the 2400W Bluetti units cannot do reliably, and a fast 0 to 80 percent charge in 55 minutes makes it useful when you stop for a meal and plug in. The LFP chemistry is a good match for a vehicle.\n\nThe limit is energy. At 2048Wh, the pack gives about 1,700Wh usable, so an air conditioner running a few hours exhausts it. It lacks a TT-30 outlet and an RV focused ecosystem, so it suits a small trailer or van that uses it mainly for the kitchen and electronics rather than whole rig power.\n\nUpkeep is simple. Strap it, keep the vents clear and avoid charging below freezing. DJI offers app control and a track record with its power stations. Treat it as the value pick for smaller rigs where fast charging and cooking loads matter more than running a roof unit.",
+   "bestFor": "Small trailers and vans that want 3000W bursts and fast charging.",
+   "pros": [
+    "3000W output handles kettles and cookers",
+    "0 to 80% in about 55 minutes",
+    "LFP cells",
+    "Compact for the power"
+   ],
+   "cons": [
+    "2048Wh is small for a roof air conditioner",
+    "No TT-30 outlet",
+    "Fewer RV specific accessories"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FBRD1B8C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31xyTUiOmSL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Match the TT-30 outlet",
+   "explanation": "A 30 amp RV cord uses a TT-30 plug, and the Elite 300 and ABOK Ark3600 provide that outlet directly. The Apex 300 ships with a TT-30 cable, but the DJI Power 2000, AC200PL and Anker F3000 need an adapter. Adapters are fine for light loads, but a native outlet avoids loose connections and heat."
+  },
+  {
+   "criterion": "Inverter versus 3,600W",
+   "explanation": "A 30 amp, 120V inlet can carry 3,600W. The ABOK offers 3600W, the Apex 300 3840W, but the Elite 300 and AC200PL only 2400W. A roof air conditioner uses 1,300 to 1,800W running with a start surge of up to 3 times, so a 2400W inverter works but has little margin for a microwave at the same time."
+  },
+  {
+   "criterion": "Watt-hours for air conditioning",
+   "explanation": "A roof unit cycles on and off, averaging about 600 to 900W in moderate heat. The 3014Wh Elite 300 gives about 2,500Wh usable, around three hours of cycling A/C. The Apex 300 with B300K gives about 4,700Wh. None replaces shore power for overnight cooling in hot weather."
+  },
+  {
+   "criterion": "Alternator charging",
+   "explanation": "The Elite 300's Charger 2 pulls up to 1200W from the tow vehicle, which refills a few hundred watt-hours per hour of driving. Without it, a 12V socket delivers around 100W. Check wire gauge, fusing and whether your alternator can supply that current without overheating."
+  },
+  {
+   "criterion": "Solar and panel storage",
+   "explanation": "The AC200PL bundles a 350W foldable panel and the ABOK three 200W rigid panels. Roof panels need wiring and a charge controller path, while foldable panels need storage space. Real output is 60 to 80 percent of the label, so plan for about 400W from 600W rated."
+  },
+  {
+   "criterion": "Weight and mounting",
+   "explanation": "Packs of 3kWh weigh as much as a bag of concrete. A loose unit in a trailer is a hazard in a hard stop. Plan a strapped or bolted shelf and consider tongue weight when placing it."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "TT-30",
+   "meaning": "The NEMA connector used by 30 amp RV inlets, 120V and up to 3,600W.",
+   "watchFor": "Native on the Elite 300 and ABOK, adapter needed on others."
+  },
+  {
+   "spec": "12V/30A DC",
+   "meaning": "A direct 12V output that powers RV systems without the inverter, saving about 10 to 15 percent in conversion losses.",
+   "watchFor": "Listed on the Elite 300."
+  },
+  {
+   "spec": "3840W",
+   "meaning": "The Apex 300 continuous rating, above the 3,600W limit of a 30 amp inlet.",
+   "watchFor": "The 30 amp breaker caps use, not the inverter."
+  },
+  {
+   "spec": "Alternator charger 1200W",
+   "meaning": "A DC to DC charger that feeds the pack while the engine runs.",
+   "watchFor": "Needs proper fusing and cable sizing."
+  },
+  {
+   "spec": "Parallel",
+   "meaning": "Linking units to increase capacity and output.",
+   "watchFor": "The Apex 300 supports 2 to 3 units for 5.5 to 8.3kWh."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "RV connectivity",
+   "description": "We checked whether each unit has a TT-30 outlet, 12V/30A DC or alternator charging. The Elite 300 and ABOK have native TT-30, and the Apex 300 includes a cable."
+  },
+  {
+   "title": "Output versus 30 amp limit",
+   "description": "We compared each inverter against the 3,600W an inlet can carry. The Apex 300 at 3840W and ABOK at 3600W cover it, the Elite 300 and AC200PL at 2400W do not."
+  },
+  {
+   "title": "Energy and runtime",
+   "description": "We applied 85 percent efficiency and computed A/C cycling runtime. The 3014Wh Elite 300 gives about three hours of cycling, the Apex 300 with B300K about five."
+  },
+  {
+   "title": "Charging options",
+   "description": "We compared alternator, solar and wall charging, including the 1200W Charger 2 and the AC200PL's 60 minute 80 percent charge."
+  },
+  {
+   "title": "Support and weight",
+   "description": "We weighed brand service reach and how each pack mounts. Bluetti and Anker rate higher for support, and ABOK and DJI are newer in this space."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By RV Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Weekend travel trailer, fridge and lights",
+      "DJI Power 2000",
+      "Compact, fast charge, 3000W"
+     ],
+     [
+      "Camper van or Class B",
+      "BLUETTI Elite 300",
+      "Compact, TT-30 and alternator charging"
+     ],
+     [
+      "Large fifth wheel with roof A/C",
+      "BLUETTI Apex 300",
+      "3840W and 5.5kWh with B300K"
+     ],
+     [
+      "Budget full 3600W inlet match",
+      "ABOK Ark3600",
+      "TT-30 and 3840Wh"
+     ],
+     [
+      "Home plus RV dual use",
+      "Anker SOLIX F3000",
+      "Low idle and strong support"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in this guide",
+      "DJI Power 2000",
+      "Smaller pack, fast charge"
+     ],
+     [
+      "Lower mid",
+      "ABOK Ark3600",
+      "Largest capacity per cost"
+     ],
+     [
+      "Mid",
+      "BLUETTI AC200PL",
+      "Proven platform with 350W panel"
+     ],
+     [
+      "Upper mid",
+      "BLUETTI Elite 300",
+      "RV features and compact size"
+     ],
+     [
+      "Highest",
+      "BLUETTI Apex 300",
+      "System with 8.3kWh path"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Native TT-30 vs Adapter",
+   "cards": [
+    {
+     "label": "Native TT-30",
+     "text": "The Elite 300 and ABOK Ark3600 take your trailer's existing cord with no adapter, reducing loose connections and heat. The Apex 300 includes a TT-30 cable."
+    },
+    {
+     "label": "Adapter",
+     "text": "The AC200PL, Anker F3000 and DJI Power 2000 use standard outlets and need an adapter or a hardwired inlet. Adapters work for light loads but need careful strain relief."
+    }
+   ],
+   "note": "Choose native TT-30 for plug and play, an adapter only if you want other strengths."
+  },
+  {
+   "subheading": "Charging While Traveling",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Refill while driving",
+      "BLUETTI Elite 300",
+      "1200W Charger 2 alternator charging"
+     ],
+     [
+      "Refill fast at a stop",
+      "DJI Power 2000",
+      "0 to 80% in 55 minutes"
+     ],
+     [
+      "Large solar array",
+      "ABOK Ark3600",
+      "Panels bundled and expandable"
+     ],
+     [
+      "Generator and battery hybrid",
+      "BLUETTI Apex 300",
+      "Generator charges by day, battery at night"
+     ],
+     [
+      "Foldable panel at camp",
+      "BLUETTI AC200PL",
+      "350W foldable panel"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Roof Air Conditioner Support Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A surge rating well above the A/C's running watts and enough energy for cycling. A 13,500 BTU unit draws about 1,500W running and may need 3 times that to start. Soft starters help."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BLUETTI Apex 300 and ABOK Ark3600 have the inverter and energy to cycle an A/C. The Elite 300 works with a soft starter but has less margin."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You camp off grid in hot weather or live full time. The BLUETTI Apex 300 and Elite 300 bring TT-30 outlets, alternator charging and support."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need fridge, lights and a few devices. The DJI Power 2000 and ABOK Ark3600 give capacity or fast charge at lower tiers."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check the TT-30 plug and cord",
+   "interval": "Before each season",
+   "why": "Heavy current through a worn plug overheats. Inspect blades for discoloration."
+  },
+  {
+   "task": "Verify alternator charger fuse and cable",
+   "interval": "Every 6 months",
+   "why": "A loose lug heats under 1200W of current. Re-torque to the maker's value."
+  },
+  {
+   "task": "Re-strap and check mounts",
+   "interval": "Every trip",
+   "why": "Vibration loosens straps, and a 3kWh pack is heavy in a stop."
+  },
+  {
+   "task": "Storage charge",
+   "interval": "Monthly in the off season",
+   "why": "Leave packs near 50 to 60 percent and check for drift."
+  },
+  {
+   "task": "Clean fan vents",
+   "interval": "Every 3 months",
+   "why": "Road dust restricts airflow and raises inverter temperature."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a solar generator run my RV air conditioner?",
+   "a": "Yes for short stretches. A 13,500 BTU unit averages 600 to 900W cycling, and a 3kWh pack gives about three hours. An overnight run needs 5kWh or more, and a soft start module reduces the startup surge."
+  },
+  {
+   "q": "What is the difference between TT-30 and a standard outlet?",
+   "a": "A TT-30 is the 30 amp RV plug, 120V up to 3,600W. A standard 5-15 household outlet is limited to 1,800W. Native TT-30 outlets avoid adapters and loose connections."
+  },
+  {
+   "q": "Do I need a 3,600W inverter for a 30 amp RV?",
+   "a": "Not always. Most travel trailers draw 1,500 to 2,500W at once. A 2400W inverter works if you avoid running A/C and a microwave together."
+  },
+  {
+   "q": "How can I charge it while driving?",
+   "a": "Use a DC to DC alternator charger such as Bluetti's Charger 2 at up to 1200W. A 12V socket supplies only about 100W. Proper fusing and cable size are essential."
+  },
+  {
+   "q": "Can I plug the shore power cord straight into the unit?",
+   "a": "Only if the unit has a TT-30 outlet or you use a correct adapter, and only within the inverter's limit. Never back feed an outlet from a generator or station into a pedestal."
+  },
+  {
+   "q": "Are different bundles of the same model separate machines?",
+   "a": "No. Listings of the ABOK Ark3600 with different panels share one station. Compare panel wattage and extras only."
+  }
+ ],
+ "relatedGuides": []
+}

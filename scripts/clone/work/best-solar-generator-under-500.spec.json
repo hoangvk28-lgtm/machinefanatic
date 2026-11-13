@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-solar-generator-under-500",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "solar generator under $500",
+ "guideTitle": "Best Solar Generator Kits Under $500 (2026)",
+ "metaTitle": "Best Solar Generator Kits Under $500",
+ "metaDescription": "Six compact solar generator kits under $500, from 170Wh starters to 288Wh LiFePO4 units, ranked by what each panel and battery really delivers.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "11 min",
+ "expertTake": "The Jackery Solar Generator 300 with a 40W panel is the best all-round kit under $500 because it joins a 292Wh LiFePO4 battery to a brand with real support. The PECRON E300LFP kit is the value pick with a larger 100W panel included. Skip this tier if you hope to run a refrigerator or a space heater, because none of these inverters or tanks is built for that.",
+ "introParagraphs": [
+  "A complete solar generator for a few hundred dollars is really a small battery with a folding panel and a handful of outlets. That is plenty for phones, laptops, lights and a fan, and it is a genuinely useful thing to have in a car trunk or a camping bag.",
+  "This guide looks only at kits in that band, judged on how much energy the battery holds, how quickly the panel can refill it, and how the machine behaves after a year or two of use. Prices move, and the $500 cap reflects Amazon listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0G429L5B4",
+   "badge": "Best Overall",
+   "name": "Jackery Solar Generator 300 with 40W Solar Panel",
+   "specs": [
+    "292Wh LiFePO4",
+    "300W AC",
+    "7.5 lb",
+    "40W panel"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "292Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "300W"
+    },
+    {
+     "label": "Weight",
+     "value": "7.5 lb"
+    },
+    {
+     "label": "USB-C",
+     "value": "100W PD"
+    },
+    {
+     "label": "Cycle life",
+     "value": "4,000+"
+    }
+   ],
+   "description": "This kit is the sensible centre of the category. A 292Wh LiFePO4 battery rated for over 4,000 charge cycles is a long-lived part, the unit weighs 7.5 pounds, and a 100W USB-C PD port means a laptop charges directly without paying the inverter's conversion loss. There are two AC outlets, two USB-A ports and a 120W car port, so six devices can run at once.\n\nWhere it stands out is the brand. Jackery keeps firmware, replacement panels and warranty claims straightforward, which matters more at this price than another 20Wh of capacity. The 40W panel is the weak link: in real sun it makes 25 to 30W, so a full recharge from solar alone takes most of two days. Plan to charge from the wall or the car for fast top-ups and treat the panel as a trickle.\n\nTo get the best out of it, switch the AC inverter off when you only need USB, store it around half charged and wipe the panel's fabric before folding. A practical habit is to charge it from the wall the night before a trip, so the panel only has to make up the difference.",
+   "bestFor": "Campers and commuters who want a light, long-lived battery from a supported brand.",
+   "pros": [
+    "LiFePO4 rated for over 4,000 cycles",
+    "100W USB-C PD charges laptops efficiently",
+    "7.5 pounds, easy to carry",
+    "Brand support for panels and warranty"
+   ],
+   "cons": [
+    "40W panel is only a trickle charger",
+    "300W cannot run kitchen appliances",
+    "Costs more than generic 300W units"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CYSB43NB",
+   "badge": "Best Value Kit",
+   "name": "PECRON E300LFP 288Wh 600W with 100W Solar Panel",
+   "specs": [
+    "288Wh LiFePO4",
+    "600W AC",
+    "100W panel",
+    "Fast charging"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "288Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "600W"
+    },
+    {
+     "label": "Included panel",
+     "value": "100W"
+    },
+    {
+     "label": "Chemistry",
+     "value": "LiFePO4"
+    },
+    {
+     "label": "Use",
+     "value": "Camping and backup"
+    }
+   ],
+   "description": "The E300LFP is the kit that gives you the most for the cap. A 600W inverter is double the 300W units here, which means a small fan heater element is out but a blender, an electric kettle on low or a CPAP with a heated humidifier all work. The battery is 288Wh LiFePO4, about the same energy as the Jackery, and the bundled 100W panel is two and a half times the size of the Jackery's.\n\nA 100W panel is the first real step toward solar refill: in good sun it contributes 60 to 70W, so a flat battery returns to full in roughly five hours of clear sky. That makes the kit feel more like a system than a charger, especially for a weekend of camping.\n\nBrand support is thinner than Jackery's, so register the product and keep your receipt. Fold the panel carefully, check the connector for grit and store the battery at moderate charge. Because the panel is large, a small stake or a rock at each corner keeps it from sliding on a breezy day.",
+   "bestFor": "Buyers who want the biggest inverter and panel for the money.",
+   "pros": [
+    "600W inverter doubles the usual 300W class",
+    "100W panel refills in about five sun hours",
+    "LiFePO4 chemistry for long life",
+    "Good fit for CPAP and small appliances"
+   ],
+   "cons": [
+    "Brand support is thinner than the big names",
+    "288Wh still limits big loads to short runs",
+    "Panel is bulky when folded"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CYSB43NB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PkTOgHWrL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F42HLLSC",
+   "badge": "Best for Power Lifting Loads",
+   "name": "BLUETTI Elite 30 V2 288Wh 600W LFP Power Station",
+   "specs": [
+    "288Wh LFP",
+    "600W AC",
+    "1,500W Power Lifting",
+    "10ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "288Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "600W"
+    },
+    {
+     "label": "Power Lifting",
+     "value": "1,500W"
+    },
+    {
+     "label": "Weight",
+     "value": "9.4 lb"
+    },
+    {
+     "label": "Wall recharge",
+     "value": "0 to 80% in 45 minutes"
+    }
+   ],
+   "description": "Bluetti's small unit brings features usually reserved for bigger boxes. The 600W inverter has a Power Lifting mode that raises output to 1,500W for resistive loads by lowering the voltage slightly, so a small heater or a hair dryer that would stop an ordinary 600W unit can run for a short while. A 10ms UPS function lets it sit between the wall and a router.\n\nThe listing also claims an upgraded cooling design that cuts power consumption by half and a 45 minute 0 to 80 percent wall charge, which is quick for a 288Wh pack. At 9.4 pounds it is a little heavier than the Jackery 300 but can lift far heavier loads.\n\nThis listing does not include a panel, so budget for one if you want solar refill. Check that the panel's connector and voltage match the Elite 30 V2's input, and keep the battery half charged when idle. If you only ever charge phones, the extra Power Lifting capability is wasted, and the Jackery 300 costs less for the same job.",
+   "bestFor": "People who want a small unit that can briefly run a hair dryer or small heater.",
+   "pros": [
+    "Power Lifting mode reaches 1,500W",
+    "10ms UPS keeps routers running",
+    "45 minutes to 80 percent from the wall",
+    "Established brand with app support"
+   ],
+   "cons": [
+    "No solar panel in this listing",
+    "Power Lifting output is not true 120V behavior",
+    "288Wh drains quickly under heavy loads"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CHFM3V8Q",
+   "badge": "Best Budget Pure Sine Kit",
+   "name": "ZeroKor 300W Solar Generator with 60W Solar Panel, 280Wh",
+   "specs": [
+    "280Wh battery",
+    "300W AC",
+    "60W panel",
+    "Pure sine wave"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "280Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "300W"
+    },
+    {
+     "label": "Included panel",
+     "value": "60W"
+    },
+    {
+     "label": "Waveform",
+     "value": "Pure sine wave"
+    },
+    {
+     "label": "Extras",
+     "value": "SOS flashlight, DC port"
+    }
+   ],
+   "description": "The ZeroKor keeps the formula simple: a 280Wh battery, two AC outlets and a 60W panel in the box. Its selling point is a pure sine wave output at a low cost, which matters for sensitive electronics and laptop chargers that dislike modified sine inverters. An SOS flashlight is built in for emergencies.\n\nThe 60W panel sits between the Jackery's 40W and the Pecron's 100W, giving a daily harvest of about 150 to 200Wh in good sun. That means roughly a day and a half to refill from empty, which is workable for a weekend away. Against the Pecron it gives up 300W of inverter capacity and 40W of panel, but it costs less.\n\nThe weak spot is brand history, so treat the warranty as the real insurance. Keep the AC off when charging USB devices and store the battery at moderate charge. Keep the supplied cable coiled loosely, since tight bends near the connector are where cheap leads fail first.",
+   "bestFor": "Shoppers who want pure sine output and a bundled panel at the lowest price.",
+   "pros": [
+    "Pure sine wave AC at a low cost",
+    "60W panel included",
+    "Built-in SOS flashlight",
+    "Two AC outlets plus DC and USB"
+   ],
+   "cons": [
+    "Brand has a thin track record",
+    "300W limits it to small electronics",
+    "Chemistry is less long-lived than LiFePO4 in this class"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CHFM3V8Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51N0Qi-dPkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DHRW71SS",
+   "badge": "Best Cycle Life at the Price",
+   "name": "Yewpiny EM300 259Wh LiFePO4 Solar Power Station",
+   "specs": [
+    "259Wh LiFePO4",
+    "300W AC",
+    "600W peak",
+    "65W USB-C PD"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "259Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "300W"
+    },
+    {
+     "label": "Peak output",
+     "value": "600W"
+    },
+    {
+     "label": "USB-C",
+     "value": "65W PD"
+    },
+    {
+     "label": "Cycle life",
+     "value": "3,000+"
+    }
+   ],
+   "description": "The EM300 puts a 259Wh LiFePO4 battery behind a 300W pure sine inverter, with seven ports including a 65W USB-C PD. The listing quotes over 3,000 charge cycles, which is nearly a decade of weekly use. The inverter peaks at 600W, enough to ride out the start of a small fan or a laptop brick.\n\nIt sits at the low-capacity end of the lineup, about 12 percent smaller than the Jackery, and the listing's input spec shows a standard 12 to 20V, 5A DC input, so you can pair it with a modest panel. Think of it as the economy LiFePO4 choice: not the most powerful, but a battery that will not wear out.\n\nBecause the brand is unfamiliar, test it with your actual devices on arrival. Charge it fully, run a real load and keep the receipt in case of warranty trouble. A larger panel in the 60 to 100W range pairs well, as long as its open-circuit voltage stays under the 20V input ceiling.",
+   "bestFor": "Buyers who want LiFePO4 longevity at the lowest cost.",
+   "pros": [
+    "LiFePO4 rated for over 3,000 cycles",
+    "65W USB-C PD for laptops",
+    "Seven output ports",
+    "600W peak for fan and charger starts"
+   ],
+   "cons": [
+    "Smallest tank of the group at 259Wh",
+    "Unfamiliar brand and support",
+    "No panel included in this listing"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DHRW71SS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41e8hnRhoWL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FMRP434X",
+   "badge": "Best Ultralight Starter",
+   "name": "MARBERO 172Wh Solar Generator with 40W Panel",
+   "specs": [
+    "172Wh battery",
+    "200W AC",
+    "270W peak",
+    "40W panel"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "172Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "200W"
+    },
+    {
+     "label": "Peak output",
+     "value": "270W"
+    },
+    {
+     "label": "Included panel",
+     "value": "40W foldable"
+    },
+    {
+     "label": "AC outlets",
+     "value": "2"
+    }
+   ],
+   "description": "This is the entry kit of the group: a 172Wh pack, two AC outlets rated at 200W with a 270W peak, and a 40W foldable panel. It is light and cheap, and it covers phones, a tablet, LED lanterns and a small fan for a couple of days.\n\nIts limitations are plain. At 172Wh it holds less than two-thirds of what the Jackery does, and 200W is a ceiling that rules out anything with a heating element. The 40W panel gives a trickle that roughly matches a night's phone charging.\n\nFor a first solar generator or a gift, it is a reasonable starting point. Check your devices' wattage first, store the battery at moderate charge and do not leave it in a hot vehicle. One note: with only 172Wh, check the label on any device before plugging it in, because a single 150W appliance empties the pack in about an hour.",
+   "bestFor": "First-time buyers who only need phones, lights and a small fan.",
+   "pros": [
+    "Lowest cost kit with a panel included",
+    "Light and compact",
+    "Two AC outlets plus USB ports",
+    "Easy for beginners to use"
+   ],
+   "cons": [
+    "172Wh is the smallest tank here",
+    "200W limit rules out most appliances",
+    "40W panel only trickles"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FMRP434X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51SbJ4v8MyL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Energy for your devices",
+   "explanation": "A phone uses about 15Wh per charge and a laptop 50 to 70Wh, so a 288Wh battery gives roughly 15 phone charges or four laptop charges. The Marbero's 172Wh covers a weekend of phones and lights, while the Jackery 300 and Pecron stretch to a long weekend."
+  },
+  {
+   "criterion": "Inverter wattage ceiling",
+   "explanation": "Under $500, inverters run 200 to 600W. The Pecron E300LFP and Bluetti Elite 30 V2 offer 600W, the Jackery 300 and ZeroKor 300W, the Marbero 200W. Anything with a heating element draws 1,000W or more, so look at the device label before you buy."
+  },
+  {
+   "criterion": "Panel size and refill time",
+   "explanation": "A 40W panel makes about 25 to 30W in real sun, a 100W panel 60 to 70W. The Pecron's 100W refills a flat 288Wh pack in about five sun hours, while the Jackery's 40W takes most of two days. A bigger panel is the best upgrade at this price."
+  },
+  {
+   "criterion": "Battery chemistry and cycle life",
+   "explanation": "LiFePO4 cells last 3,000 to 4,000 cycles against 500 to 800 for older lithium-ion. The Jackery 300, Pecron and Yewpiny EM300 use LiFePO4, while cheaper kits may not state it. Longevity matters because a battery you replace in three years is not a bargain."
+  },
+  {
+   "criterion": "USB-C PD and efficiency",
+   "explanation": "Charging a laptop through a 100W USB-C PD port, as on the Jackery 300, skips the AC inverter and its conversion loss. That stretches a small battery noticeably. Check the PD wattage matches your laptop's charger. A smartphone charged this way uses about a fifth less stored energy than the same phone on an AC adapter."
+  },
+  {
+   "criterion": "Support and warranty",
+   "explanation": "At this price the biggest risk is a brand that disappears. Jackery and Bluetti have established support, while Pecron, ZeroKor, Marbero and Yewpiny rely more on marketplace warranties. Keep your invoice and register the unit."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Wh capacity",
+   "meaning": "The energy in the battery. Usable runtime is Wh times about 0.85 divided by the load.",
+   "watchFor": "From the Marbero's 172Wh to the Jackery's and Pecron's 288 to 292Wh."
+  },
+  {
+   "spec": "Rated vs peak watts",
+   "meaning": "Rated is the continuous output and peak covers a brief spike. Only the rated figure sets what you can run.",
+   "watchFor": "The Elite 30 V2 lists 600W rated and 1,500W Power Lifting, a special mode."
+  },
+  {
+   "spec": "Pure sine wave",
+   "meaning": "A clean AC waveform that sensitive electronics prefer. Modified sine can heat or damage some chargers.",
+   "watchFor": "The ZeroKor, Jackery 300 and Yewpiny EM300 all list pure sine."
+  },
+  {
+   "spec": "Panel nameplate watts",
+   "meaning": "Output in lab sunlight. Real output is 60 to 80 percent of it.",
+   "watchFor": "The Pecron's 100W is two and a half times the Jackery's 40W."
+  },
+  {
+   "spec": "Charge cycles",
+   "meaning": "How many full cycles before capacity drops to about 80 percent.",
+   "watchFor": "The Jackery 300 quotes 4,000-plus and the Yewpiny 3,000-plus."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Usable energy",
+   "description": "We compared battery size with the typical needs of phones, laptops and a fan. The 288Wh to 292Wh units cover a long weekend, the 172Wh Marbero a short one."
+  },
+  {
+   "title": "Inverter headroom",
+   "description": "We looked at rated and peak watts against small appliances. The 600W Pecron and Bluetti topped the group, the 200W Marbero the bottom."
+  },
+  {
+   "title": "Solar refill",
+   "description": "We estimated daily harvest from each kit's panel. The Pecron's 100W gives about 400Wh on a clear day, the Jackery's 40W about 150Wh."
+  },
+  {
+   "title": "Battery longevity",
+   "description": "We favored LiFePO4 and higher quoted cycle counts. The Jackery's 4,000 cycles led the group."
+  },
+  {
+   "title": "Support",
+   "description": "We judged brand maturity from listing information and owner feedback patterns, not our own ownership. Jackery and Bluetti scored highest."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What You Plug In",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Phones, lights, small fan",
+      "MARBERO 172Wh kit",
+      "Light and cheap"
+     ],
+     [
+      "Laptop and tablet",
+      "Jackery Solar Generator 300",
+      "100W USB-C PD"
+     ],
+     [
+      "CPAP with humidifier",
+      "PECRON E300LFP",
+      "600W inverter"
+     ],
+     [
+      "Hair dryer or small heater briefly",
+      "BLUETTI Elite 30 V2",
+      "1,500W Power Lifting"
+     ],
+     [
+      "Longest battery life",
+      "Yewpiny EM300",
+      "3,000-plus cycles"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget Within the Cap",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest",
+      "MARBERO 172Wh kit",
+      "Lowest cost with a panel"
+     ],
+     [
+      "Low",
+      "ZeroKor 300W kit",
+      "Pure sine and a 60W panel"
+     ],
+     [
+      "Mid",
+      "PECRON E300LFP kit",
+      "100W panel, 600W inverter"
+     ],
+     [
+      "Upper",
+      "Jackery Solar Generator 300",
+      "Brand support"
+     ],
+     [
+      "Top of the cap",
+      "BLUETTI Elite 30 V2",
+      "Power Lifting and UPS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Panel Included vs Panel Separate",
+   "cards": [
+    {
+     "label": "Panel included",
+     "text": "The Pecron, ZeroKor, Jackery 300 and Marbero ship with panels, so you can charge from the sun right away. It is the easy route, but the panels are small."
+    },
+    {
+     "label": "Panel separate",
+     "text": "The Bluetti Elite 30 V2 and Yewpiny EM300 listings have no panel, so you choose one that suits your needs. Check connector and voltage compatibility first."
+    }
+   ],
+   "note": "Pick a bundled panel for simplicity, a separate one if you want a bigger, better matched array."
+  },
+  {
+   "subheading": "LiFePO4 vs Cheaper Chemistry",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Decade-long battery",
+      "Jackery Solar Generator 300",
+      "4,000-plus cycles"
+     ],
+     [
+      "Longevity on a tight budget",
+      "Yewpiny EM300",
+      "3,000-plus cycles"
+     ],
+     [
+      "Higher power, long life",
+      "BLUETTI Elite 30 V2",
+      "LFP with 600W"
+     ],
+     [
+      "Lowest upfront cost",
+      "MARBERO 172Wh kit",
+      "Chemistry not the priority"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for light weight, a USB-C PD port and enough capacity for two nights. A lantern, two phones and a fan use roughly 150Wh a night."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Jackery 300 at 7.5 pounds and 292Wh is the best balance, and the Pecron adds a bigger panel for longer trips."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need to run a fridge, a heater or power tools. This price tier cannot do it, so step up to the 1,000Wh class."
+    },
+    {
+     "label": "Save if",
+     "text": "You only charge phones and lights. The Marbero 172Wh kit is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Store at 40 to 60 percent charge",
+   "interval": "During long storage",
+   "why": "Small lithium packs age slowest at moderate charge. Top up every two to three months."
+  },
+  {
+   "task": "Switch off the AC inverter",
+   "interval": "After every use",
+   "why": "An enabled inverter drains the battery with no load, which empties a small pack in a few days."
+  },
+  {
+   "task": "Clean and fold the panel carefully",
+   "interval": "After each trip",
+   "why": "Dirt and creases reduce output and crack cells over time."
+  },
+  {
+   "task": "Inspect connectors",
+   "interval": "Before each trip",
+   "why": "DC5521 and similar barrel connectors loosen with use and heat up."
+  },
+  {
+   "task": "Keep out of hot cars",
+   "interval": "Always",
+   "why": "Heat above about 100 degrees shortens lithium battery life. A parked car in summer can reach well over 120 degrees inside."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What can I run with a solar generator under $500?",
+   "a": "Phones, laptops, tablets, lights, fans, CPAP machines and small TVs. Kitchen appliances and heaters are out of reach for the 200 to 600W models in this tier. A small fan and a router together draw about 20W, so a 288Wh unit runs them for over half a day."
+  },
+  {
+   "q": "Is the Jackery worth more than a generic 300W unit?",
+   "a": "For most buyers, yes. You pay for support, firmware and a 4,000-cycle LiFePO4 pack. If you only need it for a few trips a year, the generic units are fine."
+  },
+  {
+   "q": "How long does the included solar panel take to recharge it?",
+   "a": "A 100W panel refills a 288Wh battery in about five hours of clear sun. A 40W panel needs most of two days, so use the wall for fast top-ups."
+  },
+  {
+   "q": "Is 600W really better than 300W?",
+   "a": "For starting power-hungry devices, yes. The Pecron and Bluetti can run a blender or kettle on low, while 300W units stop at laptops and fans. It does not add runtime, only headroom. Check the label on your appliance, because a rated 500W device still needs the unit to deliver that continuously."
+  },
+  {
+   "q": "Can I take it on a plane?",
+   "a": "No. All these batteries exceed 160Wh, which is above the limit for passenger aircraft. They travel by car."
+  },
+  {
+   "q": "Do prices change?",
+   "a": "Yes. The $500 cap reflects Amazon listing prices when this guide was last updated, and discounts can move a unit in or out of range."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg"
+}

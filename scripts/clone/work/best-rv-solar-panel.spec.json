@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-rv-solar-panel",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best rv solar panel",
+ "guideTitle": "Best RV Solar Panels (2026)",
+ "metaTitle": "Best RV Solar Panels (2026)",
+ "metaDescription": "Six RV solar panels from 100W to 200W, rigid and flexible, compared on cell type, shade handling, roof fit and the controller each one needs to perform.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Renogy ShadowFlux 200W is the best single panel for most RVs because its cell layout copes with the roof shadows that cripple ordinary panels. The Newpowa 180W is the value pick for owners who want a plain, proven rigid panel. Anyone who only camps with hookups should skip rooftop solar and spend on a better battery charger.",
+ "introParagraphs": [
+  "Choosing an RV solar panel is mostly a question of what your roof looks like and how you camp. A panel is only useful if it fits between the vents and the AC, survives vibration down the highway, and matches the controller that sits between it and the battery.",
+  "Rated watts tell you the panel's lab output, not what reaches the battery on a gray afternoon with a vent hood casting a shadow. Each pick was judged on its spec sheet and owner feedback patterns, comparing cell type, shade handling, weight, mounting and electrical compatibility, so the lineup spans rigid, bifacial and flexible designs."
+ ],
+ "products": [
+  {
+   "id": "B0DMT2WTC8",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Renogy ShadowFlux 200W N-Type Panel",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "Anti-shading cells",
+    "Rigid frame",
+    "25% efficient"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Shade handling",
+     "value": "ShadowFlux layout"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Up to 25%"
+    },
+    {
+     "label": "Form",
+     "value": "Rigid aluminum frame"
+    }
+   ],
+   "description": "A roof full of obstacles is the usual RV reality, and the ShadowFlux was designed for it. Renogy arranges the N-type cells so that a shadow falling on part of the panel does not shut down the whole string, which keeps charging going when a vent hood or antenna crosses the sun's path. The 16-busbar cells reach up to 25% efficiency and the frame is advertised as about 7% smaller than comparable PERC panels.\n\nShade handling does not mean shade immunity. Output still falls as more of the panel is covered, and Renogy publishes no percentage, so treat the technology as a margin of safety. It also costs more than the plain 175W Renogy panel, which gives you almost the same footprint with fewer clever features.\n\nOwning it is routine: bolt it down with Z-brackets, seal every hole with lap sealant, and recheck the sealant before each travel season. Wash the glass with plain water and look at the MC4 plugs for heat damage. It is a long-term panel for people who keep their rig for years.",
+   "bestFor": "Most RV owners, especially those with vents, AC units or antennas near the panel spot.",
+   "pros": [
+    "Cell layout keeps producing when part of the panel is shaded",
+    "N-type 16BB cells reach up to 25% efficiency",
+    "Smaller frame than comparable PERC panels",
+    "Rigid glass runs cooler and lasts longer than flexible"
+   ],
+   "cons": [
+    "Costs more than the plain Renogy 175W",
+    "Rigid frame needs a flat roof and sealed mounting"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DMT2WTC8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/310PuU3YOmL._SL500_.jpg"
+  },
+  {
+   "id": "B0DC6TLF9S",
+   "rank": 2,
+   "badge": "Best Bifacial",
+   "name": "Callsun 200W N-Type Bifacial Panel",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "Bifacial glass",
+    "Dual-module layout",
+    "25.6% efficient"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Efficiency",
+     "value": "25.6%"
+    },
+    {
+     "label": "Backsheet",
+     "value": "Transparent, bifacial"
+    },
+    {
+     "label": "Layout",
+     "value": "Two parallel half-panels"
+    },
+    {
+     "label": "System",
+     "value": "12V batteries"
+    }
+   ],
+   "description": "Callsun's twist is a transparent backsheet and a layout that splits the panel into two independent halves wired in parallel. If shade covers one half, the other keeps feeding the controller, which is the same problem the ShadowFlux solves by cell layout. The N-type 16BB cells claim 25.6% efficiency, the highest in this lineup.\n\nBifacial gain on a flat RV roof is real but small, because rear-side light must bounce up from a roof only a few inches below. You should buy this panel for its shade behavior rather than expect a big rear-side bonus. Compared with the Renogy 175W, it has a larger footprint and more watts per panel.\n\nFor care, treat it like any rigid panel: seal the feet, check connectors, and clean both faces when you wash the roof. Road tar and sap on the underside can sit in view through the clear back, so keep a gap beneath for airflow and cleaning access.",
+   "bestFor": "RV owners with a light-colored roof who want shade resilience.",
+   "pros": [
+    "Two independent halves keep working when one side is shaded",
+    "25.6% efficiency is the highest in the lineup",
+    "Clear backsheet catches reflected light",
+    "Rated for 12V battery systems"
+   ],
+   "cons": [
+    "Rear-side gain is small on a roof mount",
+    "Larger footprint than the 175W Renogy"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DC6TLF9S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41lRVcDQfrL._SL500_.jpg"
+  },
+  {
+   "id": "B0DYD5G542",
+   "rank": 3,
+   "badge": "Best Compact N-Type",
+   "name": "Renogy 175W N-Type 16BB Panel",
+   "price": "",
+   "specs": [
+    "175W N-type 16BB",
+    "25% efficient",
+    "Low heat loss",
+    "Smaller than predecessor"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "175W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar"
+    },
+    {
+     "label": "Efficiency",
+     "value": "25%"
+    },
+    {
+     "label": "Size and weight",
+     "value": "3.9% smaller, 4% lighter than predecessor"
+    },
+    {
+     "label": "Heat behavior",
+     "value": "Low temperature coefficient"
+    }
+   ],
+   "description": "At 175W this is the middle child of the Renogy N-type range, built for trailers and campers where a full 200W frame will not fit. The listing says it is 3.9% smaller and 4% lighter than its predecessor, which are small gains but real when you are lifting it onto a roof. A low temperature coefficient means less power loss on hot summer roofs.\n\nWhat it lacks is any shade strategy, so one shadowed cell row will drag the output down. In that sense it is a better fit for a clean roof than for a cluttered one, and the ShadowFlux is the answer to the latter. At 175W it also sits well below a refrigerator-sized load unless you pair it with a second panel.\n\nTwo of these in parallel is the classic 350W starter array for a trailer. Keep the wiring short, fuse each panel properly, and check the sealed Z-brackets annually. Clean grit with water to avoid micro-scratching the glass.",
+   "bestFor": "Trailer owners who need a compact N-type panel for a roof with limited space.",
+   "pros": [
+    "N-type cells with a low temperature coefficient",
+    "Slightly smaller and lighter than the previous model",
+    "25% efficiency in a compact frame",
+    "Pairs well as a two-panel starter array"
+   ],
+   "cons": [
+    "No shade-tolerant layout",
+    "175W alone will not carry a full-time refrigerator"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DYD5G542?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41kGoQdcrAL._SL500_.jpg"
+  },
+  {
+   "id": "B0772PD96K",
+   "rank": 4,
+   "badge": "Best Value",
+   "name": "Newpowa 180W 10BB Monocrystalline Panel",
+   "price": "",
+   "specs": [
+    "180W monocrystalline",
+    "10BB cells",
+    "18.62V Vmp",
+    "45.47 x 30.12 in"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "180W"
+    },
+    {
+     "label": "Voltage at Pmax",
+     "value": "18.62V"
+    },
+    {
+     "label": "Current at Pmax",
+     "value": "9.44A"
+    },
+    {
+     "label": "Size",
+     "value": "45.47 x 30.12 x 1.38 in"
+    },
+    {
+     "label": "Loads",
+     "value": "2400Pa wind, 5400Pa snow"
+    }
+   ],
+   "description": "Newpowa's panel is a classic 12V-class design, and the listing gives the engineering numbers that many rivals skip: 18.62V at maximum power and 9.44A. Those figures let you size a PWM or MPPT controller with confidence, since a 20A controller covers the 9.44A current comfortably. The frame measures 45.47 by 30.12 by 1.38 inches and is rated for 2400Pa of wind and 5400Pa of snow.\n\nIt uses 10-busbar monocrystalline cells, which are older tech than the N-type 16BB panels and will run hotter and degrade slightly faster. The simplicity is the appeal: a lower-voltage panel pairs with an inexpensive PWM controller, and you do not need an MPPT unit unless you chain several. It has no shade-handling features, so it is best on a clear roof.\n\nFor installation, drill pilot holes for the Z-brackets and seal each one with lap sealant. After a few years of sun the frame stays solid, but the junction box and cables are the parts to inspect. Compared with the 175W Renogy it gives slightly more power for less money.",
+   "bestFor": "Budget builders with a clean roof who want published electrical specs.",
+   "pros": [
+    "Lists Vmp and Imp so controller sizing is straightforward",
+    "Frame rated for 2400Pa wind and 5400Pa snow load",
+    "180W in a 45.47 by 30.12 inch footprint",
+    "Low-voltage design works with inexpensive PWM controllers"
+   ],
+   "cons": [
+    "Older 10BB cell design runs hotter than N-type panels",
+    "No shade-tolerant layout"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0772PD96K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xQHRm6iTL._SL500_.jpg"
+  },
+  {
+   "id": "B0FDB5PX9J",
+   "rank": 5,
+   "badge": "Best Flexible",
+   "name": "BougeRV Arch Pro 200W Flexible N-Type Panel",
+   "price": "",
+   "specs": [
+    "200W flexible",
+    "N-type 16BB",
+    "Anti-shading diodes",
+    "36V open circuit"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, 25%"
+    },
+    {
+     "label": "Form",
+     "value": "Fiberglass flexible"
+    },
+    {
+     "label": "Open-circuit voltage",
+     "value": "36V plus or minus 5%"
+    },
+    {
+     "label": "Shade design",
+     "value": "Bypass diodes"
+    }
+   ],
+   "description": "For curved fiberglass roofs and weight-sensitive rigs, BougeRV offers a flexible 200W panel in a fiberglass composite rather than thin plastic. Bypass diodes provide some shade tolerance, and the N-type 16BB cells claim 25% efficiency. Because it bends, you can glue it to a curved Class B or camper roof where a rigid glass frame would never sit flat.\n\nThere is an electrical catch that the listing itself flags: the open-circuit voltage is about 36V, which may not suit every controller or station. Check that your controller can accept that voltage, and remember that cold weather raises it further. Flexible panels also trap heat against the roof, so output sags more in summer than it does for an air-gapped rigid panel.\n\nInstallation needs marine-grade adhesive and a clean, dry surface, and you cannot easily remove it later. Inspect the edges for lifting every season, since peeling lets water in. It suits owners who accept shorter life for the weight and shape benefits.",
+   "bestFor": "Owners with a curved roof or tight weight limit who accept a shorter panel life.",
+   "pros": [
+    "Bends to follow curved roofs where rigid glass cannot go",
+    "Bypass diodes help it handle partial shade",
+    "N-type 16BB cells claim 25% efficiency",
+    "Much lighter than a framed glass panel"
+   ],
+   "cons": [
+    "36V open-circuit voltage may not suit every controller",
+    "Heat trapped behind the glued panel reduces summer output"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0FDB5PX9J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mwtCXZEVL._SL500_.jpg"
+  },
+  {
+   "id": "B07BMNGVV3",
+   "rank": 6,
+   "badge": "Lightest Pick",
+   "name": "Renogy 100W Ultra-Flex Panel, 240 Degree Bend",
+   "price": "",
+   "specs": [
+    "100W flexible",
+    "240 degree bend",
+    "70% lighter",
+    "0.1 in thick"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Bend",
+     "value": "240 degrees"
+    },
+    {
+     "label": "Weight",
+     "value": "70% less than a glass panel"
+    },
+    {
+     "label": "Thickness",
+     "value": "About a tenth of an inch"
+    },
+    {
+     "label": "Use",
+     "value": "Marine, van, cabin"
+    }
+   ],
+   "description": "Think of this one as the panel you choose when weight is the limit and everything else is secondary. Renogy says it weighs 70% less than a conventional glass panel and lies about a tenth of an inch thick, so it hardly changes a van roof's height or a trailer's drag. It can flex up to 240 degrees, which allows installation on curved surfaces.\n\nThe cost is lifespan and heat. Because it sits glued to the roof, heat has no air path away from the cells, and flexible laminates age faster than glass. It is also only 100W, so a single one will not run a refrigerator all day. It is a supplement for a small battery, not a primary array.\n\nStick it with marine-grade adhesive, seal the edges, and avoid walking on it. Wipe it clean with soft cloth and water. Many owners treat it as a replaceable component and budget for a swap in a few years.",
+   "bestFor": "Campers with a curved roof or a hard weight limit and a small battery.",
+   "pros": [
+    "Weighs about 70% less than a glass panel",
+    "Bends up to 240 degrees to fit curves",
+    "About a tenth of an inch thick, nearly flat",
+    "Easy for one person to place"
+   ],
+   "cons": [
+    "100W gives limited charging power",
+    "Flexible laminates age faster and run hotter than glass"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07BMNGVV3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zmkmE-4cL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Rigid versus flexible build",
+   "explanation": "Rigid glass panels run cooler with an air gap and last longer, while flexible laminates glue flat and cook themselves. The Renogy 100W flexible panel is 70% lighter than glass, but the Newpowa 180W rigid frame will outlast it. Choose flexible only when the roof shape or weight limit forces it."
+  },
+  {
+   "criterion": "Shade tolerance",
+   "explanation": "On an RV roof, vents and AC units cast moving shadows. The ShadowFlux 200W and Callsun 200W split their output so shade on one section does not stop the rest, while the Renogy 175W and Newpowa 180W do not. Rank shade handling above a point of efficiency."
+  },
+  {
+   "criterion": "Voltage and controller fit",
+   "explanation": "A panel's maximum power voltage and open-circuit voltage decide which controller works. The Newpowa 180W publishes 18.62V at maximum power, which suits PWM, while the BougeRV Arch Pro reaches about 36V open-circuit and wants an MPPT controller. Cold mornings push voltage higher than the label."
+  },
+  {
+   "criterion": "Roof footprint",
+   "explanation": "Panels in the 175W to 200W class run about 45 by 30 inches, so measure your free roof before ordering. The Newpowa 180W is 45.47 by 30.12 inches, and clearances for vents and brackets eat into usable area. Leave room for air flow and for walking."
+  },
+  {
+   "criterion": "Cell technology",
+   "explanation": "N-type cells, found in both Renogy panels, the Callsun and the BougeRV, handle heat better than older monocrystalline cells such as the Newpowa's 10BB type. On a hot roof the difference shows up as a few percent more output at midday. It also affects degradation over decades."
+  },
+  {
+   "criterion": "Mounting method",
+   "explanation": "Rigid panels use Z-brackets or tilt mounts with sealed screws, while flexible panels use adhesive. Each hole is a leak risk, and adhesive panels cannot be moved easily. Plan the roof entry gland for the cable run before you place anything."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Vmp and Imp",
+   "meaning": "Voltage and current at the panel's maximum power point. Multiply them to get watts, and use them to size the controller.",
+   "watchFor": "The Newpowa 180W lists 18.62V and 9.44A, which makes controller sizing easy."
+  },
+  {
+   "spec": "Open-circuit voltage (Voc)",
+   "meaning": "The voltage with no load, always higher than Vmp. It rises in cold weather and must stay below the controller's input limit.",
+   "watchFor": "The BougeRV Arch Pro is about 36V, which some controllers cannot accept."
+  },
+  {
+   "spec": "Pa wind and snow rating",
+   "meaning": "The pressure the frame can carry, with 2400Pa covering strong wind and 5400Pa covering heavy snow. Higher numbers mean a sturdier frame.",
+   "watchFor": "Newpowa lists 2400Pa and 5400Pa."
+  },
+  {
+   "spec": "Bypass diodes",
+   "meaning": "Diodes let current flow around shaded cells instead of through them. They limit how much output a shadow removes.",
+   "watchFor": "The BougeRV Arch Pro lists them, and the ShadowFlux goes further with its cell layout."
+  },
+  {
+   "spec": "Temperature coefficient",
+   "meaning": "The percent of power lost per degree above 25 C. Lower means better hot-roof output.",
+   "watchFor": "Renogy lists a low coefficient on its 175W panel but no exact figure."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Shade strategy",
+   "description": "We compared how each panel handles a shadow across part of its face. The ShadowFlux and Callsun scored highest, and single-string panels like the Newpowa scored lowest. We treated this as the key RV-specific measure."
+  },
+  {
+   "title": "Electrical transparency",
+   "description": "We rewarded listings that publish Vmp, Imp and open-circuit voltage. The Newpowa 180W gives its numbers while some rivals do not. Missing figures make controller sizing guesswork."
+  },
+  {
+   "title": "Construction",
+   "description": "We compared frame loads, glass versus laminate, and sealing. Rigid panels such as the Newpowa 180W with a 5400Pa snow rating scored above the 100W flexible panel for long-term durability. Flexible panels got credit for weight."
+  },
+  {
+   "title": "Roof fit",
+   "description": "We checked published dimensions against typical RV roof clearances. A 45 by 30 inch panel fits most roofs, while a larger frame limits layout. We considered curved roofs separately."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Owner feedback patterns shaped our view of flexible panel aging and connector reliability. We discounted marketing efficiency claims that were not tied to a published spec."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Roof Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Flat roof, lots of vents",
+      "Renogy ShadowFlux 200W",
+      "Shade-tolerant cell layout"
+     ],
+     [
+      "Flat roof, clear",
+      "Newpowa 180W",
+      "Plain panel with published specs"
+     ],
+     [
+      "Curved fiberglass roof",
+      "BougeRV Arch Pro 200W",
+      "Flexible fiberglass body"
+     ],
+     [
+      "Weight-limited roof",
+      "Renogy 100W flexible",
+      "70% lighter than glass"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest",
+      "Renogy 100W flexible",
+      "Small panel for a small battery"
+     ],
+     [
+      "Low to mid",
+      "Newpowa 180W",
+      "More watts per dollar spent"
+     ],
+     [
+      "Mid",
+      "Renogy 175W N-type",
+      "N-type cells in a compact frame"
+     ],
+     [
+      "Premium",
+      "Renogy ShadowFlux 200W",
+      "Shade-resistant layout"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rigid vs Flexible",
+   "cards": [
+    {
+     "label": "Rigid",
+     "text": "Glass and aluminum lasts longer, runs cooler and costs less per watt. The ShadowFlux, Callsun, Renogy 175W and Newpowa 180W are all rigid."
+    },
+    {
+     "label": "Flexible",
+     "text": "Thin and light, bends to curves, but ages faster because heat stays trapped. The BougeRV Arch Pro and Renogy 100W belong here."
+    }
+   ],
+   "note": "Pick rigid on a flat roof. Pick flexible only when shape or weight leaves no choice."
+  },
+  {
+   "subheading": "Controller Choice",
+   "table": {
+    "headers": [
+     "Panel",
+     "Controller",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Newpowa 180W",
+      "PWM or MPPT",
+      "18.62V Vmp suits both"
+     ],
+     [
+      "Renogy 175W",
+      "MPPT",
+      "Higher voltage N-type design"
+     ],
+     [
+      "BougeRV Arch Pro",
+      "MPPT only",
+      "36V open-circuit voltage"
+     ],
+     [
+      "Renogy 100W flexible",
+      "PWM",
+      "Small panel, simple setup"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Boondocking Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Enough total panel to cover daily watt-hours, shade tolerance, and a controller with a lithium profile. Plan around 4 to 5 sun hours and 70% system efficiency."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Two ShadowFlux 200W panels or a ShadowFlux plus a Callsun 200W cover most boondocking needs. The Renogy 175W is a good compact second panel."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your roof is cluttered or you keep the rig long term. The ShadowFlux 200W and Callsun 200W pay back with steadier output."
+    },
+    {
+     "label": "Save if",
+     "text": "Your roof is open and you camp part-time. The Newpowa 180W gives solid output for less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash the panel surface",
+   "interval": "Monthly in season",
+   "why": "Dust and droppings cut output. Plain water with a soft cloth is enough, and abrasive pads should stay in the cupboard."
+  },
+  {
+   "task": "Check roof sealant",
+   "interval": "Every year",
+   "why": "UV cracks sealant around brackets and cable glands. A small gap can let water into the roof."
+  },
+  {
+   "task": "Inspect connectors and wire",
+   "interval": "Every season",
+   "why": "Heat and vibration loosen MC4 plugs and crack insulation. Look for discoloration or melting."
+  },
+  {
+   "task": "Check adhesive edges on flexible panels",
+   "interval": "Every season",
+   "why": "Lifting edges let water and wind in. Reseal them before they peel further."
+  },
+  {
+   "task": "Verify controller settings",
+   "interval": "Every few months",
+   "why": "Battery profile settings can drift. A wrong profile shortens battery life."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many watts do I need on an RV roof?",
+   "a": "Divide your daily watt-hours by 4 to 5 sun hours, then multiply by about 1.4 for losses. A refrigerator and lights usually need 300 to 400W."
+  },
+  {
+   "q": "Are flexible panels worth it for an RV?",
+   "a": "Only when the roof curves or weight is tight. They trap heat and age faster, so rigid panels are better when a flat roof allows."
+  },
+  {
+   "q": "What does ShadowFlux do?",
+   "a": "It arranges the cells so shade on part of the panel does not shut down the whole string. It limits loss but does not remove it."
+  },
+  {
+   "q": "Do I need MPPT?",
+   "a": "MPPT is best for panels with higher voltage such as N-type or the BougeRV's 36V design. PWM works for small low-voltage panels like the Newpowa 180W."
+  },
+  {
+   "q": "Can I add panels later?",
+   "a": "Yes, if your controller current rating has headroom and you match voltage. Identical panels in parallel are the simplest expansion, and mixing wattages in series drags the stronger panel down to the weaker one."
+  },
+  {
+   "q": "How do I stop roof leaks?",
+   "a": "Use lap sealant over every screw and bracket foot, and prefer cable entry glands over new holes. Recheck the sealant every year."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/310PuU3YOmL._SL500_.jpg"
+}

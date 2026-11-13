@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-solar-generators-under-1000",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar generators under 1000",
+ "guideTitle": "Best Solar Generators Under $1,000 (2026)",
+ "metaTitle": "Best Solar Generators Under $1,000 (2026)",
+ "metaDescription": "Six kilowatt-hour class solar generators under $1,000, compared on surge power, charge speed and expansion, from DJI and Anker to Jackery's 1000 Plus.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The DJI Power 1000 V2 is the best pick under $1,000 because its 2,600W output and 37 minute charge to 80 percent beat everything else in the kilowatt-hour class. The Jackery Solar Generator 1000 Plus v2 is the choice if you want to add batteries later. Skip the 576Wh bargain unit unless weight matters more than endurance, since it holds about half the energy of the others. Prices move, so confirm the listing before you buy.",
+ "introParagraphs": [
+  "A kilowatt-hour of lithium iron phosphate storage is the standard unit of the modern power station, and under the thousand-dollar cap it is a crowded field. The stations look alike on paper, but they differ in how hard the inverter can push, how fast they charge and whether you can grow them later.",
+  "This guide compares six machines that fit the cap on Amazon listing prices when we updated it, and that also share a storage size close to a kilowatt-hour. Prices move, so treat the cap as a snapshot rather than a promise."
+ ],
+ "products": [
+  {
+   "id": "B0FD9Z5F3S",
+   "badge": "Best Overall",
+   "name": "DJI Power 1000 V2 Portable Power Station, 1,024Wh LFP",
+   "specs": [
+    "1,024Wh LFP",
+    "2,600W output",
+    "37 min to 80%",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024Wh"
+    },
+    {
+     "label": "Output",
+     "value": "2,600W stable"
+    },
+    {
+     "label": "Fast charge",
+     "value": "0 to 80% in 37 minutes"
+    },
+    {
+     "label": "Chemistry",
+     "value": "LFP"
+    },
+    {
+     "label": "Safety",
+     "value": "Intelligent BMS, sub-nano coating"
+    }
+   ],
+   "description": "DJI came to power stations from drones and gimbals, and it shows in the engineering priorities: output and charging speed. The listing quotes a 2,600W stable output, which is nearly double the 1,500W of the Jackery in this class and means a kettle, a toaster oven or a power tool runs without a second thought. Recharge to 80 percent takes 37 minutes, the fastest in the group.\n\nThe pack itself is a 1,024Wh LFP unit in a compact case, with a battery management system and a sub-nano coating described as protection against moisture and dust. It powers the appliances DJI lists, such as kettles and mini fridges, and its compact size makes it easy to stow in a trunk.\n\nThe tradeoffs are the ecosystem and expansion: DJI's accessory range is smaller than Jackery's, and no expansion pack is mentioned in the listing. Set it aside at half charge, away from heat, and register the warranty. In the field that speed changes how you plan: a 37 minute top-up from a wall outlet or a generator-free hookup means you can run a heavy appliance, recharge during a meal and run it again, which makes the effective capacity far larger than 1,024Wh on a travel day.",
+   "bestFor": "Buyers who want the most output and fastest charge in a kilowatt-hour box.",
+   "pros": [
+    "2,600W output runs kettles and tools",
+    "37 minutes from 0 to 80 percent",
+    "Compact LFP pack with moisture protection",
+    "Strong brand engineering"
+   ],
+   "cons": [
+    "No expansion pack listed",
+    "Smaller accessory ecosystem",
+    "Solar panels sold separately"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FD9Z5F3S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/316qDSmExmL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HF4JKGMC",
+   "badge": "Best Expandable Pick",
+   "name": "Jackery Solar Generator 1000 Plus v2 with 200W Panel",
+   "specs": [
+    "1,024Wh LiFePO4",
+    "1,800W AC",
+    "Expands to 11kWh",
+    "10ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024Wh, expands to 11kWh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "1,800W"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 5 extra battery packs"
+    },
+    {
+     "label": "Switchover",
+     "value": "10ms UPS"
+    },
+    {
+     "label": "Included panel",
+     "value": "200W"
+    }
+   ],
+   "description": "The 1000 Plus v2 treats the kilowatt-hour as a starting block. The listing says it expands to 11kWh with up to five battery packs, which is unusual at this price, and it provides 1,800W of AC output. A smart load management feature splits the four AC outlets across two independently controlled circuits so the important loads get priority when the battery runs low.\n\nA 10ms UPS function and 3kV surge protection make it a sensible desk-side or home-office backup, and the 200W panel in the kit gives you a solar path from the first day. Compared with the standard Jackery 1000 v2 it adds 300W of output and the expansion option.\n\nThe price of that flexibility is cost per watt-hour: it is dearer than the DJI for the same 1,024Wh, and the extra packs add weight. Keep it shaded, store it half charged and read the manual before stacking batteries. The load-priority feature deserves attention if you use it as a desk or home-office backup, because you can tell the router and computer circuit to stay alive while a lower-priority circuit drops first when the tank empties.",
+   "bestFor": "Buyers who want to start at 1kWh and grow toward home backup.",
+   "pros": [
+    "Expandable to 11kWh with extra packs",
+    "1,800W with smart load priority",
+    "10ms UPS and 3kV surge protection",
+    "200W panel included"
+   ],
+   "cons": [
+    "Costs more than the DJI for the same capacity",
+    "Extra packs are pricey",
+    "Heavier once expanded"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0HF4JKGMC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31FECM5Xx+L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GWGSKN54",
+   "badge": "Best Compact Kit",
+   "name": "Anker SOLIX C1000 Gen 2 with 200W Solar Panel",
+   "specs": [
+    "1,024Wh LFP",
+    "2,000W AC",
+    "3,000W peak",
+    "9 ports"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "2,000W"
+    },
+    {
+     "label": "Peak output",
+     "value": "3,000W"
+    },
+    {
+     "label": "Ports",
+     "value": "9"
+    },
+    {
+     "label": "Included panel",
+     "value": "200W, shipped separately"
+    }
+   ],
+   "description": "Anker's second-generation C1000 is smaller and lighter than its predecessor, by 14 percent in size and 11 percent in weight according to the listing, and it lifts the AC output to 2,000W with a 3,000W peak. Nine ports let you run up to nine devices at once.\n\nIn this lineup it is the middle path: more output than the Jackery 1000 v2, a bit less than the DJI, and a solid 200W panel in the bundle for solar. The panel ships separately from the station, so do not be surprised by two boxes.\n\nAnker's support network and app are mature, which matters if you plan to keep a unit for years. Keep the unit ventilated, store it half charged and leave the panel clean. Owners who already use Anker phone and laptop chargers will find the app and the cable ecosystem familiar, which cuts the learning curve on a first power station.",
+   "bestFor": "Buyers who want a compact kit from a mature brand.",
+   "pros": [
+    "2,000W output with 3,000W peak",
+    "Smaller and lighter than the first generation",
+    "Nine ports for many devices",
+    "200W panel in the bundle"
+   ],
+   "cons": [
+    "Panel and station ship separately",
+    "No expansion option listed",
+    "Costs more than the original C1000"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GWGSKN54?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WCwJSqWbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C5C89QKZ",
+   "badge": "Best Value for the Class",
+   "name": "Anker SOLIX C1000 Portable Power Station, 1,056Wh",
+   "specs": [
+    "1,056Wh LiFePO4",
+    "2,400W SurgePad",
+    "43 min to 80%",
+    "58 min full"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,056Wh"
+    },
+    {
+     "label": "Output",
+     "value": "2,400W with SurgePad"
+    },
+    {
+     "label": "Fast charge",
+     "value": "80% in 43 minutes"
+    },
+    {
+     "label": "Full charge",
+     "value": "About 58 minutes"
+    },
+    {
+     "label": "Includes",
+     "value": "Car charging cable"
+    }
+   ],
+   "description": "The original C1000 is the best deal in the group: 1,056Wh, a quoted 2,400W output with Anker's SurgePad technology and an 80 percent charge in 43 minutes. SurgePad temporarily lifts output for resistive loads such as kettles by lowering the voltage slightly, which explains the high headline wattage.\n\nIt is a mature product with a large owner base and a car charging cable in the box, and the listing describes a decade-long life expectation for the LiFePO4 cells. Compared with the Gen 2 it is a bit larger and heavier and has less output, but it often costs less.\n\nBe aware that SurgePad is not true 120V behavior, so sensitive equipment should stay on the normal output. Store it half charged and keep the vents clear. For heavy resistive loads such as a toaster or a kettle, keep the cable short and watch that the unit does not thermal-limit after ten minutes of continuous use.",
+   "bestFor": "Budget-minded buyers who want a proven kilowatt-hour unit.",
+   "pros": [
+    "2,400W with SurgePad for resistive loads",
+    "Zero to 80 percent in 43 minutes",
+    "Car charging cable included",
+    "Large owner base and support"
+   ],
+   "cons": [
+    "Larger and heavier than the Gen 2",
+    "SurgePad lowers voltage on heavy loads",
+    "No solar panel in the listing"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0C5C89QKZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41DXVul+maL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D66VD3X4",
+   "badge": "Best Solar-Ready Kit",
+   "name": "Jackery Solar Generator 1000 v2 with 2x100W Solar Panels",
+   "specs": [
+    "1,024Wh LiFePO4",
+    "1,500W AC",
+    "3,000W surge",
+    "200W of panels"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "1,500W"
+    },
+    {
+     "label": "Surge",
+     "value": "3,000W"
+    },
+    {
+     "label": "Wall recharge",
+     "value": "About 50 minutes"
+    },
+    {
+     "label": "Included panels",
+     "value": "2 x 100W"
+    }
+   ],
+   "description": "The two 100W panels in this kit are a smart packaging choice: each is lighter and easier to carry than one 200W panel, and together they feed the same input. A pair of 100W panels returns about 600Wh on a clear day, so the 1,024Wh battery refills in roughly two days of sun.\n\nThe station is the familiar 1000 v2, with a 1,500W inverter, a 3,000W surge and a 50 minute full recharge from the wall. It is less powerful than the DJI and Anker units but has a long track record and a deep accessory ecosystem.\n\nIt is the sensible choice for campers and van owners who value panel flexibility. Keep the panels clean, fold them carefully and store the battery at half charge. Because each panel is a separate unit, you can stand one up in the sun and one by the van door, or use one on a cloudy morning and both on a bright afternoon.",
+   "bestFor": "Campers who prefer two light panels over one big one.",
+   "pros": [
+    "Two 100W panels are easy to carry",
+    "50-minute full wall recharge",
+    "1,500W with 3,000W surge",
+    "Mature accessory ecosystem"
+   ],
+   "cons": [
+    "Less output than the DJI and Anker units",
+    "No expansion",
+    "Panels are modest for heavy use"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0D66VD3X4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31yByO4zymL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G3WRF3KM",
+   "badge": "Best Lightweight Bargain",
+   "name": "DaranEner 1000W 576Wh LiFePO4 Power Station",
+   "specs": [
+    "576Wh LiFePO4",
+    "1,000W AC",
+    "2,000W peak",
+    "14.8 lb"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "576Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "1,000W"
+    },
+    {
+     "label": "Peak output",
+     "value": "2,000W"
+    },
+    {
+     "label": "Weight",
+     "value": "14.8 lb"
+    },
+    {
+     "label": "USB-C",
+     "value": "100W PD"
+    }
+   ],
+   "description": "This is the odd one out on capacity: 576Wh, roughly half of the others, in a 14.8 pound box that is easy to carry. The 1,000W pure sine inverter with a 2,000W peak runs a microwave at 700W or a coffee maker, and the listing claims 4,000-plus cycles from automotive-grade LiFePO4.\n\nA 100W USB-C PD port charges most laptops quickly, and four AC outlets cover a camp kitchen. What you give up is runtime: 576Wh drains in under an hour at the full 1,000W, so think of it as a high-power, short-duration unit.\n\nIt makes sense for campers and tailgaters who want a strong inverter in a small box. The brand is less established, so keep the receipt, test it on arrival and store it half charged. At 576Wh it pairs well with a single 100W panel, which refills roughly half of the tank per sunny day and keeps a weekend of lights, laptop and camp coffee going.",
+   "bestFor": "Weight-conscious buyers who want 1,000W without 1,000Wh.",
+   "pros": [
+    "14.8 pounds with a 1,000W inverter",
+    "100W USB-C PD port",
+    "4,000-plus cycle LiFePO4",
+    "Four AC outlets"
+   ],
+   "cons": [
+    "576Wh runs out fast under load",
+    "Brand has a thin track record",
+    "No panel included"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0G3WRF3KM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41m8HSU2AHL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Continuous output",
+   "explanation": "Rated watts decide which appliances run. The DJI's 2,600W handles a kettle and a toaster oven, the Anker C1000 Gen 2's 2,000W a microwave, and the Jackery 1000 v2's 1,500W a coffee maker. Check the label of your biggest appliance. A watt meter at the wall will show the true draw of a kettle or toaster before you plug it into the battery."
+  },
+  {
+   "criterion": "Charge speed",
+   "explanation": "A fast recharge turns a one-hour lunch stop into a full tank. The DJI reaches 80 percent in 37 minutes, the Anker C1000 in 43 and the Jackery 1000 v2 fully in about 50. A slow charger limits how often you can cycle. Fast charging also matters for generator or solar top-ups on long trips."
+  },
+  {
+   "criterion": "Expansion path",
+   "explanation": "The Jackery 1000 Plus v2 expands to 11kWh with up to five packs, while the DJI and Anker units are fixed at about 1kWh. If you might use the unit for home backup later, expansion is worth a premium. Compatible packs may stop being sold, so check the maker's roadmap."
+  },
+  {
+   "criterion": "Surge behavior",
+   "explanation": "Anker's SurgePad and Jackery-style surge ratings let a kilowatt-hour unit start motors and heaters beyond its rated output. A 3,000W surge is useful for compressors, but it is a brief ceiling, not extra sustained power. Do not run sensitive electronics in boost mode, since voltage sags under load."
+  },
+  {
+   "criterion": "Weight and size",
+   "explanation": "A kilowatt-hour LFP unit weighs 22 to 28 pounds. The 14.8 pound DaranEner halves the energy to lose the weight. Decide whether you will carry it often or leave it in a vehicle. A rolling case or a good handle changes how often a heavy unit gets used."
+  },
+  {
+   "criterion": "Panel and input match",
+   "explanation": "Some of these kits ship panels, some do not, and inputs vary from 600W to 1,000W. A 200W panel returns about 600Wh a day. Check connector type and voltage so the panel actually charges. Many stations also accept a car socket charger as a backup."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Rated vs surge output",
+   "meaning": "Rated is the continuous wattage and surge is a brief startup ceiling. Sustained loads must stay under the rated figure.",
+   "watchFor": "The Jackery 1000 v2 lists 1,500W and 3,000W, the Anker Gen 2 2,000W and 3,000W."
+  },
+  {
+   "spec": "SurgePad / boost modes",
+   "meaning": "A mode that lifts output for resistive loads by lowering the voltage.",
+   "watchFor": "The Anker C1000 lists 2,400W with SurgePad."
+  },
+  {
+   "spec": "Expandable capacity",
+   "meaning": "Extra battery packs that add watt-hours. It raises runtime, not output.",
+   "watchFor": "Only the Jackery 1000 Plus v2 lists it, up to 11kWh."
+  },
+  {
+   "spec": "Fast-charge time",
+   "meaning": "How long to 80 percent from the wall.",
+   "watchFor": "The DJI lists 37 minutes."
+  },
+  {
+   "spec": "Cycle life",
+   "meaning": "How many full charges before capacity drops to about 80 percent.",
+   "watchFor": "The DaranEner lists 4,000 and the Anker C1000 describes a decade of life."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power for kitchen loads",
+   "description": "We compared output to kettles, microwaves and tools. The DJI's 2,600W and the Anker C1000's SurgePad lead, the Jackery's 1,500W trails. We assumed a 0.85 conversion factor."
+  },
+  {
+   "title": "Charge speed",
+   "description": "We ranked wall recharge times. The DJI's 37 minutes and the Anker C1000's 43 beat the Jackery's 50."
+  },
+  {
+   "title": "Growth potential",
+   "description": "We noted expansion options. The Jackery 1000 Plus v2 expands to 11kWh, the rest are fixed."
+  },
+  {
+   "title": "Price and cap fit",
+   "description": "We required every listed machine to sit under the cap at listing prices when updated. Prices move, so check before you buy. Products flagged as over the cap or with unknown pricing were excluded."
+  },
+  {
+   "title": "Support",
+   "description": "We used listing details and owner feedback patterns for support and longevity, not our own use."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Priority",
+   "table": {
+    "headers": [
+     "Priority",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Most power and fastest charge",
+      "DJI Power 1000 V2",
+      "2,600W and 37 minutes"
+     ],
+     [
+      "Room to grow",
+      "Jackery Solar Generator 1000 Plus v2",
+      "Expands to 11kWh"
+     ],
+     [
+      "Compact kit with panel",
+      "Anker SOLIX C1000 Gen 2",
+      "2,000W, 200W panel"
+     ],
+     [
+      "Proven and cheaper",
+      "Anker SOLIX C1000",
+      "SurgePad and 43 minutes"
+     ],
+     [
+      "Panel flexibility",
+      "Jackery Solar Generator 1000 v2 with 2x100W",
+      "Two light panels"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget Within the Cap",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "DaranEner 576Wh",
+      "Light and cheap"
+     ],
+     [
+      "Low-mid",
+      "Anker SOLIX C1000",
+      "Proven value"
+     ],
+     [
+      "Mid",
+      "DJI Power 1000 V2",
+      "Best performance per dollar"
+     ],
+     [
+      "Upper",
+      "Jackery Solar Generator 1000 v2 with 2x100W",
+      "Kit with panels"
+     ],
+     [
+      "Near the cap",
+      "Jackery 1000 Plus v2 or Anker Gen 2 kit",
+      "Expansion or kit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Raw Power vs Expandability",
+   "cards": [
+    {
+     "label": "Raw power",
+     "text": "The DJI and Anker units give 2,000 to 2,600W from a fixed 1kWh tank. They suit kitchens, tools and trips where you want to run big loads for short periods."
+    },
+    {
+     "label": "Expandability",
+     "text": "The Jackery 1000 Plus v2 gives 1,800W and grows to 11kWh. It suits owners who want to move toward home backup."
+    }
+   ],
+   "note": "Pick raw power for tools and cooking, expandability for backup, and do not pay for expansion you will never use."
+  },
+  {
+   "subheading": "Solar Kit or Bare Unit",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Panel in the box",
+      "Jackery 1000 Plus v2",
+      "200W included"
+     ],
+     [
+      "Two light panels",
+      "Jackery 1000 v2 with 2x100W",
+      "Easy to carry"
+     ],
+     [
+      "Panel ships separately",
+      "Anker C1000 Gen 2",
+      "200W in a second box"
+     ],
+     [
+      "Bare unit, choose your panel",
+      "DJI Power 1000 V2",
+      "Match your own array"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Tools and Kitchen Appliances Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for 2,000W or more of output or a boost mode, since kettles and toasters draw 1,200 to 1,800W. Check the appliance label."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DJI's 2,600W and the Anker C1000's SurgePad handle them. The Jackery 1000 v2's 1,500W does not run a high-wattage kettle."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want expansion or home backup. The Jackery 1000 Plus v2 leads."
+    },
+    {
+     "label": "Save if",
+     "text": "You want a kilowatt-hour for camping. The Anker C1000 is the economical choice."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Store at 40 to 60 percent charge",
+   "interval": "Long storage",
+   "why": "LiFePO4 cells age slowest at moderate charge. Top up every two to three months."
+  },
+  {
+   "task": "Keep vents clear",
+   "interval": "Each season",
+   "why": "High-output inverters need airflow to hold full power. Dust builds up fastest near the fan intake."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "Twice a year",
+   "why": "Updates tune charging and safety limits. Keep the app updated even if you rarely use the unit."
+  },
+  {
+   "task": "Check panel cables",
+   "interval": "Each trip",
+   "why": "Pinched or loose cables lose power."
+  },
+  {
+   "task": "Avoid hot cars",
+   "interval": "Always",
+   "why": "Heat shortens lithium life. A parked car in summer can exceed 120 degrees inside."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What can a 1kWh solar generator run?",
+   "a": "A refrigerator for most of a day, a laptop for 10 charges, or a kettle for about 20 boils. High-draw tools drain it in under an hour. A single sunny day with a 200W panel refills roughly half of the tank. That is roughly a long weekend of modest camping use."
+  },
+  {
+   "q": "Is DJI as good as Jackery or Anker?",
+   "a": "On specs, yes, and it leads on output and charge speed. Jackery and Anker have larger ecosystems and expansion options. Check the warranty terms, since they differ by brand. All three use LFP cells with similar life claims."
+  },
+  {
+   "q": "Which is the best value under $1,000?",
+   "a": "The Anker SOLIX C1000 gives high output and fast charging at the low end, and the DJI gives the most performance. Expansion costs extra. If you are unsure, start with the cheaper model and add panels later."
+  },
+  {
+   "q": "Does a higher wattage mean longer runtime?",
+   "a": "No. Runtime is set by watt-hours. A 2,600W unit with 1,024Wh runs a heavy load for less time than a 1,500W unit at a light load. Compare watt-hours first, then output."
+  },
+  {
+   "q": "Will the price stay under the cap?",
+   "a": "Not necessarily. The $1,000 cap reflects Amazon listing prices when this guide was updated, and sales can move a unit in or out. Always check the live listing price before ordering."
+  },
+  {
+   "q": "Can they run a CPAP overnight?",
+   "a": "Yes. A CPAP without a heated humidifier uses 30 to 50Wh a night, so these units cover many nights. Turn off the humidifier heater to stretch the battery further."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/316qDSmExmL._SL500_.jpg"
+}

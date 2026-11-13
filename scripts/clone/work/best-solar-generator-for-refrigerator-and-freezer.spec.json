@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-solar-generator-for-refrigerator-and-freezer",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar generator for refrigerator and freezer",
+ "guideTitle": "Best Solar Generator for Refrigerator and Freezer (2026)",
+ "metaTitle": "Best Solar Generator for Fridge and Freezer",
+ "metaDescription": "Six solar generators sized to run a refrigerator and a freezer together, ranked by 2kWh class packs, standby draw, switchover speed and compressor surge.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31z4HFhmY9L._SL500_.jpg",
+ "expertTake": "The BLUETTI FridgePower is the pick because it was designed around a fridge, with a very low standby draw and an automatic return to grid power. The UDPOWER S2400 is the value choice with a 2kWh pack and a high surge. Anyone with only a single fridge should not pay for this class and can use the cheaper fridge guide.",
+ "introParagraphs": [
+  "Backing up a fridge and a freezer together is a heavier job than either alone. Two compressors share one battery, their start surges can overlap, and the combined draw runs through the night when nobody is watching the pack.",
+  "That moves the buying criteria toward energy first, then surge, then efficiency at idle. A unit that wastes a few watts all day can cost a night of runtime in a long outage, and a unit that cannot start two compressors back to back can fail at the worst time. This guide ranks six units against those checks."
+ ],
+ "products": [
+  {
+   "id": "B0GX1GHYMM",
+   "badge": "Best Overall",
+   "name": "BLUETTI FridgePower 2016Wh 1800W LFP",
+   "specs": [
+    "2016Wh LFP",
+    "1800W / 3600W",
+    "4W idle draw",
+    "10ms switchover"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2016Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W, 3600W surge"
+    },
+    {
+     "label": "Self consumption",
+     "value": "4W"
+    },
+    {
+     "label": "Switchover",
+     "value": "10ms to battery"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 4032Wh in some kits"
+    }
+   ],
+   "description": "FridgePower is the one unit here built around the fridge job, and its numbers show it. A standby draw of 4W is a fraction of most inverters' idle loss, and Bluetti claims that gives about 26 percent more runtime, roughly 4.5 extra hours, over a conventional unit. A 10ms switchover keeps the compressors running when the grid drops, and if the unit fails it returns to grid power automatically so the fridge is never left stranded.\n\nIts 2016Wh pack carries a fridge and chest freezer for about a day at 2kWh daily load, and the 3600W surge starts two compressors. It can be expanded to 4032Wh in some kits, and the same machine appears in several listings under different names, so treat them as one product. Its price sits at an upper tier, and it lacks the panels of a camping kit.\n\nBluetti's service network and app help. Keep it beside the fridge, plug the fridge and freezer into it permanently, and test with the wall plug pulled twice a year. For a household that wants a quiet, reliable guard over frozen food, it is the best fit.",
+   "bestFor": "Households that want the lowest standby loss and an automatic return to grid.",
+   "pros": [
+    "4W standby draw stretches runtime",
+    "10ms switchover keeps compressors on",
+    "Returns to grid power automatically",
+    "3600W surge starts two compressors"
+   ],
+   "cons": [
+    "Upper price tier",
+    "No panels bundled",
+    "1800W continuous limits other big loads"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GX1GHYMM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31z4HFhmY9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GY4TQ2P8",
+   "badge": "Best Low Idle Alternative",
+   "name": "Anker SOLIX S2000 2010Wh 1500W LiFePO4",
+   "specs": [
+    "2010Wh LiFePO4",
+    "1500W AC",
+    "6W idle draw",
+    "15 year cells"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2010Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1500W"
+    },
+    {
+     "label": "Idle draw",
+     "value": "About 6W"
+    },
+    {
+     "label": "Cells",
+     "value": "314Ah LFP, 15 year claim"
+    },
+    {
+     "label": "Efficiency",
+     "value": "10% higher claimed"
+    }
+   ],
+   "description": "Anker's S2000 gets close to FridgePower on standby loss with an idle draw of about 6W and a claimed 10 percent efficiency gain, and its 2010Wh LiFePO4 pack is large enough for a fridge and freezer through a day. The 314Ah cells are rated for a 15 year life by Anker, a vendor claim that is best treated as a target.\n\nThe 1500W inverter is the limit: two compressors starting together can exceed its surge, so stagger them by plugging the freezer in a minute after the fridge. It does not offer FridgePower's auto return to grid and has no stated UPS switchover time in the listing. It is heavy and priced at an upper tier.\n\nAnker's service network is broad. Keep it on a hard floor near the appliances, check the charge each quarter and test it twice a year. It suits owners who value support and efficiency and accept an inverter with less headroom. If you choose it, label the two plugs so the fridge goes in first and the freezer a minute later after an outage, and the single habit removes the one weakness a 1500W inverter has with two compressors.",
+   "bestFor": "Owners who want Anker's support and a low idle draw for fridge and freezer.",
+   "pros": [
+    "About 6W idle draw",
+    "2010Wh LiFePO4 pack",
+    "1500W covers a fridge and freezer",
+    "Strong brand service network"
+   ],
+   "cons": [
+    "1500W has less surge headroom than rivals",
+    "No stated UPS time or grid return",
+    "Upper price tier"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GY6XTZPG",
+   "badge": "Best Value 2kWh Pack",
+   "name": "UDPOWER S2400 2083Wh 2400W LiFePO4",
+   "specs": [
+    "2083Wh LiFePO4",
+    "2400W / 3000W",
+    "UPS",
+    "6 AC outlets"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2083Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "2400W, 3000W surge"
+    },
+    {
+     "label": "Outlets",
+     "value": "6 AC plus USB and DC"
+    },
+    {
+     "label": "Cycle claim",
+     "value": "Over 4000 cycles"
+    },
+    {
+     "label": "UPS",
+     "value": "Listed"
+    }
+   ],
+   "description": "UDPOWER's S2400 is the budget route to a 2kWh class pack with a strong inverter, offering 2083Wh of LiFePO4, 2400W continuous and a 3000W surge. Six AC outlets let you plug a fridge, a freezer and a router directly without a strip, and the listing mentions a UPS function and a cycle life above 4,000.\n\nThe cost of the lower price is brand history. UDPOWER is a newer name, so warranty claims could be slower and the cycle claim is a vendor figure, not an independent one. The listing gives no standby draw figure, so you cannot compare its idle loss with FridgePower or Anker. It is a heavy box.\n\nOwnership is simple: put it beside the fridge, keep it on a hard floor and test the switchover twice a year. It is a good pick if you want a big pack and a strong inverter without paying the premium for a fridge specific design.",
+   "bestFor": "Budget buyers who want a 2kWh pack and six outlets for fridge and freezer.",
+   "pros": [
+    "2083Wh LiFePO4 at a lower tier",
+    "2400W with 3000W surge",
+    "Six AC outlets",
+    "UPS function listed"
+   ],
+   "cons": [
+    "Newer brand with thinner service",
+    "No standby draw figure listed",
+    "Cycle claim is unverified"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GY6XTZPG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41FKpIkddIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FFSLG3WZ",
+   "badge": "Best Large Pack",
+   "name": "Jackery HomePower 3000 3072Wh, 3600W station",
+   "specs": [
+    "3072Wh LFP",
+    "3600W / 7200W",
+    "20ms UL UPS",
+    "Station only"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3072Wh LFP"
+    },
+    {
+     "label": "AC output",
+     "value": "3600W, 7200W surge"
+    },
+    {
+     "label": "UPS",
+     "value": "20ms, UL certified"
+    },
+    {
+     "label": "Panels",
+     "value": "Not in this listing"
+    },
+    {
+     "label": "Use",
+     "value": "Home backup"
+    }
+   ],
+   "description": "When a freezer and fridge are joined by a second freezer, a furnace blower or a sump pump, the HomePower 3000 is the unit that handles it. 3072Wh gives about a day and a half for a fridge and chest freezer at 2kWh a day, and a 7200W surge starts any number of compressors. A UL certified 20ms UPS protects the loads.\n\nThe listing is the station alone with no panels, so it charges from the wall, and it sits at an upper price tier. A 3.6kWh class inverter is more than two compressors need, and its standby draw is higher than FridgePower's, so some of the pack goes to idle losses. It is also heavy.\n\nJackery's service network is among the best. Keep it level in a dry room, check the charge each quarter and add panels later for multi day events. It suits households that want a big pack with certified switchover and room to power more than the cold loads.",
+   "bestFor": "Households that want fridge, freezer and a pump or blower on one certified unit.",
+   "pros": [
+    "3072Wh LFP covers a day and a half",
+    "7200W surge starts several compressors",
+    "UL certified UPS",
+    "Strong service network"
+   ],
+   "cons": [
+    "Higher standby draw than fridge specific units",
+    "No panels in this listing",
+    "Upper price tier and heavy"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FFSLG3WZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31nIt8F0o1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FR8VG94V",
+   "badge": "Best Fast Recharge",
+   "name": "EcoFlow DELTA 3 Max with 220W bifacial panel, 2048Wh",
+   "specs": [
+    "2048Wh",
+    "3400W X-Boost",
+    "80% in 1.13 hr",
+    "220W panel"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2048Wh"
+    },
+    {
+     "label": "AC output",
+     "value": "3400W with X-Boost"
+    },
+    {
+     "label": "Charge",
+     "value": "0 to 80% in 1.13 hours"
+    },
+    {
+     "label": "Panel",
+     "value": "220W bifacial"
+    },
+    {
+     "label": "Platform",
+     "value": "X-Stream charging"
+    }
+   ],
+   "description": "EcoFlow's DELTA 3 Max matches the 2kWh class with a quick refill: 0 to 80 percent in 1.13 hours means a short grid return restores most of the pack. The 220W bifacial panel yields 130 to 180W, which covers a fridge's daytime draw, and the inverter has enough surge for two compressors.\n\nIts standby behavior is typical, not special, so idle losses are higher than FridgePower's, and its 3400W figure comes from X-Boost, which suits resistive loads and not compressors. It has no auto return to grid. It is priced at an upper tier.\n\nThe app and service are mature, which helps. Keep it near the appliances, test it twice a year and charge it above freezing. It suits households that expect repeated short outages. Think of it as a unit that spends most of its life topped up and uses fast charging to be ready again between storm bands, rather than one that must carry a single long event on stored energy alone.",
+   "bestFor": "Households with repeated short outages where recharge speed matters.",
+   "pros": [
+    "0 to 80% in about 1.13 hours",
+    "2048Wh covers fridge and freezer for a day",
+    "220W bifacial panel included",
+    "Mature app and service"
+   ],
+   "cons": [
+    "Higher idle draw than fridge specific units",
+    "X-Boost suits only resistive loads",
+    "No automatic return to grid"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FR8VG94V?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31xUhB4xOqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DCBYMC9D",
+   "badge": "Best Entry Expandable",
+   "name": "EcoFlow DELTA 3 1024Wh 1800W LiFePO4",
+   "specs": [
+    "1024Wh LiFePO4",
+    "1800W AC",
+    "56 min full charge",
+    "5kWh expandable"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1024Wh LiFePO4"
+    },
+    {
+     "label": "AC output",
+     "value": "1800W"
+    },
+    {
+     "label": "Charge",
+     "value": "Full in 56 minutes"
+    },
+    {
+     "label": "Expansion",
+     "value": "up to 5kWh"
+    },
+    {
+     "label": "Inputs",
+     "value": "1500W AC plus 500W solar"
+    }
+   ],
+   "description": "At 1024Wh the DELTA 3 is half the size of the rest, but its stackable design lets you start with a fridge and add packs as the freezer joins. By itself it runs a fridge and freezer for about five to six hours, and with one expansion it reaches the 2kWh class.\n\nIts fast 56 minute full charge, from 1500W of AC and 500W of solar together, is a strength for repeated outages. It lacks the low standby draw and automatic grid return of FridgePower, and a single unit is not enough for a day of two compressors.\n\nEcoFlow's service network is broad. Keep it plugged in and test it twice a year. It suits buyers who want to start small and grow, and accept the extra cost of expansion packs. A sensible first week is to run only the fridge from it and watch the real draw in the app, which shows whether you need one expansion pack or two before you buy more.",
+   "bestFor": "Buyers who want to start with one pack and expand as freezers are added.",
+   "pros": [
+    "Full charge in 56 minutes",
+    "Expandable to 5kWh",
+    "1800W inverter",
+    "Broad EcoFlow service network"
+   ],
+   "cons": [
+    "Single unit covers only about six hours",
+    "Expansion packs add cost",
+    "No special standby efficiency"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DCBYMC9D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31QO9wVU+QL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Combined daily energy",
+   "explanation": "A modern fridge uses 1 to 1.5kWh a day and a chest freezer 0.5 to 1kWh. Together that is about 2 to 2.5kWh a day. The FridgePower, S2000 and S2400 at about 2kWh cover roughly 18 to 22 hours, the HomePower 3000 about a day and a half. A 1024Wh unit gives about six hours."
+  },
+  {
+   "criterion": "Standby draw",
+   "explanation": "An idle inverter wastes 10 to 30W on many units, while the FridgePower lists 4W and the Anker about 6W. Over 24 hours, 20W idle burns 480Wh, a quarter of a 2kWh pack. In a long outage, a low idle draw is worth about four extra hours."
+  },
+  {
+   "criterion": "Two compressor surge",
+   "explanation": "Each compressor can draw 3 to 7 times running watts at start. If both start at once, a 1500W inverter may trip, so stagger the starts. The FridgePower lists 3600W surge, the S2400 3000W, the HomePower 3000 7200W. Check both appliance labels."
+  },
+  {
+   "criterion": "Switchover and return",
+   "explanation": "A 10ms switchover keeps compressors running, and an automatic return to grid, as the FridgePower lists, protects you if the unit fails or is drained. Without it, a flat unit can cut the power to the fridge. Ask what happens when the pack empties. A unit that simply shuts off leaves a freezer unpowered with nobody home to notice, which is why a protected return to the grid is worth real money to anyone who travels or sleeps through a storm."
+  },
+  {
+   "criterion": "Chest versus upright freezer",
+   "explanation": "A chest freezer opens from the top and holds cold better, using about 0.5kWh a day when full. An upright self defrosting freezer uses 1 to 1.5kWh and cycles a defrost heater of 300 to 500W. Check the label, because the defrost heater affects the peak load. If you are buying a freezer along with the backup, a chest model is the easier partner for any battery, since it loses little cold when you open it and has no heater to feed."
+  },
+  {
+   "criterion": "Recharge and panels",
+   "explanation": "The DELTA 3 Max reaches 80 percent in 1.13 hours, the DELTA 3 full in 56 minutes. A 220W panel adds 600 to 800Wh a day, offsetting a fridge but not both. Expect to use the wall for most recharging and panels for long events."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "4W self consumption",
+   "meaning": "The FridgePower's idle draw with no load.",
+   "watchFor": "Many inverters waste 10 to 30W."
+  },
+  {
+   "spec": "10ms switchover",
+   "meaning": "Time for the unit to take over when grid power fails.",
+   "watchFor": "A slower switchover can restart compressors."
+  },
+  {
+   "spec": "3600W surge",
+   "meaning": "A brief startup allowance for compressors.",
+   "watchFor": "It does not extend the 1800W continuous rating."
+  },
+  {
+   "spec": "Duty cycle",
+   "meaning": "The fraction of time a compressor runs, usually a third.",
+   "watchFor": "Two appliances roughly double the daily kWh."
+  },
+  {
+   "spec": "4032Wh expansion",
+   "meaning": "The FridgePower kit's maximum with an expansion battery.",
+   "watchFor": "Extra packs are sold separately."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Runtime for two appliances",
+   "description": "We assumed a 2.2kWh daily load and 85 percent efficiency. The 2kWh class gives about 18 to 20 hours, the 3072Wh unit about 28 hours, the 1024Wh DELTA 3 about 6."
+  },
+  {
+   "title": "Standby loss",
+   "description": "We compared stated idle figures, from 4W on the FridgePower and 6W on the Anker to unlisted values on others, and noted the hours that gap is worth."
+  },
+  {
+   "title": "Surge for two compressors",
+   "description": "We compared surge ratings from 3000W on the UDPOWER to 7200W on the HomePower 3000, and noted staggering for lower surge units."
+  },
+  {
+   "title": "Failure behavior",
+   "description": "We checked switchover speed and what happens when the pack empties. Only the FridgePower lists an automatic return to grid."
+  },
+  {
+   "title": "Support and cost",
+   "description": "We weighed brand service reach and price tier. Jackery, EcoFlow, Bluetti and Anker lead on support, UDPOWER on cost."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Appliance Pair",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fridge and chest freezer for a day",
+      "BLUETTI FridgePower",
+      "Low idle and grid return"
+     ],
+     [
+      "Fridge and upright freezer",
+      "Jackery HomePower 3000",
+      "7200W surge and 3072Wh"
+     ],
+     [
+      "Budget pair, one day",
+      "UDPOWER S2400",
+      "2083Wh at a lower tier"
+     ],
+     [
+      "Pair with support priority",
+      "Anker SOLIX S2000",
+      "2010Wh and low idle"
+     ],
+     [
+      "Start with fridge, add freezer later",
+      "EcoFlow DELTA 3",
+      "Expandable stack"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "EcoFlow DELTA 3",
+      "Small start, expand later"
+     ],
+     [
+      "Lower mid",
+      "UDPOWER S2400",
+      "2083Wh for the cost"
+     ],
+     [
+      "Mid",
+      "EcoFlow DELTA 3 Max",
+      "Fast charge and panel"
+     ],
+     [
+      "Upper mid",
+      "Anker SOLIX S2000",
+      "Support and low idle"
+     ],
+     [
+      "Highest",
+      "BLUETTI FridgePower",
+      "Fridge specific design"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fridge Specific vs General Unit",
+   "cards": [
+    {
+     "label": "Fridge specific",
+     "text": "The BLUETTI FridgePower has a 4W idle draw, a 10ms switchover and an automatic return to grid. Those features serve one job well and cost a premium."
+    },
+    {
+     "label": "General unit",
+     "text": "The UDPOWER, Jackery and EcoFlow units can also run tools, camping gear and a pump. They have higher idle draw but more flexibility."
+    }
+   ],
+   "note": "Pick fridge specific if cold storage is the only job, a general unit if you want one box for several."
+  },
+  {
+   "subheading": "Recharge and Solar",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fastest recharge",
+      "EcoFlow DELTA 3",
+      "Full in 56 minutes"
+     ],
+     [
+      "Panel in the box",
+      "EcoFlow DELTA 3 Max",
+      "220W bifacial"
+     ],
+     [
+      "Add panels later",
+      "Jackery HomePower 3000",
+      "Station only"
+     ],
+     [
+      "Moderate recharge, low idle",
+      "BLUETTI FridgePower",
+      "Fridge specific"
+     ],
+     [
+      "Large pack, steady refill",
+      "UDPOWER S2400",
+      "2083Wh pack"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Food Safety in a Multi Day Outage Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "At least 2.5kWh for a day with margin, low standby draw and a way to recharge. A freezer holds food for about 48 hours if full and unopened, so the unit mainly bridges gaps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The HomePower 3000 holds the most. The FridgePower's low idle gets the most hours out of 2kWh. Add a 220W panel to refill by day."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Frozen food is worth hundreds or the outage may last days. The FridgePower and HomePower 3000 give efficiency and certified protection."
+    },
+    {
+     "label": "Save if",
+     "text": "Outages are short. The UDPOWER S2400 or DELTA 3 cover hours at lower tiers."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Plug fridge and freezer into the unit",
+   "interval": "Permanently",
+   "why": "A unit with UPS behavior swaps without a restart, and a plugged in unit is always ready."
+  },
+  {
+   "task": "Pull the wall plug test",
+   "interval": "Twice a year",
+   "why": "Confirms both compressors restart cleanly on battery."
+  },
+  {
+   "task": "Clean fridge and freezer coils",
+   "interval": "Every 6 months",
+   "why": "Dusty coils raise runtime and the energy a backup must supply."
+  },
+  {
+   "task": "Check charge level",
+   "interval": "Every 3 months",
+   "why": "A tripped breaker can leave the unit flat."
+  },
+  {
+   "task": "Clean unit vents",
+   "interval": "Every 6 months",
+   "why": "Dust raises inverter temperature in a warm utility spot."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long will a solar generator run a fridge and freezer?",
+   "a": "Together they use about 2 to 2.5kWh a day. A 2kWh unit runs them for about 18 to 20 hours, a 3kWh unit about a day and a half, and a 1kWh unit about six hours."
+  },
+  {
+   "q": "Can one unit start both compressors?",
+   "a": "Usually, if its surge is high enough. Units with 3000W to 7200W surge handle it. A 1500W inverter may trip if both start together, so stagger them by a minute."
+  },
+  {
+   "q": "Is a chest freezer easier to back up?",
+   "a": "Yes. A chest freezer holds cold when opened and uses about 0.5kWh a day when full. An upright self defrosting unit uses more and cycles a heater."
+  },
+  {
+   "q": "How long is food safe in an outage?",
+   "a": "About four hours in an unopened fridge and 48 hours in a full freezer. A backup unit extends that by keeping the compressor cycling."
+  },
+  {
+   "q": "What does a low idle draw do?",
+   "a": "It saves energy the inverter would waste. A 4W idle versus 20W saves about 380Wh over a day, which is nearly four extra hours on a 2kWh pack."
+  },
+  {
+   "q": "Are panels enough to run both?",
+   "a": "A 220W panel adds 600 to 800Wh on a sunny day, which covers about a third of the daily need. Use panels as a supplement, not the main source."
+  }
+ ],
+ "relatedGuides": []
+}

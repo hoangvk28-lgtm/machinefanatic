@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-solar-generator-with-30-amp-plug",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "solar generator with 30 amp plug",
+ "guideTitle": "Best Solar Generators with a 30 Amp Plug (2026)",
+ "metaTitle": "Best Solar Generators with a 30 Amp Plug",
+ "metaDescription": "Six 3,000Wh-class solar generators sized for a 30 amp circuit, with notes on TT-30 and L14-30 plugs, adapters and the 24 amp continuous rule.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The BLUETTI Elite 300 is the best pick for a 30 amp plug because it carries a native TT-30 outlet in a compact 3,014Wh chassis. The Jackery HomePower 3000 is the value route when you only need the wattage and will use an adapter. Skip any station below 2,400W if you expect to fill a 30 amp circuit, since the plug can deliver more than it can.",
+ "introParagraphs": [
+  "A plug rating is a promise about wiring rather than a feature of the battery. It tells you how much current the connector and cable can carry, and it decides which appliance, RV inlet or generator inlet box the battery can reach without an adapter.",
+  "This guide ranks six large solar generators by how closely their output matches a mid-sized RV-style circuit, which ones list a native connector and which need an adapter. We separate genuine battery power from the generator cords and inlet boxes that clutter the search results."
+ ],
+ "products": [
+  {
+   "id": "B0GKRTX336",
+   "badge": "Best Overall",
+   "name": "BLUETTI Elite 300 Power Station, 3,014Wh 2,400W with TT-30",
+   "specs": [
+    "3,014Wh LFP",
+    "2,400W AC",
+    "TT-30 outlet",
+    "12V/30A DC"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,014Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "2,400W"
+    },
+    {
+     "label": "Surge",
+     "value": "4,800W"
+    },
+    {
+     "label": "RV outlet",
+     "value": "TT-30"
+    },
+    {
+     "label": "DC output",
+     "value": "12V at 30A"
+    }
+   ],
+   "description": "The Elite 300 is the cleanest answer to the question because the plug is built in. It carries a dedicated TT-30 RV outlet, the same 30 amp connector found on most trailers and pedestals, so a coach or a trailer shore cord plugs in with no adapter between the battery and the load. A 12V/30A DC port sits beside it for 12V fridges and lights.\n\nRated output is 2,400W, which is 20 amps at 120V and comfortably under the 24 amp continuous limit of a 30 amp circuit, so the plug is never the bottleneck. The 4,800W surge starts an air conditioner or a well pump. The listing says the box is about 59 percent smaller than traditional large stations, which makes it easier to stow than the 3,600W units in this guide.\n\nCompared with the ABOK Ark3600 it has 826Wh less energy and 1,200W less output, but it takes up much less room. Keep the intake clear, charge it above freezing, and leave it around half charged if it sits for months. Because the TT-30 is a locking-style twist-free blade plug, seat it fully and check it is not hanging off the unit's weight.",
+   "bestFor": "Trailer and cabin owners who want a native 30 amp plug in a compact box.",
+   "pros": [
+    "Built-in TT-30 outlet needs no adapter",
+    "12V/30A DC port for RV fridges and lights",
+    "2,400W stays inside the 24 amp continuous limit",
+    "Compact for 3kWh of storage"
+   ],
+   "cons": [
+    "2,400W cannot fill a 30 amp circuit",
+    "Smaller tank than the 3,840Wh ABOK",
+    "Panels are a separate purchase unless you buy the kit"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GKRTX336?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F47JVR5B",
+   "badge": "Best High-Output Pick",
+   "name": "ABOK Ark3600 3,840Wh with 500W Alternator Charger",
+   "specs": [
+    "3,840Wh LiFePO4",
+    "3,600W AC",
+    "4,500W peak",
+    "TT-30 family"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,840Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Peak output",
+     "value": "4,500W"
+    },
+    {
+     "label": "Ports",
+     "value": "15"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 11,520Wh"
+    }
+   ],
+   "description": "At 3,600W the Ark3600 is the first unit here that can deliver the full wattage a 30 amp 120V circuit allows, since 30 amps at 120 volts is exactly 3,600 watts. That is also a warning: the National Electrical Code treats continuous loads as 80 percent of the breaker rating, so 2,880W is the sustained figure to plan around. The sister listings of this model advertise a TT-30 RV port, while this bundle's emphasis is the 500W alternator charger.\n\nThe tank is 3,840Wh, expandable up to 11,520Wh, and 15 output ports mean most household and camp devices can plug in without a strip. Put beside the Jackery HomePower 3000 it holds 768Wh more and adds the alternator charger, but it is a younger platform.\n\nInstall it where the vents are clear, wire the alternator charger with a proper fuse close to the starting battery, and check the connectors annually. Confirm the outlet list on the exact listing you buy before relying on a particular plug. Think of it as the bigger of the two 3,600W choices if you also want to charge from the vehicle.",
+   "bestFor": "Larger loads and long stays where a 3,600W inverter and a big tank both matter.",
+   "pros": [
+    "3,600W output reaches the full 30 amp circuit",
+    "3,840Wh tank with expansion to 11,520Wh",
+    "500W alternator charger included",
+    "15 output ports"
+   ],
+   "cons": [
+    "Outlet types vary between listings of this model",
+    "Heavy for casual moving",
+    "Younger platform with fewer owner reports"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0F47JVR5B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41L2kvUcPDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FFSDCNR4",
+   "badge": "Best Value 3,600W Kit",
+   "name": "Jackery HomePower 3000 with 2x200W Solar Panels",
+   "specs": [
+    "3,072Wh LFP",
+    "3,600W AC",
+    "7,200W surge",
+    "20ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,072Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Surge",
+     "value": "7,200W"
+    },
+    {
+     "label": "Switchover",
+     "value": "20ms or less"
+    },
+    {
+     "label": "Included panels",
+     "value": "2 x 200W"
+    }
+   ],
+   "description": "This kit shows what 3,600W looks like in a plug-and-play package: a 3,072Wh LFP battery, a 7,200W surge and two 200W solar panels in the same box. That pairing makes it the quickest way to a working 30 amp system, though you will still need an adapter or a cord rated for the connector you actually have.\n\nThe listing claims a UL-certified UPS function that transfers in 20 milliseconds or less, so it can sit between the wall and a home circuit. Compared with the Elite 300 it has 58Wh more energy, 1,200W more output and two panels, but it is bulkier and does not list a native 30 amp RV outlet.\n\nTreat the 3,600W figure as a short-term ceiling and plan sustained loads under 2,880W. Check the connector adapter's rating, store the battery at moderate charge and re-aim the panels through the day. If you buy it for a trailer, measure the storage bay first, since the case is deeper than the Elite 300.",
+   "bestFor": "Buyers who want 3,600W with panels included and are comfortable using an adapter.",
+   "pros": [
+    "3,600W output with 7,200W surge",
+    "Two 200W panels included",
+    "20ms UPS function for home circuits",
+    "Well-supported brand and app"
+   ],
+   "cons": [
+    "No native 30 amp outlet listed",
+    "Bulkier than the Elite 300",
+    "Needs a rated adapter for a 30 amp inlet"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FM8653F1",
+   "badge": "Best Expandable Pick",
+   "name": "Jackery HomePower 3600 Plus Power Station, 3,584Wh",
+   "specs": [
+    "3,584Wh LFP",
+    "3,600W AC",
+    "Parallel to 7,200W",
+    "Expands to 21kWh"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,584Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Parallel output",
+     "value": "7,200W"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 21kWh"
+    },
+    {
+     "label": "Cell design",
+     "value": "Ceramic membrane LFP"
+    }
+   ],
+   "description": "The HomePower 3600 Plus is the one to choose if the 30 amp plug is today's need and a bigger system is tomorrow's. It delivers 3,600W alone, doubles to 7,200W when paralleled and expands to 21kWh, so the same investment can later feed a 50 amp service or a house panel through a manual transfer switch.\n\nThe cell design uses a heat-resistant ceramic membrane that the listing describes as heat-resistant to 302 degrees Fahrenheit, which is reassuring for garage and RV bay storage. Compared with the HomePower 3000 it holds 512Wh more energy at a similar footprint and has no panels.\n\nAs with all 3,600W units, the 30 amp plug is not the limit but the 24 amp continuous guideline is, so size your loads accordingly. Keep the vents clear, test the transfer switch if you use one, and store half charged. A manual transfer switch install is a half-day electrician job, so budget for it before the storm season.",
+   "bestFor": "Owners who want a 30 amp solution today and room to grow into a larger system.",
+   "pros": [
+    "Paralleling and expansion paths up to 21kWh",
+    "Heat-tolerant ceramic membrane LFP cells",
+    "3,584Wh at 3,600W",
+    "Transfer-switch route for house circuits"
+   ],
+   "cons": [
+    "No panels in this listing",
+    "No native RV outlet listed",
+    "Costs more than the HomePower 3000"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F6YCRKTJ",
+   "badge": "Best Fast-Charging 3kWh",
+   "name": "PECRON F3000LFP 3,072Wh 3,600W Power Station",
+   "specs": [
+    "3,072Wh LiFePO4",
+    "3,600W AC",
+    "6 AC outlets",
+    "2h wall charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,072Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "AC outlets",
+     "value": "6"
+    },
+    {
+     "label": "Wall recharge",
+     "value": "0 to 100% in about 2 hours"
+    },
+    {
+     "label": "USB-C",
+     "value": "2 ports, 100W PD"
+    }
+   ],
+   "description": "The F3000LFP is the connector-rich option. Six AC outlets and a 3,600W inverter mean several appliances can plug in directly rather than sharing one circuit through an adapter, and the listing says it can power 13 devices at once. Wall charging is quick: zero to full in about two hours from an 1,800W input.\n\nAt 3,072Wh it matches the Jackery HomePower 3000 for energy and rating, and the charging path is arguably better, though the brand has a shorter support history. A 30 amp RV outlet is not stated in the portion of the listing we reviewed, so check the full outlet list before buying for a 30 amp inlet.\n\nUse it where you want many outlets rather than a single high-current plug. Keep the unit ventilated, avoid charging below freezing and store it around half charged. Two USB-C ports at 100W PD each let two laptops charge without touching the inverter.",
+   "bestFor": "Households that want many outlets and fast wall recharging at 3,600W.",
+   "pros": [
+    "Six AC outlets plus USB-C and car ports",
+    "Zero to full in about two hours",
+    "3,600W continuous output",
+    "LiFePO4 for long cycle life"
+   ],
+   "cons": [
+    "30 amp outlet not confirmed in the listing",
+    "Shorter support history than major brands",
+    "Heavy at 3kWh"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0F6YCRKTJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41MyGmNjEFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DG8NXM21",
+   "badge": "Best Light 2kWh Option",
+   "name": "Jackery Explorer 2000 v2 with 2x200W Solar Panels",
+   "specs": [
+    "2,042Wh LiFePO4",
+    "2,200W AC",
+    "39.5 lb",
+    "20ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2,042Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "2,200W"
+    },
+    {
+     "label": "Weight",
+     "value": "39.5 lb"
+    },
+    {
+     "label": "Included panels",
+     "value": "2 x 200W"
+    },
+    {
+     "label": "AC recharge",
+     "value": "80% in 66 minutes"
+    }
+   ],
+   "description": "Not everyone needs the full 3,600W a 30 amp circuit allows, and this unit proves it. At 2,200W it draws about 18 amps at 120V, comfortably within a 30 amp plug's continuous rating, and at 39.5 pounds it is the easiest unit here to carry.\n\nThe kit includes two 200W panels and recharges to 80 percent in 66 minutes from the wall. The energy is 2,042Wh, about two-thirds of the 3,000Wh class, so it suits shorter stays or a trailer that uses a fridge, lights and one small air conditioner for a few hours.\n\nBecause it lacks a 30 amp-specific outlet you would use a cord with an adapter. Check the adapter's rating, keep the vents clear and store the battery at moderate charge. Its handles and weight make it the unit you can still lift in a pinch.",
+   "bestFor": "Smaller trailers and cabins that want a 30 amp-friendly unit under 40 pounds.",
+   "pros": [
+    "2,200W stays well inside a 30 amp circuit",
+    "39.5 pounds is easy to move",
+    "Two 200W panels included",
+    "80 percent charge in 66 minutes"
+   ],
+   "cons": [
+    "No native 30 amp outlet",
+    "2,042Wh limits air conditioning runtime",
+    "Less output than the 3,600W units"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DG8NXM21?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ripynhqTL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Amps, volts and watts",
+   "explanation": "A 30 amp, 120V circuit carries up to 3,600W, but the continuous limit is 80 percent, or 24 amps and 2,880W. The Elite 300's 2,400W sits under that and the 3,600W units reach it. Do not assume a 30 amp plug means you can draw 30 amps all day."
+  },
+  {
+   "criterion": "Which 30 amp plug",
+   "explanation": "TT-30 is the RV plug, with one hot, one neutral and a ground, rated 120V. L14-30 is a locking 120/240V generator plug. They look similar but are not interchangeable, and many listings quietly omit which one they carry. Check the receptacle's shape: TT-30 has one straight blade, one angled blade and a round ground."
+  },
+  {
+   "criterion": "Native outlet or adapter",
+   "explanation": "The Elite 300 lists a native TT-30, while the Jackery and Pecron units rely on adapters or standard household outlets. A cheap thin adapter is a common failure point at 2,880W, so buy a rated one."
+  },
+  {
+   "criterion": "Energy for the load",
+   "explanation": "A 30 amp trailer running a 13,500 BTU air conditioner at about 1,300W, a fridge and a few lights uses roughly 1,700W. A 3,072Wh unit lasts about 1.5 hours at full load, while the ABOK's 3,840Wh lasts nearly two."
+  },
+  {
+   "criterion": "Surge for air conditioners",
+   "explanation": "A rooftop compressor can pull 2,500 to 3,000W for a moment. The Elite 300's 4,800W and the Jackery HomePower 3000's 7,200W cover that, while the Explorer 2000 v2 relies on a 2,200W rating plus surge."
+  },
+  {
+   "criterion": "Recharge while connected",
+   "explanation": "A 30 amp site is useless if the battery cannot refill. The Pecron recharges in about two hours from an 1,800W input and the Jackery 2000 v2 reaches 80 percent in 66 minutes. A slow charger leaves you short on the next day."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "30A circuit limit",
+   "meaning": "A 30 amp breaker at 120V allows 3,600W peak and 2,880W continuous. Exceeding it trips the breaker or heats the cable.",
+   "watchFor": "Only the 3,600W units here can reach the limit; the Elite 300 stops at 2,400W."
+  },
+  {
+   "spec": "TT-30 outlet",
+   "meaning": "The 120V, 30 amp RV receptacle. It is not the same as a 240V generator inlet.",
+   "watchFor": "The Elite 300 lists one; other units here need confirmation or an adapter."
+  },
+  {
+   "spec": "Surge watts",
+   "meaning": "A brief ceiling for startup. It helps with compressors, not continuous load.",
+   "watchFor": "The Jackery 3000 lists 7,200W against 3,600W rated."
+  },
+  {
+   "spec": "12V/30A DC output",
+   "meaning": "A direct low-voltage output for RV lights and fridges. It avoids inverter conversion losses.",
+   "watchFor": "The Elite 300 has one; most others here do not."
+  },
+  {
+   "spec": "Expansion capacity",
+   "meaning": "Extra battery packs add runtime without changing the inverter rating.",
+   "watchFor": "The Jackery 3600 Plus expands to 21kWh and the ABOK to 11,520Wh."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Match to a 30 amp circuit",
+   "description": "We compared each unit's rated output to the 3,600W limit and the 2,880W continuous guideline. The 3,600W units match the limit, and the Elite 300 at 2,400W has margin."
+  },
+  {
+   "title": "Plug and connector clarity",
+   "description": "We rated how clearly each listing states its outlet types. The Elite 300 names a TT-30, while others require adapters."
+  },
+  {
+   "title": "Usable energy at 30 amp loads",
+   "description": "We estimated runtime at a 1,700W trailer load with a 0.85 factor. The ABOK gave about two hours, the Elite 300 about 1.5."
+  },
+  {
+   "title": "Recharge capability",
+   "description": "We looked at wall charging speed and panel inclusion. The Pecron's two-hour full charge and the Jackery kits' panels scored well."
+  },
+  {
+   "title": "Ownership",
+   "description": "We used listing details and owner feedback patterns for weight, support and expansion, not our own ownership."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Connector",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Trailer shore cord with TT-30 plug",
+      "BLUETTI Elite 300",
+      "Native TT-30 outlet"
+     ],
+     [
+      "Many household outlets at once",
+      "PECRON F3000LFP",
+      "Six AC outlets"
+     ],
+     [
+      "Willing to use a rated adapter",
+      "Jackery HomePower 3000",
+      "3,600W with panels"
+     ],
+     [
+      "Future 50 amp or house backup",
+      "Jackery HomePower 3600 Plus",
+      "Parallel to 7,200W"
+     ],
+     [
+      "Lightest option",
+      "Jackery Explorer 2000 v2",
+      "39.5 pounds"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Jackery Explorer 2000 v2",
+      "Smaller tank, panels included"
+     ],
+     [
+      "Low-mid",
+      "PECRON F3000LFP",
+      "3,600W at a modest premium"
+     ],
+     [
+      "Mid",
+      "Jackery HomePower 3000",
+      "3,600W with panels"
+     ],
+     [
+      "Upper",
+      "BLUETTI Elite 300",
+      "Native TT-30 and compact size"
+     ],
+     [
+      "Premium",
+      "ABOK Ark3600 or HomePower 3600 Plus",
+      "Biggest tanks and expansion"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "2,400W vs 3,600W",
+   "cards": [
+    {
+     "label": "2,400W class",
+     "text": "The Elite 300 draws about 20 amps at full output, staying within the continuous limit with no thought. It is the sensible, compact choice for a trailer with one air conditioner."
+    },
+    {
+     "label": "3,600W class",
+     "text": "The ABOK, Jackery and Pecron units can fill a 30 amp circuit to the limit. Pick them if you run a microwave and an air conditioner together."
+    }
+   ],
+   "note": "Choose 2,400W for simplicity and size, 3,600W for headroom and bigger loads."
+  },
+  {
+   "subheading": "Native Outlet vs Adapter",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No adapters",
+      "BLUETTI Elite 300",
+      "TT-30 and 12V/30A DC built in"
+     ],
+     [
+      "Adapter and spare outlets",
+      "PECRON F3000LFP",
+      "Six household outlets"
+     ],
+     [
+      "Adapter plus panels",
+      "Jackery HomePower 3000",
+      "Panels in the box"
+     ],
+     [
+      "Adapter and expansion",
+      "Jackery HomePower 3600 Plus",
+      "Grows to 21kWh"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For an RV Air Conditioner Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for 3,000W or more of surge and at least 3,000Wh of storage. A 13,500 BTU unit pulls about 1,300W running and 2,500W at start."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Elite 300 and Jackery 3000 clear the surge easily. The ABOK's 3,840Wh gives the longest run time on a hot afternoon."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You live full time on a 30 amp rig or want expansion. The ABOK Ark3600 or HomePower 3600 Plus supply the energy."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp occasionally. The Jackery Explorer 2000 v2 runs a trailer for a night."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace thin adapters with rated ones",
+   "interval": "Before each season",
+   "why": "A cheap adapter at 2,880W heats and melts at the pins. Use 30 amp rated parts only."
+  },
+  {
+   "task": "Inspect plug pins and sockets",
+   "interval": "Before each trip",
+   "why": "Discolored or loose pins signal high resistance. Replace the cord before it fails."
+  },
+  {
+   "task": "Charge to about 50 percent for storage",
+   "interval": "Long storage",
+   "why": "Calendar ageing is worst at a full state of charge, so a half-full pack survives a long winter better. Top up every few months."
+  },
+  {
+   "task": "Clean vents and fans",
+   "interval": "Every season",
+   "why": "A clogged intake limits how long the inverter can hold full load."
+  },
+  {
+   "task": "Test the transfer switch if installed",
+   "interval": "Yearly",
+   "why": "Contacts can corrode, and a switch that sticks is worse than none."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a solar generator power a 30 amp RV?",
+   "a": "Yes for limited loads. A 3,600W unit can match the circuit's peak, but batteries of 3,000Wh run a full 30 amp load for under two hours. Most owners run a fridge, lights and one air conditioner. Cooking loads like a kettle count against the same 2,880W budget."
+  },
+  {
+   "q": "What is the difference between TT-30 and L14-30?",
+   "a": "TT-30 is a 120V, 30 amp RV plug. L14-30 is a locking 120/240V generator plug. They are not interchangeable, so match the plug to your inlet."
+  },
+  {
+   "q": "Do I need a 30 amp outlet on the battery?",
+   "a": "Not strictly. A rated adapter from a household outlet works, but a native TT-30, as on the Bluetti Elite 300, removes a failure point."
+  },
+  {
+   "q": "Which is the best value for a 30 amp RV?",
+   "a": "The Jackery HomePower 3000 gives 3,600W and panels for a moderate price, while the Elite 300 adds the native plug and a smaller size. Value depends on whether you prize wattage or convenience."
+  },
+  {
+   "q": "Does the plug rating mean the battery can supply 30 amps?",
+   "a": "No. The plug describes what the connector can carry, not what the inverter can supply. The Elite 300 supplies about 20 amps at full output. Use a watt meter to read the real draw before assuming the plug is the limit."
+  },
+  {
+   "q": "Are generator cords and inlet boxes the same as a solar generator?",
+   "a": "No. Those are wiring accessories for a gas generator. A solar generator is a battery with an inverter, so look for capacity and output ratings."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg"
+}

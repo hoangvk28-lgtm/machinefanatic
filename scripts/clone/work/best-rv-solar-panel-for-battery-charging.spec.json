@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-rv-solar-panel-for-battery-charging",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best rv solar panel for battery charging",
+ "guideTitle": "Best RV Solar Panels for Battery Charging (2026)",
+ "metaTitle": "Best RV Solar Panels for Battery Charging",
+ "metaDescription": "Six solar panels and kits for charging RV batteries, from trickle maintainers to a 200W panel, compared on controller type, battery chemistry and output.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The ECO-WORTHY 200W kit is the best all-round battery charger here because it bundles a 30A controller with 200W of panel for a house bank. The Voltset 20W is the value pick for keeping a starter or spare battery topped up. Anyone with a large lithium bank and heavy loads should skip small kits and plan a proper roof array.",
+ "introParagraphs": [
+  "Charging an RV battery from the sun is a different job from running a refrigerator. A battery has a state of charge, a chemistry and a voltage limit, and the panel only helps if the controller feeds those limits correctly. Most failed solar setups fail at the controller, not the panel.",
+  "The biggest split is between maintainers that only offset self-discharge and true charging kits that refill a house bank each day. Our assessment rests on published specs and owner feedback patterns, looking at panel watts, controller type, supported battery chemistries and how realistic the claimed charging speed is for an RV."
+ ],
+ "products": [
+  {
+   "id": "B09RZZHHHM",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "ECO-WORTHY 200W Panel Kit With 30A PWM Controller",
+   "price": "",
+   "specs": [
+    "200W mono panels",
+    "30A PWM controller",
+    "12V or 24V systems",
+    "Aluminum frame"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Controller",
+     "value": "30A PWM"
+    },
+    {
+     "label": "Daily energy",
+     "value": "About 800Wh in 4 sun hours"
+    },
+    {
+     "label": "Cell gain",
+     "value": "Up to 21.5% claim"
+    },
+    {
+     "label": "Frame",
+     "value": "Corrosion-resistant aluminum"
+    }
+   ],
+   "description": "A complete 200W kit is the sweet spot for refilling an RV house battery, because it produces about 800Wh in four hours of strong sun, according to the listing. That covers a day of lights, a fan, a phone charger and a good part of a small fridge's draw. The 30A PWM controller handles the current from the panel with plenty of margin.\n\nThe weakness is PWM. A PWM controller pulls the panel down to battery voltage and leaves energy behind, so on a cold or hazy day the kit will make less than an MPPT setup using the same panels. Another point is that PWM controllers often target lead-acid profiles, so confirm there is a lithium setting before connecting a LiFePO4 bank.\n\nThe corrosion-resistant aluminum frame is built for outdoor mounting, and the kit suits either 12V or 24V banks. Seal the brackets with lap sealant and check the controller screw terminals each season for looseness. Compared with the Hoysicy 100W kit it doubles the panel area for a modest step up in cost.",
+   "bestFor": "RV owners who want to refill a house battery each day with a complete kit.",
+   "pros": [
+    "200W yields about 800Wh in four hours of strong sun",
+    "30A controller has headroom above the panel's current",
+    "Works with 12V or 24V battery banks",
+    "Corrosion-resistant aluminum frame for outdoor mounting"
+   ],
+   "cons": [
+    "PWM controller leaves energy on the table in cold or hazy light",
+    "Lithium charge profile must be confirmed before use"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg"
+  },
+  {
+   "id": "B0DQ4TPW16",
+   "rank": 2,
+   "badge": "Best Bare Panel",
+   "name": "DOKIO 200W 18V Monocrystalline Panel, MC4 Leads",
+   "price": "",
+   "specs": [
+    "200W mono panel",
+    "18V class",
+    "MC4 leads",
+    "Pre-drilled frame"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Voltage class",
+     "value": "18V, for 12V systems"
+    },
+    {
+     "label": "Connectors",
+     "value": "MC4 leads"
+    },
+    {
+     "label": "Frame",
+     "value": "Aluminum, pre-drilled"
+    },
+    {
+     "label": "Controller",
+     "value": "Not included"
+    }
+   ],
+   "description": "DOKIO sells this as a bare panel, so you choose the controller yourself, and that is a feature if you already own a good one. The 18V class output suits a 12V battery system, and the pre-drilled aluminum frame matches common bracket patterns. The listing mentions a cell design that reduces shading losses and holds performance in heat.\n\nBecause there is no controller in the box, a beginner can end up with a panel and no way to charge safely. You must add a controller with the right amp rating, which for 200W at 12V means at least 20A and preferably 30A. Compared with the ECO-WORTHY kit, you save the cost of a controller you may not want but lose the convenience of a matched set.\n\nThe MC4 leads let you extend the wiring with standard connectors, but crimp them properly and weatherproof the joint. Inspect the frame corners for corrosion every season. It is a sound building block for someone who knows their electrical setup and wants flexibility.",
+   "bestFor": "Owners who already have a quality MPPT controller and want a clean panel to feed it.",
+   "pros": [
+    "Leaves the choice of controller to you",
+    "Pre-drilled aluminum frame matches common brackets",
+    "MC4 leads allow standard wiring extensions",
+    "18V class output suits 12V battery banks"
+   ],
+   "cons": [
+    "No controller included, so a beginner needs extra parts",
+    "Shade-loss and heat claims are not backed by published numbers"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ4TPW16?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419f2MSaaSL._SL500_.jpg"
+  },
+  {
+   "id": "B0GHN3XMSR",
+   "rank": 3,
+   "badge": "Best Small Kit",
+   "name": "Hoysicy 100W Panel Kit With 20A Controller",
+   "price": "",
+   "specs": [
+    "100W mono panel",
+    "20A controller",
+    "16.4 ft cable",
+    "Waterproof box"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "100W"
+    },
+    {
+     "label": "Controller",
+     "value": "20A with protection"
+    },
+    {
+     "label": "Cable",
+     "value": "16.4 ft"
+    },
+    {
+     "label": "Box",
+     "value": "Waterproof junction box"
+    },
+    {
+     "label": "Cells",
+     "value": "Monocrystalline silicon"
+    }
+   ],
+   "description": "With a 20A controller sized well above a 100W panel's current, this kit leaves room to add a second panel later. The listing mentions overcharge protection, a waterproof junction box, edge sealing and a corrosion-resistant frame. A 16.4 ft cable gives you freedom to put the controller inside the rig and the panel on the roof.\n\nOne hundred watts is a topping-up size for an RV, not a full recharge. It will offset a fridge's idle draw or keep a spare battery alive but struggles with daily cycling of a larger bank. If you plan on running anything beyond lights and a fan, the 200W ECO-WORTHY kit is a better fit.\n\nThe included cable saves buying extension wire, and the sealed junction box tolerates rain. Check the controller's battery profile before connecting lithium, and tighten terminals after the first week of vibration. For owners who want a first step into solar without redoing the whole system, it is a clean starting point.",
+   "bestFor": "Small rigs and first-time buyers who want a complete starter kit they can expand.",
+   "pros": [
+    "20A controller leaves room to add a second panel",
+    "16.4 ft cable included for easy routing",
+    "Waterproof junction box and edge sealing",
+    "Monocrystalline cells at a small-kit size"
+   ],
+   "cons": [
+    "100W only offsets idle loads on a house bank",
+    "Controller type is a basic design, not a tracking unit"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GHN3XMSR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51XqY445ZSL._SL500_.jpg"
+  },
+  {
+   "id": "B0DB23QNZH",
+   "rank": 4,
+   "badge": "Best MPPT Maintainer",
+   "name": "SOLPERK 30W Maintainer Kit With MPPT Controller",
+   "price": "",
+   "specs": [
+    "30W A+ mono panel",
+    "MPPT controller",
+    "360 degree bracket",
+    "Waterproof"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "30W"
+    },
+    {
+     "label": "Controller",
+     "value": "MPPT with protections"
+    },
+    {
+     "label": "Bracket",
+     "value": "360 degree adjustable"
+    },
+    {
+     "label": "Protections",
+     "value": "Overcharge, over-discharge, short, reverse"
+    },
+    {
+     "label": "Cells",
+     "value": "A+ monocrystalline"
+    }
+   ],
+   "description": "SOLPERK pairs a 30W panel with an MPPT controller, which is rare at this size, and the controller guards against overcharge, over-discharge, short circuit and reverse polarity. A 360 degree adjustable bracket lets you aim the panel at the sun even when the vehicle is parked at an awkward angle. The panel uses A+ monocrystalline cells.\n\nThe 30W output is a maintainer rate: roughly 100 to 150Wh on a good day, not enough to refill a house bank. It prevents a spare or a starter battery from going flat during storage and offsets small parasitic loads. It is not a replacement for a roof array, and it should not be used as one.\n\nBecause the panel is small, mounting is easy on a dash, a roof edge or a stand. Check the bracket pivot for slack and keep leads away from sharp edges. It outperforms the Hoysicy 20W maintainer in controller quality, and it is the best option when you only need to hold a battery full.",
+   "bestFor": "Storage and stand-by use, such as keeping a spare or starter battery full.",
+   "pros": [
+    "MPPT controller at a small maintainer size",
+    "Four protections guard the battery",
+    "360 degree bracket aims the panel at the sun",
+    "Easy to mount on a dash, roof edge or stand"
+   ],
+   "cons": [
+    "30W is far too small to refill a house battery",
+    "Not suited to daily cycling of an RV bank"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DB23QNZH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Dor419fGL._SL500_.jpg"
+  },
+  {
+   "id": "B0BWY64QTY",
+   "rank": 5,
+   "badge": "Best Chemistry Support",
+   "name": "Voltset 20W MPPT Trickle Charger Kit",
+   "price": "",
+   "specs": [
+    "20W panel",
+    "MPPT controller",
+    "LiFePO4, AGM, Gel",
+    "Waterproof"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "20W"
+    },
+    {
+     "label": "Controller",
+     "value": "MPPT, 20 to 30% faster claim"
+    },
+    {
+     "label": "Chemistries",
+     "value": "LiFePO4, AGM, Gel, Flooded, Li-ion"
+    },
+    {
+     "label": "Protections",
+     "value": "Overcharge, over-discharge, short, reverse"
+    },
+    {
+     "label": "Use",
+     "value": "RV and boat maintainer"
+    }
+   ],
+   "description": "What stands out here is the breadth of battery support: the listing names LiFePO4, AGM, Gel, flooded and lithium-ion batteries. That matters for an RV owner who runs a lithium house bank and a lead-acid starter battery, because one kit can serve either. The MPPT controller claims 20 to 30% faster charging than simpler designs.\n\nAt 20W the panel is a maintainer, so expect it to hold a battery rather than recharge one. Compared with the SOLPERK 30W it has less panel and gives slower top-ups, but the chemistry flexibility is its edge. Treat the faster-charging claim with caution, because the gain is relative to the maker's own comparison.\n\nCare is minimal: wipe the surface, check the clamps or ring terminals and keep the controller cabling dry. Make sure the battery chemistry selector matches your pack before leaving it connected for weeks. It is a safe, low-maintenance option for a parked rig.",
+   "bestFor": "Owners with a mix of lithium and lead-acid batteries who need a flexible maintainer.",
+   "pros": [
+    "Supports LiFePO4, AGM, Gel, flooded and lithium-ion",
+    "MPPT controller improves charging over basic designs",
+    "Four layers of battery protection",
+    "Waterproof build suits outdoor parking"
+   ],
+   "cons": [
+    "20W cannot refill a house battery",
+    "Faster-charging claim is a maker comparison, not an independent figure"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BWY64QTY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/512NHidshmL._SL500_.jpg"
+  },
+  {
+   "id": "B08K2T4RPH",
+   "rank": 6,
+   "badge": "Best Trickle Charger",
+   "name": "SUNER POWER 12W Maintainer With Ultra-Smart MPPT",
+   "price": "",
+   "specs": [
+    "12W panel",
+    "MPPT controller",
+    "3-stage charge",
+    "Auto resume"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "12W"
+    },
+    {
+     "label": "Controller",
+     "value": "Built-in MPPT"
+    },
+    {
+     "label": "Charge stages",
+     "value": "Bulk, absorption, float"
+    },
+    {
+     "label": "Auto features",
+     "value": "Stops at full, resumes later"
+    },
+    {
+     "label": "Battery",
+     "value": "12V"
+    }
+   ],
+   "description": "Charging in three stages (bulk, absorption and float) is how a lead-acid battery is meant to be filled, and SUNER POWER builds that algorithm into a 12W unit. The charger stops when the battery is full and restarts when it drops, so you can leave it connected for months. An integrated MPPT chip squeezes extra output from a very small panel.\n\nTwelve watts is the smallest panel in this guide, and it does not so much charge a battery as hold it. If your battery sits idle in winter storage, that is exactly the right tool. If you cycle an RV bank daily, this will not even keep up.\n\nBecause the controller is built in, there is less to connect, and fewer places for water to get in. Clean the panel, keep the cable off hot surfaces and check the battery clamps for corrosion. Compared with the Voltset 20W it has fewer chemistries and less power, but its charging logic is textbook.",
+   "bestFor": "Winter storage and long-parked rigs with a lead-acid starter battery.",
+   "pros": [
+    "Three-stage bulk, absorption and float charging",
+    "Stops when full and resumes when needed",
+    "Built-in MPPT in a very small unit",
+    "Simple to connect with few external parts"
+   ],
+   "cons": [
+    "12W is the lowest power in the lineup",
+    "Not suitable for a daily-cycled house bank"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B08K2T4RPH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51aueQ7YeVL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Panel watts versus battery size",
+   "explanation": "A 100Ah 12V battery holds about 1,200Wh, so refilling half of it takes roughly 600Wh. The ECO-WORTHY 200W kit makes about 800Wh in four strong sun hours, while the SOLPERK 30W makes a fraction of that. Match panel watts to how much you take out of the battery each day."
+  },
+  {
+   "criterion": "Controller type",
+   "explanation": "PWM controllers like the one in the ECO-WORTHY kit are cheap and rugged but waste voltage headroom, while MPPT controllers recover more in cold or hazy light. Small MPPT kits like the SOLPERK 30W and Voltset 20W gain a little, but the effect is larger on 200W arrays. Pay for MPPT when you have more than 150W."
+  },
+  {
+   "criterion": "Battery chemistry profile",
+   "explanation": "Lead-acid batteries want a charge-and-float cycle, while LiFePO4 batteries want a fixed voltage and no float. The Voltset 20W lists LiFePO4, AGM, Gel and flooded support, while the ECO-WORTHY listing requires you to check the settings. A wrong profile slowly damages the battery."
+  },
+  {
+   "criterion": "Maintainer versus charger",
+   "explanation": "A 12W or 20W panel offsets self-discharge and small parasitic draws but cannot recharge a bank after a night of use. Panels at 100W and above are chargers. Mixing up the two is the most common reason RV owners think their solar is broken."
+  },
+  {
+   "criterion": "Wire gauge and run length",
+   "explanation": "A long, thin cable between panel and controller loses power as heat. The Hoysicy 100W includes 16.4 ft of cable, enough for a short roof run, but a 200W panel at 12V needs thicker wire for long runs. Put the controller close to the battery, not the panel."
+  },
+  {
+   "criterion": "Protection features",
+   "explanation": "Reverse polarity, short circuit, over-discharge and overcharge protection save a battery from wiring mistakes. The SOLPERK 30W and Voltset 20W list all four, while a bare panel like the DOKIO 200W includes none. If you are new to solar wiring, protection is worth more than an extra few watts."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "PWM versus MPPT",
+   "meaning": "PWM connects the panel straight to the battery at battery voltage, while MPPT converts excess voltage into extra current. MPPT gains 10 to 30 percent in poor light.",
+   "watchFor": "The ECO-WORTHY 200W is PWM, while the SOLPERK 30W and Voltset 20W are MPPT."
+  },
+  {
+   "spec": "Controller amps",
+   "meaning": "The maximum current into the battery. Divide panel watts by battery voltage to find the current you need.",
+   "watchFor": "The Hoysicy 100W has 20A, and the ECO-WORTHY 200W has 30A."
+  },
+  {
+   "spec": "Charge stages",
+   "meaning": "Bulk pushes current in fast, absorption holds voltage as the battery fills, and float maintains a low trickle. Lithium batteries do not use float.",
+   "watchFor": "The SUNER POWER 12W lists three stages, so confirm it is suitable for a lithium pack."
+  },
+  {
+   "spec": "Sun hours",
+   "meaning": "The number of hours per day at peak sun intensity, usually 4 to 5. Daily energy equals panel watts times sun hours times about 0.7.",
+   "watchFor": "The ECO-WORTHY listing quotes 800Wh from 200W in four hours, which assumes no loss."
+  },
+  {
+   "spec": "Battery protections",
+   "meaning": "Features that stop reverse connection, shorts, overcharge and deep discharge. They protect your battery if you wire it wrongly.",
+   "watchFor": "The DOKIO 200W bare panel has none of these because it has no controller."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Charging capacity",
+   "description": "We compared each pick's rated watts against typical RV battery sizes. The 200W kits ranked above the 12W and 20W maintainers for daily charging. The ECO-WORTHY 200W's stated 800Wh was the top figure in the lineup."
+  },
+  {
+   "title": "Controller quality",
+   "description": "We reviewed the controller type, amp rating and protections. The MPPT units on the SOLPERK and Voltset scored well for their size, while PWM on the 200W kit scored lower on efficiency but higher on headroom. A bare panel scored zero here."
+  },
+  {
+   "title": "Battery compatibility",
+   "description": "We checked which chemistries each controller supports, treating lithium compatibility as essential for modern RVs. The Voltset 20W lists the widest range, and the ECO-WORTHY listing was less explicit. Confirmation of the lithium profile mattered."
+  },
+  {
+   "title": "Installation ease",
+   "description": "We considered cable length, bracket quality and whether the kit is ready to connect. The Hoysicy 100W includes 16.4 ft of cable and a waterproof box. Kits without controllers lost points for beginners."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Owner feedback patterns shaped our view of controller reliability and over-claimed output. We adjusted for listings that made performance claims without numbers."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Battery Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Daily cycling of a house bank",
+      "ECO-WORTHY 200W kit",
+      "About 800Wh in four sun hours"
+     ],
+     [
+      "Keeping a starter battery full",
+      "SUNER POWER 12W",
+      "Float charging in a tiny unit"
+     ],
+     [
+      "Mixed lithium and lead-acid batteries",
+      "Voltset 20W",
+      "Widest chemistry support"
+     ],
+     [
+      "Small house battery, add later",
+      "Hoysicy 100W kit",
+      "20A controller with room to expand"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest",
+      "SUNER POWER 12W",
+      "Basic maintainer"
+     ],
+     [
+      "Low",
+      "Voltset 20W",
+      "MPPT with broad chemistry support"
+     ],
+     [
+      "Mid",
+      "Hoysicy 100W kit",
+      "Real charging power and cable"
+     ],
+     [
+      "Premium",
+      "ECO-WORTHY 200W kit",
+      "Enough panel for a house bank"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Maintainer vs Charger",
+   "cards": [
+    {
+     "label": "Maintainer",
+     "text": "The SUNER POWER 12W, Voltset 20W and SOLPERK 30W hold a battery near full. They suit storage, spare batteries and small parasitic loads, and they cost little."
+    },
+    {
+     "label": "Charger",
+     "text": "The ECO-WORTHY 200W and Hoysicy 100W deliver enough energy to recharge after daily use. They need a controller with enough amps and a lithium-compatible profile."
+    }
+   ],
+   "note": "Choose a maintainer for parked rigs, a charger for rigs you use every day."
+  },
+  {
+   "subheading": "Kit vs Bare Panel",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Ready to connect",
+      "ECO-WORTHY 200W kit",
+      "Panel and 30A controller together"
+     ],
+     [
+      "Own a good controller",
+      "DOKIO 200W panel",
+      "Panel only, MC4 leads"
+     ],
+     [
+      "Beginner, small system",
+      "Hoysicy 100W kit",
+      "Controller and cable included"
+     ],
+     [
+      "Dash-top maintainer",
+      "SOLPERK 30W",
+      "Adjustable bracket included"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Lithium Batteries Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A controller with a lithium profile and no float stage, plus low-temperature charge protection if you camp in the cold. Lithium cells should not be charged below freezing."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Voltset 20W lists LiFePO4 support explicitly, and the DOKIO 200W with a separate MPPT controller gives full flexibility. Confirm the ECO-WORTHY profile before connecting a lithium bank."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cycle the battery daily or run a refrigerator. The ECO-WORTHY 200W kit or a DOKIO 200W with a separate MPPT controller does the job."
+    },
+    {
+     "label": "Save if",
+     "text": "The rig sits most of the year. The SUNER POWER 12W or SOLPERK 30W prevents the battery from going flat at low cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check battery voltage",
+   "interval": "Monthly",
+   "why": "A voltmeter on the battery shows whether the panel is actually charging. A drifting resting voltage is the first sign of a wiring or controller fault."
+  },
+  {
+   "task": "Clean the panel",
+   "interval": "Monthly in season",
+   "why": "Dust and pollen cut output on a small panel more than on a large one. Plain water and a soft cloth do the job."
+  },
+  {
+   "task": "Tighten controller terminals",
+   "interval": "After the first week, then yearly",
+   "why": "Vibration loosens screw terminals, which causes heat and voltage drop. Retorque to the manual's value."
+  },
+  {
+   "task": "Inspect clamps and ring terminals",
+   "interval": "Every season",
+   "why": "Corrosion on battery clamps adds resistance and stops charging. Clean with a wire brush and apply a thin grease layer."
+  },
+  {
+   "task": "Confirm battery profile",
+   "interval": "Every few months",
+   "why": "A changed setting can overcharge or undercharge. Check it against the battery maker's voltage chart."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much panel do I need to charge an RV battery?",
+   "a": "Divide your daily watt-hours by 4 to 5 sun hours and multiply by about 1.4 for losses. A 100Ah lithium battery used to half capacity needs roughly 150W to refill in a day."
+  },
+  {
+   "q": "Can a 20W panel charge an RV battery?",
+   "a": "It can hold a battery full or offset small drains, but it cannot recharge a bank after heavy use. Treat it as a maintainer."
+  },
+  {
+   "q": "Is MPPT worth it on a small panel?",
+   "a": "The gain is modest below 100W, but MPPT does help in cold or hazy light. The Voltset 20W and SOLPERK 30W include it, while the ECO-WORTHY 200W uses PWM."
+  },
+  {
+   "q": "Do I need a different controller for lithium?",
+   "a": "You need a controller with a lithium or adjustable profile. Lead-acid profiles often use a float stage that is wrong for lithium."
+  },
+  {
+   "q": "Can I leave a maintainer connected all winter?",
+   "a": "Yes, a controller that stops at full charge and resumes later, like the SUNER POWER 12W, is made for that. Check the battery monthly anyway."
+  },
+  {
+   "q": "Why is my battery not charging in the shade?",
+   "a": "A solar panel needs direct light to reach the charge voltage. Shade or heavy cloud can drop the output below what the battery needs, so move the panel into full sun."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg"
+}

@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-solar-panel-for-boondocking-rv",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar panel for boondocking rv",
+ "guideTitle": "Best Solar Panels for Boondocking RVs (2026)",
+ "metaTitle": "Best Solar Panels for Boondocking RVs",
+ "metaDescription": "Six solar panels and kits for boondocking RVs, covering roof arrays, a battery kit and portable ground panels you can move out of the shade.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Renogy ShadowFlux kit with a 3840Wh lithium battery is the strongest boondocking answer because it solves storage, shade and charging in one package. The Renogy 200W rigid panel is the value pick if you already own a battery. Anyone who camps with hookups most nights should skip big boondocking arrays and spend on a good charger.",
+ "introParagraphs": [
+  "Boondocking means no hookups, so every watt-hour you use must come from the sun, a generator or the battery bank. That changes how you judge a panel: peak watts matter less than how many hours of useful charging you collect when the rig is parked under a few trees on a gray morning.",
+  "Roof panels are always on duty but stay in one spot, while ground panels can chase the sun out of the shade. We evaluated each pick on its spec sheet and owner feedback patterns, comparing array size, shade handling, portability, voltage and battery fit, because a boondocking system lives or dies on its daily energy balance."
+ ],
+ "products": [
+  {
+   "id": "B0H83HV12Z",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Renogy 200W ShadowFlux Kit With 3840Wh LiFePO4 Battery",
+   "price": "",
+   "specs": [
+    "200W ShadowFlux panel",
+    "3840Wh LiFePO4",
+    "12V 300Ah",
+    "50A controller"
+   ],
+   "specList": [
+    {
+     "label": "Panel",
+     "value": "200W N-type, anti-shading"
+    },
+    {
+     "label": "Battery",
+     "value": "12V 300Ah LiFePO4, 3840Wh"
+    },
+    {
+     "label": "Controller",
+     "value": "50A class"
+    },
+    {
+     "label": "Cells",
+     "value": "ShadowFlux anti-shading layout"
+    },
+    {
+     "label": "Use",
+     "value": "RV house power"
+    }
+   ],
+   "description": "A 3840Wh lithium bank is the headline here, since it is large enough to carry a typical RV through two or three overcast days of boondocking. Renogy pairs it with a ShadowFlux N-type panel, whose cell layout keeps producing when a vent hood or tree branch shades part of the surface. The kit is built for house power rather than device charging.\n\nOne 200W panel is a small array for a battery this big. In four strong sun hours it returns around 560 to 640Wh, so refilling the 3840Wh bank from empty would take a week, and boondockers will need to add panels or run a generator on dull spells. That is the honest tradeoff: storage is generous, charging is lean.\n\nThe real value is a matched, documented system that avoids the guessing that ruins DIY banks. Plan on adding a second and third panel, check the controller input voltage before you do, and keep the battery inside the living space in winter. Compared with the Renogy 200W rigid panel it costs far more, but it includes the storage you would otherwise price separately.",
+   "bestFor": "Boondockers who want matched storage and charging, and will expand the array over time.",
+   "pros": [
+    "3840Wh bank carries a rig through several cloudy days",
+    "ShadowFlux layout limits losses from partial shade",
+    "Matched system avoids controller and battery mismatches",
+    "N-type cells hold output better on hot roofs"
+   ],
+   "cons": [
+    "200W refills a bank this size very slowly without added panels",
+    "Highest cost in the group because the battery is included"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0H83HV12Z?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/317DIkb9V-L._SL500_.jpg"
+  },
+  {
+   "id": "B0DC6T55ZK",
+   "rank": 2,
+   "badge": "Best Big Roof Array",
+   "name": "Callsun 400W Bifacial Pair, Two 200W N-Type Panels",
+   "price": "",
+   "specs": [
+    "2 x 200W N-type",
+    "25.6% efficient",
+    "Bifacial",
+    "47.48V Vmp in series"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400W, two 200W panels"
+    },
+    {
+     "label": "Series output",
+     "value": "47.48V Vmp, 54.62V Voc, 8.43A"
+    },
+    {
+     "label": "Efficiency",
+     "value": "25.6%"
+    },
+    {
+     "label": "Layout",
+     "value": "Dual-module anti-shading"
+    },
+    {
+     "label": "Systems",
+     "value": "12V or 24V batteries"
+    }
+   ],
+   "description": "Callsun sells two 200W N-type bifacial panels as a pair, and the listing spells out what happens when you wire them in series: 47.48V at maximum power, 54.62V open-circuit and 8.43A. Those figures tell an installer exactly which MPPT controller will accept the array, and they show why series wiring works well for long boondocking cable runs, because low current means thin wire and small losses. Each panel splits into two independent halves, which helps in partial shade.\n\nSeries wiring needs an MPPT controller with an input rating well above 54.62V, plus allowance for cold mornings when open-circuit voltage rises. If your controller tops out near 50V or 60V, parallel wiring is the safer choice, but then you carry 17A and need thicker cable. That is a real design decision, and the listing at least gives you the numbers to make it.\n\nFor boondocking, 400W is a respectable roof array, returning around 1.1 to 1.3kWh a day in good sun. It costs less per watt than the portable panels in this guide and needs no daily setup. Seal the mounts, check the connectors each season, and keep both faces clean.",
+   "bestFor": "Boondockers who want the most roof watts and are comfortable choosing a controller.",
+   "pros": [
+    "Pair provides 400W with published series and parallel electrical figures",
+    "Dual-module layout keeps one half running if the other is shaded",
+    "25.6% efficiency on N-type 16BB cells",
+    "Series wiring allows thin wire on long cable runs"
+   ],
+   "cons": [
+    "Series wiring needs an MPPT controller with a high voltage input",
+    "Bifacial gain is small when roof mounted"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DC6T55ZK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jCPISHFGL._SL500_.jpg"
+  },
+  {
+   "id": "B0DYD8VT9C",
+   "rank": 3,
+   "badge": "Best Value Roof Panel",
+   "name": "Renogy 200W N-Type 16BB Rigid Panel",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "25% efficient",
+    "24V-class output",
+    "Lighter frame"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, 25%"
+    },
+    {
+     "label": "Weight",
+     "value": "11.7% lighter than prior model"
+    },
+    {
+     "label": "Size",
+     "value": "7.5% smaller than prior model"
+    },
+    {
+     "label": "Voltage",
+     "value": "24V-class, for 12V or 24V banks"
+    }
+   ],
+   "description": "As a building block, this is hard to beat: a single 200W N-type panel with a higher operating voltage that cuts current and wire loss on long runs. Renogy says it is 7.5% smaller and 11.7% lighter than the model it replaces, which makes it easier to carry up a ladder and fit between vents. The listing says it still produces well on cloudy days thanks to the higher voltage.\n\nIt has no shade strategy beyond that, so a shadow across one cell row will drag it down, and a tree-camping boondocker should favor the ShadowFlux or the Callsun's split-panel design. The panel suits an open roof in the desert or on a plain. It needs an MPPT controller to make use of its voltage, and that cost belongs in your budget.\n\nTwo or three of these on a roof make a sound 400W to 600W boondocking array. Seal every foot with lap sealant and check the sealant each spring. Compared with the Callsun pair it is smaller and easier to add one at a time, which suits boondockers who build their system in stages.",
+   "bestFor": "Boondockers who build their array one panel at a time on a clear roof.",
+   "pros": [
+    "N-type cells with 16 busbars at 25% efficiency",
+    "Lighter and smaller than the previous model",
+    "Higher voltage cuts current and wire loss",
+    "Easy to add one panel at a time"
+   ],
+   "cons": [
+    "No shade-tolerant layout",
+    "Needs an MPPT controller to use its voltage headroom"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DYD8VT9C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414ARZAI9kL._SL500_.jpg"
+  },
+  {
+   "id": "B0CNPHD4VY",
+   "rank": 4,
+   "badge": "Best Portable Pick",
+   "name": "Renogy 200W Portable Panel With 45W USB-C",
+   "price": "",
+   "specs": [
+    "200W N-type 16BB",
+    "13.89 lb",
+    "45W USB-C PD",
+    "Folds to 24 x 23 in"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, 25%"
+    },
+    {
+     "label": "Weight",
+     "value": "13.89 lb"
+    },
+    {
+     "label": "Folded size",
+     "value": "23.72 x 22.99 x 1.97 in"
+    },
+    {
+     "label": "Ports",
+     "value": "USB-C PD 45W, dual USB-A, DC"
+    }
+   ],
+   "description": "A portable panel earns its place in boondocking because you can drag it into the sun while the rig sits in shade. Renogy's 200W folding panel weighs 13.89 lb and folds to about 24 by 23 inches, with a magnetic latch, and it carries a 45W USB-C PD port plus two USB-A ports for devices. N-type 16-busbar cells give it good heat behavior.\n\nThe cost is attention. A portable panel needs setting out in the morning, turning toward the sun a couple of times a day, and packing before weather or a drive. It also needs a cable long enough to reach the rig, and cable loss at 12V is real over long runs. At 200W, it is a supplement to a roof array rather than a replacement.\n\nIt pairs well with a roof panel for the rainy-day case when the roof is shaded but the clearing nearby is not. Store it flat and dry, wipe grit from the magnetic seam, and keep the cable coiled loosely. Next to the ZOUPW 350W it is smaller and easier to handle but offers less output.",
+   "bestFor": "Boondockers who park in shade and want a panel they can move into the sun.",
+   "pros": [
+    "Moves out of the shade when the rig is parked under trees",
+    "N-type cells with 25% efficiency in a 13.89 lb panel",
+    "45W USB-C port charges laptops directly",
+    "Magnetic fold keeps it closed in a bag"
+   ],
+   "cons": [
+    "Needs daily setup, aiming and packing",
+    "200W portable output is a supplement, not a main array"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41m2LTllC8L._SL500_.jpg"
+  },
+  {
+   "id": "B0DSFT9FZT",
+   "rank": 5,
+   "badge": "Best High-Voltage Portable",
+   "name": "ZOUPW 350W N-Type Portable Panel, 50.2V Open Circuit",
+   "price": "",
+   "specs": [
+    "350W N-type 16BB",
+    "50.2V Voc",
+    "ETFE surface",
+    "IP68 rated"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "350W"
+    },
+    {
+     "label": "Cells",
+     "value": "N-type, 16 busbar, 25%"
+    },
+    {
+     "label": "Open-circuit voltage",
+     "value": "50.2V"
+    },
+    {
+     "label": "Surface",
+     "value": "ETFE coating"
+    },
+    {
+     "label": "Rating",
+     "value": "IP68"
+    }
+   ],
+   "description": "At 350W, this is the largest portable panel here, and its 50.2V open-circuit voltage is aimed at large solar generators of one kilowatt-hour and up. The ETFE coating and IP68 rating are meant for harsh weather, and the N-type 16-busbar cells claim 25% efficiency. If you own a big power station or a battery system with a high input window, the voltage is a plus.\n\nThat 50.2V is also a warning. A basic 12V PWM controller cannot accept it, and many station inputs top out at around 50V or less, so the cold-morning rise in voltage can push it past the limit. Check your controller or station specification carefully, and use an MPPT controller or station with a suitable input window.\n\nA 350W portable panel is also awkward to carry and to aim, and it needs a stable setup in wind. It delivers the most ground-level power in this lineup and compares well with two 200W foldables for fewer cables. Keep the connectors dry, wipe the ETFE surface with a soft cloth, and store flat.",
+   "bestFor": "Boondockers with a large solar generator or high-voltage MPPT input.",
+   "pros": [
+    "350W is the largest portable output in the lineup",
+    "50.2V open-circuit voltage suits high-capacity generators",
+    "ETFE coating and IP68 rating for rough weather",
+    "N-type 16BB cells at 25% efficiency"
+   ],
+   "cons": [
+    "High voltage can exceed the limits of some controllers and stations",
+    "Bulky to carry and aim compared with a 200W panel"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DSFT9FZT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LR-hOLK6L._SL500_.jpg"
+  },
+  {
+   "id": "B0H28DTHP8",
+   "rank": 6,
+   "badge": "Best Budget Portable",
+   "name": "SUNIVORA 200W Portable Panel, 22.5% Efficiency",
+   "price": "",
+   "specs": [
+    "200W portable",
+    "22.5% efficient",
+    "15.9 lb",
+    "IP65 rated"
+   ],
+   "specList": [
+    {
+     "label": "Rated power",
+     "value": "200W"
+    },
+    {
+     "label": "Efficiency",
+     "value": "22.5%"
+    },
+    {
+     "label": "Weight",
+     "value": "15.9 lb"
+    },
+    {
+     "label": "Folded size",
+     "value": "24 x 21 in"
+    },
+    {
+     "label": "Connectors",
+     "value": "4-in-1 MC4 cable"
+    }
+   ],
+   "description": "Think of this as the plain portable panel: A+ monocrystalline cells at 22.5% efficiency, an ETFE surface, an IP65 rating and a 4-in-1 MC4 connector cable aimed at power stations. At 15.9 lb and about 24 by 21 inches folded, it is similar in size to the Renogy portable but a bit heavier and a little less efficient. It has a carry handle.\n\nThe efficiency gap is small in daily use, roughly two to three percentage points, and it translates to a few watts on a bright day. What you give up is the heat behavior of N-type cells and the USB ports, since this panel is focused on feeding a power station. The 4-in-1 cable helps with connector variety but check your exact station before assuming it fits.\n\nFor a boondocker who wants an inexpensive ground panel to supplement a roof array, it works. Plan to carry it, aim it and pack it every day. Keep the seam clean, avoid dragging it on rough ground, and check the cable at the strain relief.",
+   "bestFor": "Boondockers who want a modest, lower-cost ground panel for a power station.",
+   "pros": [
+    "22.5% efficiency in a 200W folding panel",
+    "4-in-1 MC4 cable covers several station connectors",
+    "ETFE surface with an IP65 rating",
+    "Carry handle makes it easy to move"
+   ],
+   "cons": [
+    "Heavier than the Renogy portable at 15.9 lb",
+    "No USB ports, so it is focused on power stations"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0H28DTHP8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CN9Pk5DQL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Daily energy budget",
+   "explanation": "Boondocking starts with a number: your daily watt-hours. A refrigerator, lights, a pump and laptops commonly add up to 1000 to 2000Wh. Divide by 4 to 5 sun hours and 0.7 for losses to size the array, so 1500Wh needs about 500W of panels."
+  },
+  {
+   "criterion": "Battery storage versus array size",
+   "explanation": "The Renogy ShadowFlux kit stores 3840Wh but only makes 560 to 640Wh a day from one 200W panel, a ratio that leaves the battery nearly always partly empty. A good rule is that the array should be able to refill about a third to a half of the bank in one sunny day. Add panels before adding batteries."
+  },
+  {
+   "criterion": "Shade tolerance",
+   "explanation": "Boondocking spots often include trees, hills or the shadow of your own roof gear. Panels with anti-shade layouts, like the ShadowFlux, or split-panel designs, like the Callsun, keep producing when part of the surface is shaded. Standard panels can lose most of their output from one shaded cell row."
+  },
+  {
+   "criterion": "Roof panels versus portable panels",
+   "explanation": "Roof panels are always charging but cannot leave the shade, while portable panels can be placed in the sun but need daily handling. The Renogy portable at 13.89 lb is manageable, and the ZOUPW 350W is heavier and larger. Many boondockers use a roof array plus one portable panel for the bad days."
+  },
+  {
+   "criterion": "Voltage and controller match",
+   "explanation": "Series wiring of two Callsun panels reaches 54.62V open-circuit, and the ZOUPW 350W reaches 50.2V, so your controller or station input must accept those values with cold-weather margin. Wiring to the wrong voltage damages equipment or wastes the panel. Read the controller's maximum input before buying any high-voltage panel."
+  },
+  {
+   "criterion": "Winter sun hours",
+   "explanation": "In winter, sun hours can drop from 5 to 2 or less depending on latitude, which cuts output by more than half. A boondocker who camps in cold climates should oversize the array and keep a backup generator. N-type panels and MPPT controllers help in low light and cold."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Vmp and Voc",
+   "meaning": "Vmp is the voltage at maximum power, and Voc is the higher voltage with no load. Controllers must accept Voc with margin for cold mornings.",
+   "watchFor": "The Callsun pair reaches 47.48V Vmp and 54.62V Voc in series."
+  },
+  {
+   "spec": "Battery watt-hours",
+   "meaning": "Energy stored, found from amp-hours times voltage. A 12V 300Ah battery stores about 3840Wh.",
+   "watchFor": "The Renogy ShadowFlux kit lists 3840Wh."
+  },
+  {
+   "spec": "ETFE surface",
+   "meaning": "A tough fluoropolymer film used on portable panels instead of glass. It resists scratches and sheds dirt but can wear over years.",
+   "watchFor": "The ZOUPW 350W and SUNIVORA 200W both use ETFE."
+  },
+  {
+   "spec": "Bifacial gain",
+   "meaning": "The extra output from light hitting the back of a transparent-backed panel. It depends on how much light reflects up from below.",
+   "watchFor": "The Callsun pair is bifacial, but on a roof the gain is small."
+  },
+  {
+   "spec": "IP65 versus IP68",
+   "meaning": "The second digit rates water protection. IP65 handles jets, while IP68 handles immersion.",
+   "watchFor": "The ZOUPW 350W lists IP68 and the SUNIVORA 200W lists IP65."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Daily energy delivery",
+   "description": "We compared each pick's rated watts against typical boondocking energy budgets. The Callsun 400W pair and the ZOUPW 350W lead on raw output, while the single 200W panels depend on being combined. We also weighed storage in the ShadowFlux kit."
+  },
+  {
+   "title": "Shade and weather handling",
+   "description": "We looked for anti-shade designs, split-panel layouts and weather ratings. The ShadowFlux and the Callsun scored highest for shade, and the ZOUPW's IP68 rating scored highest for weather. Standard panels scored lowest on shade."
+  },
+  {
+   "title": "Portability and daily effort",
+   "description": "We compared weight, folded size and setup effort for the portable panels. The Renogy portable at 13.89 lb scored well, and the SUNIVORA at 15.9 lb a bit lower. Roof panels got credit for needing no daily work."
+  },
+  {
+   "title": "Electrical compatibility",
+   "description": "We checked published voltages against common controller and station input limits. The listing detail on the Callsun pair earned credit, and the 50.2V ZOUPW was flagged for input limits. Missing specs lose points."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Owner feedback patterns shaped our view of portable panel durability and kit support. We discounted marketing claims about efficiency that were not tied to a published figure."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Daily Energy Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lights, phones and a fan only",
+      "SUNIVORA 200W",
+      "Modest portable panel"
+     ],
+     [
+      "Fridge, lights and laptop",
+      "Renogy 200W rigid x2",
+      "400W array from two panels"
+     ],
+     [
+      "Full-time boondocking with a big load",
+      "Callsun 400W pair",
+      "Largest roof array in the group"
+     ],
+     [
+      "Large lithium bank to refill",
+      "Renogy ShadowFlux kit",
+      "3840Wh bank plus expandable array"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest",
+      "SUNIVORA 200W",
+      "Portable panel for a station"
+     ],
+     [
+      "Low to mid",
+      "Renogy 200W rigid",
+      "Single roof panel"
+     ],
+     [
+      "Mid",
+      "Callsun 400W pair",
+      "Two panels for the price per watt"
+     ],
+     [
+      "Premium",
+      "Renogy ShadowFlux kit",
+      "Includes a large battery"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Roof vs Ground Panels",
+   "cards": [
+    {
+     "label": "Roof",
+     "text": "The Callsun pair and the Renogy rigid panel charge all day with no effort. They cannot escape shade, so they suit open camps and long stays."
+    },
+    {
+     "label": "Ground",
+     "text": "The Renogy portable, ZOUPW 350W and SUNIVORA 200W move into the sun. They need daily setup but save a bad-shade site."
+    }
+   ],
+   "note": "Choose roof for open land, add a ground panel if you often camp under trees."
+  },
+  {
+   "subheading": "Series vs Parallel Wiring",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Long wire runs",
+      "Callsun 400W pair",
+      "Series gives 8.43A at 47.48V"
+     ],
+     [
+      "Shade on one panel",
+      "Callsun 400W pair",
+      "Parallel keeps the other panel running"
+     ],
+     [
+      "PWM controller only",
+      "Renogy 200W rigid",
+      "Keep voltage low with a single panel"
+     ],
+     [
+      "High-voltage station input",
+      "ZOUPW 350W",
+      "50.2V open-circuit voltage"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Cloudy Weeks Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A big battery bank, a shade-tolerant panel layout and the ability to add a generator input. Cloudy output is a quarter or less of sunny output."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Renogy ShadowFlux kit with 3840Wh fits this case best, since the bank carries several days. Add the Callsun pair or a second Renogy rigid panel to cut recovery time."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You boondock for weeks at a time or in cold, low-sun regions. The ShadowFlux kit or the Callsun 400W pair give you capacity and shade resilience."
+    },
+    {
+     "label": "Save if",
+     "text": "You boondock for a few nights between hookups. The Renogy 200W rigid or the SUNIVORA 200W cover light use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean roof and portable panels",
+   "interval": "Every week while boondocking",
+   "why": "Dust, pollen and bird droppings accumulate quickly in the field and cut output. Plain water with a soft cloth works, and a dry brush does not."
+  },
+  {
+   "task": "Check battery state each morning",
+   "interval": "Daily",
+   "why": "A monitor shows whether you are gaining or losing energy day to day. Knowing the trend lets you cut loads before the battery is empty."
+  },
+  {
+   "task": "Inspect roof sealant and brackets",
+   "interval": "Every season",
+   "why": "Road vibration and UV crack sealant and loosen brackets. A leak under a panel foot can do real damage."
+  },
+  {
+   "task": "Check MC4 connectors and cable strain relief",
+   "interval": "Every season",
+   "why": "Portable cables flex every day and fail at the connectors. Replace any cable with cracked insulation."
+  },
+  {
+   "task": "Verify controller input limits in cold weather",
+   "interval": "Before winter",
+   "why": "Open-circuit voltage rises as temperature falls, and a margin that works in summer can exceed a controller limit in winter."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How much solar do I need to boondock?",
+   "a": "Most boondockers aim for 400 to 800W on the roof, depending on whether they run a fridge, a laptop and a water pump. Divide daily watt-hours by 4 to 5 sun hours and 0.7 for losses."
+  },
+  {
+   "q": "Is a portable panel better than a roof panel for boondocking?",
+   "a": "A roof panel charges with no effort but cannot leave the shade. A portable panel can chase the sun but needs daily setup. Many people use both."
+  },
+  {
+   "q": "Can I add a generator as a backup?",
+   "a": "Yes, a generator through a converter or an inverter charger fills in on dull days. Many boondockers run it for an hour a day to top up the bank."
+  },
+  {
+   "q": "Do I need MPPT for boondocking?",
+   "a": "For arrays above about 200W, yes. MPPT recovers more in cold or low light, which matters most when you depend on solar."
+  },
+  {
+   "q": "How do I handle partial shade?",
+   "a": "Choose panels with shade-resistant layouts like the ShadowFlux or a split design like the Callsun, and park so the roof stays clear of trees when you can. Series wiring suffers most from shade."
+  },
+  {
+   "q": "Will solar run my air conditioner?",
+   "a": "Not realistically. An RV air conditioner needs far more panel, battery and inverter capacity than a typical boondocking array."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/317DIkb9V-L._SL500_.jpg"
+}

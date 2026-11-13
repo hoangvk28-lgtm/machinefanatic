@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-solar-generator-with-30-amp-rv-plug",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "solar generator with 30 amp rv plug",
+ "guideTitle": "Best Solar Generators for a 30 Amp RV Plug (2026)",
+ "metaTitle": "Solar Generators for a 30 Amp RV Plug",
+ "metaDescription": "Six solar generators that suit a 30 amp RV shore cord, from a 292Wh trailer starter to 3,840Wh TT-30 batteries, with real runtime math for travel trailers.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The BLUETTI Elite 300 solar kit with two 200W panels is the best fit for a 30 amp RV because its TT-30 outlet takes the trailer cord directly and the panels come in the box. The Jackery Solar Generator 1000 v2 is the value pick for smaller trailers that run on a compressor fridge and lights. Skip all of this if you want to run the roof air conditioner every afternoon, since only the biggest batteries manage that for long.",
+ "introParagraphs": [
+  "Travel trailers and small motorhomes use a shore cord that ends in a particular plug, and the plug decides whether a battery can slot into the coach's existing wiring. Getting that connection right matters more than a few extra watt-hours.",
+  "This guide starts with the RV rather than the battery: what the coach actually draws, which batteries have a native connector and what to expect from each in a real afternoon at camp. The six machines range from a van-friendly starter to the largest unit that still behaves sensibly on a standard trailer."
+ ],
+ "products": [
+  {
+   "id": "B0GKRPD6GL",
+   "badge": "Best Overall",
+   "name": "BLUETTI Elite 300 Solar Generator with 2x200W Panels",
+   "specs": [
+    "3,014Wh LFP",
+    "2,400W AC",
+    "TT-30 outlet",
+    "2x200W panels"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,014Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "2,400W"
+    },
+    {
+     "label": "Surge",
+     "value": "4,800W"
+    },
+    {
+     "label": "RV outlet",
+     "value": "TT-30"
+    },
+    {
+     "label": "Included panels",
+     "value": "2 x 200W"
+    }
+   ],
+   "description": "If one box could be designed for a trailer shore cord, this is it. A dedicated TT-30 receptacle takes the coach's cord straight from the battery, a 12V/30A DC port can feed the trailer's 12V circuits and the kit adds two 200W panels so a camp stay has a refill path from day one. That is the whole electrical story of a modest trailer in one purchase.\n\nOutput is 2,400W with 4,800W of surge. A typical trailer afternoon, a 13,500 BTU air conditioner at about 1,300W plus a refrigerator and lights, draws roughly 1,600W, so the inverter is not strained, while the 3,014Wh tank lasts about 1.6 hours at that rate and several hours if you only cool in bursts. Compared with the ABOK Ark3600 it is smaller and lighter, and the panel kit gives it a real solar identity.\n\nPlace it low and strapped in, keep the vents clear and do not charge below freezing. The two panels give roughly 300W of real output, so plan an extra panel or an alternator charger for long stays. If your trailer's converter charges the house batteries from the shore cord, expect the Elite 300 to feed that load as well, so factor an extra 100 to 300W while the batteries fill.",
+   "bestFor": "Travel trailer owners who want the connector, the panels and the capacity in one kit.",
+   "pros": [
+    "TT-30 outlet plugs the shore cord in directly",
+    "12V/30A DC port serves trailer 12V gear",
+    "Two 200W panels included",
+    "Compact for 3,014Wh"
+   ],
+   "cons": [
+    "Panels refill slowly relative to the 3kWh tank",
+    "2,400W cannot run everything at once",
+    "Heavy enough for a two-handed carry"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GKRPD6GL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mZSGuEV7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F47FKBQ4",
+   "badge": "Best Bigger-Tank Kit",
+   "name": "ABOK Ark3600 3,840Wh with 3x200W Panels and TT-30 Port",
+   "specs": [
+    "3,840Wh LiFePO4",
+    "3,600W AC",
+    "TT-30 port",
+    "3x200W panels"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,840Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Peak output",
+     "value": "7,200W"
+    },
+    {
+     "label": "RV port",
+     "value": "TT-30"
+    },
+    {
+     "label": "Combined input",
+     "value": "Up to 3,500W"
+    }
+   ],
+   "description": "Where the Elite 300 is compact, the Ark3600 kit is generous. A TT-30 port, 3,840Wh, 3,600W of output and three 200W panels make it the biggest all-in-one for a 30 amp coach. On a trailer that means the air conditioner, the microwave and the refrigerator can all be live together, with the caveat that 3,600W is the circuit's peak and sustained loads should stay under about 2,880W.\n\nThe listing claims up to 3,500W of combined AC and solar input, with a zero to 80 percent charge in about 1.1 hours under ideal conditions, so a hookup afternoon fully resets it. With 600W of panels it can refill about 1,900Wh on a clear day, about 60 percent more than the Elite 300's kit.\n\nThe price of that capability is size and weight. Confirm the storage bay dimensions before buying, mount the unit so it cannot slide and inspect the TT-30 receptacle regularly for heat marks. Keep the vents clear in a warm compartment. Owners also note that large-capacity units run their fans louder under heavy load, so a bay with an open vent beats a sealed cupboard.",
+   "bestFor": "Larger trailers and long boondocking stays that need serious energy and solar.",
+   "pros": [
+    "3,840Wh tank is the largest in the group",
+    "TT-30 port and 3,600W inverter",
+    "600W of panels in the kit",
+    "Expandable up to 11,520Wh"
+   ],
+   "cons": [
+    "Bulky and heavy for a small trailer",
+    "Smaller owner community",
+    "Three panels need ground or roof space"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0F47FKBQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FMXCPWBN",
+   "badge": "Best for Growing Systems",
+   "name": "Jackery HomePower 3600 Plus with 2x200W Panels",
+   "specs": [
+    "3,584Wh LFP",
+    "3,600W AC",
+    "Expands to 21kWh",
+    "Parallel 7,200W"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,584Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Parallel output",
+     "value": "7,200W"
+    },
+    {
+     "label": "Expansion",
+     "value": "Up to 21kWh"
+    },
+    {
+     "label": "Included panels",
+     "value": "2 x 200W"
+    }
+   ],
+   "description": "This kit is for the RV owner whose rig is part of a bigger plan. A single unit supplies 3,600W for a 30 amp coach, a second in parallel gives 7,200W, and expansion packs reach 21kWh, which would run a 50 amp coach and a house. The listing also describes a transfer-switch path into a home, so one battery can serve the trailer on weekends and the house in a storm.\n\nThe heat-resistant ceramic membrane cells are a quiet selling point in a hot cargo bay. There is no native RV outlet listed, so you would plug the shore cord in through an adapter or the right household outlet. Compared with the Elite 300 it holds 570Wh more but lacks the TT-30 convenience.\n\nTreat it as the long-term purchase. Install it where it will live, check its firmware occasionally, keep the vents clear and top it up every few months in storage. If you add a second unit later, make sure the trailer's inlet and wiring can take 7,200W before you rely on it.",
+   "bestFor": "Owners who want one battery for the RV now and the house or a bigger coach later.",
+   "pros": [
+    "Expandable to 21kWh",
+    "Parallel pair reaches 7,200W",
+    "Heat-tolerant ceramic membrane LFP",
+    "Transfer-switch route for house backup"
+   ],
+   "cons": [
+    "No native RV outlet listed",
+    "Two panels refill slowly",
+    "Highest cost for a 30 amp trailer"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FMXCPWBN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/417PSNnMsLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D2L1G66J",
+   "badge": "Best Value Mid-Size",
+   "name": "Jackery Solar Generator 1000 v2 with 200W Solar Panel",
+   "specs": [
+    "1,024Wh LiFePO4",
+    "1,500W AC",
+    "3,000W surge",
+    "50-min charge"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "1,024Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "1,500W"
+    },
+    {
+     "label": "Surge",
+     "value": "3,000W"
+    },
+    {
+     "label": "Included panel",
+     "value": "200W"
+    },
+    {
+     "label": "Recharge",
+     "value": "About 50 minutes"
+    }
+   ],
+   "description": "Plenty of 30 amp trailers never need the full 3,600W. A compressor refrigerator, lights, a fan, a laptop and a coffee maker add up to around 800W peak, and this unit's 1,500W inverter handles that with ease. The 1,024Wh tank gives a day of that kind of use and the 200W panel offsets a good part of it.\n\nThere is no TT-30 outlet, so you connect the trailer through a cord and adapter to one of the two AC outlets, or run only the appliances you care about directly. It cannot start a roof air conditioner, so it suits milder weather and shorter stays.\n\nIts big selling point is the 50 minute full recharge, which means one lunch stop at a hookup resets it. Compared with the Elite 300 it has a third of the energy, but it weighs far less and costs far less. Keep it inside the cabin and store it around half charged. For a weekend trip, charging it fully before you leave and using the panel to top up is a routine that works well.",
+   "bestFor": "Smaller trailers that run a fridge, lights and electronics without air conditioning.",
+   "pros": [
+    "50-minute full recharge from the wall",
+    "1,500W handles kitchen appliances",
+    "Light enough for one person",
+    "200W panel included"
+   ],
+   "cons": [
+    "Cannot run a rooftop air conditioner",
+    "No native 30 amp outlet",
+    "1,024Wh covers about a day of light use"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318axJyN-lL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FFSDCNR4",
+   "badge": "Best 3,600W Without an Outlet Premium",
+   "name": "Jackery HomePower 3000 with 2x200W Solar Panels",
+   "specs": [
+    "3,072Wh LFP",
+    "3,600W AC",
+    "7,200W surge",
+    "20ms UPS"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3,072Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "3,600W"
+    },
+    {
+     "label": "Surge",
+     "value": "7,200W"
+    },
+    {
+     "label": "Switchover",
+     "value": "20ms or less"
+    },
+    {
+     "label": "Included panels",
+     "value": "2 x 200W"
+    }
+   ],
+   "description": "Sometimes the right trailer battery is the plain one. The HomePower 3000 gives you 3,600W, a 7,200W surge and two 200W panels without any RV-specific port, which is how it undercuts units that carry the TT-30 badge. If you already own a good adapter, the connector is not worth paying a premium for.\n\nIt behaves well with air conditioners thanks to the big surge figure, and the claimed UPS switchover of 20 milliseconds or less lets it sit between a hookup and the coach as a buffer. Against the HomePower 3600 Plus it holds 512Wh less and is easier to justify for a single trailer.\n\nBuy a heavy-duty adapter rated for 30 amps, strap the unit down and keep it ventilated. Store it around half charged between trips. Its flatter, wider case suits under-bench storage better than a tall box.",
+   "bestFor": "Budget-conscious owners who already have a good adapter and want 3,600W.",
+   "pros": [
+    "3,600W with 7,200W surge",
+    "Two 200W panels included",
+    "20ms UPS function",
+    "No premium for a native RV port"
+   ],
+   "cons": [
+    "No TT-30 outlet listed",
+    "3,072Wh is mid-size",
+    "Needs a good adapter for the shore cord"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G429L5B4",
+   "badge": "Best Tiny Trailer Starter",
+   "name": "Jackery Solar Generator 300 with 40W Solar Panel",
+   "specs": [
+    "292Wh LiFePO4",
+    "300W AC",
+    "7.5 lb",
+    "100W USB-C PD"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "292Wh"
+    },
+    {
+     "label": "Rated AC output",
+     "value": "300W"
+    },
+    {
+     "label": "Weight",
+     "value": "7.5 lb"
+    },
+    {
+     "label": "USB-C",
+     "value": "100W PD"
+    },
+    {
+     "label": "Included panel",
+     "value": "40W"
+    }
+   ],
+   "description": "A 30 amp plug is overkill for the loads this unit handles, but it earns a place for teardrop and pop-up owners who want just enough. At 7.5 pounds and 292Wh it covers lights, phones, a laptop and a small fan for a night or two, and it will never tax the trailer's wiring.\n\nIt cannot run a fridge, a microwave or an air conditioner, and the 40W panel is only a trickle. Compared with the 1,024Wh Jackery 1000 v2 it holds less than a third of the energy.\n\nIts value is as a second battery: keep it for the tent, the patio and the car, and leave the big unit for the trailer. Store it at moderate charge and keep the AC off when you only need USB. It also doubles as a bedside battery for a CPAP with no heated humidifier, using under 50Wh a night.",
+   "bestFor": "Teardrop and pop-up owners who only need electronics and lights.",
+   "pros": [
+    "7.5 pounds, easy to carry",
+    "100W USB-C PD charges laptops efficiently",
+    "4,000-plus cycle LiFePO4",
+    "Pure sine wave AC outlets"
+   ],
+   "cons": [
+    "Cannot run any trailer appliance",
+    "40W panel is a trickle",
+    "Not a shore cord replacement"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What your trailer draws",
+   "explanation": "A typical 30 amp trailer uses a compressor fridge at 60 to 150W, LED lights at 30W, a 13,500 BTU air conditioner at 1,300W and a microwave at 1,000W. The 2,400W Elite 300 runs any two of those, the 1,500W Jackery 1000 v2 skips the air conditioner. Add the converter's charging draw if the trailer batteries are low, since it can add 200 to 400W."
+  },
+  {
+   "criterion": "TT-30 or adapter",
+   "explanation": "The Elite 300 and ABOK Ark3600 kits list a TT-30 outlet, so the coach's cord plugs in. The Jackery models rely on an adapter, which should be rated for 30 amps and short in length. A flimsy adapter is a common melt point at 2,880W."
+  },
+  {
+   "criterion": "Air conditioner start",
+   "explanation": "A rooftop compressor pulls about 2,500W at start, so the inverter surge must exceed that. The Elite 300's 4,800W and the Jackery 3000's 7,200W clear it, while the Jackery 1000 v2's 3,000W surge cannot cover the load for long."
+  },
+  {
+   "criterion": "12V side of the trailer",
+   "explanation": "Trailers run lights, a water pump and a fridge on 12V through a converter. The Elite 300's 12V/30A DC output can feed that directly, avoiding inverter and converter losses that can cost 10 to 15 percent."
+  },
+  {
+   "criterion": "Solar kit size",
+   "explanation": "Two 200W panels make roughly 1,200Wh on a good day, three make about 1,900Wh. The ABOK kit's 600W suits a long boondock, while the Elite 300's 400W covers a refrigerator and lights."
+  },
+  {
+   "criterion": "Where it lives in the rig",
+   "explanation": "A 3,000Wh battery weighs 60 pounds or more, so it should sit low and near the axle, strapped down. The Jackery 300 can go anywhere, the ABOK needs a dedicated spot. Check tongue weight if you carry it in the front. Also leave an air gap around the case for the cooling fan."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "TT-30",
+   "meaning": "The standard 120V, 30 amp RV plug found on trailers. A battery with this outlet connects without adapters.",
+   "watchFor": "The Elite 300 and the ABOK Ark3600 kit list one."
+  },
+  {
+   "spec": "12V/30A DC output",
+   "meaning": "A direct low-voltage output for RV 12V circuits that avoids inverter conversion.",
+   "watchFor": "The Elite 300 includes it."
+  },
+  {
+   "spec": "Surge watts",
+   "meaning": "A brief ceiling for motor and compressor startups.",
+   "watchFor": "The Elite 300 lists 4,800W and the HomePower 3000 lists 7,200W."
+  },
+  {
+   "spec": "Combined AC plus solar input",
+   "meaning": "The total charging power when wall and sun are used together.",
+   "watchFor": "The ABOK lists up to 3,500W."
+  },
+  {
+   "spec": "UPS switchover",
+   "meaning": "How quickly the unit moves to battery when shore power drops.",
+   "watchFor": "The Jackery 3000 claims 20ms and the 1000 v2 claims 10ms."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "RV connection",
+   "description": "We checked which units list a TT-30 outlet or 12V/30A DC port. The Elite 300 and ABOK Ark3600 scored highest; the rest rely on adapters."
+  },
+  {
+   "title": "Trailer load coverage",
+   "description": "We modeled a trailer afternoon at 1,600W and a night of fridge and lights at 150W. The ABOK's 3,840Wh gives about two hours of afternoon cooling."
+  },
+  {
+   "title": "Solar in the kit",
+   "description": "We compared panel wattage in each listing. The ABOK's 600W beat the Elite's and Jackery's 400W, while the Jackery 300's 40W is only a trickle."
+  },
+  {
+   "title": "Surge for starts",
+   "description": "We looked at surge ratings against compressor starts. The Jackery 3000's 7,200W gave the most margin."
+  },
+  {
+   "title": "Ownership",
+   "description": "We drew on the spec sheets and owner feedback patterns for weight, support and expansion, not personal use."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Trailer Size",
+   "table": {
+    "headers": [
+     "Trailer",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Teardrop or pop-up",
+      "Jackery Solar Generator 300",
+      "7.5 pounds, electronics only"
+     ],
+     [
+      "Small trailer, no air conditioner",
+      "Jackery Solar Generator 1000 v2",
+      "1,500W and 50-minute recharge"
+     ],
+     [
+      "Mid-size trailer with air conditioner",
+      "BLUETTI Elite 300 kit",
+      "TT-30, 4,800W surge"
+     ],
+     [
+      "Large trailer, long stays",
+      "ABOK Ark3600 kit",
+      "3,840Wh and 600W panels"
+     ],
+     [
+      "Trailer plus house backup",
+      "Jackery HomePower 3600 Plus",
+      "Expansion to 21kWh"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Jackery Solar Generator 300",
+      "Small and cheap"
+     ],
+     [
+      "Low-mid",
+      "Jackery Solar Generator 1000 v2",
+      "Fast recharge, panel included"
+     ],
+     [
+      "Mid",
+      "Jackery HomePower 3000",
+      "3,600W with panels"
+     ],
+     [
+      "Upper",
+      "BLUETTI Elite 300 kit",
+      "TT-30 and panels"
+     ],
+     [
+      "Premium",
+      "ABOK Ark3600 or HomePower 3600 Plus",
+      "Capacity and expansion"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Native RV Port vs Adapter",
+   "cards": [
+    {
+     "label": "Native port",
+     "text": "The Elite 300 and ABOK kits connect the coach cord directly, removing a failure point. You pay a premium for it but save the adapter hassle."
+    },
+    {
+     "label": "Adapter route",
+     "text": "The Jackery units are cheaper per watt and are fine with a rated adapter. They suit owners who already have a decent cord."
+    }
+   ],
+   "note": "Choose native for convenience, adapter for savings."
+  },
+  {
+   "subheading": "Panels vs Plugging In",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Mostly campgrounds with hookups",
+      "Jackery Solar Generator 1000 v2",
+      "50-minute recharge"
+     ],
+     [
+      "Mostly boondocking",
+      "ABOK Ark3600 kit",
+      "600W of panels"
+     ],
+     [
+      "Mix of both",
+      "BLUETTI Elite 300 kit",
+      "Panels and fast wall charging"
+     ],
+     [
+      "Travel days only",
+      "Jackery HomePower 3600 Plus",
+      "Add an alternator charger"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Hot-Weather Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for at least 3,000Wh and a surge rating above 4,000W. A 13,500 BTU unit uses 1,300W, so a 3,000Wh battery gives about two hours of continuous cooling."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ABOK Ark3600 is the one that can cool for a long afternoon. The Elite 300 can run in bursts, and the 1,500W Jackery cannot."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You camp off grid for days in hot weather. The ABOK Ark3600 kit or the HomePower 3600 Plus gives the energy."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp at powered sites and need the battery for outages. The Jackery 1000 v2 or HomePower 3000 does that."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect the TT-30 plug and receptacle",
+   "interval": "Before each trip",
+   "why": "Look for discoloured pins or a loose fit, which signal heat from resistance at 2,000W-plus loads."
+  },
+  {
+   "task": "Strap the battery down",
+   "interval": "Every trip",
+   "why": "A 60-pound battery sliding in a tow vehicle damages itself and the rig. Use ratchet straps rather than bungees, and check them after the first fifty miles."
+  },
+  {
+   "task": "Charge to about 50 percent for storage",
+   "interval": "Long storage",
+   "why": "Storage at the top of the range accelerates cell wear; mid-range is the gentler resting point."
+  },
+  {
+   "task": "Clean and check panels",
+   "interval": "Each camp",
+   "why": "Dust and misaligned panels cost output."
+  },
+  {
+   "task": "Update firmware and verify settings",
+   "interval": "Twice a year",
+   "why": "Updates tune charging profiles and protection. Keep a record of the version so you can tell whether a problem began after an update."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which solar generator works with a 30 amp RV?",
+   "a": "Units with a TT-30 outlet, like the BLUETTI Elite 300 and the ABOK Ark3600 kit, plug straight in. Others work through a rated adapter."
+  },
+  {
+   "q": "Can I run my RV air conditioner on a solar generator?",
+   "a": "For a few hours on the largest units. The ABOK's 3,840Wh gives about two hours of cooling, and smaller units are limited to bursts. A soft-start device helps. A soft-start kit on the roof unit cuts the starting surge by roughly half, which makes mid-size batteries far more usable."
+  },
+  {
+   "q": "Which is the best value for a trailer?",
+   "a": "The Jackery 1000 v2 for small trailers without air conditioning, and the HomePower 3000 for 3,600W. The Elite 300 kit is the convenience pick."
+  },
+  {
+   "q": "Do I need a transfer switch in an RV?",
+   "a": "No. You plug the shore cord into the battery instead of a pedestal. A transfer switch matters in a house, not a trailer. Just make sure any 12V charger inside the trailer is not backfeeding the battery."
+  },
+  {
+   "q": "How many panels do I need?",
+   "a": "Divide your daily watt-hours by 4 to 5 sun hours and by 0.7. A coach using 2,500Wh a day needs about 800W of panels. Mount them where shade from the awning will not cross them."
+  },
+  {
+   "q": "Is it safe to leave the battery in the trailer in winter?",
+   "a": "Yes if it is partly charged, but do not charge below freezing. Bring it indoors if the trailer sits in deep cold. A battery stored in a heated space keeps its capacity better through winter."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41mZSGuEV7L._SL500_.jpg"
+}
