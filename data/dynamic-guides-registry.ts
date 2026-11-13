@@ -1220,6 +1220,22 @@ export const dynamicGuideLoaders: Record<string, () => Promise<Record<string, un
   "best-solar-panels-under-500": () => import("./guides/best-solar-panels-under-500"),
   "best-solar-panels-under-75": () => import("./guides/best-solar-panels-under-75"),
   "best-solar-panels-under-750": () => import("./guides/best-solar-panels-under-750"),
+  "best-8-gallon-rv-water-heater": () => import("./guides/best-8-gallon-rv-water-heater"),
+  "best-8-sheet-paper-shredders": () => import("./guides/best-8-sheet-paper-shredders"),
+  "best-80-pint-dehumidifiers": () => import("./guides/best-80-pint-dehumidifiers"),
+  "best-80-pint-dehumidifiers-with-pumps": () => import("./guides/best-80-pint-dehumidifiers-with-pumps"),
+  "best-80mm-label-printers": () => import("./guides/best-80mm-label-printers"),
+  "best-8k-resin-3d-printers": () => import("./guides/best-8k-resin-3d-printers"),
+  "best-90-pint-dehumidifiers": () => import("./guides/best-90-pint-dehumidifiers"),
+  "best-95-pint-dehumidifiers": () => import("./guides/best-95-pint-dehumidifiers"),
+  "best-aa-battery-camping-fans": () => import("./guides/best-aa-battery-camping-fans"),
+  "best-address-label-printers": () => import("./guides/best-address-label-printers"),
+  "best-aiper-robotic-pool-cleaners": () => import("./guides/best-aiper-robotic-pool-cleaners"),
+  "best-air-conditioner-and-dehumidifier-combos": () => import("./guides/best-air-conditioner-and-dehumidifier-combos"),
+  "best-air-purifier-and-dehumidifier-combos": () => import("./guides/best-air-purifier-and-dehumidifier-combos"),
+  "best-air-purifier-and-humidifier-combos": () => import("./guides/best-air-purifier-and-humidifier-combos"),
+  "best-air-purifier-and-humidifier-combos-for-home-offices": () => import("./guides/best-air-purifier-and-humidifier-combos-for-home-offices"),
+  "best-air-purifiers-for-bedrooms-and-home-offices": () => import("./guides/best-air-purifiers-for-bedrooms-and-home-offices"),
 };
 
 export const dynamicGuideSlugs: string[] = Object.keys(dynamicGuideLoaders);

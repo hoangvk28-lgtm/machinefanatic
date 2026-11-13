@@ -1,0 +1,480 @@
+{
+ "guideSlug": "best-80mm-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "80mm label printers",
+ "guideTitle": "Best 80mm Label Printers (2026)",
+ "metaTitle": "Best 80mm Label Printers in 2026",
+ "metaDescription": "Four real 80mm thermal printers for labels, receipts and price tags, compared on width range, speed, connectivity and portability so you buy the right one.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The CLABEL CT327D is the best pick for shop labels because it is a true label printer with a 20 to 80mm width range and 203 dpi output. The 3nStar PPT305BT is the one to buy if the printer has to travel. Anyone who only needs a plain receipt printer should not pay for label features at all.",
+ "introParagraphs": [
+  "An 80mm printer takes paper or labels about three inches wide, which is the standard width for point of sale receipts and a common size for shelf tags, parcel labels and kitchen tickets. Direct thermal heads burn the image onto heat sensitive stock, so there is no ink or toner to buy, only rolls.",
+  "Not every 80mm machine is a label printer, though. Many are receipt printers that happen to accept wide paper, and the difference shows up in gap sensing, label sizing and driver support. Decide whether you need labels with exact edges or simply a roll of printed paper before you compare anything else."
+ ],
+ "products": [
+  {
+   "id": "B0H6M7HNWD",
+   "badge": "Best Overall",
+   "name": "CLABEL CT327D 3 inch thermal label printer, 20 to 80mm",
+   "specs": [
+    "20 to 80mm labels",
+    "152mm/s",
+    "203 dpi",
+    "Bluetooth + USB"
+   ],
+   "specList": [
+    {
+     "label": "Label width",
+     "value": "20 to 80 mm"
+    },
+    {
+     "label": "Print speed",
+     "value": "Up to 152 mm/s"
+    },
+    {
+     "label": "Resolution",
+     "value": "203 dpi"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth and USB"
+    },
+    {
+     "label": "Best use",
+     "value": "Price tags and SKU labels"
+    }
+   ],
+   "description": "The CT327D is the only machine in this lineup sold plainly as a label printer, and its headline feature is a width range from 20 to 80 mm. That means one printer can handle a narrow shelf tag on Monday and a full 80 mm shipping label on Friday without a second device. It prints at 203 dpi, the standard density for barcodes and small text, and quotes speeds up to 152 mm per second.\n\nThe tradeoff is that it is a desktop unit built for retail counters and stockrooms, so it does not travel as easily as the 3nStar. Mobile printing goes through the brand's Clabel app over Bluetooth, while desktop use runs over USB on Windows. If your workflow depends on that app, remember that an app can be dropped or changed, so confirm a driver path for your own computer before you commit. Compared with the receipt printer at 300 mm per second it is slower, but a label job is short and rarely speed bound.\n\nOwnership is mostly rolls and head care. Use rolls that match the width you set in the software, keep the platen free of adhesive residue, and wipe the print head with alcohol when lines start to fade. Direct thermal labels fade with heat and sunlight, so do not use them for anything that must stay legible for years.",
+   "bestFor": "Small shops and sellers who print price tags, product labels and barcodes in several widths.",
+   "pros": [
+    "Handles label widths from 20 to 80 mm",
+    "203 dpi suits barcodes and small text",
+    "Bluetooth for phone use plus USB for PCs",
+    "No ink or toner to buy"
+   ],
+   "cons": [
+    "Desktop unit, not a travel printer",
+    "Phone features rely on a single app",
+    "Thermal prints fade with heat and sunlight"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0H6M7HNWD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41uDG4iPJNL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09QC2X88N",
+   "badge": "Best Portable",
+   "name": "3nStar PPT305BT 80mm portable thermal printer, Bluetooth and USB",
+   "specs": [
+    "80mm portable",
+    "Bluetooth + USB",
+    "ESC/POS and ZPL",
+    "Drop resistant"
+   ],
+   "specList": [
+    {
+     "label": "Paper width",
+     "value": "80 mm (3 inch)"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth and USB"
+    },
+    {
+     "label": "Languages",
+     "value": "ESC/POS and ZPL"
+    },
+    {
+     "label": "Durability",
+     "value": "1.5 m drop resistance"
+    },
+    {
+     "label": "Form",
+     "value": "Ultra light, compact"
+    }
+   ],
+   "description": "The PPT305BT is built to be carried. It is light, compact and rated to survive a drop from about 1.5 metres, which is the kind of abuse a delivery bag or a market stall gives a printer. Bluetooth and USB are both onboard, so it pairs with a phone for field work and plugs into a laptop at a desk.\n\nIts quiet strength is language support. It speaks both ESC/POS, the receipt standard, and ZPL, the label standard used by Zebra style software, so it fits point of sale apps and shipping tools alike. Against the CT327D it gives up the neat label size range and desktop stability, but it is the better choice when you print on location. Expect a battery to run it rather than a wall socket, so carry a spare if the shift is long.\n\nThe maintenance story is simple. Clean the head with alcohol when printing looks streaky, keep dust out of the paper bay, and recharge fully before storing for weeks, because a deeply discharged lithium pack ages quickly. Check driver availability for your own operating system first, since portable models are sometimes sold with Windows drivers only.",
+   "bestFor": "Delivery drivers, market sellers and field staff who print receipts and labels away from a desk.",
+   "pros": [
+    "Rugged body rated for 1.5 m drops",
+    "Both ESC/POS and ZPL on board",
+    "Bluetooth for phones plus USB for computers",
+    "Light enough for a shoulder bag"
+   ],
+   "cons": [
+    "Battery limits long shifts",
+    "No label size range tools like the CT327D",
+    "Driver support varies by operating system"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B09QC2X88N?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PqzXnMYtL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H7RKJ3FD",
+   "badge": "Best for Mixed Receipt and Label Work",
+   "name": "Volcora 2-in-1 receipt and linerless label printer, 40/58/80mm",
+   "specs": [
+    "40/58/80mm paper",
+    "Auto cutter",
+    "USB, LAN, Serial, WiFi",
+    "Linerless labels"
+   ],
+   "specList": [
+    {
+     "label": "Paper widths",
+     "value": "40, 58 and 80 mm"
+    },
+    {
+     "label": "Cutter",
+     "value": "Automatic"
+    },
+    {
+     "label": "Connectivity",
+     "value": "USB, Serial, LAN, WiFi"
+    },
+    {
+     "label": "Label type",
+     "value": "Linerless"
+    },
+    {
+     "label": "Use",
+     "value": "Receipts and labels"
+    }
+   ],
+   "description": "Volcora sells this as two printers in one. It prints standard receipts and linerless labels, which are adhesive stickers with no backing paper, so there is nothing to peel and no waste liner to throw away. It accepts three paper widths, 40, 58 and 80 mm, and cuts each job with an automatic cutter.\n\nThe connection list is the longest here: USB, serial, Ethernet and WiFi. That range fits a restaurant or a shop that must plug into an older register as well as a modern tablet, and it is the reason to choose it over the plain receipt printer below. The cost is complexity. Linerless media is more sensitive to heat and dust than conventional labels, and the platen needs regular attention because adhesive can build up and cause jams.\n\nCompare it with the CT327D, which is a label first machine with 203 dpi, and you see the split. The Volcora is for counters that print both receipts and stickers, while the CT327D is for counters that mainly print tags. Keep a spare roll core and the right driver ready, and wipe the cutter and platen with alcohol on a schedule. Store linerless rolls sealed in their wrapper until needed, since exposed adhesive collects lint and makes feeding erratic.",
+   "bestFor": "Cafes and shops that need receipts and sticker labels from one networked counter printer.",
+   "pros": [
+    "Prints receipts and linerless labels",
+    "Supports 40, 58 and 80 mm widths",
+    "USB, Serial, LAN and WiFi ports",
+    "Automatic cutter included"
+   ],
+   "cons": [
+    "Linerless adhesive can gum the platen",
+    "Less of a pure label tool than the CT327D",
+    "Setup is more involved than a USB only printer"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0H7RKJ3FD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41bxXz34cFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H9R9WJ23",
+   "badge": "Best for Receipt Speed",
+   "name": "80mm direct thermal POS printer, USB and LAN, 300mm/s, auto cutter",
+   "specs": [
+    "80mm POS",
+    "300mm/s",
+    "USB + LAN",
+    "Auto cutter"
+   ],
+   "specList": [
+    {
+     "label": "Paper width",
+     "value": "80 mm"
+    },
+    {
+     "label": "Print speed",
+     "value": "Up to 300 mm/s"
+    },
+    {
+     "label": "Connectivity",
+     "value": "USB and LAN"
+    },
+    {
+     "label": "Cutter",
+     "value": "Automatic"
+    },
+    {
+     "label": "Alerts",
+     "value": "Beeper"
+    }
+   ],
+   "description": "This is a straightforward point of sale printer, and it is the fastest in the lineup on paper at up to 300 mm per second. An automatic cutter slices each ticket and a beeper alerts staff when a job is done, which suits a busy checkout or kitchen. It connects by USB or LAN.\n\nWhat it is not is a dedicated label printer. It handles 80 mm rolls well, but it lacks the label size range of the CT327D and the language breadth of the 3nStar, so use it for receipts and order tickets rather than product stickers. Many buyers pay for speed they never use, since a short receipt prints in a second or two on almost any machine. The real value is the reliable cutter and wired network option.\n\nPlan for an unbranded model's usual gaps. Documentation and firmware updates may be thin, so confirm that your point of sale software lists a compatible driver before you buy. Keep the paper bay clean, feed only thermal paper rated for 80 mm rolls, and wipe the head when the print grows faint. Check that the roll diameter fits the bay, because oversized rolls rub the lid and cause skewed feeding.",
+   "bestFor": "Busy counters and kitchens that want fast, quiet receipts and tickets and have no need for labels.",
+   "pros": [
+    "Up to 300 mm/s print speed",
+    "Automatic cutter for clean tickets",
+    "USB and LAN for wired setups",
+    "Low running cost with no ink"
+   ],
+   "cons": [
+    "Not designed for label stock",
+    "Brand support and drivers can be thin",
+    "Receipt only focus, no portable option"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H9R9WJ23?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jkwkUnHuL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Label printer or receipt printer",
+   "explanation": "Both families use 80 mm paper, but only a label printer senses gaps or marks between labels so that each sticker prints in the right place. A pure receipt printer, like the 80mm POS unit here, assumes continuous paper. The Volcora sits in the middle with linerless label support. Match the machine to the stock you plan to feed or you will fight alignment forever."
+  },
+  {
+   "criterion": "Width range and media flexibility",
+   "explanation": "A printer fixed at 80 mm needs 80 mm rolls every time. The CT327D accepts 20 to 80 mm, the Volcora takes 40, 58 and 80 mm, and the 3nStar and the POS printer stay at 80. If you print different tag sizes during the week, flexibility saves you from owning two printers. Check the label size range in the driver, not only the brochure."
+  },
+  {
+   "criterion": "Resolution and barcode quality",
+   "explanation": "The common label density is 203 dpi, which is enough for most one dimensional barcodes and readable text, as on the CT327D. Tiny two dimensional codes need more resolution or larger cells to scan. Receipt printers are often rated for text, not for barcodes on small stickers. Print a sample barcode and scan it before you commit to a roll size."
+  },
+  {
+   "criterion": "Connectivity and drivers",
+   "explanation": "Wired ports such as the USB and LAN pair on the POS printer survive software changes, while a phone app can vanish. The 3nStar adds Bluetooth, and the Volcora adds serial and WiFi. Buy the interface your software actually supports, and check that a Windows or macOS driver exists. A great printer without a driver is a paperweight. Before ordering, look up the exact software you run, whether that is a shipping platform, a till application or a spreadsheet add-in, and confirm it lists the printer or one of its command languages."
+  },
+  {
+   "criterion": "Speed versus real workload",
+   "explanation": "Print speed is quoted in millimetres per second, 300 on the POS printer and 152 on the CT327D. A label is short, so the difference is a fraction of a second per piece. Speed matters for long receipts or hundreds of labels in a row, not for single tags. Weigh cutter quality and jam resistance above peak speed. A cutter that mis-slices or a feed path that jams will cost you far more minutes across a month than any gap between 152 and 300 mm per second."
+  },
+  {
+   "criterion": "Fade, heat and durability",
+   "explanation": "Direct thermal output fades with heat, sunlight and rubbing, which makes it fine for shipping labels and receipts but a poor choice for outdoor tags or archived records. A portable body rated for drops, like the 3nStar, helps in the field. If labels must last for months, use a thermal transfer model with a ribbon instead of these direct thermal units."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "80 mm width",
+   "meaning": "The width of the paper or label roll, about three inches. It is the point of sale standard and a common label width.",
+   "watchFor": "The POS printer is limited to 80 mm, while the CT327D prints from 20 mm upward."
+  },
+  {
+   "spec": "Print speed in mm/s",
+   "meaning": "How quickly the head advances the paper while printing. A higher number helps on long tickets and batches.",
+   "watchFor": "The POS printer quotes 300 mm/s and the CT327D 152 mm/s, but a short label hides the gap."
+  },
+  {
+   "spec": "203 dpi",
+   "meaning": "Dots per inch of the print head, about eight dots per millimetre. It balances barcode accuracy with fast thermal printing.",
+   "watchFor": "The CT327D lists 203 dpi, which is fine for barcodes but not for very fine two dimensional codes."
+  },
+  {
+   "spec": "ESC/POS and ZPL",
+   "meaning": "Two printer command languages. ESC/POS drives receipt printers and ZPL drives label printers from Zebra style software.",
+   "watchFor": "The 3nStar PPT305BT supports both, so it connects to more software than the other three."
+  },
+  {
+   "spec": "Linerless",
+   "meaning": "Adhesive labels with no backing paper. They waste nothing and fit more per roll, but need a special platen.",
+   "watchFor": "The Volcora uses linerless media and needs regular platen cleaning to avoid sticky jams."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Fit for label work",
+   "description": "We judged each printer on whether it was designed for labels or for receipts. The CT327D and Volcora list label features, the others do not. This sorted the lineup into label first and receipt first machines."
+  },
+  {
+   "title": "Width range",
+   "description": "Stated paper widths decided flexibility. The CT327D spans 20 to 80 mm, the Volcora lists 40, 58 and 80 mm, and the other two stay at 80 mm. More range scored higher for mixed workloads."
+  },
+  {
+   "title": "Connectivity and software",
+   "description": "Interface lists were compared, from the USB and LAN pair on the POS unit to the Bluetooth and USB combination on the 3nStar. Support for ESC/POS and ZPL counted as a clear advantage for compatibility."
+  },
+  {
+   "title": "Speed and cutter",
+   "description": "Quoted mm/s speeds and the presence of an automatic cutter were noted. The POS printer leads at 300 mm/s while the CT327D runs at 152 mm/s, and we treated that gap as minor for short labels."
+  },
+  {
+   "title": "Portability and ruggedness",
+   "description": "The 3nStar claims drop resistance from 1.5 metres and a light body, which earned it the portable badge. Desktop machines were not penalised for lacking this, only for not matching a mobile use case."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Use",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Price tags and SKU labels in mixed sizes",
+      "CLABEL CT327D",
+      "20 to 80 mm range and 203 dpi"
+     ],
+     [
+      "Receipts and labels at one counter",
+      "Volcora 2-in-1",
+      "Prints both, with linerless labels"
+     ],
+     [
+      "Fast receipts only",
+      "80mm POS printer",
+      "300 mm/s with auto cutter"
+     ],
+     [
+      "Printing away from a desk",
+      "3nStar PPT305BT",
+      "Portable, drop resistant, Bluetooth"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower cost tier",
+      "80mm POS printer",
+      "Single purpose receipt hardware"
+     ],
+     [
+      "Middle tier",
+      "CLABEL CT327D",
+      "Label capable at moderate cost"
+     ],
+     [
+      "Higher cost tier",
+      "Volcora 2-in-1",
+      "Networked, two media types, more ports"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Receipt printer vs label printer",
+   "cards": [
+    {
+     "label": "Receipt printer",
+     "text": "Assumes continuous paper and relies on the cutter to set ticket length. The 80mm POS printer and the 3nStar work this way, and they print quickly."
+    },
+    {
+     "label": "Label printer",
+     "text": "Senses gaps and sizes stickers so they stay aligned. The CT327D and the Volcora are built around this, and they print slower but with cleaner placement."
+    }
+   ],
+   "note": "Choose a receipt printer for tickets and orders. Choose a label printer when sticker alignment matters."
+  },
+  {
+   "subheading": "Connectivity Preference",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Phone app control",
+      "CLABEL CT327D",
+      "Bluetooth through the Clabel app"
+     ],
+     [
+      "Network or older register",
+      "Volcora 2-in-1",
+      "USB, Serial, LAN and WiFi"
+     ],
+     [
+      "Wired USB or LAN only",
+      "80mm POS printer",
+      "Simple, reliable ports"
+     ],
+     [
+      "Phone plus laptop",
+      "3nStar PPT305BT",
+      "Bluetooth and USB together"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Shipping and Retail Labels Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A label printer with a width range that covers your stickers, 203 dpi for barcodes and a driver for the shipping platform you use."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The CLABEL CT327D fits best. The 3nStar PPT305BT is the alternative when printing has to happen on location, thanks to ZPL support."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need both receipts and stickers on a networked counter. The Volcora combines both jobs and adds WiFi and Ethernet."
+    },
+    {
+     "label": "Save if",
+     "text": "Your counter prints only tickets. The 80mm POS printer gives the fastest output with no label features you would never use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the print head",
+   "interval": "Every few rolls",
+   "why": "Residue from thermal paper builds up on the head and causes faint streaks. Isopropyl alcohol on a swab clears it in seconds."
+  },
+  {
+   "task": "Wipe the platen roller",
+   "interval": "Monthly",
+   "why": "Dust and adhesive on the roller cause feed errors. This matters most on the Volcora with linerless stock."
+  },
+  {
+   "task": "Match roll to the software width",
+   "interval": "Whenever the roll size changes",
+   "why": "A wrong width setting clips the image or wastes paper. A quick check keeps barcodes inside the printable area."
+  },
+  {
+   "task": "Store rolls cool and dark",
+   "interval": "Ongoing",
+   "why": "Thermal paper darkens with heat and light before you ever print. Keep spares in a drawer rather than a sunny window."
+  },
+  {
+   "task": "Charge the pack before storage",
+   "interval": "Before long idle spells",
+   "why": "A deeply drained lithium pack on the 3nStar ages quickly. Store it around half charged if it will sit for weeks."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can an 80mm receipt printer print labels?",
+   "a": "Only if the labels are continuous roll stock and the software supports it. Without gap sensing, stickers drift out of position. A real label printer like the CT327D handles sizes properly."
+  },
+  {
+   "q": "Do I need to buy ink?",
+   "a": "No. Direct thermal printers heat the paper, so there is no ink, toner or ribbon. The cost is the roll, and the head needs occasional cleaning."
+  },
+  {
+   "q": "How long do thermal labels last?",
+   "a": "They fade with heat, sunlight and rubbing, so expect months rather than years. For long life or outdoor use, a thermal transfer printer with a ribbon is a better choice."
+  },
+  {
+   "q": "Is 203 dpi enough for barcodes?",
+   "a": "For standard one dimensional barcodes at normal sizes, yes. Tiny two dimensional codes scan better at higher resolution or with larger cells, so test a sample first. Printing the actual code you plan to use, at its real size, and scanning it with the scanner your warehouse or checkout owns is the only reliable proof."
+  },
+  {
+   "q": "Which connection is most reliable?",
+   "a": "A wired USB or LAN link, as on the 80mm POS printer, survives software changes best. Bluetooth is convenient but depends on pairing and, sometimes, an app that can change."
+  },
+  {
+   "q": "Is the Volcora worth it over the CT327D?",
+   "a": "Only if you print both receipts and labels at one counter and want WiFi or serial ports. For labels alone, the CT327D is the more focused and usually simpler machine."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41uDG4iPJNL._SL500_.jpg"
+}
