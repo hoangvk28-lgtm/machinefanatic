@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-wire-free-robot-lawn-mowers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "wire free robot lawn mowers",
+ "guideTitle": "Best Wire Free Robot Lawn Mowers (2026)",
+ "metaTitle": "Best Wire Free Robot Lawn Mowers (2026)",
+ "metaDescription": "Six wire-free robot mowers compared by navigation method, lawn size, edge trimming and obstacle handling, so you pick the right way to map your yard.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The WORX WR320 is the best pick for most half-acre lawns because it combines satellite positioning with vision AI and handles obstacles well. The Navimow i105N is the value pick for a small lawn with trees and tight corridors. Anyone with heavy tree canopy over most of the lawn, or with a very steep yard, should look closely at LiDAR models, or accept that a walk-behind mower is still the safer choice.",
+ "introParagraphs": [
+  "A wire-free robot mower replaces the old boundary cable with a map the machine builds itself, and that single change is what made robotic mowing practical for ordinary yards. How the mower builds and uses its map is therefore the most important thing to understand before buying one.",
+  "The three common approaches are satellite positioning, camera-based vision and laser scanning, and each has a different weakness. Your lawn's tree cover, shape and lighting decide which of those weaknesses you will actually meet, so the navigation system matters more than the headline coverage number."
+ ],
+ "products": [
+  {
+   "id": "B0GN8KK8XW",
+   "badge": "Best Overall",
+   "name": "WORX WR320 Landroid Vision Cloud robot mower, half acre",
+   "specs": [
+    "RTK Cloud",
+    "Vision AI",
+    "Up to 1/2 acre",
+    "No perimeter wire"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1/2 acre"
+    },
+    {
+     "label": "Positioning",
+     "value": "RTK delivered via cloud"
+    },
+    {
+     "label": "Vision",
+     "value": "AI obstacle recognition"
+    },
+    {
+     "label": "Boundary",
+     "value": "No wire"
+    },
+    {
+     "label": "Mapping",
+     "value": "Automatic mapping"
+    }
+   ],
+   "description": "Worx delivers its satellite correction data through the cloud rather than through a dedicated antenna on the lawn, which cuts setup to a few steps, and pairs it with a camera system that the listing says recognizes and understands objects instead of just bumping into them. That combination is the practical sweet spot: RTK gives centimetre-level position when the sky is clear, and vision fills in where it is not.\n\nThe tradeoff is dependence on a connection and a clear sky view. Where trees cover most of the lawn, satellite accuracy drops, and the vision system then carries the load. Compared with the ECOVACS GOAT A2000, the Worx uses RTK plus vision where the ECOVACS uses LiDAR, so the Worx will behave better in open sun and the ECOVACS better under canopy.\n\nAs with all robots, ownership is a maintenance routine: replace the blades before they dull, clean the wheels and underbody, and clear sticks that could jam the cutting disc. Keep the firmware updated, and give it a mapped area with no steep drop-offs. For a typical half-acre suburban lawn it is the most balanced choice.",
+   "bestFor": "Half-acre lawns with mostly open sky and a mix of garden obstacles.",
+   "pros": [
+    "RTK plus vision for flexible positioning",
+    "AI obstacle recognition, not just bump sensing",
+    "Automatic mapping with no buried wire",
+    "Covers up to about half an acre"
+   ],
+   "cons": [
+    "Satellite accuracy suffers under dense tree cover",
+    "Relies on a cloud service for RTK data"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GN8KK8XW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Ti+DWd55L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GGZQTY2N",
+   "badge": "Best LiDAR Pick",
+   "name": "ECOVACS GOAT A2000 LiDAR PRO dual-LiDAR robot mower",
+   "specs": [
+    "Dual LiDAR",
+    "Up to 1/2 acre",
+    "TruEdge trimming",
+    "32V platform"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1/2 acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "Dual LiDAR"
+    },
+    {
+     "label": "Edges",
+     "value": "Integrated TruEdge trimming"
+    },
+    {
+     "label": "Power",
+     "value": "32V platform"
+    },
+    {
+     "label": "Mapping",
+     "value": "Wire-free auto mapping"
+    }
+   ],
+   "description": "ECOVACS uses dual LiDAR, which scans the surroundings with laser rather than relying on satellites, so tree cover and tall hedges do not blind it the way they can an RTK-only machine. It also adds an integrated TruEdge trimmer, which cuts along borders where most robot mowers leave a strip of uncut grass against a fence or path.\n\nThe 32V platform is described as built for thick American grasses such as Bermuda, Zoysia, Fescue and St. Augustine, which suggests more motor headroom than light-duty models. The weakness of LiDAR-led navigation is cost and the way scanning can be confused by unusual structures like open lattices, though it handles most yards well. Against the Worx, it trades satellite precision for canopy tolerance.\n\nOwnership centres on keeping the LiDAR windows and sensors clean, replacing blades and the edge-trimming line, and clearing debris. Because the edge trimmer is an extra wear item, plan to replace its line or blade periodically, and check that it is clear of wrapped grass.",
+   "bestFor": "Lawns with trees and hedges that block satellite signals and many border edges to trim.",
+   "pros": [
+    "LiDAR navigation is unaffected by canopy",
+    "Integrated trimmer cuts border edges",
+    "32V platform for thick grass types",
+    "Up to about half an acre"
+   ],
+   "cons": [
+    "Edge trimmer adds another wear part",
+    "LiDAR can be confused by unusual structures"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GGZQTY2N?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41-I+gdU+YL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CX7T6BR3",
+   "badge": "Best Quarter-Acre Pick",
+   "name": "Segway Navimow i110N RTK and vision robot mower",
+   "specs": [
+    "Up to 1/4 acre",
+    "RTK and vision",
+    "AI mapping",
+    "No wires"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1/4 acre"
+    },
+    {
+     "label": "Positioning",
+     "value": "Enhanced RTK (EFLS 2.0)"
+    },
+    {
+     "label": "Vision",
+     "value": "Vision system for obstacles"
+    },
+    {
+     "label": "Setup",
+     "value": "App-based, a few taps"
+    },
+    {
+     "label": "Pattern",
+     "value": "Planned mowing paths"
+    }
+   ],
+   "description": "Navimow pairs customized RTK positioning with a vision system under the name EFLS 2.0, aimed at complex lawns where satellite signals alone drop out. Setup is by app: you trace or define the boundary on your phone and the mower builds the map, with planned mowing paths that give a tidy systematic cut rather than random zigzags.\n\nIt is sized for a quarter acre, which is half of what the Worx and ECOVACS claim, so it suits a modest suburban lawn more than a large property. The step up to the X430 adds acreage and all-wheel drive, but the i110N is the sensible choice if your lawn is moderate and mostly flat.\n\nKeep an eye on blade wear and wheel cleanliness, and give it a charging dock location on firm, level ground with a clear sky view. Because it follows planned lines, a bump in the lawn that throws the machine off line is a sign to fix the ground or add a no-go zone.",
+   "bestFor": "Quarter-acre flat lawns where an app-mapped, systematic cut is the goal.",
+   "pros": [
+    "RTK plus vision tuned for complex lawns",
+    "Planned mowing patterns give systematic cuts",
+    "App-based mapping in a few taps",
+    "Sized to match a quarter acre"
+   ],
+   "cons": [
+    "Limited to about a quarter acre",
+    "Needs a clear sky view for best RTK accuracy"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0CX7T6BR3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TLieZtDFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CX8LL2PC",
+   "badge": "Best Small-Lawn Value",
+   "name": "Segway Navimow i105N RTK and vision robot mower",
+   "specs": [
+    "Up to 1/8 acre",
+    "RTK and vision",
+    "Narrow corridors",
+    "AI mapping"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 1/8 acre"
+    },
+    {
+     "label": "Positioning",
+     "value": "RTK and vision"
+    },
+    {
+     "label": "Target",
+     "value": "Small, tree-covered lawns"
+    },
+    {
+     "label": "Setup",
+     "value": "App mapping, no wires"
+    },
+    {
+     "label": "Pattern",
+     "value": "Planned mowing paths"
+    }
+   ],
+   "description": "The i105N is the smaller sibling of the i110N, rated for about an eighth of an acre, and the listing stresses its ability to handle lawns covered by trees and narrow corridors. That makes it the right size for a townhouse yard or a front lawn broken up by beds.\n\nIts limits are plain: an eighth of an acre is a small lawn, and if yours is bigger you will need the i110N or a larger model. The vision half of its RTK-plus-vision design is what lets it keep going where trees disrupt satellite positioning, which is a real advantage on small shaded plots.\n\nOwnership is standard robot care. Replace the blades regularly, keep the charging contacts clean and the dock on level ground, and use no-go zones around flowerbeds and delicate planting. Because the lawn is small, the machine finishes quickly and spends most of its time docked, which keeps wear low.",
+   "bestFor": "Small, shaded lawns and narrow corridors where size and cost matter.",
+   "pros": [
+    "Aimed at lawns with trees and narrow corridors",
+    "RTK and vision work together",
+    "Planned mowing paths",
+    "Low outlay in the Navimow range"
+   ],
+   "cons": [
+    "Only about an eighth of an acre",
+    "Too small if the lawn grows"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CX8LL2PC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zRHwQuA-L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GRVYN12B",
+   "badge": "Best Dual-Camera Pick",
+   "name": "Roborock RockNeo Q110H full-band RTK and VSLAM robot mower",
+   "specs": [
+    "Full-band RTK",
+    "VSLAM",
+    "Dual-camera AI",
+    "Dual mapping modes"
+   ],
+   "specList": [
+    {
+     "label": "Positioning",
+     "value": "Full-band RTK"
+    },
+    {
+     "label": "Vision",
+     "value": "VSLAM, dual-camera AI"
+    },
+    {
+     "label": "Mapping",
+     "value": "Dual mapping modes"
+    },
+    {
+     "label": "Obstacles",
+     "value": "Stereo vision avoidance"
+    },
+    {
+     "label": "Boundary",
+     "value": "No wire"
+    }
+   ],
+   "description": "Roborock combines full-band RTK, which listens on more than one satellite frequency to hold a fix under partial cover, with visual SLAM and a dual-camera AI system that the listing says identifies obstacles in stereo. Two mapping modes give you a choice of how to build the lawn map.\n\nFull-band RTK is the more robust cousin of the single-band systems on some rivals, so it should hold position better near buildings and trees, though not under dense canopy. The listing does not give a claimed area in the data provided, so check the maker's stated lawn size before you rely on it for a specific yard. Compared with the Worx, it leans harder on camera hardware.\n\nExpect to keep camera lenses clean, replace blades yearly and update firmware. Make sure the lawn is free of low-light dead spots if the cameras are to work, since vision systems can struggle in deep shade or at dusk.",
+   "bestFor": "Yards near buildings and trees where a stronger satellite fix and stereo cameras help.",
+   "pros": [
+    "Full-band RTK holds a fix under partial cover",
+    "Dual-camera stereo obstacle avoidance",
+    "Two mapping modes",
+    "No buried wire"
+   ],
+   "cons": [
+    "Lawn size claim should be checked before purchase",
+    "Camera systems need clean lenses and decent light"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GRVYN12B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/313sI7BfCPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GQ2VCL25",
+   "badge": "Best No-Antenna Option",
+   "name": "HOOKII Neomow X2 Air 3D LiDAR robot mower, 0.37 acre",
+   "specs": [
+    "3D LiDAR",
+    "0.37 acre",
+    "No RTK antenna",
+    "4G app control"
+   ],
+   "specList": [
+    {
+     "label": "Coverage",
+     "value": "Up to 0.37 acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "360 degree 3D LiDAR SLAM"
+    },
+    {
+     "label": "Antenna",
+     "value": "No RTK antenna needed"
+    },
+    {
+     "label": "Connectivity",
+     "value": "4G app control"
+    },
+    {
+     "label": "Vision",
+     "value": "AI vision, camera expansion port"
+    }
+   ],
+   "description": "The Neomow X2 Air skips satellite positioning and relies on a 360 degree 3D LiDAR combined with AI vision, so there is no antenna to place and no sky view to worry about. The listing also gives it 4G connectivity, which means app control works without depending on your home Wi-Fi reaching the far end of the lawn.\n\nA reserved port allows a triple-vision camera to be added later, which is sold separately, so the base unit relies on LiDAR plus its standard vision. At 0.37 acre it sits between the Navimow i110N and the half-acre models. Compared with the ECOVACS, it also uses LiDAR but is sized slightly smaller and emphasizes the no-antenna setup.\n\nThe usual robot upkeep applies: sharp blades, clean sensors and a firm, level dock position. Because it relies on scanning, keep the LiDAR window clear of dirt and spider webs, and check the lawn boundary map after any landscaping change.",
+   "bestFor": "Lawns with trees or no easy antenna position where LiDAR beats satellite mapping.",
+   "pros": [
+    "No RTK antenna to install",
+    "360 degree 3D LiDAR is unaffected by canopy",
+    "4G app control away from Wi-Fi",
+    "Camera expansion port for later"
+   ],
+   "cons": [
+    "Extra camera is sold separately",
+    "Smaller than the half-acre models"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQ2VCL25?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hH6D6cHlL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "RTK, LiDAR or vision",
+   "explanation": "RTK gives centimetre-level position from satellites but needs a clear sky and a correction source. LiDAR scans the surroundings with laser and does not care about trees. Vision uses cameras and depends on light. The WORX WR320 blends RTK with vision, while the ECOVACS GOAT A2000 and HOOKII X2 Air lean on LiDAR."
+  },
+  {
+   "criterion": "Tree and building cover",
+   "explanation": "Heavy canopy and tall walls reduce satellite accuracy, causing drift or stops on RTK-only mowers. Full-band RTK on the Roborock Q110H holds better, and LiDAR models such as the HOOKII avoid the problem altogether. Walk your lawn in summer when leaves are full to judge it."
+  },
+  {
+   "criterion": "Lawn area claim",
+   "explanation": "Claimed coverage runs from an eighth of an acre on the Navimow i105N to half an acre on the WORX and ECOVACS. Treat the number as a maximum for open, simple lawns, since beds, trees and slopes slow a robot down. Pick one size above your real area."
+  },
+  {
+   "criterion": "Edge trimming",
+   "explanation": "Most robot mowers leave a strip of grass along fences and paths because the blade sits inside the body. The ECOVACS GOAT A2000 adds an integrated TruEdge trimmer. Others will need a string trimmer for borders as part of your routine."
+  },
+  {
+   "criterion": "Obstacle recognition",
+   "explanation": "Bumper sensors only notice an obstacle when they hit it. Vision systems on the WORX, Roborock and Navimow recognize objects before contact, which matters for pets, toys and hoses. Look for stereo or AI vision if the lawn is not always tidy."
+  },
+  {
+   "criterion": "Connectivity",
+   "explanation": "App control needs a link. Wi-Fi may not reach the far end of a big lawn, while the HOOKII X2 Air uses 4G. Check how the mower behaves when the connection drops and whether it keeps mowing on a stored schedule."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "RTK",
+   "meaning": "Real-time kinematic positioning. It corrects satellite signals to centimetre-level accuracy when it has a clear view.",
+   "watchFor": "Full-band RTK on the Roborock uses more than one frequency, which holds better under partial cover."
+  },
+  {
+   "spec": "LiDAR",
+   "meaning": "A laser scanner that builds a 3D map of the surroundings. It works without satellites.",
+   "watchFor": "The ECOVACS uses dual LiDAR and the HOOKII a 360 degree 3D unit."
+  },
+  {
+   "spec": "VSLAM",
+   "meaning": "Visual simultaneous localization and mapping, where cameras build a map and locate the mower in it.",
+   "watchFor": "The Roborock Q110H uses it; it needs decent light."
+  },
+  {
+   "spec": "Coverage (acres)",
+   "meaning": "The maximum lawn area the maker claims the mower can manage in normal conditions.",
+   "watchFor": "From about 1/8 acre on the i105N to 1/2 acre on the WORX and ECOVACS."
+  },
+  {
+   "spec": "No-go zones",
+   "meaning": "Virtual areas you mark on the app map where the mower must not go.",
+   "watchFor": "All of these support them; use them around beds, ponds and soft edges."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Navigation method",
+   "description": "We classified each mower as RTK, LiDAR, vision or a blend, and matched that to typical yard problems such as trees and walls. A method that fails in your yard cannot be rescued by other specs. We relied on listing descriptions."
+  },
+  {
+   "title": "Lawn size fit",
+   "description": "We compared claimed areas from an eighth of an acre to half an acre against typical suburban lawns. We treated the figure as a ceiling. A mower sized too close to the lawn will struggle."
+  },
+  {
+   "title": "Obstacle handling",
+   "description": "We looked at whether each robot recognizes objects with AI or stereo vision, or only bumps into them. This matters on messy lawns with pets and toys. Judgments come from spec sheets and owner feedback patterns."
+  },
+  {
+   "title": "Setup and connectivity",
+   "description": "We compared app mapping, antenna requirements and connectivity such as 4G on the HOOKII. Less hardware to place scored higher. We noted when extras are sold separately."
+  },
+  {
+   "title": "Edge and finish",
+   "description": "We noted whether the mower trims borders, as on the ECOVACS, or leaves an edge strip. We also considered planned mowing patterns on the Navimow models, which give a more even finish."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Lawn Condition",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Open sky, half acre",
+      "WORX WR320",
+      "RTK with vision AI"
+     ],
+     [
+      "Trees and hedges",
+      "ECOVACS GOAT A2000",
+      "Dual LiDAR ignores canopy"
+     ],
+     [
+      "No antenna position",
+      "HOOKII Neomow X2 Air",
+      "LiDAR with no RTK antenna"
+     ],
+     [
+      "Partial cover, buildings",
+      "Roborock Q110H",
+      "Full-band RTK and stereo vision"
+     ],
+     [
+      "Quarter acre, flat",
+      "Navimow i110N",
+      "Planned paths, app mapping"
+     ],
+     [
+      "Small shaded corridors",
+      "Navimow i105N",
+      "Aimed at trees and narrow gaps"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "Navimow i105N",
+      "Smallest, simplest in the group"
+     ],
+     [
+      "Low to mid",
+      "Navimow i110N",
+      "Quarter-acre capacity"
+     ],
+     [
+      "Mid tier",
+      "Roborock Q110H",
+      "Full-band RTK and dual cameras"
+     ],
+     [
+      "Mid to upper",
+      "HOOKII Neomow X2 Air",
+      "3D LiDAR and 4G"
+     ],
+     [
+      "Upper tier",
+      "WORX WR320 or ECOVACS GOAT A2000",
+      "Half-acre capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Satellite vs LiDAR",
+   "cards": [
+    {
+     "label": "Satellite (RTK)",
+     "text": "The WORX WR320, Navimow models and Roborock Q110H use RTK, which gives precise paths in the open and needs a clear sky. Dense canopy or tall buildings can cause drift."
+    },
+    {
+     "label": "LiDAR",
+     "text": "The ECOVACS GOAT A2000 and HOOKII X2 Air scan with lasers, so trees do not matter. The price is that scanning can be confused by unusual structures and the sensor must stay clean."
+    }
+   ],
+   "note": "Pick RTK for open lawns and LiDAR for shaded or tree-dotted ones."
+  },
+  {
+   "subheading": "By Extra Feature",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Edge trimming built in",
+      "ECOVACS GOAT A2000",
+      "TruEdge trimmer"
+     ],
+     [
+      "Control without Wi-Fi",
+      "HOOKII Neomow X2 Air",
+      "4G app control"
+     ],
+     [
+      "Best object recognition",
+      "WORX WR320",
+      "AI vision"
+     ],
+     [
+      "Systematic stripes",
+      "Navimow i110N",
+      "Planned mowing paths"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Shaded Lawns Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "LiDAR or full-band RTK with vision backup, and a mower that keeps working when satellite signals weaken. Check how the maker describes tree-covered lawns."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ECOVACS GOAT A2000 and HOOKII X2 Air use LiDAR, and the Navimow i105N is aimed at tree-covered lawns. The WORX relies more on open sky."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "The lawn is near half an acre or has tricky shade. The WORX WR320 or ECOVACS GOAT A2000 give the largest area and the most robust navigation."
+    },
+    {
+     "label": "Save if",
+     "text": "The lawn is small and simple. The Navimow i105N or i110N covers it without paying for half-acre capacity."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace the cutting blades",
+   "interval": "Every few months",
+   "why": "Robot blades are thin and dull quickly. A dull blade tears the lawn and drains the battery."
+  },
+  {
+   "task": "Clean sensors and lenses",
+   "interval": "Weekly",
+   "why": "Dirt on a LiDAR window or camera lens degrades navigation and causes stops."
+  },
+  {
+   "task": "Wipe charging contacts",
+   "interval": "Monthly",
+   "why": "Corroded or dirty contacts stop the robot docking. A clean contact keeps it running on schedule."
+  },
+  {
+   "task": "Clear sticks and stones",
+   "interval": "Before each run period",
+   "why": "Debris jams the cutting disc and trips obstacle sensors. Walk the lawn periodically."
+  },
+  {
+   "task": "Update firmware and review the map",
+   "interval": "After landscaping changes",
+   "why": "New beds, trees or paths change the map. Re-check no-go zones and boundaries."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need to bury a wire?",
+   "a": "Not for the models here. They build a virtual map by satellite, vision or LiDAR, which you adjust in an app."
+  },
+  {
+   "q": "Which navigation is best under trees?",
+   "a": "LiDAR, as on the ECOVACS GOAT A2000 and HOOKII X2 Air, since it does not rely on satellites. Full-band RTK holds better under partial cover than single-band RTK."
+  },
+  {
+   "q": "How big a lawn can these handle?",
+   "a": "Claims run from about an eighth of an acre on the Navimow i105N to half an acre on the WORX WR320 and ECOVACS GOAT A2000. Pick one size above your real lawn."
+  },
+  {
+   "q": "Will a robot mow in the rain?",
+   "a": "Most have rain sensors that send them home, but wet grass clumps and cuts poorly. Check the maker's weather guidance."
+  },
+  {
+   "q": "Do robot mowers trim the edges?",
+   "a": "Usually not, since the blade sits inside the body. The ECOVACS adds a TruEdge trimmer, otherwise keep a string trimmer for borders."
+  },
+  {
+   "q": "Are robot mowers safe for pets?",
+   "a": "They stop blades on lift or tilt and use obstacle sensing. Vision models recognize objects, but keep pets and toys off the lawn while it runs as a precaution."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41Ti+DWd55L._SL500_.jpg"
+}

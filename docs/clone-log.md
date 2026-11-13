@@ -360,3 +360,30 @@ Finish: register-dynamic + register-new on all 58, mark done, `audit-guides.mjs`
 - 85 guides total for rounds 22-23: leaf blowers/vacuums, wood chippers, garden shredders, log splitters, tillers, pole saws, hedge trimmers, string trimmers. The last 49 were written this session by 2 Sonnet writers (A: 24 leaf/shredder/chipper, B: 25 hedge/string trimmer).
 - Writer skips (fewer than 3 distinct real machines): best-walk-behind-leaf-vacuums (2 powered walk-behind units), best-roller-garden-shredders (2 machines; one generic electric roller sold under 6 names), best-milwaukee-cordless-hedge-trimmers (2 real Milwaukee units; the rest are third-party tools for Milwaukee batteries).
 - Words 3,000 to 3,782. Checks: audit 0 failures, no 【, cross-guide duplicates limited to a few short maintenance lines (at most 4 repeats), tsc clean, build compiled + Finished TypeScript.
+
+### Prefilter skips (2026-11-13)
+| Skipped slug | Reason |
+|---|---|
+| best-ego-cordless-lawn-edgers | prefilter: only 1 distinct items match brand ego after extra searches |
+| best-kobalt-cordless-lawn-edgers | prefilter: only 0 distinct items match brand kobalt after extra searches |
+| best-makita-cordless-lawn-edgers | prefilter: only 2 distinct items match brand makita after extra searches |
+
+## Round 24 (2026-11-13): 48 edger, sprayer, lawn mower and pressure washer guides
+
+Cluster regex `edger|sprayer|lawn-mower|pressure-washer` over `source-index.json` todo: 64 topics. No budget topics needed adding, because every cap the brief suggested for this cluster (pressure-washers-under-200, lawn-mowers-under-300 and the rest) already exists as a published guide. Two budget slugs rode along in cluster: best-garden-sprayers-under-20 (7 under-cap items) and best-lawn-mowers-under-100 (5).
+
+Skips, 16 in all, all before a writer read anything except the last three:
+- Coordinator, not machines (3): best-outdoor-storage-sheds-for-lawn-mowers, best-rv-cleaner-for-pressure-washer, best-rv-wash-and-wax-for-pressure-washer.
+- Prefilter (3): ego, kobalt and makita cordless lawn edgers.
+- Stage A2 by hand (7): best-atlas-cordless-lawn-edgers (Atlas is Harbor Freight, zero on Amazon), best-stihl-cordless-lawn-edgers (zero Stihl edgers), best-sun-joe-cordless-lawn-edgers (2 Sun Joe edging tools, rest trimmers and dethatchers), best-dewalt-cordless-lawn-edgers (1 real DeWalt edger, rest string trimmers), best-milwaukee-lawn-mowers (4 listings of the one M18 FUEL 21 inch mower), best-dewalt-pressure-washers (3 genuine DeWalt, rest third-party "for DeWalt battery"), best-garden-sprayers-with-long-wands (lineup is hose watering wands, not sprayers).
+- Writer (3): best-milwaukee-compatible-battery-sprayers, best-black-decker-cordless-lawn-edgers, best-ryobi-cordless-lawn-edgers, each with only 3 distinct real on-topic machines. Reasons in `scripts/clone/skip-a.txt`.
+
+Writers: 2 Sonnet agents, each its whole list in one run, both reusing existing research files (edgers.md, garden-sprayers.md, lawn-mowers.md, pressure-washers.md) with no web search. A: 17 sprayers + 12 edgers, 26 done. B: 13 mowers + 9 pressure washers, 22 done. Neither built a generator; every spec was written by hand.
+
+Words 3,000 to 3,619, 4 to 7 products per guide.
+
+Coordinator fixes before shipping: writer B closed three product descriptions in each of best-greenworks-pressure-washers and best-pressure-washers-for-houses-and-siding with a near-identical "drain the pump, avoid kinks, store out of frost" line, so four were rewritten into machine-specific upkeep (brushless duty cycle and inlet screen, the GFCI plug, the hose reel on a two-storey wall, the quick-connect collar). The description-opening check then flagged repeated 4-word openings across the round ("Charge the pack after" 6, "Charge the battery after" 6, "Against the goodjob it" 7, "Treat it as a" 11, "Compared with the Chapin" 13, plus a "Lithium cells prefer a partial charge" line in 6 edger guides); 31 sentences were varied or rewritten, in both the data file and the matching spec, until every opening sat at 5 or fewer. A stray "mentioned elsewhere" phrase was removed from best-wire-free-robot-lawn-mowers.
+
+Housekeeping: 149 slugs from rounds 20 to 23 were still `inprogress` in `source-index.json` although those rounds are logged as finished, which crashed `prefilter.mjs --inprogress` and would have let later rounds re-pick them. The 58 with a built `data/guides/*.ts` were set to done and the other 91 to skip (list in `scripts/clone/work/r20-23-cleanup-skips.txt`).
+
+Finish: register-dynamic + register-new on all 48 (Node 22 for the .ts imports), mark done, `audit-guides.mjs` 0 failures, selfcheck ok on all 48, zero full-width brackets, zero em or en dashes, cross-guide duplicate check down to product names and 3 short maintenance lines, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".

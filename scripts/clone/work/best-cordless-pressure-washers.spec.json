@@ -1,0 +1,599 @@
+{
+ "guideSlug": "best-cordless-pressure-washers",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "cordless pressure washer",
+ "guideTitle": "Best Cordless Pressure Washers (2026)",
+ "metaTitle": "Best Cordless Pressure Washers (2026)",
+ "metaDescription": "Six battery-powered handheld pressure washers compared by motor, battery pair and water source, with a reality check on the big PSI and GPM claims.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The KEEPEAK brushless kit is the best pick because it combines a brushless motor, two 4.0Ah batteries and a full set of water-source adapters. The SEESII is the pick for the longest claimed runtime from two packs. Anyone who expects to clean a driveway or strip a deck should skip this category entirely, since a handheld battery washer is a rinsing tool for cars, bikes and furniture and not a stand-in for a mains or gas machine.",
+ "introParagraphs": [
+  "A cordless pressure washer is a small pump, a motor and a battery pack in a handheld body, and it exists to make quick cleaning jobs easy when there is no outlet nearby. It draws water from a hose, a bucket or a pool, and that flexibility is the real selling point.",
+  "The category is also full of inflated numbers, so the sensible approach is to treat the headline pressure as a peak and the headline flow as marketing until the physics backs it up. Judge these machines as light-duty rinsing and washing tools and they make sense."
+ ],
+ "products": [
+  {
+   "id": "B0GYCKRBN8",
+   "badge": "Best Overall",
+   "name": "KEEPEAK 1450 PSI brushless cordless pressure washer, two 4.0Ah packs",
+   "specs": [
+    "Brushless motor",
+    "Two 4.0Ah packs",
+    "6-in-1 nozzle",
+    "Water adapters"
+   ],
+   "specList": [
+    {
+     "label": "Pressure claim",
+     "value": "Up to 1,450 PSI"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Two 4.0Ah with fast charging"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 30 minutes continuous"
+    },
+    {
+     "label": "Water source",
+     "value": "Faucet, bucket, pool adapters"
+    }
+   ],
+   "description": "KEEPEAK's pitch is a brushless motor paired with two 4.0Ah batteries and a kit of adapters, which is a sensible combination because brushless motors waste less energy as heat and the adapters let you draw water from a faucet, a bucket or a pool. The listing quotes up to 1,450 PSI and 3.0 GPM, and up to 30 minutes of continuous use.\n\nThe flow claim does not survive a sanity check. Hydraulic power is pressure times flow divided by 1,714 in horsepower, so 1,450 PSI at 3.0 GPM is about 2.5 hp, or nearly 1.9 kilowatts, far above what a handheld with a pair of 4.0Ah packs could sustain for 30 minutes. Read the figures as peak at best, and expect a stronger-than-garden-hose rinse, not a driveway stripper.\n\nIn use, keep the water inlet filter clean, never run the pump dry, and store the batteries indoors. Compared with the SEESII, the KEEPEAK has the brushless-plus-adapters kit; compared with the MAKEDA, it quotes less runtime but includes more connectors. Brushless motors have no brushes to wear, which helps durability in year three.",
+   "bestFor": "Cars, bikes, grills and patio furniture where you want cordless freedom and several water sources.",
+   "pros": [
+    "Brushless motor wastes less energy",
+    "Two 4.0Ah packs with fast charging",
+    "Adapters for faucet, bucket and pool",
+    "6-in-1 nozzle for different patterns"
+   ],
+   "cons": [
+    "Flow and pressure claims are peaks, not working output",
+    "About 30 minutes of runtime per use"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GYCKRBN8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41g-AWtSnoL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GV3YL59M",
+   "badge": "Best Runtime Claim",
+   "name": "SEESII 1500 PSI brushless cordless pressure washer, dual 4000mAh",
+   "specs": [
+    "1500 PSI claim",
+    "Brushless",
+    "Dual 4000mAh",
+    "Up to 60 min"
+   ],
+   "specList": [
+    {
+     "label": "Pressure claim",
+     "value": "1500 PSI"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    },
+    {
+     "label": "Batteries",
+     "value": "Dual 4000mAh"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 60 minutes"
+    },
+    {
+     "label": "Use",
+     "value": "Dirt, mud and grime on small jobs"
+    }
+   ],
+   "description": "The SEESII lists up to 60 minutes of runtime from dual 4000mAh batteries, the longest claim in this guide, along with a brushless motor and a 1500 PSI headline. The 60 minute figure presumably counts both packs used one after another and light intermittent triggering, so read it as an upper bound.\n\nAs with all machines here, the 1500 PSI is a peak claim on a small pump, and it is best compared with the KEEPEAK rather than against a plug-in electric. Dual packs of the same size give you a built-in spare, so a job can run on after the first battery fades. Against the MAKEDA, the SEESII states a longer runtime but does not publish a flow figure, which is more honest than a large GPM claim that physics does not support.\n\nTo keep it going, rinse the nozzle after use, drain the pump and store the batteries partly charged. Keep a spare O-ring for the quick-connect on hand, because small seals are the usual failure point on handheld washers.",
+   "bestFor": "Longer light-duty sessions such as washing a couple of cars or a patio in one go.",
+   "pros": [
+    "Longest runtime claim at up to 60 minutes",
+    "Brushless motor with dual packs",
+    "Built-in spare battery",
+    "No outlet or cord needed"
+   ],
+   "cons": [
+    "60 minutes is an upper bound for light use",
+    "Peak pressure claim, no sustained rating"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GV3YL59M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51fh5TFoOJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HK7LH73X",
+   "badge": "Best Compact Nozzle",
+   "name": "MAKEDA 1500 PSI brushless cordless pressure washer, two packs",
+   "specs": [
+    "1500 PSI claim",
+    "Brushless",
+    "25 min per pack",
+    "Angled tip"
+   ],
+   "specList": [
+    {
+     "label": "Pressure claim",
+     "value": "Up to 1,500 PSI"
+    },
+    {
+     "label": "Flow claim",
+     "value": "3.0 GPM"
+    },
+    {
+     "label": "Runtime",
+     "value": "25 minutes per battery, 50 swapped"
+    },
+    {
+     "label": "Nozzle",
+     "value": "0, 25, 40 degree and 45 degree angled tip"
+    },
+    {
+     "label": "Motor",
+     "value": "Brushless"
+    }
+   ],
+   "description": "MAKEDA gives the nozzle a bit more thought than most. A compact, shorter design rotates through 0, 25 and 40 degree spray patterns and adds a 45 degree angled tip, which is useful for reaching under wheel arches and behind furniture legs. Each battery is quoted at up to 25 minutes, and swapping them stretches the job to about 50.\n\nA 3.0 GPM figure on a battery handheld is not believable, for the same reason as above: 1,500 PSI at that flow would need roughly 2.6 hp of hydraulic power, far beyond a 21V pack. Treat the claim as marketing and look at runtime instead, where the stated numbers are at least consistent. Compared with the KEEPEAK, the angled tip is the distinguishing feature, and the runtime per pack is shorter.\n\nOwnership comes down to swapping packs and keeping the pump clean. Flush it with fresh water after using a bucket or pool, since debris is hard on a small pump, and store the packs indoors. It is a convenient tool for vehicle detailing, with a keen eye for the claim inflation. If you do buy it, mount the angled tip only for wheel wells and lower trim, where a narrow jet is useful, and switch back to the 40 degree pattern for paint so the water sheets across the surface rather than digging into it.",
+   "bestFor": "Vehicle detailing and reaching awkward spots with an angled tip and swappable packs.",
+   "pros": [
+    "45 degree angled tip reaches tight spots",
+    "Brushless motor with two swappable packs",
+    "Compact nozzle design",
+    "Up to 50 minutes combined"
+   ],
+   "cons": [
+    "3.0 GPM claim is not physically credible",
+    "Only 25 minutes per pack"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0HK7LH73X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EAsX6X8uL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HDPG57C1",
+   "badge": "Best Filtered Intake",
+   "name": "Flouritech 1450 PSI cordless pressure washer, dual 21V packs",
+   "specs": [
+    "220W motor",
+    "Dual 21V packs",
+    "6-in-1 nozzle",
+    "Water filter"
+   ],
+   "specList": [
+    {
+     "label": "Pressure claim",
+     "value": "Up to 1,450 PSI"
+    },
+    {
+     "label": "Motor",
+     "value": "220W"
+    },
+    {
+     "label": "Batteries",
+     "value": "Dual 21V lithium"
+    },
+    {
+     "label": "Runtime",
+     "value": "20 to 50 minutes per pack"
+    },
+    {
+     "label": "Extra",
+     "value": "Water filter on intake"
+    }
+   ],
+   "description": "The Flouritech is the only one in the group to publish its motor rating, a 220W unit, which makes the maths easy and a bit sobering. At 220 watts, the most hydraulic power the pump can possibly deliver is a fraction of one horsepower, so a figure like 1,450 PSI can only be reached at a trickle of flow. That is fine for a focused jet, but it is not driveway power.\n\nThe included water filter on the intake is a thoughtful detail, because drawing from a bucket or pool pulls in grit that wears a small pump quickly. Runtime of 20 to 50 minutes per pack covers a typical car wash, with the spread depending on how often you pull the trigger. Compared with the ZestZenith, it is more candid about the motor and adds the filter.\n\nClean the filter after each use, flush the pump with fresh water and store the batteries indoors. Because small seals are the likeliest failures, check the quick-connect and the nozzle o-rings occasionally and keep spares. Also check that the filter screen seats fully in its housing, since a loose filter lets grit past and defeats its purpose.",
+   "bestFor": "Washing from a bucket or pool where a filtered intake protects the pump.",
+   "pros": [
+    "Published 220W motor rating is candid",
+    "Intake filter protects the pump from grit",
+    "Dual 21V packs",
+    "6-in-1 nozzle"
+   ],
+   "cons": [
+    "220W limits real output to a modest jet",
+    "Runtime varies widely from 20 to 50 minutes"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0HDPG57C1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51LnIYWb66L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GRQSWKZY",
+   "badge": "Best Single-Pack Value",
+   "name": "ZestZenith 1520 PSI cordless pressure washer with foam cannon",
+   "specs": [
+    "1520 PSI claim",
+    "775 motor",
+    "21V battery",
+    "6-in-1 nozzle"
+   ],
+   "specList": [
+    {
+     "label": "Pressure claim",
+     "value": "1,520 PSI"
+    },
+    {
+     "label": "Flow claim",
+     "value": "3.4 GPM"
+    },
+    {
+     "label": "Motor",
+     "value": "775 brushed-class motor"
+    },
+    {
+     "label": "Battery",
+     "value": "21V, up to 45 min intermittent"
+    },
+    {
+     "label": "Extras",
+     "value": "6-in-1 nozzle and foam bottle"
+    }
+   ],
+   "description": "This ZestZenith relies on a 775 motor, a common small DC motor type, with a single 21V battery that the listing says supports up to 45 minutes of routine intermittent use, plus a 6-in-1 nozzle and a foam bottle. The 3.4 GPM figure is the least believable in the group, so ignore it.\n\nWhere it makes sense is as a cheap, simple battery washer for light work: a rinse for the car, the bike, the garden tools. The single pack is the trade-off, because when it fades, the job stops, unlike the dual-pack kits above. Against the Blissthrill, it has a foam bottle and a very similar motor class.\n\nUse the foam bottle at low pressure and rinse with clean water. A 775-class motor can overheat if you hold the trigger continuously, so pulse the trigger and let the unit rest between jobs. Keep the battery indoors and charged between uses. A good test when it arrives is to spray a wall at arm's length and see how far the jet carries and how steady it is, because a pump that surges or sputters from the start usually has an air leak at the inlet connector that is easy to fix with a fresh o-ring.",
+   "bestFor": "Quick rinses and foam washes on cars and bikes where a single battery is enough.",
+   "pros": [
+    "Foam bottle and 6-in-1 nozzle included",
+    "Single 21V pack keeps it light",
+    "Intermittent use up to about 45 minutes",
+    "Simple and cheap"
+   ],
+   "cons": [
+    "Flow claim of 3.4 GPM is not credible",
+    "One battery ends the job when it fades"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GRQSWKZY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jvnXB-cwL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H11R5DCD",
+   "badge": "Best Reach",
+   "name": "Blissthrill 1480 PSI cordless washer with 23-ft hose and storage bag",
+   "specs": [
+    "1480 PSI claim",
+    "All-copper motor",
+    "23-ft hose",
+    "Storage bag"
+   ],
+   "specList": [
+    {
+     "label": "Pressure claim",
+     "value": "1,480 PSI"
+    },
+    {
+     "label": "Motor",
+     "value": "All-copper motor"
+    },
+    {
+     "label": "Hose",
+     "value": "23 ft"
+    },
+    {
+     "label": "Runtime",
+     "value": "20 to 45 minutes per charge"
+    },
+    {
+     "label": "Storage",
+     "value": "Bag included"
+    }
+   ],
+   "description": "Blissthrill's selling points are practical: a 23-foot hose that gives you real reach around a vehicle, an all-copper motor, and a storage bag that keeps the batteries, nozzles and connectors together. The listing says connectors suit a faucet, bucket, pool or garden hose.\n\nThe 20 to 45 minute runtime range per charge shows how much the figure depends on use, and the maximum assumes you pulse the trigger lightly. A long hose adds friction loss, which matters on a pump this small, so the 23 feet is a convenience that costs a little jet strength at the nozzle. Against the ZestZenith, you give up the foam bottle in this listing but gain the hose and the bag.\n\nStore the kit in the bag, drain the hose and pump, and keep the batteries at partial charge in a cool room. Check the hose connection for leaks at each use, as a weeping fitting wastes pressure.",
+   "bestFor": "Washing vehicles and larger furniture where hose reach and tidy storage matter.",
+   "pros": [
+    "23-foot hose gives reach around vehicles",
+    "All-copper motor",
+    "Storage bag keeps the kit together",
+    "Connectors for faucet, bucket and pool"
+   ],
+   "cons": [
+    "Long hose costs some jet strength",
+    "Runtime depends heavily on trigger use"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0H11R5DCD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PfiA77zPL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Treat PSI and GPM as peaks",
+   "explanation": "Hydraulic horsepower equals PSI times GPM divided by 1,714. A claim of 1,450 PSI at 3.0 GPM works out to about 2.5 hp, or nearly 1.9 kilowatts, which a 21V handheld with 4.0Ah packs cannot sustain. Pick on runtime and motor type instead, as with the KEEPEAK and SEESII."
+  },
+  {
+   "criterion": "Battery count and size",
+   "explanation": "Two packs mean a built-in spare, and the SEESII lists dual 4000mAh batteries for up to 60 minutes while the MAKEDA quotes up to 25 minutes per pack. A single battery like the ZestZenith's is lighter but stops the job when it fades."
+  },
+  {
+   "criterion": "Brushless or brushed motor",
+   "explanation": "Brushless motors, on the KEEPEAK, SEESII and MAKEDA, waste less energy as heat and have no brushes to wear. A 775-class motor, as on the ZestZenith, is cheaper but overheats with continuous use. Pulse the trigger on brushed designs."
+  },
+  {
+   "criterion": "Water source and filtering",
+   "explanation": "Drawing from a bucket or pool pulls in grit that wears the pump. The Flouritech adds an intake filter, and most kits supply adapters for faucets and buckets. Always filter or strain water from a pond or pool."
+  },
+  {
+   "criterion": "Hose length and nozzle",
+   "explanation": "A longer hose like the Blissthrill's 23 feet gives reach but costs a little pressure at the nozzle. An angled tip, as on the MAKEDA, helps with wheel arches. A 6-in-1 nozzle covers rinse, jet and foam."
+  },
+  {
+   "criterion": "What the tool is for",
+   "explanation": "These machines rinse cars, bikes, grills and furniture. They are not for stripping decks, cleaning a driveway or removing paint. If you need a driveway tool, look at a corded electric or a gas washer."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Hydraulic horsepower",
+   "meaning": "The real power in the water jet, equal to PSI times GPM divided by 1,714. It cannot exceed what the motor and battery supply.",
+   "watchFor": "A 220W motor like the Flouritech's cannot deliver 2 hp of water power."
+  },
+  {
+   "spec": "Battery capacity (mAh or Ah)",
+   "meaning": "Charge capacity at a given voltage. Multiply by voltage for watt-hours.",
+   "watchFor": "Compare watt-hours, not mAh, since mAh depends on voltage."
+  },
+  {
+   "spec": "Brushless motor",
+   "meaning": "A motor without carbon brushes, which runs cooler and wears less.",
+   "watchFor": "The KEEPEAK, SEESII and MAKEDA list brushless motors."
+  },
+  {
+   "spec": "775 motor",
+   "meaning": "A common small DC motor size used in budget handhelds. It is cheap and can overheat under continuous load.",
+   "watchFor": "The ZestZenith and several rivals use it."
+  },
+  {
+   "spec": "Quick-connect",
+   "meaning": "A snap fitting for the nozzle or hose. It is a common leak and failure point.",
+   "watchFor": "Keep spare o-rings."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Claim sanity check",
+   "description": "We checked every pressure and flow claim against the hydraulic horsepower formula and the stated motor and battery. Claims that exceeded what a 21V pack could supply were treated as marketing. This is analysis from specifications, not bench work."
+  },
+  {
+   "title": "Battery and runtime",
+   "description": "We compared dual-pack kits with single-pack units, such as the SEESII's up to 60 minutes against the ZestZenith's 45 minutes of intermittent use. A built-in spare battery scored higher."
+  },
+  {
+   "title": "Motor design",
+   "description": "We favoured brushless motors on the KEEPEAK, SEESII and MAKEDA, and noted the published 220W rating on the Flouritech. Brushed 775-class motors scored lower for continuous use."
+  },
+  {
+   "title": "Water handling",
+   "description": "We looked at adapters, intake filters and hose length. The Flouritech filter and the Blissthrill 23-foot hose were the standouts. Good water handling protects a small pump."
+  },
+  {
+   "title": "Honest positioning",
+   "description": "We marked up listings that fit the tool to light-duty jobs and marked down inflated claims. A cordless handheld is a rinsing tool, and the guide says so."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Job",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Washing a couple of cars",
+      "SEESII",
+      "Longest runtime claim"
+     ],
+     [
+      "Mixed jobs with several water sources",
+      "KEEPEAK",
+      "Brushless with adapters"
+     ],
+     [
+      "Wheel arches and tight spots",
+      "MAKEDA",
+      "45 degree angled tip"
+     ],
+     [
+      "Bucket or pool water",
+      "Flouritech",
+      "Filtered intake"
+     ],
+     [
+      "Quick foam and rinse",
+      "ZestZenith",
+      "Foam bottle and 6-in-1 nozzle"
+     ],
+     [
+      "Big vehicle or furniture",
+      "Blissthrill",
+      "23-foot hose"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "ZestZenith",
+      "Single battery and foam bottle"
+     ],
+     [
+      "Low",
+      "Blissthrill",
+      "Hose and bag"
+     ],
+     [
+      "Low to mid",
+      "Flouritech",
+      "Filter and dual packs"
+     ],
+     [
+      "Mid tier",
+      "MAKEDA",
+      "Brushless with angled tip"
+     ],
+     [
+      "Upper tier",
+      "KEEPEAK",
+      "Brushless with adapters"
+     ],
+     [
+      "Highest outlay",
+      "SEESII",
+      "Longest runtime claim"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Single Pack vs Dual Pack",
+   "cards": [
+    {
+     "label": "Single pack",
+     "text": "The ZestZenith and Blissthrill are lighter and simpler, but when the battery fades the job stops. Fine for short rinses."
+    },
+    {
+     "label": "Dual pack",
+     "text": "The KEEPEAK, SEESII, MAKEDA and Flouritech give a built-in spare, so a job can continue. They cost more and weigh more."
+    }
+   ],
+   "note": "Take dual packs if you wash more than one car at a time, and a single pack for quick rinses."
+  },
+  {
+   "subheading": "By Motor Type",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Best durability",
+      "KEEPEAK",
+      "Brushless motor"
+     ],
+     [
+      "Brushless with swap packs",
+      "MAKEDA",
+      "Two packs, brushless"
+     ],
+     [
+      "Brushless, long runtime",
+      "SEESII",
+      "Dual 4000mAh"
+     ],
+     [
+      "Published motor rating",
+      "Flouritech",
+      "220W stated"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Car Washing Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A foam option, a wide spray tip and enough runtime to finish a car. Avoid concentrating a narrow jet on paint at close range."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ZestZenith has a foam bottle, the KEEPEAK has a 6-in-1 nozzle, and the SEESII runs longest. The MAKEDA angled tip helps with wheel arches."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You wash several vehicles at a time or need a spare battery on hand. The SEESII or KEEPEAK give more runtime and a brushless motor."
+    },
+    {
+     "label": "Save if",
+     "text": "You rinse a bike or a grill now and then. The ZestZenith or Blissthrill is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Flush the pump with clean water",
+   "interval": "After using bucket or pool water",
+   "why": "Grit and algae wear a small pump quickly. Run clean water through before storing."
+  },
+  {
+   "task": "Check quick-connect o-rings",
+   "interval": "Monthly",
+   "why": "These seals are the likeliest leak point. Replace any that weep."
+  },
+  {
+   "task": "Store batteries partly charged",
+   "interval": "Between seasons",
+   "why": "Lithium packs age faster when stored full or empty. Keep them cool and dry."
+  },
+  {
+   "task": "Never run the pump dry",
+   "interval": "Every use",
+   "why": "A dry pump overheats in seconds. Make sure water flows before pulling the trigger."
+  },
+  {
+   "task": "Drain before freezing weather",
+   "interval": "Autumn",
+   "why": "Water left in the pump can freeze and crack it. Drain and store indoors."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are cordless pressure washers as strong as plug-in ones?",
+   "a": "No. A 21V handheld cannot match a plug-in electric or gas machine, and its PSI figures are peaks. It is a rinsing tool for light jobs."
+  },
+  {
+   "q": "Why do the GPM claims look so high?",
+   "a": "Because they are marketing figures. Hydraulic power equals PSI times GPM over 1,714, and a 21V battery cannot supply a 3 GPM jet at 1,500 PSI."
+  },
+  {
+   "q": "Can I use a cordless washer on my driveway?",
+   "a": "It will rinse loose dirt but will not strip stains efficiently. A corded electric or gas machine is the right tool for concrete."
+  },
+  {
+   "q": "Can I draw water from a bucket?",
+   "a": "Yes, the kits include adapters for buckets and pools. Use a filter to keep grit out of the pump."
+  },
+  {
+   "q": "How long do the batteries last?",
+   "a": "Listings quote 20 to 60 minutes depending on the model, for intermittent use. Pulsing the trigger stretches runtime."
+  },
+  {
+   "q": "Are brushless motors worth it?",
+   "a": "Usually yes, since they run cooler and have no brushes to wear, which helps durability. The KEEPEAK, SEESII and MAKEDA use them."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41g-AWtSnoL._SL500_.jpg"
+}
