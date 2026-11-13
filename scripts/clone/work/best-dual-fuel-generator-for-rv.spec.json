@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-dual-fuel-generator-for-rv",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best dual fuel generator for rv",
+ "guideTitle": "Best Dual Fuel Generators for RVs (2026)",
+ "metaTitle": "Best Dual Fuel Generators for RVs (2026)",
+ "metaDescription": "Six dual fuel generators for RVs compared on gas versus propane output, 30 amp outlets, noise and upkeep, so your coach runs on any fuel you carry.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Westinghouse iGen4000DF takes top spot for balanced output, clean power and a clear data display. The WEN 3600 is the value pick for a single air conditioner rig. If your coach already has a built-in generator that you run weekly, a portable dual fuel unit is a backup, not a necessity.",
+ "introParagraphs": [
+  "Dual fuel is the one feature that changes how an RV generator is owned. Gasoline gives full output and is easy to buy on the road, while propane stores for years and is already on board. The question is what each fuel costs you in watts and in convenience.",
+  "Most coaches ask for only a modest circuit, so the real decision is how much power you lose on propane, whether the machine switches on its own, and how a quiet inverter compares with a rugged open frame. This guide separates those trade-offs."
+ ],
+ "products": [
+  {
+   "id": "B0CQMZ9JVB",
+   "badge": "Best Overall",
+   "name": "Westinghouse iGen4000DF 4000 Peak Watt Dual Fuel Inverter",
+   "specs": [
+    "3300 rated watts",
+    "Under 3% THD",
+    "30A outlet",
+    "Recoil start"
+   ],
+   "specList": [
+    {
+     "label": "Peak watts",
+     "value": "4,000"
+    },
+    {
+     "label": "Rated watts",
+     "value": "3,300"
+    },
+    {
+     "label": "Power quality",
+     "value": "Under 3% THD"
+    },
+    {
+     "label": "Outlets",
+     "value": "5-20R, TT-30R, two USB"
+    },
+    {
+     "label": "Display",
+     "value": "Rotating LED data center"
+    }
+   ],
+   "description": "The standout feature is the LED data center, which rotates through fuel level, output, remaining run time and voltage. On a dual fuel machine that is more useful than it sounds, because you can see how long a propane tank will last at the load you are actually drawing instead of guessing. The inverter design puts clean power below 3 percent distortion, which is why it is safe for laptops and a CPAP.\n\nIt sits one step below the 5000 watt Westinghouse in this family, and at 3,300 rated watts it is sized for a typical 30 amp coach with one 13,500 BTU air conditioner. Starting is by recoil in this version, so you pull a cord; the remote start units cost more and are listed separately. A telescoping handle and wheel kit make it easy to move around a campsite.\n\nUpkeep is simple if you remember the propane side. Rubber hoses and the regulator diaphragm dry out when a unit sits for a year, so connect and run it on propane at least twice a season. Change the oil after the first 20 hours, because small inverter crankcases hold little oil and get hot.",
+   "bestFor": "A typical 30 amp trailer that wants clean power and a readout of runtime.",
+   "pros": [
+    "Rotating display shows runtime on either fuel",
+    "Under 3 percent THD protects electronics",
+    "RV-ready 30 amp outlet plus two USB ports",
+    "Telescoping handle and wheels for campsite moves"
+   ],
+   "cons": [
+    "Recoil start only on this version",
+    "3,300 rated watts limits two-air-conditioner coaches"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQMZ9JVB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WzM-FtzFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D3WR4CFR",
+   "badge": "Best Value",
+   "name": "WEN 3600 Watt Dual Fuel RV-Ready Inverter Generator",
+   "specs": [
+    "2900 rated watts",
+    "Dual fuel",
+    "Fuel shutoff",
+    "RV ready"
+   ],
+   "specList": [
+    {
+     "label": "Gas output",
+     "value": "3,600 surge, 2,900 rated"
+    },
+    {
+     "label": "Propane output",
+     "value": "3,500 surge, 2,600 rated"
+    },
+    {
+     "label": "Design",
+     "value": "Inverter, quiet"
+    },
+    {
+     "label": "Safety",
+     "value": "Fuel shutoff"
+    },
+    {
+     "label": "Class",
+     "value": "RV ready"
+    }
+   ],
+   "description": "WEN publishes both fuel ratings, which is the honest way to sell a dual fuel machine, and the numbers tell a clear story: 2,900 rated watts on gas, 2,600 on propane, a loss of about 300 watts. That drop is enough to matter when a 13,500 BTU air conditioner is starting, so on propane you should keep the microwave off during startup.\n\nIt is the lowest rated machine in this lineup apart from the camping-sized units, and that is the reason it is the value pick: you only pay for the watts a small trailer uses. A fuel shutoff valve lets you run the carburetor dry before storage, which prevents the gummed jets that are the top cause of failed starts.\n\nCompared with the 4800 watt WEN it gives up a thousand rated watts but is lighter and cheaper to feed. Plan to change the oil early, and keep the vent slots clear because a compact inverter case traps heat.",
+   "bestFor": "Small travel trailers with one air conditioner and no electric water heater.",
+   "pros": [
+    "Both fuel ratings are published openly",
+    "Fuel shutoff valve for clean storage",
+    "Lowest buy-in of the inverter units here",
+    "Inverter output is safe for phones and laptops"
+   ],
+   "cons": [
+    "Only about 2,600 watts available on propane",
+    "Starting an air conditioner leaves little headroom"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CKD846RB",
+   "badge": "Best for Parallel Pairing",
+   "name": "Pulsar GX400BN 4000W Dual Fuel Parallel Ready Generator",
+   "specs": [
+    "3200 rated watts",
+    "Parallel ready",
+    "149cc engine",
+    "Dual fuel"
+   ],
+   "specList": [
+    {
+     "label": "Gas output",
+     "value": "4,000 peak, 3,200 rated"
+    },
+    {
+     "label": "Propane output",
+     "value": "3,600 peak, 2,800 rated"
+    },
+    {
+     "label": "Engine",
+     "value": "149cc, 5.5 HP"
+    },
+    {
+     "label": "Expansion",
+     "value": "Parallel capable"
+    },
+    {
+     "label": "Class",
+     "value": "RV ready, ultra quiet"
+    }
+   ],
+   "description": "The reason to look at the Pulsar is parallel capability. Two of these joined with a parallel kit double the available watts, so you can start with one unit for a small trailer and add a second later for a bigger coach. The 149cc engine is a short stroke, 5.5 horsepower design typical of lightweight inverter models.\n\nThe propane figure is lower than gas, 2,800 rated watts compared with 3,200, a gap of 400 watts. That is a larger loss than on the WEN 3600, which is something to remember when you plan around a propane-only weekend. Pulsar markets it for emergency home backup too.\n\nOwnership is where the parallel feature earns its keep, because two small machines are easier to carry and each is a backup for the other. The downside is that you carry two sets of fuel, and a parallel cable and a second set of maintenance. Run each unit under load monthly and keep the same oil change schedule on both.",
+   "bestFor": "Owners who want to start small and grow output later by adding a second unit.",
+   "pros": [
+    "Parallel capable for doubling output later",
+    "Lightweight 149cc inverter engine",
+    "Dual fuel for stored propane",
+    "Matches 30 amp coach demands"
+   ],
+   "cons": [
+    "Propane output drops 400 rated watts from gas",
+    "Parallel kit is a separate purchase"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0CKD846RB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41fQWJ2yJpL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D5XZ9JMZ",
+   "badge": "Best Auto Fuel Switching",
+   "name": "ERAYAK 4500W Dual Fuel Inverter, 30A RV Ready, 54 lb",
+   "specs": [
+    "3500 rated watts",
+    "Gas priority switch",
+    "54 lb",
+    "30A RV outlet"
+   ],
+   "specList": [
+    {
+     "label": "Gas output",
+     "value": "4,500 peak, 3,500 rated"
+    },
+    {
+     "label": "Weight",
+     "value": "54 lb"
+    },
+    {
+     "label": "Dimensions",
+     "value": "19.88 x 16.93 x 20.25 inches"
+    },
+    {
+     "label": "Fuel logic",
+     "value": "Gas priority auto-switch"
+    },
+    {
+     "label": "Class",
+     "value": "30A RV ready"
+    }
+   ],
+   "description": "ERAYAK built its pitch around a smart fuel switch: a propane tank runs the machine first, and when the tank runs empty the engine moves over to gasoline. That means no midnight shutdown when a bottle runs out while you are asleep with the air conditioner running, which is exactly the failure that plagues manual dual fuel systems.\n\nAt 54 pounds it is easy to lift into a truck bed, yet it supplies 3,500 rated watts, the highest sustained number of the lightweight inverter models here. In a 30 amp coach it can start a single air conditioner and carry normal loads.\n\nAs a newer brand its parts network is thinner than the major names, so check what the warranty actually covers before buying. Keep the fuel line connection clean and replace the propane hose if it ever shows cracking, since a leaking hose both wastes fuel and creates a safety problem.",
+   "bestFor": "Boondockers who do not want to be woken when a propane bottle runs dry.",
+   "pros": [
+    "Automatic hand-off from propane to gasoline",
+    "54 pounds is easy to carry",
+    "3,500 rated watts outperforms smaller siblings",
+    "30 amp RV outlet for direct plug-in"
+   ],
+   "cons": [
+    "Brand has a shorter service record",
+    "Compact case needs open airflow when hot"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S2h7L6c7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B099KR6PTG",
+   "badge": "Best Open Frame Dual Fuel",
+   "name": "Westinghouse 4650 Peak Watt Dual Fuel Generator, 30A Outlet",
+   "specs": [
+    "3600 rated watts",
+    "4 gal tank",
+    "CO sensor",
+    "L5-30R and TT-30R"
+   ],
+   "specList": [
+    {
+     "label": "Gas output",
+     "value": "4,650 peak, 3,600 rated"
+    },
+    {
+     "label": "Propane output",
+     "value": "4,650 peak, 3,240 rated"
+    },
+    {
+     "label": "Tank",
+     "value": "4 gallons"
+    },
+    {
+     "label": "Outlets",
+     "value": "5-20R, TT-30R, L5-30R"
+    },
+    {
+     "label": "Safety",
+     "value": "CO sensor"
+    }
+   ],
+   "description": "This is not an inverter. It is a conventional open-frame generator, which is why it costs less per watt and carries a four gallon tank with a gauge. The propane figure holds up better than most, 3,240 rated watts against 3,600 on gasoline, a loss of only about 10 percent.\n\nThe cost of that simplicity is noise and power quality. It is louder than any inverter here, and without inverter electronics the output has more distortion, so keep sensitive electronics on a separate circuit or a power strip with surge protection. A built-in CO sensor will shut the machine down if gas builds up.\n\nIt arrives with oil, a funnel and a tool kit, so a first start is easy. Fuel stability matters more on a four gallon tank that sits unused, so add stabilizer or run the carburetor dry, and check the wheel kit hardware before every trip.",
+   "bestFor": "Buyers who need the lowest cost per watt and have a tolerance for noise.",
+   "pros": [
+    "Four gallon tank means fewer refueling stops",
+    "CO sensor shuts it down automatically",
+    "Only about 10 percent propane loss",
+    "Lowest cost per watt in the lineup"
+   ],
+   "cons": [
+    "Open frame noise bothers neighbors",
+    "Distortion is higher than an inverter unit"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51prSXmo6VL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DVF1RPCJ",
+   "badge": "Best High Output",
+   "name": "WEN 6800 Watt Dual Fuel RV Ready Inverter with CO Watchdog",
+   "specs": [
+    "5100 rated watts",
+    "224cc engine",
+    "CO Watchdog",
+    "240V Level 2 charge"
+   ],
+   "specList": [
+    {
+     "label": "Gas output",
+     "value": "6,800 surge, 5,100 rated"
+    },
+    {
+     "label": "Propane output",
+     "value": "6,000 surge, 4,500 rated"
+    },
+    {
+     "label": "Engine",
+     "value": "224cc"
+    },
+    {
+     "label": "Safety",
+     "value": "WEN Watchdog CO shutoff"
+    },
+    {
+     "label": "Extra",
+     "value": "Bonded-neutral 240V output"
+    }
+   ],
+   "description": "This is the machine for a coach with two air conditioners. At 5,100 rated watts on gasoline and 4,500 on propane it carries roughly 1,500 more watts than the 3,600 class, and it is a true inverter so it stays quieter than an open frame at that size.\n\nThe bonded-neutral 240 volt configuration is an unusual extra. It lets the generator provide low-power Level 2 charging for an electric or hybrid vehicle, which suits an RV owner who tows with a plug-in. The built-in Watchdog sensor shuts the engine off if carbon monoxide builds up.\n\nThe cost is weight and price. This is much heavier than the 54 pound ERAYAK, so plan a wheel kit and a ramp. Keep the engine well oiled, because a 224cc crankcase runs hotter under sustained 5,000 watt load, and use the monthly exercise run to keep the carburetor clean.",
+   "bestFor": "Large coaches with two roof air conditioners that want inverter-quiet power.",
+   "pros": [
+    "5,100 rated watts handles two air conditioners",
+    "CO Watchdog shuts engine off automatically",
+    "240V output allows low-power vehicle charging",
+    "Inverter design is quieter than an open frame"
+   ],
+   "cons": [
+    "Much heavier than the lightweight 30 amp units",
+    "Propane drops to 4,500 rated watts"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Propane output loss",
+   "explanation": "Propane has less energy per unit than gasoline, so every dual fuel machine gives up watts. The WEN 3600 falls from 2,900 to 2,600 rated, the Pulsar from 3,200 to 2,800, and the Westinghouse 4650 only from 3,600 to 3,240. Size the generator for the propane figure, not the gasoline one, if propane will be your main fuel."
+  },
+  {
+   "criterion": "30 amp circuit sizing",
+   "explanation": "A 30 amp coach can draw up to 3,600 watts at 120 volts, and most run on 2,500 to 3,200 with one air conditioner. The 3,300 rated Westinghouse iGen4000DF and the 3,500 rated ERAYAK fit that budget, while the WEN 3600 is tight. Add up your actual appliances before buying."
+  },
+  {
+   "criterion": "Manual versus automatic fuel switching",
+   "explanation": "On most dual fuel units you pick the fuel with a switch and swap hoses when a bottle empties. The ERAYAK 4500 moves from propane to gasoline on its own, so the engine does not stall when the tank runs dry. That is the one feature that matters most if you sleep with the air conditioner on."
+  },
+  {
+   "criterion": "Inverter versus open frame",
+   "explanation": "An inverter converts to DC and back, which gives clean power and lets engine speed follow load. The Westinghouse 4650 open frame skips that and costs less per watt. If you charge laptops or run a CPAP, choose inverter; if you only need lights and a fridge, open frame saves money."
+  },
+  {
+   "criterion": "Noise at the campsite",
+   "explanation": "Listed decibel numbers are taken at quarter load, so real noise at full load is higher. Inverter machines like the WEN 6800 stay in the range of normal conversation at part load, while an open frame is noticeably louder. Parks with quiet hours will ask you to shut an open frame down early."
+  },
+  {
+   "criterion": "Carbon monoxide shutoff",
+   "explanation": "An automatic CO sensor is a worthwhile layer of protection that the Westinghouse 4650 and the WEN 6800 offer. It does not replace placing the generator outdoors, well away from windows, doors and vents. Never run any generator in a garage or an enclosed compartment."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Rated watts on each fuel",
+   "meaning": "The sustained output on gasoline and on propane. Propane is nearly always lower.",
+   "watchFor": "The Pulsar loses 400 watts on propane while the Westinghouse 4650 loses about 360."
+  },
+  {
+   "spec": "Surge versus rated",
+   "meaning": "Surge covers a few seconds of motor start, while rated is the continuous number. Never size on the surge figure.",
+   "watchFor": "The WEN 6800 lists 6,800 surge against 5,100 rated."
+  },
+  {
+   "spec": "TT-30R outlet",
+   "meaning": "The 30 amp, 120 volt receptacle that matches a standard RV shore cord. It limits you to 3,600 watts through that outlet.",
+   "watchFor": "The Westinghouse iGen4000DF has a TT-30R, while the bigger WEN uses its own configuration."
+  },
+  {
+   "spec": "Total harmonic distortion",
+   "meaning": "How far the waveform departs from a clean sine wave. Under 3 percent is safe for sensitive electronics.",
+   "watchFor": "Only the inverter units here publish a clean-power figure."
+  },
+  {
+   "spec": "Parallel capability",
+   "meaning": "The ability to link two matching units for double output through a kit.",
+   "watchFor": "The Pulsar GX400BN is the parallel-ready pick in this lineup."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Output on both fuels",
+   "description": "We compared published rated watts on gasoline and propane wherever listings gave both. The spread ran from about 300 watts on the WEN 3600 to 400 on the Pulsar. Machines that hid propane output were marked down."
+  },
+  {
+   "title": "Fit for a 30 amp coach",
+   "description": "We matched rated watts against a normal coach load of one air conditioner plus lights, a fridge and a microwave. The iGen4000DF and ERAYAK 4500 fit comfortably, while the WEN 3600 is marginal. The WEN 6800 was assessed for dual air conditioner coaches."
+  },
+  {
+   "title": "Switching logic",
+   "description": "We looked at how each unit handles a propane bottle running empty. The ERAYAK's automatic hand-off stood out. Others require a manual switch."
+  },
+  {
+   "title": "Safety features",
+   "description": "We considered CO shutoff, fuel shutoff valves and low oil protection. The Westinghouse 4650 and WEN 6800 offer CO shutdown. A fuel shutoff valve on the WEN 3600 aids storage."
+  },
+  {
+   "title": "Ownership burden",
+   "description": "Based on owner feedback patterns, we weighed weight, tank size and the propane regulator upkeep. The 54 pound ERAYAK was easiest to handle; the 6,800 watt WEN is the heaviest."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Coach Load",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small trailer, one air conditioner",
+      "WEN 3600",
+      "2,900 rated watts suffices for a small rig"
+     ],
+     [
+      "Typical 30 amp trailer",
+      "Westinghouse iGen4000DF",
+      "3,300 rated watts with a runtime display"
+     ],
+     [
+      "Coach that sleeps with the AC on",
+      "ERAYAK 4500",
+      "Auto switch avoids stalled propane runs"
+     ],
+     [
+      "Two roof air conditioners",
+      "WEN 6800",
+      "5,100 rated watts on gasoline"
+     ],
+     [
+      "Lowest cost per watt",
+      "Westinghouse 4650",
+      "Open frame with a four gallon tank"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "WEN 3600",
+      "Small output, inverter quiet"
+     ],
+     [
+      "Low per-watt cost",
+      "Westinghouse 4650",
+      "Open frame trades noise for savings"
+     ],
+     [
+      "Mid tier",
+      "Pulsar GX400BN",
+      "Parallel capable for later growth"
+     ],
+     [
+      "Upper mid",
+      "ERAYAK 4500",
+      "Auto fuel switching and 3,500 watts"
+     ],
+     [
+      "Highest cost",
+      "WEN 6800",
+      "Largest output and 240V charging"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Propane vs Gasoline",
+   "cards": [
+    {
+     "label": "Propane first",
+     "text": "Stores for years, burns cleaner and needs less engine upkeep. The Westinghouse 4650 loses only about 10 percent, so it is the strongest propane runner. The Pulsar loses about 12 percent and the WEN 6800 about 12 percent too."
+    },
+    {
+     "label": "Gasoline first",
+     "text": "Gives full output and is easy to buy on the road, but stale fuel is a storage risk. Machines with a fuel shutoff, like the WEN 3600, let you run the carburetor dry before storage."
+    }
+   ],
+   "note": "Choose propane first if you boondock with a large tank; choose gasoline first if you travel far from refill points."
+  },
+  {
+   "subheading": "Inverter vs Open Frame",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Quietest running",
+      "WEN 6800",
+      "Inverter output at higher wattage"
+     ],
+     [
+      "Clean power for CPAP",
+      "Westinghouse iGen4000DF",
+      "Under 3 percent THD"
+     ],
+     [
+      "Light enough to carry",
+      "ERAYAK 4500",
+      "Only 54 pounds"
+     ],
+     [
+      "Rough duty and low cost",
+      "Westinghouse 4650",
+      "Open frame, four gallon tank"
+     ],
+     [
+      "Growth by adding a unit",
+      "Pulsar GX400BN",
+      "Parallel ready"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Boondocking Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Auto fuel switching, a large tank or propane supply, and rated watts that cover your air conditioner on the weaker fuel. Check that a CO sensor is present."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ERAYAK 4500 is the best fit because it moves between fuels without a shutdown, while the Westinghouse iGen4000DF is the runner-up with its runtime readout."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You run two air conditioners, you want vehicle charging or you value quiet. The WEN 6800 delivers 5,100 rated watts and a CO Watchdog."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp with a small trailer or only run lights, a fridge and a fan. The WEN 3600 or the Westinghouse 4650 covers that without paying for a larger engine."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Exercise on propane",
+   "interval": "Every 2 to 3 months",
+   "why": "Regulator diaphragms and rubber hoses stiffen when idle. A run under load keeps seals pliable and shows leaks early."
+  },
+  {
+   "task": "Change engine oil",
+   "interval": "After the first 20 hours, then every 50 hours",
+   "why": "Small inverter crankcases hold little oil and run hot. Fresh oil is the cheapest insurance on a 224cc or smaller engine."
+  },
+  {
+   "task": "Inspect propane hose",
+   "interval": "Before every trip",
+   "why": "Cracks or hardened rubber leak fuel. Replace any hose that shows wear."
+  },
+  {
+   "task": "Stabilize or run dry",
+   "interval": "Before storage",
+   "why": "Ethanol gasoline gums carburetor jets within weeks. Use the fuel shutoff to burn off the bowl."
+  },
+  {
+   "task": "Clean air filter and spark plug",
+   "interval": "Every 100 hours",
+   "why": "A dirty filter starves the engine and raises fuel use. A fouled plug causes hard starts."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is dual fuel better than gasoline only for an RV?",
+   "a": "For most RV owners, yes. Propane stores for years and is already on board for many coaches, while gasoline gives full output when you need it. The cost is a few hundred fewer watts on propane."
+  },
+  {
+   "q": "How much power do I lose on propane?",
+   "a": "Between 10 and 15 percent on the units here. The WEN 3600 drops 300 rated watts and the Pulsar drops 400. Check the propane figure, not the gasoline one."
+  },
+  {
+   "q": "Which is the best value pick?",
+   "a": "The WEN 3600 is the lowest outlay among the inverter units and publishes both fuel ratings. The Westinghouse 4650 is cheaper per watt if you accept open-frame noise."
+  },
+  {
+   "q": "Does a bigger peak number mean more power?",
+   "a": "No. Peak is a short surge for starting a motor. The WEN 6800 lists 6,800 peak but only 5,100 rated, so size by the rated figure."
+  },
+  {
+   "q": "Can I run it while the RV is parked in a campground?",
+   "a": "Only where the rules allow it and during permitted hours. Place the generator outdoors, well away from windows and doors, and never run it in an enclosed space."
+  },
+  {
+   "q": "Can I run two air conditioners on one of these?",
+   "a": "Only on the WEN 6800 at 5,100 rated watts, and even then you should stagger startups. The smaller 30 amp units handle one air conditioner at a time."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41WzM-FtzFL._SL500_.jpg"
+}

@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-small-rv-generator",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best small rv generator",
+ "guideTitle": "Best Small RV Generators (2026)",
+ "metaTitle": "Best Small RV Generators in 2026",
+ "metaDescription": "Six compact RV-ready inverter generators compared by weight, running watts, noise and propane capability for vans, teardrops and small travel trailers.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41Q6Dab5ADL._SL500_.jpg",
+ "expertTake": "The WEN 4500 is the pick for a small travel trailer because 3,600 rated watts and a 53-pound frame cover an air conditioner without needing a cart. The WEN 3600 is the value pick for vans and teardrops, and anyone who only needs lights, a fan and a fridge should skip the 30A class entirely and carry something far smaller.",
+ "introParagraphs": [
+  "A small RV is a weight and space puzzle. The generator has to fit a bumper rack, a van's rear doors or a bin in the tow vehicle, and it has to be light enough to lift alone at the end of a long day on the road.",
+  "At the same time the loads are not trivial. A rooftop air conditioner is still the largest draw, and the generator is expected to start it, run a few other things and stay quiet in a campground. The six picks here are compared on that tradeoff between size and capability, not on how big the number on the box is."
+ ],
+ "products": [
+  {
+   "id": "B0FJYPMWPR",
+   "badge": "Best Overall",
+   "name": "WEN 4500W RV-Ready Inverter Generator, 53 lbs",
+   "specs": [
+    "3,600W rated",
+    "181cc engine",
+    "53 lbs",
+    "Fuel shut-off"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "4,500 surge / 3,600 rated W"
+    },
+    {
+     "label": "Engine",
+     "value": "181cc"
+    },
+    {
+     "label": "Weight",
+     "value": "53 lbs"
+    },
+    {
+     "label": "Fuel valve",
+     "value": "Shut-off included"
+    },
+    {
+     "label": "Hookup",
+     "value": "RV-ready outlet"
+    }
+   ],
+   "description": "This WEN lands in the sweet spot for small trailers. Thirty-six hundred rated watts will start most 13,500 BTU rooftop air conditioners with some margin, and a 53-pound body stays within what one person can get onto a rack. The 181cc engine is sized between the smaller 149cc units and the 224cc dual fuel machines, a middle ground for power and noise.\n\nThe fuel shut-off valve is a small detail with real value in an RV: close it, let the carburetor run dry and the generator will not leave a varnish trail in the fuel system during winter storage. It adds 700 rated watts over the WEN 3600 for 7 pounds, which is the difference between running the air conditioner with a coffee maker and not.\n\nIt is a gasoline-only unit, so plan fuel storage on the trip. Check the oil before every run, keep fuel stabilized if you only travel seasonally, and carry the short RV adapter your campground's pedestal expects.",
+   "bestFor": "Small travel trailers with one rooftop AC and a few extra loads.",
+   "pros": [
+    "3,600 rated watts starts a typical rooftop AC",
+    "53-pound frame fits a single-person lift",
+    "Fuel shut-off valve helps winter storage",
+    "RV-ready outlet for a 30A inlet"
+   ],
+   "cons": [
+    "Gasoline only, no propane option",
+    "Not a whisper at full load"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Q6Dab5ADL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C1Q4K2G7",
+   "badge": "Best Value Compact",
+   "name": "WEN 56360i 3,600W RV-Ready Inverter, 46 lbs",
+   "specs": [
+    "2,900W rated",
+    "149cc engine",
+    "46 lbs",
+    "Fuel shut-off"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "3,600 surge / 2,900 rated W"
+    },
+    {
+     "label": "Engine",
+     "value": "149cc"
+    },
+    {
+     "label": "Weight",
+     "value": "46 lbs"
+    },
+    {
+     "label": "Fuel valve",
+     "value": "Shut-off included"
+    },
+    {
+     "label": "Hookup",
+     "value": "RV-ready outlet"
+    }
+   ],
+   "description": "At 46 pounds, this is the lightest of the 30A-capable WEN units and a good match for a camper van or a teardrop. Its 2,900 rated watts will run an 11,000 BTU or smaller air conditioner, lights, a fridge and a laptop at once. The 149cc engine is small enough to keep noise moderate and fuel consumption low.\n\nThe constraint is the air conditioner: a 13,500 BTU unit needs more start power than 2,900 rated watts reliably provides, so a soft start kit becomes an essential accessory if your rig has a bigger unit. Against the WEN 4500 it gives up 700 rated watts and saves 7 pounds and some money.\n\nThe maintenance routine is simple, since the engine is small and the layout is open. Change the oil after the break-in period and then yearly, close the fuel valve for storage, and keep the air intake clear of dust and pollen. Its small footprint also leaves room beside it in a van garage for a fuel can and a spare cord.",
+   "bestFor": "Vans and teardrops with a small air conditioner or no AC at all.",
+   "pros": [
+    "46 pounds makes loading easy",
+    "2,900 rated watts for a small AC",
+    "Fuel shut-off for storage",
+    "RV-ready outlet and clean inverter power"
+   ],
+   "cons": [
+    "Marginal for a 13,500 BTU AC without a soft starter",
+    "Gasoline only"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D3WR4CFR",
+   "badge": "Best Compact Dual Fuel",
+   "name": "WEN 3600W Dual Fuel RV-Ready Inverter, CO Watchdog",
+   "specs": [
+    "2,900W gas rated",
+    "2,600W propane",
+    "CO Watchdog",
+    "Fuel shut-off"
+   ],
+   "specList": [
+    {
+     "label": "Gasoline output",
+     "value": "3,600 surge / 2,900 rated W"
+    },
+    {
+     "label": "Propane output",
+     "value": "3,500 surge / 2,600 rated W"
+    },
+    {
+     "label": "Safety",
+     "value": "CO Watchdog shutdown"
+    },
+    {
+     "label": "Fuel valve",
+     "value": "Shut-off included"
+    },
+    {
+     "label": "Hookup",
+     "value": "RV-ready outlet"
+    }
+   ],
+   "description": "This is the same output class as the gasoline-only 3,600 with a propane option bolted on. Dual fuel matters in a small RV because many have a propane tank for the stove, and a bottle on the bumper is easier and cleaner than a gasoline can in a van. The propane rating is 2,600 rated watts, a drop of about 300 from gasoline.\n\nIt also adds the CO Watchdog shutdown sensor, an automatic cutoff if carbon monoxide builds up, which is a useful safeguard near a small van where exhaust can drift into open windows. The Watchdog is a backup, so place the machine well away from the vehicle.\n\nExpect a little more weight than the single-fuel unit and a dual fuel regulator that needs inspection. Soap-test the propane fittings after each reconnection, and store with the gasoline valve closed and the carburetor dry.",
+   "bestFor": "Small RVs that already carry propane and want a CO shutdown sensor.",
+   "pros": [
+    "Runs on gasoline or propane",
+    "CO Watchdog shuts the engine on dangerous buildup",
+    "2,600 rated watts on propane",
+    "RV-ready outlet and fuel shut-off"
+   ],
+   "cons": [
+    "Slightly heavier than the gasoline-only 3,600",
+    "Propane drops rated output by about 300 watts"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HGD5GGMC",
+   "badge": "Best Propane Runtime",
+   "name": "PowerSmart 3800W Dual Fuel Inverter Generator",
+   "specs": [
+    "3,300W gas rated",
+    "59 dBA Eco",
+    "24 hrs on 20-lb propane",
+    "CO protect"
+   ],
+   "specList": [
+    {
+     "label": "Gasoline output",
+     "value": "3,800 start / 3,300 running W"
+    },
+    {
+     "label": "Propane start",
+     "value": "3,500 W"
+    },
+    {
+     "label": "Tank",
+     "value": "1.3 gallons gasoline"
+    },
+    {
+     "label": "Runtime",
+     "value": "8 hrs gas, up to 24 hrs on 20-lb propane"
+    },
+    {
+     "label": "Noise",
+     "value": "59 dBA in Eco Mode"
+    }
+   ],
+   "description": "The runtime split is what gives this PowerSmart its identity. A 1.3-gallon tank gives up to 8 hours at a quarter load on gasoline, while a standard 20-pound propane cylinder can stretch that to 24 hours. For a small RV where you want the generator to run overnight for a fan or a CPAP without refueling, propane is the answer.\n\nThe gasoline rating of 3,300 running watts sits between the two WEN models, enough for a small air conditioner and a handful of devices. A 59 dBA noise figure applies to Eco Mode, so under a heavy load expect louder. It also carries a CO Protect shutdown, which is a worthwhile feature near a small enclosed vehicle.\n\nOwnership advice: the dual fuel regulator is the part to check, so inspect hoses seasonally and keep the fittings dry. It is less well known than WEN or Westinghouse, so keep a spare spark plug and an oil change kit in the van.",
+   "bestFor": "Overnight small-RV use on a 20-pound propane cylinder.",
+   "pros": [
+    "Up to 24 hours on a 20-pound propane cylinder",
+    "3,300 running watts on gasoline",
+    "59 dBA in Eco Mode",
+    "CO Protect shutdown"
+   ],
+   "cons": [
+    "Smaller brand with a thinner service network",
+    "Noise rises above the Eco Mode figure under load"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0HGD5GGMC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4192C502DML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BS7B3YMG",
+   "badge": "Best Lightweight Value",
+   "name": "Pulsar PGD40ISCO 4,000W Inverter Generator",
+   "specs": [
+    "3,200W rated",
+    "59 dB",
+    "1 gal tank",
+    "CO shutoff"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "4,000 peak / 3,200 rated W"
+    },
+    {
+     "label": "Tank",
+     "value": "1 gallon"
+    },
+    {
+     "label": "Runtime",
+     "value": "4 hrs at half load"
+    },
+    {
+     "label": "Noise",
+     "value": "59 dB"
+    },
+    {
+     "label": "Safety",
+     "value": "CO shutoff"
+    }
+   ],
+   "description": "Pulsar's name for this model is Ultra Light, and the engine is built around a one-gallon tank that gives four hours at half load. That is short for an RV, since a night's air conditioning could mean two refills. The 3,200 rated watts are enough for a small AC, and the 59 dB noise level is typical for the class.\n\nThe tank is the compromise. Compared with the PowerSmart's 8 hours at a quarter load on gasoline and 24 on propane, the Pulsar needs more attention in the evening, and it offers no propane operation. For a quick weekend with a van where you run the AC for a short time each day, it works, and the price tier is friendly.\n\nPlan on topping up the tank before bed, carry fuel in an approved can strapped upright, and check the oil before every run, because a one-gallon unit has a small crankcase. Run it dry before storage. That small engine is also the reason it ranks as a short-trip pick, since a fuel gauge check at dusk is a habit you will need.",
+   "bestFor": "Short weekend trips where you refuel nightly.",
+   "pros": [
+    "3,200 rated watts for a small AC",
+    "Light frame for a van or rack",
+    "CO shutoff protection",
+    "59 dB noise level"
+   ],
+   "cons": [
+    "One-gallon tank needs frequent refills",
+    "No propane operation"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0BS7B3YMG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41217Z50LIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B6PDZZRD",
+   "badge": "Best Quiet Entry",
+   "name": "AIVOLT 4300W Inverter Generator, 149cc, 60 dBA",
+   "specs": [
+    "3,450W running",
+    "149cc OHV",
+    "60 dBA",
+    "Under 3% THD"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "4,300 peak / 3,450 running W"
+    },
+    {
+     "label": "Engine",
+     "value": "149cc air-cooled OHV"
+    },
+    {
+     "label": "Noise",
+     "value": "60 dBA, no load, 23 ft"
+    },
+    {
+     "label": "Power quality",
+     "value": "Under 3% THD"
+    },
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    }
+   ],
+   "description": "AIVOLT squeezes 3,450 running watts out of a 149cc air-cooled OHV engine, a bit more than the WEN 3600 with the same engine size. Under 3 percent THD keeps laptops and phones safe on the 30A feed. The noise rating of 60 dBA is stated at no load, so expect it to climb when the air conditioner starts.\n\nBecause the number is measured with nothing connected, it flatters the machine more than the quarter-load figures from other makers. It is the loudest quoted in the group, which is the tradeoff for the extra output. For a small RV in a campground with strict quiet hours, the PowerSmart in Eco Mode or the WEN options are better choices.\n\nKeep the oil fresh, clean the air filter every 25 hours, and store it with the carburetor dry. The engine works hard when pushed to full output, so keep the load below about 70 percent when you can.",
+   "bestFor": "Extra running watts in a small package for a mid-size trailer.",
+   "pros": [
+    "3,450 running watts from a compact engine",
+    "Under 3 percent THD for electronics",
+    "Simple gasoline-only design",
+    "Light enough for a bumper rack"
+   ],
+   "cons": [
+    "Noise quoted at no load, so real noise is higher",
+    "No propane option"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0B6PDZZRD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41raOmQnB+L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Match watts to the AC",
+   "explanation": "A 13,500 BTU rooftop unit needs roughly 3,000 to 3,500 watts to start, and a smaller 9,000 to 11,000 BTU unit needs less. The WEN 4500 at 3,600 rated clears the larger unit, while the WEN 3600 at 2,900 rated suits the smaller. A soft start kit lowers start load by 60 to 70 percent."
+  },
+  {
+   "criterion": "Weight for one-person lifts",
+   "explanation": "A generator you cannot lift is a generator you will leave at home. The WEN 3600 weighs 46 pounds and the WEN 4500 weighs 53, both manageable for one person. Anything beyond 60 pounds needs a ramp or a hitch carrier."
+  },
+  {
+   "criterion": "Propane compatibility",
+   "explanation": "Small RVs often carry a propane bottle for the stove, and a dual fuel generator can share it. Output drops by about 10 percent, so the WEN 3600 dual fuel falls from 2,900 to 2,600 rated watts. The PowerSmart claims 24 hours on a 20-pound cylinder."
+  },
+  {
+   "criterion": "Noise ratings read carefully",
+   "explanation": "Noise is quoted at 23 feet and at no load or a quarter load, so the real number at the campsite is higher. The PowerSmart quotes 59 dBA in Eco Mode and AIVOLT 60 dBA at no load. Compare the test conditions before comparing the numbers."
+  },
+  {
+   "criterion": "Tank size and runtime",
+   "explanation": "A small tank means more refills, and refueling a hot engine in the dark is a hazard. The PowerSmart's 1.3-gallon tank runs 8 hours at a quarter load, while the Pulsar's one gallon gives 4 hours at half load. Match tank size to your nightly runtime."
+  },
+  {
+   "criterion": "Storage and venting",
+   "explanation": "Store the generator outside the living space, never in a closed van, and let it cool before packing. The WEN CO Watchdog and PowerSmart CO Protect shut the engine down on carbon monoxide, but good placement comes first."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Rated vs surge watts",
+   "meaning": "Rated watts are continuous, surge covers startup. Size an air conditioner against rated.",
+   "watchFor": "The AIVOLT lists 4,300 peak but 3,450 running watts."
+  },
+  {
+   "spec": "Fuel-specific output",
+   "meaning": "Dual fuel units publish different gasoline and propane ratings.",
+   "watchFor": "The WEN dual fuel falls from 2,900 to 2,600 rated watts on propane."
+  },
+  {
+   "spec": "Runtime basis",
+   "meaning": "Runtime claims depend on load. A quarter load is far lighter than an air conditioner running.",
+   "watchFor": "The Pulsar's 4 hours is quoted at half load, the PowerSmart's 8 hours at a quarter load."
+  },
+  {
+   "spec": "CO shutdown",
+   "meaning": "A sensor that cuts the engine if carbon monoxide builds up near the unit.",
+   "watchFor": "The WEN dual fuel lists a CO Watchdog and the PowerSmart lists CO Protect."
+  },
+  {
+   "spec": "Engine displacement",
+   "meaning": "Larger cc engines produce more power but weigh and cost more.",
+   "watchFor": "The WEN 3600 uses 149cc and the WEN 4500 uses 181cc, a gap that adds 700 rated watts."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power for the loads",
+   "description": "We compared rated watts to RV air conditioner start loads. The WEN 4500 at 3,600 and PowerSmart at 3,300 gasoline cover a standard unit, while the 2,900 WEN needs a soft starter for the largest. Ratings come from the spec sheet. Soft start compatibility was noted where the listing mentions RV readiness."
+  },
+  {
+   "title": "Weight and size",
+   "description": "We prioritized frames that one person can lift. The 46-pound WEN and 53-pound WEN set the benchmark. We also checked whether handles and compact footprints fit a bumper rack."
+  },
+  {
+   "title": "Fuel flexibility",
+   "description": "We rewarded propane capability because many small RVs carry a bottle. The PowerSmart's 24-hour propane claim and WEN's dual fuel option scored well. Gasoline-only units were judged on tank life."
+  },
+  {
+   "title": "Safety and noise",
+   "description": "CO shutdown and quoted noise levels were compared. The PowerSmart's 59 dBA in Eco Mode and AIVOLT's 60 dBA at no load set the range. No sensor was treated as a replacement for placement."
+  },
+  {
+   "title": "Support and documentation",
+   "description": "We looked at how clearly each listing states its running watts and runtime. Established makers like WEN scored higher. The smaller brands lost a little for thinner service networks."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By RV Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Camper van, no AC",
+      "WEN 3600W",
+      "46 pounds and 2,900 rated watts"
+     ],
+     [
+      "Teardrop or pop-up with a small AC",
+      "WEN 3600W Dual Fuel",
+      "2,600 rated watts on propane"
+     ],
+     [
+      "Small trailer with a 13,500 BTU AC",
+      "WEN 4500W",
+      "3,600 rated watts"
+     ],
+     [
+      "Overnight stays without refueling",
+      "PowerSmart 3800W",
+      "24 hours on a 20-pound cylinder"
+     ],
+     [
+      "Weekend trips with short AC use",
+      "Pulsar PGD40ISCO",
+      "3,200 rated watts at a low tier"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Pulsar PGD40ISCO",
+      "Light and affordable"
+     ],
+     [
+      "Value inverter",
+      "AIVOLT 4300W",
+      "3,450 running watts at a mid tier"
+     ],
+     [
+      "Mid-tier simple",
+      "WEN 3600W",
+      "Established brand, no frills"
+     ],
+     [
+      "Mid-tier dual fuel",
+      "WEN 3600W Dual Fuel",
+      "Propane and CO Watchdog"
+     ],
+     [
+      "Premium compact",
+      "WEN 4500W",
+      "Most rated watts per pound"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gasoline vs Dual Fuel",
+   "cards": [
+    {
+     "label": "Gasoline",
+     "text": "The WEN 3600, WEN 4500, Pulsar and AIVOLT burn gasoline only. They are simpler and give full output but need a fuel can on the road."
+    },
+    {
+     "label": "Dual fuel",
+     "text": "The WEN dual fuel and PowerSmart can use propane, which stores well and burns clean. Output drops a bit and the regulator needs checking."
+    }
+   ],
+   "note": "Choose dual fuel if you already carry propane. Choose gasoline if simplicity matters and you will refuel at the pump."
+  },
+  {
+   "subheading": "Quiet Hours and Campground Rules",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Strict quiet hours",
+      "PowerSmart 3800W",
+      "59 dBA in Eco Mode"
+     ],
+     [
+      "Moderate rules",
+      "WEN 4500W",
+      "Mid engine size, measured quiet"
+     ],
+     [
+      "Boondocking, no neighbors",
+      "AIVOLT 4300W",
+      "More watts, more noise"
+     ],
+     [
+      "Van parked in town",
+      "WEN 3600W",
+      "Small engine, low profile"
+     ],
+     [
+      "Overnight CPAP",
+      "PowerSmart 3800W",
+      "Long propane runtime"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Camper Vans Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for weight under 50 pounds and a CO shutdown sensor, since exhaust can drift into a small cabin. Check the rear door opening and floor height to make sure you can lift the generator in and out."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The WEN 3600 at 46 pounds and the WEN dual fuel with CO Watchdog are the best vans, while the PowerSmart suits a van that needs overnight propane runtime."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You run a 13,500 BTU AC often, camp in strict quiet-hour parks or want propane. The WEN 4500 and WEN dual fuel give better capacity and features."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp with lights, a fan and a fridge. The Pulsar or the WEN 3600 handles that at a lower tier."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Oil change",
+   "interval": "After the first 20 hours, then yearly",
+   "why": "Small crankcases run hot and hold little oil. Fresh oil protects a lightweight engine. Warm the engine for a minute before draining so the oil flows easily."
+  },
+  {
+   "task": "Fuel valve and dry-run",
+   "interval": "Before storage",
+   "why": "Close the shut-off valve and let the carburetor empty, which prevents gummed jets."
+  },
+  {
+   "task": "Propane fitting leak test",
+   "interval": "Every reconnection",
+   "why": "Use soapy water on the fittings. Replace any cracked hose."
+  },
+  {
+   "task": "Air filter cleaning",
+   "interval": "Every 25 hours",
+   "why": "Campground dust clogs filters. A clean filter protects the engine. Wash foam elements in soapy water and let them dry fully before reinstalling."
+  },
+  {
+   "task": "Spark plug swap",
+   "interval": "Yearly",
+   "why": "A fouled plug is the usual no-start cause. It is cheap and quick."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What size generator does a small RV need?",
+   "a": "A small RV with one 13,500 BTU AC needs about 3,500 rated watts, while one with a 9,000 to 11,000 BTU unit can use 2,900. Add the microwave only if you have headroom. Always confirm the air conditioner label rather than guessing from the roof size."
+  },
+  {
+   "q": "Can I run a 13,500 BTU AC on 2,900 watts?",
+   "a": "Only with a soft start kit, which lowers start load by 60 to 70 percent. Without one, the AC may trip the generator."
+  },
+  {
+   "q": "Is propane worth the output loss?",
+   "a": "If you already carry propane and want cleaner storage, yes. You lose about 300 watts on the WEN dual fuel, which is acceptable for small loads."
+  },
+  {
+   "q": "How loud are these generators?",
+   "a": "Quoted ratings range from 53 to 60 dB at 23 feet and part load. Real noise climbs with load, so test at home. Eco Mode lowers noise but only when the load is light, so an air conditioner running pushes the engine to full speed."
+  },
+  {
+   "q": "Can I carry it inside a van?",
+   "a": "Only when it is cool and the fuel valve is closed, and never run it inside. Keep the generator in a ventilated rack or bin."
+  },
+  {
+   "q": "How often should I change the oil?",
+   "a": "After the first 20 hours, then every season or 50 to 100 hours. Check the level before every run. Use the oil grade named in the manual, usually a 10W-30 or 5W-30 in moderate climates."
+  }
+ ],
+ "relatedGuides": []
+}

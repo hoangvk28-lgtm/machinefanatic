@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-dual-fuel-inverter-generator",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best dual fuel inverter generator",
+ "guideTitle": "Best Dual Fuel Inverter Generator (2026)",
+ "metaTitle": "Best Dual Fuel Inverter Generator (2026)",
+ "metaDescription": "Six dual fuel inverter generators judged on how the fuel changeover works, propane derating, clean-power output and which size suits a home or camper.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The WEN 3600 dual fuel is the best small pick because it keeps CO protection and clean power at a modest weight, and the Westinghouse 5000 is the best at 3,900 rated watts with a remote start. The ERAYAK 4500 is the one to watch for its automatic changeover from propane to gasoline. Skip the AIVOLT 8000 unless you need a 50 amp outlet and a large machine.",
+ "introParagraphs": [
+  "A dual fuel inverter combines two ideas: an engine that follows the load for quiet, clean power, and a carburetor that can burn gasoline or propane. The pairing is popular because it fixes the two worst traits of a generator, noise and stale fuel.",
+  "This guide treats the changeover as the main design question. How the machine moves between fuels, how much output it gives up on propane and how its electronics cope with a sudden load separate the six models below more than any headline watt figure."
+ ],
+ "products": [
+  {
+   "id": "B0D3WR4CFR",
+   "badge": "Best Small Dual Fuel",
+   "name": "WEN 3600W Dual Fuel Inverter with CO Watchdog",
+   "specs": [
+    "3,600W surge gas",
+    "2,900W rated gas",
+    "2,600W rated propane",
+    "CO Watchdog"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Gas output",
+     "value": "3,600W surge, 2,900W rated"
+    },
+    {
+     "label": "Propane output",
+     "value": "3,500W surge, 2,600W rated"
+    },
+    {
+     "label": "Safety",
+     "value": "WEN Watchdog CO shutdown"
+    },
+    {
+     "label": "Plug",
+     "value": "RV-ready panel"
+    }
+   ],
+   "description": "The cleanest way to judge a dual fuel inverter is to look at what it gives up on propane, and this WEN gives up 300 running watts, from 2,900 to 2,600. That loss is modest, and the machine keeps a CO shutdown sensor and an RV-ready panel in a compact inverter package. The listing positions it as quiet in the conversation range, without a decibel figure at a stated distance.\n\nAgainst the Westinghouse 4000 dual fuel, it carries about 400 fewer rated watts on gas but offers a built-in CO sensor and a lower weight. It suits a household whose peak load is a refrigerator, a furnace blower and a few small appliances, with a propane cylinder as the long-term fuel.\n\nBecause the inverter board is part of the system, keep the unit dry and avoid hosing it down. Run it each month on the fuel you store least, and keep the sensor opening clear of dust.",
+   "bestFor": "Small homes and trailers that want propane, clean power and a CO sensor.",
+   "pros": [
+    "Only a 300-watt drop on propane",
+    "CO shutdown sensor included",
+    "RV-ready panel for a trailer",
+    "Clean power for phones and laptops"
+   ],
+   "cons": [
+    "No decibel figure at a stated distance",
+    "2,600 rated watts on propane limits big loads"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GVQWCSKL",
+   "badge": "Best Listed Propane Runtime",
+   "name": "PowerSmart 3800W Dual Fuel Inverter, 8H Gas, 24H Propane",
+   "specs": [
+    "3,800W start gas",
+    "3,300W run gas",
+    "3,100W run propane",
+    "59 dBA"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Gas output",
+     "value": "3,800W starting, 3,300W running"
+    },
+    {
+     "label": "Propane output",
+     "value": "3,500W starting, 3,100W running"
+    },
+    {
+     "label": "Runtime",
+     "value": "8 hours on gas, up to 24 on a 20-lb propane tank"
+    },
+    {
+     "label": "Noise",
+     "value": "59 dBA at 23 feet"
+    }
+   ],
+   "description": "The listing is unusually specific about runtime, giving 8 hours on its 1.3-gallon gas tank and up to 24 hours on a standard 20-pound propane cylinder at a light load. That makes propane the long-haul fuel and gasoline the backup. The derating is small, 200 running watts from 3,300 to 3,100, and noise is stated at 59 dBA at 23 feet.\n\nIt is a straightforward machine with no digital display, which keeps the controls simple. Against the Westinghouse 4000 dual fuel, it gives similar rated watts with clearer noise and runtime statements, though the Westinghouse has a more established brand.\n\nStore it with the gas valve closed and the propane hose coiled loosely. Test it on propane first each season, since the regulator is the part that sticks if it has not been used.",
+   "bestFor": "Owners who want clear runtime figures and a small propane derating.",
+   "pros": [
+    "Clear 8 hour gas and 24 hour propane figures",
+    "Only a 200-watt drop on propane",
+    "59 dBA stated at 23 feet",
+    "Simple controls without a display"
+   ],
+   "cons": [
+    "No remote or electric start listed",
+    "Newer brand with less service reach"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GVQWCSKL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Q+uhUBExL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CQMZ9JVB",
+   "badge": "Best Brand-Name Mid-Size",
+   "name": "Westinghouse iGen4000DF 4,000W Dual Fuel Inverter, Wheel Kit",
+   "specs": [
+    "4,000W peak",
+    "3,300W rated gas",
+    "Gas or propane",
+    "Wheel and handle kit"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Gas output",
+     "value": "4,000W peak, 3,300W rated"
+    },
+    {
+     "label": "Power quality",
+     "value": "3% THD or less"
+    },
+    {
+     "label": "Start",
+     "value": "Recoil start"
+    },
+    {
+     "label": "Display",
+     "value": "Rotating LED data center"
+    }
+   ],
+   "description": "A rotating LED panel shows fuel level, output, runtime and voltage, which is the most useful display among the dual fuel inverters here. The 3,300 rated watts at under three percent THD are matched by a wheel and telescoping handle kit that makes a heavier machine easy to move. It is recoil start only.\n\nThe listing does not give a separate propane rating in the text we reviewed, so check the manual for the number before sizing loads. Against the PowerSmart 3800 it gives about the same gas rating with a better-known service network and a data panel.\n\nOwnership centers on the electronics and the fuel selector. Keep it dry, run it on propane at least once a year, and replace the spark plug on schedule.",
+   "bestFor": "Households that want a known brand, a data panel and wheels.",
+   "pros": [
+    "LED panel shows fuel, load and runtime",
+    "3,300 rated watts at low THD",
+    "Wheel and handle kit included",
+    "Gas and propane in one machine"
+   ],
+   "cons": [
+    "Recoil start only",
+    "Propane rating is not clear in the listing"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQMZ9JVB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WzM-FtzFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D5XZ9JMZ",
+   "badge": "Best Automatic Changeover",
+   "name": "ERAYAK 4500W Dual Fuel Inverter, Auto Switch, 30A RV Ready",
+   "specs": [
+    "4,500W peak gas",
+    "3,500W rated gas",
+    "Auto fuel switch",
+    "54 lb"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Gas output",
+     "value": "4,500W peak, 3,500W rated"
+    },
+    {
+     "label": "Changeover",
+     "value": "Automatic switch to gasoline when propane runs out"
+    },
+    {
+     "label": "Weight",
+     "value": "54 lb"
+    },
+    {
+     "label": "Size",
+     "value": "19.88 x 16.93 x 20.25 inches"
+    }
+   ],
+   "description": "A gas-priority system switches to gasoline on its own when the propane supply runs out, which is the feature most dual fuel buyers wish they had in the middle of a night. The listing quotes 4,500 peak and 3,500 rated watts on gasoline in a 54-pound package with a compact footprint. It is 30 amp RV ready.\n\nThe automatic changeover removes a manual step but adds a system that can fail, so it is worth testing before a storm. Against the Westinghouse 4000 DF, it gives 200 more rated watts and the changeover, but no data panel.\n\nTest the changeover by running on a nearly empty propane cylinder at home. Keep a fresh tank of gasoline on the machine so the switch has something to run on, and replace stale fuel each season. A sealed can of fresh gasoline with stabilizer is cheap insurance against the one moment the propane cylinder runs dry at two in the morning.",
+   "bestFor": "Owners who want propane first and an automatic gasoline fallback.",
+   "pros": [
+    "Automatic switch to gasoline when propane ends",
+    "3,500 rated watts on gasoline",
+    "Compact 54 pound case",
+    "30A RV-ready outlet"
+   ],
+   "cons": [
+    "Propane rating is not clear here",
+    "No data display"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S2h7L6c7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09LR9WLLP",
+   "badge": "Best Overall",
+   "name": "Westinghouse iGen5000DF 5,000W Dual Fuel, Remote Start",
+   "specs": [
+    "5,000W peak",
+    "3,900W rated gas",
+    "Remote start",
+    "Gas or propane"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Gas output",
+     "value": "5,000W peak, 3,900W rated"
+    },
+    {
+     "label": "Power quality",
+     "value": "3% THD or less"
+    },
+    {
+     "label": "Start",
+     "value": "Remote electric start"
+    },
+    {
+     "label": "Outlets",
+     "value": "5-20R, TT-30R, two USB"
+    }
+   ],
+   "description": "Remote start plus a data panel on a 3,900 rated watt dual fuel inverter makes this the most complete package in the list. The fob starts the engine from the house, the LED panel reports fuel and runtime, and the TT-30R outlet fits a trailer cord. Output is clean at three percent THD or less.\n\nThe cost is weight and money. It is the heaviest machine here short of the AIVOLT 8000, and it costs more than the 4000 sibling. Against the ERAYAK 4500 it adds 400 rated watts, a display and a fob, but not the automatic fuel changeover.\n\nKeep the start battery on a maintainer and replace the fob battery yearly. Run the machine on both fuels each season, and keep the propane hose out of direct sun when it sits.",
+   "bestFor": "Homes and trailers that want remote start and a data panel with two fuels.",
+   "pros": [
+    "3,900 rated watts on gasoline",
+    "Remote electric start",
+    "LED data panel",
+    "Clean power at low THD"
+   ],
+   "cons": [
+    "Heavier and costlier than the smaller units",
+    "No automatic fuel changeover"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B09LR9WLLP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51gsSrhPDhL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GSDKNY3N",
+   "badge": "Best Large Dual Fuel Inverter",
+   "name": "AIVOLT 8000W Dual Fuel Inverter, Auto Fuel Switching, 50A",
+   "specs": [
+    "8,000W peak",
+    "322cc engine",
+    "Auto fuel switching",
+    "62 dBA at 23 ft"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Output",
+     "value": "8,000W peak, 120V and 240V"
+    },
+    {
+     "label": "Engine",
+     "value": "322cc four-stroke OHV"
+    },
+    {
+     "label": "Changeover",
+     "value": "Automatic fuel switching"
+    },
+    {
+     "label": "Noise",
+     "value": "62 dBA at 23 feet"
+    }
+   ],
+   "description": "Automatic fuel switching on a 322cc inverter gives this machine the one feature that most dual fuel inverters lack at this size. It provides 120 and 240 volt output with a 50 amp outlet, and a stated 62 dBA at 23 feet, which the listing compares to a dishwasher.\n\nThe listing leaves the rated watts for each fuel unclear, so confirm the nameplate before sizing. Against the Westinghouse iGen5000DF it offers far more capacity and a 240 volt output, but loses the display and the brand support.\n\nThis is a machine for a prepared pad. Have an electrician fit the interlock, test the changeover on a nearly empty propane cylinder, and keep a log of oil changes.",
+   "bestFor": "Larger homes and RVs that need 240 volts and an automatic fuel switch.",
+   "pros": [
+    "Automatic fuel switching",
+    "120V and 240V with a 50A outlet",
+    "62 dBA stated at 23 feet",
+    "Large 322cc engine"
+   ],
+   "cons": [
+    "Rated watts per fuel are unclear",
+    "Heavy and newer brand"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "How the changeover works",
+   "explanation": "Some machines switch fuels by a manual selector and some, like the ERAYAK 4500 and AIVOLT 8000, change over automatically when propane runs out. Automatic systems help overnight but add a part that can fail. Test the changeover on a nearly empty cylinder before you need it, and listen for a stumble in the engine note when the fuel changes, because a hesitation of a second or two can drop a sensitive load. Manual selectors never surprise you that way, since you choose the moment."
+  },
+  {
+   "criterion": "Propane derating",
+   "explanation": "The WEN 3600 loses 300 running watts on propane, the PowerSmart loses 200, and the WEN 4800 in other guides loses none of its rated watts. Size on the propane figure if propane will be the long-term fuel. Listings that do not state it should be treated with caution, since a missing propane rating is often a sign that the number is unflattering. Ask the seller or read the manual before you count on propane for a furnace or a sump pump."
+  },
+  {
+   "criterion": "Power quality",
+   "explanation": "The point of an inverter is clean power, so look for a stated THD under three percent. The Westinghouse iGen4000DF and iGen5000DF list it. Clean power matters for modern furnaces, laptops and medical devices. A CPAP with a heated humidifier, for example, contains a control board that can fault on a distorted wave, while a work light never notices."
+  },
+  {
+   "criterion": "Runtime on each fuel",
+   "explanation": "The PowerSmart lists 8 hours on gasoline and up to 24 on a 20-pound cylinder at a light load. A single cylinder at a heavy load lasts only a few hours. Plan for how many cylinders you will keep, and keep one full spare beside the one in use so the swap takes a minute rather than a trip to the store in bad weather."
+  },
+  {
+   "criterion": "Size, wheels and handling",
+   "explanation": "The ERAYAK 4500 weighs 54 pounds and the Westinghouse iGen4000DF ships with a wheel kit. A machine you cannot move will end up in the wrong place. Match the weight to the person who must move it, since a household where the only able adult is not the buyer will struggle with a heavy unit on a soft lawn."
+  },
+  {
+   "criterion": "Start system",
+   "explanation": "The Westinghouse iGen5000DF lists remote start, while the iGen4000DF is recoil only. A remote or electric start matters in a storm. A fob adds a battery that needs care, and a start battery that has sat for a year may need a charge before the first start."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Gas priority or propane priority",
+   "meaning": "The machine prefers one fuel and falls back to the other automatically. It removes the manual switch but adds a sensor and valve.",
+   "watchFor": "The ERAYAK 4500 describes an automatic switch to gasoline."
+  },
+  {
+   "spec": "Starting versus running watts",
+   "meaning": "Starting watts are a short surge and running watts are continuous. The gap shrinks on propane.",
+   "watchFor": "The PowerSmart gives 3,500 starting and 3,100 running on propane."
+  },
+  {
+   "spec": "THD",
+   "meaning": "Total harmonic distortion measures wave quality. Under three percent is the inverter benchmark.",
+   "watchFor": "The Westinghouse iGen units list three percent or less."
+  },
+  {
+   "spec": "dBA at 23 feet",
+   "meaning": "A sound level at a stated distance, usually at light load. It lets you compare machines on one basis.",
+   "watchFor": "The PowerSmart and AIVOLT 8000 state 23 feet, while the WEN gives no figure."
+  },
+  {
+   "spec": "Rated watts per fuel",
+   "meaning": "Two separate ratings, one per fuel. A listing that gives only one is incomplete.",
+   "watchFor": "The ERAYAK and AIVOLT 8000 are unclear on propane."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Changeover design",
+   "description": "We compared manual and automatic fuel switching. The ERAYAK 4500 and AIVOLT 8000 describe automatic systems, and the Westinghouse and WEN units use manual selection. Automatic systems earned credit with a note about testing."
+  },
+  {
+   "title": "Output on each fuel",
+   "description": "We looked for a clear rated watt figure per fuel. The WEN 3600 and PowerSmart give both, and the ERAYAK and AIVOLT leave propane unclear. Clear listings ranked higher."
+  },
+  {
+   "title": "Power quality",
+   "description": "We checked for a stated THD figure. The Westinghouse units list three percent or less, and several others describe clean power without a number. A number beats an adjective."
+  },
+  {
+   "title": "Size and features",
+   "description": "We compared weight, wheels, displays and start systems. The iGen5000DF has remote start and a panel, while the iGen4000DF has wheels. We favored features that matter in an outage."
+  },
+  {
+   "title": "Support and safety",
+   "description": "We weighed brand reach and safety hardware. WEN lists a CO sensor on the 3600, and Westinghouse has broad parts support."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fridge and chargers with propane",
+      "WEN 3600W Dual Fuel",
+      "2,600 rated watts on propane"
+     ],
+     [
+      "Trailer with a small air conditioner",
+      "PowerSmart 3800W Dual Fuel",
+      "3,100 rated watts on propane"
+     ],
+     [
+      "House with a data panel",
+      "Westinghouse iGen4000DF",
+      "3,300 rated watts and wheels"
+     ],
+     [
+      "Automatic propane to gas fallback",
+      "ERAYAK 4500W Dual Fuel",
+      "Automatic changeover"
+     ],
+     [
+      "Remote start with two fuels",
+      "Westinghouse iGen5000DF",
+      "3,900 rated watts"
+     ],
+     [
+      "240 volts and a 50A outlet",
+      "AIVOLT 8000W Dual Fuel",
+      "Large capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "PowerSmart 3800W Dual Fuel",
+      "Clear figures at a modest cost"
+     ],
+     [
+      "Low with a sensor",
+      "WEN 3600W Dual Fuel",
+      "CO sensor included"
+     ],
+     [
+      "Mid with automation",
+      "ERAYAK 4500W Dual Fuel",
+      "Automatic changeover"
+     ],
+     [
+      "Mid to upper brand",
+      "Westinghouse iGen4000DF",
+      "Data panel and wheels"
+     ],
+     [
+      "Premium",
+      "Westinghouse iGen5000DF",
+      "Remote start and capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Automatic vs Manual Changeover",
+   "cards": [
+    {
+     "label": "Automatic",
+     "text": "The ERAYAK 4500 and AIVOLT 8000 switch fuels on their own, which helps overnight. They add a valve and sensor that need testing."
+    },
+    {
+     "label": "Manual",
+     "text": "The Westinghouse and WEN units use a selector you set yourself. It is simpler and has fewer parts, but needs you awake and nearby."
+    }
+   ],
+   "note": "Choose automatic for long unattended runs and manual for simplicity."
+  },
+  {
+   "subheading": "Starting Method",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Remote fob",
+      "Westinghouse iGen5000DF",
+      "Remote electric start"
+     ],
+     [
+      "Recoil with wheels",
+      "Westinghouse iGen4000DF",
+      "Simple and mobile"
+     ],
+     [
+      "Light and simple",
+      "WEN 3600W Dual Fuel",
+      "Compact with a sensor"
+     ],
+     [
+      "Large machine with automation",
+      "AIVOLT 8000W Dual Fuel",
+      "Auto changeover"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Light weight, low stated noise and a fuel plan. A propane cylinder swap is easier than a gasoline can at a campsite."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The WEN 3600 and PowerSmart 3800 are the lightest, and the PowerSmart lists 24 hours on a 20-pound cylinder."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want remote start, a data panel or an automatic changeover. The Westinghouse iGen5000DF and ERAYAK 4500 provide these."
+    },
+    {
+     "label": "Save if",
+     "text": "Your loads are small and propane is your fuel. The WEN 3600 or PowerSmart 3800 covers that."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test the fuel changeover",
+   "interval": "Every season",
+   "why": "Selectors and automatic valves stick if unused. Run the machine on both fuels to confirm they work, and let it run at least ten minutes on each so the carburetor and the regulator both clear."
+  },
+  {
+   "task": "Check propane hose and regulator",
+   "interval": "Every spring",
+   "why": "Rubber cracks with age and cold. Replace any hose with visible cracks, and check the clamp at each end because a loose clamp leaks gas long before a hose splits."
+  },
+  {
+   "task": "Change the oil",
+   "interval": "After the first 20 hours, then yearly",
+   "why": "Small engines run hot. Fresh oil protects the engine and the low-oil sensor."
+  },
+  {
+   "task": "Keep the unit dry",
+   "interval": "Always",
+   "why": "Inverter electronics dislike water. Store under a cover and never hose the case."
+  },
+  {
+   "task": "Run dry before storage",
+   "interval": "Before storage over a month",
+   "why": "Gasoline gums jets in the bowl. Close the fuel valve and let the engine stop."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a dual fuel inverter worth it?",
+   "a": "Yes if you want stored fuel and quiet clean power together. The cost is a few hundred watts on propane and an extra valve to maintain, and that cost is small next to the benefit of fuel that survives a decade in a shed."
+  },
+  {
+   "q": "How much power do I lose on propane?",
+   "a": "The WEN 3600 loses 300 running watts and the PowerSmart loses 200. Always check the propane rating."
+  },
+  {
+   "q": "Do automatic changeovers work reliably?",
+   "a": "They work, but they are another part. Test the changeover before a storm and keep fresh gasoline on hand."
+  },
+  {
+   "q": "Can I run a dual fuel inverter indoors on propane?",
+   "a": "No. Propane engines still produce carbon monoxide. Always run outdoors and away from the house, with the exhaust pointed away from windows, and keep a battery CO alarm inside regardless of the fuel."
+  },
+  {
+   "q": "How long will a propane cylinder last?",
+   "a": "A 20-pound cylinder can last up to 24 hours at a light load on the PowerSmart listing, but only a few hours at a heavy load."
+  },
+  {
+   "q": "Which is best for a small trailer?",
+   "a": "The WEN 3600 and PowerSmart 3800 fit a small trailer. A larger air conditioner points to the Westinghouse iGen5000DF, which has the rated watts to start it without a soft starter."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg"
+}

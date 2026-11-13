@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-inverter-generator-for-home-backup",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best inverter generator for home backup",
+ "guideTitle": "Best Inverter Generator for Home Backup (2026)",
+ "metaTitle": "Best Inverter Generator for Home Backup (2026)",
+ "metaDescription": "Six inverter generators for home backup, matched to circuit lists, transfer-switch hookup and outage length, from a 4,400 watt value pick to 12,000 watts.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "13 min",
+ "expertTake": "The Westinghouse iGen5000DF is the best balance for most homes, covering a fridge, furnace blower, lights and a sump pump on gas or propane. The Oxseryn 4400 is the value pick if you accept an open frame. A home with central air or an electric range should skip this class and move to the 12,000 watt unit with a proper transfer switch.",
+ "introParagraphs": [
+  "Home backup is a planning exercise before it is a purchase. The generator that suits you is determined by a short list of circuits, the order they start in and how long the utility is likely to be down.",
+  "This guide starts from the circuit list. It ranks six inverter machines by the load they can carry, how they connect to a house safely and what they ask of you during a multi-day outage, when fuel and sleep both run short."
+ ],
+ "products": [
+  {
+   "id": "B0FQ5BB6SS",
+   "badge": "Best Value",
+   "name": "Oxseryn 4400W Open Frame Inverter Generator, 2-Gallon Tank",
+   "specs": [
+    "4,400W peak",
+    "3,400W running",
+    "2-gallon tank",
+    "14 hr at 25% load"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Output",
+     "value": "4,400W peak, 3,400W running"
+    },
+    {
+     "label": "Tank",
+     "value": "2 gallons with fuel gauge"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 14 hours at 25% load in ECO"
+    },
+    {
+     "label": "Outlets",
+     "value": "Two 120V, one 12V DC, one RV port"
+    }
+   ],
+   "description": "Backup duty rewards a big tank, and a two-gallon tank with a fuel gauge is a practical feature here. The listing claims up to 14 hours at a quarter load in ECO mode, enough to carry a refrigerator and lights through a night. Output is 3,400 running watts, which covers a refrigerator, a furnace blower, a sump pump and some lights on a careful circuit plan.\n\nThe open-frame layout is where it saves money and loses polish. It runs louder than the enclosed Westinghouse and Generac machines, and its exposed engine needs a cover, so a porch location matters. It does carry an RV port with a 30 amp style outlet, but no 240 volt output, so it will not feed a whole-house transfer switch's 240 volt side.\n\nPlan on a two-cord arrangement from the machine to the loads, or a small inlet and interlock installed by an electrician. Store it dry and covered, and keep a fuel stabilizer on hand because the large tank sits idle between storms.",
+   "bestFor": "Budget-minded homeowners who need a fridge, a sump pump and lights through a short outage.",
+   "pros": [
+    "3,400 running watts at a low cost",
+    "Two-gallon tank with a fuel gauge",
+    "Up to 14 hours listed at quarter load",
+    "RV port for a 30A-style connection"
+   ],
+   "cons": [
+    "Open frame is loud and exposed",
+    "No 240 volt output"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FQ5BB6SS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51q0ZK+ixwL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B099KSY4XG",
+   "badge": "Best Overall",
+   "name": "Westinghouse iGen5000DFc 5,000W Dual Fuel Inverter",
+   "specs": [
+    "5,000W peak",
+    "3,900W rated",
+    "Gas or propane",
+    "Remote start"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Output",
+     "value": "5,000W peak, 3,900W rated on gas"
+    },
+    {
+     "label": "Start",
+     "value": "Remote electric start"
+    },
+    {
+     "label": "Outlets",
+     "value": "TT-30R 30A, 5-20R, two USB"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Inverter speed control"
+    }
+   ],
+   "description": "Most homes that lose power need somewhere between 3,000 and 4,000 running watts, and this machine sits right in that band. With 3,900 rated watts on gasoline, it can run a refrigerator, a furnace blower, a sump pump and lighting at once, then add a microwave when it is needed. Propane as a second fuel is the quiet advantage in a long outage, since a few 20-pound cylinders stored in a shed never go stale.\n\nThe listing says inverter control cuts fuel use by up to half, a figure that compares against fixed-speed machines and applies at light loads. The remote key fob lets you start it from the house, which matters more in a storm than the specification suggests.\n\nIt has a 30 amp outlet that can feed a small inlet through a proper cord and an interlock kit. Keep the start battery on a maintainer, and run it under load each season so the propane regulator and the gas carburetor both get exercised.",
+   "bestFor": "Most homes that need a fridge, furnace and a few circuits on two fuels.",
+   "pros": [
+    "3,900 rated watts on gasoline",
+    "Propane stores for years",
+    "Remote key fob start",
+    "30A outlet for an inlet and interlock"
+   ],
+   "cons": [
+    "No 240 volt outlet",
+    "Heavier and costlier than single-fuel small units"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B099KSY4XG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51cs60X1ZjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DT7NDZ6B",
+   "badge": "Best Parallel Option",
+   "name": "Generac iQ5200 DF 5,200W Dual Fuel Inverter Generator",
+   "specs": [
+    "5,200W starting",
+    "3,900W running",
+    "Gas or propane",
+    "Parallel ready"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Output",
+     "value": "5,200W starting, 3,900W running"
+    },
+    {
+     "label": "Compliance",
+     "value": "CARB and EPA certified for 50 states"
+    },
+    {
+     "label": "Power quality",
+     "value": "THD under 3%"
+    },
+    {
+     "label": "Expansion",
+     "value": "Parallel ready"
+    }
+   ],
+   "description": "This is the machine for homeowners in states with strict emissions rules. Generac lists it as certified for sale in all 50 states, so a buyer in California does not face the supply problems that hit non-compliant engines. The 5,200 starting watts are said to handle the surge of a 13,500 BTU RV air conditioner, which hints at what it can do for a window or portable unit at home.\n\nIt runs 3,900 watts on a continuous basis, the same as the Westinghouse iGen5000DF, so the choice between them comes down to brand support and parallel readiness. A second Generac unit joined by a parallel kit would give roughly 7,800 running watts, closing the gap with a larger machine while keeping each half portable.\n\nBecause a recognized dealer network backs the brand, a failed regulator or carburetor is a local order rather than a mailed part. Run it on propane once a year to make sure the hose and regulator still seal properly.",
+   "bestFor": "Homeowners in strict-emission states who want a recognized brand and a parallel path.",
+   "pros": [
+    "Certified for sale in all 50 states",
+    "3,900 running watts on a dual fuel unit",
+    "Parallel ready for expansion",
+    "THD under 3% for electronics"
+   ],
+   "cons": [
+    "Parallel kit is extra",
+    "Costlier than the Oxseryn per running watt"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DT7NDZ6B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TVHdt3N1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DQY3MBLJ",
+   "badge": "Best Quiet Dual Fuel",
+   "name": "AIVOLT 4300W Dual Fuel Inverter, 53 dB, 64 lb",
+   "specs": [
+    "4,300W peak",
+    "Gas or propane",
+    "53 dB",
+    "64 lb with wheels"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Weight",
+     "value": "64 lb with built-in wheels"
+    },
+    {
+     "label": "Noise",
+     "value": "53 dB listed"
+    },
+    {
+     "label": "Start",
+     "value": "Remote and electric start"
+    },
+    {
+     "label": "Runtime",
+     "value": "11.5 hours on gas, 34 hours on propane at 25% load"
+    }
+   ],
+   "description": "Thirty-four hours of listed runtime on propane at a quarter load is the standout figure on this machine. In a backup role, that means a single propane cylinder or two could carry a refrigerator and a few lights across a long weekend. On gasoline the listing gives 11.5 hours at the same load, so propane is the long-outage fuel.\n\nAt 64 pounds with built-in wheels and a telescoping handle, it moves like a small suitcase, and a quoted 53 dB is among the lowest figures for a dual fuel machine at this size. It carries about the same power class as the Westinghouse iGen5000DF, so the choice is about price and brand history.\n\nBecause the brand is younger, plan to keep a spare plug and filter on a shelf. Test the remote fob monthly, and keep the propane hose coiled loosely so it does not kink.",
+   "bestFor": "Homes that want a quiet machine and a long propane runtime for a multi-day outage.",
+   "pros": [
+    "34 hours listed on propane at quarter load",
+    "Quoted 53 dB for a dual fuel unit",
+    "Built-in wheels and handle",
+    "Remote and electric start"
+   ],
+   "cons": [
+    "Younger brand with a thinner service record",
+    "Runtime numbers hold only at light load"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQY3MBLJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51I4QodNEZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DVF1RPCJ",
+   "badge": "Best Step to 240V",
+   "name": "WEN 6800W Dual Fuel Inverter with Bonded-Neutral 240V",
+   "specs": [
+    "6,800W surge gas",
+    "5,100W rated gas",
+    "240V outlet",
+    "CO shutdown"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Gas output",
+     "value": "6,800W surge, 5,100W rated"
+    },
+    {
+     "label": "Propane output",
+     "value": "6,000W surge, 4,500W rated"
+    },
+    {
+     "label": "Voltage",
+     "value": "120V and bonded-neutral 240V"
+    },
+    {
+     "label": "Safety",
+     "value": "WEN Watchdog CO shutdown"
+    }
+   ],
+   "description": "A well pump is the load that sends many buyers up to this machine, since it is a 240 volt motor with a hefty start surge. The bonded-neutral 240 volt configuration lets it supply that load, and 5,100 rated watts on gasoline leaves room for a refrigerator and a furnace as well. The Watchdog CO shutdown adds a layer of protection when a generator sits near a house.\n\nOn propane the rating drops to 4,500 watts, so size on the lower number if propane is your plan. Set beside the Westinghouse iGen5000DF it adds about 1,200 running watts and a 240 volt outlet, at a clear weight and cost penalty.\n\nBecause a bonded neutral is involved, never connect it to a house through a dryer outlet cord. Have an electrician install a transfer switch or interlock, and make a laminated sheet of the circuits you will run.",
+   "bestFor": "Homes with a well pump or a 240 volt load that must stay on during an outage.",
+   "pros": [
+    "Bonded-neutral 240V for a well pump",
+    "5,100 rated watts on gasoline",
+    "Built-in CO shutdown sensor",
+    "Propane for long storage"
+   ],
+   "cons": [
+    "Propane output drops to 4,500 rated watts",
+    "Heavy and not easy for one person to move"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CQMZZ47V",
+   "badge": "Best Whole-Home Capacity",
+   "name": "Westinghouse iGen12000DFc 12,000W Dual Fuel Inverter",
+   "specs": [
+    "12,000W peak",
+    "Gas or propane",
+    "Under 3% THD",
+    "Transfer switch ready"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline or propane"
+    },
+    {
+     "label": "Output",
+     "value": "12,000W peak"
+    },
+    {
+     "label": "Power quality",
+     "value": "3% THD or less"
+    },
+    {
+     "label": "Start",
+     "value": "Remote electric start"
+    },
+    {
+     "label": "Home backup",
+     "value": "Transfer switch ready"
+    }
+   ],
+   "description": "It suits a house where the outage list includes central air, an electric water heater or an oven. A 12,000-watt peak with low distortion and a transfer-switch-ready panel is built for that task, and the listing uses insulation and mufflers to hold the noise down. The inverter speed control claims up to half the fuel of a fixed-speed machine, a best case measured against a conventional design.\n\nIt is far from portable, so treat it as a fixture you plan around. Against the WEN 6800 it nearly doubles the capacity and adds a cleaner wave, but the weight and the fuel use rise accordingly. A heavy load like central air will chew through a tank quickly, so a propane supply matters.\n\nHave the transfer switch installed by a licensed electrician and label every circuit. Exercise the machine under load twice a year, and keep a written fuel plan for a three-day outage so you know how many gallons or cylinders it needs.",
+   "bestFor": "Larger homes that want central air or an electric range on a transfer switch.",
+   "pros": [
+    "12,000-watt peak for large loads",
+    "THD of three percent or less",
+    "Dual fuel with remote electric start",
+    "Transfer switch ready"
+   ],
+   "cons": [
+    "Very heavy and costly",
+    "Large loads burn fuel quickly"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQMZZ47V?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GpGdbkvrL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Build the circuit list first",
+   "explanation": "Write down what must run: a refrigerator near 150 running watts, a furnace blower near 500, a sump pump near 800 and lights. That list totals under 2,500 watts, so a 3,900-watt Westinghouse or Generac has margin. The mistake is buying 12,000 watts when your list is a fraction of it."
+  },
+  {
+   "criterion": "Add motor start surges",
+   "explanation": "Motors such as a refrigerator compressor, a sump pump or a well pump can pull two to three times their running watts for a moment. The WEN 6800 at 5,100 running watts is chosen for a well pump partly for this reason. Start the biggest motor first and add other loads afterward."
+  },
+  {
+   "criterion": "Safe connection to the house",
+   "explanation": "A generator should connect through a transfer switch or an interlock kit installed by an electrician. Backfeeding a house through a dryer outlet can energize utility lines and injure workers. The Westinghouse iGen12000DFc lists transfer switch readiness, and the 5,000-watt units offer a 30 amp outlet for an inlet."
+  },
+  {
+   "criterion": "Fuel plan for a three-day outage",
+   "explanation": "A unit at half load can burn a gallon an hour or more, so a three-day outage needs real quantities. The AIVOLT 4300 lists 34 hours on propane at a quarter load, while the Oxseryn gives a two-gallon tank. Store fuel with stabilizer or favor propane, and rotate gasoline each season."
+  },
+  {
+   "criterion": "Run it near the house, but not too near",
+   "explanation": "Carbon monoxide kills homeowners every year when a generator sits too close to a window or in a garage. Place any unit at least 20 feet from the house, exhaust pointed away, and install battery CO alarms inside. A built-in sensor such as the WEN Watchdog is a backup."
+  },
+  {
+   "criterion": "Parts and support when it matters",
+   "explanation": "A machine that fails during a storm is a machine you cannot return. Generac sells through dealers, Westinghouse has broad parts support, and smaller brands ship by mail. Buy a spare plug, filter and propane hose before the season starts."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Transfer switch ready",
+   "meaning": "The panel offers an outlet or inlet that matches a transfer switch or an interlock kit. It does not install the switch for you.",
+   "watchFor": "The iGen12000DFc and iGen5000DFc both list this readiness in different outlet sizes."
+  },
+  {
+   "spec": "Bonded neutral",
+   "meaning": "The neutral is tied to the frame so the unit can feed 240 volt loads. It must not be backfed to a house without a transfer device.",
+   "watchFor": "The WEN 6800 is bonded neutral."
+  },
+  {
+   "spec": "CARB and EPA certified",
+   "meaning": "The engine meets emission rules in all states, including California. A non-compliant unit may not be sold in some states.",
+   "watchFor": "Generac lists 50-state certification on the iQ5200 DF."
+  },
+  {
+   "spec": "Run time at 25% load",
+   "meaning": "The listing assumes a light load, so heavier loads shorten the number sharply.",
+   "watchFor": "The AIVOLT 4300 lists 34 hours on propane at 25% load."
+  },
+  {
+   "spec": "THD",
+   "meaning": "A low THD figure signals a clean wave for electronics and modern furnaces. Under three percent is the usual inverter benchmark.",
+   "watchFor": "The Generac and Westinghouse units list three percent or less."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Running watts against a real circuit list",
+   "description": "We compared rated watts with typical outage loads: a refrigerator, a furnace blower, a sump pump and lights. The 3,900-watt units cover that with margin, and the Oxseryn at 3,400 does so carefully. The 12,000-watt unit adds central air."
+  },
+  {
+   "title": "House connection options",
+   "description": "We checked for a 30A outlet, a 240 volt outlet or transfer-switch readiness. The WEN 6800 offers 240 volts, and the Westinghouse 12000 is ready for a transfer switch. Units without these need adapters."
+  },
+  {
+   "title": "Fuel flexibility and runtime",
+   "description": "We counted fuels and compared listed runtime. The AIVOLT 4300 lists 34 hours on propane, and the Westinghouse and Generac machines offer two fuels. Gasoline-only units scored lower for long outages."
+  },
+  {
+   "title": "Noise and neighbor impact",
+   "description": "We read the noise claims, since a multi-day outage is a long time to listen to an engine. The AIVOLT lists 53 dB, and the open-frame Oxseryn gives no low figure. Enclosed cases ranked higher."
+  },
+  {
+   "title": "Support and compliance",
+   "description": "We weighed dealer networks and emissions certification. Generac lists 50-state certification, and Westinghouse offers wide parts support. Smaller brands ranked on listing clarity and owner feedback patterns."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What Must Run",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fridge, lights and a sump pump",
+      "Oxseryn 4400W",
+      "3,400 running watts at a low cost"
+     ],
+     [
+      "Fridge, furnace blower and chargers",
+      "Westinghouse iGen5000DFc",
+      "3,900 rated watts on two fuels"
+     ],
+     [
+      "Strict emissions state",
+      "Generac iQ5200 DF",
+      "50-state certified"
+     ],
+     [
+      "Quiet neighborhood with a long outage",
+      "AIVOLT 4300W",
+      "53 dB and a long propane runtime"
+     ],
+     [
+      "Well pump or 240V load",
+      "WEN 6800W",
+      "Bonded-neutral 240V"
+     ],
+     [
+      "Central air or an electric range",
+      "Westinghouse iGen12000DFc",
+      "12,000-watt peak"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Oxseryn 4400W",
+      "Open frame with a big tank"
+     ],
+     [
+      "Mid cost dual fuel",
+      "AIVOLT 4300W",
+      "Quiet and long on propane"
+     ],
+     [
+      "Mid cost with a major brand",
+      "Westinghouse iGen5000DFc",
+      "Remote start and a 30A outlet"
+     ],
+     [
+      "Upper mid with certification",
+      "Generac iQ5200 DF",
+      "Parallel ready"
+     ],
+     [
+      "Premium whole-home",
+      "Westinghouse iGen12000DFc",
+      "Largest capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Portable Inlet vs Transfer Switch",
+   "cards": [
+    {
+     "label": "Portable inlet with interlock",
+     "text": "A 30 amp inlet and an interlock kit let a 3,900-watt unit like the Westinghouse iGen5000DFc feed selected circuits. It costs less to install and suits a short list of loads."
+    },
+    {
+     "label": "Transfer switch",
+     "text": "A transfer switch feeds a dedicated panel of circuits and suits the iGen12000DFc or the WEN 6800 with a 240 volt side. It costs more to install and rewards a long outage."
+    }
+   ],
+   "note": "Choose the inlet and interlock for a short circuit list and a transfer switch for a whole-house plan."
+  },
+  {
+   "subheading": "Fuel Choice",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Long storage and low upkeep",
+      "AIVOLT 4300W",
+      "Propane runtime listed at 34 hours"
+     ],
+     [
+      "Two fuels from a major brand",
+      "Westinghouse iGen5000DFc",
+      "Gas or propane"
+     ],
+     [
+      "Cheapest gas-only",
+      "Oxseryn 4400W",
+      "Two-gallon tank"
+     ],
+     [
+      "Propane with a 240 volt option",
+      "WEN 6800W",
+      "4,500 rated watts on propane"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Multi-Day Outage Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A big tank or propane, low noise, an electric or remote start and a plan to refuel. Sleep matters more than watts after the first night."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The AIVOLT 4300 lists 34 hours on propane and 53 dB. The Westinghouse iGen5000DFc and Generac iQ5200 DF carry 3,900 running watts on either fuel."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a well pump, central air or a medical device that cannot lose power. The WEN 6800 and the Westinghouse iGen12000DFc justify their cost."
+    },
+    {
+     "label": "Save if",
+     "text": "Your list is a fridge, lights and a sump pump. The Oxseryn 4400 covers it with an inlet and interlock."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Run it under load",
+   "interval": "Every month or every season",
+   "why": "A backup generator fails from disuse, not from wear. A real load exercises the carburetor, regulator and start battery."
+  },
+  {
+   "task": "Rotate fuel",
+   "interval": "Every 3 to 6 months",
+   "why": "Gasoline with ethanol absorbs water and gums jets. Use stabilizer or burn it in a vehicle and refill."
+  },
+  {
+   "task": "Charge the start battery",
+   "interval": "Every month",
+   "why": "Remote and electric start depend on a small battery. A maintainer keeps it ready."
+  },
+  {
+   "task": "Change the oil",
+   "interval": "After the first 20 hours, then yearly",
+   "why": "Large engines run hot under heavy loads and oil breaks down. Fresh oil protects the engine over a multi-day run."
+  },
+  {
+   "task": "Inspect fuel hoses and regulator",
+   "interval": "Every spring",
+   "why": "Propane hoses crack with age and cold. Replace any hose with surface cracks."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many watts do I need for home backup?",
+   "a": "A refrigerator, furnace blower, sump pump and lights usually total under 3,000 running watts. Central air or an electric range pushes the need toward 8,000 or more."
+  },
+  {
+   "q": "Can I plug a generator into a wall outlet?",
+   "a": "No. That backfeeds the utility and can injure workers. Use a transfer switch or an interlock kit installed by an electrician."
+  },
+  {
+   "q": "Is dual fuel worth it for backup?",
+   "a": "Yes for most homes, since propane stores for years and avoids stale gasoline. Remember that propane output is lower on every model here."
+  },
+  {
+   "q": "How long can I run it continuously?",
+   "a": "Most units can run until the tank is empty, but check the oil every 8 to 12 hours and refuel only when the engine is cool."
+  },
+  {
+   "q": "Where should I place it?",
+   "a": "At least 20 feet from the house with the exhaust pointed away from windows, on a level pad with protection from rain. Never run it in a garage."
+  },
+  {
+   "q": "Do I need a CO alarm?",
+   "a": "Yes. Install battery-powered CO alarms inside the home, since a generator's sensor protects the generator area and not your bedroom."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51q0ZK+ixwL._SL500_.jpg"
+}

@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-inverter-generator",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best inverter generator",
+ "guideTitle": "Best Inverter Generator (2026)",
+ "metaTitle": "Best Inverter Generator (2026)",
+ "metaDescription": "Six two-thousand-watt class inverter generators compared on rated watts, weight, noise and outlets, with a clear pick for each kind of buyer.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "expertTake": "The Honda EU2200i is the one to buy if the machine must start every time after a year on a shelf, and the Westinghouse iGen2800c gives the most rated power in a one-person carry. The WEN 56235i is the value pick that still delivers clean power and a respectable weight. If your loads include a well pump, a window air conditioner or a table saw, skip this class and look at the larger guides instead.",
+ "introParagraphs": [
+  "A single inverter generator is the most useful small engine most households will ever own. It runs a refrigerator through an outage, charges a camper battery bank, and powers a laptop at a tailgate without frying anything, because the electronics inside rebuild the output as a clean sine wave.",
+  "This guide covers the compact class that one person can lift with one hand and carry across a parking lot. The question is rarely which one is best in the abstract. It is which one gives you enough running watts, a believable noise figure and a brand that will still sell you a carburetor kit in year six."
+ ],
+ "products": [
+  {
+   "id": "B08YJVDGS1",
+   "badge": "Best Overall",
+   "name": "Honda EU2200i 2200W Inverter Generator",
+   "specs": [
+    "2,200W listed",
+    "Bluetooth app",
+    "48 to 57 dBA range",
+    "Gas, recoil start"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Output",
+     "value": "2,200W max, 120V"
+    },
+    {
+     "label": "Noise",
+     "value": "Honda lists a 48 to 57 dBA span"
+    },
+    {
+     "label": "Smart features",
+     "value": "Bluetooth app for monitoring and shutoff"
+    },
+    {
+     "label": "Intended loads",
+     "value": "Fridge, microwave, small AC, hair dryer"
+    }
+   ],
+   "description": "What sets the EU2200i apart is not a headline number but the way Honda tunes the engine and muffler around a narrow job. It idles down at light load, and the listing quotes a noise span of 48 to 57 dBA, which is the lowest floor in this group. The Bluetooth My Generator app is a real convenience, since it lets you read run state and shut the unit off from the camper door.\n\nThe tradeoff is value per watt. Both the iGen2800c and the WEN 56235i advertise more or equal capacity for noticeably less money, and neither has the same record of starting after a long idle. If your loads are a refrigerator, a microwave and a few chargers, the EU2200i handles them comfortably, but it will not start a larger window air conditioner the way the 2,800-watt Westinghouse can.\n\nIts upkeep is simple precisely because the carburetor is small and the fuel valve closes completely. Shutting that valve and letting the float bowl run dry before storage is the whole winter routine, and the Honda dealer network means a replacement spark plug or air filter is a same-day purchase.",
+   "bestFor": "Owners who want the lowest fuss, lowest noise machine and will pay a premium for it.",
+   "pros": [
+    "Lowest published noise floor in this group",
+    "Bluetooth app can read status and shut it off",
+    "Small carburetor that tolerates long storage",
+    "Dealer parts network in most towns"
+   ],
+   "cons": [
+    "Priciest per rated watt here",
+    "Will not start a bigger window air conditioner"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08YJVDGS1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dlV5ggY1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07MY4G5QJ",
+   "badge": "Best Brand Alternative",
+   "name": "Yamaha EF2200iS 2200W Inverter Generator",
+   "specs": [
+    "2,200W listed",
+    "79cc engine",
+    "RV outlet",
+    "DC outlet"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Engine",
+     "value": "79cc four-stroke"
+    },
+    {
+     "label": "Output",
+     "value": "2,200W max, 120V"
+    },
+    {
+     "label": "Outlets",
+     "value": "Standard RV outlet and a DC output"
+    },
+    {
+     "label": "Noise control",
+     "value": "Yamaha Quiet Technology muffler"
+    }
+   ],
+   "description": "Yamaha built the EF2200iS around a 79cc engine and a large expansion muffler it calls Quiet Technology. That muffler design, rather than any extra engine speed trick, is where most of the noise reduction comes from. The unit also includes a standard RV outlet so a trailer plug does not need an adapter, plus a DC port for charging a 12 volt battery directly.\n\nAgainst the Honda it trades a little app polish for a very similar carrying weight and a slightly lower price. Against the Pulsar PG2300iS and the GENMAX it costs more but comes with a service network that Pulsar and GENMAX cannot match in most regions. Its 2,200-watt label is a maximum, so plan around roughly 1,800 running watts and size motor loads accordingly.\n\nThe simplest long-term habit is to run it every month or so under a real load, such as a heater or a drill, rather than letting it idle. That keeps the small carburetor passages clear, and it also exercises the oil-alert sensor so you find a weak connection before an outage does.",
+   "bestFor": "Buyers who want a major-brand machine and a built-in RV outlet without paying the Honda premium.",
+   "pros": [
+    "RV outlet built in, no adapter hunting",
+    "DC port charges batteries directly",
+    "Large muffler keeps the exhaust note low",
+    "Major-brand parts and service support"
+   ],
+   "cons": [
+    "No smartphone monitoring",
+    "2,200 is a maximum, not a running figure"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07MY4G5QJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/411xfCVFWIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B099KR841H",
+   "badge": "Most Rated Watts",
+   "name": "Westinghouse iGen2800c 2800W Inverter Generator",
+   "specs": [
+    "2,800W peak",
+    "2,200W running",
+    "TT-30R outlet",
+    "CO sensor"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Output",
+     "value": "2,800W peak, 2,200W running"
+    },
+    {
+     "label": "Outlets",
+     "value": "TT-30R 30A, 5-20R, two USB"
+    },
+    {
+     "label": "Safety",
+     "value": "CO sensor, parallel ready"
+    },
+    {
+     "label": "Efficiency",
+     "value": "Eco Mode, listed run up to 12 hours"
+    }
+   ],
+   "description": "The iGen2800c gives you 2,200 running watts, which is about 400 more than the 1,800-watt Honda and Yamaha in this group. That extra margin is the difference between a camper air conditioner starting on the first try and tripping the breaker. It carries a TT-30R outlet, a 5-20R duplex outlet and two USB ports, and the CO sensor and parallel-ready panel are standard rather than optional extras.\n\nThe cost of that capability is weight and a louder note under heavier load. Eco Mode pulls the engine down at light load, but once a microwave and a heater are on, the engine is working visibly harder than the Honda does with the same load. For quiet campsite use, the Westinghouse is acceptable rather than exceptional.\n\nOwners should treat the CO sensor as a safety net, not a license to run it near an open window, because the sensor reacts only after gas has already built up in the unit's own area. Keep it outdoors and well away from the house, and pair a second unit through the parallel kit later if one machine ever proves too small.",
+   "bestFor": "RV owners and home backup users who need the most running watts in a carryable frame.",
+   "pros": [
+    "Highest running watts in this group",
+    "TT-30R outlet plugs a 30A RV cord directly",
+    "CO sensor and parallel-ready panel included",
+    "Eco Mode listed for up to 12 hours"
+   ],
+   "cons": [
+    "Louder than the Honda under real load",
+    "Heavier to move around than the 1,800-watt units"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B099KR841H?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51RzJ9E7DqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B085828BQ6",
+   "badge": "Best Value",
+   "name": "WEN 56235i 2350W Super Quiet Inverter Generator",
+   "specs": [
+    "2,350W surge",
+    "1,900W rated",
+    "39 lb body",
+    "Fuel shut-off"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Output",
+     "value": "2,350W surge, 1,900W rated"
+    },
+    {
+     "label": "Weight",
+     "value": "39 lb"
+    },
+    {
+     "label": "Fuel system",
+     "value": "Fuel shut-off valve"
+    },
+    {
+     "label": "Power quality",
+     "value": "Clean power for phones and laptops"
+    }
+   ],
+   "description": "At 39 pounds the 56235i is the lightest unit in this group, and it still reports 1,900 rated watts, which is 100 more than the Honda or Yamaha. WEN positions the noise as comparable to normal conversation, a claim that rests on a US health agency noise scale rather than a measured figure at a stated distance. Treat the claim as directional, not as a number you can compare against Honda's published span.\n\nYou give up the major-brand support and the CO sensor found on the newer WEN models, so the unit fits a garage-and-campsite role better than a hang-it-by-the-bedroom role. The fuel shut-off valve is a real durability feature, since closing it and running the carburetor dry is exactly the storage habit that prevents gummed jets.\n\nParts for WEN products arrive by mail rather than from a local dealer, so keep a spare spark plug and an air filter on the shelf. For a household that expects to use the generator a few times a year, that tradeoff is easy to accept given the price gap to the Honda.",
+   "bestFor": "Budget buyers who want light weight and 1,900 rated watts in one box.",
+   "pros": [
+    "Lightest unit here at 39 pounds",
+    "1,900 rated watts beats the 1,800 class",
+    "Fuel shut-off supports dry storage",
+    "Clean power suits phones and laptops"
+   ],
+   "cons": [
+    "No CO sensor on this generation",
+    "Noise claim is not given at a stated distance"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41yjv-sIONL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07PDN9VKD",
+   "badge": "Best for Parallel Pairing",
+   "name": "Pulsar PG2300iS 2300W Inverter Generator",
+   "specs": [
+    "2,300W peak",
+    "1,800W running",
+    "Parallel capable",
+    "12V DC outlet"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Output",
+     "value": "2,300W peak, 1,800W running"
+    },
+    {
+     "label": "Outlets",
+     "value": "Two 120V 13A, 12V 8A, one USB"
+    },
+    {
+     "label": "Expansion",
+     "value": "Parallel capability"
+    },
+    {
+     "label": "Emissions",
+     "value": "CARB compliant"
+    }
+   ],
+   "description": "Pulsar's PG2300iS is a straightforward 2,300-watt peak machine with 1,800 running watts and two 13A household outlets. The outlet count and a cigarette-style 12 volt port make it practical for charging a battery and running a few small appliances at once. It is also CARB compliant, which matters if you live in a state that restricts the sale of non-compliant small engines.\n\nParallel capability is the feature that earns it a place in this group. Two PG2300iS units joined with a parallel kit give roughly double the output, and two small machines are easier to carry than one large unit weighing close to the size of a washing machine. A 13A outlet limit does mean a single outlet will not feed a 15A appliance like a larger space heater.\n\nOnly the base unit weight and noise are somewhat vague in the listing, so plan to ask the seller for the dBA reading at 23 feet before you decide it is quiet enough for a campground that enforces quiet hours.",
+   "bestFor": "People who plan to start small and add a second unit through parallel later.",
+   "pros": [
+    "Parallel capability for roughly double output",
+    "Two household outlets plus a 12V port",
+    "CARB compliant for restricted states",
+    "Stable sine wave for sensitive electronics"
+   ],
+   "cons": [
+    "Noise and weight are not clearly stated",
+    "Outlets are 13A rated, not 20A"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07PDN9VKD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31P-b8-BliL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B099JZXBPW",
+   "badge": "Lightest Fuel Sipper",
+   "name": "GENMAX GM2200i 2200W Ultra-Quiet Inverter Generator",
+   "specs": [
+    "2,200W starting",
+    "79.7cc OHV",
+    "41.8 lb",
+    "58 dBA listed"
+   ],
+   "specList": [
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Engine",
+     "value": "79.7cc four-stroke OHV"
+    },
+    {
+     "label": "Weight",
+     "value": "41.8 lb"
+    },
+    {
+     "label": "Noise",
+     "value": "As low as 58 dBA"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 6 hours at 50% load on one gallon"
+    }
+   ],
+   "description": "GENMAX pairs a 79.7cc four-stroke OHV engine with an economy mode that slows the engine whenever the load drops. The listing quotes up to six hours at half load from a one-gallon tank and a noise floor of 58 dBA, both plausible numbers for a two-thousand-watt inverter. At 41.8 pounds it is easy to lift into a trunk or onto a truck bed.\n\nThe gap to the Honda is in the noise floor and the brand name, not in the basic function. The Honda is rated as low as 48 dBA while this machine quotes 58 dBA, a difference of ten decibels that is audible at a quiet campsite. Compared with the Pulsar, the GENMAX gives less outlet variety but a clearer runtime figure.\n\nThe one-gallon tank is the practical limit, because a half-load run of six hours means refueling in the middle of a long outage. Keep a fresh can with stabilizer nearby, and use economy mode for charging and lighting rather than for a sudden motor load.",
+   "bestFor": "Buyers who want a lightweight, efficient machine at a modest price.",
+   "pros": [
+    "Quoted six hours at half load per gallon",
+    "41.8 pounds is easy to lift and stow",
+    "Economy mode cuts fuel and noise at light load",
+    "58 dBA floor is reasonable for the class"
+   ],
+   "cons": [
+    "Ten decibels louder at idle than the Honda",
+    "One-gallon tank needs a refill on long outages"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B099JZXBPW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pz7SQZoOL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Rated watts, not peak watts",
+   "explanation": "A peak figure only describes the few seconds an engine can overshoot, while the running figure is what the machine can carry for hours. The Westinghouse iGen2800c lists 2,800 peak but 2,200 running, and the Honda EU2200i and Yamaha EF2200iS carry about 1,800 running behind a 2,200 label. The most common mistake is adding up appliance wattage against the big label number, then watching the unit trip off."
+  },
+  {
+   "criterion": "Weight and carry method",
+   "explanation": "A unit that you dread lifting is a unit you leave in the garage on the day you need it. The WEN 56235i at 39 pounds and the GENMAX at 41.8 pounds can be hoisted into a trunk one-handed, while the Westinghouse is noticeably more awkward. Match the weight to the lifter, not to the largest load you can imagine."
+  },
+  {
+   "criterion": "Honest noise numbers",
+   "explanation": "A decibel reading means little without a distance and a load percentage. The GENMAX quotes 58 dBA as a floor, the Honda gives a 48 to 57 dBA span, and WEN uses a conversation-level comparison without a figure. Doubling the load adds several decibels, so assume the quiet number holds only at quarter load."
+  },
+  {
+   "criterion": "Outlet types that match your plug",
+   "explanation": "A 30A TT-30R outlet like the Westinghouse and Yamaha carry lets an RV cord plug in directly with no adapter. The Pulsar has two 13A household outlets, which limit a single outlet below the usual 15A household appliance. Check that the outlet that matches your most important load is on the panel before you buy."
+  },
+  {
+   "criterion": "Fuel valve and storage design",
+   "explanation": "Most small-engine failures trace to gummed carburetor jets after fuel sat in the bowl. A real fuel shut-off valve, which the WEN 56235i and Honda provide, lets you close the line and run the unit dry before storage. Without it you rely on stabilizer alone, which works but is less forgiving of a forgotten generator."
+  },
+  {
+   "criterion": "Parts and service reach",
+   "explanation": "Honda and Yamaha sell through dealers who stock spark plugs, filters and carburetor kits, while WEN, GENMAX and Pulsar usually ship parts by mail. A mail-order wait matters most when the generator fails during an outage. If you cannot afford the wait, pay for the brand with local parts or keep a spares kit on the shelf."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Running watts versus starting watts",
+   "meaning": "Running watts are what the engine can supply continuously, and starting watts are a brief overshoot for motor start. Compressor loads can pull two to three times their running draw at start.",
+   "watchFor": "The iGen2800c shows a 600-watt spread between peak and running, which is a larger gap than the WEN 56235i."
+  },
+  {
+   "spec": "THD under three percent",
+   "meaning": "Total harmonic distortion measures how far the output wave strays from a pure sine. A low THD figure is needed for laptops, CPAP machines and modern appliance boards.",
+   "watchFor": "The Westinghouse and Pulsar list a clean sine wave, while the Yamaha listing leaves the figure unspecified."
+  },
+  {
+   "spec": "Eco or economy mode",
+   "meaning": "The engine speed follows the load instead of staying at full speed, which saves fuel and lowers noise at light load. It cannot react instantly to a sudden large motor load.",
+   "watchFor": "Turn Eco off before starting a larger motor, especially on the GENMAX, which relies on its economy mode for its runtime claim."
+  },
+  {
+   "spec": "dBA at a stated distance",
+   "meaning": "A noise rating is only comparable if the load and the distance are the same. Most manufacturers quote about 23 feet and a quarter load.",
+   "watchFor": "WEN gives no figure at all, so compare it to the Honda only by ear or by owner feedback."
+  },
+  {
+   "spec": "Parallel-ready",
+   "meaning": "Two identical inverter units can be linked by a parallel kit for near double output through a combined outlet. It is cheaper and easier to carry than one larger unit.",
+   "watchFor": "The Pulsar PG2300iS and the iGen2800c both list parallel capability, but the kits are sold separately."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Rated watts first",
+   "description": "We built a ladder from the running figure on each spec sheet, not the peak. The iGen2800c leads at 2,200 running watts, the WEN sits at 1,900, and the Honda, Yamaha and Pulsar cluster near 1,800. A machine that lacks a clear running figure drops down the list."
+  },
+  {
+   "title": "Weight and ease of carry",
+   "description": "We compared the listed weights and handle designs, since a unit that is hard to lift tends not to leave the garage. The WEN at 39 pounds and the GENMAX at 41.8 pounds set the bar for the group. We also noted whether the frame has a single top handle."
+  },
+  {
+   "title": "Noise claims and their basis",
+   "description": "We read each quoted decibel figure for its distance and load. Honda gives a range, GENMAX gives a floor, and WEN gives a comparison rather than a number. Machines with a stated measurement basis rank above those that do not."
+  },
+  {
+   "title": "Outlets and connection options",
+   "description": "We checked the panel for the plug types that matter: a 30A RV outlet, a 20A household outlet, a DC port and USB. The Westinghouse and Yamaha cover the RV case, while the Pulsar offers the widest low-power variety. A panel that does not match your gear is a reason to move on."
+  },
+  {
+   "title": "Ownership and long-term support",
+   "description": "We weighed the service network behind each name, how easily a carburetor or plug can be bought, and design features such as a fuel shut-off. Honda and Yamaha win on dealer reach, while WEN, GENMAX and Pulsar rely on mail parts and owner feedback patterns."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What You Plan to Run",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fridge, phone chargers and lights in an outage",
+      "Honda EU2200i",
+      "Enough running watts and the quietest floor in the group"
+     ],
+     [
+      "Camper with a 30A cord and an air conditioner",
+      "Westinghouse iGen2800c",
+      "2,200 running watts and a TT-30R outlet"
+     ],
+     [
+      "Weekend campsite with only small gear",
+      "GENMAX GM2200i",
+      "Light, efficient and good enough noise for the price"
+     ],
+     [
+      "Tool charging on a job site",
+      "WEN 56235i",
+      "1,900 rated watts at the lowest weight"
+     ],
+     [
+      "Starting small, upgrading later",
+      "Pulsar PG2300iS",
+      "Parallel capability lets you add a second unit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost per watt",
+      "WEN 56235i",
+      "Highest rated watts for the money in the group"
+     ],
+     [
+      "Low cost with efficiency",
+      "GENMAX GM2200i",
+      "Clear runtime claim and a low weight"
+     ],
+     [
+      "Mid-tier with features",
+      "Pulsar PG2300iS",
+      "Parallel and a 12V port at a mid price"
+     ],
+     [
+      "Premium with an RV outlet",
+      "Yamaha EF2200iS",
+      "Brand support and RV outlet built in"
+     ],
+     [
+      "Premium with the best noise floor",
+      "Honda EU2200i",
+      "Lowest noise and an app, at the highest price"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Major Brand vs Value Brand",
+   "cards": [
+    {
+     "label": "Major brand",
+     "text": "The Honda EU2200i and Yamaha EF2200iS bring dealer parts, long production runs and a record of starting after long idle. You pay roughly a premium for that certainty, and you receive about 1,800 running watts."
+    },
+    {
+     "label": "Value brand",
+     "text": "The WEN 56235i, GENMAX GM2200i and Pulsar PG2300iS offer equal or higher listed output for less money. The cost is mail-order parts, less documented noise testing and a thinner track record in year five or six."
+    }
+   ],
+   "note": "Pick the major brand if the generator is your outage plan and the value brand if it sees a few weekends a year."
+  },
+  {
+   "subheading": "Single Unit vs a Parallel Pair",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "One unit, carried by one person",
+      "WEN 56235i",
+      "39 pounds and 1,900 rated watts"
+     ],
+     [
+      "Two units that combine",
+      "Pulsar PG2300iS",
+      "Designed for parallel use"
+     ],
+     [
+      "One unit with the most margin",
+      "Westinghouse iGen2800c",
+      "2,200 running watts without a second unit"
+     ],
+     [
+      "One unit and silence",
+      "Honda EU2200i",
+      "Lowest noise floor in the group"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A low noise floor, a weight you can lift from a trunk and an outlet that matches your camper plug. Eco mode and a fuel shut-off also matter, since you will refill from a small can."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Honda EU2200i is the quietest, the GENMAX GM2200i is light and efficient, and the Westinghouse iGen2800c offers the TT-30R outlet. For a basic tent camper, the GENMAX is enough."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "The generator is the only thing between you and a spoiled freezer, or you camp at sites with strict quiet hours. The Honda EU2200i and Yamaha EF2200iS justify the premium with dealer support and long records."
+    },
+    {
+     "label": "Save if",
+     "text": "You will run it only a few days a year for lights and chargers. The WEN 56235i or GENMAX GM2200i cover that with a lower investment and a spare plug and filter on the shelf."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Change the crankcase oil",
+   "interval": "After the first 20 hours, then every season",
+   "why": "Small crankcases hold very little oil and run hot, so it breaks down fast. Fresh oil also keeps the low-oil shutdown from tripping at a bad moment."
+  },
+  {
+   "task": "Run a monthly load test",
+   "interval": "Every 4 to 6 weeks",
+   "why": "Running under a real load such as a work light or heater keeps carburetor passages clear. It also exposes a weak outlet or a stiff recoil before an outage does."
+  },
+  {
+   "task": "Close fuel valve and run dry",
+   "interval": "Before any storage over a month",
+   "why": "Gummed jets are the leading cause of no-start generators. The Honda and WEN both have a shut-off valve that makes this routine quick."
+  },
+  {
+   "task": "Check spark plug and air filter",
+   "interval": "Every 100 hours or yearly",
+   "why": "A fouled plug makes a small engine hard to start, and a clogged filter makes it run rich. Both parts are inexpensive and easy to replace."
+  },
+  {
+   "task": "Inspect the exhaust screen",
+   "interval": "Every season",
+   "why": "Carbon builds up on the spark arrestor and chokes the engine over time. Cooling the unit fully before cleaning it prevents burns."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is one of these enough to run a refrigerator?",
+   "a": "Yes for most household refrigerators. A typical unit needs about 150 running watts but can pull two to three times that for a few seconds at start, which all six machines here can supply. Plug it in by itself first and add other loads afterward."
+  },
+  {
+   "q": "Which is the best budget choice?",
+   "a": "The WEN 56235i gives the most rated watts for the lowest cost and weight, and the GENMAX GM2200i follows closely. Both cost less than the Honda and Yamaha, in exchange for mail-order parts support."
+  },
+  {
+   "q": "Do I need parallel capability?",
+   "a": "Only if you expect your needs to grow. A pair of Pulsar PG2300iS units gives roughly double the output, but you pay for two machines and a kit. If you already know you need more than 2,200 running watts, buy a bigger single unit."
+  },
+  {
+   "q": "Is peak wattage a real number?",
+   "a": "It is real but brief. The peak figure covers the few seconds when a motor starts, not hours of operation. Size on running watts and use peak only to check that a motor start will not trip the unit."
+  },
+  {
+   "q": "How loud is it in practice?",
+   "a": "Quiet numbers are measured at about quarter load and 23 feet. Under a full load the same engine is several decibels louder, and the Honda's published 48 to 57 dBA span shows that range."
+  },
+  {
+   "q": "Can I run it in the garage with the door open?",
+   "a": "No. Carbon monoxide builds up quickly even with a door open, and a CO sensor does not make indoor operation safe. Keep the unit outside and well away from windows, doors and vents."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41dlV5ggY1L._SL500_.jpg"
+}

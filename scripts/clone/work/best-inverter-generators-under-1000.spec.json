@@ -1,0 +1,594 @@
+{
+ "guideSlug": "best-inverter-generators-under-1000",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "inverter generators under 1000",
+ "guideTitle": "Best Inverter Generators Under $1000 (2026)",
+ "metaTitle": "Best Inverter Generators Under $1000 (2026)",
+ "metaDescription": "Six inverter generators under $1000 compared on running watts, weight, noise and runtime, from a Honda 1000-watt classic to an 8,000-watt home backup unit.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41LGZ7bIgsL._SL500_.jpg",
+ "expertTake": "The Honda EU1000i is the pick for anyone who wants the quietest, best-supported small inverter under the cap, while the Genkins 8000 is the value pick when you want real home backup capacity for the same ceiling. Skip the cap's top tier entirely if you only run lights and phones, because the lighter 1,000 to 1,750 watt units do that for far less.",
+ "introParagraphs": [
+  "A thousand-dollar ceiling splits the inverter generator market into two very different purchases. One path buys a small, refined, well-supported machine that you can carry in one hand. The other buys a big engine with home backup capacity from a less familiar brand.",
+  "Neither is wrong, but they answer different questions, and mixing them up leads to disappointment: a compact unit cannot run a house, and a big unit is no fun to carry to a campsite. The six picks below cover both ends of that split and the middle, with the tradeoffs spelled out."
+ ],
+ "products": [
+  {
+   "id": "B08FR9JW79",
+   "badge": "Best Refined Small Unit",
+   "name": "Honda EU1000i 1,000W Inverter Generator",
+   "specs": [
+    "1,000W",
+    "42 to 50 dBA",
+    "0.6 gal tank",
+    "Honda engine"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "1,000 W"
+    },
+    {
+     "label": "Noise",
+     "value": "42 to 50 dBA"
+    },
+    {
+     "label": "Tank",
+     "value": "0.6 gallons"
+    },
+    {
+     "label": "Runtime",
+     "value": "3.0 to 6.8 hours per tank"
+    },
+    {
+     "label": "Use",
+     "value": "Camping and light home backup"
+    }
+   ],
+   "description": "The Honda is here for the engine and the noise figure, not the wattage. A noise range of 42 to 50 dBA is the quietest in this guide by a clear margin, and that is a spec you notice immediately in a campground or on a patio. A Honda engine in this class has a long reputation for starting reliably after sitting, which is the feature that matters in an emergency.\n\nThe 1,000-watt output is limited. It will run lights, a fan, a TV, a laptop and phone chargers, and a small fridge if you size carefully, but it will not start an air conditioner or a sump pump. The 0.6-gallon tank gives three to seven hours per fill depending on load, which is short for an overnight outage. Its engine runs quieter than the Westinghouse 1500, at the cost of fewer outlets and watts.\n\nOwnership is easy and the parts network is wide. Change oil on schedule, run the carburetor dry for storage, and keep the fuel fresh. Because it is small, it makes a good second generator alongside a bigger unit.",
+   "bestFor": "Quiet camping and light backup where reliability beats raw watts.",
+   "pros": [
+    "Quietest quoted noise at 42 to 50 dBA",
+    "Well-established engine and parts network",
+    "Compact for travel and storage",
+    "Starts reliably after sitting"
+   ],
+   "cons": [
+    "Only 1,000 watts of output",
+    "0.6-gallon tank needs frequent refills"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08FR9JW79?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LGZ7bIgsL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DMSRNYK7",
+   "badge": "Best Home Backup Value",
+   "name": "Genkins 8000W Inverter Generator, 327cc, Electric Start",
+   "specs": [
+    "6,500W rated",
+    "327cc engine",
+    "62 dBA",
+    "112 lbs"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "8,000 peak / 6,500 rated W"
+    },
+    {
+     "label": "Engine",
+     "value": "327cc 4-stroke"
+    },
+    {
+     "label": "Noise",
+     "value": "62 dBA at 23 ft"
+    },
+    {
+     "label": "Weight",
+     "value": "112 lbs"
+    },
+    {
+     "label": "Mobility",
+     "value": "Telescopic handle, two wheels"
+    }
+   ],
+   "description": "Sixty-five hundred rated watts under the cap is an unusual amount of capacity, enough to carry a refrigerator, a furnace blower, lights and a well pump through an outage. The 327cc engine and electric start make it a real backup unit rather than a camping toy. A 62 dBA rating at 23 feet is respectable for this output.\n\nAt 112 pounds it is a different beast from the compact units here, and the telescopic handle and two wheels are necessary rather than optional. It will not go in a car trunk easily, and you will not carry it to a campsite. Set against the Honda the contrast is stark: about six and a half times the watts, but a much less established brand and far more weight.\n\nThe ownership advice is the same as for any home backup unit: test it under load before you need it, keep the battery charged for the electric start, and store with stabilized fuel. Plan a safe connection through a transfer switch or interlock rather than extension cords.",
+   "bestFor": "Whole-essentials home backup on a capped budget.",
+   "pros": [
+    "6,500 rated watts at a capped price",
+    "Electric start on a 327cc engine",
+    "62 dBA rating for its class",
+    "Wheels and a telescopic handle for moving"
+   ],
+   "cons": [
+    "112 pounds makes it a stay-at-home unit",
+    "Smaller service network than major brands"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DMSRNYK7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51KrrFrL8ML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GY9Q7ML9",
+   "badge": "Best Midrange Power",
+   "name": "Evernexta 4000W Gas Inverter Generator, 208cc",
+   "specs": [
+    "3,400W running",
+    "208cc",
+    "2 gal tank",
+    "Under 3% THD"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "4,000 start / 3,400 running W"
+    },
+    {
+     "label": "Engine",
+     "value": "208cc"
+    },
+    {
+     "label": "Tank",
+     "value": "2 gallons"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 9 hrs, 6.5 hrs at 50%"
+    },
+    {
+     "label": "Outlets",
+     "value": "30A, two 120V, 12V DC"
+    }
+   ],
+   "description": "This is the middle path between the Honda and the Genkins: 3,400 running watts, a 30A outlet and a two-gallon tank in a package you can still lift. It runs a camper air conditioner or a refrigerator and a freezer with room to spare, which is the real-world workload for most buyers who are not heating a whole house.\n\nThe listing states runtime at two different loads, which is useful: up to nine hours at light load and 6.5 hours at half load. THD under 3 percent covers electronics, and ECO mode saves fuel on light draws. Far lighter and cheaper to run than the Genkins 8000, it cannot start larger motors.\n\nA 208cc engine is easy to service and parts are standard, but the brand is small, so keep spare plugs and filters. Keep the load around 70 percent of rating for long life, and store it with a dry carburetor.",
+   "bestFor": "RV and outage use between the small and big units.",
+   "pros": [
+    "3,400 running watts with a 30A outlet",
+    "Runtime stated at two load levels",
+    "Under 3 percent THD for electronics",
+    "Two-gallon tank for long runs"
+   ],
+   "cons": [
+    "Smaller brand with thin support",
+    "Louder and heavier than the compact units"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GY9Q7ML9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51JdXA0Q6NL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BX3ZK5P2",
+   "badge": "Best Mid Size Value",
+   "name": "POXURIO 2450W Inverter Generator, 59 dB, 1.6 Gallon",
+   "specs": [
+    "2,450W",
+    "59 dB",
+    "1.6 gal tank",
+    "Gasoline"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "2,450 W"
+    },
+    {
+     "label": "Noise",
+     "value": "59 dB"
+    },
+    {
+     "label": "Tank",
+     "value": "1.6 gallons"
+    },
+    {
+     "label": "Fuel",
+     "value": "Gasoline"
+    },
+    {
+     "label": "Use",
+     "value": "Home use and camping"
+    }
+   ],
+   "description": "POXURIO targets the buyer who wants more than a tiny inverter but less than a home backup unit. Twenty-four hundred fifty watts is enough for a refrigerator, a TV, lights and small power tools, and a 1.6-gallon tank gives a respectable day of use. The 59 dB noise level is typical for the class.\n\nThe listing's wording is loose on whether 2,450 is peak or running, so it pays to ask the seller or read the manual before sizing a motor load. Compared with the AIVOLT 1750, it offers about a thousand more watts at a modest weight increase. Against the Evernexta, it is smaller, quieter and cheaper but has no stated 30A outlet in the data we reviewed.\n\nKeep the oil fresh, clean the air filter every 25 hours and drain the carburetor for storage. Test it with your actual loads at home, since a unit with a vaguely stated rating can disappoint in the field.",
+   "bestFor": "Everyday home use and camping that need more than 2,000 watts.",
+   "pros": [
+    "2,450 watts for fridge and small tools",
+    "1.6-gallon tank for a long day",
+    "59 dB noise level is campground friendly",
+    "Compact for its output class"
+   ],
+   "cons": [
+    "Running versus peak watts not clearly stated",
+    "No 30A outlet stated in the data"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0BX3ZK5P2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51oomhmD1yL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C1PWB9ZW",
+   "badge": "Best Parallel-Ready Small",
+   "name": "Westinghouse iGen1500 1,500W Inverter, 32 lbs",
+   "specs": [
+    "1,000W rated",
+    "32 lbs",
+    "52 dBA",
+    "CO sensor"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "1,500 peak / 1,000 rated W"
+    },
+    {
+     "label": "Weight",
+     "value": "32 lbs"
+    },
+    {
+     "label": "Noise",
+     "value": "As low as 52 dBA"
+    },
+    {
+     "label": "Runtime",
+     "value": "12 hrs on 0.79 gal"
+    },
+    {
+     "label": "Safety",
+     "value": "CO sensor, parallel ready"
+    }
+   ],
+   "description": "Westinghouse makes this the small unit for people who want a CO sensor and a parallel kit option on a budget. It delivers 1,000 rated watts at under 3 percent THD from a 32-pound frame, with two 120V 20-amp outlets and a quoted noise level as low as 52 dBA. The 12-hour runtime claim on 0.79 gallons is a light-load figure.\n\nParallel readiness means two of these units can combine for double the output with a kit, which turns a camping generator into a modest home backup pair. Compared with the Honda EU1000i, it matches the rated watts and adds a CO sensor and parallel capability, though not the same quiet range or engine reputation.\n\nKeep the load light and the oil fresh. A single unit will run a fridge, lights and chargers but not a pump or a heater. If you may need more later, buying a second unit later is a clean upgrade path.",
+   "bestFor": "Small loads with an upgrade path to a parallel pair.",
+   "pros": [
+    "Parallel ready for a two-unit pair",
+    "32-pound frame",
+    "CO sensor and under 3 percent THD",
+    "As low as 52 dBA"
+   ],
+   "cons": [
+    "Only 1,000 rated watts per unit",
+    "Parallel kit is an extra purchase"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1PWB9ZW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51WOidyzwaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GXXZT82D",
+   "badge": "Best Lightest",
+   "name": "AIVOLT 1750W Inverter Generator, 26.5 lbs, 52 dBA",
+   "specs": [
+    "1,350W running",
+    "26.5 lbs",
+    "52 dBA",
+    "Low THD"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "1,750 peak / 1,350 running W"
+    },
+    {
+     "label": "Weight",
+     "value": "26.5 lbs"
+    },
+    {
+     "label": "Noise",
+     "value": "52 dBA"
+    },
+    {
+     "label": "Carry",
+     "value": "One-hand top handle"
+    },
+    {
+     "label": "Power quality",
+     "value": "Ultra-low THD"
+    }
+   ],
+   "description": "Twenty-six and a half pounds is the weight that makes this the easiest carry in the lineup, and the 1,350 running watts is a step above the Honda and Westinghouse small units. A 52 dBA noise rating puts it among the quietest here, and the top handle lets you lift it with one hand.\n\nThe ratings are specific and the output is modest: enough for a TV, lights, a fan, chargers and a small fridge, but not an air conditioner or a pump. Compared with the Honda, it gives about 350 more running watts and a lighter body, while the Honda gives a much quieter engine and a longer service record.\n\nUpkeep is the usual: fresh fuel, a dry carburetor for storage and an oil check before every run. It is a good camping and tailgating unit, and a sensible second generator.",
+   "bestFor": "Easy carrying and light loads for camping.",
+   "pros": [
+    "26.5 pounds with a one-hand carry",
+    "1,350 running watts for its size",
+    "52 dBA noise rating",
+    "Ultra-low THD for electronics"
+   ],
+   "cons": [
+    "Modest capacity for anything with a motor",
+    "Smaller brand with limited support"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GXXZT82D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412Z1Z4HL9L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Decide on size first",
+   "explanation": "A thousand-dollar cap covers units from 1,000 to 6,500 rated watts. The Honda EU1000i and AIVOLT 1750 are carry-in-one-hand machines, while the Genkins 8000 weighs 112 pounds. Choose the class by what you need to run, then pick within it. Buyers often pick the big unit for a weekend of camping and regret hauling it, or the small unit for outage backup and find it cannot start a pump."
+  },
+  {
+   "criterion": "Running watts, not peak",
+   "explanation": "A 4,000 start rating often means 3,400 running, as on the Evernexta. Size against the running number and leave 30 percent headroom. The POXURIO 2450 does not clearly state which figure it quotes. A good rule is to keep your everyday load near 70 percent of the running rating so the engine is not at its limit for hours."
+  },
+  {
+   "criterion": "Noise comparison",
+   "explanation": "The Honda quotes 42 to 50 dBA, AIVOLT 52 dBA, Westinghouse as low as 52 and the Genkins 8000 62 dBA. A 10 dB difference is roughly twice as loud to the ear. Check the test load for each claim."
+  },
+  {
+   "criterion": "Runtime and tank size",
+   "explanation": "Small tanks mean frequent refills. The Honda holds 0.6 gallons for three to seven hours, the Westinghouse 0.79 gallons for 12 light-load hours, and the Evernexta two gallons for up to nine. Match the tank to your longest run. Remember that a bigger engine burns more fuel per hour even when lightly loaded, so a large tank is not always a long runtime."
+  },
+  {
+   "criterion": "Brand support",
+   "explanation": "The Honda and Westinghouse carry established dealer and parts networks, while the Genkins, Evernexta and POXURIO rely on seller support. Under a cap you can often get more watts from a lesser brand, but you give up service convenience."
+  },
+  {
+   "criterion": "Prices move",
+   "explanation": "The cap reflects listing prices when this guide was updated. Prices shift often, so confirm the current price. A unit that has moved above the cap changes the value comparison."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Rated watts",
+   "meaning": "Continuous output, the number to size your load against.",
+   "watchFor": "The Genkins 8000 lists 8,000 peak but 6,500 rated watts."
+  },
+  {
+   "spec": "dBA range",
+   "meaning": "Noise at a stated distance and load. A range shows how it changes with load.",
+   "watchFor": "The Honda's 42 to 50 dBA is a range, while the Genkins quotes a single 62 dBA."
+  },
+  {
+   "spec": "Parallel ready",
+   "meaning": "Two units can be linked with a kit for combined output.",
+   "watchFor": "The Westinghouse iGen1500 is parallel ready, but the kit is sold separately."
+  },
+  {
+   "spec": "Runtime per tank",
+   "meaning": "Hours on a full tank at a stated load. Higher loads shorten it.",
+   "watchFor": "The Honda quotes 3.0 to 6.8 hours on 0.6 gallons depending on load."
+  },
+  {
+   "spec": "THD",
+   "meaning": "Total harmonic distortion rates waveform cleanliness. Lower is safer for electronics.",
+   "watchFor": "The Westinghouse iGen1500 and Evernexta quote under 3 percent."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Capacity versus size",
+   "description": "We compared rated watts to weight, since a capped budget forces a choice. The Genkins 8000 gives 6,500 watts at 112 pounds, while the AIVOLT 1750 gives 1,350 at 26.5 pounds. Ratings come from the spec sheet."
+  },
+  {
+   "title": "Noise and refinement",
+   "description": "We compared quoted dBA and the test conditions. The Honda's 42 to 50 range led, followed by AIVOLT and Westinghouse at 52 dBA. A single high figure, like the Genkins at 62, counted against campground use."
+  },
+  {
+   "title": "Runtime and tank",
+   "description": "We read tank size alongside runtime claims. The Evernexta's two gallons and the Westinghouse's 12 hours at light load scored well. The Honda's 0.6 gallons scored lower on endurance. Quarter-load claims were read as best case, not typical."
+  },
+  {
+   "title": "Brand and service",
+   "description": "We weighed whether a parts network exists. Honda and Westinghouse led. Smaller brands were credited for clear specs but marked for support risk. Spare parts like spark plugs and filters were considered easy to source for every unit."
+  },
+  {
+   "title": "Upgrade path",
+   "description": "We considered parallel readiness and a 30A outlet as ways to grow. The Westinghouse parallel option and the Evernexta's 30A outlet scored best."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Load Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lights, phone, a fan",
+      "Honda EU1000i",
+      "1,000 watts and 42 to 50 dBA"
+     ],
+     [
+      "TV, chargers, small fridge",
+      "AIVOLT 1750W",
+      "1,350 running watts, 26.5 pounds"
+     ],
+     [
+      "Fridge, tools, lights",
+      "POXURIO 2450W",
+      "2,450 watts and a 1.6-gallon tank"
+     ],
+     [
+      "RV with a 30A inlet and small AC",
+      "Evernexta 4000W",
+      "3,400 running watts and 30A"
+     ],
+     [
+      "Home backup with a furnace and pump",
+      "Genkins 8000W",
+      "6,500 rated watts"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "What the Cap Buys",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Premium small engine",
+      "Honda EU1000i",
+      "Top of the cap for refinement"
+     ],
+     [
+      "Most watts for the cap",
+      "Genkins 8000W",
+      "6,500 rated watts"
+     ],
+     [
+      "Best balance",
+      "Evernexta 4000W",
+      "Mid-class output with a 30A outlet"
+     ],
+     [
+      "Entry small unit",
+      "AIVOLT 1750W",
+      "Light and affordable"
+     ],
+     [
+      "Expandable pair",
+      "Westinghouse iGen1500",
+      "Parallel ready"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Premium Small vs Big Budget",
+   "cards": [
+    {
+     "label": "Premium small",
+     "text": "The Honda EU1000i spends the cap on engine refinement and quiet, giving up watts. It suits campers and light backup users who value reliability."
+    },
+    {
+     "label": "Big budget",
+     "text": "The Genkins 8000 spends the cap on watts, giving up weight and brand support. It suits homeowners who need real backup capacity."
+    }
+   ],
+   "note": "Pick premium small for travel and quiet. Pick big budget for house backup."
+  },
+  {
+   "subheading": "Portability",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "One-hand carry",
+      "AIVOLT 1750W",
+      "26.5 pounds"
+     ],
+     [
+      "Light and CO-protected",
+      "Westinghouse iGen1500",
+      "32 pounds with a CO sensor"
+     ],
+     [
+      "Compact and quiet",
+      "Honda EU1000i",
+      "Small and low noise"
+     ],
+     [
+      "Wheeled movement",
+      "Genkins 8000W",
+      "Telescopic handle and wheels"
+     ],
+     [
+      "Moderate weight, more power",
+      "Evernexta 4000W",
+      "Larger but liftable"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Home Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for rated watts above your essential load, a long runtime and a safe connection through a transfer switch or interlock. Electric start helps in a stressful outage."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Genkins 8000 with 6,500 rated watts is the only unit here that can carry a furnace blower and a well pump. Two Westinghouse iGen1500 units in parallel offer a small, quiet alternative for a fridge and lights."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want the best engine reputation and the quietest sound, which is the Honda. You also spend more if you want a name-brand warranty for frequent use."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need lights and chargers. The AIVOLT 1750 or Westinghouse iGen1500 handle that for a lot less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Oil check",
+   "interval": "Before every use",
+   "why": "Small crankcases hold little oil. Low-oil shutdown ends your session."
+  },
+  {
+   "task": "Oil change",
+   "interval": "After 20 hours, then yearly",
+   "why": "Break-in particles collect early. Fresh oil protects the engine."
+  },
+  {
+   "task": "Fuel stabilizer or dry-run",
+   "interval": "Before storage over 30 days",
+   "why": "Stale fuel gums carburetors, the top failure cause. Ethanol blends absorb water over months, so fresh fuel matters more than any additive."
+  },
+  {
+   "task": "Battery maintainer",
+   "interval": "Monthly in the off season",
+   "why": "The Genkins 8000 relies on a charged battery for electric start."
+  },
+  {
+   "task": "Air filter cleaning",
+   "interval": "Every 25 hours",
+   "why": "Dust reduces output and raises fuel use. Foam filters can be washed and re-oiled, while paper elements are replaced."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a Honda worth the higher price?",
+   "a": "If quiet, reliable starting and parts availability matter, yes. If you only need watts, a lesser brand gives far more power for the same cap. The Honda EU1000i also holds a strong resale reputation, which offsets part of the premium over time."
+  },
+  {
+   "q": "How many watts do I need for home backup?",
+   "a": "A refrigerator, lights and a furnace blower need about 3,000 to 5,000 running watts. A well pump pushes that higher. The Genkins 8000 covers it. Add the starting surge of the largest motor on top of the running total, and never size a house load on the peak rating."
+  },
+  {
+   "q": "Can two small inverters run together?",
+   "a": "Parallel-ready models like the Westinghouse iGen1500 can combine with a kit. This doubles output while keeping weight per unit low."
+  },
+  {
+   "q": "What does the price cap mean?",
+   "a": "The $1000 cap reflects listing prices when this guide was updated. Prices move, so confirm the current price."
+  },
+  {
+   "q": "Are smaller brands safe to buy?",
+   "a": "They can be good value, but service and parts are thinner. Keep the receipt and spare parts. Registering the unit and photographing the serial plate on day one makes a warranty claim much easier later."
+  },
+  {
+   "q": "Where should I run the generator?",
+   "a": "Outdoors, far from windows and vents. Never run it in a garage or tent."
+  }
+ ],
+ "relatedGuides": []
+}

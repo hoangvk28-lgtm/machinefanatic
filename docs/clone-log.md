@@ -387,3 +387,27 @@ Coordinator fixes before shipping: writer B closed three product descriptions in
 Housekeeping: 149 slugs from rounds 20 to 23 were still `inprogress` in `source-index.json` although those rounds are logged as finished, which crashed `prefilter.mjs --inprogress` and would have let later rounds re-pick them. The 58 with a built `data/guides/*.ts` were set to done and the other 91 to skip (list in `scripts/clone/work/r20-23-cleanup-skips.txt`).
 
 Finish: register-dynamic + register-new on all 48 (Node 22 for the .ts imports), mark done, `audit-guides.mjs` 0 failures, selfcheck ok on all 48, zero full-width brackets, zero em or en dashes, cross-guide duplicate check down to product names and 3 short maintenance lines, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
+
+### Prefilter skips (2026-11-13)
+| Skipped slug | Reason |
+|---|---|
+| best-7500-watt-inverter-generator | prefilter: only 2 distinct items match brand 7500 after extra searches |
+| best-9000-watt-inverter-generator | prefilter: only 2 distinct items match brand 9000 after extra searches |
+
+## Round 25 (2026-11-13): 52 portable and inverter generator guides
+
+Cluster regex `generator` (minus `solar-generator`) plus `inverter` and `power-station` over `source-index.json` todo. Research reused from `docs/research/inverter-generators.md`, no web searches. Three budget topics were added this round from `docs/rounds/budget-power.txt` with `add-topics.mjs` and all three were written: best-inverter-generators-under-500, best-inverter-generators-under-1000, best-dual-fuel-generators-under-1000.
+
+The round ran across two sessions. The first session did Stage A, Stage A2 and 29 of the 52 guides; this session wrote the remaining 23 with 2 fresh Sonnet writers (A: 12 RV, motorhome and amp-plug slugs; B: 11 use-case and budget slugs). No writer skips in either half, so `skip-a.txt` and `skip-b.txt` have no round-25 entries.
+
+Skips, 4 in all, all before a writer read anything:
+- Prefilter (2): best-7500-watt-inverter-generator and best-9000-watt-inverter-generator, 2 matching items each.
+- Stage A2 by hand (2): best-generator-for-50-amp-rv and best-generators-for-sump-pumps, only 3 real on-topic machines each at the time of the judgment.
+
+Data contamination this cluster forced writers to filter by hand, since prefilter has no wattage or unit rule: DC-to-AC pure sine inverters sold as "3000W inverter", battery power stations and solar generators (Jackery, BLUETTI, Anker, EcoFlow, Goal Zero, which belong to round 26), generator cords and power inlet boxes in the 30-amp and 50-amp slugs, plus genuine junk in the use-case slugs (food trucks for sale, an ozone generator, warning signs, gas struts, a novel, a hoodie, fridges, well pumps and transfer switches). Writers judged every product by its real title and excluded all of it.
+
+Words 3,003 to 3,782, 4 to 6 products per guide. Neither writer built a generator or a shared sentence pool; every spec was written by hand.
+
+Coordinator fixes before shipping: the description-opening check flagged ten repeated 4-word openings across the round ("Compared with the Westinghouse" 24, "Compared with the WEN" 17, "Check the oil before" 11, "The tradeoff against the" 8, "It is an open-frame" 8, "It is a good" 7, "Compared with the Genkins" 7, "Treat it as a" 6, "This is the machine" 6). 50 sentences were restructured by hand, in both the data file and the matching spec, until every opening sat at 5 or fewer; the comparisons kept their real sibling model and number and simply stopped opening with the formula. One description in best-generator-for-fifth-wheel repeated its own "start it from the couch" point in two paragraphs and had its closing sentence rewritten.
+
+Finish: register-dynamic + register-new on all 52 (Node 22 for the .ts imports), mark done, `audit-guides.mjs` 0 failures, selfcheck ok on every edited guide, zero full-width brackets, zero em or en dashes, cross-guide duplicate check down to 6 short safety and methodology lines (max 6 repeats), `tsc --noEmit` clean.
