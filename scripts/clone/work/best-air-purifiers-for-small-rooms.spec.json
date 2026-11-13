@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-air-purifiers-for-small-rooms",
+ "categorySlug": "home-machines",
+ "mainKeyword": "air purifiers for small rooms",
+ "guideTitle": "Best Air Purifiers for Small Rooms (2026)",
+ "metaTitle": "Best Air Purifiers for Small Rooms (2026)",
+ "metaDescription": "Five air purifiers for small rooms, compared on CADR against room volume, air changes per hour, fan noise and the real cost of replacement filters.",
+ "lastUpdated": "2026-11-13",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
+ "expertTake": "The Levoit 143 CFM bedroom tower is the pick for a small room because its smoke CADR is published and verified, so you can do the math yourself. The DREO AHAM-verified unit is the value choice with a sensor and sleep mode. Skip a purifier altogether if your small room is already well ventilated and your only complaint is a smell, because particle filters do little for gases.",
+ "introParagraphs": [
+  "Small rooms are where the math in air purifier marketing falls apart most visibly. A box labelled for a thousand square feet will do wonders in a spare bedroom, but only because it is hugely oversized, and that oversizing brings its own noise and cost.",
+  "The useful questions are how much filtered air a unit really delivers, how many times an hour that swaps the air in your room, and how loud the fan is when it is running at that rate. The lineup below is sorted with those questions in mind."
+ ],
+ "products": [
+  {
+   "id": "B07VVK39F7",
+   "rank": 1,
+   "badge": "Best Verified CADR",
+   "name": "Levoit 143 CFM bedroom tower with sleep mode",
+   "amazonUrl": "https://www.amazon.com/dp/B07VVK39F7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/419EDCYNm+L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "143 CFM smoke CADR",
+    "56 W motor",
+    "AHAM Verifide",
+    "Sleep mode"
+   ],
+   "specList": [
+    {
+     "label": "Smoke CADR",
+     "value": "143 CFM"
+    },
+    {
+     "label": "Motor",
+     "value": "56 W high torque"
+    },
+    {
+     "label": "Verification",
+     "value": "AHAM Verifide"
+    },
+    {
+     "label": "Mode",
+     "value": "Quiet HEPA sleep mode"
+    },
+    {
+     "label": "Filter claim",
+     "value": "99.97 percent of dust"
+    }
+   ],
+   "description": "This Levoit tower is the clearest example of a purifier that tells you its real numbers. The listing publishes a smoke CADR of 143 CFM and a higher dust figure, both from AHAM verification, driven by a 56 watt high-torque motor. With a CADR that high, you can apply the two-thirds rule: roughly 143 divided by 0.67 suggests a room of about 210 square feet at maximum speed, and a small bedroom will see multiple air changes per hour.\n\nA purifier this strong in a small room is best run low. At 100 square feet with 8 foot ceilings, the 800 cubic foot volume gets recirculated more than ten times an hour at full speed, so even a middle setting gives allergy-grade cleaning. That is the trade you want: unused capacity buys quiet.\n\nThe filter is the standard Levoit true-HEPA-style cartridge with a pre-layer. Wipe the intake monthly, plan a replacement every six to eight months, and keep a clear foot of space on each side. Against the DREO below, this Levoit publishes more verifiable detail, which is why it takes the top slot.",
+   "bestFor": "Anyone who wants to size the purifier from a published CADR instead of a coverage guess.",
+   "pros": [
+    "Published 143 CFM smoke CADR makes sizing easy",
+    "Verified performance, not just a claim",
+    "Strong enough to run quietly in a small room",
+    "Sleep mode drops noise for night use"
+   ],
+   "cons": [
+    "Single filter format means no separate carbon refill",
+    "Full speed is noticeably louder than the sleep setting"
+   ]
+  },
+  {
+   "id": "B0H699TJC3",
+   "rank": 2,
+   "badge": "Best Value with Sensor",
+   "name": "DREO AHAM Verifide bedroom purifier with PM2.5 sensor",
+   "amazonUrl": "https://www.amazon.com/dp/B0H699TJC3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3153CRlUAHL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "AHAM Verified",
+    "PM2.5 sensor",
+    "HEPA sleep mode",
+    "Pet and smoke"
+   ],
+   "specList": [
+    {
+     "label": "Verification",
+     "value": "AHAM Verified"
+    },
+    {
+     "label": "Sensor",
+     "value": "PM2.5 particle"
+    },
+    {
+     "label": "Mode",
+     "value": "HEPA sleep mode"
+    },
+    {
+     "label": "Targets",
+     "value": "Pets, smoke, dust, pollen"
+    },
+    {
+     "label": "Placement",
+     "value": "Bedroom"
+    }
+   ],
+   "description": "DREO takes the verified approach too, with an AHAM-verified performance rating and a high-precision PM2.5 sensor that feeds an automatic fan mode. That sensor makes the unit one you can leave alone: it ramps up when the room gets dusty and falls back when it clears. In a small room that tends to mean quieter nights than a manual fan left on medium.\n\nThe weak point is gases. A PM2.5 sensor reads particles, so a burnt dinner or fresh paint will not make the fan respond. For allergy and dust control, which is why most people buy a small-room purifier, that does not matter.\n\nCompared with the Levoit above, the DREO trades a published CADR for sensor convenience. Filter replacements follow a regular schedule and the pre-filter should be vacuumed rather than rinsed. In a small room the sensor window collects dust, so wipe it every few months or the readings will drift high.",
+   "bestFor": "People who want an auto mode and independent verification at a moderate cost.",
+   "pros": [
+    "Auto mode tracks PM2.5 so you do not babysit it",
+    "AHAM verification backs the cleaning claim",
+    "HEPA sleep mode for bedroom nights",
+    "Handles pets, smoke, pollen and dust"
+   ],
+   "cons": [
+    "Sensor reads particles, not odors or fumes",
+    "Sensor window needs periodic wiping to stay accurate"
+   ]
+  },
+  {
+   "id": "B08FJ678YK",
+   "rank": 3,
+   "badge": "Best Smart Controls",
+   "name": "Levoit smart bedroom purifier with voice control",
+   "amazonUrl": "https://www.amazon.com/dp/B08FJ678YK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ezUHfn5wL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Voice control",
+    "AHAM Verifide",
+    "3-in-1 filter",
+    "360 air intake"
+   ],
+   "specList": [
+    {
+     "label": "Control",
+     "value": "App and voice"
+    },
+    {
+     "label": "Verification",
+     "value": "AHAM Verifide"
+    },
+    {
+     "label": "Filter",
+     "value": "3-in-1 with HEPA"
+    },
+    {
+     "label": "Intake",
+     "value": "360 degree"
+    },
+    {
+     "label": "Design",
+     "value": "Compact tower"
+    }
+   ],
+   "description": "Where the previous Levoit is a plain, strong fan, this one is the connected version: app control, voice assistant support and a scheduling function layered on a compact tower. The 3-in-1 filter combines a pre-filter, a true HEPA stage and a carbon layer, and the 360 degree intake lets you place it nearer a wall than a front-only grille.\n\nThe smart features are what you pay for. If you already schedule lamps and thermostats, scheduling the purifier to run an hour before you come home is genuinely useful. If you do not use an app, the same money buys more fan elsewhere in this list.\n\nThe maker recommends genuine filters for the longest life, and I would follow that: off-brand replacements often use thinner carbon and looser seals. A small room means the filter gets loaded quickly, so keep spares on hand and vacuum the outer mesh between changes.",
+   "bestFor": "Small-room owners who already live in an app-and-assistant household.",
+   "pros": [
+    "App and voice control let you schedule runs",
+    "Three-stage filter includes a carbon layer",
+    "360 intake allows closer placement to walls",
+    "AHAM Verifide listing backs the rating"
+   ],
+   "cons": [
+    "Smart features add cost a plain fan avoids",
+    "Genuine filters are recommended and cost more"
+   ]
+  },
+  {
+   "id": "B0H98XSLQV",
+   "rank": 4,
+   "badge": "Best for Coverage Headroom",
+   "name": "FreAire bedroom tower, 1086 sq ft claim, 20 dB sleep",
+   "amazonUrl": "https://www.amazon.com/dp/B0H98XSLQV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dQIHqbl2L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "1086 sq ft claim",
+    "20 dB sleep",
+    "Dual-channel inlet",
+    "360 degree outlet"
+   ],
+   "specList": [
+    {
+     "label": "Claimed coverage",
+     "value": "Up to 1086 sq ft"
+    },
+    {
+     "label": "Sleep noise",
+     "value": "About 20 dB"
+    },
+    {
+     "label": "Filtration",
+     "value": "3-level system"
+    },
+    {
+     "label": "Airflow",
+     "value": "Dual inlet, 360 outlet"
+    },
+    {
+     "label": "Extras",
+     "value": "Selectable light colours"
+    }
+   ],
+   "description": "FreAire's tower pairs a dual-channel air inlet with a 360 degree outlet, aiming to move air evenly through a room instead of blasting it one way. The listed coverage of 1086 square feet is a one-change-per-hour figure and not an indicator of the room it suits, so read it as spare capacity. The 3-level filtration covers a pre-filter, a HEPA layer and a carbon stage.\n\nIn a 120 square foot room the claim implies a lot of reserve, so the fan can hover at its lowest setting around 20 dB for sleep. That is where this unit earns its place. Lights are selectable, which some owners like and others cover with tape.\n\nThere is no independent verification on the listing, which is the main reason it sits fourth behind the two Levoit models and the DREO. Treat the coverage figure as optimistic and choose it for the sleep noise. Replace the filter on the supplier's schedule and keep the outlet unblocked.",
+   "bestFor": "Small bedrooms where the buyer wants a very low sleep noise and does not need verified numbers.",
+   "pros": [
+    "About 20 dB in sleep mode for light sleepers",
+    "Dual inlet and 360 outlet spread the airflow",
+    "Three-level filter includes a carbon stage",
+    "Large claimed coverage leaves reserve in a small room"
+   ],
+   "cons": [
+    "Coverage figure has no independent verification shown",
+    "Light colours may be unwelcome in a dark bedroom"
+   ]
+  },
+  {
+   "id": "B0CM6VDKSQ",
+   "rank": 5,
+   "badge": "Best Low-Maintenance Filter",
+   "name": "Shark NeverChange HP152 with odor neutralizer",
+   "amazonUrl": "https://www.amazon.com/dp/B0CM6VDKSQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31vSfCMTKcL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "NeverChange filter",
+    "CleanSense IQ",
+    "NanoSeal HEPA+",
+    "Odor neutralizer"
+   ],
+   "specList": [
+    {
+     "label": "Filter policy",
+     "value": "Long-life, no routine swaps"
+    },
+    {
+     "label": "Display",
+     "value": "CleanSense IQ readout"
+    },
+    {
+     "label": "Particle filter",
+     "value": "NanoSeal HEPA exceeding"
+    },
+    {
+     "label": "Odor stage",
+     "value": "Odor neutralizer"
+    },
+    {
+     "label": "Cost tier",
+     "value": "Highest in this list"
+    }
+   ],
+   "description": "Shark's HP152 reverses the usual razor-and-blades model: instead of a cartridge that you replace twice a year, the maker promises a filter system that does not need routine swapping. A NanoSeal particle layer is said to trap more fine particles than a standard HEPA, and a separate odor neutralizer handles the gas side. CleanSense IQ shows real-time air quality on the display, which is useful when you are standing in a small room and want to confirm the fan is earning its noise.\n\nThe price of that convenience is a large upfront cost and a bigger body, so this is not the compact nightstand unit it is next to in this list. In a small room it is overbuilt, which is fine if you want the filter life and a visual readout, wasteful if you do not.\n\nMaintenance is cleaning, not replacing: you wash and vacuum the parts the maker specifies. Ask whether you would actually follow a washing schedule, because a neglected long-life filter is worse than a regularly replaced cheap one. Against the Levoit smart unit, the Shark costs more but has the lowest ongoing price.",
+   "bestFor": "People who would rather clean a filter than keep buying them and want a visible air readout.",
+   "pros": [
+    "Long-life filter design avoids routine cartridge purchases",
+    "Odor neutralizer addresses gases as well as particles",
+    "Real-time display shows when air has cleared",
+    "Capture claim exceeds the usual HEPA standard"
+   ],
+   "cons": [
+    "Highest purchase cost in this list",
+    "Larger cabinet than a bedside tower and overbuilt for a tiny room"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "CADR against room volume",
+   "explanation": "CADR is cubic feet per minute of filtered air at maximum speed. Air changes per hour equal CADR times 60 divided by room volume, so the Levoit 143 CFM tower in an 800 cubic foot room (100 square feet at 8 foot ceilings) delivers about ten changes an hour. Allergy and smoke use wants four to five, which means you can run it well below maximum. Buyers who match the CADR to the room barely have to think about it again."
+  },
+  {
+   "criterion": "The 2/3 rule of thumb",
+   "explanation": "AHAM suggests a CADR of about two thirds of floor area in square feet for 8 foot ceilings. A 150 square foot room therefore wants roughly 100 CFM. That 143 CFM Levoit figure leaves reserve, while a unit with no published CADR, like the FreAire, forces a guess. Always use smoke CADR when sizing, since it is the hardest particle to catch."
+  },
+  {
+   "criterion": "Why claimed square footage misleads",
+   "explanation": "Many boxes say 1000 square feet or more, which usually means one air change per hour. That is a quarter of the rate you want for allergies. The FreAire 1086 square foot claim, for example, translates to a much smaller room at four changes an hour. Divide the claimed area by four or five to get a realistic allergy-grade size."
+  },
+  {
+   "criterion": "Noise at the speed you will use",
+   "explanation": "Fan noise rises quickly with speed, so a unit that is 20 dB on low can be well over 50 dB on high. In a small room you are close to the source, which makes the sleep-mode figure the one you will experience most. Oversizing the unit lets it stay on low. Check that the listing's quietest noise figure comes from a mode that still cleans."
+  },
+  {
+   "criterion": "Filter life and replacement cost",
+   "explanation": "A small room loads a filter at about the same rate per cubic foot as a large one, but the filter itself is smaller, so it can clog sooner. The Shark HP152 avoids routine swaps, while the Levoit and DREO models need replacements on the maker's schedule. Add the cost of two replacements a year to the purchase price before comparing. Washable pre-filters are cheap insurance."
+  },
+  {
+   "criterion": "Particles versus odors",
+   "explanation": "A HEPA filter removes particles and nothing meaningful in the gas phase. Odors need activated carbon, and a thin sheet saturates within weeks. The Shark HP152 adds an odor neutralizer, and the Levoit smart tower has a carbon layer, but none of the compact units here is a serious odor machine. If smell is your problem, read the odors guide before choosing."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CADR",
+   "meaning": "Clean air delivery rate is the volume of filtered air per minute at maximum speed, rated for smoke, dust and pollen. Higher is better, but only at the speed you will really use.",
+   "watchFor": "The Levoit 143 CFM tower publishes its smoke CADR, while the FreAire does not."
+  },
+  {
+   "spec": "Air changes per hour",
+   "meaning": "It is the number of times the room volume passes through the filter each hour, equal to CADR times 60 divided by volume. Four to five is the target for allergy use.",
+   "watchFor": "A small room with the DREO or either Levoit unit will exceed that even on a middle speed."
+  },
+  {
+   "spec": "AHAM Verifide",
+   "meaning": "It marks that the maker's claims were checked by an independent association. It is the best shortcut to trustworthy numbers.",
+   "watchFor": "The DREO and both Levoit units carry it; the FreAire and Shark listings lean on other claims."
+  },
+  {
+   "spec": "PM2.5 sensor",
+   "meaning": "A laser sensor that counts fine particles and drives an auto mode. Cheap sensors drift as dust builds up inside.",
+   "watchFor": "The DREO relies on its sensor, so wipe the window regularly."
+  },
+  {
+   "spec": "NeverChange filter",
+   "meaning": "It is a marketing name for a long-life filter system you clean rather than replace on a schedule.",
+   "watchFor": "The Shark HP152 needs cleaning discipline to deliver on that promise."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Sizing transparency",
+   "description": "We favoured units whose listings let you compute air changes from a published number. Levoit's 143 CFM tower gave us a smoke CADR to work with, while the FreAire required an assumption. This criterion carried the most weight in the order."
+  },
+  {
+   "title": "Reserve capacity",
+   "description": "We checked how far each model's claimed output exceeded a 100 to 200 square foot room. Higher reserve means the fan can stay slow, which the FreAire 1086 square foot claim and the Levoit CADR both suggest."
+  },
+  {
+   "title": "Noise at low speed",
+   "description": "Quietest-mode noise was compared across the lineup, with the FreAire at about 20 dB leading. A low figure only counted if the setting still moves useful air."
+  },
+  {
+   "title": "Ownership cost",
+   "description": "We compared filter strategy: replaceable cartridges for the Levoit and DREO, long-life design for the Shark. A cheaper unit with expensive refills ranked below a pricier one with cheap ones."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Based on owner feedback patterns rather than our own bench work, we noted recurring comments about sensor drift on auto models and about the physical size of the Shark. These adjusted ranks within a tier."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room Floor Area",
+   "table": {
+    "headers": [
+     "Room",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Closet-sized office, 60 to 90 sq ft",
+      "DREO AHAM Verifide purifier",
+      "Auto sensor and moderate output avoid over-ventilating a tiny space."
+     ],
+     [
+      "Typical small bedroom, 100 to 150 sq ft",
+      "Levoit 143 CFM tower",
+      "Published CADR makes four to five changes an hour trivial."
+     ],
+     [
+      "Awkward room with wall-hugging layout",
+      "Levoit smart purifier",
+      "360 intake tolerates close wall placement."
+     ],
+     [
+      "Small room with light sleeper",
+      "FreAire bedroom tower",
+      "About 20 dB in sleep mode."
+     ],
+     [
+      "Small room with kitchen smells",
+      "Shark NeverChange HP152",
+      "Odor neutralizer addresses gases."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "FreAire bedroom tower",
+      "Big claim and quiet sleep mode at the entry tier."
+     ],
+     [
+      "Lower mid",
+      "DREO AHAM Verifide purifier",
+      "Verification and a sensor without a premium."
+     ],
+     [
+      "Mid",
+      "Levoit 143 CFM tower",
+      "Published CADR at a moderate price."
+     ],
+     [
+      "Upper mid",
+      "Levoit smart purifier",
+      "Paying extra for app and voice control."
+     ],
+     [
+      "Top",
+      "Shark NeverChange HP152",
+      "Highest cost, lowest filter upkeep."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Verified Numbers vs Big Claims",
+   "cards": [
+    {
+     "label": "Verified (Levoit, DREO)",
+     "text": "AHAM Verifide models publish or certify their performance. You can size them with confidence, and the claims are not stretched by one-change-per-hour arithmetic. Both the Levoit 143 CFM tower and the DREO fit here."
+    },
+    {
+     "label": "Big claims (FreAire)",
+     "text": "Unverified units quote large square footage that sounds impressive but rests on one air change per hour. They can still clean a small room well, simply because they are oversized, but you are guessing at how well."
+    }
+   ],
+   "note": "Choose verified if you want certainty about air changes, and claim-led units if sleep noise is the only goal."
+  },
+  {
+   "subheading": "Replace vs Clean Filters",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Prefers a simple swap twice a year",
+      "Levoit 143 CFM tower",
+      "Standard cartridge, easy to source."
+     ],
+     [
+      "Wants a washable stage",
+      "DREO AHAM Verifide purifier",
+      "Pre-filter vacuums clean, saving main filter life."
+     ],
+     [
+      "Would rather clean than buy",
+      "Shark NeverChange HP152",
+      "Maker designs it for long life."
+     ],
+     [
+      "Wants app reminders",
+      "Levoit smart purifier",
+      "Connected controls can flag filter life."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Allergy Control Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A verified CADR high enough to give four to five air changes at a middle fan speed, a True HEPA stage and a pre-filter that you can vacuum. In a closed small room this is easy to achieve."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Levoit's 143 CFM tower gives the cleanest math, with about ten changes an hour at full speed in a 100 square foot room. The DREO adds sensor-driven auto mode, which helps when pollen counts swing."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You hate maintenance or you cook in the same room. The Shark NeverChange HP152 removes the replacement-cartridge routine, and its odor neutralizer addresses smells."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a bedroom only and want clean air at night. The DREO or the FreAire tower covers that need without the Shark's footprint."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Vacuum the outer pre-filter",
+   "interval": "Monthly",
+   "why": "Hair and lint stack up quickly in a small room. Clearing them restores airflow and keeps the fan from working harder."
+  },
+  {
+   "task": "Swap cartridge filters",
+   "interval": "6 to 8 months",
+   "why": "Cartridges load faster when the room is small and closed. Replace on the maker's timeline rather than waiting for a smell."
+  },
+  {
+   "task": "Clean the sensor window",
+   "interval": "Every 3 months",
+   "why": "Dust on the window makes an auto model read high and run loud. A dry swab fixes it."
+  },
+  {
+   "task": "Wash the long-life Shark parts",
+   "interval": "As the maker specifies",
+   "why": "A long-life filter only stays long-life if the cleaning steps are done. Set a calendar reminder."
+  },
+  {
+   "task": "Keep clear space around the unit",
+   "interval": "Ongoing",
+   "why": "Blocked intakes reduce effective CADR. A foot of clearance is a sensible target."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How big a purifier does a 100 square foot room need?",
+   "a": "A CADR near 70 CFM satisfies the two-thirds rule, and anything at or above 100 CFM gives comfortable reserve. A 143 CFM unit like the Levoit tower will cycle the air several times an hour."
+  },
+  {
+   "q": "Is bigger always better in a small room?",
+   "a": "More capacity lets the fan run slower and quieter, but you pay for it in cost and cabinet size. The sweet spot is a unit with two to three times the minimum CADR."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "A verified mid-tier tower covers a small room well. Spend more only for features like long-life filters or an odor stage, and compare the cost of replacements over two years."
+  },
+  {
+   "q": "Do claimed square foot numbers mean anything?",
+   "a": "They usually describe one air change per hour, so divide by four or five for allergy-grade cleaning. A 1086 square foot claim covers roughly 250 square feet properly."
+  },
+  {
+   "q": "Will a purifier fix a musty smell?",
+   "a": "Only if it has a meaningful carbon stage, and then only partly. Find and fix the source, such as damp, since a filter treats symptoms."
+  },
+  {
+   "q": "How often should I run it?",
+   "a": "Allergy sufferers get the most benefit from continuous low-speed running with the door closed. Auto-mode units handle that without needing attention."
+  }
+ ],
+ "relatedGuides": []
+}
