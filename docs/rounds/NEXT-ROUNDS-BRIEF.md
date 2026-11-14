@@ -192,3 +192,4 @@ Writer prompt additions: no script or node -e to pad word count (B2 did this in 
 - Round 32 = 36 home space heater slugs (Stage A + A2 done on THIS machine, no skips). Lists: `scripts/clone/work/r32a.txt` (writer A, skips to skip-a.txt), `r32b.txt` (writer B, skips to skip-b.txt). Research: docs/research/space-heaters.md. Space heater under-N budget guides already existed; only oil-filled-space-heaters-under-100 was added.
 - Unfinished: `for f in r32a r32b; do for s in $(tr -d '\r' < scripts/clone/work/$f.txt); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done > scripts/clone/work/left-$f.txt; done`
 - Then Finish (top opening <= 6), clone-log, local commit, preview; push only after approval. Next: round 33 humidifiers + air purifiers.
+- Round 33 near-dup vs published: skip best-humidifiers-and-air-purifier-combos (= best-air-purifier-and-humidifier-combos). Run the normalized near-dup check before Stage A of every round.

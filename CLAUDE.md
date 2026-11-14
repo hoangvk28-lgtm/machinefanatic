@@ -31,6 +31,13 @@ Target 15k to 20k AI tokens per guide (round 1 cost ~36k to 39k per guide). Ever
 ## MachineFanatic rule: 3 real machines is enough for a guide (added 2026-11-12, per explicit user instruction)
 A topic with 3 distinct real on-topic machines gets written, not skipped ("đừng skip mà phí"). Skip only below 3. Never pad with off-topic or other-brand items to reach 5. `prefilter.mjs` MIN = 3 and `selfcheck.mjs` accepts 3 to 7 products. Older text below that says "4+" or "fewer than 4" is superseded.
 
+## MachineFanatic rule: near-duplicate check against published guides before every round (added 2026-11-14, per explicit user instruction)
+Before Stage A of every round, and before any `add-topics.mjs` call, the coordinator checks every candidate slug against the slugs already published in `data/guides.ts`. Exact-match checks are not enough: word order and plurals hide duplicates (round 33 example: `best-humidifiers-and-air-purifier-combos` duplicates the published `best-air-purifier-and-humidifier-combos`).
+- Normalize both sides: drop `best-`, strip a trailing `s`/`es` from each word, drop stop words (for, with, and, the, a, of, in), sort the words. Same normalized key = duplicate.
+- Zero AI tokens: run it as one node one-liner over the round list (see the "Round 33 near-dup" line in `docs/rounds/NEXT-ROUNDS-BRIEF.md`), then also eyeball the list for same-intent pairs the key misses (e.g. "small" vs "compact", "budget" vs "under-N" at the same cap).
+- Mark every duplicate `skip` with `mark.mjs`, add a line to the round's clone-log entry, and report the list to the user before spawning writers. Never hand a duplicate to a writer.
+- Reason: a duplicate topic competes with our own published page for the same keyword and wastes ~15k to 40k writer tokens.
+
 ## MachineFanatic rule: "under-N" budget guides may name their cap (added 2026-11-07, per explicit user instruction)
 For slugs ending in `-under-N`, the cap `$N` is the search keyword and may appear in guideTitle, metaTitle, metaDescription and prose. No other dollar figure is allowed, and never a product price. Products must be at or below the cap at their live Amazon price (`underCap: true` from `scripts/clone/compact.mjs`; `prefilter.mjs` checks it). `audit-guides.mjs` and `selfcheck.mjs` whitelist only that cap. Rules for writers are in the "Budget topics" section of `docs/BEST-GUIDE-BRIEF-LEAN.md`.
 
