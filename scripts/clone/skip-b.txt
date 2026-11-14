@@ -2,3 +2,6 @@ best-800mm-3d-printers: no printer with roughly 800mm build volume in the data; 
 best-900mm-3d-printers: only hits are a 900mm steel rod accessory and small desktop printers; no 900mm-class machine exists in the data.
 best-9mm-label-printers: only 2 real machines take 9mm tape (Brother PTH111, PTD220); PT-N10 takes only 12mm Btag tape, embosser is manual, rest are tape-only listings.
 best-8k-projectors-for-home-theater: no genuine 8K projector in the data; all are 4K or 1080p, plus screens and cheap portables.
+best-sebo-canister-vacuums: only 2 distinct real Sebo canisters in the data (AIRBELT K3 in three listing variants, and K2 Kombi); the rest are bags, an upright (Dart) and a Sebo 350 Mechanical listing with no specs; other-brand items are not allowed to pad a brand slug.
+best-dewalt-handheld-vacuums: fewer than 3 real handheld machines (coordinator A2 review; shop vacs or non-handheld compact vacs padded the lineup)
+best-milwaukee-handheld-vacuums: fewer than 3 real handheld machines (coordinator A2 review; shop vacs or non-handheld compact vacs padded the lineup)

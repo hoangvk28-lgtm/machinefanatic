@@ -433,3 +433,18 @@ Coordinator fixes before shipping: `audit-guides.mjs` flagged 6 intros carrying 
 Finish: `finish.mjs` on all 45 to fill rank, amazonUrl, imageUrl, price and heroImage (writers left those out, which showed up first as `rank: undefined` TS2322 errors), register-dynamic + register-new on all 45 with Node 22, mark done, `audit-guides.mjs` 0 failures, selfcheck ok on all 45, zero full-width brackets, zero em or en dashes, no `rating`/`reviews` fields, cross-guide duplicate check down to a handful of short maintenance and price-tier lines (max 3), `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
 
 Housekeeping: the 3 round-24 writer skips (best-black-decker-cordless-lawn-edgers, best-milwaukee-compatible-battery-sprayers, best-ryobi-cordless-lawn-edgers) were still `inprogress` with no data file and were set to skip, so `prefilter.mjs --inprogress` stays usable.
+
+## Round 29 (2026-11-14): 76 cordless, handheld, upright and canister vacuum guides
+
+Cluster regex `cordless-vacuum|stick-vacuum|handheld-vacuum|upright-vacuum|canister-vacuum` over todo (80 slugs; the 2 vacuum-sealer matches were left out as off-cluster). New research file `docs/research/vacuums.md` written from 3 web searches (cordless buyer guides, upright vs canister, CRI Seal of Approval). Rounds 24 to 28 had already been done on the remote machine.
+
+Skips, 4:
+- Stage A2: best-cordless-canister-vacuums (no cordless canister exists in the data, only corded canisters).
+- Writer: best-sebo-canister-vacuums (only 2 distinct Sebo canisters).
+- Coordinator after writing: best-dewalt-handheld-vacuums (only 2 true handhelds, writer padded with 2-gallon shop vacs) and best-milwaukee-handheld-vacuums (no real hand vac among the 4 Milwaukee machines). Data files deleted, reasons in skip-b.txt.
+
+Writers: 2 Sonnet agents, each continued via messages so the prompt cache was reused. A: 24 cordless stick + 17 upright. B: 20 handheld + 18 canister. Writer A stopped once after 2 guides to "save tokens" and had to be told to continue; prompts now say the budget is approved. Words 3,000 to 3,641.
+
+Coordinator fixes: the description-opening check first showed "It is a good" 20, "Change the bag at" 17, "Empty the cup before" 16 and nine more over 10, plus "A clogged filter is the main/usual cause of weak suction." in 19 guides and a price-tier methodology line in 18. Two fix passes by the writers, by hand in spec + finish.mjs, brought the top 4-word opening down to 6 across 76 guides.
+
+Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides.mjs` 0 failures, zero full-width brackets, zero em or en dashes, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
