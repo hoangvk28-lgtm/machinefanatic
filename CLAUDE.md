@@ -47,6 +47,13 @@ Each item below cost the user real tokens or rework once. Follow all of them eve
 9. **Windows build:** `npm run build` fails because `NODE_OPTIONS=` is POSIX syntax. Use `NODE_OPTIONS=--max-old-space-size=6144 npx next build` from Git Bash and grep for "Compiled successfully" and "Finished TypeScript".
 10. **Source guides are padded.** Old projects' guides often fill a "6 ton" or "Ariens" list with near-size or other-brand items, so "the source had 5 products" does not mean the topic is viable here. Trust prefilter and compact counts, not the source count.
 
+## MachineFanatic rule: session handoff before token limit (added 2026-11-14, per explicit user instruction)
+When a multi-step task is still running and the user asks for a handoff (or the session may hit its token limit):
+1. Write the current state into a dated `## RESUME (<date>, <time of day>)` section at the end of `docs/rounds/NEXT-ROUNDS-BRIEF.md`: what is done (commit hashes), what is running (writer lists, which agent has which list), skips already marked vs not yet marked, the exact writer rules used, a shell command that lists unfinished slugs, the remaining steps, and the push/approval status.
+2. Commit that note locally (never push without approval).
+3. Give the user a ready-to-paste prompt for the new session that says: read CLAUDE.md and that RESUME section, list unfinished work first, hand only unfinished items to new Sonnet agents, then the remaining steps, and do not push before the user approves.
+4. Tell the user that background agents die with the session: finished files are kept, so the new session only redoes unfinished items.
+
 ## MachineFanatic: restored legacy URLs (added 2026-11-06)
 Old machinefanatic.com URLs with backlinks are restored at their **original root path** (e.g. `/what-is-a-plunge-saw`), not under `/guide/`. They render through `app/(site)/[legacySlug]/page.tsx` (`dynamicParams = false`, so only registered slugs resolve) and `components/guide/LegacyArticlePage.tsx`. Each article is `data/legacy/<slug>.ts` and must be added to `data/legacy-registry.ts` with a literal `import("./legacy/<slug>")`. Next strips the old trailing slash with a permanent redirect, which keeps the backlink value. Restored articles must be long-form (3,000+ words), researched against the pages currently ranking top for the keyword, use real photos (rule above), and link internally only to pages that exist, with natural anchor text.
 
