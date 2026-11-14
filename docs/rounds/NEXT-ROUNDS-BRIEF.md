@@ -186,3 +186,9 @@ Writer prompt: the one below, plus "3 distinct real machines is enough, write it
 Order: 32 home space heaters (~40: by room, type, feature, brand; drop the 2 projector slugs) -> 33 humidifiers (39) + air purifiers (18) -> 34 holiday kitchen (food processor, hand/stand mixer, slow cooker, bread maker; 40-50, before mid-December) -> 35 RV/tent/patio heaters (~26). Dehumidifiers and remaining kettles after winter.
 Budget topics to add before Stage A (check duplicates first): space-heaters-under-50, space-heaters-under-100, oil-filled-space-heaters-under-100, humidifiers-under-50, food-processors-under-100.
 Writer prompt additions: no script or node -e to pad word count (B2 did this in round 31); never open a sentence with "Empty the tank after" or "Use distilled water".
+
+## RESUME (2026-11-14, late night): round 31 PUSHED, round 32 writers running
+- Round 31 pushed (`bff94ed`), IndexNow 82 URLs HTTP 200.
+- Round 32 = 36 home space heater slugs (Stage A + A2 done on THIS machine, no skips). Lists: `scripts/clone/work/r32a.txt` (writer A, skips to skip-a.txt), `r32b.txt` (writer B, skips to skip-b.txt). Research: docs/research/space-heaters.md. Space heater under-N budget guides already existed; only oil-filled-space-heaters-under-100 was added.
+- Unfinished: `for f in r32a r32b; do for s in $(tr -d '\r' < scripts/clone/work/$f.txt); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done > scripts/clone/work/left-$f.txt; done`
+- Then Finish (top opening <= 6), clone-log, local commit, preview; push only after approval. Next: round 33 humidifiers + air purifiers.
