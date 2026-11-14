@@ -202,3 +202,8 @@ const norm=s=>s.replace(/^best-/,'').split('-').map(w=>w.replace(/(es|s)$/,'')).
 const P={};pub.forEach(s=>P[norm(s)]=s);
 fs.readFileSync(process.env.LIST,'utf8').split(/\r?\n/).filter(Boolean).forEach(s=>{const m=P[norm(s)];if(m&&m!==s)console.log('DUP',s,'=',m)})"
 ```
+
+## RESUME (2026-11-14, ~21:00): round 32 written, repetition fix running
+- All 36 r32 guides written, registered, marked done; audit 0 fails. List: scripts/clone/work/r32.done.txt.
+- A Sonnet fix pass is editing spec.json for repeats ("Choose it for a" 46; safety sentences in 4-11 guides). If interrupted: re-run the two checks from Finish on r32.done.txt and give the remaining fixes to 1 Sonnet agent (Edit + finish.mjs).
+- Then tsc, build, clone-log round 32, local commit, preview; push + IndexNow only after approval. Next: round 33 (humidifiers + air purifiers; skip best-humidifiers-and-air-purifier-combos as near-dup).
