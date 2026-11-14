@@ -448,3 +448,6 @@ Writers: 2 Sonnet agents, each continued via messages so the prompt cache was re
 Coordinator fixes: the description-opening check first showed "It is a good" 20, "Change the bag at" 17, "Empty the cup before" 16 and nine more over 10, plus "A clogged filter is the main/usual cause of weak suction." in 19 guides and a price-tier methodology line in 18. Two fix passes by the writers, by hand in spec + finish.mjs, brought the top 4-word opening down to 6 across 76 guides.
 
 Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides.mjs` 0 failures, zero full-width brackets, zero em or en dashes, `tsc --noEmit` clean, production build "Compiled successfully" + "Finished TypeScript".
+
+## Round 30 (2026-11-14)
+81 robot vacuum, robotic pool cleaner, window robot and vacuum mop guides. Skip: best-eureka-vacuum-mops (only 2 real Eureka wet-dry washers). Writers: 2 Sonnet + 1 Sonnet repetition fix. 3,000 to 3,800 words. Audit ok, tsc ok, build ok. Known gap: top 4-word description opening still 11 (target 6), fix pass stopped for session limit.

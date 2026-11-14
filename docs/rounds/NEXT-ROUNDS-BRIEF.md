@@ -153,3 +153,14 @@ A slug is finished when `data/guides/<slug>.ts` exists and `finish.mjs` printed 
 for f in r22a.txt round23.ok.txt r22b.txt; do for s in $(tr -d '\r' < scripts/clone/work/$f); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done > scripts/clone/work/left-$f; done
 ```
 Writer prompt: the one below, plus "3 distinct real machines is enough, write it" and "do not stop early because the list is long". Then run Finish for all of rounds 22 and 23 together (register, mark done + mark skip, audit, both duplicate checks, tsc, build, clone-log, commit, push).
+
+## RESUME (2026-11-14): round 29 committed locally, round 30 in progress
+- Round 29 (76 vacuum guides) is committed locally as `66935f9` on main, NOT pushed. A branch `preview-r29` was pushed for preview only. The user said: no push of anything until they approve.
+- Git identity for this repo is set (repo-level): hoangvk28-lgtm.
+- Round 30 = robot vacuums, robotic pool cleaners, window robots, vacuum mops. Stage A and A2 done ON THIS MACHINE (compact files in scripts/clone/work/). 4 skips already marked. Research: `docs/research/robot-cleaners.md`.
+- Lists: `scripts/clone/work/r30a.txt` (31 robot vacuum), `r30d.txt` (33 pool + window), `r30e.txt` (18 vacuum mops, not started). Writer skips go to `scripts/clone/skip-a.txt` / `skip-b.txt`.
+- A slug is finished when `data/guides/<slug>.ts` exists (finish.mjs printed "built | audit ok"). List unfinished:
+  `for f in r30a r30d r30e; do for s in $(tr -d '\r' < scripts/clone/work/$f.txt); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done; done`
+- Writer prompt: copy the round-30 rules: Sonnet only, read only BEST-GUIDE-BRIEF-LEAN.md + the research file, one spec per Write, selfcheck, finish.mjs; no generators; no 4-word opening more than 4 times per batch; no sentence in 3+ guides; never pad type/brand slugs; the budget is approved, do not stop early.
+- Finish for round 30 = the Finish section above (register, mark done, audit, both duplicate checks with top opening <= 6, tsc, build, clone-log entry, local commit). Then give preview links (dev server: `npx next dev -p 3005`; curl needs a browser User-Agent because proxy.ts returns 403 otherwise).
+- Next after round 30: round 31 per the plan (carpet-cleaner / steam / garment-steamer cluster).
