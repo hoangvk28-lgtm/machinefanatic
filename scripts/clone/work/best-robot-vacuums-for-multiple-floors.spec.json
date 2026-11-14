@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-robot-vacuums-for-multiple-floors",
+ "categorySlug": "home-machines",
+ "mainKeyword": "robot vacuums for multiple floors",
+ "guideTitle": "Best Robot Vacuums for Multiple Floors (2026)",
+ "metaTitle": "Best Robot Vacuums for Multiple Floors (2026)",
+ "metaDescription": "Six laser-mapped robot vacuums for homes with more than one level, compared on map memory, dock placement, battery and how easily you carry them upstairs.",
+ "lastUpdated": "2026-11-14",
+ "readTime": "11 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41hpc-ca5xL._SL500_.jpg",
+ "expertTake": "The Roborock Q7 L5 is the top pick because a laser map plus a plain charging base makes carrying it between levels painless. The Tikom L8000 Pro is the value pick for a second-floor robot on a budget. Anyone with open stairs and no habit of carrying the robot should buy two cheap machines instead of one clever one.",
+ "introParagraphs": [
+  "No robot climbs stairs. The only way one machine cleans two levels is for you to pick it up, carry it to the other floor and let it find its footing again. Everything else in the buying decision follows from that fact.",
+  "What makes the routine bearable is a robot that stores a separate map for each level, recognises where it has been placed and does not insist on a bulky dock at the top of the stairs. This guide ranks six laser-mapped machines by how well they support that routine, and it says plainly where a listing does not prove map memory."
+ ],
+ "products": [
+  {
+   "id": "B0F334DN9J",
+   "badge": "Best Overall",
+   "name": "Roborock Q7 L5 vacuum and mop, 8,000 Pa, LiDAR, charging base",
+   "specs": [
+    "8,000 Pa",
+    "LiDAR",
+    "Charge base",
+    "Anti-tangle"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "8,000 Pa"
+    },
+    {
+     "label": "Navigation",
+     "value": "360 degree laser mapping"
+    },
+    {
+     "label": "Dock",
+     "value": "Charging base only"
+    },
+    {
+     "label": "Brushes",
+     "value": "Anti-tangle main and side"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    }
+   ],
+   "description": "The Q7 L5 suits a two-level home because it asks for so little at each stop. A 360 degree laser draws the map in real time, and the base is just a charger, so a second base upstairs costs little and has no bag or water path to service. Anti-tangle brushes keep hair from stalling the route at either level.\n\nThe listing does not state how many maps it stores, so confirm map memory on the maker page before relying on it, since the feature is common but varies by app version. Compared with the Qrevo S Pro it has no dock and less suction, 8,000 Pa against 18,500 Pa, which suits the carry-it routine better. The lighter body is easier on the stairs. Many owners keep a spare charging base upstairs and one downstairs so the robot never has to be carried back just to recharge.\n\nCarry it with the bin empty, rinse the mop pad before moving it so no water sloshes in the tank and wipe the laser window monthly. After moving it, let it map the new level once with doors open. Name each map after its floor so the schedule does not send it to the wrong level.",
+   "bestFor": "Two-level homes where the robot is carried between floors.",
+   "pros": [
+    "Laser map with a simple charging base",
+    "Anti-tangle brushes at both levels",
+    "No dock bag or water path to service",
+    "Low price tier for a laser robot"
+   ],
+   "cons": [
+    "Map storage must be confirmed on the maker page",
+    "Bin is emptied by hand",
+    "Lowest suction among the premium picks"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0F334DN9J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hpc-ca5xL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FCX5ZH4L",
+   "badge": "Best Budget Laser",
+   "name": "Tikom L8000 Pro vacuum and mop, 6,000 Pa, LiDAR, 150 minute runtime",
+   "specs": [
+    "6,000 Pa",
+    "LiDAR",
+    "150 min",
+    "Sweep and mop modes"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "6,000 Pa"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR radar mapping"
+    },
+    {
+     "label": "Runtime",
+     "value": "150 min max"
+    },
+    {
+     "label": "Modes",
+     "value": "Sweep only, mop, both"
+    },
+    {
+     "label": "Dock",
+     "value": "Charge only"
+    }
+   ],
+   "description": "The L8000 Pro is the budget laser robot in this guide. Its radar-style LiDAR maps rooms quickly, it can run up to 150 minutes and it offers separate sweep-only, mop and combined modes. There is no self-empty dock, which keeps the price low and the weight modest.\n\nIts 6,000 Pa is the lowest in the group, and the lack of a dock means you empty the bin by hand at each level. That is a chore, but it keeps the unit light and the setup simple. Compared with the Tikom L8000 Plus it drops the dock and costs less.\n\nBefore carrying it upstairs, empty the bin and the water tank. Check the map after each move and wipe the laser window monthly. A second inexpensive charging spot upstairs saves a lot of walking. Because it is a budget unit, spare brushes and pads are cheap, which suits a machine that gets handled often.",
+   "bestFor": "Two-level flats where the robot is carried and the budget is tight.",
+   "pros": [
+    "LiDAR mapping at a low price tier",
+    "150 minute maximum runtime",
+    "Sweep, mop and combined modes",
+    "Light with no dock to move"
+   ],
+   "cons": [
+    "Only 6,000 Pa",
+    "Bin must be emptied by hand",
+    "Map memory not stated in the listing"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FCX5ZH4L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jxldBnFzL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DWXBCQVP",
+   "badge": "Best Mid-Range Dock",
+   "name": "Roborock Q10 S5+ vacuum and mop, 10,000 Pa, 70-day self-empty dock",
+   "specs": [
+    "10,000 Pa",
+    "70-day dock",
+    "JawScrapers",
+    "Obstacle sensing"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "10,000 Pa"
+    },
+    {
+     "label": "Dock",
+     "value": "70 days self-emptying"
+    },
+    {
+     "label": "Main brush",
+     "value": "JawScrapers comb"
+    },
+    {
+     "label": "Sensing",
+     "value": "Obstacle sensing listed"
+    },
+    {
+     "label": "Mop",
+     "value": "Pad attachment"
+    }
+   ],
+   "description": "The Q10 S5+ is for homes where one floor gets most of the use. Park its 70 day dock on the main level, where it empties itself, and carry the robot upstairs when that floor needs a clean. A comb brush sheds hair at both levels and obstacle sensing keeps it tidy on stair landings.\n\nIt carries 10,000 Pa and sits in a mid price tier, with more suction than the Q7 L5 and the convenience of a dock on one floor. The catch is that the dock stays downstairs, so the upstairs run ends with a full bin that waits until you carry it down. Choose it if the main floor does the dirty work. Treat the upstairs bin as a weekly chore, since the dock will not catch it.\n\nChange the bag when the app asks and rinse the pad before moving the robot. Keep the main brush clear and wipe the sensors, particularly the cliff sensors that guard the stairs. A robot that stops at every landing is usually dusty, not broken.",
+   "bestFor": "Homes where the main floor needs the most cleaning.",
+   "pros": [
+    "70 day self-empty dock on the main level",
+    "Comb brush sheds hair",
+    "10,000 Pa suction label",
+    "Obstacle sensing listed"
+   ],
+   "cons": [
+    "Dock stays on one floor",
+    "Mop pad is rinsed by hand",
+    "Bags are brand-specific"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DWXBCQVP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31TzU0YZA6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H14GZPXV",
+   "badge": "Best Quiet Dock",
+   "name": "Uninell vacuum and mop, 7,000 Pa, LiDAR, 3.5 L self-empty station, Alexa",
+   "specs": [
+    "7,000 Pa",
+    "LiDAR",
+    "3.5 L station",
+    "Alexa"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "7,000 Pa"
+    },
+    {
+     "label": "Station",
+     "value": "3.5 L self-empty"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    },
+    {
+     "label": "Voice",
+     "value": "Alexa control"
+    },
+    {
+     "label": "Noise",
+     "value": "Ultra quiet mode listed"
+    }
+   ],
+   "description": "The Uninell leans on a large 3.5 L station that holds weeks of debris, so a two-floor household visits the dock rarely. LiDAR scans the home, Alexa voice control starts a run and the listing mentions ultra quiet cleaning. The quiet mode helps when you run it upstairs while someone sleeps downstairs.\n\nIts 7,000 Pa sits below the Roborock Q10 S5+, and the brand is newer, so check parts supply. The large station is the best match here for one dock on the main floor. Priced under the Qrevo S Pro, it also has no mop-washing. The brand is newer, so write down the purchase date and keep a record of the bag size in case you need to reorder.\n\nChange the bag when full, rinse the mop pad before carrying the robot and keep the laser window clean. Voice control saves a trip to the phone when you carry it upstairs. Its large station is also quiet when it empties, which matters in a house with a baby napping nearby.",
+   "bestFor": "Households that run the robot while people sleep or work upstairs.",
+   "pros": [
+    "3.5 L station holds weeks of debris",
+    "LiDAR mapping",
+    "Alexa voice control",
+    "Ultra quiet mode listed"
+   ],
+   "cons": [
+    "7,000 Pa is modest",
+    "Newer brand with less parts history",
+    "Dock stays on one floor"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H14GZPXV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Ra-z-+UaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FKH1RW65",
+   "badge": "Best 90-Day Dock",
+   "name": "Tikom L8000 Plus vacuum and mop, 6,000 Pa, LiDAR, 3 L bag, 90 days",
+   "specs": [
+    "6,000 Pa",
+    "LiDAR",
+    "3 L bag",
+    "90 days"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "6,000 Pa"
+    },
+    {
+     "label": "Dock bag",
+     "value": "3 L, up to 90 days"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    },
+    {
+     "label": "Dock",
+     "value": "Self-emptying"
+    }
+   ],
+   "description": "The L8000 Plus gives a two-level home a self-emptying base with a quoted 90 day bag. LiDAR maps each level and a mop plate handles damp wiping. The dock can sit on the busiest floor.\n\nIt shares the 6,000 Pa and LiDAR of the L8000 Pro but adds the dock, which costs more. The interval is a best case from a 3 L bag, so treat it with care. Compared with the Uninell it has a smaller station and slightly lower suction. Its quoted interval makes it a good match for a household that clears the bin only a few times a year.\n\nSwap the bag, wipe the dock port and rinse the mop pad before carrying the robot. Wipe the cliff sensors so it does not stop at stair edges for no reason. A mop plate should come off before carrying so a wet pad does not drip on the staircase.",
+   "bestFor": "Two-level homes that want a dock with a long quoted interval.",
+   "pros": [
+    "3 L bag quoted for up to 90 days",
+    "LiDAR mapping",
+    "Mop plate included",
+    "Mid price tier"
+   ],
+   "cons": [
+    "Only 6,000 Pa",
+    "Interval claim is a best case",
+    "Dock only serves one level"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FKH1RW65?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TiBcXjEaL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GGRSMXKN",
+   "badge": "Best Premium",
+   "name": "Roborock Qrevo S Pro, 18,500 Pa, 167 F hot-wash dock, anti-tangle",
+   "specs": [
+    "18,500 Pa",
+    "167 F wash",
+    "Anti-tangle",
+    "Self-empty"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "18,500 Pa"
+    },
+    {
+     "label": "Mop wash",
+     "value": "167 F hot water"
+    },
+    {
+     "label": "Dock",
+     "value": "Empty, wash, refill"
+    },
+    {
+     "label": "Brush",
+     "value": "Zero-tangle system"
+    },
+    {
+     "label": "Fit",
+     "value": "Pet homes"
+    }
+   ],
+   "description": "The Qrevo S Pro is the machine to buy if one floor gets a full routine and the other gets a visit. Leave its dock on the main level, where it empties, washes pads at 167 F and refills, and carry the robot upstairs for the second run. Anti-tangle brushes keep hair off the roller at both levels.\n\nIt costs the most here and weighs more than the Q7 L5 when you carry it. The extra suction, 18,500 Pa, helps on rugs, and the dock handles both floors by proxy. If you will carry the robot, the premium is justified by the dock, not the stairs.\n\nWipe the wash tray weekly, rinse the dirty tank and descale the water path. Always empty the water tank before carrying the robot to the other level. Its heft is the main complaint from owners, so test the weight before you commit if lifting is a concern.",
+   "bestFor": "Homes where one floor needs weekly mopping and the other a visit.",
+   "pros": [
+    "Hot-wash dock at 167 F",
+    "Self-empty and water refill",
+    "Anti-tangle brush system",
+    "High suction label for rugs"
+   ],
+   "cons": [
+    "Top price tier",
+    "Heavier to carry up the stairs",
+    "Dock needs weekly tray cleaning"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GGRSMXKN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31PFXfMl-uL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Map memory",
+   "explanation": "A robot that stores more than one map recognises each floor when you place it. Without it, you rebuild the map after every move. Rebuilding takes a full exploration run and costs time, which is why map memory ranks above suction here. The compact listings here do not state a map count, so confirm two or more maps on the maker page before buying."
+  },
+  {
+   "criterion": "Carry weight",
+   "explanation": "You will lift the robot every time you change floors. A lighter body without a built-in dock is easier, and the Roborock Q7 L5 and Tikom L8000 Pro have charge-only bases. Heavier flagship robots are fine for strong users but wearing for others. Think about who will do the carrying six months from now, not just on the first day."
+  },
+  {
+   "criterion": "Dock placement",
+   "explanation": "A self-empty dock serves the floor it sits on. The Roborock Q10 S5+ and Uninell stations suit a main-floor setup. A second charging spot upstairs lets the robot recharge without a trip down. Plug it in near the top of the stairs but away from the edge so a wandering robot never docks beside a drop."
+  },
+  {
+   "criterion": "Stair safety",
+   "explanation": "Cliff sensors stop the robot at an open stair edge, and dust on them causes false stops. Wipe them monthly. Never run a robot upstairs on a landing with an unguarded drop."
+  },
+  {
+   "criterion": "Battery per floor",
+   "explanation": "A robot that finishes one level on a charge needs no resume logic. Resume logic matters once a floor is bigger than the battery can cover, and a second level is rarely that large. The Tikom L8000 Pro quotes up to 150 minutes. That is enough for a typical bedroom floor with a landing. Check the area per floor against the run time. A second-floor level is usually smaller, so a modest battery is plenty there."
+  },
+  {
+   "criterion": "Mop water when moving",
+   "explanation": "Carrying a robot with a full tank sloshes water into the electronics bay. Empty the tank first. A washing dock like the Qrevo S Pro refills it on the main floor."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Multi-map storage",
+   "meaning": "The robot keeps separate maps for each floor and recognises where it is placed. It saves rebuilding the map.",
+   "watchFor": "No listing here states the map count, so confirm it before buying."
+  },
+  {
+   "spec": "LiDAR",
+   "meaning": "A spinning laser that builds the floor plan. It works in the dark.",
+   "watchFor": "All six picks use it, but only some state SLAM."
+  },
+  {
+   "spec": "Station size",
+   "meaning": "The volume of the self-empty dock bag. A bigger bag lasts longer.",
+   "watchFor": "The Uninell has 3.5 L and the Tikom L8000 Plus has 3 L."
+  },
+  {
+   "spec": "Cliff sensors",
+   "meaning": "Downward-facing sensors that stop the robot at an edge. They protect the stairs.",
+   "watchFor": "Dust makes them stop for no reason, so wipe them monthly."
+  },
+  {
+   "spec": "Suction in Pa",
+   "meaning": "The maximum motor rating, reached only in the strongest mode. It matters less than maps for a two-level home.",
+   "watchFor": "The Qrevo S Pro lists 18,500 Pa and the Tikom L8000 Pro lists 6,000 Pa."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Mapping",
+   "description": "We checked every pick for laser mapping and noted that map count is not stated in the listings. Laser maps are the minimum for a multi-floor routine. Pattern robots were excluded."
+  },
+  {
+   "title": "Carryability",
+   "description": "We compared charge-only bases with dock-equipped machines because you lift the robot each time. The Q7 L5 and L8000 Pro are the easiest. The Qrevo S Pro is the heaviest."
+  },
+  {
+   "title": "Dock logic",
+   "description": "We looked at where the dock helps. The Q10 S5+ and Uninell suit a main-floor dock, and the Qrevo S Pro washes pads there. Second-floor runs end with a full bin."
+  },
+  {
+   "title": "Quiet running",
+   "description": "We noted quiet modes such as the Uninell listing. Upstairs runs wake sleepers. A schedule that starts after the household is up avoids the complaint entirely. Quiet scored higher for shared homes."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We reviewed repeated owner reports on lost maps after moves and stair errors. Patterns outweighed single complaints. Models that lose maps scored lower. A machine that forgets the upstairs layout after a charge was ranked below one that remembers it."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Home Layout",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Two floors, carry the robot often",
+      "Roborock Q7 L5",
+      "Charging base and light body"
+     ],
+     [
+      "Main floor does the work",
+      "Roborock Q10 S5+",
+      "70 day dock on the main level"
+     ],
+     [
+      "Weekly mopping on one floor",
+      "Roborock Qrevo S Pro",
+      "Hot-wash dock"
+     ],
+     [
+      "Two flats stacked on a budget",
+      "Tikom L8000 Pro",
+      "Laser map with no dock"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Tikom L8000 Pro",
+      "LiDAR and no dock"
+     ],
+     [
+      "Low tier with laser",
+      "Roborock Q7 L5",
+      "Laser map and anti-tangle"
+     ],
+     [
+      "Mid tier with dock",
+      "Tikom L8000 Plus",
+      "3 L bag and a mop plate"
+     ],
+     [
+      "Top tier",
+      "Qrevo S Pro",
+      "Washing dock"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "One Robot vs Two",
+   "cards": [
+    {
+     "label": "One robot",
+     "text": "Carry the Q7 L5 or Tikom between levels. It costs less overall, but you handle the stairs and the map."
+    },
+    {
+     "label": "Two robots",
+     "text": "Buy a cheap robot per floor, such as the Tikom L8000 Pro upstairs. It costs more in total but removes carrying."
+    }
+   ],
+   "note": "Choose one robot if you do not mind lifting, and two if stairs are hard or the floors are big. Remember that two robots mean two sets of consumables and two apps to keep tidy."
+  },
+  {
+   "subheading": "Dock Choice",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Largest station",
+      "Uninell",
+      "3.5 L self-empty"
+     ],
+     [
+      "Longest quoted interval",
+      "Tikom L8000 Plus",
+      "Up to 90 days"
+     ],
+     [
+      "Washing and refilling",
+      "Qrevo S Pro",
+      "Pads washed at 167 F"
+     ],
+     [
+      "No dock to move",
+      "Roborock Q7 L5",
+      "Charge base only"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Stair Landings Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Reliable cliff sensors, a gate or barrier at open stairs and a no-go zone on the landing. Keep the sensors clean."
+    },
+    {
+     "label": "In this comparison",
+     "text": "All six have cliff sensors, but the Q10 S5+ lists obstacle sensing as well. Place a no-go zone at the top step anyway. A thin strip of tape on the carpet edge also works as a visual barrier for some sensors."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "One floor needs weekly mopping and a dock. The Qrevo S Pro washes and refills for you."
+    },
+    {
+     "label": "Save if",
+     "text": "You will carry the robot and mostly vacuum. The Q7 L5 or L8000 Pro covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Empty the water tank before moving",
+   "interval": "Every move",
+   "why": "Water sloshes into the electronics when you carry a full tank. Empty and dry it first."
+  },
+  {
+   "task": "Remap the new floor",
+   "interval": "First run on each level",
+   "why": "The robot needs a clean map of each floor. Open doors and clear chairs."
+  },
+  {
+   "task": "Wipe cliff sensors",
+   "interval": "Monthly",
+   "why": "Dust causes false stops at stair edges. A dry cloth clears them."
+  },
+  {
+   "task": "Replace the dock bag",
+   "interval": "Every 70 to 90 days",
+   "why": "Stations on the Q10 S5+ and L8000 Plus are quoted in that range. Replace sooner with pets."
+  },
+  {
+   "task": "Check the charging contacts",
+   "interval": "Monthly",
+   "why": "Carrying the robot can bend or soil the contacts. Wipe them with a dry cloth."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a robot vacuum go up stairs?",
+   "a": "No. You carry it. Choose a light model with saved maps so the routine stays easy."
+  },
+  {
+   "q": "Do I need a map for each floor?",
+   "a": "It helps a lot. Without it, the robot rebuilds the map every move. Confirm map memory on the maker page."
+  },
+  {
+   "q": "Should I buy two robots?",
+   "a": "If stairs are hard or both floors are big, yes. Two cheap robots cost about as much as one flagship. It removes carrying."
+  },
+  {
+   "q": "Where should the dock go?",
+   "a": "On the floor that needs the most cleaning. The dock empties only that level. The other level ends with a full bin."
+  },
+  {
+   "q": "Is it safe near open stairs?",
+   "a": "Cliff sensors stop the robot, but dust can fool them. Use a barrier or a no-go zone. Clean the sensors monthly."
+  },
+  {
+   "q": "Is the mop safe to carry?",
+   "a": "Empty the tank first. Water in the electronics bay can damage the robot. A washing dock can refill on the main floor."
+  }
+ ],
+ "relatedGuides": []
+}

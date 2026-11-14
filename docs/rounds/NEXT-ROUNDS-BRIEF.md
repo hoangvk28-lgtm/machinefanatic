@@ -181,3 +181,8 @@ Writer prompt: the one below, plus "3 distinct real machines is enough, write it
 - Unfinished slugs: `for f in r31a r31b1 r31b2; do for s in $(tr -d '\r' < scripts/clone/work/$f.txt); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done > scripts/clone/work/left-$f.txt; done`
 - Then Finish for all r31 done slugs (Finish section above; top description opening must be <= 6), mark skip the writer skips, clone-log, local commit, preview on `npx next dev -p 3005`. Push main + IndexNow ONLY after user approval.
 - After that, optional: fix round 30 opening repeats (top 11, target <= 6) with 1 Sonnet agent, Edit on spec.json + finish.mjs.
+
+## Winter plan (approved 2026-11-14)
+Order: 32 home space heaters (~40: by room, type, feature, brand; drop the 2 projector slugs) -> 33 humidifiers (39) + air purifiers (18) -> 34 holiday kitchen (food processor, hand/stand mixer, slow cooker, bread maker; 40-50, before mid-December) -> 35 RV/tent/patio heaters (~26). Dehumidifiers and remaining kettles after winter.
+Budget topics to add before Stage A (check duplicates first): space-heaters-under-50, space-heaters-under-100, oil-filled-space-heaters-under-100, humidifiers-under-50, food-processors-under-100.
+Writer prompt additions: no script or node -e to pad word count (B2 did this in round 31); never open a sentence with "Empty the tank after" or "Use distilled water".

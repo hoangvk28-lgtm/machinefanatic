@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-tig-welders",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "tig welders",
+ "guideTitle": "Best TIG Welders (2026)",
+ "metaTitle": "Best TIG Welders in 2026",
+ "metaDescription": "Six TIG welders, AC/DC and DC-only, from a Miller Maxstar to budget pulse units, compared on aluminum capability, input voltage, pulse and controls.",
+ "lastUpdated": "2026-11-12",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31pbs3CQ+KL._SL500_.jpg",
+ "expertTake": "The Lincoln Square Wave 205 is the best pick for anyone who intends to weld aluminum seriously and wants a machine from a brand with a dealer network. The YESWELDER TIG-200P is the value pick for AC/DC with pulse at a lower price tier. If you only weld steel and stainless, skip AC machines and buy a DC-only unit such as the Miller Maxstar 161.",
+ "introParagraphs": [
+  "TIG welding uses a non-consumable tungsten electrode and a separate filler rod fed by hand, with pure argon shielding the puddle. It is slow, needs two hands and a foot, and demands patience. In return it produces the cleanest, most precise welds on thin steel, stainless, titanium and aluminum.",
+  "The biggest buying decision is AC versus DC. Aluminum needs alternating current to break up its oxide skin, while steel and stainless run on DC. After that, input voltage, pulse capability and how the machine starts the arc decide whether it feels like a precision tool or a struggle."
+ ],
+ "products": [
+  {
+   "id": "B0F3JXZ4KR",
+   "badge": "Best Overall",
+   "name": "Lincoln Electric Square Wave 205 TIG Welder K5613-1",
+   "price": "",
+   "specs": [
+    "AC/DC TIG",
+    "205A class",
+    "Square wave",
+    "Lincoln brand"
+   ],
+   "specList": [
+    {
+     "label": "Process",
+     "value": "TIG power source"
+    },
+    {
+     "label": "Model",
+     "value": "K5613-1"
+    },
+    {
+     "label": "Family",
+     "value": "Square Wave"
+    },
+    {
+     "label": "Capability",
+     "value": "AC and DC TIG, per series"
+    },
+    {
+     "label": "Brand",
+     "value": "Lincoln Electric"
+    }
+   ],
+   "description": "The Square Wave 205 is the premium pick here, and the listing is brief: it identifies the part number K5613-1 and the Square Wave family. The Square Wave name refers to the AC waveform that gives a tight, stable arc on aluminum, which is the reason to buy this class of machine. Check the product page for output range and input voltage before ordering.\n\nA square-wave AC output switches polarity abruptly, which helps cleaning action on oxide and gives fast arc re-ignition. That is why professional aluminum welders favour it. The step up from budget AC/DC units is mostly in arc stability, support and long-term reliability, and in having a dealer who stocks torches, collets and cups.\n\nExpect to buy a TIG torch, a regulator and flowmeter, argon, tungstens and a foot pedal if they are not bundled. It is the one to buy if TIG is a main process for you. Plan on a separate dedicated stainless brush and clean acetone for aluminum prep, because oxide and oil are the main causes of black, sooty welds.",
+   "bestFor": "Serious aluminum and stainless work where a dealer network and a stable arc matter.",
+   "pros": [
+    "Square wave AC arc for aluminum",
+    "Established brand and dealer network",
+    "Pro-grade design",
+    "Long-term parts availability"
+   ],
+   "cons": [
+    "Highest price tier in the lineup",
+    "Listing gives few specifications"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3JXZ4KR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31pbs3CQ+KL._SL500_.jpg"
+  },
+  {
+   "id": "B07197VF2D",
+   "badge": "Best DC-Only Pro",
+   "name": "Miller Maxstar 161 STL TIG Welder",
+   "price": "",
+   "specs": [
+    "DC TIG",
+    "Miller brand",
+    "Compact inverter",
+    "Stick capable"
+   ],
+   "specList": [
+    {
+     "label": "Process",
+     "value": "DC TIG and stick, per series"
+    },
+    {
+     "label": "Series",
+     "value": "Maxstar 161 STL"
+    },
+    {
+     "label": "Manufacturer",
+     "value": "Miller Electric"
+    },
+    {
+     "label": "Type",
+     "value": "Inverter power source"
+    },
+    {
+     "label": "Aluminum",
+     "value": "Not for AC aluminum"
+    }
+   ],
+   "description": "The Maxstar 161 STL is a compact DC inverter from Miller, and the listing identifies it as a TIG welding machine with accessories from Miller Electric. As a DC-only machine it welds steel, stainless and similar metals but not aluminum, which requires AC. That is not a weakness for fabricators who work mostly in steel; it is a reason the machine can be smaller and cheaper than an AC/DC unit.\n\nMaxstar units have a reputation for a smooth, stable DC arc, light weight and good performance on generator power. The model number indicates a 161 amp class output. Compared with the YESWELDER TIG-205P, it costs more but comes with Miller's service network and reliability record.\n\nYou must buy the foot pedal, torch, regulator and gas separately depending on the package. Keep the tungsten sharp and the shielding gas flowing. It is a good fit for stainless and steel fabrication, exhaust work and thin-wall tubing. A smaller machine like this also runs well off a decent generator, which makes it handy for on-site stainless repairs.",
+   "bestFor": "Steel and stainless fabricators who want a compact, dependable DC TIG machine.",
+   "pros": [
+    "Miller brand reliability and service",
+    "Smooth stable DC arc",
+    "Compact and portable",
+    "Good for stainless and steel"
+   ],
+   "cons": [
+    "No AC, so no aluminum",
+    "Higher price tier than budget DC units"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07197VF2D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412GSAfSZCL._SL500_.jpg"
+  },
+  {
+   "id": "B0C8J6Z4BF",
+   "badge": "Best Value AC/DC",
+   "name": "YESWELDER TIG-200P 200A AC/DC Aluminum TIG with Pulse",
+   "price": "",
+   "specs": [
+    "200A AC/DC",
+    "Pulse",
+    "LED display",
+    "Hot start"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "200A"
+    },
+    {
+     "label": "Current",
+     "value": "AC and DC"
+    },
+    {
+     "label": "Pulse",
+     "value": "Digital pulse"
+    },
+    {
+     "label": "Display",
+     "value": "Large LED"
+    },
+    {
+     "label": "Features",
+     "value": "Easy start with hot start, auto memory"
+    }
+   ],
+   "description": "The TIG-200P is the budget route into AC/DC TIG. It offers 200 amps, AC and DC output, a large LED display and digital pulse, plus an easy start with hot start and an auto memory function. Aluminum welding is the reason to pay for AC capability, and this machine is priced well below the Lincoln.\n\nPulse alternates between high and low current, which lowers average heat on thin material and gives a stacked-dimes look. Memory recalls your settings, which saves time between jobs. Compared with the ARCCAPTAIN 200A, the two are nearly equal in class, and the choice comes down to interface, support and price.\n\nLike all budget AC/DC machines, the AC balance and frequency controls matter and the ones here are simpler than a premium unit's. Buy a decent torch and foot pedal, use argon, and practise on scrap aluminum. It is a good first machine for someone who wants to learn aluminum without a large outlay. Aluminum teaches you quickly: the puddle shows a shiny clean zone around the tungsten, and the pedal lets you back off as the plate heats.",
+   "bestFor": "Hobbyists and small shops who want AC/DC and pulse at a lower price tier.",
+   "pros": [
+    "AC and DC output on one machine",
+    "Digital pulse and memory",
+    "Large LED display",
+    "Lower price than premium AC/DC units"
+   ],
+   "cons": [
+    "Simpler AC controls than premium machines",
+    "Support runs through the maker"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0C8J6Z4BF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LJqjOUmgL._SL500_.jpg"
+  },
+  {
+   "id": "B0C1N4J3GX",
+   "badge": "Best Feature Count",
+   "name": "ARCCAPTAIN 200A AC/DC TIG 7-in-1 with Pulse",
+   "price": "",
+   "specs": [
+    "200A AC/DC",
+    "7-in-1",
+    "Pulse",
+    "110V/220V"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "200A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Modes",
+     "value": "DC TIG, DC pulse, AC TIG, AC pulse, stick and more"
+    },
+    {
+     "label": "Aluminum range",
+     "value": "0.5 to 5 mm"
+    },
+    {
+     "label": "Steel range",
+     "value": "0.5 to 10 mm"
+    }
+   ],
+   "description": "The ARCCAPTAIN is a 200A AC/DC machine with seven modes, including DC TIG, DC pulse, AC TIG and AC pulse, and a large LED display. The listing gives usable thickness ranges: 0.5 to 5 mm for aluminum and 0.5 to 10 mm for steel, which are realistic numbers.\n\nDual voltage input is a real plus, because you can plug into a household outlet and then use 220V for thicker work. Square and triangular wave options are described, and they let you tune the arc character on aluminum. Compared with the YESWELDER TIG-200P, it adds more waveform options and an extra mode count.\n\nSeven modes sounds like more than it is, because several are variations of the same process. The most useful features are the AC balance and frequency controls. Set up a foot pedal and learn the settings on scrap. It is a flexible home-shop machine. Ask yourself whether you will really use the extra modes, because the AC settings that matter are balance and frequency, not the mode count.",
+   "bestFor": "Home shops that weld aluminum and steel and want waveform choices.",
+   "pros": [
+    "AC and DC with pulse in both",
+    "110V and 220V input",
+    "Realistic thickness ranges stated",
+    "Square and triangular wave options"
+   ],
+   "cons": [
+    "Mode count overstates real variety",
+    "Budget-brand support"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0C1N4J3GX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41s9n5rAz4L._SL500_.jpg"
+  },
+  {
+   "id": "B0CNQQBZNW",
+   "badge": "Best High Output",
+   "name": "Sunstac 250A AC/DC TIG with Pulse and Foot Pedal",
+   "price": "",
+   "specs": [
+    "250A AC/DC",
+    "Foot pedal",
+    "Pulse",
+    "5-in-1"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "250A"
+    },
+    {
+     "label": "Current",
+     "value": "AC and DC"
+    },
+    {
+     "label": "Modes",
+     "value": "HF AC, HF DC, pulsed AC, pulsed DC, spot, stick"
+    },
+    {
+     "label": "Control",
+     "value": "Foot pedal included"
+    },
+    {
+     "label": "Use",
+     "value": "Aluminum and alloys"
+    }
+   ],
+   "description": "The Sunstac stands out for its 250 amp output and bundled foot pedal. It supports high-frequency AC and DC TIG, pulsed AC and DC, spot TIG and stick. A foot pedal is the primary control for TIG, since it lets you ramp current smoothly with your foot, and including one removes a separate purchase.\n\nThe 250A rating suits thick aluminum, and the HF start prevents contaminating the tungsten. That power is only useful on a 220V supply, so check the input voltage. Compared with the 200A ARCCAPTAIN and YESWELDER units, it gives more headroom for thick sections of aluminum.\n\nA higher rating also means a heavier machine and a more serious circuit requirement. Spot TIG is a niche mode for tack welding. It is the pick for someone who wants to weld thicker aluminum on a budget. At this output the machine will heat your shop circuit, so confirm the breaker size and use the proper plug.",
+   "bestFor": "Thicker aluminum and alloys where the extra amperage and bundled pedal matter.",
+   "pros": [
+    "250A output for thick aluminum",
+    "Foot pedal included",
+    "High-frequency starts",
+    "AC and DC with pulse"
+   ],
+   "cons": [
+    "Needs a proper 220V circuit",
+    "Heavier than 200A units"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CNQQBZNW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41R6lYS6n+L._SL500_.jpg"
+  },
+  {
+   "id": "B0BVYHBQZ6",
+   "badge": "Best DC Pulse Value",
+   "name": "YESWELDER 205A DC Pulse TIG-205P, 110/220V",
+   "price": "",
+   "specs": [
+    "205A DC",
+    "Pulse TIG",
+    "110/220V",
+    "Stick capable"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "205A DC"
+    },
+    {
+     "label": "Input",
+     "value": "110V and 220V"
+    },
+    {
+     "label": "Modes",
+     "value": "Stick, DC TIG, pulse TIG"
+    },
+    {
+     "label": "Display",
+     "value": "Large LED"
+    },
+    {
+     "label": "Features",
+     "value": "Hot start, auto memory"
+    }
+   ],
+   "description": "The TIG-205P is a DC-only machine with pulse, stick and DC TIG in a dual-voltage 205A package. Without AC it cannot weld aluminum, but for steel and stainless it gives you pulse, hot start and memory at a lower price than the AC/DC units.\n\nPulse is a useful feature for thin stainless and exhaust tubing, where heat control is the main challenge. Dual voltage means the same machine plugs into a household outlet or a 220V circuit. Compared with the Miller Maxstar 161, it has pulse and a higher amp rating at a lower price tier, but not the same service network.\n\nUse lift-start or the HF start if provided, keep the tungsten clean and use argon. It is the choice for a fabricator who works only steel and stainless and wants pulse. Pulse pays for itself on thin stainless, where it keeps the heat-affected zone small and reduces discolouration.",
+   "bestFor": "Steel and stainless fabricators who want pulse and dual voltage.",
+   "pros": [
+    "205A with pulse",
+    "110V and 220V input",
+    "Hot start and memory",
+    "Lower price than AC/DC units"
+   ],
+   "cons": [
+    "No AC, so no aluminum",
+    "Budget-brand support"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0BVYHBQZ6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41u6vTh2WxL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "AC or DC",
+   "explanation": "Aluminum and magnesium need AC, because the alternating current cleans the oxide layer and lets the metal melt. Steel and stainless run on DC. The Miller Maxstar 161 and YESWELDER TIG-205P are DC only, while the Lincoln Square Wave 205, YESWELDER TIG-200P, ARCCAPTAIN 200A and Sunstac 250A do AC. Buying AC you do not use is a waste, and buying DC when you need aluminum is a dead end. Magnesium and some alloys also need AC, so aluminum is not the only reason to buy it."
+  },
+  {
+   "criterion": "Input voltage",
+   "explanation": "A 110V TIG machine is limited to roughly 140 to 160A of usable output on a 20 amp circuit, and most 200A ratings apply at 220V. Dual-voltage units like the ARCCAPTAIN and YESWELDER 205P are flexible. For aluminum thicker than about 1/8 inch you want 220V. A long thin extension cord is a poor idea with any inverter, as voltage sag makes the arc wander."
+  },
+  {
+   "criterion": "Pulse and AC balance",
+   "explanation": "Pulse reduces heat on thin metal and helps control the puddle. AC balance sets how much cleaning versus penetration you get on aluminum, and frequency narrows or widens the arc. Machines with only a few preset waveforms are easier to use but less flexible. Premium units like the Lincoln give finer control. On thin aluminum, a fine waveform control makes the difference between a clean bead and a burned hole."
+  },
+  {
+   "criterion": "Foot pedal and torch",
+   "explanation": "A foot pedal lets you modulate current as the metal heats up, which is how real TIG work is done. The Sunstac includes one, while others may sell it separately. Torch quality matters too: a flexible head and a gas lens give better coverage. Consider the pedal cable length and whether the pedal has a firm travel, since cheap ones feel on or off."
+  },
+  {
+   "criterion": "Arc start method",
+   "explanation": "HF start jumps a spark to begin the arc without touching the tungsten. Lift start scratches the tungsten and risks contamination. HF can interfere with electronics, so check your shop environment. Premium machines offer both. If you work near radios, computers or a CNC controller, test HF start before committing."
+  },
+  {
+   "criterion": "Gas and consumables",
+   "explanation": "TIG needs pure argon, a regulator and flowmeter, tungstens, collets, cups and filler rod. Budget for these. A kit that includes a regulator and torch saves time but costs more upfront. Stock up on a few extra tungstens and cups, because you will use them quickly while learning."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "AC/DC",
+   "meaning": "AC switches polarity for aluminum, DC holds one polarity for steel and stainless. Always check the number is quoted at your supply voltage.",
+   "watchFor": "The Miller Maxstar 161 and YESWELDER TIG-205P are DC only."
+  },
+  {
+   "spec": "Pulse",
+   "meaning": "The current alternates between peak and background levels, reducing average heat. Spot TIG is a niche tack mode.",
+   "watchFor": "Pulse on budget machines is fixed range, while premium units offer finer control."
+  },
+  {
+   "spec": "AC balance and frequency",
+   "meaning": "Balance sets the proportion of cleaning and penetration, and frequency controls arc width. Memory saves time on repeat jobs.",
+   "watchFor": "Few budget listings explain these, so check the manual."
+  },
+  {
+   "spec": "HF start",
+   "meaning": "A high-frequency spark starts the arc without tungsten contact. Ask whether lift start is also available.",
+   "watchFor": "It can disturb nearby electronics."
+  },
+  {
+   "spec": "Thickness range",
+   "meaning": "The metal thickness a manufacturer claims the machine can weld. Waveform choice is a refinement.",
+   "watchFor": "The ARCCAPTAIN states 0.5 to 5 mm aluminum and 0.5 to 10 mm steel, a useful benchmark."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "AC capability",
+   "description": "We separated AC/DC machines from DC-only machines because aluminum capability decides the purchase. We credited machines that stated usable thickness ranges."
+  },
+  {
+   "title": "Input and amperage",
+   "description": "We compared 200A, 205A and 250A ratings with their input voltage. The real output depends on the circuit. Pulse and memory were treated as convenience features."
+  },
+  {
+   "title": "Control features",
+   "description": "We looked at pulse, memory and waveform options, plus whether a foot pedal ships. Torch and pedal inclusion were noted because they add real cost."
+  },
+  {
+   "title": "Support",
+   "description": "We weighed brand support, since torches and boards wear out. Brand support was a tie-breaker."
+  },
+  {
+   "title": "Evidence base",
+   "description": "This is based on spec sheets and owner feedback patterns, not our own welding time. Listing claims are manufacturer figures. We did not claim bead quality, which depends on the operator."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Metal",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Aluminum, serious work",
+      "Lincoln Square Wave 205",
+      "Square wave AC"
+     ],
+     [
+      "Aluminum on a budget",
+      "YESWELDER TIG-200P",
+      "AC/DC with pulse"
+     ],
+     [
+      "Thick aluminum",
+      "Sunstac 250A",
+      "250A with pedal"
+     ],
+     [
+      "Steel and stainless only",
+      "Miller Maxstar 161 STL",
+      "Stable DC arc"
+     ],
+     [
+      "Thin stainless with pulse",
+      "YESWELDER TIG-205P",
+      "DC pulse"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "YESWELDER TIG-205P",
+      "DC pulse at a low tier"
+     ],
+     [
+      "Low",
+      "YESWELDER TIG-200P",
+      "AC/DC entry"
+     ],
+     [
+      "Lower middle",
+      "ARCCAPTAIN 200A",
+      "Waveform options"
+     ],
+     [
+      "Middle",
+      "Sunstac 250A",
+      "Most amps with pedal"
+     ],
+     [
+      "Upper",
+      "Lincoln Square Wave 205",
+      "Brand and arc quality"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "AC/DC vs DC Only",
+   "cards": [
+    {
+     "label": "AC/DC",
+     "text": "The Lincoln, YESWELDER TIG-200P, ARCCAPTAIN and Sunstac do aluminum as well as steel. They cost more and have more controls to learn."
+    },
+    {
+     "label": "DC only",
+     "text": "The Miller Maxstar 161 and YESWELDER TIG-205P cover steel and stainless, are lighter and simpler and cost less."
+    }
+   ],
+   "note": "Choose AC/DC if aluminum is on your list, otherwise save money with DC."
+  },
+  {
+   "subheading": "110V vs 220V",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Household outlet flexibility",
+      "ARCCAPTAIN 200A",
+      "110V and 220V"
+     ],
+     [
+      "Dual voltage DC",
+      "YESWELDER TIG-205P",
+      "110V and 220V"
+     ],
+     [
+      "Full output on 220V",
+      "Sunstac 250A",
+      "250A class"
+     ],
+     [
+      "Pro 220V and generator use",
+      "Miller Maxstar 161 STL",
+      "Inverter design"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Aluminum Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "AC output with adjustable balance, a foot pedal, a clean argon supply and a stainless brush used only on aluminum. Prep is half the weld."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Lincoln Square Wave 205 is the best arc, the Sunstac 250A gives the most amps and the YESWELDER TIG-200P is the cheapest AC option."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You weld for income or need a stable arc on thin aluminum. The Lincoln or Miller are worth it."
+    },
+    {
+     "label": "Save if",
+     "text": "You are learning TIG as a hobby. The YESWELDER units cover the basics."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Sharpen tungsten",
+   "interval": "Each session",
+   "why": "A contaminated or blunt tungsten ruins the arc. Grind lengthwise on a dedicated wheel. Use a dedicated tungsten grinder."
+  },
+  {
+   "task": "Check gas flow",
+   "interval": "Each session",
+   "why": "Leaks or low flow cause porosity. Set 15 to 20 CFH for most work. Soapy water finds leaks."
+  },
+  {
+   "task": "Inspect torch and collet",
+   "interval": "Monthly",
+   "why": "A worn collet lets the tungsten wobble. Replace damaged cups and gas lenses. Replace worn O-rings."
+  },
+  {
+   "task": "Blow out the machine",
+   "interval": "Every 6 months",
+   "why": "Dust blocks airflow and overheats the inverter. Compressed air only."
+  },
+  {
+   "task": "Clean filler rod",
+   "interval": "Each use",
+   "why": "Dirty rod contaminates the weld. Wipe with acetone before use. Store in a sealed bag."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is TIG hard to learn?",
+   "a": "It has the steepest learning curve of the common processes because it needs both hands and a foot. Practise on clean mild steel first. Many welders need tens of hours before consistent beads. Prep is more important than any setting. Practise with a few minutes of clean beads at a time, since tungsten contamination teaches the lesson fast."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "The YESWELDER units sit at the lower tiers, the ARCCAPTAIN and Sunstac in the middle and the Lincoln and Miller at the top. Pay more for arc stability and support. A used pro machine can be the same price as a new budget one. Spend on the torch and pedal before extras."
+  },
+  {
+   "q": "How long do budget TIG welders last?",
+   "a": "Many years with care. Torches and foot pedals wear first, so buy good ones. Replace the torch before you replace the welder."
+  },
+  {
+   "q": "Do I need AC?",
+   "a": "Only for aluminum and magnesium. Steel and stainless run on DC. Stainless needs back-purging on pipe work."
+  },
+  {
+   "q": "Can I TIG weld with a 110V outlet?",
+   "a": "Yes for thin work. A dual-voltage machine on 110V is limited to roughly 140 to 160A, enough for sheet and tube. A DC machine is often a better first buy for steel. Keep a log of settings that worked."
+  },
+  {
+   "q": "What gas do I need?",
+   "a": "Pure argon for nearly all TIG work. Helium mixes are for thick aluminum. Argon cylinders are refillable at welding suppliers."
+  }
+ ],
+ "relatedGuides": []
+}

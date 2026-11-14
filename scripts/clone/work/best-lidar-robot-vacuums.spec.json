@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-lidar-robot-vacuums",
+ "categorySlug": "home-machines",
+ "mainKeyword": "lidar robot vacuums",
+ "guideTitle": "Best LiDAR Robot Vacuums (2026)",
+ "metaTitle": "Best LiDAR Robot Vacuums (2026)",
+ "metaDescription": "Six LiDAR robot vacuums compared on laser mapping, dock design, suction and upkeep, so you can pick a robot that plans straight rows in any light.",
+ "lastUpdated": "2026-11-14",
+ "readTime": "11 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41hpc-ca5xL._SL500_.jpg",
+ "expertTake": "The Roborock Q7 L5 is the top pick because it pairs laser mapping with a dual anti-tangle brush set at a low price tier. The Lefant M330 Pro is the value pick for a dock-free laser map. Small studios with one open room can skip laser mapping entirely.",
+ "introParagraphs": [
+  "A LiDAR robot carries a small spinning laser that measures how far away walls and furniture are, many times per second. From those readings it builds a floor plan, works out where it has been and plans straight, overlapping rows instead of bouncing around at random.",
+  "That map is what makes room-by-room schedules, no-go zones and multi-floor storage possible, and it works in a dark house because the laser brings its own light. This guide compares robots that use laser navigation, focusing on how well the rest of the machine backs up the map."
+ ],
+ "products": [
+  {
+   "id": "B0F334DN9J",
+   "badge": "Best Overall",
+   "name": "Roborock Q7 L5 vacuum and mop, 8,000 Pa, LiDAR, dual anti-tangle",
+   "specs": [
+    "8,000 Pa",
+    "360 degree LiDAR",
+    "Dual anti-tangle",
+    "Mop combo"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "8,000 Pa"
+    },
+    {
+     "label": "Navigation",
+     "value": "360 degree laser mapping"
+    },
+    {
+     "label": "Brushes",
+     "value": "Anti-tangle main and side"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    },
+    {
+     "label": "Dock",
+     "value": "Charging base"
+    }
+   ],
+   "description": "The Q7 L5 uses a 360 degree laser that scans the room in real time and plans each row from the resulting map. What makes it a strong LiDAR pick is that the rest of the machine does not undercut the navigation: a specially shaped main brush and a zero-tangle side brush stop hair from stalling the route halfway through a room.\n\nIt carries 8,000 Pa, below the dock models such as the Tikom L8000 Plus in bag capacity but ahead of it in suction, and it has no self-empty base, so the dustbin goes to the trash by hand. That is the reason it sits at a low price tier. The mop is a simple attachment for light damp work.\n\nThe routine is light. Wipe the laser window with a dry cloth, empty the bin after each run, rinse the filter and trim the main brush. Because the map is saved, you can schedule room-by-room cleaning without opening the app every day. The first mapping run is the important one, so open interior doors and lift chairs off the floor before you press start.",
+   "bestFor": "First-time laser buyers who want a clean map without paying for a dock.",
+   "pros": [
+    "360 degree laser builds a real-time map",
+    "Anti-tangle main and side brushes",
+    "8,000 Pa suction label",
+    "Low price tier for laser navigation"
+   ],
+   "cons": [
+    "Dustbin is emptied by hand",
+    "Mop is a light-duty attachment",
+    "Charging base only"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0F334DN9J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hpc-ca5xL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DZ6XDSNS",
+   "badge": "Best Dock-Free Value",
+   "name": "Lefant M330 Pro, dToF LiDAR, 15 m scan, 190 degree PSD, 450 ml bin",
+   "specs": [
+    "dToF LiDAR",
+    "15 m range",
+    "PSD sensor",
+    "450 ml bin"
+   ],
+   "specList": [
+    {
+     "label": "Navigation",
+     "value": "dToF LiDAR, 15 m"
+    },
+    {
+     "label": "Obstacle sensor",
+     "value": "190 degree PSD"
+    },
+    {
+     "label": "Dustbin",
+     "value": "450 ml visible"
+    },
+    {
+     "label": "Carpet",
+     "value": "Detects and skips in mop mode"
+    },
+    {
+     "label": "Dock",
+     "value": "Charge only"
+    }
+   ],
+   "description": "The M330 Pro swaps the older triangulation turret for direct time-of-flight ranging, which times the return of each laser pulse to measure distance. The listing quotes a 15 m range, enough to span most living areas from one point. A 190 degree PSD sensor adds ahead-of-body distance sensing to ease around furniture legs.\n\nIt is the cheapest laser robot in the group and the one with the clearest bin, a 450 ml dustbin you can see through. Against the Q7 L5 it offers mapping and carpet detection but lacks the dual anti-tangle brush pair, so pet households will trim the roller more often. Pet owners who pick it should plan on a roller check every week rather than every month, and it makes sense to keep the side brush spare in a drawer. The roller is the compromise that buys the low price.\n\nUpkeep is manual: empty the bin when you can see it filling, rinse the pad after mopping and wipe both the laser window and the PSD lens. There is no bag to buy and nothing to descale.",
+   "bestFor": "Mid-size homes that want a laser map at the lowest price tier.",
+   "pros": [
+    "dToF ranging up to 15 m",
+    "Visible 450 ml bin shows its fill level",
+    "Carpet detection avoids wetting rugs",
+    "Cheapest laser robot in the group"
+   ],
+   "cons": [
+    "No self-empty dock",
+    "Brush is not the dual anti-tangle type",
+    "PSD does not identify cables"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DZ6XDSNS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51eOpIcFOpL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G5YDVR99",
+   "badge": "Best Vacuum Only",
+   "name": "ILIFE A30s, 10,000 Pa max, LDS LiDAR with SLAM, no-go zones",
+   "specs": [
+    "10,000 Pa max",
+    "LDS LiDAR",
+    "SLAM",
+    "150 min"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "10,000 Pa in spot mode"
+    },
+    {
+     "label": "Navigation",
+     "value": "LDS LiDAR and SLAM"
+    },
+    {
+     "label": "Runtime",
+     "value": "150 min"
+    },
+    {
+     "label": "Zones",
+     "value": "No-go zones"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum only"
+    }
+   ],
+   "description": "The A30s pairs a laser distance sensor with SLAM, the algorithm that places the robot on its own map as it moves. It is vacuum only, so every part of the budget goes into navigation, the dual brush system and a 150 minute battery. No-go zones draw invisible walls around cords and bowls.\n\nIts 10,000 Pa figure applies in spot mode only, so ordinary runs use less, and there is no dock and no mop. It is a lower price tier than the Q7 L5 because of that. If you have hard floors and mop by hand, the missing water system is a gain, not a loss, since there is nothing to descale or mildew.\n\nCare is the shortest list here: empty the bin, rinse the filter, trim the brushes and wipe the laser window. Spare brushes for smaller brands vary, so order one early. If you carry it upstairs, remember that the saved map belongs to the floor where it was built, so build a fresh map on the second level.",
+   "bestFor": "Hard-floor homes that want laser mapping and nothing else.",
+   "pros": [
+    "Laser and SLAM mapping with no-go zones",
+    "150 minute battery covers big floors",
+    "Vacuum-only design has no water parts",
+    "Low price tier"
+   ],
+   "cons": [
+    "Peak suction applies only in spot mode",
+    "No dock and no mop",
+    "Spares for the brand vary by listing"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0G5YDVR99?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GzZmL4LDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GCZKFDVW",
+   "badge": "Best Runtime",
+   "name": "MONSGA MS1, 7,000 Pa, LiDAR, 180 minute runtime, 340 ml bin",
+   "specs": [
+    "7,000 Pa",
+    "LiDAR",
+    "180 min",
+    "550W motor"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "7,000 Pa"
+    },
+    {
+     "label": "Runtime",
+     "value": "180 min"
+    },
+    {
+     "label": "Motor",
+     "value": "550W brushless"
+    },
+    {
+     "label": "Dustbin",
+     "value": "340 ml"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    }
+   ],
+   "description": "The MS1 is a laser robot built around endurance. A 180 minute runtime lets it finish a large floor without a mid-job recharge, and a 550W brushless motor drives a 7,000 Pa suction label. The listing describes a tangle-free roller and a 340 ml dustbin sized for pet hair and allergens.\n\nIt has the longest battery in the group and a smaller bin than the Lefant M330 Pro at 450 ml, so you empty it more often. The mop is an attachment for light work. Think of it as a plain laser robot that rarely stops for charge. In a larger home the long battery is more valuable than extra suction, because a robot that finishes in one trip never leaves a strip of floor for the next day.\n\nMaintenance is the dock-free routine: empty the 340 ml bin after most runs, wash the filter and mop cloth, and clean the laser window. Because the brand is newer, check how easy it is to buy a spare roller before committing.",
+   "bestFor": "Large single-floor homes where finishing in one go matters.",
+   "pros": [
+    "180 minute runtime finishes big floors",
+    "LiDAR navigation with a brushless motor",
+    "Tangle-free roller for pet hair",
+    "Includes a mop attachment"
+   ],
+   "cons": [
+    "Small 340 ml bin fills quickly",
+    "Newer brand with less parts history",
+    "No self-empty dock"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GCZKFDVW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51F4JfuM9BL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H3PFYXYS",
+   "badge": "Best Bag Capacity",
+   "name": "BOTLUXE T20+, 6,000 Pa, LiDAR, 3.5 L sealed bag, 75-day dock",
+   "specs": [
+    "6,000 Pa",
+    "LiDAR",
+    "3.5 L bag",
+    "75 days"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "6,000 Pa"
+    },
+    {
+     "label": "Dock bag",
+     "value": "3.5 L sealed, 75 days"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    },
+    {
+     "label": "Surfaces",
+     "value": "Multi-surface"
+    }
+   ],
+   "description": "The T20+ pairs laser navigation with a dock whose 3.5 L sealed bag is the largest in the group. The maker quotes up to 75 days between changes, and a sealed bag keeps the dust contained when you replace it. A mop combo and multi-surface settings round out the package at 6,000 Pa.\n\nIt has less suction than the MONSGA MS1 at 7,000 Pa and the Q7 L5 at 8,000 Pa, but it adds a dock the Q7 L5 lacks. This is the pick for buyers who want mapping and hands-off emptying at a mid price tier. The bag interval is a best case for light households.\n\nBag replacement is the running cost. Wipe the dock intake monthly, clean the laser window and rinse the mop cloth. Check the bag at two months in a home with pets. The sealed bag design means the seal is the part to inspect when you swap it, since a poorly seated bag leaks fine dust into the dock chamber.",
+   "bestFor": "Buyers who want laser mapping and the least dock attention.",
+   "pros": [
+    "3.5 L sealed bag is the largest here",
+    "Up to 75 days between dock changes",
+    "LiDAR mapping with a mop combo",
+    "Mid price tier for a docked laser robot"
+   ],
+   "cons": [
+    "Only 6,000 Pa",
+    "Bags are brand-specific",
+    "Interval shrinks with shedding pets"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H3PFYXYS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41piQfHfDVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FKH1RW65",
+   "badge": "Best 90-Day Dock",
+   "name": "Tikom L8000 Plus, 6,000 Pa, LiDAR, 3 L bag, 90-day capacity",
+   "specs": [
+    "6,000 Pa",
+    "LiDAR",
+    "3 L bag",
+    "90 days"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "6,000 Pa"
+    },
+    {
+     "label": "Dock bag",
+     "value": "3 L, up to 90 days"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    },
+    {
+     "label": "Dock",
+     "value": "Self-emptying"
+    }
+   ],
+   "description": "The L8000 Plus is the longest-interval laser dock in the lineup on paper. A 3 L bag is quoted at up to 90 days, and LiDAR maps the home for scheduled runs. It carries a mop plate and a 6,000 Pa motor in a conventional design.\n\nAgainst the BOTLUXE T20+ it has a smaller 3 L bag yet a longer quoted interval, which suggests the claim is generous, so treat both as best cases. The suction is modest, and the price tier is mid. It is a good fit for light, hard-floor homes that value fewer trips to the dock. A smaller 3 L bag with a longer quote also suggests the maker assumes light dust, which is another reason to match it to a tidy hard-floor home.\n\nPlan for bag swaps, a dock filter wipe and a mop rinse. Keep a spare bag pack on hand so the quoted interval does not turn into a stalled dock.",
+   "bestFor": "Light hard-floor homes that want rare dock visits.",
+   "pros": [
+    "Up to 90 days quoted between bag changes",
+    "LiDAR mapping for scheduled rooms",
+    "Mop plate adds a damp option",
+    "Mid price tier"
+   ],
+   "cons": [
+    "Interval claim looks generous for a 3 L bag",
+    "Modest 6,000 Pa",
+    "Brand-specific bags"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FKH1RW65?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TiBcXjEaL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "How the laser measures",
+   "explanation": "Older turrets use triangulation and newer ones use direct time of flight, called dToF, as on the Lefant M330 Pro. Triangulation turrets are cheaper to build and have a shorter reliable range, which suits a flat but struggles in a hall-length room. Both build a map, and dToF holds its accuracy over longer ranges. In an ordinary flat you will not notice the difference, so do not pay extra for it."
+  },
+  {
+   "criterion": "Map storage and zones",
+   "explanation": "The reason to buy a laser robot is the map. Check that it stores room divisions, no-go zones and, if you have stairs, more than one floor. The ILIFE A30s and Q7 L5 both offer zones, but multi-floor memory varies by listing."
+  },
+  {
+   "criterion": "Mirrors, glass and dark floors",
+   "explanation": "Lasers can misread mirrors and floor-length glass as open space. A robot may try to drive through a mirrored wardrobe door or hesitate near black rugs that absorb the beam. Add a no-go line or a strip of tape on the edge if the map shows ghosts."
+  },
+  {
+   "criterion": "Turret height",
+   "explanation": "The laser dome sits on top of the body and adds height. Many laser robots stand about 3.5 in tall or more, so measure under your sofa. A map is useless if the robot cannot enter the room."
+  },
+  {
+   "criterion": "Dock bag and interval",
+   "explanation": "The BOTLUXE T20+ has a 3.5 L bag quoted at 75 days, and the Tikom L8000 Plus has a 3 L bag quoted at 90 days. The numbers are best cases and depend on hair and dust. Choose a dock only if you will actually replace the bags."
+  },
+  {
+   "criterion": "Brush design against the map",
+   "explanation": "A perfect map does not help if a wrapped brush stalls the robot. The Q7 L5 pairs its laser with anti-tangle brushes, while the Lefant M330 Pro keeps a simpler roller. Pet owners should weigh the brush as heavily as the navigation."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "LiDAR",
+   "meaning": "A spinning laser that measures distance to build a map. It does not capture pictures.",
+   "watchFor": "All six picks use laser mapping, but only the Lefant M330 Pro states dToF."
+  },
+  {
+   "spec": "SLAM",
+   "meaning": "Simultaneous localisation and mapping: the algorithm that tracks the robot on its own map. Better SLAM means fewer lost robots.",
+   "watchFor": "The ILIFE A30s pairs LDS LiDAR with SLAM for its no-go zones."
+  },
+  {
+   "spec": "dToF",
+   "meaning": "Direct time of flight times a laser pulse to measure distance. It is accurate over long ranges.",
+   "watchFor": "The Lefant M330 Pro quotes a 15 m range."
+  },
+  {
+   "spec": "Bag days",
+   "meaning": "The maker's estimate of how long the dock bag lasts. Real life depends on hair and dust.",
+   "watchFor": "The Tikom L8000 Plus quotes up to 90 days from 3 L, while the BOTLUXE T20+ quotes 75 days from 3.5 L."
+  },
+  {
+   "spec": "Runtime",
+   "meaning": "Minutes of running at standard power before it returns to charge. Boost shortens it.",
+   "watchFor": "The MONSGA MS1 quotes 180 minutes and the ILIFE A30s quotes 150 minutes."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Navigation method",
+   "description": "We read each listing for laser type, SLAM and zone support. The Q7 L5 and ILIFE A30s scored highest on map features, and the Lefant M330 Pro earned credit for dToF. Models without map storage were excluded."
+  },
+  {
+   "title": "Brush and hair handling",
+   "description": "We compared brush designs because a stalled robot wastes a good map. Anti-tangle pairs on the Q7 L5 ranked above plain rollers. Pet households weighted this heavily. A brush that cuts down on stalls also protects the battery, since the robot is not repeatedly restarting a blocked roller."
+  },
+  {
+   "title": "Dock design",
+   "description": "We looked at bag size and quoted interval, such as 3.5 L at 75 days on the BOTLUXE T20+ and 3 L at 90 days on the Tikom L8000 Plus. Intervals were treated as best cases. Dock-free models were judged on bin size."
+  },
+  {
+   "title": "Battery and area",
+   "description": "We compared runtimes from 150 minutes on the ILIFE A30s to 180 minutes on the MONSGA MS1. Longer runs reduce mid-clean charging. Area was matched to typical homes."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We reviewed repeated reports on map loss, app stability and parts supply. Patterns counted for more than single complaints. Newer brands were checked for spare availability."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Home Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Studio or one-bedroom flat",
+      "ILIFE A30s",
+      "Laser mapping with no extra parts"
+     ],
+     [
+      "Mid-size single floor",
+      "Roborock Q7 L5",
+      "Efficient rows and anti-tangle brushes"
+     ],
+     [
+      "Large single floor",
+      "MONSGA MS1",
+      "180 minute battery"
+     ],
+     [
+      "Open-plan living area",
+      "Lefant M330 Pro",
+      "dToF reach of 15 m"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Lefant M330 Pro",
+      "Cheapest laser robot here"
+     ],
+     [
+      "Low tier, vacuum only",
+      "ILIFE A30s",
+      "Laser and SLAM without water parts"
+     ],
+     [
+      "Low tier with brushes",
+      "Roborock Q7 L5",
+      "Dual anti-tangle and mop"
+     ],
+     [
+      "Mid tier with dock",
+      "BOTLUXE T20+",
+      "3.5 L sealed bag dock"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Dock vs No Dock",
+   "cards": [
+    {
+     "label": "With a dock",
+     "text": "The BOTLUXE T20+ and Tikom L8000 Plus empty themselves for weeks. They cost more and need bags."
+    },
+    {
+     "label": "Without a dock",
+     "text": "The Q7 L5, ILIFE A30s and Lefant M330 Pro need a bin trip after most runs. They cost less and have nothing to refill."
+    }
+   ],
+   "note": "Pick a dock if you will not empty a bin daily, and skip it if you vacuum a small floor."
+  },
+  {
+   "subheading": "Mapping Features",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No-go zones around cords",
+      "ILIFE A30s",
+      "Zones with LDS LiDAR and SLAM"
+     ],
+     [
+      "Carpet and mop together",
+      "Lefant M330 Pro",
+      "Carpet detection skips rugs"
+     ],
+     [
+      "Room-by-room scheduling",
+      "Roborock Q7 L5",
+      "Saved real-time map"
+     ],
+     [
+      "Long single runs",
+      "MONSGA MS1",
+      "180 minute battery avoids resume gaps"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Dark Rooms Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A laser turret, because it needs no ambient light. Camera-only robots slow down or wander in dim rooms."
+    },
+    {
+     "label": "In this comparison",
+     "text": "All six use a laser, so the choice is about brush and dock. The Q7 L5 is the best all-rounder for evening runs."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You dislike taking out the trash or have a large floor. The BOTLUXE T20+ and Tikom L8000 Plus add a dock."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a flat and mop rarely. The ILIFE A30s or Lefant M330 Pro give the same laser idea for less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wipe the laser window",
+   "interval": "Monthly",
+   "why": "Dust on the window blurs the beam and makes the map drift. Use a dry microfibre cloth."
+  },
+  {
+   "task": "Empty the bin",
+   "interval": "After most runs",
+   "why": "A full bin lowers suction. The MONSGA MS1 bin is only 340 ml, so check it often."
+  },
+  {
+   "task": "Replace the dock bag",
+   "interval": "Every 75 to 90 days",
+   "why": "Bags on the BOTLUXE and Tikom docks are quoted at 75 and 90 days. Change sooner with pets."
+  },
+  {
+   "task": "Trim the main brush",
+   "interval": "Every 1 to 2 weeks",
+   "why": "Hair wraps at the roller ends and strains the motor. Cut it along the groove."
+  },
+  {
+   "task": "Check for ghost walls on the map",
+   "interval": "After furniture moves",
+   "why": "Moved chairs and mirrors confuse the laser. Re-run the map if zones look wrong."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is LiDAR better than a camera for navigation?",
+   "a": "Laser mapping works in darkness and gives consistent rows, while camera-only systems are less consistent in dim or complex rooms. A camera does recognise objects that a laser cannot. Many buyers choose laser for the map and accept less object recognition."
+  },
+  {
+   "q": "Will LiDAR avoid cables and socks?",
+   "a": "It senses objects as obstacles but cannot identify them. Thin cables may still tangle the brush. Tidy the floor or set no-go zones."
+  },
+  {
+   "q": "Do mirrors confuse laser robots?",
+   "a": "They can. A mirrored wardrobe door may look like open space or create a ghost wall on the map. Mask the edge with a no-go zone."
+  },
+  {
+   "q": "How tall are LiDAR robots?",
+   "a": "The turret adds height, so many are around 3.5 in or taller. Measure your furniture gap first. Slim laser-free models exist for very low beds."
+  },
+  {
+   "q": "Is a dock worth it?",
+   "a": "Only if you would otherwise skip emptying the bin. Bags are a running cost and docks take wall space. A small flat does fine without one."
+  },
+  {
+   "q": "Does LiDAR record my home?",
+   "a": "The laser measures distances, not images, but the map is stored by the app. If data matters, check the maker's privacy page. A remote-only robot avoids the question entirely."
+  }
+ ],
+ "relatedGuides": []
+}

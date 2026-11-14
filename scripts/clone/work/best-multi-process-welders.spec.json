@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-multi-process-welders",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "multi-process welders",
+ "guideTitle": "Best Multi-Process Welders (2026)",
+ "metaTitle": "Best Multi-Process Welders (2026)",
+ "metaDescription": "Six multi-process welders from Lincoln POWER MIG units to 4-in-1 and 6-in-1 inverters, compared on processes, voltage, TIG quality and the real tradeoffs.",
+ "lastUpdated": "2026-11-12",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41Lyr-BdCAL._SL500_.jpg",
+ "expertTake": "The Lincoln POWER MIG 215 MPi is the best pick for a shop that wants real MIG, flux-core, stick and TIG from one machine with a dealer behind it. The BESTMIG 165S is the value pick for a home garage. Anyone who welds aluminum or stainless seriously should buy dedicated machines instead of expecting a combo unit to excel at every process.",
+ "introParagraphs": [
+  "A multi-process welder packs several welding modes into one box, usually MIG, flux-core, stick and TIG. The appeal is obvious: one machine, one cord, one footprint. For a home garage or a small shop with limited space and money, it can replace three dedicated machines.",
+  "The catch is that each process is a compromise. The TIG mode on a budget combo is usually DC lift-start, the MIG feeder is simpler than a dedicated unit's, and a machine that is mediocre at four things can be worse than one that is good at one. Knowing which process you will use most decides whether a combo is worth it."
+ ],
+ "products": [
+  {
+   "id": "B0B7TFS72M",
+   "badge": "Best Overall",
+   "name": "Lincoln Electric POWER MIG 215 MPi Multi-Process, 120V/230V",
+   "price": "",
+   "specs": [
+    "MIG, stick, DC TIG",
+    "120V/230V",
+    "Lincoln brand",
+    "Dual voltage"
+   ],
+   "specList": [
+    {
+     "label": "Processes",
+     "value": "MIG, flux-core, stick and DC TIG"
+    },
+    {
+     "label": "Input",
+     "value": "120V or 230V dual voltage"
+    },
+    {
+     "label": "Model",
+     "value": "K4876-1"
+    },
+    {
+     "label": "Class",
+     "value": "215 amp MPi series"
+    },
+    {
+     "label": "Brand",
+     "value": "Lincoln Electric"
+    }
+   ],
+   "description": "The POWER MIG 215 MPi is a true multi-process machine from a major maker, with MIG, flux-core, stick and DC TIG in one package and dual voltage input for 120V or 230V. The listing is brief, so verify output ranges and accessories on the product page. The big difference from a budget combo is that it is built around MIG, with a proper feeder, and adds the other processes on top.\n\nDual voltage means it works in a household garage and gets full output on 230V. DC TIG adds steel and stainless capability, though aluminum would need AC. Compared with the POWER MIG 220 AC/DC in this guide, the 215 MPi is the DC-only version and costs less, while the 220 adds AC for aluminum.\n\nParts support is the real advantage: tips, nozzles, liners and drive rolls are stocked at nearly every weld shop. Expect to buy a TIG torch and gas if they are not bundled. It is the sensible choice for a shop that wants one dependable machine. If you plan to add a spool gun for aluminum MIG later, confirm the machine has the connector and a separate gun trigger circuit before buying. Spares are cheap insurance against lost days.",
+   "bestFor": "Small shops that want one supported machine for MIG, stick and DC TIG.",
+   "pros": [
+    "MIG, flux-core, stick and DC TIG in one",
+    "120V and 230V input",
+    "Major brand parts support",
+    "Built around a real MIG feeder"
+   ],
+   "cons": [
+    "Higher price tier than budget combos",
+    "DC TIG only, no aluminum"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0B7TFS72M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Lyr-BdCAL._SL500_.jpg"
+  },
+  {
+   "id": "B0FMS7R4H9",
+   "badge": "Best for Aluminum TIG",
+   "name": "Lincoln POWER MIG 220 AC/DC Multi-Process",
+   "price": "",
+   "specs": [
+    "MIG, stick, AC/DC TIG",
+    "120V/230V",
+    "AC TIG",
+    "Dual input"
+   ],
+   "specList": [
+    {
+     "label": "Processes",
+     "value": "MIG, flux-cored, stick and AC/DC TIG"
+    },
+    {
+     "label": "Input",
+     "value": "120V or 230V"
+    },
+    {
+     "label": "Special",
+     "value": "AC TIG for aluminum"
+    },
+    {
+     "label": "Series",
+     "value": "POWER MIG 220"
+    },
+    {
+     "label": "Brand",
+     "value": "Lincoln Electric"
+    }
+   ],
+   "description": "The POWER MIG 220 AC/DC adds AC TIG to the multi-process list, which is what makes aluminum TIG possible. The listing gives MIG, flux-cored, stick and AC/DC TIG with dual input voltage of 120V and 230V. It is rare to find a combo from a major brand that includes AC.\n\nThat matters if you want aluminum but have space for one machine. AC TIG on a combo unit tends to have fewer adjustments than on a dedicated AC/DC TIG welder like the Lincoln Square Wave, so treat it as capable rather than ideal. The MIG side stays a proper feeder, with the usual support from Lincoln.\n\nIt sits at the top price tier in this guide. Expect to buy a torch, foot pedal, regulator and gas. It is the pick if you want one machine to do almost everything in a small fabrication shop. Take the time to learn AC balance on scrap aluminum, because the default setting is rarely the best one. A good ground clamp matters more than people expect.",
+   "bestFor": "Fabricators who need aluminum TIG and steel MIG from one machine.",
+   "pros": [
+    "AC and DC TIG for aluminum and steel",
+    "MIG, flux-core and stick as well",
+    "120V and 230V input",
+    "Lincoln parts support"
+   ],
+   "cons": [
+    "Top price tier in the lineup",
+    "AC controls are simpler than on a dedicated TIG unit"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FMS7R4H9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31UhqML3R0L._SL500_.jpg"
+  },
+  {
+   "id": "B0DP6KJ1SZ",
+   "badge": "Best With Plasma",
+   "name": "FEMEROL 200A 6-in-1 Plasma Cutter Welder Combo",
+   "price": "",
+   "specs": [
+    "6-in-1",
+    "200A",
+    "Plasma cut",
+    "60% duty cut"
+   ],
+   "specList": [
+    {
+     "label": "Processes",
+     "value": "Flux MIG, gas MIG, plasma cut, HF TIG, stick, spot"
+    },
+    {
+     "label": "Output",
+     "value": "200A"
+    },
+    {
+     "label": "Cut capacity",
+     "value": "10 mm clean, 16 mm severance at 220V"
+    },
+    {
+     "label": "Duty cycle",
+     "value": "60 percent on the cutter"
+    },
+    {
+     "label": "Input",
+     "value": "220V for cutting"
+    }
+   ],
+   "description": "The FEMEROL adds a plasma cutter to the welding list, a rare combination. It claims flux MIG, gas MIG, HF TIG, stick, spot and plasma cutting, with a 10 mm clean cut and 16 mm severance cut on 220V at a 60 percent duty cycle. The plasma cut figures are the ones to note: 10 mm is about 3/8 inch and 16 mm about 5/8 inch.\n\nThe appeal is one machine for cutting and joining in a tight workshop. The compromise is that every mode is a stretch: a plasma cutter in a combo needs clean dry air, and the TIG is HF DC. Compared with a dedicated 50A plasma cutter, it cuts roughly the same thickness but shares a power stage with the welder.\n\nExpect to buy an air compressor and dryer for cutting, and to learn that cutting and welding share consumables carefully. It is a creative pick for a small fabrication space, not a replacement for a dedicated cutter and welder. A 220V plasma cut also draws heavy current, so check the breaker size and cord before running it for long. Run a test bead before every new job.",
+   "bestFor": "Tight workshops that want cutting and welding in one cabinet.",
+   "pros": [
+    "Plasma cutter plus five welding modes",
+    "10 mm clean cut claim on 220V",
+    "60 percent duty claim for cutting",
+    "HF TIG start"
+   ],
+   "cons": [
+    "Each mode is a compromise",
+    "Plasma needs a separate compressor"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DP6KJ1SZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51so5QT+eML._SL500_.jpg"
+  },
+  {
+   "id": "B0H2YCP2XF",
+   "badge": "Best Value Dual Voltage",
+   "name": "BESTMIG 165S 4-in-1 MIG Welder 110V/220V Synergic",
+   "price": "",
+   "specs": [
+    "165A output",
+    "110V/220V",
+    "Gas and gasless",
+    "Synergic"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "165A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Processes",
+     "value": "Gas MIG, flux-core MIG, lift TIG, MMA stick"
+    },
+    {
+     "label": "Control",
+     "value": "Synergic with IGBT inverter"
+    },
+    {
+     "label": "Design",
+     "value": "4-in-1 multi-process"
+    }
+   ],
+   "description": "The BESTMIG 165S is a 165 amp, dual-voltage four-in-one with gas MIG, gasless flux-core, lift TIG and MMA stick, plus synergic control and an IGBT inverter. It is the most conventional budget combo in the group and the best value for a home garage.\n\nThe synergic mode makes setup easy on thin steel, while 220V input unlocks thicker plate. Lift TIG is basic DC TIG without high-frequency start, useful for light steel work. Compared with the BESTMIG 145A in this guide, the 165S has more output and a larger duty cycle on 220V.\n\nA budget feeder and torch will wear faster than a Lincoln's. Keep spare tips and liners and use quality wire. It is an economical first machine that gives the full range of processes. For thicker plate on 220V, run in two passes with proper joint prep rather than one hot pass, which gives better fusion at this output. Store it dry between jobs.",
+   "bestFor": "Home garages that want MIG, flux-core, stick and lift TIG at a modest price tier.",
+   "pros": [
+    "165A with 110V and 220V",
+    "Four processes in one",
+    "Synergic control",
+    "IGBT inverter efficiency"
+   ],
+   "cons": [
+    "Budget feeder and torch wear sooner",
+    "Lift TIG is basic"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H2YCP2XF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51hx-kouSrL._SL500_.jpg"
+  },
+  {
+   "id": "B0HMQTK81Z",
+   "badge": "Best Compact Combo",
+   "name": "BESTMIG 145A 4-in-1 MIG/TIG/MMA 110V/220V",
+   "price": "",
+   "specs": [
+    "145A output",
+    "110V/220V",
+    "Gas and gasless",
+    "4-in-1"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "145A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Processes",
+     "value": "Gas MIG, gasless MIG, lift TIG, stick"
+    },
+    {
+     "label": "Design",
+     "value": "Unitary MIG design"
+    },
+    {
+     "label": "Feeder",
+     "value": "Simple wire change"
+    }
+   ],
+   "description": "The BESTMIG 145A is the smaller sibling of the 165S, with 145 amps, dual voltage and the same four processes. The listing describes a unitary design and says it operates under various power conditions, plus easy wire changes.\n\nIt is lighter and cheaper than the 165S but gives up some output and duty cycle on 220V. For thin steel, sheet metal and bracket work, 145A is plenty, and the dual voltage means you can move to 220V later. Compared with the YESWELDER 135A below, it adds dual voltage and gas MIG.\n\nTreat the TIG as an occasional bonus rather than a primary process. Keep spare tips, and use proper polarity for each process. It is a sound small-shop starter. Mark the wire type and polarity on the case with tape so you never forget which process you last used. Confirm the warranty terms in writing.",
+   "bestFor": "Beginners who want a four-process machine in a compact size.",
+   "pros": [
+    "145A on 110V or 220V",
+    "Gas and gasless MIG",
+    "Lift TIG and stick",
+    "Easy wire change"
+   ],
+   "cons": [
+    "Lower output than the 165S",
+    "Lift TIG without HF start"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HMQTK81Z?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51ZGKK-25IL._SL500_.jpg"
+  },
+  {
+   "id": "B08CBBHFX5",
+   "badge": "Best Budget 3-in-1",
+   "name": "YESWELDER 135A Flux-Core MIG/Lift TIG/Stick 3-in-1",
+   "price": "",
+   "specs": [
+    "135A output",
+    "110V",
+    "3-in-1",
+    "Synergic"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "135A"
+    },
+    {
+     "label": "Input",
+     "value": "110V"
+    },
+    {
+     "label": "Processes",
+     "value": "Flux-core MIG, lift TIG, stick"
+    },
+    {
+     "label": "Control",
+     "value": "Synergic with clear display"
+    },
+    {
+     "label": "Setup",
+     "value": "Ready out of the box"
+    }
+   ],
+   "description": "The YESWELDER 135A is the lowest-cost multi-process machine here, a 110V three-in-one with flux-core MIG, lift TIG and stick. The listing highlights synergic control that matches settings to material to avoid burn-through, and a clear digital display.\n\nBecause it lacks gas MIG, it is a flux-core machine at heart, with stick and lift TIG as extras. That keeps the price low and setup simple. It is limited to a household outlet, so its reach is thinner than the dual-voltage BESTMIG units.\n\nUse it for gate and bracket repairs and learn on scrap. Keep spare tips and use quality wire. It suits the buyer who wants to try multiple processes at the lowest cost. A cheap helmet with a wide shade range suits switching between low-amp TIG and brighter flux-core. Learn one process well before the others.",
+   "bestFor": "Beginners who want flux-core, stick and lift TIG at the lowest price tier.",
+   "pros": [
+    "Lowest cost multi-process unit",
+    "Synergic control",
+    "Ready out of the box",
+    "Three processes"
+   ],
+   "cons": [
+    "110V only",
+    "No gas MIG mode"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B08CBBHFX5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pn11y7FbL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Which process you will use most",
+   "explanation": "A combo is a MIG welder with other modes, or a stick welder with other modes. The Lincoln POWER MIG 215 MPi and 220 are MIG machines first. The YESWELDER 135A is a flux-core and stick machine. Choose the primary process and treat the rest as backup, or you will pay for features you rarely use. Think about whether you could live with a stick-only second machine instead, since stick on a combo is rarely the limiting process."
+  },
+  {
+   "criterion": "TIG quality in a combo",
+   "explanation": "Most budget combos offer lift-start DC TIG, which scratches the tungsten to start the arc and risks contamination. The Lincoln POWER MIG 220 AC/DC adds AC for aluminum, and the FEMEROL offers HF TIG. If TIG matters, a dedicated TIG machine is a better buy than a combo. If you only ever TIG thin stainless, a DC TIG machine saves money and complexity."
+  },
+  {
+   "criterion": "Input voltage",
+   "explanation": "A 110V combo, such as the YESWELDER 135A, is limited to thin to medium steel. Dual-voltage units like the BESTMIG 165S and Lincoln models double their reach on 220V or 230V. Plan for 230V if you want to weld 1/4 inch plate. The 120V mode on a dual voltage welder is a convenience, not an equal to 230V output."
+  },
+  {
+   "criterion": "Feeder and torch quality",
+   "explanation": "The wire feeder is the most common failure point on budget combos. A Lincoln feeder has better drive rolls, tensioners and liners than a budget one. Cheap torches wear quickly, so budget for spare tips and nozzles. Ask the seller where replacement drive rolls and liners can be bought before you commit."
+  },
+  {
+   "criterion": "Duty cycle across modes",
+   "explanation": "Duty cycle varies by process and voltage. A machine may be 60 percent at 100A and 20 percent at maximum. The FEMEROL claims 60 percent on the cutter. Always check the rating at the amperage you will actually use. On any combo, the lower the amperage you weld at, the longer you can run before the thermal cutout trips."
+  },
+  {
+   "criterion": "Accessories and gas",
+   "explanation": "A combo needs different consumables for each process: contact tips, TIG tungstens, stick rods and perhaps a plasma torch. Add a regulator, gas cylinder and wire. The more processes, the more things to stock. Keep a small box for each process so consumables do not get mixed up."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "N-in-1",
+   "meaning": "The number of welding modes the machine claims. It counts variations such as gas and gasless MIG separately. Always find out which mode the figure applies to.",
+   "watchFor": "The 4-in-1 BESTMIG and 6-in-1 FEMEROL count similar modes differently."
+  },
+  {
+   "spec": "Lift TIG",
+   "meaning": "A TIG start method where you touch the tungsten to the work and lift it to start the arc. It is basic but works. HF start avoids tungsten contamination.",
+   "watchFor": "High-frequency start is cleaner and avoids tungsten contamination."
+  },
+  {
+   "spec": "Synergic",
+   "meaning": "A mode that sets voltage and wire speed from material thickness. It is a starting point, not a finished weld.",
+   "watchFor": "Manual override remains important for fine tuning."
+  },
+  {
+   "spec": "Duty cycle",
+   "meaning": "The percentage of ten minutes a machine can weld at a stated current. Higher is better only at your amperage.",
+   "watchFor": "The FEMEROL's 60 percent claim applies to cutting at 220V."
+  },
+  {
+   "spec": "Clean cut vs severance",
+   "meaning": "Clean cut is the thickness a plasma cuts with a good edge, severance is the thickest it can cut roughly. Bigger severance claims do not mean a usable edge.",
+   "watchFor": "The FEMEROL claims 10 mm clean and 16 mm severance."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Process range",
+   "description": "We counted the real processes each machine runs, from three on the YESWELDER to six on the FEMEROL, and noted which are primary. Combos were not penalised for being a compromise, only for hiding it."
+  },
+  {
+   "title": "Voltage and output",
+   "description": "We compared input voltages, from 110V only to 120V/230V Lincoln units. Process count was treated as a feature only when each mode was actually usable."
+  },
+  {
+   "title": "Support and feeder",
+   "description": "We weighed brand support and feeder design, because the feeder is the most common failure. Higher-voltage capability was considered a significant plus."
+  },
+  {
+   "title": "TIG capability",
+   "description": "We looked at whether TIG is lift-start, HF or AC, since that decides whether the TIG mode is a toy or a tool. Duty cycle statements were taken from listings where available."
+  },
+  {
+   "title": "Evidence base",
+   "description": "This is based on spec sheets and owner feedback patterns, not our own welding time. Capacity numbers are claims. Brand support is a durable advantage over price."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Process",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "MIG first, DC TIG backup",
+      "Lincoln POWER MIG 215 MPi",
+      "Real MIG feeder"
+     ],
+     [
+      "MIG first, aluminum TIG too",
+      "Lincoln POWER MIG 220 AC/DC",
+      "AC TIG"
+     ],
+     [
+      "Cutting and welding in one",
+      "FEMEROL 6-in-1",
+      "Plasma included"
+     ],
+     [
+      "Home garage MIG and stick",
+      "BESTMIG 165S",
+      "165A dual voltage"
+     ],
+     [
+      "Beginner flux-core and stick",
+      "YESWELDER 135A",
+      "Lowest cost"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "YESWELDER 135A",
+      "Cheapest tier"
+     ],
+     [
+      "Low",
+      "BESTMIG 145A",
+      "Dual voltage"
+     ],
+     [
+      "Lower middle",
+      "BESTMIG 165S",
+      "More output"
+     ],
+     [
+      "Middle",
+      "FEMEROL 6-in-1",
+      "Plasma included"
+     ],
+     [
+      "Upper",
+      "Lincoln POWER MIG 215 MPi",
+      "Brand-name MIG"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Combo vs Dedicated Machines",
+   "cards": [
+    {
+     "label": "Combo",
+     "text": "One box saves space and money. The BESTMIG and FEMEROL give several processes, each at a compromise."
+    },
+    {
+     "label": "Dedicated",
+     "text": "Separate MIG, stick and TIG machines each do one thing well, but take more room and cost more together."
+    }
+   ],
+   "note": "Choose a combo for a small space and a dedicated pair if one process dominates."
+  },
+  {
+   "subheading": "110V vs Dual Voltage",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "110V only",
+      "YESWELDER 135A",
+      "Simple plug-in"
+     ],
+     [
+      "Dual voltage budget",
+      "BESTMIG 145A",
+      "110V and 220V"
+     ],
+     [
+      "Dual voltage, more output",
+      "BESTMIG 165S",
+      "165A"
+     ],
+     [
+      "Pro dual voltage",
+      "Lincoln POWER MIG 215 MPi",
+      "120V and 230V"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Aluminum and Stainless Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "AC TIG for aluminum, or a spool gun and pulse MIG. DC TIG covers stainless and steel."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Lincoln POWER MIG 220 AC/DC is the one with AC TIG. The 215 MPi covers stainless with DC TIG."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want parts support and a real MIG feeder. The Lincoln machines are the buy."
+    },
+    {
+     "label": "Save if",
+     "text": "You want to try processes and weld occasionally. The BESTMIG or YESWELDER do it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace contact tips",
+   "interval": "Every few spools",
+   "why": "Worn tips cause erratic arcs. Keep spares for each process. Record what you used last."
+  },
+  {
+   "task": "Check polarity per process",
+   "interval": "Each process change",
+   "why": "Flux-core needs electrode negative, gas MIG electrode positive, and TIG the opposite. Mismatch leads to porosity. Tighten fittings."
+  },
+  {
+   "task": "Clean liner and drive rolls",
+   "interval": "Each spool change",
+   "why": "Debris stops wire feed. Blow it out with air. Replace as needed."
+  },
+  {
+   "task": "Inspect plasma consumables",
+   "interval": "Each session",
+   "why": "A worn tip or electrode ruins cuts. Replace tips before they fail. Clean daily."
+  },
+  {
+   "task": "Blow out the case",
+   "interval": "Every 6 months",
+   "why": "Dust overheats inverters. Keep the case vents clear. Check monthly."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are multi-process welders worth it?",
+   "a": "For a small space, yes. You get several capabilities for the price of one. Each mode is a compromise compared with a dedicated machine. Choose by the process you will use at least three times as often as the others."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "The YESWELDER and BESTMIG units sit at the low end, the FEMEROL in the middle and the Lincoln machines at the top. Spend more for support. Add a good helmet and gloves to your budget."
+  },
+  {
+   "q": "How long do they last?",
+   "a": "Many years with care. The feeder and torch wear first, so keep spares. A used dedicated machine can be a better buy than a new combo."
+  },
+  {
+   "q": "Is the TIG mode good?",
+   "a": "On budget combos it is basic lift-start DC TIG. For serious TIG, buy a dedicated machine. A spool gun or push-pull torch is the usual route to aluminum MIG."
+  },
+  {
+   "q": "Do I need a compressor for the plasma?",
+   "a": "Yes. A plasma cutter needs clean, dry air at stable pressure. Keep the compressor dry so consumables last."
+  },
+  {
+   "q": "Can I weld aluminum with a combo?",
+   "a": "The Lincoln POWER MIG 220 AC/DC can with AC TIG. Most budget combos cannot. Plan for a 230V outlet if you ever expect to do heavy work."
+  }
+ ],
+ "relatedGuides": []
+}

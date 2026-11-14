@@ -1,0 +1,441 @@
+{
+ "guideSlug": "best-hobot-window-cleaning-robots",
+ "categorySlug": "home-machines",
+ "mainKeyword": "HOBOT window cleaning robot",
+ "guideTitle": "Best HOBOT Window Cleaning Robots (2026)",
+ "metaTitle": "Best HOBOT Window Cleaning Robots in 2026",
+ "metaDescription": "Three HOBOT window cleaning robots compared: the SP10 iScraper, the 2S and the 298, covering spray design, cloth size, control and honest limits.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The HOBOT-2S is the pick for most homes because its ultrasonic mist and large cloth suit everyday window cleaning. The SP10 iScraper is the choice for grimy glass that needs scraping as well as wiping, and anyone with frameless or high exterior glass should treat edge and safety claims with caution. Buy a spare cloth set with whichever you choose.",
+ "introParagraphs": [
+  "Window cleaning robots differ most in how they wet the glass. Some mist it, some spray it hard and some add a scraper blade, and each approach suits a different kind of dirt, from daily dust to dried-on rain spots and pollen.",
+  "A single maker's range shows the contrast clearly. The question is whether your glass needs a gentle damp wipe or a three-stage attack, and how much you trust the machine to hold on while it works."
+ ],
+ "products": [
+  {
+   "id": "B097CM7P9L",
+   "badge": "Best Overall",
+   "name": "HOBOT-2S with ultrasonic water spray",
+   "specs": [
+    "Ultrasonic mist",
+    "AI route planning",
+    "9.5 inch cloth",
+    "Position memory"
+   ],
+   "specList": [
+    {
+     "label": "Wetting",
+     "value": "Ultrasonic spray nebulises water into a dense mist"
+    },
+    {
+     "label": "Cloth",
+     "value": "Large 9.5 by 9.5 inch cleaning cloth"
+    },
+    {
+     "label": "Navigation",
+     "value": "AI smart route planning"
+    },
+    {
+     "label": "Safety",
+     "value": "Auto-adjustable pneumatic pad controls driving force"
+    },
+    {
+     "label": "Memory",
+     "value": "Position memory for stopping and resuming"
+    }
+   ],
+   "description": "Mist is the 2S's signature. An ultrasonic nozzle breaks water into a fine fog instead of a stream, which wets the cloth evenly and wastes less water than a jet. That suits everyday glass, where the job is to lift dust and fingerprints rather than blast off baked grime. A big 9.5 inch cloth with extended corner coverage reaches closer to the frame than a small round pad would.\n\nAI route planning and position memory handle the logistics, so the robot knows where it has been and can resume after a stop. An auto-adjustable pneumatic pad modulates the driving force against the glass, a design aimed at keeping the grip steady as the robot moves over the surface. Compared with the SP10 it is gentler and simpler, and it does not scrape.\n\nThe usual honest limits apply to every robot of this type. Glass must be dry and the weather calm, and frameless edge detection is marketed more than it is proven. Always tether the robot to a fixed indoor anchor with its rope. Wash the cloth after each session, wipe the suction rim and sensors and keep the water tank clean so the ultrasonic nozzle does not scale up.",
+   "bestFor": "Everyday cleaning of framed interior and exterior glass.",
+   "pros": [
+    "Ultrasonic mist wets the glass evenly with little water",
+    "Large cloth reaches closer to the frame",
+    "Position memory resumes after a stop",
+    "Pneumatic pad controls driving force"
+   ],
+   "cons": [
+    "Does not scrape dried-on grime",
+    "Frameless edge detection is not independently proven",
+    "Rope and backup battery details need confirming"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B097CM7P9L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41194hVHpCL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GCFH2RJ8",
+   "badge": "Best for Grimy Glass",
+   "name": "HOBOT-SP10 iScraper with spray-sweep-scrape",
+   "specs": [
+    "Spray-sweep-scrape",
+    "6,000 Pa suction",
+    "App and remote",
+    "Dual wide nozzles"
+   ],
+   "specList": [
+    {
+     "label": "Process",
+     "value": "Spray water, sweep with a cloth, scrape with a blade"
+    },
+    {
+     "label": "Suction",
+     "value": "6,000 Pa listed"
+    },
+    {
+     "label": "Control",
+     "value": "App plus remote control"
+    },
+    {
+     "label": "Spray",
+     "value": "Dual nozzles for ultra-wide pressurised spray"
+    },
+    {
+     "label": "Glass type",
+     "value": "Listing says framed and frameless"
+    }
+   ],
+   "description": "The SP10 adds a third step to the usual two. It sprays water through twin nozzles, sweeps with a cloth and then scrapes with a blade, a sequence aimed at pollen film, dried rain spots and the speckled residue that a damp cloth alone smears. Dual nozzles with a wide pressurised spray are said to resist wind, which matters for open exterior glass.\n\nThe listing mentions a high surface tension material that lifts the leading edge as the robot moves sideways, a design for crossing small frame ridges. Control comes from both an app and a remote, so you can steer from a distance. Against the 2S it is the harder-working machine, and the extra mechanism means more parts to keep clean. Think of it as the robot to buy when the previous attempt with a damp cloth left a gritty haze, because the blade changes what is physically removed rather than just how wet the pad is.\n\nThe listing says it handles framed and frameless glass, but independent evidence on frameless edges is thin, so watch the first pass and keep the rope on. Scrape blades should be replaced when nicked, since a dull blade smears and a chipped one can mark the pane. Wash the cloth, rinse the tank and wipe the sensors. Check what the box includes by way of rope and a backup battery before relying on it.",
+   "bestFor": "Glass with pollen film, rain spots and stubborn residue.",
+   "pros": [
+    "Three-stage spray, sweep and scrape process",
+    "Dual wide nozzles resist wind drift",
+    "App and remote control give two ways to steer",
+    "Listing covers framed and frameless glass"
+   ],
+   "cons": [
+    "Scrape blade is another wear part to check",
+    "Frameless edge claims remain unproven",
+    "More mechanism to clean than a simple cloth robot"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GCFH2RJ8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51IRKXkZIpL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07LF4HZ6C",
+   "badge": "Best Value Classic",
+   "name": "HOBOT-298 with ultrasonic spray and extension cord",
+   "specs": [
+    "Ultrasonic mist",
+    "9.5 inch cloth",
+    "Extension cord included",
+    "AI route planning"
+   ],
+   "specList": [
+    {
+     "label": "Wetting",
+     "value": "Ultrasonic spray nebulises water into a mist"
+    },
+    {
+     "label": "Cloth",
+     "value": "Large 9.5 by 9.5 inch cleaning cloth"
+    },
+    {
+     "label": "Power",
+     "value": "Long power cord with included extension"
+    },
+    {
+     "label": "Navigation",
+     "value": "AI smart route planning"
+    },
+    {
+     "label": "Safety",
+     "value": "Auto-adjustable pneumatic pad"
+    }
+   ],
+   "description": "The 298 is the older sibling of the 2S and shares its core: ultrasonic mist, a large 9.5 inch cloth and AI route planning. What the listing highlights is the long power cord with an included extension, which matters on big picture windows where a short lead would run out before the robot reached the far corner. It is the least costly machine in the lineup.\n\nCompared with the 2S it is the earlier generation, so the finer details of the pneumatic pad and navigation may differ, and we would not claim the two perform alike. For a household with a few windows and no need for scraping, that may not matter. Against the SP10 it is a gentler, simpler tool. It also makes a sensible spare for a second property, since the basic operation is the same and the learning curve is short.\n\nThe same limits apply: dry glass, calm weather and a rope on a fixed anchor. Frameless edges remain unproven for every window robot. Wash the cloth after each session and keep the tank clean so the mist nozzle does not clog. Run the cord loosely so it does not drag across the pane, and check the box for a rope and a backup battery.",
+   "bestFor": "Large picture windows where a long cord helps and cost matters.",
+   "pros": [
+    "Long power cord with included extension",
+    "Ultrasonic mist uses little water",
+    "Large cloth reaches toward the frame",
+    "Lowest cost in the lineup"
+   ],
+   "cons": [
+    "Earlier generation than the 2S",
+    "No scraping mechanism",
+    "Rope and backup battery details need confirming"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07LF4HZ6C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41JakgiF+uS._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "How the glass gets wet",
+   "explanation": "The HOBOT-2S and 298 use ultrasonic mist, which wets the cloth evenly with little water, while the SP10 sprays through twin nozzles and adds a scraper. Mist suits dust and fingerprints and the scraper suits dried residue. Match the method to your dirt, because a gentle mist will not lift baked-on pollen film. Nothing replaces pre-wiping a heavily soiled pane. In practice most owners find that mist handles ninety percent of what lands on glass between seasons, and that the other ten percent is bird droppings or sap that no robot lifts well. Treat those spots by hand first and let the robot do the rest. A small plastic scraper and a spray bottle are worth keeping in the cupboard anyway."
+  },
+  {
+   "criterion": "Cloth size and corner reach",
+   "explanation": "The 2S and 298 list a 9.5 by 9.5 inch cloth with extended corner coverage, a big pad for the category. A larger pad covers more per pass but is harder to swing into a corner. Square pads leave small gaps at the edges either way. Expect to finish corners by hand and plan for two minutes of that per window. If you clean the same window every month, the margin never gets thick, and a quick wipe is enough. If you clean twice a year, the margin builds into a visible frame of dust, and the robot cannot touch it. That is a reason to run the machine more often than you think necessary."
+  },
+  {
+   "criterion": "Control method",
+   "explanation": "The SP10 offers an app and a remote, while the 2S and 298 are driven by their own controls. A remote lets you steer a stuck robot without climbing a ladder. An app adds a dependency on a phone and a signal. Choose the control style you will actually use at the window. A remote is more than a convenience when the robot stalls on a ridge or drifts toward an edge you do not trust. Being able to stop it instantly from across the room is a safety feature as much as a steering one. Keep the batteries in the remote fresh and keep it where you can reach it."
+  },
+  {
+   "criterion": "Power cord length",
+   "explanation": "These robots are corded, so reach is set by the lead plus any extension. The 298 includes an extension, and a big window needs one. A cord pulled taut drags the robot off course. Measure the longest run from the nearest outlet before you buy. Never join two household extension cords to add length, because the join is the weak point and can arc in damp conditions. Use the lead that the maker supplies, plus the one extension designed for it, and route the cable so it hangs loose rather than pulling against the robot."
+  },
+  {
+   "criterion": "Grip and safety design",
+   "explanation": "The 2S and 298 describe an auto-adjustable pneumatic pad that controls driving force, and the SP10 lists 6,000 Pa of suction. Both are maker claims about holding the robot against the glass. Neither replaces a safety rope. Always tether to a fixed anchor indoors and check for a backup battery. Learn what the robot does when it senses a power drop or loses grip before you ever put it on a window above head height. Test it low on a ground-floor pane with the rope attached, and listen for the alarm. That rehearsal tells you more than the specification does."
+  },
+  {
+   "criterion": "Frameless glass",
+   "explanation": "The SP10 listing says it handles frameless as well as framed glass. Frameless panes have no rim for sensors to read, and independent evidence on edge detection there is thin. Watch the first pass on any frameless window and keep the rope short. Treat the claim as unproven. If your frameless glass is a balustrade or a shower screen, a fall could mean a drop or a broken pane, so the stakes are higher than on an ordinary window. Keep the robot on framed panes until you have watched it run on the frameless ones several times with the rope in place."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Ultrasonic spray",
+   "meaning": "A vibrating element that turns water into a fine mist. It wets the cloth evenly while using little water.",
+   "watchFor": "The HOBOT-2S and 298 use it, and the SP10 uses nozzles instead."
+  },
+  {
+   "spec": "Spray-sweep-scrape",
+   "meaning": "A three-stage process of wetting, wiping and scraping with a blade. The blade lifts dried residue a cloth smears.",
+   "watchFor": "The SP10 uses it, so inspect the blade."
+  },
+  {
+   "spec": "Pa suction",
+   "meaning": "The pressure the fan holds against the glass. A higher number means a firmer grip, but it does not replace a rope.",
+   "watchFor": "The SP10 lists 6,000 Pa."
+  },
+  {
+   "spec": "Pneumatic pad",
+   "meaning": "A pad that adjusts its pressure on the glass automatically. It aims to keep driving force steady across the pane.",
+   "watchFor": "The 2S and 298 list one."
+  },
+  {
+   "spec": "Position memory",
+   "meaning": "The robot remembers where it stopped and resumes from there. It saves repeat passes after an interruption, which matters on large panes where a stop would otherwise restart the whole route.",
+   "watchFor": "The 2S lists it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Wetting method",
+   "description": "We compared ultrasonic mist on the 2S and 298 with the SP10's twin nozzles and scraper. We matched each to the kind of dirt it suits. We treated mist and spray as complementary. We also asked which dirt types each approach cannot handle."
+  },
+  {
+   "title": "Cloth and corner reach",
+   "description": "We compared the 9.5 inch cloth with other pad types. We noted that square pads always leave a margin. We kept the hand-finish step in mind. We noted that every square pad leaves a margin and treated that as a given."
+  },
+  {
+   "title": "Control and cord",
+   "description": "We compared the app and remote on the SP10 with the plain controls elsewhere. We checked cord length and the 298 extension. We considered window size. We considered whether a remote improves safety as well as convenience."
+  },
+  {
+   "title": "Grip and safety claims",
+   "description": "We read the pneumatic pad and suction wording as the maker's. We reminded ourselves that a rope is the real backstop. We looked for a backup battery in each listing. We kept in mind that a taut cord changes the route a robot can take."
+  },
+  {
+   "title": "Ownership",
+   "description": "We counted cloth washing, scraper blades and tank cleaning as real chores. Hobot's stated cleaning paths and battery backup, compared with what owners mention, are the basis here. Spare cloths and blades counted for value. We counted the cost of spare cloths and blades across a few years of ownership."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Type of Dirt",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Dust and fingerprints",
+      "HOBOT-2S",
+      "Ultrasonic mist and a large cloth"
+     ],
+     [
+      "Pollen film and rain spots",
+      "HOBOT-SP10",
+      "Spray, sweep and scrape"
+     ],
+     [
+      "Mixed light dirt on big windows",
+      "HOBOT-298",
+      "Mist and an included extension cord"
+     ],
+     [
+      "Wind on open exterior glass",
+      "HOBOT-SP10",
+      "Dual wide nozzles"
+     ],
+     [
+      "Interior glass only",
+      "HOBOT-2S",
+      "Gentle mist and simple use"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in the lineup",
+      "HOBOT-298",
+      "Older but capable core"
+     ],
+     [
+      "Middle",
+      "HOBOT-2S",
+      "Newer mist and navigation"
+     ],
+     [
+      "Top",
+      "HOBOT-SP10",
+      "Scraper plus app and remote"
+     ]
+    ]
+   },
+   "note": "Prices move, so check the listing before you decide."
+  },
+  {
+   "subheading": "Mist vs Spray and Scrape",
+   "cards": [
+    {
+     "label": "Mist (HOBOT-2S, 298)",
+     "text": "Wets evenly with little water and suits regular cleaning. It will not lift baked-on residue. Best for homes that clean often."
+    },
+    {
+     "label": "Spray and scrape (HOBOT-SP10)",
+     "text": "A blade lifts dried film that cloths smear. It adds a part to maintain. Best for neglected or exterior glass."
+    }
+   ],
+   "note": "Clean often, pick mist. Clean rarely, pick the scraper."
+  },
+  {
+   "subheading": "By Window Size",
+   "table": {
+    "headers": [
+     "Window",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large picture window",
+      "HOBOT-298",
+      "Long cord with extension"
+     ],
+     [
+      "Standard sash windows",
+      "HOBOT-2S",
+      "Large cloth and position memory"
+     ],
+     [
+      "Tall exterior pane",
+      "HOBOT-SP10",
+      "Remote lets you steer from a distance"
+     ],
+     [
+      "Small bathroom window",
+      "HOBOT-2S",
+      "Simple and quick"
+     ],
+     [
+      "Glass with heavy residue",
+      "HOBOT-SP10",
+      "Scraper blade"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Frameless and Exterior Glass Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a rope in the box, a backup battery and a maker that admits what its edge sensors cannot do. Frameless edge claims are unproven, so watch the first pass. Use calm, dry weather only."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The SP10 lists frameless support and a remote, which helps if you must steer. None of the three gives proof of reliable frameless edges."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your glass collects pollen film or sits outdoors. The SP10 scrapes and has a remote. The 2S gives better navigation and a newer mist system."
+    },
+    {
+     "label": "Save if",
+     "text": "Your windows are clean and indoors. The 298 handles that, and the savings buy spare cloths."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash the cleaning cloth",
+   "interval": "After each session",
+   "why": "Dirty cloths smear the next pane. A clean cloth leaves fewer streaks. A mild washing-up liquid and a gentle rinse is enough; avoid fabric softener, which leaves a film on glass."
+  },
+  {
+   "task": "Clean the tank and mist nozzle",
+   "interval": "Monthly",
+   "why": "Hard water scales an ultrasonic element. A vinegar rinse keeps it misting evenly, and a spare nozzle is cheap if scale ever wins. Descaling every month or two is worth the five minutes."
+  },
+  {
+   "task": "Inspect the scraper blade",
+   "interval": "Every few sessions (SP10)",
+   "why": "A nicked blade can mark glass. Replace it when it chips. Keep a spare blade in the drawer so a chip never stops a cleaning day."
+  },
+  {
+   "task": "Wipe the suction rim and sensors",
+   "interval": "Every few sessions",
+   "why": "Dust loosens the grip and film blurs sensors. A damp cloth restores both. A cotton bud clears the corners of the sensor windows."
+  },
+  {
+   "task": "Check the safety rope and anchor",
+   "interval": "Before each session",
+   "why": "A frayed rope or loose anchor defeats the purpose. It takes seconds to check, and the habit is the single best safety measure on this list. Replace the rope if it is frayed, stiff or has been out in the sun for a season."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which HOBOT is best for most homes?",
+   "a": "The HOBOT-2S suits most homes with its mist and large cloth. Choose the SP10 for grimy or exterior glass, where a blade does real work. The 298 is the lower-cost option. Buy a spare cloth set at the same time, since a clean cloth is what keeps the glass streak-free between sessions."
+  },
+  {
+   "q": "Is ultrasonic mist better than spray?",
+   "a": "It wets evenly with little water, which suits regular cleaning. A spray with a scraper handles dried residue better. They solve different problems. If you are unsure, start with the mist machine and add the scraper later if the glass proves stubborn."
+  },
+  {
+   "q": "Does it work on frameless glass?",
+   "a": "The SP10 listing says it does, but edge detection on frameless panes is not independently proven. Watch the first pass and keep a rope attached. Frameless balustrades and shower screens deserve extra caution, because a fall there is more serious than from a standard window."
+  },
+  {
+   "q": "Do I need the remote or app?",
+   "a": "No, but it helps on tall or awkward windows. The SP10 offers both. The others use their own controls. A remote is also a useful way to stop the robot at once if it drifts toward an edge you do not trust."
+  },
+  {
+   "q": "Can it clean in the rain?",
+   "a": "No. Glass must be dry and calm. Wet or humid glass reduces grip. If rain is forecast, postpone, and let the glass dry fully, including the frame, before the next session."
+  },
+  {
+   "q": "Is it safe on high windows?",
+   "a": "Only with a safety rope on a fixed anchor and calm weather. Suction is not a safety guarantee. Check building rules for upper floors. Upper-floor use also raises insurance and building-rule questions, so ask before you commit to it."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41194hVHpCL._SL500_.jpg"
+}

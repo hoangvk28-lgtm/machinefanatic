@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-plasma-cutters",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "plasma cutters",
+ "guideTitle": "Best Plasma Cutters (2026)",
+ "metaTitle": "Best Plasma Cutters in 2026",
+ "metaDescription": "Six 50 to 65 amp plasma cutters compared on clean cut thickness, pilot arc type, dual voltage, air needs and consumable costs for home and shop use.",
+ "lastUpdated": "2026-11-12",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/51cupDUi08L._SL500_.jpg",
+ "expertTake": "The ARCCAPTAIN 60A Non-HF is the best pick because its blowback pilot arc avoids the electrical interference of HF starts while still cutting 3/4 inch cleanly. The Bestarc 50A is the value pick for sheet and plate up to 1/2 inch. Anyone who needs to cut thick plate daily should skip this class and look at a 80A or higher industrial plasma.",
+ "introParagraphs": [
+  "A plasma cutter pushes compressed air through a small nozzle while an electric arc heats it into plasma hot enough to melt through steel. It is much faster than a torch, leaves a narrow kerf and cuts rusty, painted or galvanized metal with little prep. For home fabricators it is one of the biggest upgrades over an angle grinder.",
+  "The numbers that matter are not obvious on the box. A machine's clean cut thickness is much less than its maximum cut, the pilot arc type decides whether it can cut dirty metal, and the compressor you must supply matters as much as the cutter. Consumables wear out and are a running cost."
+ ],
+ "products": [
+  {
+   "id": "B0FWQ44Z9S",
+   "badge": "Best Overall",
+   "name": "ARCCAPTAIN 60A Non-HF Plasma Cutter, Blowback Pilot Arc",
+   "price": "",
+   "specs": [
+    "60A output",
+    "110V/220V",
+    "Non-HF blowback",
+    "3/4 in clean cut"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "60A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Pilot arc",
+     "value": "Non-HF blowback start"
+    },
+    {
+     "label": "Clean cut",
+     "value": "3/4 in"
+    },
+    {
+     "label": "Max cut",
+     "value": "1-1/16 in"
+    }
+   ],
+   "description": "The ARCCAPTAIN 60A Non-HF uses a blowback pilot arc rather than a high-frequency start. The listing says this removes the electromagnetic interference common in HF machines and keeps nearby electronics safe. It cuts 3/4 inch clean and 1-1/16 inch at maximum, and offers four cut modes: plate cutting, expanded metal, rust and paint removal and gouging.\n\nA non-HF start matters in a shop with a CNC table, computers or other electronics, since HF can disrupt them. Blowback starts use air pressure to separate the electrode from the nozzle, which strikes the arc without a spark gap. It is a more modern design that is gentler on nearby gear.\n\nThe 60A rating on 220V gives more reach than the 50A units. On 110V the output falls, so expect less thickness. Compared with the 55A ARCCAPTAIN, it adds clean cut thickness and the non-HF start. You will need a compressor that delivers steady, dry air. Keep the torch perpendicular to the plate and drag at a steady speed, since a slanted cut usually means the speed is wrong, not the machine.",
+   "bestFor": "Shops with electronics or a CNC table that want a non-HF pilot arc.",
+   "pros": [
+    "Non-HF blowback start avoids interference",
+    "3/4 in clean cut, 1-1/16 in max",
+    "Four cut modes including gouging",
+    "110V and 220V input"
+   ],
+   "cons": [
+    "Output drops on 110V",
+    "Needs a compressor and clean dry air"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FWQ44Z9S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51cupDUi08L._SL500_.jpg"
+  },
+  {
+   "id": "B0DBHKBBH3",
+   "badge": "Best Mid-Size Value",
+   "name": "YESWELDER CUT-50DS PRO 50A Plasma Cutter, 110/220V",
+   "price": "",
+   "specs": [
+    "50A output",
+    "110V/220V",
+    "1/2 in clean cut",
+    "PT 2T 4T"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "20 to 50A"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/4 in at 110V, 1/2 in at 220V"
+    },
+    {
+     "label": "Modes",
+     "value": "PT, 2T and 4T"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Control",
+     "value": "Digital display"
+    }
+   ],
+   "description": "The CUT-50DS PRO states its cutting capacity at each voltage, which is how every listing should read: 1/4 inch clean cut at 110V and 1/2 inch at 220V, with an adjustable 20 to 50A output. The PT mode controls post-flow cooling time, which protects the torch head, and 2T and 4T modes switch between hold-trigger and latch cutting.\n\nThat voltage split is the practical truth about plasma cutters: on household power you get half the capability. For sheet metal up to 1/4 inch the machine works on a regular outlet, while 1/2 inch plate needs 220V. Compared with the Bestarc 50A, the numbers are the same but the YESWELDER lists them more clearly.\n\nThe 4T latch mode saves your finger on long cuts. Use clean, dry air at the right pressure, and expect to replace tips and electrodes as consumables. It is a straightforward machine for general fabrication. To cut thicker steel, lower your travel speed and watch the sparks exit the bottom of the plate, which tells you the arc is going all the way through.",
+   "bestFor": "Home and small-shop cutting of sheet and plate up to 1/2 inch.",
+   "pros": [
+    "Clear clean-cut ratings at each voltage",
+    "PT, 2T and 4T modes",
+    "20 to 50A adjustable output",
+    "Digital display"
+   ],
+   "cons": [
+    "Only 1/4 in clean cut on 110V",
+    "HF start may interfere with electronics"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DBHKBBH3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41E0DH7ajoL._SL500_.jpg"
+  },
+  {
+   "id": "B0D1TP5TTR",
+   "badge": "Best Duty Cycle",
+   "name": "ARCCAPTAIN 55A Plasma Cutter Non-Touch Pilot Arc, 120V/240V",
+   "price": "",
+   "specs": [
+    "55A output",
+    "120V/240V",
+    "60% duty",
+    "3/4 in max"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "55A"
+    },
+    {
+     "label": "Input",
+     "value": "120V or 240V"
+    },
+    {
+     "label": "Duty cycle",
+     "value": "60 percent"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/2 in"
+    },
+    {
+     "label": "Max cut",
+     "value": "3/4 in"
+    }
+   ],
+   "description": "The ARCCAPTAIN 55A claims a 60 percent duty cycle, which is high for a budget plasma cutter, plus a non-touch HF pilot arc, 2T and 4T modes and 1/2 inch clean cut with 3/4 inch maximum. A non-touch pilot arc lets you cut over rust, paint and expanded metal without making contact first.\n\nDuty cycle matters for production work. A 60 percent rating means six minutes of cutting in a ten-minute window at rated current, so you can cut a long list of parts without waiting. That is better than the 40 percent typical of cheap units. Compared with the 50A units here, it adds a little capacity and endurance.\n\nIt has the HF start, so keep it away from sensitive electronics. Use steady air and keep consumables in stock. It is a solid choice for someone who cuts many parts in a session. A latch mode is a small luxury that makes long straight cuts with a guide much more comfortable.",
+   "bestFor": "Fabricators who cut many parts per session and want a high duty cycle.",
+   "pros": [
+    "60 percent duty cycle claim",
+    "Non-touch HF pilot arc",
+    "1/2 in clean cut, 3/4 in max",
+    "2T and 4T modes"
+   ],
+   "cons": [
+    "HF start can disturb electronics",
+    "Needs steady dry compressed air"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D1TP5TTR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51qPRvquqwL._SL500_.jpg"
+  },
+  {
+   "id": "B0FWJZ17ZY",
+   "badge": "Best Smart Controls",
+   "name": "ARCCAPTAIN iControl CUT60 Pro 60A Plasma Cutter, APP Control",
+   "price": "",
+   "specs": [
+    "60A output",
+    "120V/240V",
+    "5/8 in clean cut",
+    "APP control"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "60A"
+    },
+    {
+     "label": "Input",
+     "value": "120V or 240V"
+    },
+    {
+     "label": "Clean cut",
+     "value": "5/8 in"
+    },
+    {
+     "label": "Max cut",
+     "value": "15/16 in"
+    },
+    {
+     "label": "Control",
+     "value": "APP within 10 m, 3rd-gen MCU"
+    }
+   ],
+   "description": "The iControl CUT60 Pro lists 5/8 inch clean cut and 15/16 inch maximum, with a third-generation MCU and a phone app that adjusts settings and monitors live data from up to 10 metres. The app is a convenience for setting amperage while you are lined up at the workpiece.\n\nIts capacity falls between the 55A and the 60A Non-HF units. The listing also mentions rust removal functionality, which is one of the modes found on this newer ARCCAPTAIN generation. Compared with the 60A Non-HF, it has an HF start rather than blowback, but adds app control.\n\nTreat the app as a nice extra, not a reason to buy. The cutter itself is what matters: use dry air at proper pressure, check the torch consumables and keep the work clamp clean. It is a good choice for someone who likes digital control. The app adds convenience when you are clamped in a corner, but keep the physical controls as your main way of working.",
+   "bestFor": "Fabricators who want phone control and a 5/8 in clean cut.",
+   "pros": [
+    "5/8 in clean cut, 15/16 in max",
+    "APP control within 10 m",
+    "Third-generation MCU",
+    "120V and 240V input"
+   ],
+   "cons": [
+    "App is a convenience, not a necessity",
+    "HF start rather than blowback"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FWJZ17ZY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51S76NEO2JL._SL500_.jpg"
+  },
+  {
+   "id": "B0G119GKTK",
+   "badge": "Best Multi-Function",
+   "name": "YESWELDER CUT-65DS PLUS 65A 4-in-1 Non-HF Pilot Arc",
+   "price": "",
+   "specs": [
+    "65A output",
+    "110/220V",
+    "Non-HF pilot",
+    "Plate, grid, gouge, mark"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "65A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Pilot arc",
+     "value": "Non-HF pilot arc"
+    },
+    {
+     "label": "Functions",
+     "value": "Plate cutting, grid cutting, gouging, marking"
+    },
+    {
+     "label": "Range",
+     "value": "Deeper cuts than 50A units"
+    }
+   ],
+   "description": "The CUT-65DS PLUS offers 65 amps, a non-HF pilot arc and four functions: plate cutting, grid cutting, gouging and marking. Gouging removes weld metal for repairs, and marking lightly scribes layout lines. Those functions make it more of a fabrication tool than a pure cutter.\n\nThe 65A rating gives deeper cuts than the 50A and 55A units, though the listing text we have does not give clean-cut thickness, so check it. A non-HF start keeps electronics safe, as on the ARCCAPTAIN 60A Non-HF. Compared with the VEVOR 65A, the YESWELDER includes more functions.\n\nThe higher output needs a higher-current circuit on 220V and a compressor that can keep up with the air demand. Keep spare tips and electrodes. It suits a shop that cuts thicker plate and wants non-HF. Gouging with a plasma removes a bad weld quickly, though it leaves a rougher groove than carbon arc, so grind afterwards.",
+   "bestFor": "Shops that cut thicker plate and want gouging and marking modes.",
+   "pros": [
+    "65A output with non-HF pilot arc",
+    "Plate, grid, gouge and mark functions",
+    "110V and 220V input",
+    "Deeper cutting than 50A units"
+   ],
+   "cons": [
+    "Clean-cut thickness not in listing text",
+    "Higher air and circuit demands"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0G119GKTK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41xKTr2fFxL._SL500_.jpg"
+  },
+  {
+   "id": "B0FH296V6K",
+   "badge": "Budget Pick",
+   "name": "Bestarc 50A Plasma Cutter Pilot Arc, 110V/220V",
+   "price": "",
+   "specs": [
+    "50A output",
+    "110V/220V",
+    "1/2 in clean",
+    "2/3 in max"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "50A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Pilot arc",
+     "value": "High-frequency non-touch"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/2 in"
+    },
+    {
+     "label": "Max cut",
+     "value": "2/3 in"
+    }
+   ],
+   "description": "The Bestarc 50A is the lowest-priced cutter in the group by priceTier. It gives 1/2 inch clean cut and 2/3 inch maximum, with a high-frequency non-touch pilot arc and dual voltage input. Those numbers match the YESWELDER 50A.\n\nThe listing describes iron cuts at the clean-cut rating, and as with all budget plasma cutters, the clean-cut figure applies on 220V. On 110V you should expect about half. The pilot arc lets you cut rusty or painted steel without touching the surface first.\n\nUse it for sheet, brackets and plate up to 1/2 inch. Keep consumables in stock and use a compressor with a water trap. It is the cheapest way in. Test on scrap before cutting the real part, because water in the lines shows up as sputtering and a rough kerf.",
+   "bestFor": "Budget buyers who cut sheet and plate up to 1/2 inch.",
+   "pros": [
+    "Lowest cost in the lineup",
+    "1/2 in clean cut claim",
+    "Pilot arc for dirty metal",
+    "110V and 220V input"
+   ],
+   "cons": [
+    "Clean-cut rating applies on 220V",
+    "Basic features and support"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FH296V6K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51ffcbD-mjL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Clean cut versus maximum cut",
+   "explanation": "A plasma's clean cut is the thickness it cuts with a good, usable edge at a sensible speed. The maximum or severance cut is a ragged, slow cut that is rarely useful. The ARCCAPTAIN 55A lists 1/2 inch clean and 3/4 inch max, and the 60A Non-HF lists 3/4 inch clean and 1-1/16 inch max. Plan around the clean number, not the headline. Most clean cut ratings assume steady air and fresh consumables, so subtract a margin when your compressor is small."
+  },
+  {
+   "criterion": "Input voltage",
+   "explanation": "Almost every cutter here accepts 110V and 220V, but capacity roughly halves on 110V. The YESWELDER CUT-50DS PRO states it plainly at 1/4 inch on 110V and 1/2 inch on 220V. If you cut thick plate, plan for a 220V circuit. A 20 amp household breaker may trip on 110V at full output, so use a dedicated circuit."
+  },
+  {
+   "criterion": "HF versus non-HF pilot arc",
+   "explanation": "High-frequency starts jump a spark to begin the arc and can interfere with computers, CNC controllers and radios. Non-HF blowback or contact starts avoid that. The ARCCAPTAIN 60A Non-HF and YESWELDER CUT-65DS PLUS use non-HF starts, while the Bestarc and ARCCAPTAIN 55A use HF. If you cut on a CNC table, non-HF is not optional because HF noise can corrupt the controller."
+  },
+  {
+   "criterion": "The compressor you must add",
+   "explanation": "A plasma cutter needs clean, dry air at about 4 to 6 CFM and 60 to 75 PSI. A small pancake compressor will run out quickly, so a 20 gallon unit with a dryer or water separator is a better match. Wet air kills consumables and ruins cuts. A small pancake compressor is the most common reason for poor plasma results, because it cannot keep up with continuous air demand."
+  },
+  {
+   "criterion": "Duty cycle",
+   "explanation": "Duty cycle sets how long you can cut before a rest. The ARCCAPTAIN 55A claims 60 percent, which suits many-part jobs. Cheaper units may be 40 percent or lower. Cutting short parts in bursts is fine at any rating. A shorter duty cycle only matters if you cut for long stretches, so do not pay for it if you cut one part at a time."
+  },
+  {
+   "criterion": "Consumables",
+   "explanation": "Tips and electrodes wear with every cut, and cutting dirty or wet air accelerates it. Buy spares at the same time as the machine. A torch with widely available consumables is cheaper to run than one with proprietary parts. Keep a spare torch head if you cut every day, since downtime costs more than the part."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Clean cut",
+   "meaning": "The thickness cut with a good edge at normal speed. Always compare the figure at your supply voltage.",
+   "watchFor": "The Bestarc claims 1/2 inch and the ARCCAPTAIN 60A Non-HF claims 3/4 inch, both on 220V."
+  },
+  {
+   "spec": "Severance cut",
+   "meaning": "The maximum thickness the cutter can penetrate, at slow speed with a rough edge. Treat the severance cut as a last resort.",
+   "watchFor": "The 1-1/16 inch ARCCAPTAIN figure is not a working thickness."
+  },
+  {
+   "spec": "Pilot arc",
+   "meaning": "A small arc that starts the plasma without touching the metal first. Contact-start machines are the simplest of all.",
+   "watchFor": "Pilot arc lets you cut rust, paint and expanded metal."
+  },
+  {
+   "spec": "Duty cycle",
+   "meaning": "The share of a ten-minute window the cutter can run at rated output. Check the rating at your actual current.",
+   "watchFor": "The ARCCAPTAIN 55A claims 60 percent."
+  },
+  {
+   "spec": "2T and 4T",
+   "meaning": "2T needs the trigger held, while 4T latches so you can release it. Latching saves wear on your hand.",
+   "watchFor": "4T is nicer on long cuts."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Clean cut capacity",
+   "description": "We compared clean cut ratings, from 1/2 inch on the 50A units to 3/4 inch on the ARCCAPTAIN 60A Non-HF. We treated maximum cut claims as secondary. We discounted capacity claims that did not specify voltage."
+  },
+  {
+   "title": "Voltage and amperage",
+   "description": "We looked at how capacity changes between 110V and 220V, noting the CUT-50DS PRO's stated split. Voltage-specific numbers were treated as more trustworthy."
+  },
+  {
+   "title": "Pilot arc type",
+   "description": "We separated HF from non-HF starts, because electronic interference is a practical shop problem. Non-HF was credited for electronics safety."
+  },
+  {
+   "title": "Duty cycle and consumables",
+   "description": "We noted duty cycle claims such as 60 percent and the cost of tips and electrodes. A duty cycle claim was weighed by the production it enables."
+  },
+  {
+   "title": "Evidence base",
+   "description": "This is based on spec sheets and owner feedback patterns, not our own cutting time. Capacity figures are manufacturer claims. All thickness figures are claims."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Material Thickness",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Sheet to 1/4 in on 110V",
+      "YESWELDER CUT-50DS PRO",
+      "1/4 in clean at 110V"
+     ],
+     [
+      "Plate to 1/2 in",
+      "Bestarc 50A",
+      "1/2 in clean claim"
+     ],
+     [
+      "Plate to 5/8 in",
+      "ARCCAPTAIN iControl CUT60 Pro",
+      "5/8 in clean"
+     ],
+     [
+      "Plate to 3/4 in",
+      "ARCCAPTAIN 60A Non-HF",
+      "3/4 in clean"
+     ],
+     [
+      "Thicker plate and gouging",
+      "YESWELDER CUT-65DS PLUS",
+      "65A with gouge mode"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Bestarc 50A",
+      "Cheapest tier"
+     ],
+     [
+      "Low",
+      "YESWELDER CUT-50DS PRO",
+      "Clear ratings"
+     ],
+     [
+      "Lower middle",
+      "ARCCAPTAIN 55A",
+      "High duty cycle"
+     ],
+     [
+      "Middle",
+      "ARCCAPTAIN iControl CUT60 Pro",
+      "App control"
+     ],
+     [
+      "Upper",
+      "ARCCAPTAIN 60A Non-HF",
+      "Non-HF and 3/4 in clean"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "HF vs Non-HF Start",
+   "cards": [
+    {
+     "label": "HF start",
+     "text": "The Bestarc, ARCCAPTAIN 55A and iControl CUT60 Pro use a high-frequency start. It is reliable but can disturb nearby electronics."
+    },
+    {
+     "label": "Non-HF start",
+     "text": "The ARCCAPTAIN 60A Non-HF and YESWELDER CUT-65DS PLUS use blowback or similar starts that avoid interference. They suit shops with CNC or computers."
+    }
+   ],
+   "note": "Choose non-HF if you have electronics nearby and HF if you want a simple proven start."
+  },
+  {
+   "subheading": "Basic vs Smart Controls",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Plain and cheap",
+      "Bestarc 50A",
+      "Few features"
+     ],
+     [
+      "Clear digital settings",
+      "YESWELDER CUT-50DS PRO",
+      "PT, 2T, 4T"
+     ],
+     [
+      "Phone control",
+      "ARCCAPTAIN iControl CUT60 Pro",
+      "APP within 10 m"
+     ],
+     [
+      "Extra functions",
+      "YESWELDER CUT-65DS PLUS",
+      "Gouge and mark"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Rusty and Painted Steel Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A pilot arc, which lets you start the arc without clean contact, and a dry air supply so that dirt does not break the cut."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Every machine here has a pilot arc. The ARCCAPTAIN 60A Non-HF and the CUT60 Pro also list rust and paint removal modes."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cut thick plate or run electronics nearby. The ARCCAPTAIN 60A Non-HF or YESWELDER CUT-65DS PLUS is the step up."
+    },
+    {
+     "label": "Save if",
+     "text": "You cut sheet and light plate. The Bestarc 50A covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check consumables",
+   "interval": "Each session",
+   "why": "A worn tip or electrode gives rough, slanted cuts. Replace them as a pair. Replace them in pairs."
+  },
+  {
+   "task": "Drain the compressor and filter",
+   "interval": "Each session",
+   "why": "Water in the air destroys consumables and ruins cuts. Add an in-line dryer."
+  },
+  {
+   "task": "Inspect the torch",
+   "interval": "Monthly",
+   "why": "A cracked shield cup or damaged lead can arc internally. Check the lead for cuts."
+  },
+  {
+   "task": "Clean the work clamp contact",
+   "interval": "Each use",
+   "why": "A poor ground prevents the pilot arc. Clean to bare metal."
+  },
+  {
+   "task": "Blow out the case",
+   "interval": "Every 6 months",
+   "why": "Dust overheats the inverter. Use dry compressed air."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need an air compressor?",
+   "a": "Yes, unless the machine has a built-in one. A plasma cutter needs clean dry air at about 4 to 6 CFM and 60 to 75 PSI. A good filter and dryer set costs little compared with consumable wear."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "The Bestarc sits at the low end, the YESWELDER and ARCCAPTAIN 55A in the middle and the 60A and 65A units at the top. Pay more for thickness and non-HF. Cut a test strip at the speed you plan to use."
+  },
+  {
+   "q": "How long do consumables last?",
+   "a": "A tip and electrode may last a few hours of cutting if the air is clean. Wet or dirty air shortens that a lot. Wear a shade 5 to 8 lens and long sleeves when cutting."
+  },
+  {
+   "q": "Can I cut aluminum?",
+   "a": "Yes, plasma cuts aluminum, stainless and any conductive metal. Use higher air flow and clean the edge. Plasma works on any conductive metal, and galvanized steel needs ventilation."
+  },
+  {
+   "q": "Is the maximum cut usable?",
+   "a": "Not for finished parts. The severance cut is rough and slow. Use the clean-cut rating. A larger machine is only needed for thick plate on a regular basis."
+  },
+  {
+   "q": "Is HF dangerous?",
+   "a": "It is safe for people but can interfere with electronics. A non-HF start avoids that. Keep the cutter away from fuel and sparks."
+  }
+ ],
+ "relatedGuides": []
+}

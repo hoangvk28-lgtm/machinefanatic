@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-robot-vacuums-without-apps",
+ "categorySlug": "home-machines",
+ "mainKeyword": "robot vacuums without apps",
+ "guideTitle": "Best Robot Vacuums Without Apps (2026)",
+ "metaTitle": "Best Robot Vacuums Without Apps (2026)",
+ "metaDescription": "Robot vacuums you can run from a remote or the top button, no phone, account or Wi-Fi required, plus honest notes on what you give up.",
+ "lastUpdated": "2026-11-14",
+ "readTime": "11 min",
+ "expertTake": "The ILIFE V2 is the cleanest answer for someone who wants no phone in the loop, since its physical remote works without any Wi-Fi connection. The Roomba 105 Vac is the one to buy if you also want LiDAR mapping and are happy to use the app only occasionally. Skip this category if you need room-by-room cleaning or no-go zones, because those features live in the app.",
+ "introParagraphs": [
+  "A robot vacuum that does not demand a phone is a real niche. Some households have no smartphone to spare, some dislike account sign-ups, and some simply want a machine that starts when a button is pressed and stops when the bin is full.",
+  "The catch is that a smart map and a remote control rarely come together at the same tier. Choosing well means deciding which features you can live without, then picking the model whose remaining controls are comfortable. This guide ranks six that fit that thinking."
+ ],
+ "products": [
+  {
+   "id": "B0F4DKGRDN",
+   "rank": 1,
+   "badge": "Best Truly App-Free",
+   "name": "ILIFE V2 Tangle-Free Robot Vacuum With Remote",
+   "specs": [
+    "Physical remote",
+    "No Wi-Fi needed",
+    "2.99-inch tall",
+    "120 min runtime"
+   ],
+   "specList": [
+    {
+     "label": "Control",
+     "value": "Physical remote, no Wi-Fi"
+    },
+    {
+     "label": "Height",
+     "value": "2.99 in"
+    },
+    {
+     "label": "Runtime",
+     "value": "120 minutes"
+    },
+    {
+     "label": "Brush design",
+     "value": "Tangle-free suction port"
+    },
+    {
+     "label": "Scheduling",
+     "value": "Built in"
+    }
+   ],
+   "description": "The V2 is the clearest fit for the brief. It ships with a physical remote and, per the listing, needs no Wi-Fi connection at all, so there is no account, no pairing and no firmware prompt. You set a schedule with the remote, press clean, and the robot goes.\n\nAt 2.99 inches tall it slides under most beds and sofas, and its tangle-free suction port is aimed at hair on hard floors. It navigates by bump and sensor rather than a laser map, so expect a pattern that overlaps itself rather than tidy rows, and expect it to need a retry in a large open-plan room. Compared with the eufy 11S MAX it runs longer, 120 minutes against up to 100 on hardwood.\n\nThe bin is small, so empty it after each run. Pull hair off the brush axle weekly and keep the remote's batteries fresh, because a dead remote leaves you with only the single top button.",
+   "bestFor": "Anyone who wants a robot with no phone, no account and no cloud.",
+   "pros": [
+    "Physical remote works without Wi-Fi or an account",
+    "Slim 2.99-inch body fits under low furniture",
+    "120 minutes of runtime covers a typical flat",
+    "Tangle-free port suits pet hair on hard floors"
+   ],
+   "cons": [
+    "No map, so no room selection or no-go zones",
+    "Random-style coverage overlaps and misses in big rooms"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0F4DKGRDN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31zweWnlCLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07R295MLS",
+   "rank": 2,
+   "badge": "Best Quiet Slim Pick",
+   "name": "eufy 11S MAX Super-Thin Quiet Robot Vacuum",
+   "specs": [
+    "2.85-inch tall",
+    "BoostIQ suction",
+    "Up to 100 min",
+    "Quiet running"
+   ],
+   "specList": [
+    {
+     "label": "Height",
+     "value": "2.85 in"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 100 min on hardwood"
+    },
+    {
+     "label": "Suction control",
+     "value": "BoostIQ, adjusts in 1.5 s"
+    },
+    {
+     "label": "Floor range",
+     "value": "Hard floor to medium pile"
+    },
+    {
+     "label": "Navigation",
+     "value": "Sensor-based, no map"
+    }
+   ],
+   "description": "The 11S MAX is a simple machine by design, and that is its appeal here. It is only 2.85 inches tall, runs quietly, and uses BoostIQ to raise suction within about 1.5 seconds when it detects it has moved onto carpet or heavier debris. There is no map to build and nothing to configure.\n\nIt cleans hard floors up to medium-pile carpet, which is its honest limit: thick rugs are beyond it. Against the ILIFE V2 it is the quieter and lower machine but has a shorter 100 minute ceiling, and it trades the V2's tangle-free port for an adaptive suction approach that is stronger on mixed floors.\n\nThe filter and brush are the only service points. Tap the filter clean every week or two and cut hair from the roller, and the motor stays happy. It is an older design, so check stock of brushes and filters before you commit.",
+   "bestFor": "Quiet apartments with a mix of hardwood and low rugs.",
+   "pros": [
+    "Only 2.85 inches tall for sofa and bed clearance",
+    "BoostIQ raises suction within about 1.5 seconds",
+    "Quiet enough to run during a call or a nap",
+    "Handles medium-pile carpet as well as hardwood"
+   ],
+   "cons": [
+    "Older design with limited brush and filter availability",
+    "No map or room control of any kind"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B07R295MLS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31d8SEg9M9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DX6KZR9T",
+   "rank": 3,
+   "badge": "Best Mapped, App Optional",
+   "name": "iRobot Roomba 105 Vac LiDAR Robot Vacuum",
+   "specs": [
+    "7,000Pa",
+    "ClearView LiDAR",
+    "Top-button start",
+    "3-stage cleaning"
+   ],
+   "specList": [
+    {
+     "label": "Suction rating",
+     "value": "7,000Pa"
+    },
+    {
+     "label": "Navigation",
+     "value": "ClearView LiDAR"
+    },
+    {
+     "label": "Cleaning stages",
+     "value": "3-stage"
+    },
+    {
+     "label": "Control",
+     "value": "Onboard button, app optional"
+    },
+    {
+     "label": "Mop",
+     "value": "None, vacuum only"
+    }
+   ],
+   "description": "The Roomba 105 Vac is the compromise pick. It builds a LiDAR map with ClearView so it travels in orderly lines rather than bouncing around, and the robot has a clean button on its top surface, so you can start a run without opening an app. The app adds room targeting and schedules when you want it, but is not needed for a basic clean.\n\nThat optional-app design puts it ahead of the eufy 11S MAX for coverage in a larger home, at a clearly higher tier. The 7,000Pa figure is a peak rating, and the three-stage brush and suction design is what does the real work on hair and crumbs.\n\nLiDAR robots still need the sensors kept clean: wipe the turret window and cliff sensors every few weeks. Replace the filter and brush on iRobot's schedule, since parts are easy to find, which is a genuine plus for a machine you plan to keep for years.",
+   "bestFor": "Larger homes where orderly coverage matters more than avoiding a phone entirely.",
+   "pros": [
+    "LiDAR map gives orderly rows instead of random bouncing",
+    "Onboard button starts a clean with no app",
+    "3-stage brush and suction design suits hair",
+    "Parts are widely available for years of ownership"
+   ],
+   "cons": [
+    "Room selection and schedules still need the app",
+    "Vacuum only, with no mopping function"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DX6KZR9T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Njjm9oMJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F2GSS65D",
+   "rank": 4,
+   "badge": "Best Self-Empty Option",
+   "name": "Shark Navigator RV2120AE Self-Empty Robot Vacuum",
+   "specs": [
+    "60-day bagless base",
+    "SmartPath LiDAR",
+    "Object avoidance",
+    "Carpet and hard floor"
+   ],
+   "specList": [
+    {
+     "label": "Navigation",
+     "value": "SmartPath spot LiDAR"
+    },
+    {
+     "label": "Base capacity",
+     "value": "60 days, bagless"
+    },
+    {
+     "label": "Object handling",
+     "value": "Detects and avoids"
+    },
+    {
+     "label": "Floor types",
+     "value": "Carpet and hard floor"
+    },
+    {
+     "label": "Mop",
+     "value": "None"
+    }
+   ],
+   "description": "If the reason you avoid apps is that you want fewer things to manage, this is the machine that cuts the most chores. SmartPath navigation uses a spot LiDAR to map and clean in rows, and the bagless base holds up to 60 days of dirt, so you may handle it less often than any other robot here. It also detects and avoids objects, which lowers the number of rescues.\n\nIts limit is that mapping, scheduling and room control are app features, so a no-phone owner will mostly use the onboard button and run it as a simple scheduled sweeper. Compared with the Roomba 105 Vac it offers a larger dock and an avoidance feature, though with no mop.\n\nBagless bases mean you empty a bin and clean a filter rather than buying bags. Do that monthly, wipe the sensors, and clear the side brush. Treat the base as a fixed appliance and give it clear space on both sides so the robot docks squarely.",
+   "bestFor": "Owners who want the fewest chores and will use the app rarely or never.",
+   "pros": [
+    "Bagless base holds up to 60 days of dirt",
+    "Spot LiDAR cleans in orderly rows",
+    "Detects and avoids objects on the floor",
+    "No ongoing cost for dust bags"
+   ],
+   "cons": [
+    "Best features need the app and a Wi-Fi connection",
+    "Dock footprint is bigger than a plain charging stand"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0F2GSS65D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41x9v3YBSBL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DV53XDDJ",
+   "rank": 5,
+   "badge": "Best Remote Mop Combo",
+   "name": "Tikom G8000 Max 5000Pa Vacuum and Mop With Remote",
+   "specs": [
+    "5000Pa",
+    "450ml bin, 300ml tank",
+    "Up to 150 min",
+    "Remote included"
+   ],
+   "specList": [
+    {
+     "label": "Suction rating",
+     "value": "5000Pa"
+    },
+    {
+     "label": "Dust bin",
+     "value": "450ml"
+    },
+    {
+     "label": "Water tank",
+     "value": "300ml"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 150 min, quiet mode"
+    },
+    {
+     "label": "Control",
+     "value": "Remote and app"
+    }
+   ],
+   "description": "The G8000 Max lets you vacuum and mop in one go with a 450ml bin and a 300ml tank, and it accepts a remote as well as the app. That remote is the reason it is on this list: you can drive it entirely from the handset if you prefer, and run it on up to 150 minutes in quiet mode.\n\nIts 5000Pa rating is lower than the Roomba 105 Vac's 7,000Pa on paper, but this tier is built for hard floors and pet hair rather than deep carpet. The longer runtime beats the ILIFE V2's 120 minutes and suits bigger single-level homes, while the mop adds a function the other app-light picks lack.\n\nA wet mop pad needs routine care: rinse the pad and tank after each use and let both dry, or mildew forms. Keep it off carpet and sealed away from unfinished wood, then wipe the sensors monthly.",
+   "bestFor": "Hard-floor homes that want vacuuming and mopping from a remote.",
+   "pros": [
+    "Remote handset can run it without the app",
+    "Up to 150 minutes in quiet mode",
+    "450ml bin and 300ml tank allow longer runs",
+    "Mop function the plain remote models lack"
+   ],
+   "cons": [
+    "Wet pad needs rinsing and drying to avoid odor",
+    "Lower suction rating than the Roomba 105 Vac"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DV53XDDJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41q-PYvv+sL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08R9LK9K3",
+   "rank": 6,
+   "badge": "Best Budget Slim Option",
+   "name": "Lefant M210 Slim Robot Vacuum, 120 Min",
+   "specs": [
+    "11-inch body",
+    "120 min runtime",
+    "Slim low-noise",
+    "Self-charging"
+   ],
+   "specList": [
+    {
+     "label": "Diameter",
+     "value": "11 in"
+    },
+    {
+     "label": "Runtime",
+     "value": "120 minutes"
+    },
+    {
+     "label": "Noise",
+     "value": "Low-noise design"
+    },
+    {
+     "label": "Charging",
+     "value": "Automatic self-charging"
+    },
+    {
+     "label": "Smart control",
+     "value": "Wi-Fi, app and Alexa, optional"
+    }
+   ],
+   "description": "The M210 is the cheapest machine in the lineup and the smallest at 11 inches across, which helps it reach under furniture that larger bodies refuse. It returns to charge on its own and runs for up to 120 minutes, and the app and Alexa links are available but not mandatory for a basic run.\n\nIt is built for pet-owning households on hard floors, but with no LiDAR and a modest motor it is a light-duty machine. Next to the ILIFE V2 it has the same runtime and a similar slim idea, but the V2 includes a physical remote, so the M210 is more app-reliant for scheduling.\n\nSmall bins fill fast with pets, so empty after each run and clear the brush weekly. Pair it with a tidy floor, because compact robots lack the clearance and power to cope with clutter.",
+   "bestFor": "Small hard-floor spaces on the tightest budget.",
+   "pros": [
+    "11-inch body fits where bigger robots cannot",
+    "Auto-return to the charger after each run",
+    "120 minutes of runtime at the lowest tier",
+    "Low-noise running suits shared homes"
+   ],
+   "cons": [
+    "No remote handset, so scheduling leans on the app",
+    "Light motor struggles with thick carpet or clutter"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B08R9LK9K3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ycih1ycCL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What you give up without an app",
+   "explanation": "Most robots keep their best features in the app: room selection, no-go zones, multi-floor maps and cleaning history. A remote or button-only machine, such as the ILIFE V2, gives you start, stop and a schedule and little else. Decide whether those three are enough before you rule out smart models."
+  },
+  {
+   "criterion": "Remote versus onboard button",
+   "explanation": "A physical remote, like the one on the ILIFE V2 or Tikom G8000 Max, lets you schedule and steer without Wi-Fi. A robot with only a top button, like the Roomba 105 Vac, starts a clean but cannot set a timetable. If you want a schedule without a phone, only the remote models deliver it."
+  },
+  {
+   "criterion": "Navigation method",
+   "explanation": "Without an app, a map is only useful if the robot uses it by itself. The Roomba 105 Vac and Shark Navigator use LiDAR to clean in rows even when you never open the app, while the ILIFE V2 and eufy 11S MAX use sensors and cover the floor by overlap. For floors above roughly 600 square feet, rows save real time."
+  },
+  {
+   "criterion": "Height and diameter",
+   "explanation": "Under-furniture clearance decides whether the robot can reach the dust. The eufy 11S MAX is 2.85 inches tall, the ILIFE V2 is 2.99 inches, and the Lefant M210 is 11 inches across. A LiDAR turret adds height, so measure your sofa gap before buying a mapped model."
+  },
+  {
+   "criterion": "Runtime against floor size",
+   "explanation": "Stated runtimes assume the quietest mode on hard floor. The Tikom reaches up to 150 minutes, ILIFE V2 and Lefant M210 120 minutes, and eufy 11S MAX up to 100. On carpet, expect noticeably less, and plan for a robot that returns to charge and resumes."
+  },
+  {
+   "criterion": "Dock and bin burden",
+   "explanation": "Without an app you will not get a prompt that the bin is full, so the dock matters more. The Shark Navigator base holds up to 60 days, while the others use small onboard bins you must check by eye. A forgotten full bin is the commonest reason a simple robot seems to stop cleaning."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Pa suction rating",
+   "meaning": "This is a peak pressure figure measured at the motor, not a measure of floor pickup. Brush design and seal decide most of what gets cleaned.",
+   "watchFor": "Roomba 105 Vac lists 7,000Pa and Tikom 5000Pa, but both are tuned for hard floors."
+  },
+  {
+   "spec": "Runtime in minutes",
+   "meaning": "The figure applies to the quietest mode on bare floor. Higher power and carpet shorten it, sometimes by a third or more.",
+   "watchFor": "The Tikom's 150 minutes is quiet mode only."
+  },
+  {
+   "spec": "BoostIQ",
+   "meaning": "Eufy's term for a sensor-driven suction increase when the robot meets carpet or heavy dirt. It switches automatically with no setup.",
+   "watchFor": "Check it exists on the eufy 11S MAX before assuming other slim robots do it."
+  },
+  {
+   "spec": "Spot LiDAR",
+   "meaning": "A fixed or spot laser ranging system that maps the room for row-by-row cleaning. It works in the dark.",
+   "watchFor": "The Shark Navigator uses it, but full map features still need the app."
+  },
+  {
+   "spec": "Bin and tank volume",
+   "meaning": "Bin size sets how much dirt fits before the robot stops, and tank size sets mopping range. A larger volume means fewer interruptions.",
+   "watchFor": "Tikom lists 450ml for the bin and 300ml for the tank."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Control without a phone",
+   "description": "We checked what each listing says about running the robot with no app. A physical remote counts for more than an onboard button, and an app-only schedule counts least. The ILIFE V2 leads here because the listing states no Wi-Fi is needed."
+  },
+  {
+   "title": "What remains when the app is ignored",
+   "description": "We asked how much of the machine still works with no phone connected. LiDAR row cleaning on the Roomba 105 Vac survives, but room selection does not. The more value that stays after you uninstall the app, the higher the rank."
+  },
+  {
+   "title": "Hair and floor handling",
+   "description": "Brush design and suction behaviour were judged from stated mechanisms, such as the tangle-free port on the ILIFE V2 and BoostIQ on the eufy 11S MAX. Owner feedback patterns on hair and thick rugs supported the ordering."
+  },
+  {
+   "title": "Dock burden",
+   "description": "Without an app notification, a dock that holds weeks of dirt is a safeguard. The Shark Navigator base holds up to 60 days, while the simple models rely on a visible bin. This changes how often you must remember the machine."
+  },
+  {
+   "title": "Value across tiers",
+   "description": "Relative tiers run from the Lefant M210 and ILIFE V2 at the bottom to the Shark Navigator at the top. A higher tier had to buy something you actually use without the app, such as LiDAR rows or self-emptying."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Your Phone Habits",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No smartphone or no Wi-Fi",
+      "ILIFE V2",
+      "Physical remote works without Wi-Fi"
+     ],
+     [
+      "Use the app once a month",
+      "Roomba 105 Vac",
+      "Map plus onboard start button"
+     ],
+     [
+      "Want a remote and a mop",
+      "Tikom G8000 Max",
+      "Remote handset plus 300ml tank"
+     ],
+     [
+      "Refuse accounts but want quiet",
+      "eufy 11S MAX",
+      "Sensor-based, nothing to configure"
+     ],
+     [
+      "Want almost no chores",
+      "Shark Navigator RV2120AE",
+      "60-day bagless base"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Lefant M210",
+      "Smallest body and 120 minute runtime"
+     ],
+     [
+      "Low tier",
+      "ILIFE V2",
+      "Remote and schedule with no Wi-Fi"
+     ],
+     [
+      "Lower-middle tier",
+      "Tikom G8000 Max",
+      "Mop and remote together"
+     ],
+     [
+      "Middle tier",
+      "Roomba 105 Vac",
+      "LiDAR rows and spare-parts support"
+     ],
+     [
+      "Upper tier",
+      "Shark Navigator RV2120AE",
+      "Self-empty base and avoidance"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Mapped vs Sensor-Only",
+   "cards": [
+    {
+     "label": "Mapped robots",
+     "text": "The Roomba 105 Vac and Shark Navigator travel in rows, so they cover big floors faster and with fewer misses. They give most of that benefit even if you leave the app alone. They cost more and stand taller because of the sensor turret."
+    },
+    {
+     "label": "Sensor-only robots",
+     "text": "The ILIFE V2, eufy 11S MAX and Lefant M210 wander and overlap, so they need more time to cover a room. They are lower, cheaper and simpler. Expect to run them twice in a big space."
+    }
+   ],
+   "note": "Go mapped above roughly one large room; go sensor-only for studios and small flats."
+  },
+  {
+   "subheading": "Floor Type",
+   "table": {
+    "headers": [
+     "Floor",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Hardwood and tile",
+      "Tikom G8000 Max",
+      "Mop function and long runtime"
+     ],
+     [
+      "Mixed hard floor and low rugs",
+      "eufy 11S MAX",
+      "BoostIQ adapts to medium pile"
+     ],
+     [
+      "Pet hair on hard floor",
+      "ILIFE V2",
+      "Tangle-free suction port"
+     ],
+     [
+      "Carpet and hard floor",
+      "Shark Navigator RV2120AE",
+      "Built for both floor types"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Older Adults Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A big, labeled remote or one onboard button, no pairing steps and no account. Light weight helps, and so does a quiet motor. Avoid anything that needs firmware updates to work."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ILIFE V2 is the simplest to operate because the remote handles scheduling. The Roomba 105 Vac is a good second choice, since its top button starts a clean without the app."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your floor is large or cluttered and you want orderly coverage and fewer emptying chores. The Roomba 105 Vac and Shark Navigator are the upgrades that matter."
+    },
+    {
+     "label": "Save if",
+     "text": "You have one or two rooms and a tidy floor. The ILIFE V2 or Lefant M210 will do the daily sweep perfectly well."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Empty the bin",
+   "interval": "After each run for small-bin models",
+   "why": "Small bins fill in a single pass in pet homes. An overfull bin cuts airflow and the robot seems weak."
+  },
+  {
+   "task": "Clear brush and axle of hair",
+   "interval": "Weekly",
+   "why": "Hair wraps the axle ends and stalls the roller. Cut it free with scissors rather than pulling."
+  },
+  {
+   "task": "Clean the filter",
+   "interval": "Every 1 to 2 weeks",
+   "why": "Tap it out rather than washing unless the maker allows it. A clogged filter lowers suction and overheats the motor."
+  },
+  {
+   "task": "Wipe sensors and charging contacts",
+   "interval": "Monthly",
+   "why": "Dust on cliff sensors causes false drops and stops. Dirty contacts cause failed charging."
+  },
+  {
+   "task": "Replace the remote batteries",
+   "interval": "Twice a year or when response lags",
+   "why": "A weak remote makes the robot seem unresponsive. Keep spares since there is no app fallback."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a robot vacuum really work without Wi-Fi?",
+   "a": "Yes. The ILIFE V2 listing states a physical remote means no Wi-Fi connection is required. Others start from a top button, but you lose scheduling or room control without an app."
+  },
+  {
+   "q": "Do I lose the map if I skip the app?",
+   "a": "The robot still maps and plans its route on its own, as the Roomba 105 Vac does with LiDAR. What you lose is the ability to see, edit or label the map."
+  },
+  {
+   "q": "Is an app-free robot more private?",
+   "a": "Generally yes, because no account or cloud sync is needed. If privacy is the reason, keep the robot off your Wi-Fi rather than relying on a setting."
+  },
+  {
+   "q": "Is a remote better than an app for older users?",
+   "a": "Often. A handset with big buttons is easier than navigating screens, and it does not depend on a phone update breaking the connection."
+  },
+  {
+   "q": "How long will a simple robot last?",
+   "a": "The motor and body can run for years, while the battery usually fades in three to four. Check that replacement batteries and brushes exist for your model."
+  },
+  {
+   "q": "Can I schedule cleanings with no phone?",
+   "a": "Only on models with a remote or onboard scheduling, such as the ILIFE V2. A button-only robot runs when you press it."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31zweWnlCLL._SL500_.jpg"
+}

@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-robot-vacuums-for-seniors",
+ "categorySlug": "home-machines",
+ "mainKeyword": "robot vacuums for seniors",
+ "guideTitle": "Best Robot Vacuums for Seniors (2026)",
+ "metaTitle": "Best Robot Vacuums for Seniors (2026)",
+ "metaDescription": "Six robot vacuums that suit older owners, ranked on simple starting, no-bend emptying, quiet running and how little setup each one asks of you.",
+ "lastUpdated": "2026-11-14",
+ "readTime": "11 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41WMUOVQ9KL._SL500_.jpg",
+ "expertTake": "The Roomba 105 Vac with AutoEmpty dock is the top pick because it starts from one button and empties itself for up to 75 days, so bending is rare. The ILIFE V2 is the value pick, since a physical remote replaces the app entirely. Anyone who dislikes any setup at all should choose a remote-driven model and skip laser maps.",
+ "introParagraphs": [
+  "The best robot for an older owner is rarely the cleverest one. What matters is how it behaves on an ordinary Tuesday: whether it starts with one press, whether anyone has to bend to the floor to empty it, and whether the noise is tolerable at home all day.",
+  "Setup is the other hurdle. Some robots ask for an account, a phone app and a map before they run at all, while others work from a remote or a button out of the box. This guide ranks six machines by how little effort they demand after day one."
+ ],
+ "products": [
+  {
+   "id": "B0DWG1K24K",
+   "badge": "Best Overall",
+   "name": "iRobot Roomba 105 Vac with AutoEmpty dock, 7,000 Pa, ClearView LiDAR",
+   "specs": [
+    "7,000 Pa",
+    "AutoEmpty dock",
+    "75 days",
+    "ClearView LiDAR"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "7,000 Pa"
+    },
+    {
+     "label": "Dock",
+     "value": "AutoEmpty, up to 75 days"
+    },
+    {
+     "label": "Navigation",
+     "value": "ClearView LiDAR"
+    },
+    {
+     "label": "Control",
+     "value": "App and robot button"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum only"
+    }
+   ],
+   "description": "The AutoEmpty version of the 105 Vac removes the chore most people dread. The robot returns to its dock, a bag inside takes the dirt and the listing says that lasts up to 75 days. ClearView LiDAR maps the home so it can clean room by room, and a button on the robot starts a run without touching a phone.\n\nBetween the dock-free 105 Vac and the washing-dock flagships in price, the 7,000 Pa motor is plenty for ordinary floors. The one real drawback for a first-time user is the app, which is needed for rooms and schedules but not for basic cleaning. Compared with the ILIFE V2 it adds the dock and a map.\n\nThe routine is gentle. Replace the bag when the app says it is full, which is a standing-height task, and wipe the dock intake now and then. Take a minute to clear hair from the brush, and the rest of the machine looks after itself. If the robot ever loses its way, a single press of the dock button on the robot sends it home, which is worth showing to every member of the household.",
+   "bestFor": "Owners who want to avoid bending and who accept a short app setup.",
+   "pros": [
+    "Dock empties the bin for up to 75 days",
+    "One button on the robot starts a run",
+    "ClearView LiDAR maps rooms",
+    "Established brand with wide support"
+   ],
+   "cons": [
+    "Rooms and schedules need the app",
+    "Bags are a running cost",
+    "No mop"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DWG1K24K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WMUOVQ9KL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DX6KZR9T",
+   "badge": "Best Simple Roomba",
+   "name": "iRobot Roomba 105 Vac, 7,000 Pa, ClearView LiDAR, self-charging",
+   "specs": [
+    "7,000 Pa",
+    "ClearView LiDAR",
+    "Self-charging",
+    "Vacuum only"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "7,000 Pa"
+    },
+    {
+     "label": "Navigation",
+     "value": "ClearView LiDAR"
+    },
+    {
+     "label": "Cleaning",
+     "value": "3-stage, vacuum only"
+    },
+    {
+     "label": "Control",
+     "value": "App and button"
+    },
+    {
+     "label": "Dock",
+     "value": "Charge only"
+    }
+   ],
+   "description": "The plain 105 Vac gives you the same laser-guided cleaning without a bulky dock. It finds its own way back to a small charging base, and a button on the robot starts it, so the daily routine involves no phone. The 7,000 Pa motor and three-stage cleaning handle most floors.\n\nThe cost of skipping the dock is that you empty the bin yourself, which means lifting the robot and tipping it into the trash. That is a short job, but it does involve bending. Against the AutoEmpty version it saves money and wall space. For a small home it is a sensible, low-fuss choice. It is also lighter than the docked version, which makes the occasional rescue from under a chair easier.\n\nTap out the filter weekly, clear hair from the brush and empty the bin after each run. Replacing the side brush twice a year keeps edges clean. A spare side brush costs little and takes seconds to clip on, so keep one in the drawer.",
+   "bestFor": "Small homes where a dock would take too much space.",
+   "pros": [
+    "Starts from a button on the robot",
+    "Laser mapping with a small charging base",
+    "Established brand with support",
+    "Low running cost with no bags"
+   ],
+   "cons": [
+    "Bin must be emptied by hand",
+    "No dock means more bending",
+    "No mop"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DX6KZR9T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Njjm9oMJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F4DKGRDN",
+   "badge": "Best No-App Pick",
+   "name": "ILIFE V2, physical remote, no Wi-Fi needed, 2.99 in slim, 120 minutes",
+   "specs": [
+    "Remote control",
+    "No Wi-Fi",
+    "2.99 in tall",
+    "120 min"
+   ],
+   "specList": [
+    {
+     "label": "Control",
+     "value": "Physical remote"
+    },
+    {
+     "label": "Network",
+     "value": "No Wi-Fi connection needed"
+    },
+    {
+     "label": "Height",
+     "value": "2.99 in"
+    },
+    {
+     "label": "Runtime",
+     "value": "120 min"
+    },
+    {
+     "label": "Brush",
+     "value": "Tangle-free suction port"
+    }
+   ],
+   "description": "The V2 is the easiest machine here to understand. It ships with a physical remote, the listing states that no Wi-Fi is needed, and a schedule can be set on the robot itself. There is no account to create and no screen to read.\n\nIt navigates by sensors, so it covers floors by pattern and sometimes goes over the same strip twice, and it has no map or room selection. It is the cheapest option and 2.99 in tall, so it passes under most beds and chairs. Compared with the Roomba 105 Vac it asks for far less setup.\n\nThe bin is small, so empty it after each run, rinse the filter and clear the suction port. Because it is light, it is also easy to lift and carry. The remote has large, clearly labelled buttons for start, spot and return to charge, which is all most people use.",
+   "bestFor": "Owners who want no app and no account at all.",
+   "pros": [
+    "Physical remote with no Wi-Fi",
+    "No account or app to learn",
+    "Low 2.99 in body",
+    "Lowest price tier"
+   ],
+   "cons": [
+    "No map or room selection",
+    "Small bin needs frequent emptying",
+    "Pattern coverage repeats some strips"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F4DKGRDN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31zweWnlCLL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07R295MLS",
+   "badge": "Best Quiet Pick",
+   "name": "eufy 11S MAX, 2.85 in slim, BoostIQ, quiet running, 100 minutes",
+   "specs": [
+    "2.85 in tall",
+    "Quiet",
+    "BoostIQ",
+    "100 min"
+   ],
+   "specList": [
+    {
+     "label": "Height",
+     "value": "2.85 in"
+    },
+    {
+     "label": "Noise",
+     "value": "Quiet operation"
+    },
+    {
+     "label": "Suction",
+     "value": "BoostIQ, 1.5 s response"
+    },
+    {
+     "label": "Runtime",
+     "value": "100 min on hardwood"
+    },
+    {
+     "label": "Floors",
+     "value": "Hard to medium-pile"
+    }
+   ],
+   "description": "The 11S MAX is the gentle one. The listing leads with quiet operation and a 2.85 in profile, and BoostIQ raises suction automatically on carpet so you never touch a setting. It runs up to 100 minutes on hardwood and handles medium-pile carpet.\n\nIt has no map and no dock, which is the point: there is nothing to configure and nothing to refill. Next to the ILIFE V2 it runs quieter and comes from a better-known brand, at a slightly higher tier. A person at home through the day will appreciate the lower noise. It is also a good second robot for a bedroom, where a loud motor would be unwelcome.\n\nEach run ends with the same short routine: empty the bin, rinse the filter and snip hair from the roller. With no bags and no water parts, upkeep is the lightest of the group. The roller is easy to pull out, so a weekly check takes about a minute.",
+   "bestFor": "Quiet homes and anyone sensitive to vacuum noise.",
+   "pros": [
+    "Quiet operation",
+    "BoostIQ adjusts suction on carpet",
+    "2.85 in body fits under furniture",
+    "No bags or water parts"
+   ],
+   "cons": [
+    "No map or room control",
+    "Bin is emptied by hand",
+    "100 minute runtime"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07R295MLS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31d8SEg9M9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DWX69JVG",
+   "badge": "Best Mop Option",
+   "name": "Roborock Q7 M5+, 10,000 Pa, 2.7 L sealed bag, 7 to 9 weeks, mop pad",
+   "specs": [
+    "10,000 Pa",
+    "2.7 L bag",
+    "7 to 9 weeks",
+    "Mop pad"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "10,000 Pa"
+    },
+    {
+     "label": "Dock bag",
+     "value": "2.7 L, 7 to 9 weeks"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    },
+    {
+     "label": "Brushes",
+     "value": "Dual anti-tangle"
+    },
+    {
+     "label": "Mop",
+     "value": "Vibrating pad"
+    }
+   ],
+   "description": "The Q7 M5+ suits an older owner who also wants a mop. A sealed 2.7 L bag lasts 7 to 9 weeks, so emptying is a twice-a-quarter job, and dual anti-tangle brushes cut the amount of hair you have to cut out. A vibrating pad does light mopping.\n\nIt asks more of you than the Roombas, because the app is the main control and the pad and tank need rinsing. In return it offers 10,000 Pa and a sealed bag that keeps dust off your hands. Beside the Roomba 105 Vac it adds a mop for a similar tier.\n\nEmpty the tank after each wet run, rinse the pad and change the sealed bag when full. Keep the brush clear, and use the app only for the first setup. After that, a scheduled run each morning means the floors are done before you are.",
+   "bestFor": "Owners who also want light mopping and a sealed bag.",
+   "pros": [
+    "Sealed bag lasts 7 to 9 weeks",
+    "Anti-tangle brushes cut upkeep",
+    "Mop pad for light damp work",
+    "LiDAR mapping"
+   ],
+   "cons": [
+    "App is the main control",
+    "Pad and tank need rinsing",
+    "Bags are brand-specific"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DWX69JVG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418QVNeplbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FKH1RW65",
+   "badge": "Best Long Interval",
+   "name": "Tikom L8000 Plus, 6,000 Pa, LiDAR, 3 L bag, up to 90 days",
+   "specs": [
+    "6,000 Pa",
+    "LiDAR",
+    "3 L bag",
+    "90 days"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "6,000 Pa"
+    },
+    {
+     "label": "Dock bag",
+     "value": "3 L, up to 90 days"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    },
+    {
+     "label": "Dock",
+     "value": "Self-emptying"
+    }
+   ],
+   "description": "The L8000 Plus has the longest quoted gap between bag changes in this guide, up to 90 days from a 3 L bag. That means the dock needs attention about four times a year. LiDAR maps the home and a mop plate adds damp wiping.\n\nIts 6,000 Pa is the lowest here, and the quoted interval is a best case, so check the bag at two months. The Roomba AutoEmpty costs more than this model. The brand is newer, so write down the model and keep the manual handy.\n\nSwap the bag when the app asks, wipe the dock port and rinse the mop pad. Keep the manual and a spare bag pack within reach. Because the dock is quiet, it can sit in a hallway without bothering anyone when it empties.",
+   "bestFor": "Light-use homes that want the rarest dock visits.",
+   "pros": [
+    "Up to 90 days between bag changes",
+    "LiDAR mapping",
+    "Mop plate included",
+    "Mid price tier"
+   ],
+   "cons": [
+    "Only 6,000 Pa",
+    "Interval is a best case",
+    "Newer brand with less support history"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FKH1RW65?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TiBcXjEaL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "How it starts",
+   "explanation": "The simplest robot starts from a button on its body or a remote. The Roomba 105 Vac and eufy 11S MAX start from the robot, and the ILIFE V2 comes with a remote. An app-only start adds a step you will repeat every day, so check the controls before you buy."
+  },
+  {
+   "criterion": "Emptying without bending",
+   "explanation": "A dock like the Roomba 105 Vac AutoEmpty at up to 75 days means no daily bending. A bin robot such as the ILIFE V2 needs lifting and tipping after each run. If bending is difficult, a dock is worth the extra cost."
+  },
+  {
+   "criterion": "Noise level",
+   "explanation": "A vacuum running in the next room all afternoon wears on anyone. The eufy 11S MAX leads with quiet operation, and most robots have a quiet mode. Avoid boost modes except on carpet. Boost raises both noise and battery use, so leave the robot on standard unless a rug needs it."
+  },
+  {
+   "criterion": "Setup effort",
+   "explanation": "Laser robots need an app, an account and a mapping run. Remote robots need nothing. Ask a family member to do the first setup, and then keep the daily routine to a single button. Write the Wi-Fi password and the robot name on a card kept near the dock, so anyone can reconnect it after a router change."
+  },
+  {
+   "criterion": "Weight and handling",
+   "explanation": "You will lift the robot to clear a stuck wheel or empty a bin. A light slim robot like the ILIFE V2 is easy to handle, while docks and heavy flagships are not. Pick up the robot in the shop if you can. If you order online, check the product weight on the listing and compare it with something you lift daily."
+  },
+  {
+   "criterion": "Support and parts",
+   "explanation": "A long-standing brand such as iRobot has a larger support network and a wider supply of bags and brushes. Newer brands can be good value but ask more of you when a part runs out. Keep the manual and a spare brush. A support line that picks up the phone is worth more to a first-time owner than an extra 1,000 Pa."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "AutoEmpty dock",
+   "meaning": "A base that sucks the dirt out of the robot into a bag. It removes daily bin emptying.",
+   "watchFor": "The Roomba 105 Vac with AutoEmpty quotes up to 75 days."
+  },
+  {
+   "spec": "No Wi-Fi needed",
+   "meaning": "The robot works from a remote or buttons with no phone app. It needs no account.",
+   "watchFor": "The ILIFE V2 states this in its listing."
+  },
+  {
+   "spec": "BoostIQ",
+   "meaning": "A feature that raises suction on carpet without you changing a setting. It keeps controls simple.",
+   "watchFor": "The eufy 11S MAX reacts in about 1.5 seconds."
+  },
+  {
+   "spec": "Sealed bag",
+   "meaning": "A dock bag that closes as it fills so dust does not escape when you throw it away. It protects people with allergies.",
+   "watchFor": "The Roborock Q7 M5+ quotes 7 to 9 weeks from 2.7 L."
+  },
+  {
+   "spec": "Peak suction",
+   "meaning": "The Pa number is a maximum motor rating. Bare floors rarely need it.",
+   "watchFor": "The Roborock Q7 M5+ lists 10,000 Pa and the Tikom L8000 Plus lists 6,000 Pa."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Ease of starting",
+   "description": "We looked at buttons, remotes and app dependence. The Roomba 105 Vac, eufy 11S MAX and ILIFE V2 all start without a phone. Models that require the app for every run scored lower."
+  },
+  {
+   "title": "Emptying effort",
+   "description": "We compared docks and bins by how often you have to bend. The Roomba AutoEmpty at up to 75 days and Tikom at up to 90 days lead. Bin robots were judged on bin size."
+  },
+  {
+   "title": "Noise and handling",
+   "description": "We noted quiet operation and weight. The eufy 11S MAX and ILIFE V2 are light and quiet. Flagship docks scored lower for weight."
+  },
+  {
+   "title": "Setup burden",
+   "description": "We scored accounts, apps and mapping runs as effort. Remote robots scored highest. Laser robots were credited when setup is a one-off. The best arrangement is a one-time app setup by a relative, followed by a button-only routine."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We reviewed repeated owner reports on confusing apps, stuck robots and bag availability. Patterns outweighed single complaints. Models that need frequent rescuing were marked down. A robot that parks itself under a chair and calls for help every week fails the brief, whatever its specification says."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Control Preference",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No app at all",
+      "ILIFE V2",
+      "Physical remote and on-robot schedule"
+     ],
+     [
+      "Button start with an optional app",
+      "Roomba 105 Vac",
+      "Starts from the robot"
+     ],
+     [
+      "Quiet and simple",
+      "eufy 11S MAX",
+      "No setup and low noise"
+     ],
+     [
+      "App is fine, wants a mop",
+      "Roborock Q7 M5+",
+      "LiDAR and a mop pad"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "ILIFE V2",
+      "No dock and no app"
+     ],
+     [
+      "Lower mid tier",
+      "eufy 11S MAX",
+      "Quiet basic robot"
+     ],
+     [
+      "Mid tier with dock",
+      "Tikom L8000 Plus",
+      "90 day bag quote"
+     ],
+     [
+      "Upper mid tier with brand dock",
+      "Roomba 105 Vac with AutoEmpty",
+      "75 day dock from a known brand"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Dock vs No Dock",
+   "cards": [
+    {
+     "label": "Dock",
+     "text": "The Roomba AutoEmpty, Roborock Q7 M5+ and Tikom L8000 Plus empty themselves for weeks. They cost more and need bags."
+    },
+    {
+     "label": "No dock",
+     "text": "The Roomba 105 Vac, ILIFE V2 and eufy 11S MAX need a bin trip after most runs. They cost less and take no wall space."
+    }
+   ],
+   "note": "Choose a dock if bending is hard, and no dock if space and budget matter more."
+  },
+  {
+   "subheading": "Noise and Schedule",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Home all day",
+      "eufy 11S MAX",
+      "Quiet operation"
+     ],
+     [
+      "Out in the morning",
+      "Roomba 105 Vac",
+      "Schedule from the app or button"
+     ],
+     [
+      "Nap time protection",
+      "ILIFE V2",
+      "Schedule on the robot"
+     ],
+     [
+      "Light dust daily",
+      "Roborock Q7 M5+",
+      "Quiet mode and a sealed bag"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For First-Time Users Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A start button on the robot, a clear remote or app and a brand with a phone support line. Ask a relative to do the first setup."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ILIFE V2 needs no setup and the Roomba 105 Vac has a robot button and an optional app."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Bending is difficult or you dislike chores. The Roomba AutoEmpty and Tikom docks cut emptying to a few times a year."
+    },
+    {
+     "label": "Save if",
+     "text": "You do not mind a short bin trip. The ILIFE V2 or eufy 11S MAX cost much less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Empty the bin or replace the bag",
+   "interval": "After runs or every 2 to 3 months",
+   "why": "A full bin lowers suction. Docks cut this to a few times a year."
+  },
+  {
+   "task": "Clear hair from the brush",
+   "interval": "Every 1 to 2 weeks",
+   "why": "Wrapped hair slows the roller and can stop the robot. Cut it along the groove."
+  },
+  {
+   "task": "Tap out the filter",
+   "interval": "Weekly",
+   "why": "A clogged filter cuts airflow. Tap it into the bin and let it dry."
+  },
+  {
+   "task": "Clear the floor before runs",
+   "interval": "Each run",
+   "why": "Cables, socks and slippers stop robots. A quick pick-up saves rescuing it."
+  },
+  {
+   "task": "Wipe the charging contacts",
+   "interval": "Monthly",
+   "why": "Dust stops the robot docking. A dry cloth fixes it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a smartphone to use a robot vacuum?",
+   "a": "Not for every model. The ILIFE V2 comes with a remote and needs no Wi-Fi, and the Roomba 105 Vac and eufy 11S MAX start from a button. The app adds schedules and rooms."
+  },
+  {
+   "q": "Which robot is quietest?",
+   "a": "The eufy 11S MAX leads with quiet operation. Quiet mode on the others lowers noise. Avoid boost except on carpet."
+  },
+  {
+   "q": "Is a self-emptying dock worth the money?",
+   "a": "If bending is difficult, yes. A dock like the Roomba AutoEmpty cuts emptying to a few times a year. Bags are a running cost. Buy bags in a multipack with the robot so the first change is not a scramble."
+  },
+  {
+   "q": "Will a robot stop at stairs?",
+   "a": "Cliff sensors stop the robot at an edge. Dust can fool them, so wipe the sensors monthly. Use a barrier at open stairs."
+  },
+  {
+   "q": "How do I stop it getting stuck on cables?",
+   "a": "Pick up cables, socks and slippers before each run. A robot cannot reliably avoid them. Use the remote to rescue it. If it is wedged under furniture, switch it off at the side before lifting it so the wheels are not spinning."
+  },
+  {
+   "q": "Can a family member set it up for me?",
+   "a": "Yes, and that is wise. They can do the app and the map once. After that, the daily routine can be a single button."
+  }
+ ],
+ "relatedGuides": []
+}

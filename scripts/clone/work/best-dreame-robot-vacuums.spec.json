@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-dreame-robot-vacuums",
+ "categorySlug": "home-machines",
+ "mainKeyword": "dreame robot vacuums",
+ "guideTitle": "Best Dreame Robot Vacuums (2026)",
+ "metaTitle": "Best Dreame Robot Vacuums (2026)",
+ "metaDescription": "Six Dreame robot vacuums and mops compared on suction, hot-water mop washing, obstacle climbing and dock upkeep, from entry bag docks to flagships.",
+ "lastUpdated": "2026-11-14",
+ "readTime": "11 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41KmeOf1HbL._SL500_.jpg",
+ "expertTake": "The Dreame L60 Pro Ultra is the top pick because it climbs thresholds and lowers its laser turret to slip under furniture. The D20 Plus is the value pick, with a very large bag and a detangling brush at a modest price tier. Owners of small flats with little carpet should skip the flagship docks and buy the simpler models.",
+ "introParagraphs": [
+  "This brand sells robots across a wide range, from bag docks that only empty dust to stations that wash, heat and dry their own mop pads. The model names look similar, so a lot of the work in choosing is knowing which letter and number stand for what.",
+  "The differences that matter are physical: how high the robot can climb, whether the mop extends to reach edges, how hot the wash water gets and how big the dust bag is. This guide sorts six models by those mechanisms rather than by the peak suction figures on the box."
+ ],
+ "products": [
+  {
+   "id": "B0GJM6D1MV",
+   "badge": "Best Overall",
+   "name": "Dreame L60 Pro Ultra, 35,000 Pa, 3.47 in obstacle crossing",
+   "specs": [
+    "35,000 Pa",
+    "Climbs 3.47 in",
+    "VersaLift LiDAR",
+    "212 F wash"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "35,000 Pa"
+    },
+    {
+     "label": "Obstacle crossing",
+     "value": "Up to 3.47 in"
+    },
+    {
+     "label": "Turret",
+     "value": "Lifts to 3.50 in body"
+    },
+    {
+     "label": "Mop wash",
+     "value": "212 F"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    }
+   ],
+   "description": "The headline trick of the L60 Pro Ultra is its legs. A retractable ProLeap mechanism raises the body so it can climb up to 3.47 in, which the maker rates for double-layer thresholds that stop ordinary robots. The second trick is the VersaLift laser turret, which sinks into the body and cuts the robot to about 3.50 in tall so it can run under sofas.\n\nThose are real mechanical advantages over the L40 Ultra Gen 2, which has no climbing legs. The 35,000 Pa figure is the highest in the group but remains a peak rating, and the wash cycle uses 212 F water that loosens grease on pads far better than a cold rinse. The price tier is the second highest, so it suits homes with thresholds, rugs and low furniture, not tidy hard-floor flats.\n\nThe dock has more to clean: a heated wash tray, clean and dirty tanks, and a dust bag. Wipe the tray weekly, descale the heater path every few months, and expect to replace mop pads and bags. Keep the turret clear of hair because a jam there stops the lift.",
+   "bestFor": "Homes with raised thresholds, thick rugs and low-slung furniture.",
+   "pros": [
+    "Legs climb up to 3.47 in thresholds",
+    "Laser turret lowers to fit under furniture",
+    "212 F pad washing lifts greasy film",
+    "Highest suction label in the lineup"
+   ],
+   "cons": [
+    "Second highest price tier here",
+    "More moving parts to keep clean and clear",
+    "Large dock needs a flat, water-safe corner"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GJM6D1MV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41KmeOf1HbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GHN2WH38",
+   "badge": "Best Hot-Wash Dock",
+   "name": "Dreame L60 Ultra FE, 30,000 Pa, 212 F ThermoHub, TriCut brush",
+   "specs": [
+    "30,000 Pa",
+    "212 F wash",
+    "TriCut brush",
+    "Corner mop"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "30,000 Pa"
+    },
+    {
+     "label": "Pad wash",
+     "value": "212 F heated washboard"
+    },
+    {
+     "label": "Brush",
+     "value": "TriCut blade rubber"
+    },
+    {
+     "label": "Corners",
+     "value": "Extending mop"
+    },
+    {
+     "label": "Dock",
+     "value": "ThermoHub"
+    }
+   ],
+   "description": "The FE variant of the L60 line keeps the boiling-point wash and drops the climbing legs. ThermoHub heats a washboard to 100 C, about 212 F, to scrub the pads, and a TriCut blade-style rubber brush sits in full contact with the floor and cuts long hair as it goes. That cutting action is a different approach from the comb on Roborock rollers.\n\nBecause it lacks the L60 Pro Ultra's legs it costs less, and with 30,000 Pa against 35,000 Pa the suction gap is small in daily use. It also trims the turret lift. If your floors are mostly flat and your concern is greasy kitchen tile, this is the sensible way to get the hot wash without the climbing hardware.\n\nExpect the usual dock upkeep: empty the dirty tank, scrub the heated board when residue appears, and descale. The blade rubber brush needs hair snipped from its ends and the edge blades replaced when worn, which makes it a slightly higher maintenance brush than a plain rubber one.",
+   "bestFor": "Flat-floor homes where greasy messes call for a very hot pad wash.",
+   "pros": [
+    "Heated washboard reaches about 212 F",
+    "TriCut brush cuts long strands as it rolls",
+    "Extending mop reaches into corners",
+    "Lower price tier than the Pro Ultra"
+   ],
+   "cons": [
+    "No climbing legs for tall thresholds",
+    "Cutter blades are a wear item",
+    "Heated board needs descaling in hard water"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GHN2WH38?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31sLAfaYEvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FSJPFDPV",
+   "badge": "Best Edge Reach",
+   "name": "Dreame L40 Ultra Gen 2, 25,000 Pa, extendable side brush and mop",
+   "specs": [
+    "25,000 Pa",
+    "Extending brush",
+    "Extending mop",
+    "All-in-one dock"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "25,000 Pa"
+    },
+    {
+     "label": "Side brush",
+     "value": "Extendable"
+    },
+    {
+     "label": "Mop",
+     "value": "Extendable"
+    },
+    {
+     "label": "Dock",
+     "value": "Self-cleaning, all-in-one"
+    },
+    {
+     "label": "Fit",
+     "value": "Hard floors and carpet"
+    }
+   ],
+   "description": "The L40 Ultra Gen 2 addresses a very old robot complaint: a round body cannot reach square corners. Both the side brush and the mop pad swing outward to reach into corners and under furniture edges, then retract. An all-in-one dock handles emptying, washing and refilling.\n\nIt carries 25,000 Pa, below the L60 models, and has no climbing legs or lifting turret, which is the trade for a mid tier price. For a home of mostly rectangular rooms with a lot of skirting, the edge reach matters more than the extra suction of the L60 Pro Ultra. Pad washing is hot but not at the 212 F level.\n\nMaintenance is standard dock care. Rinse the tanks, clear hair from the extending arm mechanism, and watch for debris in the slide that lets the mop extend, since grit can slow it. Pads and bags are the running cost.",
+   "bestFor": "Square rooms and baseboards where corner coverage counts most.",
+   "pros": [
+    "Side brush and mop both extend into corners",
+    "All-in-one dock empties, washes and refills",
+    "25,000 Pa label covers rugs adequately",
+    "Mid-tier price in the group"
+   ],
+   "cons": [
+    "No legs to climb tall thresholds",
+    "Extending arms can collect grit",
+    "Pad wash is cooler than the L60 line"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FSJPFDPV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Vm7qUbB3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GQSGPQZ9",
+   "badge": "Best Mop Lift",
+   "name": "Dreame D30 Ultra CE, 25,000 Pa, 0.41 in mop lift, self-cleaning base",
+   "specs": [
+    "25,000 Pa",
+    "0.41 in mop lift",
+    "Washboard",
+    "Multifunction base"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "25,000 Pa"
+    },
+    {
+     "label": "Mop lift",
+     "value": "0.41 in"
+    },
+    {
+     "label": "Self-clean",
+     "value": "Washboard system"
+    },
+    {
+     "label": "Dock",
+     "value": "Multifunctional base"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    }
+   ],
+   "description": "The D30 Ultra CE is aimed at carpet owners who also mop. The mop pads rise 0.41 in off the floor when it crosses a rug, so wet pads stay clear of the pile, and a washboard in the base scrubs them clean after each job. It is a practical answer to the wet-carpet worry that plagues cheaper combo machines.\n\nAt 25,000 Pa it matches the L40 Ultra Gen 2 on suction, and it skips that model's extending corner tools. A 0.41 in lift is modest next to the L60 Pro Ultra's body climb, so use it for rug transitions rather than thick thresholds. If your rugs are thin and you value dry carpets, it is the sensible mid pick.\n\nRoutine care is a clean washboard, an empty dirty tank and a fresh bag when the app prompts. Watch the mop lifter for fluff because strands around its moving parts can stop the lift.",
+   "bestFor": "Homes with area rugs that need mopping without wetting them.",
+   "pros": [
+    "Mop pads lift 0.41 in over carpet",
+    "Washboard scrubs pads after each run",
+    "25,000 Pa suction label",
+    "Multifunction base handles most chores"
+   ],
+   "cons": [
+    "Mop lift cannot climb tall thresholds",
+    "No extending corner tools",
+    "Washboard needs regular scrubbing"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQSGPQZ9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31mjzYg9FrL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F3C98LMB",
+   "badge": "Best Value",
+   "name": "Dreame D20 Plus, 13,000 Pa, DuoBrush, 5 L self-empty bag",
+   "specs": [
+    "13,000 Pa",
+    "DuoBrush",
+    "5 L bag",
+    "150 days"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "13,000 Pa"
+    },
+    {
+     "label": "Bag",
+     "value": "5 L, up to 150 days"
+    },
+    {
+     "label": "Brush",
+     "value": "Detangling DuoBrush"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    },
+    {
+     "label": "Dock",
+     "value": "Self-empty only"
+    }
+   ],
+   "description": "The D20 Plus is the plain, sensible entry in the lineup. A detangling DuoBrush pairs two rollers to move hair inward, the dock holds a 5 L bag that the maker rates at up to 150 days, and it adds a mop pad for light wet work. There is no pad washing, which cuts cost and cuts parts.\n\nIts 13,000 Pa is the lowest of the group apart from the older L10s, and the mop is a light-duty pad rather than a scrubber. The bag is the star: at 150 days it is the longest interval here and the largest capacity, so you rarely touch the dock. If you vacuum much more than you mop, it is the best way to spend less.\n\nCare is limited to rinsing the pad by hand, clearing the brush and replacing the bag. Check the bag at two months in a home with shedding pets, because the label is a best case.",
+   "bestFor": "Budget-minded homes that mostly vacuum and rarely mop.",
+   "pros": [
+    "Largest bag with up to 150 days quoted",
+    "Detangling DuoBrush for pet hair",
+    "Lowest running parts count in the lineup",
+    "Includes a mop pad for light wiping"
+   ],
+   "cons": [
+    "Lowest suction among the newer models",
+    "No pad washing at the dock",
+    "Pad is only for light damp work"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3C98LMB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31U8F48SqyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CVL2TT74",
+   "badge": "Best Older Design",
+   "name": "Dreame L10s Pro Ultra Heat, 7,000 Pa, 136 F mop wash, MopExtend",
+   "specs": [
+    "7,000 Pa",
+    "136 F wash",
+    "MopExtend",
+    "Hot-water dock"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "7,000 Pa"
+    },
+    {
+     "label": "Pad wash",
+     "value": "136 F hot water"
+    },
+    {
+     "label": "Edge",
+     "value": "MopExtend"
+    },
+    {
+     "label": "Dock",
+     "value": "Self-wash and dry"
+    },
+    {
+     "label": "Era",
+     "value": "Earlier generation"
+    }
+   ],
+   "description": "The L10s Pro Ultra Heat is an earlier-generation machine that still has the feature set most buyers want. It extends the mop pad toward edges with MopExtend, washes pads in 136 F water and dries them in the dock, all at only 7,000 Pa. It is the one model here whose appeal is that it does not chase the biggest numbers.\n\nAgainst the L40 Ultra Gen 2 it has lower suction, 7,000 Pa against 25,000 Pa, and cooler washing, but it also costs less to buy. The extending mop gives it edge reach that the D20 Plus lacks. Think of it as a proven mid-range pad washer rather than a carpet specialist.\n\nOwnership is dock upkeep: empty the dirty tank, clear the wash tray and replace pads and bags. As an older model, check that the dock bags and mop pads are still easy to find before you commit.",
+   "bestFor": "Hard-floor homes wanting hot pad washing without flagship pricing.",
+   "pros": [
+    "136 F pad wash and warm-air drying",
+    "MopExtend swings the pad toward edges",
+    "Proven earlier-generation design",
+    "Lower suction is quieter in daily use"
+   ],
+   "cons": [
+    "Only 7,000 Pa for rugs",
+    "Older platform, so check spare availability",
+    "Cooler wash than the L60 line"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CVL2TT74?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21D2tmpkUyL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Climbing versus lifting",
+   "explanation": "Robots deal with rugs and thresholds in two different ways. The L60 Pro Ultra climbs up to 3.47 in with legs, while the D30 Ultra CE only lifts its mop 0.41 in over carpet. Measure your highest threshold, because a robot that cannot cross it will be stuck in one room. Tall doorway tracks need the legs, and ordinary rugs need only the lift."
+  },
+  {
+   "criterion": "Wash water temperature",
+   "explanation": "Hot water breaks down grease that a cold rinse smears around. The L60 Ultra FE heats to about 212 F, the L10s Pro Ultra Heat to 136 F, and the D20 Plus does not wash pads at all. If your floors are kitchen tile with cooking film, the hot models are worth the cost. For dusty bedrooms the extra heat does nothing."
+  },
+  {
+   "criterion": "Edge and corner reach",
+   "explanation": "Round robots miss the last inch of a square corner. The L40 Ultra Gen 2 extends both brush and mop, and the L10s Pro Ultra Heat extends the mop alone. Count the corners in your layout, since rooms with plenty of skirting gain the most. Open floor plans gain little."
+  },
+  {
+   "criterion": "Bag size and real interval",
+   "explanation": "The D20 Plus carries a 5 L bag quoted at up to 150 days. Larger bags cost less in labour, but the interval is a best case for a home with little pet hair. In a household with a shedding dog, check the bag at two months and swap it before it smells."
+  },
+  {
+   "criterion": "Hair handling brush",
+   "explanation": "The L60 Ultra FE uses a TriCut blade brush that cuts hair, and the D20 Plus uses a DuoBrush that moves it inward. Cutting brushes need blade replacement, and detangling brushes need a snip now and then. Pick based on whether your hair is very long or merely plentiful."
+  },
+  {
+   "criterion": "Height under furniture",
+   "explanation": "Laser turrets add height. The L60 Pro Ultra drops its turret to about 3.50 in, which is a real clearance advantage over fixed-turret robots. Measure the gap under your sofa and bed before buying a taller flagship dock model."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Suction in Pa",
+   "meaning": "This is the strongest the motor can pull on its maximum setting. It is a maker figure and not directly comparable across brands.",
+   "watchFor": "The L60 Pro Ultra lists 35,000 Pa and the L10s Pro Ultra Heat lists 7,000 Pa, a five-fold gap that daily results do not mirror."
+  },
+  {
+   "spec": "Obstacle crossing",
+   "meaning": "This is the highest edge the robot can climb without stalling. It protects you from being stuck at a doorway track.",
+   "watchFor": "The L60 Pro Ultra states 3.47 in, and the D30 Ultra CE only lifts its mop 0.41 in."
+  },
+  {
+   "spec": "Pad wash temperature",
+   "meaning": "The temperature of the water used to wash pads in the dock. Hotter water dissolves oils and sanitises better.",
+   "watchFor": "The L60 Ultra FE reaches 212 F while the L10s Pro Ultra Heat reaches 136 F."
+  },
+  {
+   "spec": "Bag days",
+   "meaning": "The days figure comes from the maker's average-home estimate. Pet hair and fine dust shorten it.",
+   "watchFor": "The D20 Plus quotes up to 150 days from a 5 L bag, which is the longest in this guide."
+  },
+  {
+   "spec": "MopExtend",
+   "meaning": "A mechanism that swings the mop pad out past the body to touch walls and baseboards. It improves the last inch of wet coverage.",
+   "watchFor": "The L10s Pro Ultra Heat and L40 Ultra Gen 2 both extend, but only the L40 also extends the side brush."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Mechanical features",
+   "description": "We compared climbing legs, lifting turrets, extending mops and mop lifters from each listing. Features that solve a physical problem outscored larger suction numbers. The L60 Pro Ultra ranked first for combining climbing and a low-profile turret."
+  },
+  {
+   "title": "Dock design",
+   "description": "We reviewed bag size, pad washing temperature and drying method. A 5 L bag at the D20 Plus and a 212 F wash at the L60 Ultra FE represent the two ends. Docks with more functions were credited for convenience and marked down for upkeep."
+  },
+  {
+   "title": "Carpet and rug handling",
+   "description": "We looked at how each machine avoids wetting rugs and how high it can climb. The D30 Ultra CE lifts its mop 0.41 in, and the L60 Pro Ultra climbs 3.47 in. Models with neither were limited to hard-floor picks."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We evaluated recurring owner reports of app glitches, stuck docks, and worn parts. Repeated problems lowered a model's score. Isolated complaints were treated as noise."
+  },
+  {
+   "title": "Running cost",
+   "description": "We counted bags, pads, brushes and any blades that need replacing. The D20 Plus has the fewest parts, and the L60 Ultra FE adds cutter blades. Cheap upfront models that burn expensive consumables lost points."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Floor Layout",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "High thresholds between rooms",
+      "L60 Pro Ultra",
+      "Legs climb up to 3.47 in"
+     ],
+     [
+      "Mostly rectangular rooms and skirting",
+      "L40 Ultra Gen 2",
+      "Extending brush and mop reach corners"
+     ],
+     [
+      "Area rugs and hard floors mixed",
+      "D30 Ultra CE",
+      "Mop lifts 0.41 in over carpet"
+     ],
+     [
+      "Flat tile and hardwood only",
+      "L60 Ultra FE",
+      "Very hot wash on a flat-floor machine"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest price tier",
+      "D20 Plus",
+      "Bag dock with a modest mop"
+     ],
+     [
+      "Lower mid tier, hot wash",
+      "L10s Pro Ultra Heat",
+      "136 F wash on an earlier design"
+     ],
+     [
+      "Mid tier, edge reach",
+      "L40 Ultra Gen 2",
+      "Extending tools and an all-in-one dock"
+     ],
+     [
+      "Top tier, climbing and low turret",
+      "L60 Pro Ultra",
+      "Legs and VersaLift turret"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Hot Wash vs Bag-Only Dock",
+   "cards": [
+    {
+     "label": "Hot-wash dock",
+     "text": "The L60 Ultra FE and L10s Pro Ultra Heat clean their own pads with heated water, and the dock dries them. It costs more and adds tanks and a wash tray to maintain."
+    },
+    {
+     "label": "Bag-only dock",
+     "text": "The D20 Plus empties dust into a 5 L bag and nothing more. Fewer parts fail, but you rinse the pad yourself."
+    }
+   ],
+   "note": "Pick hot wash if you mop weekly, and the bag-only dock if you mop occasionally."
+  },
+  {
+   "subheading": "Rug Strategy",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Thin rugs, want dry pile",
+      "D30 Ultra CE",
+      "Lifts the mop pad over the rug"
+     ],
+     [
+      "Thick rug with tall edge",
+      "L60 Pro Ultra",
+      "Climbs up to 3.47 in"
+     ],
+     [
+      "Mostly carpet, rarely mop",
+      "D20 Plus",
+      "Bag dock and DuoBrush for rugs"
+     ],
+     [
+      "Rugs plus greasy kitchen",
+      "L60 Ultra FE",
+      "Hot wash after wet passes"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Low Furniture Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A retractable laser turret or a low body, and a published height. Measure the gap under your tightest bed or sofa and subtract a half inch for clearance."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The L60 Pro Ultra drops to about 3.50 in with its VersaLift turret, which is the clearest answer here. Other models keep the turret fixed and sit taller."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have thresholds, thick rugs or a greasy kitchen. The L60 Pro Ultra and L60 Ultra FE solve those physical problems."
+    },
+    {
+     "label": "Save if",
+     "text": "Your floors are flat and you mostly vacuum. The D20 Plus or L10s Pro Ultra Heat give you a working dock at a modest tier."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Scrub the wash tray or board",
+   "interval": "Weekly",
+   "why": "Mop residue forms a film that smells and re-soils pads. A damp cloth removes it in a minute."
+  },
+  {
+   "task": "Empty and rinse the dirty tank",
+   "interval": "After each mop run",
+   "why": "Standing grey water breeds odor. Rinse it and leave the lid open to dry."
+  },
+  {
+   "task": "Clear hair from the brush and turret",
+   "interval": "Weekly",
+   "why": "Wrapped strands slow the roller and can jam the lifting turret on the L60 line."
+  },
+  {
+   "task": "Replace the dust bag",
+   "interval": "Every 2 to 5 months",
+   "why": "The interval depends on bag size and pet load. Swap early in humid homes."
+  },
+  {
+   "task": "Descale heater and water lines",
+   "interval": "Every 3 months",
+   "why": "Hard water scales heated washboards and pumps. Run descaler through the clean tank."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which model should I buy if I only have hard floors?",
+   "a": "The L60 Ultra FE gives the hottest pad wash and a cutting brush for flat floors. If budget matters more, the D20 Plus handles dry work and light wiping. Skip the climbing legs you will never use."
+  },
+  {
+   "q": "Do I need 35,000 Pa?",
+   "a": "No. The number is a peak rating and the brush design decides most carpet results. The L60 Pro Ultra buys that figure alongside legs and a low turret, so judge it on those."
+  },
+  {
+   "q": "Is the long bag interval realistic?",
+   "a": "Treat the quoted days as a best case. A 5 L bag in a light-shedding home can approach the figure, but a dog will fill it faster. Check it at two months."
+  },
+  {
+   "q": "Can these robots mop carpet?",
+   "a": "They are built to avoid it. The D30 Ultra CE lifts its mop 0.41 in over rugs, and others detect carpet and skip wet passes. Keep a rug off the mop route if it is thick."
+  },
+  {
+   "q": "How hot is hot-water washing?",
+   "a": "The L10s Pro Ultra Heat washes at 136 F and the L60 Ultra FE reaches about 212 F. Hotter water cuts grease better. Both need descaling over time."
+  },
+  {
+   "q": "Are older models still worth buying?",
+   "a": "The L10s Pro Ultra Heat remains a working mid-tier pad washer. Confirm that bags and pads remain on sale first, because spares dry up for older docks."
+  }
+ ],
+ "relatedGuides": []
+}

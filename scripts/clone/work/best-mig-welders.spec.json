@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-mig-welders",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "mig welders",
+ "guideTitle": "Best MIG Welders (2026)",
+ "metaTitle": "Best MIG Welders in 2026",
+ "metaDescription": "Six MIG welders from a 120V portable to a pro dual-voltage unit, compared on amperage, voltage, gas versus flux-core and controls for steel work.",
+ "lastUpdated": "2026-11-12",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41bK+NAhRhL._SL500_.jpg",
+ "expertTake": "The Millermatic 211 PRO is the best pick for anyone who wants a machine that will still be useful in ten years, because it welds steel, stainless and aluminum on 120V or 240V with pulse. The YESWELDER 160A is the value pick for a home garage on a budget. If you only fix farm gates in the wind, skip MIG entirely and buy a stick welder.",
+ "introParagraphs": [
+  "MIG welding feeds a continuously spooled wire through a torch while shielding gas protects the puddle. It is the process most hobbyists and fabricators reach for first, because the wire feed does the rhythm for you and the beads come out clean on mild steel. It is faster than stick and easier to learn than TIG.",
+  "The catch is the setup. You need shielding gas for clean results, you need still air, and the machine you can afford on a household circuit has a real limit on metal thickness. Matching the welder to your outlet and your material matters far more than the number on the box."
+ ],
+ "products": [
+  {
+   "id": "B0FFWV5DJG",
+   "badge": "Best Overall",
+   "name": "Millermatic 211 PRO MIG Welder, 120/240V Auto-Set",
+   "price": "",
+   "specs": [
+    "120V/240V",
+    "Dyna-Pulse MIG",
+    "Auto-Set",
+    "BeadVision"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "120V or 240V dual voltage"
+    },
+    {
+     "label": "Materials",
+     "value": "Mild steel, stainless, aluminum with spool gun"
+    },
+    {
+     "label": "Max thickness",
+     "value": "Up to 3/8 in per listing"
+    },
+    {
+     "label": "Controls",
+     "value": "Auto-Set with Dyna-Pulse MIG"
+    },
+    {
+     "label": "Monitoring",
+     "value": "BeadVision bead feedback"
+    }
+   ],
+   "description": "The Millermatic 211 PRO is a professional-grade MIG machine, and it earns the top spot on capability rather than price. It runs on 120V or 240V, welds steel, stainless and aluminum when fitted with a spool gun, and the listing quotes up to 3/8 inch material. Dyna-Pulse MIG alternates the current to reduce heat input, which makes thin stainless and aluminum far easier to control.\n\nAuto-Set picks voltage and wire speed from the wire size and thickness you choose, so a newcomer can start quickly, while experienced welders can switch to manual. BeadVision gives real-time feedback on the bead, a feature that is genuinely new and useful for learning. Compared with the 120V-only Lincoln 90i here, the Miller is a machine you grow into rather than out of.\n\nThe cost is the top price tier in this guide, a gas cylinder you must buy or lease and a bigger, heavier machine than the inverter hobby units. Expect to do a few rounds of consumable swaps: contact tips, nozzles and liners wear with use. It is the right buy for a fab shop or a serious home builder.",
+   "bestFor": "Serious home builders and small shops that weld steel, stainless and aluminum.",
+   "pros": [
+    "120V and 240V dual voltage",
+    "Dyna-Pulse for thin metal and aluminum",
+    "Auto-Set speeds up setup",
+    "BeadVision bead feedback"
+   ],
+   "cons": [
+    "Top price tier in this lineup",
+    "Needs gas and a spool gun for aluminum"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FFWV5DJG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41bK+NAhRhL._SL500_.jpg"
+  },
+  {
+   "id": "B0BTMVVG35",
+   "badge": "Best 120V Portable",
+   "name": "Lincoln Electric Weld-Pak 90i MIG and Flux-Core 120V",
+   "price": "",
+   "specs": [
+    "120V only",
+    "MIG and flux-core",
+    "Shoulder strap",
+    "Kit included"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "120V household"
+    },
+    {
+     "label": "Processes",
+     "value": "MIG and flux-core"
+    },
+    {
+     "label": "Carry",
+     "value": "Shoulder strap"
+    },
+    {
+     "label": "Included",
+     "value": "Gun, nozzle, contact tip, work cable"
+    },
+    {
+     "label": "Use",
+     "value": "Light fabrication and repair"
+    }
+   ],
+   "description": "The Weld-Pak 90i is a small 120V wire feed welder from a name with decades of service history. It handles MIG and flux-core and comes with a welding gun, nozzle, contact tip and work cable, so you can plug it into a household outlet and weld. The shoulder strap shows what it is for: repairs, maintenance and light fabrication where you carry the machine to the job.\n\nThe model name signals the limit. A 90 class machine is designed for thin sheet and light steel, not thick structural work, so it is the smallest welder in this guide. That is a good thing if your projects are exhaust, trailer repairs and thin brackets, and a poor thing if you want to weld quarter inch plate. Compared with the YESWELDER 160A, it gives up capacity for brand support and simplicity.\n\nOwnership is easy. Replace the contact tip and nozzle as they wear, keep the wire dry and the liner clean, and use a dedicated 20 amp circuit when possible. Lincoln parts are widely stocked.",
+   "bestFor": "Repair work and light fabrication where you need a brand-name 120V welder.",
+   "pros": [
+    "Plugs into a standard household outlet",
+    "Lincoln parts and support widely available",
+    "Gun and accessories included",
+    "Light enough to carry on a shoulder strap"
+   ],
+   "cons": [
+    "Limited capacity for thick steel",
+    "120V only, no dual-voltage upgrade"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0BTMVVG35?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31VBuwEHetL._SL500_.jpg"
+  },
+  {
+   "id": "B0BX3VRGW3",
+   "badge": "Best Value",
+   "name": "YESWELDER 160A MIG Welder 110V/220V 4-in-1 Synergic",
+   "price": "",
+   "specs": [
+    "160A output",
+    "110V/220V",
+    "4-in-1",
+    "Synergic"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "160A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V dual voltage"
+    },
+    {
+     "label": "Processes",
+     "value": "Flux-core, gas MIG, stick, lift TIG"
+    },
+    {
+     "label": "Control",
+     "value": "Synergic with digital display"
+    },
+    {
+     "label": "TIG note",
+     "value": "Lift TIG torch sold separately"
+    }
+   ],
+   "description": "The YESWELDER 160A is the value machine: a 160 amp inverter with dual voltage, four processes and synergic control with a clear digital display. The listing says you must buy the lift TIG torch separately. The headline 160A rating is a maximum, and the real working range on 110V is lower.\n\nThat dual-voltage input is the key advantage. On 220V it has far more headroom for thicker steel, while on 110V it works in a household garage. The synergic control chooses voltage and wire speed from your thickness setting, which helps beginners. Compared with the ARCCAPTAIN 165A, it is nearly the same class, and the choice comes down to price, support and the feel of the controls.\n\nAs a lower-cost inverter, expect a less durable feed mechanism and torch than a Miller or Lincoln, and plan to replace consumables regularly. Buy a spare liner and contact tips with it. It is the sensible starter for a home garage that wants to grow.",
+   "bestFor": "Home garages that want dual-voltage MIG with synergic control at a low price tier.",
+   "pros": [
+    "160A output with 110V and 220V input",
+    "Four processes in one machine",
+    "Synergic control for beginners",
+    "Clear digital display"
+   ],
+   "cons": [
+    "TIG torch is sold separately",
+    "Budget feed and torch durability"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0BX3VRGW3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51ZCr2sLpKL._SL500_.jpg"
+  },
+  {
+   "id": "B0F89XL34N",
+   "badge": "Best Beginner Features",
+   "name": "ARCCAPTAIN 165A MIG Welder 110V/220V 4-in-1",
+   "price": "",
+   "specs": [
+    "165A output",
+    "110V/220V",
+    "Gas and gasless",
+    "Synergic"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "165A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V dual voltage"
+    },
+    {
+     "label": "Processes",
+     "value": "Gas MIG, flux-core, lift TIG, stick"
+    },
+    {
+     "label": "Control",
+     "value": "Synergic, upgraded MCU and IGBT"
+    },
+    {
+     "label": "TIG note",
+     "value": "TIG torch sold separately"
+    }
+   ],
+   "description": "The ARCCAPTAIN 165A is the most beginner-oriented of the budget machines. The listing describes upgraded MCU and IGBT technology for finer adjustment, a clear display and synergic control, and it runs gas MIG, flux-core, lift TIG and stick on 110V or 220V. The TIG torch is a separate purchase.\n\nIts 165A rating is five amps above the YESWELDER 160A, which does not change what you can weld in practice. What matters more is the interface and how it behaves on 110V, where the duty cycle shrinks. For beginners the synergic mode removes the guesswork about wire speed and voltage, while the manual mode remains for those who learn.\n\nAs with all budget multi-process units, each mode is a compromise, so treat it as a MIG welder with stick and flux-core as backup. Watch the duty cycle on 110V, and buy a regulator and gas cylinder before the first weld. It is a good choice if your priority is a low learning curve.",
+   "bestFor": "First-time welders who want synergic control and room to grow.",
+   "pros": [
+    "165A on dual voltage input",
+    "Synergic mode removes setup guesswork",
+    "Four processes available",
+    "Upgraded MCU and IGBT control"
+   ],
+   "cons": [
+    "TIG torch not included",
+    "Duty cycle is short on 110V"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F89XL34N?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51GW2TUAy1L._SL500_.jpg"
+  },
+  {
+   "id": "B08CBBHFX5",
+   "badge": "Best Compact Flux Core",
+   "name": "YESWELDER 135A MIG Welder 110V Flux Core 3-in-1",
+   "price": "",
+   "specs": [
+    "135A output",
+    "110V only",
+    "Flux-core MIG",
+    "Lift TIG and stick"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "135A"
+    },
+    {
+     "label": "Input",
+     "value": "110V"
+    },
+    {
+     "label": "Processes",
+     "value": "Flux-core gasless MIG, lift TIG, stick"
+    },
+    {
+     "label": "Control",
+     "value": "Synergic with digital display"
+    },
+    {
+     "label": "Setup",
+     "value": "Ready to weld without gas"
+    }
+   ],
+   "description": "The YESWELDER 135A is the entry machine: 135 amps, 110V only and focused on gasless flux-core MIG, with stick and lift TIG as extras. The listing calls out a synergic control that matches settings to the material, which helps avoid burn-through on thin steel.\n\nBecause it is built for flux-core, you do not need a gas cylinder to start, which cuts setup cost and works outdoors in light wind. The trade is a messier bead with spatter and slag and less finish quality than solid wire with gas. Compared with the 160A model from the same brand it is smaller, lighter and limited to 110V.\n\nUse it for gate repairs, trailer work and general shop fixes. Wire quality matters a lot with flux-core, so buy a reputable E71T-11 wire and keep it dry. It is a sensible machine to learn on.",
+   "bestFor": "Beginners and outdoor repair work without a gas setup.",
+   "pros": [
+    "No gas needed for flux-core welding",
+    "Synergic control on thin steel",
+    "110V plug-in simplicity",
+    "Stick and lift TIG available"
+   ],
+   "cons": [
+    "110V limits thickness",
+    "Flux-core beads are messier than gas MIG"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B08CBBHFX5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pn11y7FbL._SL500_.jpg"
+  },
+  {
+   "id": "B0DNSLFYYM",
+   "badge": "Best Pulse Feature",
+   "name": "ANDELI 135A Pulse Flux-Core MIG Welder 110V/220V",
+   "price": "",
+   "specs": [
+    "135A output",
+    "110V/220V",
+    "Pulse",
+    "4.1 in LED display"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "135A"
+    },
+    {
+     "label": "Input",
+     "value": "110V or 220V"
+    },
+    {
+     "label": "Processes",
+     "value": "Flux-core MIG, stick, lift TIG"
+    },
+    {
+     "label": "Feature",
+     "value": "Pulse mode for a smoother arc"
+    },
+    {
+     "label": "Display",
+     "value": "4.1 in full LED"
+    }
+   ],
+   "description": "The ANDELI 135A adds a pulse mode, which the listing says gives a smoother, more stable arc and finer beads. Pulse reduces average heat while keeping peak current high, which is useful on thin material where burn-through is a risk. It also runs on 110V or 220V and has a 4.1 inch full LED display.\n\nIt is a three-in-one with flux-core MIG, stick and lift TIG, so, like the YESWELDER 135A, it is aimed at gasless welding. The 135A rating is below the 160A and 165A machines, but pulse and the dual-voltage input make it versatile for a smaller price. Compared with the Millermatic's Dyna-Pulse, this is a budget version of the same idea.\n\nTreat claims about stronger welds with caution and test your joints on scrap. Consumables are widely available. It suits a hobbyist who wants to experiment with pulse on thin stock.",
+   "bestFor": "Hobbyists who want pulse on thin steel at a low price.",
+   "pros": [
+    "Pulse mode for finer beads",
+    "110V and 220V input",
+    "Large 4.1 in LED display",
+    "Three processes in one unit"
+   ],
+   "cons": [
+    "Lower 135A rating than the 160A machines",
+    "Pulse benefit is smaller than on pro-grade machines"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DNSLFYYM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51couOtDVmL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Input voltage and real reach",
+   "explanation": "A 110V machine on a 20 amp circuit tops out around 140 to 160A of rated output and handles about 1/8 to 3/16 inch steel with good prep. Dual-voltage units such as the YESWELDER 160A, ARCCAPTAIN 165A and Millermatic 211 PRO double that reach on 220V or 240V. Buy dual voltage if you ever plan to weld quarter-inch steel. A 20 amp breaker and a short, heavy cord matter on 110V machines, because a long thin extension cord cuts the voltage the inverter sees and makes the arc unstable."
+  },
+  {
+   "criterion": "Gas MIG versus flux-core",
+   "explanation": "Solid wire with shielding gas gives a clean bead and little spatter but needs a cylinder and still air. Flux-core needs no gas and tolerates wind and rust but makes more spatter and slag. The YESWELDER 135A and ANDELI 135A are built around flux-core, while the Miller and 4-in-1 units handle both. Shielding gas for steel is usually 75 percent argon and 25 percent CO2 at about 15 to 25 CFH, and flux-core wire runs with the polarity reversed, a mistake that ruins many first welds."
+  },
+  {
+   "criterion": "Synergic control",
+   "explanation": "Synergic machines pick voltage and wire speed from a thickness setting, which removes the hardest part of learning MIG. The YESWELDER and ARCCAPTAIN units use it, and the Miller Auto-Set is a refined version. Experienced welders still prefer manual dials, so confirm the machine has both. If you are choosing between synergic and manual, pick the machine that lets you override the synergic numbers by a few percent, because every real joint needs a small tweak."
+  },
+  {
+   "criterion": "Duty cycle",
+   "explanation": "A rating such as 20 percent at 130A means two minutes of welding in a ten-minute window. Cheap inverter machines may state the duty cycle only on 220V. Shop welding in short beads suits a low duty cycle, but long production runs need a higher one. Short beads of an inch or two let a low duty cycle machine cool, which also reduces heat distortion on thin panels."
+  },
+  {
+   "criterion": "Aluminum and stainless capability",
+   "explanation": "Aluminum needs a spool gun or push-pull torch to avoid wire tangling. The Millermatic 211 PRO supports aluminum with a spool gun and Dyna-Pulse, while the budget machines are chiefly steel units. If you want to weld aluminum seriously, a dedicated TIG or pro MIG is the better answer. Spool guns add a separate trigger and feed motor at the torch, which stops soft aluminum wire from kinking in a long liner."
+  },
+  {
+   "criterion": "Consumables and support",
+   "explanation": "Contact tips, nozzles and liners wear out, and brands differ in availability. Lincoln and Miller parts are stocked at nearly every weld shop. Budget brands are often cheaper per part but may need online ordering, so keep spares on hand. Keep a spare liner, a handful of contact tips and a nozzle in the drawer, because a worn consumable is the cause of most feed problems."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Output amps",
+   "meaning": "The maximum current the machine can supply. It is not the same as usable thickness. Always read it with the input voltage in mind.",
+   "watchFor": "The 160A YESWELDER and 165A ARCCAPTAIN give very similar real results, because input voltage matters more."
+  },
+  {
+   "spec": "Duty cycle",
+   "meaning": "The share of a ten-minute window the machine can weld at a stated amperage without overheating. Manufacturers often quote 220V numbers prominently and 110V numbers in small print.",
+   "watchFor": "Duty cycle is usually higher on 220V than on 110V, so check the 110V figure."
+  },
+  {
+   "spec": "Dual voltage",
+   "meaning": "The ability to run on 110V or 220V/240V. Higher voltage raises the usable output. A 110V plug is convenient, but it is a ceiling.",
+   "watchFor": "The 110V-only YESWELDER 135A and Lincoln 90i cannot move up."
+  },
+  {
+   "spec": "Synergic",
+   "meaning": "A mode that sets voltage and wire speed from material thickness and wire size. Learn to override it as you gain experience.",
+   "watchFor": "Manual fine-tuning is still needed for odd joints."
+  },
+  {
+   "spec": "Pulse",
+   "meaning": "Alternating high and low current to reduce heat and spatter. Higher frequency pulse suits thinner material.",
+   "watchFor": "The ANDELI offers pulse on a budget, while the Millermatic's Dyna-Pulse is a pro-grade version."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Input and reach",
+   "description": "We compared input voltages and output ratings, from the 120V-only Lincoln 90i to the 120/240V Millermatic 211 PRO. Voltage decides which steel you can weld. A machine that needs extra purchases to deliver a process was scored on what it ships with."
+  },
+  {
+   "title": "Process range",
+   "description": "We noted which machines run gas MIG, flux-core, stick and lift TIG, and which need extra purchases such as a TIG torch. Where a listing quoted a thickness limit we treated it as a best case."
+  },
+  {
+   "title": "Beginner controls",
+   "description": "We looked for synergic and auto-set modes, which cut the learning curve on thin steel. Synergic modes were judged as a learning aid, not as a replacement for skill."
+  },
+  {
+   "title": "Support and consumables",
+   "description": "We weighed brand availability of parts, since contact tips and liners wear out. Consumable cost and availability were part of the long-term picture."
+  },
+  {
+   "title": "Evidence base",
+   "description": "This is based on spec sheets and owner feedback patterns, not our own welding time. Thickness claims are manufacturer figures. We did not rank machines on bead appearance, which depends mostly on the operator."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Work Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Steel, stainless and aluminum in a shop",
+      "Millermatic 211 PRO",
+      "Dyna-Pulse and 120V/240V"
+     ],
+     [
+      "Garage projects with a 220V outlet",
+      "YESWELDER 160A",
+      "160A on dual voltage"
+     ],
+     [
+      "Beginner learning on thin steel",
+      "ARCCAPTAIN 165A",
+      "Synergic control"
+     ],
+     [
+      "Outdoor repair without gas",
+      "YESWELDER 135A",
+      "Flux-core ready out of the box"
+     ],
+     [
+      "Portable light repair on 120V",
+      "Lincoln Weld-Pak 90i",
+      "Shoulder strap and kit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "YESWELDER 135A",
+      "Cheapest tier"
+     ],
+     [
+      "Low",
+      "ANDELI 135A",
+      "Adds pulse"
+     ],
+     [
+      "Lower middle",
+      "ARCCAPTAIN 165A",
+      "Dual voltage"
+     ],
+     [
+      "Middle",
+      "YESWELDER 160A",
+      "Dual voltage with display"
+     ],
+     [
+      "Upper",
+      "Millermatic 211 PRO",
+      "Pro-grade features"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gas MIG vs Flux-Core",
+   "cards": [
+    {
+     "label": "Gas MIG",
+     "text": "Solid wire with argon-CO2 gas gives clean beads and little cleanup. The Millermatic 211 PRO, YESWELDER 160A and ARCCAPTAIN 165A support it but need a cylinder."
+    },
+    {
+     "label": "Flux-core",
+     "text": "Gasless wire welds in wind and over light rust but spatters and leaves slag. The YESWELDER 135A and ANDELI 135A are built around it."
+    }
+   ],
+   "note": "Choose gas indoors for finish quality and flux-core outdoors or when you want simplicity."
+  },
+  {
+   "subheading": "110V vs 220V",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "110V only, simplicity",
+      "Lincoln Weld-Pak 90i",
+      "Household outlet"
+     ],
+     [
+      "110V with TIG and stick",
+      "YESWELDER 135A",
+      "Three processes"
+     ],
+     [
+      "Dual voltage",
+      "YESWELDER 160A",
+      "More thickness on 220V"
+     ],
+     [
+      "Dual voltage, pro",
+      "Millermatic 211 PRO",
+      "120V and 240V"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Thin Sheet Steel Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Low minimum current, pulse or a synergic mode and 0.023 or 0.030 inch wire. Thin sheet burns through easily."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ANDELI 135A with pulse and the Miller with Dyna-Pulse are the best at reducing heat. The Lincoln 90i is a good light-duty option."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You weld daily, need aluminum or stainless, or want parts support. The Millermatic 211 PRO is the buy."
+    },
+    {
+     "label": "Save if",
+     "text": "You weld occasionally on mild steel. The YESWELDER 160A or 135A will do."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace contact tip",
+   "interval": "Every few spools",
+   "why": "A worn tip causes erratic arcs and wire burnback. Tips are cheap and quick to swap. Keep spares in the toolbox."
+  },
+  {
+   "task": "Clean the liner",
+   "interval": "Every spool change",
+   "why": "Dust and debris make the wire stick or feed unevenly. Blow it out with air. Pull the wire out and blow the liner clear."
+  },
+  {
+   "task": "Check drive rolls",
+   "interval": "Monthly",
+   "why": "Worn or wrong-groove rolls slip. Use V-groove for solid wire and knurled for flux-core. Replace them as a set."
+  },
+  {
+   "task": "Inspect the ground clamp",
+   "interval": "Each use",
+   "why": "A poor ground gives an unstable arc. Clean the contact point on bare metal. Wire-brush the contact surface."
+  },
+  {
+   "task": "Check gas regulator",
+   "interval": "Each session",
+   "why": "Leaks waste gas and cause porosity. Check flow at 15 to 25 CFH. Soapy water finds leaks at fittings."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I run a MIG welder on a household outlet?",
+   "a": "Yes, 110V units like the Lincoln 90i and YESWELDER 135A plug into standard outlets. Expect to weld thin to medium steel, and use a dedicated circuit. Start on scrap of the same thickness as the project before welding a real part."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "The YESWELDER and ANDELI 135A units sit at the low end, the ARCCAPTAIN and YESWELDER 160A in the middle, and the Millermatic 211 PRO at the top. Pay more for dual voltage and support. A used pro-grade machine can cost the same as a new budget one, so look at both."
+  },
+  {
+   "q": "How long do budget MIG welders last?",
+   "a": "Many years for occasional use, but wire feeders and torches wear sooner than pro-grade parts. Keep spare tips and liners. Ask for the duty cycle at your input voltage, not the best case."
+  },
+  {
+   "q": "Is a higher amperage always better?",
+   "a": "Not necessarily. A 165A machine on 110V behaves like a smaller one. Input voltage and duty cycle decide real capability. Check the polarity and wire type first when a weld looks wrong."
+  },
+  {
+   "q": "Do I need gas?",
+   "a": "Only for solid wire. Flux-core wire needs none, but it is messier. Gas gives clean beads. Gas bottles are usually refillable at a welding supply shop, so you only buy the cylinder once."
+  },
+  {
+   "q": "Can I weld aluminum with these?",
+   "a": "The Miller can with a spool gun. The others are steel machines, and aluminum on a budget MIG is difficult. A TIG or push-pull setup is the proper route to aluminum."
+  }
+ ],
+ "relatedGuides": []
+}

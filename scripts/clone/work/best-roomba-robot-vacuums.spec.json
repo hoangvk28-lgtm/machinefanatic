@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-roomba-robot-vacuums",
+ "categorySlug": "home-machines",
+ "mainKeyword": "roomba robot vacuums",
+ "guideTitle": "Best Roomba Robot Vacuums (2026)",
+ "metaTitle": "Best Roomba Robot Vacuums (2026)",
+ "metaDescription": "Six current iRobot Roomba models compared by dock, brush, mop and navigation design, with a clear answer on which tier of Roomba fits which home.",
+ "lastUpdated": "2026-11-14",
+ "readTime": "12 min",
+ "expertTake": "The Roomba Max 705 is the best all-round buy, since it pairs dual rubber brushes with LiDAR mapping and a self-empty dock. The Roomba 105 Vac is the value pick for owners who only need a mapped vacuum. Anyone with mostly bare floors who wants a scrubbing mop should consider a different brand's roller-mop dock before paying for a Roomba combo.",
+ "introParagraphs": [
+  "This brand sells its robots in clear tiers, and the model numbers are the roadmap. The lowest numbers are mapped vacuums, the middle of the range adds a self-empty dock, and the top adds a mop with its own washing station.",
+  "Because every tier shares the same family look, it is easy to overspend on features you will not use. This guide walks through six current Roombas and ties each one to the kind of home it suits, so you can step off the ladder at the right rung."
+ ],
+ "products": [
+  {
+   "id": "B0DWG3C3ZF",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "iRobot Roomba Max 705 With AutoEmpty Dock",
+   "specs": [
+    "Dual rubber brushes",
+    "ClearView Pro LiDAR",
+    "AutoEmpty dock",
+    "Edge sweeping brush"
+   ],
+   "specList": [
+    {
+     "label": "Brushes",
+     "value": "Dual rubber anti-tangle"
+    },
+    {
+     "label": "Navigation",
+     "value": "ClearView Pro LiDAR"
+    },
+    {
+     "label": "Dock",
+     "value": "AutoEmpty"
+    },
+    {
+     "label": "Edge cleaning",
+     "value": "Edge-sweeping brush"
+    },
+    {
+     "label": "Mop",
+     "value": "None, vacuum only"
+    }
+   ],
+   "description": "The Max 705 is the Roomba that matches the brand's reputation. Two patented rubber brushes flex to stay in contact with the floor, which means they keep pulling dirt on hard floors and carpet alike, and they shed hair rather than winding it into a knot. An edge-sweeping brush handles the wall line, and the AutoEmpty dock removes the daily bin chore.\n\nClearView Pro LiDAR maps the home day or night, so it cleans in rows and can be sent to specific rooms. Beside the Roomba 105 Vac it adds the brush system and a better dock, while skipping the mop of the Plus 505, which makes it the sound choice for owners who vacuum a lot of pet hair and do not want wet pads.\n\nThe ongoing cost is the AutoEmpty bag, so keep a few in the cupboard. Rubber brushes are easy to clean but still need a monthly check for hair at the ends, and the LiDAR turret window needs a dry wipe.",
+   "bestFor": "Pet hair and mixed floors without the complexity of a mop.",
+   "pros": [
+    "Dual rubber brushes stay in contact and shed hair",
+    "LiDAR mapping works day or night",
+    "AutoEmpty dock removes the bin chore",
+    "No wet pads or water tanks to maintain"
+   ],
+   "cons": [
+    "Vacuum only, with no mopping at all",
+    "AutoEmpty bags are a recurring purchase"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DWG3C3ZF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Iy4gyPoSL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DX6KZR9T",
+   "rank": 2,
+   "badge": "Best Value Mapped Roomba",
+   "name": "iRobot Roomba 105 Vac LiDAR Robot Vacuum, 7,000Pa",
+   "specs": [
+    "7,000Pa",
+    "ClearView LiDAR",
+    "3-stage cleaning",
+    "Schedules, room targets"
+   ],
+   "specList": [
+    {
+     "label": "Suction rating",
+     "value": "7,000Pa"
+    },
+    {
+     "label": "Navigation",
+     "value": "ClearView LiDAR"
+    },
+    {
+     "label": "Cleaning system",
+     "value": "3-stage"
+    },
+    {
+     "label": "Control",
+     "value": "Schedule and room targeting"
+    },
+    {
+     "label": "Dock",
+     "value": "Basic charging base"
+    }
+   ],
+   "description": "The 105 Vac is the doorway into the Roomba family that does not feel like a cut-down model. ClearView LiDAR maps the home so it travels in tidy lines, and you can schedule it and target rooms, which many budget robots cannot. The three-stage cleaning system pairs brush and suction to lift both hair and crumbs.\n\nIt has no self-empty dock, so you tip a small bin after most runs, and that is the real gap to the Max 705. In exchange it costs far less and sits in a smaller footprint, a good fit for a flat where a bulky dock is unwelcome. The 7,000Pa figure is a peak rating, so rely on the brush design instead.\n\nExpect a routine of emptying the bin, wiping the filter and clearing the roller. iRobot sells brushes and filters widely, which makes a robot this inexpensive a long-term buy rather than a disposable one.",
+   "bestFor": "Small and mid-size homes that want a LiDAR Roomba at the lowest tier.",
+   "pros": [
+    "LiDAR mapping with scheduling and room targeting",
+    "Three-stage brush and suction system",
+    "Smaller footprint than any dock-based model",
+    "Brushes and filters are easy to source"
+   ],
+   "cons": [
+    "No self-emptying, so you tip the bin yourself",
+    "Single-function vacuum with no mop"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DX6KZR9T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Njjm9oMJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DX6N28N7",
+   "rank": 3,
+   "badge": "Best Dockless Pick",
+   "name": "iRobot Roomba 205 DustCompactor Vac, 60 Days",
+   "specs": [
+    "DustCompactor",
+    "No dock",
+    "60 days between emptying",
+    "Bagless and dockless"
+   ],
+   "specList": [
+    {
+     "label": "Dirt handling",
+     "value": "Onboard DustCompactor"
+    },
+    {
+     "label": "Emptying interval",
+     "value": "Up to 60 days"
+    },
+    {
+     "label": "Dock",
+     "value": "None needed"
+    },
+    {
+     "label": "Bags",
+     "value": "None, bagless"
+    },
+    {
+     "label": "Mop",
+     "value": "None"
+    }
+   ],
+   "description": "The 205 DustCompactor makes a different promise from every other Roomba here. Instead of a dock that pulls dirt out, the robot crushes debris inside itself as it cleans, and the listing says you can go up to 60 days before emptying. That means no bags, no dock and no base taking floor space.\n\nCompared with the Max 705, it asks you to give up the self-empty station and LiDAR-style premium for a robot that simply lives anywhere. The price you pay is that the compacted bin is a more involved empty than a dock-based tip and the tier is not aimed at heavy shedding households, where 60 days is optimistic.\n\nTreat the compactor chamber as a service part: empty when it signals full, wipe it, and check the filter. Because dirt stays inside the body, keep an eye on the filter and brush for hair, and keep the sensors dry-wiped.",
+   "bestFor": "Homes with no spare floor space for a dock and no desire to buy bags.",
+   "pros": [
+    "Compacts dirt inside the robot, no dock needed",
+    "No bags to buy",
+    "Up to 60 days between emptying in light use",
+    "Small footprint suits studios and flats"
+   ],
+   "cons": [
+    "Heavy shedding will fill it well before 60 days",
+    "Emptying the compactor is more manual than a dock"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DX6N28N7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EmuKbddIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DWG1YNJR",
+   "rank": 4,
+   "badge": "Best Mop and Dock Combo",
+   "name": "iRobot Roomba Plus 505 Combo With AutoWash Dock",
+   "specs": [
+    "DualClean mop pads",
+    "PerfectEdge",
+    "AutoWash dock",
+    "ClearView Pro LiDAR"
+   ],
+   "specList": [
+    {
+     "label": "Mop system",
+     "value": "DualClean spinning pads"
+    },
+    {
+     "label": "Edge reach",
+     "value": "PerfectEdge, extends mop coverage 18%"
+    },
+    {
+     "label": "Dock",
+     "value": "AutoWash, empties and washes pads"
+    },
+    {
+     "label": "Navigation",
+     "value": "ClearView Pro LiDAR"
+    },
+    {
+     "label": "Suction claim",
+     "value": "70x over earlier Roomba"
+    }
+   ],
+   "description": "The Plus 505 is the Roomba for a home that wants the whole floor done: vacuum first, then spinning mop pads, all from one dock that empties the bin and washes the pads. PerfectEdge extends mop coverage along the wall line by 18 percent, according to the listing, which targets the strip that round robots miss.\n\nIt maps with ClearView Pro LiDAR, so it knows which rooms are carpeted and which are hard. Against the Max 705, you gain mopping and pad washing and give up the dual rubber brush pair, so the 505 is the better kitchen machine and the 705 the better pet machine. The 70x suction line compares with older Roombas, not rivals.\n\nSpinning pads need regular washing and replacement, and the dock tank must be refilled and drained. Clean the dock tray every week, let pads air out, and keep the machine off unsealed wood, where water can seep in.",
+   "bestFor": "Hard-floor homes that want vacuuming and pad mopping hands-free.",
+   "pros": [
+    "Dock empties the bin and washes the pads",
+    "PerfectEdge extends mopping along walls",
+    "LiDAR mapping knows carpet from hard floor",
+    "Spinning DualClean pads scrub rather than drag"
+   ],
+   "cons": [
+    "Pads and dock tank add weekly upkeep",
+    "Mop is less aggressive than a roller-mop rival"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DWG1YNJR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GoxaZPgPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H4WXSXHS",
+   "rank": 5,
+   "badge": "Best Pet Hair Roomba",
+   "name": "iRobot Roomba Max 715 Pet 30,000Pa 90-Day Dock",
+   "specs": [
+    "30,000Pa",
+    "90-day self-empty",
+    "Dual rubber brushes",
+    "Pet-focused"
+   ],
+   "specList": [
+    {
+     "label": "Suction rating",
+     "value": "30,000Pa"
+    },
+    {
+     "label": "Dock interval",
+     "value": "90 days"
+    },
+    {
+     "label": "Brushes",
+     "value": "Dual rubber anti-tangle"
+    },
+    {
+     "label": "Power claim",
+     "value": "4x power-lifting suction"
+    },
+    {
+     "label": "Focus",
+     "value": "Pet hair and busy homes"
+    }
+   ],
+   "description": "The Max 715 Pet is iRobot's flagship vacuum for hair, and it is built around a longer dock interval of up to 90 days and the same patented dual rubber brushes as the 705. The listing calls it the brand's best machine for pet hair, with upgraded suction and less maintenance.\n\nOn paper the 30,000Pa figure dwarfs the Max 705, but the brush set is the same, and what you really buy is the longer dock interval and the upgraded power. That is a worthwhile step if you have a heavy-shedding dog, and an unnecessary one if you do not.\n\nPlan on replacement dock bags and a filter swap on iRobot's cycle. Keep the rubber brushes clean at their ends and wipe the sensors monthly.",
+   "bestFor": "Heavy-shedding pets and large floors that need the longest dock interval.",
+   "pros": [
+    "Up to 90 days between dock emptyings",
+    "Same dual rubber brushes that shed hair",
+    "Upgraded suction over the Max 705",
+    "Deep parts network from a long-running brand"
+   ],
+   "cons": [
+    "Costs more than the Max 705 for the same brush system",
+    "Peak suction figure is marketing, not floor pickup"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0H4WXSXHS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41iTDupXpRL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HB7RMK4F",
+   "rank": 6,
+   "badge": "Best Roller Mop Roomba",
+   "name": "iRobot Roomba Plus 678X 30,000Pa Roller Mop Combo",
+   "specs": [
+    "30,000Pa",
+    "Roller mop",
+    "SprayForce pre-treat",
+    "SealForce carpet seal"
+   ],
+   "specList": [
+    {
+     "label": "Suction rating",
+     "value": "30,000Pa"
+    },
+    {
+     "label": "Mop type",
+     "value": "Roller mop"
+    },
+    {
+     "label": "Stain handling",
+     "value": "SprayForce AI pre-treatment"
+    },
+    {
+     "label": "Carpet seal",
+     "value": "SealForce"
+    },
+    {
+     "label": "Dock",
+     "value": "Hands-free station"
+    }
+   ],
+   "description": "The Plus 678X breaks from the older Roomba mops with a roller. Instead of spinning pads, a roller scrubs the floor, and SprayForce AI pre-treats stuck-on spots before the scrub begins, which is aimed at dried food and kitchen splatter. SealForce makes a tight seal against carpet fibers for deeper vacuuming.\n\nThat makes it the Roomba that most resembles the roller-mop robots from other brands. Compared with the Plus 505 it scrubs harder on stains, at the cost of the highest tier in this guide. It is the machine to pick if the stuck-on floor mess is the thing that drives you mad.\n\nA roller mop needs rinsing and drying after every run or it sours. Remove the roller monthly, check the ends, and keep the dock clean. Keep it off unsealed wood and rugs when it is in wet mode.",
+   "bestFor": "Kitchens and entryways with dried-on mess and a wish for roller scrubbing.",
+   "pros": [
+    "Roller mop scrubs harder than flat spinning pads",
+    "SprayForce pre-treats dried spots before scrubbing",
+    "SealForce improves seal on carpet fibers",
+    "Hands-free dock for vacuuming and mopping"
+   ],
+   "cons": [
+    "Highest tier among the six Roombas",
+    "Roller needs rinsing and drying each run"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0HB7RMK4F?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31xLxbukHwL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Where the model number sits",
+   "explanation": "Roomba model numbers act as a ladder: the 105 and 205 are vacuums with simple bases, the Max 705 and 715 add AutoEmpty docks and dual rubber brushes, and the Plus 505 and 678X add mopping with a washing dock. Match your rung to your floor, because each step costs real money. A mop only earns its keep on sealed hard floor."
+  },
+  {
+   "criterion": "Brush system",
+   "explanation": "The Max 705 and Max 715 use dual rubber brushes that flex against the floor and shed hair, which is the main reason they top this list. A bristle brush wraps long hair and stalls. If you have pets, brush design matters more than the suction number on the box."
+  },
+  {
+   "criterion": "Dock type and interval",
+   "explanation": "The Roomba 105 Vac has a basic charging base, the 205 compacts dirt in the robot for up to 60 days, and the Max 715 empties for up to 90 days. A dock saves daily effort but adds bags and footprint. In a pet home, expect to empty well before the stated interval."
+  },
+  {
+   "criterion": "Mop style: pads or roller",
+   "explanation": "The Plus 505 uses spinning DualClean pads with PerfectEdge to extend wall coverage by 18 percent, while the Plus 678X uses a roller with SprayForce stain pre-treatment. Pads are lighter work, rollers scrub harder on dried food. Both need washing and drying to stay fresh."
+  },
+  {
+   "criterion": "LiDAR mapping",
+   "explanation": "ClearView and ClearView Pro LiDAR let a Roomba clean in rows and take instructions for specific rooms. The 105 Vac, 505 and Max 705 all use it. It is the feature that most improves a robot's usefulness on a floor with several rooms."
+  },
+  {
+   "criterion": "Footprint and clearance",
+   "explanation": "A dock takes about the floor space of a small cabinet and needs open room around it. The dockless Roomba 205 DustCompactor sidesteps that entirely. Measure the spot you plan to use before you buy a mop dock."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "70x more suction",
+   "meaning": "A comparison against an earlier Roomba generation, not a measure against rival brands. It tells you the newer machine is stronger than the old one.",
+   "watchFor": "The 505 and 105 Vac carry the same style of claim, so ignore it when comparing across tiers."
+  },
+  {
+   "spec": "Pa suction",
+   "meaning": "A peak motor pressure figure, not the force at the floor. Brushes and seals matter more for daily pickup.",
+   "watchFor": "The Max 715 and 678X list 30,000Pa while the 105 Vac lists 7,000Pa, yet hair pickup is closer than that gap."
+  },
+  {
+   "spec": "DustCompactor",
+   "meaning": "A mechanism in the robot that presses debris into a denser block so the bin lasts longer. It replaces the dock's emptying function.",
+   "watchFor": "The Roomba 205 lists up to 60 days, which assumes light dirt."
+  },
+  {
+   "spec": "PerfectEdge",
+   "meaning": "A pad and body design that pushes mop coverage closer to the wall. The listing credits it with 18 percent more coverage.",
+   "watchFor": "The Plus 505 advertises it, so compare it with other pad robots on edge results."
+  },
+  {
+   "spec": "SealForce",
+   "meaning": "A design that forms a tight seal against carpet fibers so suction is not lost to air leaks. It is aimed at deeper carpet cleaning.",
+   "watchFor": "The Plus 678X lists it as Active SealForce."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Tier clarity",
+   "description": "We judged each Roomba by what its position in the family really adds. The Max 705 adds brushes and a dock to the 105 Vac. A model that charged more without adding a distinct capability dropped in the ranking."
+  },
+  {
+   "title": "Hair handling",
+   "description": "Dual rubber brushes on the Max 705 and Max 715 were compared with the other layouts. Owner feedback patterns on wrapped brushes supported the order. This criterion carried the most weight for pet homes."
+  },
+  {
+   "title": "Dock and upkeep",
+   "description": "We compared the dockless 205, the basic base of the 105 Vac, and the AutoEmpty and AutoWash docks. Bags, tanks and pads were counted as ongoing chores. The lowest weekly burden for the same floor coverage scored highest."
+  },
+  {
+   "title": "Mop effectiveness",
+   "description": "Spinning pads on the Plus 505 were weighed against the roller and SprayForce on the Plus 678X. The listings claim 18 percent wider edge coverage for one and stain pre-treatment for the other. Wet performance counted only on sealed floors."
+  },
+  {
+   "title": "Value within the family",
+   "description": "Relative tiers run from the 105 Vac at the bottom to the 678X at the top. A step up had to buy a capability the cheaper model lacks. Suction headlines alone never earned a higher rank."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Home Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Studio or small flat",
+      "Roomba 205 DustCompactor",
+      "No dock and no bags"
+     ],
+     [
+      "Dog or cat shedding",
+      "Roomba Max 715 Pet",
+      "Dual rubber brushes and 90-day dock"
+     ],
+     [
+      "Mixed pets and carpet",
+      "Roomba Max 705",
+      "Rubber brushes with AutoEmpty"
+     ],
+     [
+      "Hard floors and kitchen",
+      "Roomba Plus 505 Combo",
+      "Pads and AutoWash dock"
+     ],
+     [
+      "Stuck-on food messes",
+      "Roomba Plus 678X",
+      "Roller mop with SprayForce"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Roomba 105 Vac",
+      "LiDAR mapping for the least"
+     ],
+     [
+      "Low tier",
+      "Roomba 205 DustCompactor",
+      "Dockless and bagless"
+     ],
+     [
+      "Middle tier",
+      "Roomba Max 705",
+      "Dock and rubber brushes"
+     ],
+     [
+      "Upper tier",
+      "Roomba Plus 505 Combo",
+      "Mop and washing dock"
+     ],
+     [
+      "Top tier",
+      "Roomba Plus 678X",
+      "Roller mop and stain pre-treatment"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Vacuum Only vs Vacuum and Mop",
+   "cards": [
+    {
+     "label": "Vacuum only",
+     "text": "The Max 705, Max 715, 105 Vac and 205 do no wet cleaning, so there are no pads, tanks or odor to manage. They suit homes with carpet or unsealed floors. Upkeep is limited to bags, filters and brushes."
+    },
+    {
+     "label": "Vacuum and mop",
+     "text": "The Plus 505 and Plus 678X wash the floor as they go and use a dock to clean their pads or roller. They are better for sealed hard floors and kitchens. Expect weekly tank and tray chores."
+    }
+   ],
+   "note": "Choose vacuum only for carpet and pets, a combo for tile and hardwood."
+  },
+  {
+   "subheading": "Dock Preference",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No dock at all",
+      "Roomba 205 DustCompactor",
+      "Compacts dirt inside the robot"
+     ],
+     [
+      "Fewest bin visits",
+      "Roomba Max 715 Pet",
+      "Up to 90 days"
+     ],
+     [
+      "Dock that also washes",
+      "Roomba Plus 505 Combo",
+      "AutoWash for pads"
+     ],
+     [
+      "Cheapest base",
+      "Roomba 105 Vac",
+      "Plain charging base"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Pet Owners Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Rubber brushes that shed hair and a dock with a long interval. Avoid any model with a bristle roller if you have long-haired pets. Plan on emptying earlier than the stated days."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Roomba Max 715 Pet is the dedicated choice, and the Max 705 gives the same brushes at a lower tier. For small pets in a small home, the 205 DustCompactor can work."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have heavy shedding or a floor full of dried-on mess. The Max 715 buys a longer interval and the 678X buys a stronger mop."
+    },
+    {
+     "label": "Save if",
+     "text": "Your home is small and the floors are mostly tidy. The 105 Vac gives mapping at the lowest tier, and the 205 skips the dock."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Empty the dock bag or compactor",
+   "interval": "When the app or robot signals, or monthly in pet homes",
+   "why": "A full bag or compactor lowers suction. Spares in the cupboard prevent stalled cleaning."
+  },
+  {
+   "task": "Check rubber brushes and edge brush",
+   "interval": "Every 2 weeks",
+   "why": "Rubber sheds hair but it still collects at the ends. Pull it free before it affects the bearings."
+  },
+  {
+   "task": "Wash pads or the roller and tray",
+   "interval": "After each wet run",
+   "why": "Wet parts sour in a day. Rinse and let everything air dry."
+  },
+  {
+   "task": "Wipe LiDAR turret and sensors",
+   "interval": "Monthly",
+   "why": "A dusty turret mis-maps the floor. Use a dry cloth."
+  },
+  {
+   "task": "Replace filter and side brush",
+   "interval": "Every few months",
+   "why": "A clogged filter heats the motor. A worn brush leaves wall lines dirty."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which Roomba is best for pet hair?",
+   "a": "The Max 715 Pet or Max 705, which share dual rubber brushes that shed hair. The 715 adds a longer dock interval and upgraded power. For light shedding the 705 is the better value."
+  },
+  {
+   "q": "Do I need a Roomba with a mop?",
+   "a": "Only if you have sealed hard floors and accept the weekly chores of pads or a roller. If your home is mostly carpet, a vacuum-only Roomba is simpler and cheaper to run."
+  },
+  {
+   "q": "What does 70x more suction mean?",
+   "a": "It compares the new model with an older Roomba. It is not a comparison against other brands and does not tell you how a model performs on your floor."
+  },
+  {
+   "q": "Is the Roomba 205 DustCompactor really dockless?",
+   "a": "Yes. It compacts debris inside the robot and the listing says it can run up to 60 days before emptying. Heavy dirt loads will shorten that interval."
+  },
+  {
+   "q": "How long do Roombas last?",
+   "a": "The body often runs for years, while the battery and brushes are wear parts. Roomba spare parts are easy to find, which helps long-term ownership."
+  },
+  {
+   "q": "Can I use a Roomba mop on hardwood?",
+   "a": "Only on sealed hardwood. Unfinished or waxed wood can absorb water, so keep wet modes off it and check the floor maker's guidance."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41Iy4gyPoSL._SL500_.jpg"
+}

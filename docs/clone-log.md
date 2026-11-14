@@ -451,3 +451,14 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 
 ## Round 30 (2026-11-14)
 81 robot vacuum, robotic pool cleaner, window robot and vacuum mop guides. Skip: best-eureka-vacuum-mops (only 2 real Eureka wet-dry washers). Writers: 2 Sonnet + 1 Sonnet repetition fix. 3,000 to 3,800 words. Audit ok, tsc ok, build ok. Known gap: top 4-word description opening still 11 (target 6), fix pass stopped for session limit.
+
+### Prefilter skips (2026-11-14)
+| Skipped slug | Reason |
+|---|---|
+| best-electrolux-garment-steamers | prefilter: only 2 distinct items match brand electrolux after extra searches |
+| best-mcculloch-handheld-steam-cleaners | prefilter: only 0 distinct items match brand mcculloch after extra searches |
+| best-philips-garment-steamers | prefilter: only 1 distinct items match brand philips after extra searches |
+| best-shark-garment-steamers | prefilter: only 0 distinct items match brand shark after extra searches |
+
+## Round 31 (2026-11-14)
+82 carpet cleaner, spot/upholstery cleaner, steam mop, handheld steam cleaner, garment steamer and steam iron guides. Writer skips: best-carpet-cleaners-under-30 and -under-50 (no machine under cap, only solutions), best-saker-handheld-steam-cleaners (only 2 distinct machines), best-cordless-steam-mops (1 real cordless steam machine), best-cordless-garment-steamers (no cordless steamer in data), best-shark-garment-steamers (Shark makes none). Writers: 5 Sonnet runs (A, B1, B2 over two sessions) + 1 Sonnet repetition fix. 3,000 to 3,800 words. Removed one invented Salav provenance claim. Writer B2 padded 8 guides with a throwaway script; the fix pass rewrote repeats. Checks: audit 0 failures, zero full-width brackets, top 4-word description opening 6, no 40+ char sentence in 3+ guides, tsc ok, build "Compiled successfully" + "Finished TypeScript".

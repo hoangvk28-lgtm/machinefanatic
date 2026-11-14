@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-robot-vacuums-under-500",
+ "categorySlug": "home-machines",
+ "mainKeyword": "robot vacuums under $500",
+ "guideTitle": "Best Robot Vacuums Under $500 (2026)",
+ "metaTitle": "Best Robot Vacuums Under $500 (2026)",
+ "metaDescription": "Six robot vacuums that listed at $500 or less when updated, from grid-cleaning Shark HEPA docks to Roborock wash docks, compared on what the cap buys.",
+ "lastUpdated": "2026-11-14",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31IqG7YSukL._SL500_.jpg",
+ "expertTake": "The Shark AI Ultra AV2501S is the top pick because grid passes and a HEPA bagless base suit carpeted homes better than a mop-first dock. The Roborock Qrevo S Pro is the pick for weekly mopping. Anyone who wants a roller mop or carpet seal should look at a higher cap, because those arrive above this band.",
+ "introParagraphs": [
+  "At this cap you can choose between two philosophies. One spends the money on cleaning method and filtration, with grid-pattern passes and a sealed HEPA base. The other spends it on a wash dock that cleans its own mop, so wet floors stay low-effort.",
+  "The cap is $500, and prices move, so it reflects listing prices when this guide was updated. The right pick depends on your floors: carpeted homes lean toward method, and hard-floor homes with weekly mopping lean toward the dock."
+ ],
+ "products": [
+  {
+   "id": "B09H8CWFNK",
+   "badge": "Best Overall",
+   "name": "Shark AI Ultra AV2501S, Matrix Clean, home mapping, 30-day HEPA bagless base",
+   "specs": [
+    "Matrix Clean",
+    "Home mapping",
+    "30-day base",
+    "True HEPA"
+   ],
+   "specList": [
+    {
+     "label": "Pattern",
+     "value": "Matrix Clean grid, multiple passes"
+    },
+    {
+     "label": "Maps",
+     "value": "Home mapping"
+    },
+    {
+     "label": "Dock",
+     "value": "Bagless, up to 30 days"
+    },
+    {
+     "label": "Filtration",
+     "value": "True HEPA"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum only"
+    }
+   ],
+   "description": "The AV2501S is the highest-ranked pick because its method suits the way most homes are actually dirty. Matrix Clean drives a precise grid and makes several passes over each strip, which lifts embedded dust out of carpet that a single pass leaves behind. Home mapping lets you send it to one room, and a bagless base with true HEPA filtration holds up to 30 days.\n\nCheaper than the Roborock Qrevo S Pro, it has no mop at all, so rugs never meet a wet pad. The trade is a 30 day base, which is shorter than the bag docks, and a loud grid run on carpet. For a household with allergies and plenty of carpet, the HEPA seal and grid passes outweigh the missing wet cleaning.\n\nEmpty the base roughly monthly, outdoors if you can, because bagless emptying puts fine dust in the air. Wash the HEPA filter by the maker schedule and clear the brush ends weekly. Because the robot is vacuum only, there is no pad or water path to maintain. It will not dry out a rug, which is a quiet bonus in damp climates. Its row-by-row routine also makes it easy to see what has been cleaned.",
+   "bestFor": "Carpeted and allergy-prone homes that want thorough multi-pass cleaning.",
+   "pros": [
+    "Grid passes lift embedded dust from carpet",
+    "True HEPA filtration in the base",
+    "Home mapping for room-by-room runs",
+    "No wet parts to maintain"
+   ],
+   "cons": [
+    "30 day base needs monthly emptying",
+    "No mop for hard floors",
+    "Bagless emptying is dusty"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B09H8CWFNK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31IqG7YSukL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GGRSMXKN",
+   "badge": "Best Wash Dock",
+   "name": "Roborock Qrevo S Pro, 18,500 Pa, 167 F hot-wash dock, anti-tangle",
+   "specs": [
+    "18,500 Pa",
+    "167 F wash",
+    "Anti-tangle",
+    "Self-empty"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "18,500 Pa"
+    },
+    {
+     "label": "Mop wash",
+     "value": "167 F hot water"
+    },
+    {
+     "label": "Dock",
+     "value": "Empty, wash, refill"
+    },
+    {
+     "label": "Brush",
+     "value": "Zero-tangle system"
+    },
+    {
+     "label": "Fit",
+     "value": "Pet and long-hair homes"
+    }
+   ],
+   "description": "The Qrevo S Pro is the machine for hard floors that get mopped every week. The dock empties the bin, washes pads at 167 F and refills the clean tank, so a mop run ends with fresh pads instead of a chore. A zero-tangle brush system keeps hair off the roller.\n\nIt sits at the top of the price band under this cap and costs more than the Shark AV2501S. The extra buys a washing dock and 18,500 Pa, and it gives up the Shark's grid passes and HEPA base. If your home is mostly tile and wood, the dock is worth it. A tidy flat with a single rug does not need it.\n\nWipe the wash tray weekly, empty the dirty tank after each mop run and descale the water path. Replace pads and bags on schedule, and keep thick rugs marked as no-mop zones. In a house with a big rug, the dock is the part that earns its place, because the pad is always fresh when the robot returns to hard floor. Its zero-tangle system also reduces the weekly brush chore noticeably.",
+   "bestFor": "Hard-floor homes that mop weekly.",
+   "pros": [
+    "Dock washes pads at 167 F",
+    "Self-empty and water refill",
+    "Zero-tangle brush system",
+    "18,500 Pa suction label"
+   ],
+   "cons": [
+    "Top of the price band under this cap",
+    "Dock needs weekly tray cleaning",
+    "Pads and bags are ongoing costs"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GGRSMXKN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31PFXfMl-uL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DWXBCQVP",
+   "badge": "Best Mid-Range Dock",
+   "name": "Roborock Q10 S5+, 10,000 Pa, JawScrapers comb, 70-day dock, obstacle sensing",
+   "specs": [
+    "10,000 Pa",
+    "70-day dock",
+    "JawScrapers",
+    "Obstacle sensing"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "10,000 Pa"
+    },
+    {
+     "label": "Dock",
+     "value": "70 days self-emptying"
+    },
+    {
+     "label": "Main brush",
+     "value": "JawScrapers comb"
+    },
+    {
+     "label": "Sensing",
+     "value": "Obstacle sensing listed"
+    },
+    {
+     "label": "Mop",
+     "value": "Pad attachment"
+    }
+   ],
+   "description": "The Q10 S5+ is the sensible middle of the cap. A 70 day station empties the bin, a comb brush strips hair and obstacle sensing handles clutter better than a plain laser disc. The mop pad is rinsed by hand.\n\nAgainst the Qrevo S Pro it costs less and has about half the suction, 10,000 Pa against 18,500 Pa. Compared with the Shark AV2501S it brings a mop and a longer dock interval, but no grid passes and no HEPA. It is the best all-round value for a mixed home. Many first-time dock buyers end up here after comparing the other two.\n\nChange the sealed bag when the app asks and trim the brush weekly. Rinse the pad, empty the tank and wipe the sensors. Because it shares parts with the rest of the range, spare bags and brushes are rarely out of stock. Owners often keep one spare bag and one spare brush in the box the robot came in.",
+   "bestFor": "Mixed homes that want a long dock interval and obstacle sensing.",
+   "pros": [
+    "70 day self-empty dock",
+    "Comb brush sheds hair",
+    "Obstacle sensing listed",
+    "Mop pad included"
+   ],
+   "cons": [
+    "Pad is rinsed by hand",
+    "No grid passes or HEPA",
+    "Bags are brand-specific"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DWXBCQVP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31TzU0YZA6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G5XVMVJN",
+   "badge": "Best Bag Capacity",
+   "name": "Dreame D20 Air Plus, 20,000 Pa, 4 L bag, up to 120 days, dual anti-tangle",
+   "specs": [
+    "20,000 Pa",
+    "4 L bag",
+    "120 days",
+    "Dual anti-tangle"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "20,000 Pa"
+    },
+    {
+     "label": "Bag",
+     "value": "4 L, up to 120 days"
+    },
+    {
+     "label": "Brushes",
+     "value": "Dual anti-tangle"
+    },
+    {
+     "label": "Cleaning",
+     "value": "Vacuum and mop"
+    },
+    {
+     "label": "Dock",
+     "value": "Self-empty only"
+    }
+   ],
+   "description": "The D20 Air Plus has the biggest bag in the guide, 4 L, quoted at up to 120 days. A dual anti-tangle brush set copes with long hair and a mop pad covers light damp work.\n\nIts 20,000 Pa is the highest label in the group, though it is a peak figure. Next to the Roborock Q10 S5+ it has a bigger bag and more suction, but no obstacle sensing. It is the pick if you want the fewest dock visits. A pet household that travels often will value this more than any other feature.\n\nCheck the bag at one month, rinse the pad by hand and keep the brush clear. Brand-specific bags are the main cost, so buy a multipack with the robot. A shedding dog will shorten the interval, but even a halved interval is still long. Bags are brand specific.",
+   "bestFor": "Pet homes that want the rarest dock visits.",
+   "pros": [
+    "4 L bag with up to 120 days quoted",
+    "Dual anti-tangle brushes",
+    "20,000 Pa suction label",
+    "Mop pad included"
+   ],
+   "cons": [
+    "No obstacle sensing listed",
+    "Pad is rinsed by hand",
+    "Real bag life depends on shedding"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0G5XVMVJN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31ekl0ma42L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DWX69JVG",
+   "badge": "Best Value Dock",
+   "name": "Roborock Q7 M5+, 10,000 Pa, LiDAR, dual anti-tangle, 2.7 L bag",
+   "specs": [
+    "10,000 Pa",
+    "LiDAR",
+    "2.7 L bag",
+    "Anti-tangle"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "10,000 Pa"
+    },
+    {
+     "label": "Navigation",
+     "value": "LiDAR"
+    },
+    {
+     "label": "Dock bag",
+     "value": "2.7 L, 7 to 9 weeks"
+    },
+    {
+     "label": "Brushes",
+     "value": "JawScrapers comb and anti-tangle side"
+    },
+    {
+     "label": "Mop",
+     "value": "Vibrating pad"
+    }
+   ],
+   "description": "The Q7 M5+ is the value dock in this guide. LiDAR builds the map, a comb brush and a zero-tangle side brush handle hair and a sealed 2.7 L bag lasts 7 to 9 weeks.\n\nIt costs far less than the Shark and Qrevo, and most of the cap stays unspent. Compared with the Q10 S5+ it lacks obstacle sensing but has the same suction. For a small home, it is enough. The saved budget can go to a cordless stick for stairs.\n\nRinse the pad, trim the brush weekly and change the sealed bag on schedule. The map it builds also lets you set a no-go zone for a pet bowl or a fringed rug. It is the model most owners buy when they want a dock and nothing else.",
+   "bestFor": "Smaller homes that want a laser dock and spend the rest on rugs.",
+   "pros": [
+    "LiDAR mapping with a dock",
+    "Comb and zero-tangle brushes",
+    "Sealed bag for 7 to 9 weeks",
+    "Low price tier"
+   ],
+   "cons": [
+    "No obstacle sensing listed",
+    "Pad is rinsed by hand",
+    "Bags are brand-specific"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DWX69JVG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418QVNeplbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GHWNW6D1",
+   "badge": "Best No-Dock Budget",
+   "name": "ILIFE V5s Max, 4,000 Pa in spot mode, gyroscope navigation, app and remote",
+   "specs": [
+    "4,000 Pa spot",
+    "Gyro navigation",
+    "App and remote",
+    "Alexa"
+   ],
+   "specList": [
+    {
+     "label": "Suction",
+     "value": "Up to 4,000 Pa in spot mode"
+    },
+    {
+     "label": "Navigation",
+     "value": "Gyroscope rows"
+    },
+    {
+     "label": "Control",
+     "value": "App, voice assistant and remote"
+    },
+    {
+     "label": "Charging",
+     "value": "Self-charging"
+    },
+    {
+     "label": "Dock",
+     "value": "Charge only"
+    }
+   ],
+   "description": "The V5s Max is the reminder that this cap is a ceiling, not a target. It navigates in gyroscope rows, can be driven by an app, a voice assistant or a remote and returns to its charger by itself.\n\nIts 4,000 Pa applies in spot mode, and there is no dock, so you empty the bin. It costs a fraction of the other picks. For a small hard-floor home, it leaves most of the budget in your pocket. The bin is small, so expect a daily empty.\n\nTrim the brush, rinse the filter and empty the bin after each run. A spare side brush and filter cost very little and keep the robot useful for years. It also works as a second robot for a bedroom or a rental flat.",
+   "bestFor": "Small hard-floor homes where a dock is not needed.",
+   "pros": [
+    "Gyroscope rows beat random bouncing",
+    "App, voice and remote control",
+    "No bag cost",
+    "Lowest price tier"
+   ],
+   "cons": [
+    "No dock",
+    "4,000 Pa in spot mode only",
+    "No laser map"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GHWNW6D1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Ino6knVQL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Method or dock",
+   "explanation": "At this cap, the main fork is between cleaning method and dock function. The Shark AI Ultra AV2501S spends on grid passes and HEPA, and the Roborock Qrevo S Pro spends on a washing dock. Match the choice to your floors: carpet favours method, and hard floors favour the dock. If you cannot decide, count the rugs in your home, because three or more rugs push the answer to method."
+  },
+  {
+   "criterion": "Carpet passes",
+   "explanation": "Embedded dust needs more than one pass. Matrix Clean on the Shark makes several, which raises pick-up but lengthens each run. A single-pass robot with a bigger Pa number often leaves carpet looking half done. A good test is to run a robot over a doormat and see how much is left under the surface afterwards."
+  },
+  {
+   "criterion": "HEPA and sealing",
+   "explanation": "A true HEPA filter is only useful when the dock is sealed. The Shark AV2501S lists it in the base. If allergies matter, check how the base is sealed and how often the filter needs washing. A leaky bag change releases more dust than the robot ever lifted, so the way you empty matters as much as the filter grade."
+  },
+  {
+   "criterion": "Pad washing",
+   "explanation": "A dock that washes pads, like the Qrevo S Pro at 167 F, removes the dirtiest chore. The Roborock Q10 S5+ and Q7 M5+ leave pads to you. If you mop weekly, washing pays back. If you mop once a month, a hand-rinsed pad costs only a few minutes."
+  },
+  {
+   "criterion": "Bag size and interval",
+   "explanation": "The Dreame D20 Air Plus quotes up to 120 days from 4 L, and the Q10 S5+ quotes 70 days. The Shark base holds up to 30 days. Quoted intervals are best cases, so check your first bag at one month. A bag that feels heavy at four weeks is a sign the label is optimistic for your home."
+  },
+  {
+   "criterion": "Parts and support",
+   "explanation": "Roborock and Shark spares are easy to find. The Dreame line is newer. A robot with no parts source ends up in a cupboard. Search for the exact bag and brush names before you buy."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Matrix Clean",
+   "meaning": "A grid pattern with several passes over each strip. It adds thoroughness and time.",
+   "watchFor": "The Shark AV2501S uses it."
+  },
+  {
+   "spec": "True HEPA",
+   "meaning": "A filter grade that captures very fine particles when the housing is sealed. Leaky seals defeat it.",
+   "watchFor": "The Shark AV2501S lists it in the base."
+  },
+  {
+   "spec": "Hot-wash dock",
+   "meaning": "A base that cleans pads with heated water. It cuts odor and streaks.",
+   "watchFor": "The Qrevo S Pro washes at 167 F."
+  },
+  {
+   "spec": "Bag days",
+   "meaning": "The maker estimate of bag life. Pet homes shorten it.",
+   "watchFor": "The D20 Air Plus quotes up to 120 days and the Q10 S5+ 70 days."
+  },
+  {
+   "spec": "Peak Pa",
+   "meaning": "A maximum motor rating at the strongest mode. It does not predict carpet results.",
+   "watchFor": "The D20 lists 20,000 Pa and the ILIFE V5s Max lists up to 4,000 Pa in spot mode."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cleaning method",
+   "description": "We compared grid passes, comb brushes and anti-tangle sets. The Shark AV2501S leads on carpet method. The Roborock models lead on hair."
+  },
+  {
+   "title": "Dock function",
+   "description": "We compared bagless, bag and wash docks. The Qrevo S Pro washes pads, and the D20 Air Plus holds the biggest bag. Convenience was balanced against upkeep. A dock that needs weekly cleaning counted against its score."
+  },
+  {
+   "title": "Filtration",
+   "description": "We noted true HEPA on the Shark base. Allergy households weighted it. Claims were treated as vendor statements."
+  },
+  {
+   "title": "Running costs",
+   "description": "We counted bags, pads and water parts. The ILIFE V5s Max has none, and the Qrevo S Pro has the most. Yearly cost mattered. A cheap robot with expensive bags was treated as a mid-price robot. Owners rarely count bags until the second year."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We reviewed repeated owner reports on dock jams, smell and app issues. Patterns outweighed single remarks. Models with repeated dock problems were marked down."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Floor Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Mostly carpet",
+      "Shark AI Ultra AV2501S",
+      "Grid passes and HEPA"
+     ],
+     [
+      "Mostly tile and wood, mop weekly",
+      "Roborock Qrevo S Pro",
+      "Hot-wash dock"
+     ],
+     [
+      "Mixed floors, long dock interval",
+      "Roborock Q10 S5+",
+      "70 day dock and a mop pad"
+     ],
+     [
+      "Pet hair on any floor",
+      "Dreame D20 Air Plus",
+      "Dual anti-tangle and a 4 L bag"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget Within the Cap",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier, no dock",
+      "ILIFE V5s Max",
+      "Gyro rows and a remote"
+     ],
+     [
+      "Lower mid tier dock",
+      "Roborock Q7 M5+",
+      "LiDAR and a sealed bag"
+     ],
+     [
+      "Upper mid tier",
+      "Roborock Q10 S5+",
+      "Dock and sensing"
+     ],
+     [
+      "Top of the band",
+      "Shark AI Ultra AV2501S or Qrevo S Pro",
+      "Method or washing dock"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Method vs Wash Dock",
+   "cards": [
+    {
+     "label": "Method",
+     "text": "The Shark AV2501S makes several grid passes and seals dust with HEPA. It has no mop and suits carpet."
+    },
+    {
+     "label": "Wash dock",
+     "text": "The Qrevo S Pro cleans its own pads. It suits hard floors and costs more to maintain."
+    }
+   ],
+   "note": "Pick method for carpet and allergies, and the wash dock for weekly mopping. Neither choice is wrong, and the mistake is buying the one that does not fit your floors. Keep your receipt and the return window in mind for the first month."
+  },
+  {
+   "subheading": "Dock Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Bagless with HEPA",
+      "Shark AI Ultra AV2501S",
+      "30 day bagless base"
+     ],
+     [
+      "Sealed bag, mid interval",
+      "Roborock Q7 M5+",
+      "2.7 L for 7 to 9 weeks"
+     ],
+     [
+      "Largest bag",
+      "Dreame D20 Air Plus",
+      "4 L, up to 120 days"
+     ],
+     [
+      "No dock",
+      "ILIFE V5s Max",
+      "Empty the bin yourself"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Allergies Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A sealed dock, a true HEPA filter and a filter that is easy to wash. Check the manual for seal details. Look for the words sealed bag or sealed chamber."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Shark AV2501S lists true HEPA in its base, and the Roborock docks use sealed bags. The Qrevo S Pro adds a wash dock that cuts mop odor."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a roller mop, a carpet seal or a washing dock with drying. A higher cap buys those."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small flat. The Roborock Q7 M5+ or ILIFE V5s Max cover it for much less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Empty the bagless base",
+   "interval": "Every 3 to 4 weeks",
+   "why": "The Shark base holds up to 30 days. Empty it outdoors to avoid fine dust."
+  },
+  {
+   "task": "Replace dock bags",
+   "interval": "Every 10 to 17 weeks",
+   "why": "Bags on the Roborock and Dreame docks are quoted in that range. Replace sooner with pets."
+  },
+  {
+   "task": "Wash the HEPA filter",
+   "interval": "Per the maker schedule",
+   "why": "A clogged filter cuts airflow and defeats the seal. Dry it fully. A damp filter that goes back in too soon grows a musty smell."
+  },
+  {
+   "task": "Wipe the wash tray",
+   "interval": "Weekly",
+   "why": "Wash docks collect film that smells. The film builds from pad residue and is the main cause of dock odor. A damp cloth clears it."
+  },
+  {
+   "task": "Clear the brush",
+   "interval": "Weekly",
+   "why": "Hair wraps even on resistant designs. Check it more often in shedding season. Cut it along the groove. Do this over a bin so loose hair does not land back on the floor."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does this cap buy?",
+   "a": "Either grid cleaning with a HEPA base, a washing dock or a long bag dock. The Shark AV2501S, Roborock Qrevo S Pro and Dreame D20 Air Plus each show one. Pick by your floors. A home with mixed floors should note that the Q10 S5+ is the compromise."
+  },
+  {
+   "q": "Do these prices change?",
+   "a": "They move often. We set the lineup against the live listings at update time to stay under the cap. Check the live price before buying. Price history tools can show whether a sale is real. A listing can slip in or out of the cap within days."
+  },
+  {
+   "q": "Is grid cleaning worth it?",
+   "a": "On carpet, yes. Several passes lift embedded dust that one pass leaves. It makes each run longer."
+  },
+  {
+   "q": "Is HEPA necessary?",
+   "a": "Only if allergies matter, and only when the dock is sealed. The Shark AV2501S lists it in the base. Wash filters on schedule."
+  },
+  {
+   "q": "Is a washing dock worth it?",
+   "a": "If you mop weekly, yes. It keeps pads fresh and removes a chore. If you mop monthly, skip it."
+  },
+  {
+   "q": "Can a cheap robot still be enough?",
+   "a": "Yes, for a small hard-floor home. The ILIFE V5s Max costs a fraction and does the basics. A dock is a convenience, not a necessity."
+  }
+ ],
+ "relatedGuides": []
+}
