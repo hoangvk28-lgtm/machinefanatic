@@ -193,3 +193,12 @@ Writer prompt additions: no script or node -e to pad word count (B2 did this in 
 - Unfinished: `for f in r32a r32b; do for s in $(tr -d '\r' < scripts/clone/work/$f.txt); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done > scripts/clone/work/left-$f.txt; done`
 - Then Finish (top opening <= 6), clone-log, local commit, preview; push only after approval. Next: round 33 humidifiers + air purifiers.
 - Round 33 near-dup vs published: skip best-humidifiers-and-air-purifier-combos (= best-air-purifier-and-humidifier-combos). Run the normalized near-dup check before Stage A of every round.
+
+### Near-dup check vs published (run before Stage A; LIST = the round's slug list file)
+```bash
+LIST=scripts/clone/work/r33.txt node -e "
+const fs=require('fs');const pub=[...new Set(fs.readFileSync('data/guides.ts','utf8').match(/\"best-[a-z0-9-]+\"/g).map(s=>s.slice(1,-1)))];
+const norm=s=>s.replace(/^best-/,'').split('-').map(w=>w.replace(/(es|s)$/,'')).filter(w=>!['for','with','and','the','a','of','in'].includes(w)).sort().join(' ');
+const P={};pub.forEach(s=>P[norm(s)]=s);
+fs.readFileSync(process.env.LIST,'utf8').split(/\r?\n/).filter(Boolean).forEach(s=>{const m=P[norm(s)];if(m&&m!==s)console.log('DUP',s,'=',m)})"
+```
