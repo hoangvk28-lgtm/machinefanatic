@@ -58,3 +58,80 @@ Buyer-knowledge notes for guide writers. Based on 8 web searches (retail and bra
 - Run fans and open windows after cleaning; make multiple dry passes to cut moisture.
 - Warranty and formula voiding: the searches found no source confirming this, so writers should only say "use the formula and descaling method the manual lists" without claiming a warranty is voided.
 - Common buyer mistakes: buying for tank size without checking weight; ignoring hose length for stairs; assuming a steam mop is safe on all floors; skipping distilled water in hard-water homes; skipping a hidden-spot colorfastness test.
+
+---
+
+## Round 2 additions (14 more searches; same caveats: many sources are retailer or cleaner blogs, flagged where weak)
+
+### CRI Seal of Approval (carpet-rug.org, floortrendsmag, fmlink)
+- Certifies deep-cleaning extractors on three criteria: soil removal, residual moisture left behind, and effect on carpet appearance. An independent lab runs the tests; a CRI technical committee sets the standard.
+- Soil removal is measured by X-ray fluorescence (XRF) on a deliberately soiled control carpet, before and after cleaning.
+- Appearance criterion: no more than one step of change in pile surface appearance after cleaning.
+- Ratings: Bronze, Silver, Gold, Platinum (Platinum added later for the highest efficacy). Covers box-and-wand (portable), self-contained and truck-mount extractors, residential and commercial.
+- Cleaning solutions are certified separately; a certified system pairs machine plus solution. Press items on specific models were from 2006 to 2007, so writers should say "look for the CRI Seal of Approval on the box or the CRI site" and never claim a named machine is certified unless the compact data says so.
+
+### Wool and natural-fiber rugs (WoolSafe, Couristan, cleaning-company guides)
+- WoolSafe has run a certification program for carpet and rug care products since 1991; the seal is the shortcut to wool-safe solutions. No official WoolSafe document with one pH or temperature limit was found.
+- pH: sources cite about 4.0 to 8.5 as the safe window for wool; one cleaning company warns above pH 8 can be too aggressive. A WoolSafe-approved product listed 9.5 concentrate and 8.5 diluted, so the diluted pH is what matters. Alkaline cleaners (many general carpet formulas) are the typical wool risk.
+- Water temperature: published ceilings vary: 100 to 120 F (rug specialist), max 140 F (WoolSafe-approved product label), 120 to 160 F (Couristan wool-blend care guide), at or below 150 F (cleaner). Bissell's own wool guide says cool or warm water only. Rule of thumb: stay at or under 140 F and never use a heated-wash mode on wool unless the rug label allows it.
+- Practical: wool is slow to dry and prone to browning and dye bleed when overwet; test first, use minimal solution, extract hard, and consider a professional for antique, silk or hand-knotted rugs.
+
+### Colorfastness spot test
+- A vacuum maker manual (Vax) procedure: wet a white absorbent cloth with the solution, rub gently on a small hidden spot, wait 10 minutes, check cloth and carpet for color transfer. Check each color in a multicolor rug.
+- Alternative cleaner procedures: blot (do not rub), 2 to 3 minutes under a clamped white cloth; stop if any color transfers, darkens or lightens.
+- Test at the same water temperature you will clean with; heat changes dye behavior.
+- No IICRC document found that fixes the 10-minute timing, so do not attribute it to IICRC. Present as common manufacturer and cleaner practice.
+
+### Third-party formulas and warranty (Bissell and Hoover manuals)
+- Bissell manuals (ProHeat, CrossWave, others) state that non-Bissell cleaning solutions may harm the machine and will void the warranty. One carpet washer manual specifically warns against formulas containing eucalyptus, lemon or pine oil. Another warns solvent-based spot removers can damage plastic parts.
+- Hoover: an older manual says using non-Hoover detergents may void the warranty and can cause foaming that trips the float and shuts off suction; pine or solvent detergents can react with plastics. Newer Hoover manuals say to use only Hoover cleaning products intended for the machine and point to a solution guide, without the explicit void sentence in what was found.
+- Writer wording: "Bissell manuals say non-Bissell formulas can void the warranty; check your model warranty text." Whether a claim is denied depends on the model warranty and what caused the damage. Commercial use is a separate voiding condition in some manuals.
+- Low foam matters in any extractor: foam climbs into the recovery tank and float, and can reach the motor.
+
+### Steam on hardwood, laminate, vinyl, grout
+- NWFA: its own steam statement was not retrieved; secondary sources say NWFA and WFCA caution against steam on hardwood. NWFA general guidance cited: keep indoor relative humidity about 30 to 50 percent. Do not attribute a quote to NWFA.
+- Unsealed or waxed wood is the clearest no. Shark (AU) says some sealed floors are fine but water can get between boards; Dreame says only if both the floor maker and the device allow it.
+- Laminate: secondary sources report NALFA and major laminate makers advise against steam; "water-resistant" laminate is generally rated for brief damp mopping, not steam. Brand claims (Pergo, Quick-Step, Shaw voiding warranty) were unverified; tell readers to look for explicit steam-safe wording in the care guide.
+- Vinyl plank: heat can weaken adhesive and cause edge curling; most LVP warranties reportedly do not cover steam damage unless steam is listed as acceptable.
+- Rule of thumb: no steam wording in the flooring warranty, no steam mop. Sealed ceramic and porcelain tile are the safe default.
+
+### Steam sanitizing claims
+- Time and temperature both matter. Consumer Reports: check the maker instructions for minimum temperature and contact time; manual-pump mops can fluctuate in temperature.
+- CETA white paper: needed exposure ranges from under a second to over 30 minutes depending on pathogen and temperature; 140 F can inactivate some pathogens with long enough exposure.
+- A detailing site (weak source) gives bacteria dying near 150 to 180 F, with about 3 minutes at temperature for a 99.9 percent figure; unverified, rule of thumb only.
+- "EPA registered" disinfection requires a claimed 99.999 percent reduction of a named pathogen within a stated time, with an EPA establishment number on the unit (trade source). Ordinary steam cleaning is not classed as EPA sanitizing.
+- Karcher 99.99 percent claim applies only to smooth hard surfaces at a specified speed and steam level. A "kills 99.9 percent" line without organism, surface, dwell time and establishment number is marketing. Write "sanitizing claims depend on contact time; the box must state organism and time" and never claim a steam mop disinfects.
+
+### Dry time and extraction
+- Typical (cleaner guides, rules of thumb): 1 to 4 hours for low-moisture cleaning, 6 to 24 hours for hot water extraction, 24 to 72 plus for saturation or water damage. With good airflow, 4 to 6 hours is cited for properly extracted carpet; polyester often 4 to 8 hours.
+- Drivers: how much water went down and how well it was extracted (biggest lever), pad thickness, humidity and temperature, fans and HVAC, closed rooms.
+- A trade source says a pro system may recover about 95 percent of the water while a rental machine does well at about 65 percent (single source, rule of thumb). Hence a dry-only pass matters on consumer machines.
+- Consumer Reports tests drying by applying a set amount of water to swatches and running a dry pass, because damp carpet invites mildew. No source gave a water lift (inches) benchmark; do not quote one. Say only that stronger suction and extra dry passes leave less water.
+- Check moisture in carpet, pad and subfloor, not the surface; do not return furniture early.
+
+### Consumer Reports testing method (framing for what to look for, not our claim)
+- CR runs four wet and four dry cycles per swatch on three swatches, 20 colorimeter readings per stage, 180 readings per model; Georgia red clay soil; cleaning score based on remaining color. Separate drying, ease of use and noise scores. About 3 days per machine. Portable models are tested the same way. We do not claim hands-on testing.
+
+### Steam cleaner pressure, heat-up, refill (retailer and maker listings)
+- Consumer canisters: about 58 psi (McCulloch MC1385) to 65 psi (Reliable 220CC). 1 bar is about 14.5 psi; 3.5 bar is about 50 psi; 6 bar about 87 psi (industrial).
+- Heat-up: steam mops and handhelds under 30 seconds (one listing 15 s); Dupray Neat Plus 90 s versus about 8 min for the standard Neat; Reliable 220CC 6 min; industrial boilers 20 to 30 min.
+- Continuous-fill boilers let you add water without shutting down (Reliable 220CC 5 L listing); batch-fill smaller boilers run out sooner. McCulloch MC1385 64 oz tank listed at up to 120 minutes of steam.
+- Fast-heat units usually trade tank size for speed. Specs are marketing claims, not independent tests.
+
+### Garment steamer output and care
+- Wattage versus output (listings): 800 W handheld about 10 g/min; 1,200 W about 20 to 23 g/min (Panasonic up to 23); 1,600 W Philips 32 g/min; 2,000 W Geepas advertised 46 g/min; Farberware full-size 38 plus or minus 5 g/min. Mid-range handhelds typically 20 to 25 g/min. Compare g/min, not just watts.
+- Fabrics: Philips markets steamers for silk and cashmere; Sencor cautions on fine silk, keep the head moving. No source on velvet; rule of thumb: test a hidden seam and keep the head moving because steam can flatten pile.
+- Descaling: Sencor says citric-acid descaler at least yearly or after 50 operating hours. Philips warns against vinegar, descalers or chemicals in its steamers and uses a built-in descale function. Conflict: follow the model manual; distilled water reduces scale.
+
+### Floor scrubber basics (trade buying guides)
+- Parts: solution tank, brush or pad deck, squeegee plus vacuum for recovery. Squeegee should be at least 2 in wider than the brush path for full pickup.
+- Brush versus pad: brushes suit textured floors and restorative cleaning; pads suit smooth floors and light maintenance; more downpressure helps heavy soil.
+- Size bands (one trade guide): 13 to 15 in path for 1,000 to 3,000 sq ft; 17 to 20 in for 3,000 to 20,000; 22 to 28 in for 15,000 to 40,000; 32 to 38 in for 30,000 to 80,000 plus.
+- Corded versus battery depends on run time and job size; bigger tanks mean fewer refills but more weight. Recovery tank and squeegee are costly wear parts.
+
+### Myths and mistakes (Cleanfax, trade sources; some weak)
+- "Steam cleaning" a carpet usually means hot water extraction; IICRC-linked instructors recommend it most of the time when done right.
+- Soap residue attracts dirt: use less solution than the label and do a clear-water rinse pass.
+- Rental and consumer machines cannot lift loose grit, which turns to mud when wet; vacuum thoroughly first.
+- Boiling water can set protein stains or break down chemistry; use warm tap water as the product calls for.
+- Unverified (do not repeat): vinegar rinse as a cure-all; "manufacturers require pro cleaning every 12 to 18 months for warranty".
