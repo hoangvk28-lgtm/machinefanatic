@@ -9,7 +9,7 @@ Read ONLY this file. Do not open CLAUDE.md, the runbook, the full brief or refer
 4. Lineup 5 to 7 items (3 or 4 when that is all that really exists); at least 2 (or 40%) with `src: "candidate"` when available. If 3+ distinct on-topic machines exist but candidates cannot meet that quota, write the guide anyway with what exists (never skip a viable topic over the quota). Drop duplicates of the same machine. `priceTier` is for ordering only.
 5. Write `scripts/clone/work/<slug>.spec.json` in ONE Write call (shape below). For products you only need `id` (ASIN): leave amazonUrl, imageUrl, rank, price and heroImage out, the next step fills them.
 6. `node scripts/clone/finish.mjs <slug>` (fills product data, then selfcheck + build + audit in one go). If it prints FIX lines, correct only those with Edit and rerun it. Done when it ends with "audit ok". Do not register, commit or push.
-7. Aim for about 3,000 words; anything from 2,700 to 3,400 passes, so do not spend extra rounds trimming or padding.
+7. Draft about 3,300 words: selfcheck passes 3,000 to 3,800, so a first draft near 3,000 usually lands under the floor and needs padding rounds.
 
 ## Hard rules
 No em/en dashes. No prices or "$". No star ratings or review counts. Never "tested", "hands-on", "we tried", "in our lab", "we measured" (use "we evaluated", "based on the spec sheet", "owner feedback patterns"). Never paste Amazon bullet text or slogans; rewrite every fact. Only facts from the compact data plus well-established engineering knowledge; never invent numbers. No hype words (amazing, game-changer, must-have, elevate, seamless).
