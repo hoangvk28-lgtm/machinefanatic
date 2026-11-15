@@ -479,3 +479,9 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Left todo (water purifiers, off-cluster): best-uv-water-purifiers, best-water-purifiers-for-backpacking.
 - Notes: CPAP guide reframed as room humidifiers for CPAP sleepers; Rabbit Air has 4 products (all distinct models in data).
 - Checks: audit 0 fails, no 【, no sentence in 3+ guides, top description opening 5 (after a Sonnet repetition-fix pass), tsc ok, build ok.
+
+## Round 34 (2026-11-15): holiday kitchen, 69 guides
+- Topics: food processors + hand mixers (r34a.txt) and slow cookers + bread makers (r34b.txt). Sonnet writers (6 last slugs by 1 Sonnet after session handoff), 3,000 to 3,400 words, 3 to 6 products.
+- Skipped (near-dup vs published): best-food-processor-and-blender-combos, best-small-bread-makers.
+- Skipped (<3 real brand/type machines): breville, ninja, oster, west-bend, cuisinart, sunbeam bread makers; best-zojirushi-mini-bread-makers; crock-pot pressure cookers; cuisinart and all-clad slow cookers; magimix food processors; best-13-cup and best-5-cup food processors; best-slow-cookers-with-stainless-steel-inserts.
+- Checks: audit 0 fails, no 【, no 40+ char sentence in 3+ guides, top description opening 5 (after a Sonnet repetition-fix pass), tsc ok, build ok.

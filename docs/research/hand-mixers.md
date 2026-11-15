@@ -1,0 +1,15 @@
+# Hand mixers research
+- Wattage is a weak predictor of performance; speed count is marketing too. Three well-separated speeds are enough.
+- Slow lowest speed and a soft-start setting reduce splatter when flour or powdered sugar goes in.
+- Corded hand mixer wattage ranges from roughly 60 W to over 400 W; real work is done by beater shape and motor gearing.
+- Beater types: twisted wire, straight wire, flat. Flat beaters have a thick center post that is harder to clean.
+- Many sets add dough hooks and a whisk; two beaters cover most batters.
+- Corded gives continuous power; cordless trades cord freedom for battery runtime limits and thick-dough weakness.
+- Weight above about 3 pounds becomes tiring on long mixes; wrist or hand issues favor a lighter body over extra watts.
+- A bowl rest (heel stand) lets the mixer sit on the bowl edge while you scrape.
+- Snap-on storage cases keep beaters with the body.
+- Hand mixers handle cookie dough and batters; stiff bread dough overheats small motors.
+- Eject button for beaters is a safety and cleaning convenience.
+- Turbo/burst button gives a short motor boost for stubborn lumps.
+- Locking swivel cord lets right- or left-handed users route the cord away.
+- Beaters are usually dishwasher safe; the body is wiped only.
