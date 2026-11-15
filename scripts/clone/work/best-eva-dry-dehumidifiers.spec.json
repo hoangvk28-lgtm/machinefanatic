@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-eva-dry-dehumidifiers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "eva-dry dehumidifiers",
+ "guideTitle": "Best Eva-Dry Dehumidifiers (2026)",
+ "metaTitle": "Best Eva-Dry Dehumidifiers in 2026",
+ "metaDescription": "Six Eva-Dry dehumidifiers compared, from silica gel closet units to a rotary desiccant crawl space machine, with honest limits on what each can dry.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41KMrtFzwXL._SL500_.jpg",
+ "expertTake": "The EDV-2400 is the pick for most people because it is a plugged-in Peltier unit with a humidistat and a drain hose, so it can run unattended. The E-500 silica gel unit is the value pick for closets, safes and cabinets. Anyone with a damp basement should skip the small Eva-Dry units and buy a compressor machine; only the EDV-4000H is built for a crawl space.",
+ "introParagraphs": [
+  "Small dehumidifiers get judged unfairly when people expect them to behave like a basement machine. They work by different physics, they move far less water, and they are meant for enclosed little spaces such as closets, cabinets, safes and bathrooms.",
+  "The useful question is which technology suits the space: a renewable gel pack, a thermoelectric plate or a desiccant wheel. Once the method matches the job, the differences between sizes become easy to read and the claims on the box are easy to sanity check."
+ ],
+ "products": [
+  {
+   "id": "B082B2PCN6",
+   "badge": "Best Overall",
+   "name": "Eva-Dry EDV-2400 Electric Peltier Dehumidifier with Humidistat",
+   "specs": [
+    "Peltier cooling",
+    "Up to 267 sq ft",
+    "Humidistat",
+    "3 ft drain hose"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Peltier thermoelectric"
+    },
+    {
+     "label": "Coverage",
+     "value": "Up to 267 sq ft"
+    },
+    {
+     "label": "Control",
+     "value": "Adjustable humidistat"
+    },
+    {
+     "label": "Drain",
+     "value": "3 ft hose included"
+    },
+    {
+     "label": "Best space",
+     "value": "Bathroom, bedroom, small room"
+    }
+   ],
+   "description": "The EDV-2400 uses a Peltier plate: a solid-state heat pump that chills one side to condense water out of the air, with no compressor and no refrigerant. That is why it runs quietly and weighs little, and it is also why its capacity is modest. The listing rates it for up to 267 square feet, which is a bedroom or bathroom rather than a basement.\n\nWhat lifts it above the other Eva-Dry electrics is the built-in humidistat and the included 3 foot drain hose. You choose a target humidity, it cycles itself, and the hose lets it run without anyone emptying the tank. The EDV-1100 below is a simpler, smaller cousin with only a 16 ounce tank and no control dial for target.\n\nThe tradeoff is efficiency in cool or very wet rooms. Peltier units shed less water than a compressor model as the room cools, and below roughly 60F the output falls sharply. Keep it in a warm, closed room, and clean the heat sink fan once in a while so the hot side can keep up.",
+   "bestFor": "Closed bedrooms and bathrooms that need quiet, unattended drying.",
+   "pros": [
+    "Humidistat lets it cycle on its own",
+    "Included 3 foot drain hose avoids emptying",
+    "No compressor, so operation is quiet",
+    "Rated for rooms up to 267 square feet"
+   ],
+   "cons": [
+    "Peltier output drops in cool rooms",
+    "Too small for basements or musty crawl spaces"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B082B2PCN6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41KMrtFzwXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09VLDJ1C6",
+   "badge": "Best for Crawl Spaces",
+   "name": "Eva-Dry EDV-4000H Rotary Desiccant Dehumidifier, 444 Sq Ft",
+   "specs": [
+    "Rotary desiccant",
+    "Cold-rated to 34F",
+    "Up to 444 sq ft",
+    "No refrigerant"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Rotary desiccant wheel"
+    },
+    {
+     "label": "Coverage",
+     "value": "Up to 444 sq ft"
+    },
+    {
+     "label": "Minimum temperature",
+     "value": "Rated to 34F"
+    },
+    {
+     "label": "Refrigerant",
+     "value": "None"
+    },
+    {
+     "label": "Best space",
+     "value": "Crawl space, garage, cold basement"
+    }
+   ],
+   "description": "A rotary desiccant machine passes air across a slowly turning wheel that holds moisture, then heats a small portion of the wheel to release that water outside the airstream. Because it does not depend on a cold coil, it keeps working where compressor units quit. This model is cold-rated to 34F, which is why it is the Eva-Dry for crawl spaces, garages and unheated basements.\n\nAt 444 square feet of listed coverage it is the largest Eva-Dry here, well ahead of the 267 square foot EDV-2400. The method has a cost in energy: heating the wheel draws more power per pint than a compressor in warm conditions, and the outlet air is warmer. In a cold space that warmth is a small benefit, not a problem.\n\nPlan the install around moisture removal. It needs a drain route and a stable, dry location, and it should not be pushed beyond its coverage figure. In a large, wet basement a compressor machine is still the stronger tool.",
+   "bestFor": "Cold crawl spaces and garages where compressor units stall.",
+   "pros": [
+    "Cold-rated to 34F where compressors quit",
+    "No compressor or refrigerant to fail",
+    "Largest coverage in the Eva-Dry range",
+    "Quiet without cycling compressor noise"
+   ],
+   "cons": [
+    "Draws more power per pint than a warm-room compressor",
+    "Coverage of 444 square feet is still modest"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B09VLDJ1C6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Hk6OxcGDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00BD0FN8A",
+   "badge": "Best Value",
+   "name": "Eva-Dry E-500 Renewable Silica Gel Dehumidifier, 500 Cu Ft",
+   "specs": [
+    "Silica gel",
+    "500 cu ft",
+    "Cordless",
+    "Renews by plug-in"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Renewable silica gel"
+    },
+    {
+     "label": "Coverage",
+     "value": "500 cubic feet"
+    },
+    {
+     "label": "Power in use",
+     "value": "None, cordless"
+    },
+    {
+     "label": "Capacity",
+     "value": "Absorbs 6 to 8 oz"
+    },
+    {
+     "label": "Best space",
+     "value": "Closet, safe, cabinet"
+    }
+   ],
+   "description": "The E-500 is a sealed case of silica gel beads that absorb moisture from the air with no electricity while it works. When the beads are full, you plug the unit into a wall outlet and it warms to drive the water out, which renews it for reuse. The listing says it absorbs about 6 to 8 ounces in a closet-size space.\n\nIt rates for 500 cubic feet, so it suits a gun safe, a closet or a cabinet, not a room. Against the EDV-365 it is less capable but needs no base or blower, and against the electric Peltier units it needs no drain at all. For a storage space that stays shut, that simplicity is the appeal.\n\nOwnership is about remembering to renew it. The case runs warm to hot during renewal, so place it on a hard surface away from fabric. If the beads are never renewed the unit does nothing, which is the usual way these fail.",
+   "bestFor": "Gun safes, closets and cabinets that stay closed.",
+   "pros": [
+    "Needs no power while it is working",
+    "No drain or tank to deal with",
+    "Renews by plugging in, reusable for years",
+    "Compact enough for a safe or cabinet"
+   ],
+   "cons": [
+    "Absorbs only about 6 to 8 ounces per cycle",
+    "Must be renewed on your schedule"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B00BD0FN8A?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31t-rzUrIfL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B06XKVX8X1",
+   "badge": "Best for Continuous Coverage",
+   "name": "Eva-Dry EDV-365 Rechargeable Dehumidifier, Two Cylinders, 400 Cu Ft",
+   "specs": [
+    "Two cylinders",
+    "Up to 400 cu ft",
+    "2 hour renewal",
+    "Color indicator"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Renewable desiccant cylinders"
+    },
+    {
+     "label": "Coverage",
+     "value": "Up to 400 cu ft"
+    },
+    {
+     "label": "Renewal time",
+     "value": "About 2 hours"
+    },
+    {
+     "label": "Indicator",
+     "value": "Beads change color"
+    },
+    {
+     "label": "Includes",
+     "value": "2 cylinders and blower base"
+    }
+   ],
+   "description": "The EDV-365 solves the main weakness of gel units: downtime during renewal. It has two cylinders and a blower base, so one works while the other recharges on the base. The listing quotes a renewal time of about 2 hours, and the beads shift from one color to another to show when they are spent, which removes the guessing.\n\nA blower pushes room air through the working cylinder, so it dries a bit faster than a passive E-500 and covers up to 400 cubic feet. That is still a closet, a small RV or an enclosed storage cabinet, not a room. It sits between the E-500 and the electric units in both cost and capability.\n\nIt needs outlet access for the base and a routine of swapping cylinders. If you will not do that, an EDV-2400 with a hose is easier. In a safe or camper that sits closed for months, the swap is a tolerable chore.",
+   "bestFor": "RVs, closets and enclosed storage where drying must not pause.",
+   "pros": [
+    "Two cylinders so one always works",
+    "Color-changing beads show when to renew",
+    "Blower base speeds up drying",
+    "Renewal takes about 2 hours"
+   ],
+   "cons": [
+    "Still sized for 400 cubic feet only",
+    "Needs a routine of swapping cylinders"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B06XKVX8X1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41kfDpZZ3bL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B000H0ZDD2",
+   "badge": "Best Compact Electric",
+   "name": "Eva-Dry EDV-1100 Whisper-Quiet 16 Oz Dehumidifier",
+   "specs": [
+    "Thermo-electric",
+    "16 oz tank",
+    "Auto shut-off",
+    "Auto restart"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Thermo-electric"
+    },
+    {
+     "label": "Tank",
+     "value": "16 oz"
+    },
+    {
+     "label": "Safety",
+     "value": "Auto shut-off when full"
+    },
+    {
+     "label": "Restart",
+     "value": "Automatic"
+    },
+    {
+     "label": "Best space",
+     "value": "Small closed room"
+    }
+   ],
+   "description": "The EDV-1100 is the plain, plug-in version of the Peltier idea: a small electric unit that collects water in a 16 ounce tank and stops when it is full. It restarts automatically after a power interruption, and it is marketed as whisper quiet, which fits a thermoelectric design with a small fan.\n\nCompared with the EDV-2400, it has no humidistat target and no hose, so you empty the tank by hand. That is acceptable in a small closed bathroom or a little office, but it means the capacity per day is limited by how often you visit. It is the cheaper entry to an electric Eva-Dry.\n\nBe realistic about output. A thermoelectric plate in a damp room removes a modest amount of water, so use it where the problem is mild. Clean the tank to prevent odor, and keep the vents clear of the wall.",
+   "bestFor": "Small closets, bathrooms and offices with mild humidity.",
+   "pros": [
+    "Whisper-quiet thermoelectric operation",
+    "Auto shut-off protects against overflow",
+    "Auto restart resumes after an outage",
+    "Low-cost way to try an electric unit"
+   ],
+   "cons": [
+    "16 ounce tank needs frequent emptying",
+    "No humidistat target or drain hose"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B000H0ZDD2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41RjA8oZPeL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B000H0XFCS",
+   "badge": "Smallest Pick",
+   "name": "Eva-Dry E-333 Wireless Mini Dehumidifier",
+   "specs": [
+    "Silica gel",
+    "Up to 333 cu ft",
+    "Cordless",
+    "Spill and mess free"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Renewable silica gel"
+    },
+    {
+     "label": "Coverage",
+     "value": "Up to 333 cu ft"
+    },
+    {
+     "label": "Power in use",
+     "value": "None, cordless"
+    },
+    {
+     "label": "Mounting",
+     "value": "Hang or set down"
+    },
+    {
+     "label": "Best space",
+     "value": "Pantry, cabinet, drawer, car"
+    }
+   ],
+   "description": "The E-333 is the smallest of the range, a slim wireless gel unit that you hang or set on a shelf. It handles up to 333 cubic feet, which is less than the 500 cubic feet of the E-500, so it is meant for a pantry, a cabinet, a drawer or a car.\n\nIt works the same way as the E-500: absorb while idle, then plug in to renew. Its small size makes the renewal quick, and it is spill and mess free because the gel is sealed. That makes it a safe choice around electronics, instruments or documents.\n\nBecause it is so small, one unit will not change a room. Buy several for a set of cabinets, or step up to the E-500 for a safe. Do not expect it to fix a musty smell on its own.",
+   "bestFor": "Pantries, drawers, cabinets and cars with a small moisture problem.",
+   "pros": [
+    "Smallest and lightest Eva-Dry unit",
+    "Cordless and mess free in use",
+    "Hang or place on a shelf",
+    "Easy renewal by plugging in"
+   ],
+   "cons": [
+    "Only up to 333 cubic feet of coverage",
+    "Cannot dry a room or fix a real damp problem"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B000H0XFCS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31Mbr9Br-uL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Pick the technology for the space",
+   "explanation": "Silica gel, Peltier and rotary desiccant all remove moisture but suit different jobs. The E-500 and E-333 gel units work in sealed spaces up to 500 and 333 cubic feet, the EDV-2400 handles a closed room up to 267 square feet, and the EDV-4000H works in cold spaces to 444 square feet. Match the method to the temperature and the size before you look at features."
+  },
+  {
+   "criterion": "Do not buy small for a damp basement",
+   "explanation": "The coverage figures in this lineup top out at 444 square feet, and a damp basement needs a compressor machine with a pint rating of 35 or more. Using an EDV-1100 or an E-500 there gives you a half-full tank and no change in readings. The EDV-4000H is the only Eva-Dry that reasonably addresses a cold crawl space."
+  },
+  {
+   "criterion": "Think about how you empty it",
+   "explanation": "The EDV-1100 has a 16 ounce tank you empty by hand, while the EDV-2400 comes with a 3 foot hose for continuous drain. The gel units have nothing to empty but must be renewed. Choose the chore you will actually perform, because a skipped chore turns the unit into a decoration."
+  },
+  {
+   "criterion": "Temperature limits matter",
+   "explanation": "Peltier units like the EDV-2400 and EDV-1100 lose output as the room cools, and compressors frost below about 65F. The EDV-4000H is cold-rated to 34F because it has no cold coil. If the space is unheated in winter, the desiccant design is the right tool."
+  },
+  {
+   "criterion": "Noise and where it sits",
+   "explanation": "A thermoelectric unit like the EDV-1100 has only a small fan, so it suits a bedroom. A desiccant rotary machine has a motor and a heater, and the gel units are silent. Place the unit where air can reach it and not behind a curtain or inside a sealed cabinet."
+  },
+  {
+   "criterion": "Renewal and upkeep burden",
+   "explanation": "The EDV-365 renews in about 2 hours on its base, while the E-500 needs a plug-in cycle and runs warm to hot while renewing. Both need you to remember. The color-changing beads on the EDV-365 remove the guesswork, which makes it easier for a forgetful owner."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Cubic feet coverage",
+   "meaning": "The enclosed air volume a gel or desiccant unit can handle. It is smaller than a room, so use it for cabinets and closets.",
+   "watchFor": "The E-500 lists 500 cubic feet and the E-333 lists 333, so do not treat either as a room unit."
+  },
+  {
+   "spec": "Square foot coverage",
+   "meaning": "The floor area an electric unit claims to handle in a mild problem. Higher numbers need bigger heat transfer.",
+   "watchFor": "The EDV-2400 lists 267 square feet and the EDV-4000H lists 444."
+  },
+  {
+   "spec": "Peltier",
+   "meaning": "A solid-state plate that chills one side to condense water. It is quiet and light but delivers less water than a compressor.",
+   "watchFor": "Output falls as room temperature drops, so keep it warm."
+  },
+  {
+   "spec": "Desiccant renewal",
+   "meaning": "The process of driving absorbed water out of beads with heat so they can be reused. It happens in a unit or on a base.",
+   "watchFor": "The EDV-365 renews in about 2 hours while the E-500 runs warm to hot while renewing."
+  },
+  {
+   "spec": "Cold rating",
+   "meaning": "The lowest temperature at which the machine keeps removing moisture. Compressor units stall in the cold, desiccant ones do not.",
+   "watchFor": "The EDV-4000H is rated to 34F."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Technology fit",
+   "description": "We looked at whether each unit's method suits the space it claims. Gel units were judged on cubic feet, Peltier on room size and the rotary desiccant on cold performance. A unit that overreaches its category lost points."
+  },
+  {
+   "title": "Capacity honesty",
+   "description": "We compared listed coverage numbers: 333 and 500 cubic feet for gel, 267 square feet for the EDV-2400 and 444 for the EDV-4000H. We treated these as spec sheet limits, not measured output."
+  },
+  {
+   "title": "Drain and chore load",
+   "description": "We counted the work needed to keep each running: hose, tank emptying or renewal. The EDV-2400 with its hose scored best for unattended running. The EDV-365 scored well for its color indicator."
+  },
+  {
+   "title": "Temperature performance",
+   "description": "We considered how each method handles cool rooms. The EDV-4000H at 34F is the standout, while the Peltier units need warmth. Compressor-free designs avoid frost problems."
+  },
+  {
+   "title": "Value and fit",
+   "description": "We placed each unit in the relative price tier and asked whether the job justified it. The E-333 and E-500 are low tier, the electrics mid tier and the EDV-4000H the top. A small tool matched to a small job is good value."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Space",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Gun safe or closet",
+      "Eva-Dry E-500",
+      "500 cubic feet of cordless gel absorption"
+     ],
+     [
+      "Pantry or drawer",
+      "Eva-Dry E-333",
+      "Small, hangable and mess free"
+     ],
+     [
+      "Bedroom or bathroom",
+      "Eva-Dry EDV-2400",
+      "Humidistat and hose for 267 square feet"
+     ],
+     [
+      "Cold crawl space or garage",
+      "Eva-Dry EDV-4000H",
+      "Cold-rated to 34F"
+     ],
+     [
+      "RV or camper cabinet",
+      "Eva-Dry EDV-365",
+      "Two cylinders and a blower base"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Eva-Dry E-333",
+      "Small gel unit for a drawer or cabinet"
+     ],
+     [
+      "Low to middle",
+      "Eva-Dry E-500",
+      "Safe-size coverage with no power draw"
+     ],
+     [
+      "Middle",
+      "Eva-Dry EDV-365",
+      "Continuous coverage with two cylinders"
+     ],
+     [
+      "Middle to upper",
+      "Eva-Dry EDV-2400",
+      "Electric with humidistat and hose"
+     ],
+     [
+      "Highest",
+      "Eva-Dry EDV-4000H",
+      "Rotary desiccant for cold spaces"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Gel Renewable vs Electric",
+   "cards": [
+    {
+     "label": "Renewable gel (E-333, E-500, EDV-365)",
+     "text": "These need no drain and little power in use, and they are silent. They suit closets, safes and cabinets. You must renew them, and the capacity is small."
+    },
+    {
+     "label": "Electric (EDV-1100, EDV-2400, EDV-4000H)",
+     "text": "These plug in and draw out moisture continuously. The EDV-2400 adds a humidistat and hose, and the EDV-4000H works in the cold. They cost more to run and have moving parts."
+    }
+   ],
+   "note": "Pick gel for sealed storage and electric for any space where air leaks in."
+  },
+  {
+   "subheading": "Drain Convenience",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Never touch a tank",
+      "Eva-Dry EDV-2400",
+      "3 foot hose included"
+     ],
+     [
+      "Nothing to empty at all",
+      "Eva-Dry E-500",
+      "Gel renews instead of draining"
+     ],
+     [
+      "Simple small tank",
+      "Eva-Dry EDV-1100",
+      "16 ounce tank with auto shut-off"
+     ],
+     [
+      "Indicator for renewal timing",
+      "Eva-Dry EDV-365",
+      "Color-changing beads"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Closets and Safes Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A sealed space under about 500 cubic feet, no power at the point of use and a unit that can renew. Avoid anything with a tank that could spill on stored items."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The E-500 is the default for a safe or closet, with the E-333 for drawers and the EDV-365 for a space that cannot be left undried while renewing."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "The space is cold or you want unattended running. The EDV-4000H handles cold crawl spaces, and the EDV-2400 handles a closed bedroom with a hose."
+    },
+    {
+     "label": "Save if",
+     "text": "You only protect small stored items. The E-333 and E-500 do that for the least outlay."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Renew gel units",
+   "interval": "When the indicator says so",
+   "why": "Saturated beads stop absorbing. Plug in to renew and let the case cool before reuse."
+  },
+  {
+   "task": "Empty the tank",
+   "interval": "Daily to weekly",
+   "why": "A full 16 ounce tank shuts off the electric unit. Leaving water sitting grows slime."
+  },
+  {
+   "task": "Clean vents and fan",
+   "interval": "Every 3 months",
+   "why": "Dust on the heat sink or intake reduces output. A soft brush clears it."
+  },
+  {
+   "task": "Inspect the drain hose",
+   "interval": "Every 3 months",
+   "why": "A kinked hose backs water into the tank. Confirm the end drains below the unit."
+  },
+  {
+   "task": "Check with a hygrometer",
+   "interval": "Seasonally",
+   "why": "A cheap meter shows whether the unit is actually changing humidity."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can an Eva-Dry dry a damp basement?",
+   "a": "Not the small ones. The listed coverage tops out at 444 square feet and the gel units cover only closets. A compressor unit rated at 35 pints or more is the right tool for a basement."
+  },
+  {
+   "q": "What is the difference between gel and Peltier?",
+   "a": "Gel beads absorb water passively and are renewed by heat, while a Peltier plate chills one surface to condense water into a tank. Gel is silent and drain-free, and Peltier works continuously but needs a warm room."
+  },
+  {
+   "q": "How long do renewable gel units last?",
+   "a": "The E-500 listing says it lasts for years if renewed on schedule. The beads wear slowly, so the main failure is forgetting to renew."
+  },
+  {
+   "q": "Is a desiccant unit worth it for a crawl space?",
+   "a": "Yes if the space is cold, since the EDV-4000H works to 34F where compressor units stall. In a warm, large space a compressor machine is more energy efficient."
+  },
+  {
+   "q": "Do these units help with mold?",
+   "a": "They help by lowering humidity, but they do not remove existing mold. Fix leaks and keep relative humidity near 40 to 50 percent."
+  },
+  {
+   "q": "Why does the EDV-1100 stop working?",
+   "a": "It shuts off when the 16 ounce tank fills, and a thermoelectric plate struggles in a cool room. Empty the tank and keep the room warm."
+  }
+ ],
+ "relatedGuides": []
+}

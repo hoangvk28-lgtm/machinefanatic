@@ -8,3 +8,14 @@ best-5-cup-food-processors: only 2 distinct real 5-cup machines (Cuisinart FP-5,
 best-catalytic-heater-for-large-rv: only 2 distinct catalytic heaters (Camco Wave-8 listed twice plus Hotdevil); rest of data is electric or diesel, not padded
 best-75-amp-generator-transfer-switch: no real 75A transfer switch in the data; lineup is 15A, 30A, 40A, 50A, 125A and 200A items, padding would break the amp match
 best-generator-transfer-switch-150-amp: only 2 distinct real 150A switches (Generac 150A service-rated ATS, TCS2P150 controller kit); the other pick is a discontinued untitled listing and the rest are 30A to 200A
+best-car-dehumidifiers: lineup is passive silica/calcium chloride bags and tiny Peltier units, no powered car dehumidifier machines (fewer than 3 real on-topic machines)
+best-small-dehumidifiers-for-bathrooms: near-duplicate of best-dehumidifiers-for-bathrooms and best-small-dehumidifiers (same 6 to 8 plate units, same intent); not written to avoid duplicate content
+best-ambiano-vacuum-sealers: no Ambiano-brand machine in the data, only other brands
+best-cabela-s-vacuum-sealers: no Cabela's-brand machine in the data, only other brands
+best-cordless-vacuum-sealers: same intent and lineup as published best-handheld-vacuum-sealers (cordless sealers are the handheld type)
+best-mason-genie-vacuum-sealers: only 1 Mason Genie machine, rest other brands
+best-potane-vacuum-sealers: only 2 distinct Potane machines (rest are bags or other brands)
+best-seal-a-meal-vacuum-sealers: only 2 Seal-a-Meal machines (one is the same FoodSaver manual unit)
+best-silo-vacuum-sealers: Silo listings are bundle sizes of one machine, 1 distinct machine
+best-upright-vacuum-sealers: only 2 InstaSeal items are upright-style sealers; rest are generic edge sealers or a stick vacuum
+best-vacuum-sealer-pumps: data is a mix of bag pumps, hand pumps and full sealers, no coherent on-topic lineup

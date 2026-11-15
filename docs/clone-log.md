@@ -508,3 +508,34 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Skipped (<3 matching items): 4-circuit, 40 amp, 60 amp, 75 amp, 150 amp, 9500 watt, VEVOR 30/200 amp, interlock kit, adapter, wheel kits.
 - New research: docs/research/generator-accessories.md (from established knowledge, no web search).
 - Coordinator varied one methodology sentence that appeared in 10 guides. Checks: audit 0 fails, no 【, three short lines in 3 guides, top description opening 5, tsc ok, build ok.
+
+### Prefilter skips (2026-11-15)
+| Skipped slug | Reason |
+|---|---|
+| best-govee-dehumidifiers | prefilter: only 2 distinct items match brand govee after extra searches |
+| best-levoit-dehumidifiers | prefilter: only 1 distinct items match brand levoit after extra searches |
+| best-quest-dehumidifiers | prefilter: only 1 distinct items match brand quest after extra searches |
+| best-soleus-air-dehumidifiers | prefilter: only 2 distinct items match brand soleus after extra searches |
+| best-tolife-dehumidifiers | prefilter: only 1 distinct items match brand tolife after extra searches |
+| best-toshiba-dehumidifiers | prefilter: only 1 distinct items match brand toshiba after extra searches |
+
+### Prefilter skips (2026-11-15)
+| Skipped slug | Reason |
+|---|---|
+| best-chef-preserve-vacuum-sealers | prefilter: only 2 distinct items match brand chef after extra searches |
+| best-countertop-dishwashers-under-100 | prefilter: only 0 distinct items match price <= 100 after extra searches |
+| best-gasbye-vacuum-sealers | prefilter: only 1 distinct items match brand gasbye after extra searches |
+| best-geryon-vacuum-sealers | prefilter: only 0 distinct items match brand geryon after extra searches |
+| best-hava-countertop-dishwashers | prefilter: only 2 distinct items match brand hava after extra searches |
+| best-magic-chef-countertop-dishwashers | prefilter: only 2 distinct items match brand magic after extra searches |
+| best-novete-countertop-dishwashers | prefilter: only 1 distinct items match brand novete after extra searches |
+| best-plateful-vacuum-sealers | prefilter: only 0 distinct items match brand plateful after extra searches |
+| best-powerxl-vacuum-sealers | prefilter: only 1 distinct items match brand powerxl after extra searches |
+| best-wevac-vacuum-sealers | prefilter: only 1 distinct items match brand wevac after extra searches |
+
+## Rounds 37 and 38 (2026-11-16): dehumidifiers, countertop dishwashers, vacuum sealers, 88 guides
+- Round 37: 47 dehumidifier guides (r37.done.txt); 4 singular under-N slugs renamed to under-125/250/350/550 with 301 redirects so they no longer duplicate the plural guides.
+- Round 38: 14 countertop dishwasher guides (r38b.done.txt) + 27 vacuum sealer guides (r38a.done.txt). Skips: Danby, Farberware, HomeLabs, Kapas, RCA, Simzlife, EdgeStar dishwashers (no on-brand machine); Black+Decker, Hamilton Beach (2 machines); dishwasher under-200 (1 under cap); prefilter skips listed above.
+- Zwilling vacuum sealers guide covers handheld valve pumps and pump kits only (no heat sealer in data); guide says so.
+- Repetition: a script-based fix glued product names onto fragments and was reverted from backup; redone by hand. After: no 4-word description opening above 5 in either set; remaining 3 to 4 guide repeats are short glossary/maintenance lines and two short con bullets.
+- Checks: audit ok, no 【, tsc ok, build ok. Words 3,000 to 3,434.

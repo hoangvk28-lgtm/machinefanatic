@@ -1,15 +1,15 @@
-export const guideSlug = "best-dehumidifier-under-500";
-export const guideTitle = "Best Dehumidifier Under $500 (2026)";
-export const metaTitle = "Best Dehumidifier Under $500 (2026)";
-export const metaDescription = "The best dehumidifier under $500 for large or very wet spaces: a 105 pint commercial-class unit, 80 pint basement models and quiet plate options for bedrooms.";
-export const mainKeyword = "best dehumidifier under $500";
+export const guideSlug = "best-dehumidifier-under-550";
+export const guideTitle = "Best Dehumidifier Under $550 (2026)";
+export const metaTitle = "Best Dehumidifier Under $550 (2026)";
+export const metaDescription = "The best dehumidifier under $550 for large or very wet spaces: a 105 pint commercial-class unit, 80 pint basement models and quiet plate options for bedrooms.";
+export const mainKeyword = "best dehumidifier under $550";
 export const categorySlug = "home-machines";
 export const lastUpdated = "2026-11-07";
 export const readTime = "13 min";
 export const heroImage = "https://m.media-amazon.com/images/I/211wcGzZMSL._SL500_.jpg";
 export const introParagraphs = [
   "The top of the consumer range is less about features and more about stamina. Machines here are meant to run for months in a wet lower level, treat thousands of square feet and recover a space after water has entered it.",
-  "That is more machine than most homes need. The sensible approach is to size to the worst day of the year, not the average one, and then stop. The $500 cap reflects listing prices on the date this guide was updated, and prices move, so confirm before you order."
+  "That is more machine than most homes need. The sensible approach is to size to the worst day of the year, not the average one, and then stop. The $550 cap reflects listing prices on the date this guide was updated, and prices move, so confirm before you order."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [

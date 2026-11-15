@@ -32,6 +32,12 @@ const nextConfig: NextConfig = {
         destination: "/about-us", // TODO: confirm real about-page slug
         permanent: true,
       },
+      // 2026-11-15: singular dehumidifier under-N guides renamed (cap +50 / 100->125) to stop duplicating the plural ones
+      ...[["100", "125"], ["200", "250"], ["300", "350"], ["500", "550"]].map(([o, n]) => ({
+        source: `/guide/best-dehumidifier-under-${o}`,
+        destination: `/guide/best-dehumidifier-under-${n}`,
+        permanent: true,
+      })),
       // Fix 404: /author listing page → about page
       {
         source: "/author",

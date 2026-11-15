@@ -1,15 +1,15 @@
-export const guideSlug = "best-dehumidifier-under-200";
-export const guideTitle = "Best Dehumidifier Under $200 (2026)";
-export const metaTitle = "Best Dehumidifier Under $200 (2026)";
-export const metaDescription = "The best dehumidifier under $200 for a damp basement or bedroom: two compressor machines, one 80 pint unit and two quiet plate models, with honest ratings.";
-export const mainKeyword = "best dehumidifier under $200";
+export const guideSlug = "best-dehumidifier-under-250";
+export const guideTitle = "Best Dehumidifier Under $250 (2026)";
+export const metaTitle = "Best Dehumidifier Under $250 (2026)";
+export const metaDescription = "The best dehumidifier under $250 for a damp basement or bedroom: two compressor machines, one 80 pint unit and two quiet plate models, with honest ratings.";
+export const mainKeyword = "best dehumidifier under $250";
 export const categorySlug = "home-machines";
 export const lastUpdated = "2026-11-07";
 export const readTime = "13 min";
 export const heroImage = "https://m.media-amazon.com/images/I/31qCwuMCu0L._SL500_.jpg";
 export const introParagraphs = [
   "A budget near two hundred dollars is where you have to decide which kind of machine you are buying. One path is a compressor box that moves real volumes of water. The other is a quiet plate unit that nudges a bedroom a few points drier.",
-  "Most buyers searching for a single best answer here have a basement or a laundry room, which points to the compressor path. The $200 cap reflects listing prices on the date this guide was updated, and prices move, so check before ordering."
+  "Most buyers searching for a single best answer here have a basement or a laundry room, which points to the compressor path. The $250 cap reflects listing prices on the date this guide was updated, and prices move, so check before ordering."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [

@@ -1,15 +1,15 @@
-export const guideSlug = "best-dehumidifier-under-100";
-export const guideTitle = "Best Dehumidifier Under $100 (2026)";
-export const metaTitle = "Best Dehumidifier Under $100 (2026)";
-export const metaDescription = "The best dehumidifier under $100 for bedrooms, bathrooms and closets, compared on timers, defrost, tank size and how much moisture a small unit really removes.";
-export const mainKeyword = "best dehumidifier under $100";
+export const guideSlug = "best-dehumidifier-under-125";
+export const guideTitle = "Best Dehumidifier Under $125 (2026)";
+export const metaTitle = "Best Dehumidifier Under $125 (2026)";
+export const metaDescription = "The best dehumidifier under $125 for bedrooms, bathrooms and closets, compared on timers, defrost, tank size and how much moisture a small unit really removes.";
+export const mainKeyword = "best dehumidifier under $125";
 export const categorySlug = "home-machines";
 export const lastUpdated = "2026-11-07";
 export const readTime = "12 min";
 export const heroImage = "https://m.media-amazon.com/images/I/419stVZmTiL._SL500_.jpg";
 export const introParagraphs = [
   "Under the hundred dollar line you are buying a small appliance with a narrow job. It can take the edge off a stuffy bedroom, keep a bathroom from sweating or protect a closet, and it does that quietly and cheaply.",
-  "What it cannot do is dry a house. Knowing that before you buy saves a return and a season of disappointment. The $100 cap reflects listing prices on the date this guide was updated, and those prices move, so confirm before ordering."
+  "What it cannot do is dry a house. Knowing that before you buy saves a return and a season of disappointment. The $125 cap reflects listing prices on the date this guide was updated, and those prices move, so confirm before ordering."
 ];
 export interface GuideProduct { id: string; rank: number; badge: string; name: string; amazonUrl: string; imageUrl: string; price: string; ctaLabel?: string; shortCtaLabel?: string; specs: string[]; specList?: { label: string; value: string }[]; description: string; bestFor: string; pros: string[]; cons: string[]; }
 export const products: GuideProduct[] = [

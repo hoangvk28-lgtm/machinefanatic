@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-dyson-air-purifiers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "dyson air purifiers",
+ "guideTitle": "Best Dyson Air Purifiers (2026)",
+ "metaTitle": "Best Dyson Air Purifiers in 2026",
+ "metaDescription": "Dyson Big+Quiet, Cool PC1, Hot+Cool HP1 and HP2, Humidify+Cool PH2 and Hushjet Compact compared by room size, extra functions and upkeep before you buy.",
+ "lastUpdated": "2026-11-15",
+ "readTime": "12 min",
+ "expertTake": "The Big+Quiet BP03 is the pick for large rooms and the one to choose if formaldehyde matters. The Cool PC1 is the sensible fan-and-purifier for people who want one tower year round, and the Hot+Cool models only make sense if you would otherwise buy a separate heater. Buyers who simply want the most clean air for the money will find better value from a conventional purifier.",
+ "introParagraphs": [
+  "Most purifiers are a box with a fan and a filter, but a few designs fold extra functions into that body, such as a heater, a humidifier or a cooling fan. That convenience changes how the machine is used and how much it costs to own.",
+  "The question to ask is whether you want those extras or only clean air. This roundup helps separate the two so you do not pay for functions you will not use."
+ ],
+ "products": [
+  {
+   "id": "B0CDQVR4G9",
+   "badge": "Best Overall",
+   "name": "Dyson Purifier Big+Quiet Formaldehyde BP03",
+   "specs": [
+    "Large format",
+    "H13 HEPA",
+    "Formaldehyde filter",
+    "Projects air far"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "Big+Quiet BP03"
+    },
+    {
+     "label": "Filtration",
+     "value": "H13 HEPA plus carbon"
+    },
+    {
+     "label": "Gas handling",
+     "value": "Formaldehyde destruction"
+    },
+    {
+     "label": "Airflow",
+     "value": "Projected over 32 ft"
+    },
+    {
+     "label": "Target",
+     "value": "Large rooms"
+    }
+   ],
+   "description": "The Big+Quiet is Dyson's dedicated large-room purifier, with no fan or heater function to dilute the design. It projects clean air across long distances, which is the right behavior in open plans where a small unit's output would fade before it reached the far wall.\n\nThe formaldehyde filter is the distinctive feature. Standard carbon adsorbs gases until it is full, while a catalytic stage can break formaldehyde down, which matters in new homes and rooms with fresh furniture or flooring. Against the Cool PC1 it covers far more floor area, and against a basic HEPA unit it adds a gas stage that ordinary machines lack.\n\nOwnership comes down to one sealed filter set, replaced on a schedule that the unit tracks, plus occasional wiping of the body. It is large and sits on the floor, so plan for clear space around it.",
+   "bestFor": "Large living areas and new-build homes with formaldehyde concerns.",
+   "pros": [
+    "Catalytic formaldehyde filter beyond plain carbon",
+    "Projects air over long distances",
+    "Sealed H13 HEPA system",
+    "Dedicated purifier with no gimmick functions"
+   ],
+   "cons": [
+    "Large and visually dominant",
+    "Filter replacement is a significant cost"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CDQVR4G9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41VOdOaF4sL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F3FZZ5QZ",
+   "badge": "Best Everyday Tower",
+   "name": "Dyson Purifier Cool PC1 tower fan purifier",
+   "specs": [
+    "Purifier and fan",
+    "350 degree oscillation",
+    "App control",
+    "Sealed H13 filter"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "Purifier Cool PC1"
+    },
+    {
+     "label": "Functions",
+     "value": "Purify and cool"
+    },
+    {
+     "label": "Oscillation",
+     "value": "350 degrees"
+    },
+    {
+     "label": "Filtration",
+     "value": "Sealed H13 HEPA and carbon"
+    },
+    {
+     "label": "Control",
+     "value": "App and remote"
+    }
+   ],
+   "description": "The PC1 is a bladeless tower that purifies all year and cools you in warm months. Because it moves air without exposed blades, it is easy to clean and safe near children, and the 350 degree oscillation spreads the filtered air around a room rather than aiming it at one spot.\n\nIts compromise is that the airflow path is tuned for comfort rather than maximum clean air delivery, so a dedicated purifier of the same price will usually clean faster. The sealed system helps by ensuring that air has to pass through the filter, which is a real advantage over cheap units with leaks around the cartridge.\n\nOwnership is gentle. There is no heater or water tank, so the only consumable is the filter set. Pair it with the Hot+Cool HP1 if you also want heat, or choose it alone for a simpler year-round tower.",
+   "bestFor": "Bedrooms and living rooms that want a purifier that doubles as a cooling fan.",
+   "pros": [
+    "Bladeless design is easy to wipe clean",
+    "350 degree oscillation spreads filtered air",
+    "Sealed filter path with H13 HEPA",
+    "App and remote control"
+   ],
+   "cons": [
+    "Tuned for comfort rather than maximum clean air",
+    "Costs more than a basic purifier of equal output"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3FZZ5QZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31sZIZnj3TL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F468V6BW",
+   "badge": "Best for Heating Too",
+   "name": "Dyson Purifier Hot+Cool HP1 fan heater",
+   "specs": [
+    "Purifier and heater",
+    "Sealed system",
+    "Activated carbon",
+    "Year-round use"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "Purifier Hot+Cool HP1"
+    },
+    {
+     "label": "Functions",
+     "value": "Purify, heat, cool"
+    },
+    {
+     "label": "Filtration",
+     "value": "Sealed H13 HEPA with carbon"
+    },
+    {
+     "label": "Gas handling",
+     "value": "Activated carbon"
+    },
+    {
+     "label": "Season",
+     "value": "All year"
+    }
+   ],
+   "description": "The HP1 adds a heater to the Cool PC1's formula, which turns it into a space heater that happens to filter air. For a small bedroom or office with no heating of its own, one machine replaces two.\n\nThe heating comes at a cost in cleaning performance and electricity: heater elements draw far more power than the fan alone, so running it for hours is a larger bill than running a conventional purifier. It is a convenience product, so judge it as a heater first. The sealed construction and activated carbon layer match the Cool model.\n\nUpkeep adds nothing beyond the filter set, since there is no water or tank. In summer it runs as a fan, in winter as a heater, and either way the filter is working.",
+   "bestFor": "Small rooms that need supplemental heat and clean air in one unit.",
+   "pros": [
+    "Heater, fan and purifier in one body",
+    "Sealed construction with carbon filtration",
+    "No tank or water to maintain",
+    "Bladeless design with no exposed blades"
+   ],
+   "cons": [
+    "Heating draws much more power than purifying alone",
+    "Not the best option for pure air cleaning"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F468V6BW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31RO4tIxb7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F467CSHR",
+   "badge": "Best for Traffic Pollution",
+   "name": "Dyson Purifier Hot+Cool HP2 De-NOx",
+   "specs": [
+    "De-NOx filter",
+    "Purify and heat",
+    "Sealed H13 HEPA",
+    "App control"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "Hot+Cool HP2 De-NOx"
+    },
+    {
+     "label": "Functions",
+     "value": "Purify, heat, cool"
+    },
+    {
+     "label": "Extra stage",
+     "value": "NO2 capture"
+    },
+    {
+     "label": "Filtration",
+     "value": "Sealed 3-stage H13 HEPA"
+    },
+    {
+     "label": "Control",
+     "value": "App and remote"
+    }
+   ],
+   "description": "The HP2 builds on the HP1 with a filter stage aimed at nitrogen dioxide, the gas associated with traffic and gas cookers. The listing states it captures substantially more NO2 than the standard version, which matters for homes beside a busy road or with gas hobs.\n\nAt this level the question is whether you will notice. Particle capture is the same sealed H13 system as other Dyson models, so the premium buys the gas stage and the heater, not better dust control. Against the HP1 it is the same body with a more specialised filter.\n\nOwnership follows the family pattern: one filter set and no water. Heater use drives the running cost, so treat winter operation as a comfort feature and not an air-cleaning feature.",
+   "bestFor": "Homes near heavy traffic or with gas cooking that also want a heater.",
+   "pros": [
+    "Dedicated stage for nitrogen dioxide",
+    "Sealed three-stage HEPA system",
+    "Heater and fan functions included",
+    "No tank to clean"
+   ],
+   "cons": [
+    "Premium price for a specialised filter",
+    "Heating adds to running cost"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F467CSHR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/314QR6fcgPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F3G991BD",
+   "badge": "Best for Dry Air",
+   "name": "Dyson Purifier Humidify+Cool PH2 De-NOx",
+   "specs": [
+    "Purify and humidify",
+    "Water tank",
+    "UV cleanse",
+    "De-NOx stage"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "Humidify+Cool PH2 De-NOx"
+    },
+    {
+     "label": "Functions",
+     "value": "Purify, humidify, cool"
+    },
+    {
+     "label": "Water hygiene",
+     "value": "UV treatment of tank water"
+    },
+    {
+     "label": "Extra stage",
+     "value": "NO2 capture"
+    },
+    {
+     "label": "Season",
+     "value": "Best in dry winters"
+    }
+   ],
+   "description": "The PH2 combines purification with humidification, which suits homes with dry winter air and dust. The listing states the tank water is treated to remove most bacteria, a useful feature on a machine that sits on a floor next to a bed.\n\nThe cost is complexity. A water tank means mineral scale, a tank to fill daily and parts to descale, tasks that a pure purifier never asks for. If you live in a hard water area, expect the humidifier components to need more attention than the filter does.\n\nBecause it does two jobs, it will clean air and add moisture less aggressively than a dedicated unit of each type. It is the right choice for a bedroom where space limits you to one machine, and a poor choice if you can accommodate separate devices.",
+   "bestFor": "Bedrooms with dry winter air where one floor unit has to do both jobs.",
+   "pros": [
+    "Purifier and humidifier in a single body",
+    "Water treatment feature for tank hygiene",
+    "Dedicated NO2 stage",
+    "Bladeless oscillating airflow"
+   ],
+   "cons": [
+    "Tank needs daily filling and descaling",
+    "Jack of both trades, master of neither"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3G991BD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31BRZ4TjcjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FJPYSFRH",
+   "badge": "Best for Small Rooms",
+   "name": "Dyson Hushjet Compact purifier",
+   "specs": [
+    "Compact body",
+    "Whisper quiet",
+    "Whole-room cleaning",
+    "Small spaces"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "Hushjet Compact"
+    },
+    {
+     "label": "Form",
+     "value": "Compact tabletop"
+    },
+    {
+     "label": "Focus",
+     "value": "Quiet running"
+    },
+    {
+     "label": "Target",
+     "value": "Bedroom or desk"
+    },
+    {
+     "label": "Filtration",
+     "value": "HEPA and carbon"
+    }
+   ],
+   "description": "The Hushjet is Dyson's compact answer for small spaces, built around quiet running rather than raw airflow. It is aimed at bedrooms, offices and nurseries where a floor tower would feel oversized.\n\nIts limitation is coverage. A small machine in a large room will run flat out and still not turn the air over often enough for allergy control, so measure the room first. The reward for the small size is easy placement on a desk or shelf and low noise.\n\nUpkeep is the usual filter replacement and a gentle wipe of the vents. If you want a Dyson that fits a nightstand, this is the one, and if you need a room-wide solution, step up to the Big+Quiet.",
+   "bestFor": "Small bedrooms, nurseries and desks where noise is the priority.",
+   "pros": [
+    "Compact body fits shelves and nightstands",
+    "Quiet-focused design for sleeping rooms",
+    "HEPA and carbon filtration",
+    "Lower cost of entry into the brand"
+   ],
+   "cons": [
+    "Limited coverage for larger rooms",
+    "Filter cost is high for the size"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJPYSFRH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41e9UmfveLL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Know what you are paying for",
+   "explanation": "Dyson's premium is for a sealed filter path, a bladeless design and in many cases an extra function. The Big+Quiet BP03 is the only pure-purifier model here, so every part of its design goes into air delivery. In contrast, the Hot+Cool HP1 and HP2 split their budget with a heater, which means a conventional purifier at the same price will usually clean faster."
+  },
+  {
+   "criterion": "Understand the gas stages",
+   "explanation": "HEPA captures particles only, and gases need carbon or a catalytic stage. The BP03 adds a formaldehyde-destroying filter, the HP2 and PH2 add a nitrogen dioxide stage, and the HP1 and PC1 carry standard carbon. Match the stage to your actual pollutant: gas cookers and busy roads point to De-NOx, new furniture and flooring to the formaldehyde filter."
+  },
+  {
+   "criterion": "Check the room size",
+   "explanation": "Tower models like the PC1 and HP1 are designed for single rooms, while the BP03 is built to project air over more than 30 feet. The Hushjet Compact is sized for small spaces and will struggle in anything larger than a bedroom. Choose a machine that matches the room, since running a small unit at maximum is both louder and less effective."
+  },
+  {
+   "criterion": "Weigh the running cost",
+   "explanation": "A heater element draws far more power than a fan, so the Hot+Cool HP1 and HP2 cost more to run in winter than a pure purifier would. The PH2 adds humidifier upkeep, including descaling. Decide whether the convenience of one machine outweighs the extra maintenance and electricity."
+  },
+  {
+   "criterion": "Plan for filter replacement",
+   "explanation": "Sealed filter sets are replaced on a schedule the machine tracks, and they are a significant yearly cost. The larger BP03 filter costs more than the compact Hushjet's. Price the genuine replacement before you buy, since third-party filters may break the sealed design."
+  },
+  {
+   "criterion": "Consider the humidifier's chores",
+   "explanation": "The PH2 needs a clean tank, regular descaling and fresh water, particularly if your tap water is hard. A purifier-only machine needs none of that. If you would not keep up with a humidifier's chores, pick a model without one, because a neglected tank undermines the purifier's whole purpose."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Sealed H13 HEPA",
+   "meaning": "The whole machine is sealed so that air cannot bypass the filter, not just the filter itself. H13 is a European grade capturing 99.97 percent of fine particles.",
+   "watchFor": "The sealed design matters most on the BP03 and HP1, where leaks around cartridges are a common weakness of cheaper units."
+  },
+  {
+   "spec": "Formaldehyde filter",
+   "meaning": "A catalytic stage that breaks formaldehyde down rather than just trapping it. Plain carbon can saturate and release it again.",
+   "watchFor": "Only the BP03 in this roundup carries it, so choose it when new furniture or building materials are the concern."
+  },
+  {
+   "spec": "De-NOx",
+   "meaning": "A filter stage aimed at nitrogen dioxide, a gas from combustion and traffic. The listing states it captures substantially more NO2 than the standard filter.",
+   "watchFor": "The HP2 and PH2 have it, but the PC1 and HP1 do not."
+  },
+  {
+   "spec": "350 degree oscillation",
+   "meaning": "The tower rotates to distribute air around a room. It improves mixing but is not a measure of how much air is cleaned.",
+   "watchFor": "Check if you want the PC1's spread or the BP03's long-range projection."
+  },
+  {
+   "spec": "Water treatment in tank",
+   "meaning": "A hygiene feature that treats tank water before it is released as moisture. It reduces but does not eliminate the need to clean the tank.",
+   "watchFor": "On the PH2, descaling is still routine because treatment does not remove mineral scale."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Filter system",
+   "description": "We compared sealing, HEPA grade and gas stages across the lineup. The BP03's formaldehyde filter and the HP2 and PH2's De-NOx stage set them apart. Models with standard carbon were ranked below."
+  },
+  {
+   "title": "Room suitability",
+   "description": "Each model was matched to a room type, from the Hushjet Compact for small spaces to the BP03 for open plans. We marked down any machine that must run at maximum to serve its target room."
+  },
+  {
+   "title": "Added functions",
+   "description": "We assessed heating, humidifying and fan functions as costs and benefits. The Hot+Cool HP1 earns credit for replacing a heater and loses credit for power draw. The PH2 gains for dry air relief but loses for tank upkeep."
+  },
+  {
+   "title": "Ownership cost",
+   "description": "Filter replacement price and frequency were compared, along with extra chores for models with water tanks. Based on owner feedback patterns and listing details, the compact Hushjet had the lowest filter cost and the BP03 the highest."
+  },
+  {
+   "title": "Daily use",
+   "description": "App control, oscillation and noise at low settings were weighed against simplicity. Bladeless designs were credited for easy cleaning, because there are no blades to dismantle and the outlet slot wipes clean with a cloth. No model scored well for price, and the compact Hushjet came closest to fair value for what it does. We also gave credit to machines whose app reports give a useful reading of the room rather than a vague colored ring."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Nursery or desk",
+      "Dyson Hushjet Compact",
+      "Compact and quiet for small spaces"
+     ],
+     [
+      "Bedroom with fan need",
+      "Dyson Cool PC1",
+      "Tower fan with oscillation and sealed filter"
+     ],
+     [
+      "Bedroom needing heat",
+      "Dyson Hot+Cool HP1",
+      "Heater and purifier in one body"
+     ],
+     [
+      "Large open plan",
+      "Dyson Big+Quiet BP03",
+      "Projects air over long distances"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Priority",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost in brand",
+      "Dyson Hushjet Compact",
+      "Smallest and simplest unit"
+     ],
+     [
+      "Mid range",
+      "Dyson Cool PC1",
+      "Purifier plus fan without a heater"
+     ],
+     [
+      "Upper range",
+      "Dyson Hot+Cool HP1",
+      "Adds heating function"
+     ],
+     [
+      "Premium",
+      "Dyson Big+Quiet BP03",
+      "Largest unit with formaldehyde stage"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Purifier-only vs Multi-function",
+   "cards": [
+    {
+     "label": "Purifier-only",
+     "text": "The Big+Quiet BP03 and Hushjet Compact put the whole design into moving filtered air, with no heater or tank to maintain."
+    },
+    {
+     "label": "Multi-function",
+     "text": "The HP1, HP2, PC1 and PH2 trade some pure cleaning efficiency for added heating, cooling or humidifying, and in some cases extra chores."
+    }
+   ],
+   "note": "Choose a purifier-only model if clean air is the goal, and a multi-function model only if you would otherwise buy a second appliance."
+  },
+  {
+   "subheading": "Pollutant Type",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Formaldehyde from new furnishings",
+      "Dyson Big+Quiet BP03",
+      "Catalytic formaldehyde stage"
+     ],
+     [
+      "Traffic and gas cooker fumes",
+      "Dyson Hot+Cool HP2 De-NOx",
+      "NO2 capture stage"
+     ],
+     [
+      "Pollen and dust only",
+      "Dyson Cool PC1",
+      "Sealed HEPA with simple operation"
+     ],
+     [
+      "Dry winter air plus dust",
+      "Dyson Humidify+Cool PH2",
+      "Adds humidification"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Allergy Sufferers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A sealed system so no air bypasses the filter, a HEPA grade filter and enough capacity for the room. Avoid adding a humidifier unless you can keep it clean, because dirty water defeats the purpose."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Cool PC1 gives sealed H13 filtration with no tank to maintain. The BP03 is the choice if the allergy room is large."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Formaldehyde or traffic gases are a documented problem, which points to the BP03 or the HP2, or if one unit must replace a heater."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need particle capture in a bedroom, where the Hushjet Compact or the Cool PC1 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace the sealed filter set",
+   "interval": "About once a year",
+   "why": "The carbon layer saturates and the machine tracks the schedule. Late replacement lets odors and gases through."
+  },
+  {
+   "task": "Wipe the air outlet and body",
+   "interval": "Monthly",
+   "why": "Bladeless airways collect dust at the slot. A soft cloth keeps airflow smooth."
+  },
+  {
+   "task": "Descale the tank on the PH2",
+   "interval": "Every few weeks",
+   "why": "Mineral scale builds in the tank and evaporator. Skipping this lowers output and spreads minerals."
+  },
+  {
+   "task": "Clear the intake",
+   "interval": "Monthly",
+   "why": "Curtains and furniture reduce airflow. Leave clearance around the base."
+  },
+  {
+   "task": "Keep software and app updated",
+   "interval": "As prompted",
+   "why": "Sensor calibration and schedules depend on the app. Update to keep readings accurate."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a Dyson better than a normal purifier?",
+   "a": "For particle cleaning per dollar, a conventional purifier often wins. Dyson's strengths are the sealed design, bladeless airflow and extras like a heater or humidifier, so it is better if you value those."
+  },
+  {
+   "q": "Which Dyson is best for large rooms?",
+   "a": "The Big+Quiet BP03 is built for large spaces and projects air over long distances. The tower models are designed for single rooms."
+  },
+  {
+   "q": "Is the heater practical for winter?",
+   "a": "On the HP1 and HP2 it works as a small room heater, but it uses far more electricity than the fan alone. Use it as supplemental heat, not as your main heating."
+  },
+  {
+   "q": "Does the formaldehyde filter really matter?",
+   "a": "It matters where new furniture, flooring or paint release formaldehyde. For homes without such sources, a standard carbon stage is usually enough."
+  },
+  {
+   "q": "How often does the filter need replacing?",
+   "a": "The sealed filter set is replaced on a schedule tracked by the machine, usually once a year with normal use. Heavy smoke or pet use shortens that interval."
+  },
+  {
+   "q": "Should I buy the humidifier version?",
+   "a": "Only if you can keep the tank clean and descaled. Where tap water is hard, a separate humidifier and purifier may be easier to maintain. Splitting the jobs also lets you place each machine where it works best, with the humidifier on a water-safe surface and the purifier clear of walls. The same logic applies to the fan function: the Cool PC1 and Hot+Cool models oscillate like a tower fan, but the airflow is gentler than a box fan on its top setting, so strong-breeze sleepers may still want a conventional fan alongside."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41VOdOaF4sL._SL500_.jpg"
+}

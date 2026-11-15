@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-frigidaire-dehumidifiers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "frigidaire dehumidifier",
+ "guideTitle": "Best Frigidaire Dehumidifiers (2026)",
+ "metaTitle": "Best Frigidaire Dehumidifiers in 2026",
+ "metaDescription": "Six Frigidaire dehumidifiers from 22 to 60 pints compared by capacity, pump and Wi-Fi features so you can match one to a bedroom, basement or whole floor.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31niBfzVsZL._SL500_.jpg",
+ "expertTake": "The Frigidaire 50-pint with the built-in pump is the pick for a basement without a nearby drain. The 35-pint model is the value pick for a bedroom or a mid-size room. If you only need to dry a closet or a bathroom shelf, skip a compressor unit and use a small desiccant pack instead.",
+ "introParagraphs": [
+  "Appliance-brand dehumidifiers tend to share a familiar layout: a front bucket, a washable filter, a humidistat dial or panel and a side drain port. The real differences are in the capacity step you pick and in extras like a lift pump, app control or an upgraded filter.",
+  "Choosing well means matching size to the room first, then deciding whether a pump or Wi-Fi is worth carrying. A brand with a full ladder of sizes makes that easy, because you can move up or down one step without learning a new machine."
+ ],
+ "products": [
+  {
+   "id": "B0FP2VXZ2B",
+   "badge": "Best for Basements",
+   "name": "Frigidaire 50-Pint Dehumidifier with Built-In Pump",
+   "specs": [
+    "50 pints per day",
+    "Built-in pump",
+    "Washable filter",
+    "Humidity control"
+   ],
+   "specList": [
+    {
+     "label": "Rated capacity",
+     "value": "50 pints per day"
+    },
+    {
+     "label": "Pump",
+     "value": "Built in"
+    },
+    {
+     "label": "Filter",
+     "value": "Washable"
+    },
+    {
+     "label": "Control",
+     "value": "Custom humidity setting"
+    },
+    {
+     "label": "Best space",
+     "value": "Basement with no floor drain"
+    }
+   ],
+   "description": "The pump is the point of this model. A built-in pump lifts condensate through a hose to a sink, a standpipe or outdoors, so a basement without a drain on the same level is no longer a problem. Many standard compressor units rely entirely on gravity, which is why this variant earns its place in the range.\n\nOn capacity it matches the other 50-pint Frigidaire units, one step below the 60-pint model and well above the 35-pint. That is a sound size for a basement of roughly 2,500 to 3,500 square feet with a moderate problem. The washable filter and custom humidity control follow the brand template.\n\nExpect to check the hose for kinks and verify the pump runs after a long idle period. In a basement that stays dry in winter, the pump can sit unused for months, so run it through a cycle at the start of each humid season. Route the discharge hose so it cannot kink behind the cabinet, and secure the far end, since a loose hose end is the usual cause of a puddle.",
+   "bestFor": "Basements where the drain is uphill or on another level.",
+   "pros": [
+    "Built-in pump lifts water to a distant drain",
+    "50-pint capacity suits mid-size basements",
+    "Washable filter keeps upkeep cheap",
+    "Custom humidity control holds a setpoint"
+   ],
+   "cons": [
+    "Pump is an extra part to maintain",
+    "Costs more than the same size without a pump"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FP2VXZ2B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31niBfzVsZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FP1L6W89",
+   "badge": "Best Smart Pick",
+   "name": "Frigidaire 50-Pint Wi-Fi Dehumidifier, Portable and Quiet",
+   "specs": [
+    "50 pints per day",
+    "Wi-Fi control",
+    "Washable filter",
+    "Portable"
+   ],
+   "specList": [
+    {
+     "label": "Rated capacity",
+     "value": "50 pints per day"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wi-Fi"
+    },
+    {
+     "label": "Filter",
+     "value": "Washable"
+    },
+    {
+     "label": "Control",
+     "value": "Custom humidity setting"
+    },
+    {
+     "label": "Best space",
+     "value": "Large room or finished basement"
+    }
+   ],
+   "description": "This is the 50-pint platform with Wi-Fi added, so you can read and change the humidity setpoint from a phone. The mechanics match the pumped unit above: a compressor, a coil, a washable filter and a front bucket, with continuous-drain capability by hose.\n\nWi-Fi is most useful when the machine sits in a space you do not visit daily, such as a basement storage area or a rental. It lets you confirm it is running and adjust for a seasonal swing. Compared with the Gallery 35, it trades the air-cleaning filter for more water removal.\n\nWithout a pump, the install depends on a downhill hose or the bucket. At full output the bucket will fill quickly in a wet room, so use the continuous drain if you can. Check that the manual humidistat still controls the unit when the network is down. Set the target to the mid 40s in summer rather than the lowest option, because chasing a very low number keeps the compressor running with little benefit.",
+   "bestFor": "Large rooms where remote monitoring and 50-pint capacity both matter.",
+   "pros": [
+    "Wi-Fi control for remote setpoint changes",
+    "50-pint capacity for large rooms",
+    "Washable filter is easy to clean",
+    "Portable form with a hose drain option"
+   ],
+   "cons": [
+    "No pump, so it needs a downhill drain",
+    "Priced above the plain 50-pint models"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FP1L6W89?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/2125jn-3fwL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BHBR3NZ3",
+   "badge": "Best for Wet Spaces",
+   "name": "Frigidaire 60-Pint Dehumidifier with Continuous Drain",
+   "specs": [
+    "60 pints per day",
+    "Continuous drain",
+    "Washable filter",
+    "Humidity control"
+   ],
+   "specList": [
+    {
+     "label": "Rated capacity",
+     "value": "60 pints per day"
+    },
+    {
+     "label": "Drain",
+     "value": "Continuous drain option"
+    },
+    {
+     "label": "Filter",
+     "value": "Washable"
+    },
+    {
+     "label": "Control",
+     "value": "Custom humidity setting"
+    },
+    {
+     "label": "Best space",
+     "value": "Large wet basement"
+    }
+   ],
+   "description": "The 60-pint is the top of this Frigidaire ladder and the unit to look at when a 50-pint would run nonstop. It keeps the same bucket, filter and control layout while adding about 10 more pints of rated capacity, plus a continuous-drain option for a hose.\n\nThe extra 10 pints over the 50-pint models is the margin that lets the machine cycle off in a chronically damp space instead of running flat out. That matters for a basement with a high water table or one that floods lightly each spring. It is also the heaviest and loudest Frigidaire here.\n\nPlan for a floor drain or a pump kit, since the bucket will fill in hours at this rating. A machine this size also pulls noticeable power, so avoid sharing an extension cord and plug it into a grounded wall outlet directly. Give it clearance on all sides and expect to wash the filter more often during a wet season.",
+   "bestFor": "Chronically wet basements where 50 pints is not quite enough.",
+   "pros": [
+    "Highest rated capacity in the lineup at 60 pints",
+    "Continuous drain option avoids bucket emptying",
+    "Spare capacity lets it cycle off",
+    "Same washable filter and controls as smaller units"
+   ],
+   "cons": [
+    "Larger and louder than the 35-pint models",
+    "Needs a drain plan to avoid frequent emptying"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0BHBR3NZ3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31qp2dlzDDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DFZZ7KRR",
+   "badge": "Best Air Cleaning Extras",
+   "name": "Frigidaire Gallery 35-Pint Smart Dehumidifier, MERV 14 Filter",
+   "specs": [
+    "35 pints per day",
+    "MERV 14 filter",
+    "Ionizer",
+    "Wi-Fi app"
+   ],
+   "specList": [
+    {
+     "label": "Rated capacity",
+     "value": "35 pints per day"
+    },
+    {
+     "label": "Filter",
+     "value": "MERV 14"
+    },
+    {
+     "label": "Air cleaning",
+     "value": "Ionizer"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wi-Fi with Frigidaire app"
+    },
+    {
+     "label": "Best space",
+     "value": "Finished living space"
+    }
+   ],
+   "description": "The Gallery 35 adds two features that the standard models do not have: a MERV 14 air filter and a clean air ionizer. MERV 14 captures fine particles, so the unit doubles as a mild air cleaner while it dries. The ionizer is a separate feature that some owners prefer to switch off, so check that it can be disabled.\n\nIts 35-pint capacity is lower than the 50-pint units, so it is for a mid-size living space rather than a damp basement. Wi-Fi control through the Frigidaire app is included, which makes it the most connected model in the range.\n\nFine filters restrict airflow when dirty, so inspect the MERV 14 element on a schedule. If dust is your main complaint, it is a more complete answer than a plain dehumidifier. If raw water removal is the goal, the 50-pint models are better. Keep a spare filter on hand, because a fine element that is drying on the rack leaves the unit without protection for a day.",
+   "bestFor": "Finished rooms where dust and humidity both matter.",
+   "pros": [
+    "MERV 14 filter captures fine particles",
+    "Wi-Fi app control included",
+    "Ionizer adds optional air cleaning",
+    "Quiet enough for living space"
+   ],
+   "cons": [
+    "Only 35 pints, below the 50 and 60 pint models",
+    "Fine filter needs timely replacement or cleaning"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DFZZ7KRR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318JrF5xe6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FP2WS38M",
+   "badge": "Best Value",
+   "name": "Frigidaire 35-Pint Dehumidifier for Medium Rooms",
+   "specs": [
+    "35 pints per day",
+    "Washable filter",
+    "Quiet",
+    "Humidity control"
+   ],
+   "specList": [
+    {
+     "label": "Rated capacity",
+     "value": "35 pints per day"
+    },
+    {
+     "label": "Filter",
+     "value": "Washable"
+    },
+    {
+     "label": "Noise",
+     "value": "Marketed as quiet"
+    },
+    {
+     "label": "Control",
+     "value": "Custom humidity setting"
+    },
+    {
+     "label": "Best space",
+     "value": "Bedroom, medium room, small basement"
+    }
+   ],
+   "description": "The plain 35-pint is the middle rung and the best match for most medium rooms. It uses the same compressor design as the larger units but in a smaller cabinet, so it is easier to carry and tuck beside a bed or into a utility corner.\n\nCapacity sits between the 22-pint and the 50-pint models, which is why it works for a bedroom or a small basement of about 1,500 to 2,500 square feet. The washable filter and custom humidity control are the same as the rest of the range.\n\nA smaller bucket fills sooner in a damp room, so use the drain port if you can. For a stubborn basement, move up to the 50-pint, and for a bathroom, step down to the 22. Owners often place it near a bedroom door so the compressor hum fades into the hallway, which works as long as the airflow is not blocked by a closed door.",
+   "bestFor": "Bedrooms and medium rooms with moderate humidity.",
+   "pros": [
+    "Right-sized for most medium rooms",
+    "Washable filter is easy to maintain",
+    "Smaller cabinet is easier to move",
+    "Humidity control holds a target"
+   ],
+   "cons": [
+    "Bucket fills sooner in a damp room",
+    "Underpowered for a wet basement"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FP2WS38M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/213eacF-jkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FP2VBHPB",
+   "badge": "Best for Small Rooms",
+   "name": "Frigidaire 22-Pint Dehumidifier for Bedrooms and Bathrooms",
+   "specs": [
+    "22 pints per day",
+    "Washable filter",
+    "Quiet",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Rated capacity",
+     "value": "22 pints per day"
+    },
+    {
+     "label": "Filter",
+     "value": "Washable"
+    },
+    {
+     "label": "Noise",
+     "value": "Marketed as quiet"
+    },
+    {
+     "label": "Control",
+     "value": "Custom humidity setting"
+    },
+    {
+     "label": "Best space",
+     "value": "Bedroom, bathroom, small room"
+    }
+   ],
+   "description": "The 22-pint is the smallest compressor unit in the range and the one to choose for a single room. It dries a bedroom, a bathroom or a small utility space without the bulk of a basement machine.\n\nUnder the current federal test, 22 pints equals what older labels would have called about 30 pints, so it is stronger than the number looks. It still has less coil and a smaller bucket than the 35-pint, so it is a poor choice for a damp basement.\n\nIt is the easiest to live with: light enough to carry, quiet enough for a bedroom and simple to clean. Use the drain port if you cannot empty the bucket daily. In a bathroom, place it outside the splash zone and run it after showers rather than continuously, which saves electricity and still keeps surfaces dry.",
+   "bestFor": "Single rooms such as bedrooms and bathrooms.",
+   "pros": [
+    "Smallest and easiest to carry in the range",
+    "Quiet enough for a bedroom",
+    "Washable filter keeps upkeep simple",
+    "22-pint rating is strong under the newer test"
+   ],
+   "cons": [
+    "Too small for a basement",
+    "Bucket needs frequent emptying in damp rooms"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0FP2VBHPB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31wdD8sqTZL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Choose the capacity step",
+   "explanation": "Frigidaire offers 22, 35, 50 and 60 pint steps, which makes sizing easy. A bedroom or bathroom is happy with the 22-pint, a medium room or small basement suits the 35-pint, and a larger or damper basement wants the 50 or 60. When in doubt, go one step up so the machine cycles off. A unit that runs without ever reaching its setpoint is a sign the size is too small for the moisture source, not that the machine is faulty."
+  },
+  {
+   "criterion": "Pump versus gravity",
+   "explanation": "The 50-pint with built-in pump lifts water to a distant drain, while the 60-pint and others rely on a hose with a downhill run. A pump adds a part but solves an uphill drain. Check where your drain is before buying. Measure the height difference between the unit's drain port and the discharge point, and remember the pump only helps when the discharge is above the machine."
+  },
+  {
+   "criterion": "Smart features worth paying for",
+   "explanation": "The 50-pint Wi-Fi and the Gallery 35 both offer app control. This helps in a rental or a hard-to-reach basement, but the humidistat must still work locally. Pay for Wi-Fi only if you will actually look at it."
+  },
+  {
+   "criterion": "Filter type and airflow",
+   "explanation": "The Gallery 35 has a MERV 14 filter, which catches fine particles but restricts airflow when dirty. The other models use a washable filter, which is cheaper to maintain. Pick the Gallery for dust control and the plain filter for raw output."
+  },
+  {
+   "criterion": "Bucket size and drain port",
+   "explanation": "A compressor unit in a damp room can fill a small bucket in under a day. The 60-pint and 50-pint models support continuous drain with a hose, which spares you the chore. The 22 and 35 pint units are fine with a bucket in a milder space."
+  },
+  {
+   "criterion": "Noise in living areas",
+   "explanation": "The 22 and 35 pint models are marketed as quiet and suit bedrooms, while the 60-pint is the loudest in the range. Place larger units in utility areas where possible, and use a lower fan setting at night."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Pint rating",
+   "meaning": "Water removed per day under a stated test. Since 2019 the US test is at 65F and 60% RH, so ratings run lower than older labels.",
+   "watchFor": "The 22, 35, 50 and 60 pint models share a ladder, so compare steps rather than absolute pints."
+  },
+  {
+   "spec": "Built-in pump",
+   "meaning": "A small pump that lifts condensate up and away through tubing. It handles drains that sit above the machine.",
+   "watchFor": "Only the 50-pint with pump has it, so confirm the model name."
+  },
+  {
+   "spec": "MERV 14",
+   "meaning": "A filter efficiency rating that captures fine particles. Higher MERV means more airflow restriction.",
+   "watchFor": "The Gallery 35 uses it, so keep a spare or clean schedule."
+  },
+  {
+   "spec": "Continuous drain",
+   "meaning": "A port and hose that lets water leave without filling the bucket. It requires the unit to sit above the drain.",
+   "watchFor": "Available on the 60-pint and 50-pint models, and a hose is your own part."
+  },
+  {
+   "spec": "Wi-Fi control",
+   "meaning": "App-based setpoint adjustment and status. It adds convenience but not capacity.",
+   "watchFor": "The 50-pint Wi-Fi and Gallery 35 offer it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Capacity ladder",
+   "description": "We looked at how the 22, 35, 50 and 60 pint steps map to rooms. A clear ladder helps buyers size correctly. We treated pint ratings as spec sheet figures under the newer test."
+  },
+  {
+   "title": "Drain flexibility",
+   "description": "We compared the pumped 50-pint with the continuous-drain 60-pint and the bucket-only smaller units. The pump scored highest for awkward layouts. Continuous drain scored well for set-and-forget use."
+  },
+  {
+   "title": "Smart and filter features",
+   "description": "We assessed Wi-Fi on the 50-pint Wi-Fi and Gallery 35, and the MERV 14 filter on the Gallery. These features were scored for usefulness, not novelty. Local humidistat control is the baseline."
+  },
+  {
+   "title": "Noise and placement",
+   "description": "We weighed marketed quiet operation on the 22 and 35 pint models against the larger, louder 60-pint. Living-space placement favors the smaller units."
+  },
+  {
+   "title": "Value across the ladder",
+   "description": "We compared relative price tiers across the range. The 22-pint sits lowest, the 35-pint next, the 50-pint Wi-Fi and pump models higher and the Gallery highest. The best value is the smallest unit that actually handles the room."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Room Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Bathroom or small bedroom",
+      "Frigidaire 22-Pint",
+      "Smallest compressor unit"
+     ],
+     [
+      "Medium room or small basement",
+      "Frigidaire 35-Pint",
+      "Best balance of size and capacity"
+     ],
+     [
+      "Large finished room with dust concerns",
+      "Frigidaire Gallery 35-Pint",
+      "MERV 14 filter and app"
+     ],
+     [
+      "Large basement with moderate dampness",
+      "Frigidaire 50-Pint Wi-Fi",
+      "50 pints with remote control"
+     ],
+     [
+      "Chronically wet large basement",
+      "Frigidaire 60-Pint",
+      "Highest capacity in the range"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Frigidaire 22-Pint",
+      "Entry compressor unit"
+     ],
+     [
+      "Low to middle",
+      "Frigidaire 35-Pint",
+      "Value for medium rooms"
+     ],
+     [
+      "Middle",
+      "Frigidaire 50-Pint with Pump",
+      "Pump solves layout problems"
+     ],
+     [
+      "Upper middle",
+      "Frigidaire 60-Pint",
+      "Most capacity"
+     ],
+     [
+      "Highest",
+      "Frigidaire Gallery 35-Pint",
+      "Smart features and MERV 14"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Pump vs Gravity Drain",
+   "cards": [
+    {
+     "label": "Pump (Frigidaire 50-Pint with Pump)",
+     "text": "Lifts water to a sink or an outdoor port. It suits basements with no floor drain. The pump adds one part to maintain."
+    },
+    {
+     "label": "Gravity or bucket (22, 35, 60 pint)",
+     "text": "Simpler and cheaper, with fewer parts. It needs a downhill hose or manual emptying. The 60-pint is best used with a floor drain."
+    }
+   ],
+   "note": "Choose the pump when the drain is uphill, and gravity when a floor drain is close."
+  },
+  {
+   "subheading": "Basic vs Smart",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Just a dial",
+      "Frigidaire 35-Pint",
+      "Simple humidity control"
+     ],
+     [
+      "Remote control for a big room",
+      "Frigidaire 50-Pint Wi-Fi",
+      "App and 50 pints"
+     ],
+     [
+      "Air cleaning plus dehumidifying",
+      "Frigidaire Gallery 35-Pint",
+      "MERV 14 and ionizer"
+     ],
+     [
+      "No app but strong drying",
+      "Frigidaire 60-Pint",
+      "Highest capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Basements Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "At least 50 pints for a moderately damp basement, a drain plan and clearance around the intake. Check that the unit can run on a hose and still defrost in a cool room."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The 50-Pint with Pump is the best for awkward layouts, the 60-Pint for chronic wetness and the 50-Pint Wi-Fi for remote monitoring."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "The drain is uphill, you want remote control or dust is a concern. The 50-Pint with Pump and the Gallery 35 earn their cost."
+    },
+    {
+     "label": "Save if",
+     "text": "The room is a single bedroom or bathroom. The 22-Pint or 35-Pint handle it for less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash the filter",
+   "interval": "Every 2 to 4 weeks",
+   "why": "A dirty filter chokes airflow and invites coil frost. Rinse and dry it fully."
+  },
+  {
+   "task": "Rinse the bucket",
+   "interval": "Monthly",
+   "why": "Standing water grows slime. A rinse with mild soap prevents odor."
+  },
+  {
+   "task": "Check drain hose or pump",
+   "interval": "Every 3 months",
+   "why": "Kinks and a stuck pump cause overflow. Run a test cycle."
+  },
+  {
+   "task": "Vacuum coils",
+   "interval": "Once a year",
+   "why": "Dust cuts heat transfer. Unplug before opening."
+  },
+  {
+   "task": "Replace or clean MERV filter",
+   "interval": "Per manual",
+   "why": "A clogged fine filter restricts airflow. Follow the schedule for the Gallery model."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which Frigidaire size should I buy?",
+   "a": "Start from the room: 22 pints for a bedroom or bathroom, 35 for a medium room, 50 for a large or damp basement and 60 for chronic wetness. If you are between steps, buy the larger so it cycles off."
+  },
+  {
+   "q": "Is the pump model worth it?",
+   "a": "Yes if the drain is uphill or on another level. If the floor drain is close, a gravity hose is simpler and avoids a part that can fail."
+  },
+  {
+   "q": "Does Wi-Fi help drying?",
+   "a": "No. It adds remote control and status, not capacity. It is useful for rentals and hard-to-reach spaces."
+  },
+  {
+   "q": "How long do compressor dehumidifiers last?",
+   "a": "Commonly 5 to 10 years, with washing the filter and cleaning coils as the main levers. Running a unit too small for the space shortens its life."
+  },
+  {
+   "q": "Is the Gallery model a real air cleaner?",
+   "a": "It adds a MERV 14 filter and an ionizer, which helps with fine particles. It is not a replacement for a dedicated HEPA purifier in an allergy-sensitive room."
+  },
+  {
+   "q": "What humidity should I set?",
+   "a": "Most homes do best at 40 to 50 percent. Once readings climb past 60, musty smells and mildew follow, and under 30 the air starts to dry out wood and skin. Place a hygrometer across the room to check the Frigidaire's own display."
+  }
+ ],
+ "relatedGuides": []
+}
