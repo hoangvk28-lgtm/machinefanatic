@@ -465,3 +465,17 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 
 ## Round 32 (2026-11-14)
 36 home space heater guides (by room, type, feature, brand: De'Longhi, Honeywell, Lasko, Vornado) plus new budget topic best-oil-filled-space-heaters-under-100. No skips (Stage A2 found 3+ real machines for every slug). Writers: 2 Sonnet + 1 Sonnet repetition fix. 3,000 to 3,800 words. Bathroom guide got one extra search.mjs query for splash-rated units. Checks: audit 0 failures, zero full-width brackets, zero dashes, top 4-word description opening 6, no 40+ char sentence in 3+ guides, tsc ok, build "Compiled successfully" + "Finished TypeScript".
+
+### Prefilter skips (2026-11-15)
+| Skipped slug | Reason |
+|---|---|
+| best-dyson-humidifiers | prefilter: only 0 distinct items match brand dyson after extra searches |
+| best-molekule-air-purifiers | prefilter: only 0 distinct items match brand molekule after extra searches |
+
+## Round 33 (2026-11-15): humidifiers + air purifiers, 48 guides
+- Topics: 34 humidifier + 14 air purifier slugs (lists scripts/clone/work/r33a.txt, r33b.txt). 2 Sonnet writers, 3,000 to 3,416 words, 4 to 6 products.
+- Skipped (near-dup vs published): best-humidifiers-and-air-purifier-combos, best-small-air-purifiers, best-quiet-air-purifiers-for-home-offices, best-humidifiers-for-plants (sibling plants-and-greenhouses kept).
+- Skipped (0 brand machines): best-dyson-humidifiers, best-molekule-air-purifiers, best-jaspr-air-purifiers.
+- Left todo (water purifiers, off-cluster): best-uv-water-purifiers, best-water-purifiers-for-backpacking.
+- Notes: CPAP guide reframed as room humidifiers for CPAP sleepers; Rabbit Air has 4 products (all distinct models in data).
+- Checks: audit 0 fails, no 【, no sentence in 3+ guides, top description opening 5 (after a Sonnet repetition-fix pass), tsc ok, build ok.
