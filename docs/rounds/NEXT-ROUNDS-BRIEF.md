@@ -207,3 +207,12 @@ fs.readFileSync(process.env.LIST,'utf8').split(/\r?\n/).filter(Boolean).forEach(
 - All 36 r32 guides written, registered, marked done; audit 0 fails. List: scripts/clone/work/r32.done.txt.
 - A Sonnet fix pass is editing spec.json for repeats ("Choose it for a" 46; safety sentences in 4-11 guides). If interrupted: re-run the two checks from Finish on r32.done.txt and give the remaining fixes to 1 Sonnet agent (Edit + finish.mjs).
 - Then tsc, build, clone-log round 32, local commit, preview; push + IndexNow only after approval. Next: round 33 (humidifiers + air purifiers; skip best-humidifiers-and-air-purifier-combos as near-dup).
+
+## RESUME (2026-11-15, evening): round 33 committed, round 34 writers running
+- Round 33 (48 humidifier + air purifier guides) committed locally as `80d275d`, NOT pushed. Push + IndexNow only after user approval.
+- Round 34 = holiday kitchen. Stage A + A2 done on THIS machine. 9 skips already marked (near-dup: best-food-processor-and-blender-combos, best-small-bread-makers; <3 brand machines: breville/ninja/oster/west-bend bread makers, crock-pot pressure cookers, cuisinart slow cookers, magimix food processors). Podcast/streaming mixer slugs are not part of this round (left todo).
+- Writer lists: `scripts/clone/work/r34a.txt` (34 food processor + hand mixer, writer A, skips to skip-a.txt), `r34b.txt` (42 slow cooker + bread maker, writer B, skips to skip-b.txt). Research: docs/research/food-processors.md, slow-cookers.md, bread-makers.md (writer A may create hand-mixers.md).
+- Writer prompt = round-33 prompt plus: never open a sentence with "Because the", "The compromise is", "It is a good"; never write "tested"; sibling caps/sizes get their own picks where possible.
+- Unfinished: `for f in r34a r34b; do for s in $(tr -d '\r' < scripts/clone/work/$f.txt); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done > scripts/clone/work/left-$f.txt; done`
+- Then Finish for round 34 (done list = r34a+r34b minus skips): register, mark done, mark writer skips, audit, both duplicate checks (top opening <= 5; if not, 1 Sonnet fix agent editing spec.json + finish.mjs), tsc, build, clone-log, local commit, preview links. Push only after approval.
+- Next: round 35 RV/tent/patio heaters (~26).
