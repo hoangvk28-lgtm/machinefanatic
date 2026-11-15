@@ -491,3 +491,20 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Skipped: best-space-heaters-for-rvs (near-dup of best-rv-space-heater), best-pellet-patio-heaters (1 item in data), best-catalytic-heater-for-large-rv (only 2 real catalytic heaters).
 - New research: docs/research/tent-heaters.md.
 - Checks: audit 0 fails, no 【, one short safety sentence in 3 guides, top description opening 5, tsc ok, build ok.
+
+### Prefilter skips (2026-11-15)
+| Skipped slug | Reason |
+|---|---|
+| best-4-circuit-generator-transfer-switch | prefilter: only 2 distinct items match brand 4 after extra searches |
+| best-40-amp-generator-transfer-switch | prefilter: only 2 distinct items match brand 40 after extra searches |
+| best-60-amp-generator-transfer-switch | prefilter: only 1 distinct items match brand 60 after extra searches |
+| best-9500-watt-generator-transfer-switch | prefilter: only 2 distinct items match brand 9500 after extra searches |
+| best-vevor-200-amp-generator-transfer-switch | prefilter: only 0 distinct items match brand vevor after extra searches |
+| best-vevor-30-amp-generator-transfer-switch | prefilter: only 0 distinct items match brand vevor after extra searches |
+
+## Round 36 (2026-11-15): generator transfer switches + generator accessories, 21 guides
+- Topics: 9 transfer switch guides by amp/circuit/wattage (r36a.txt) + 12 kits, cords, inlet boxes, outdoor switches, extension cords, fuel cans, distribution boxes, generator for RV AC (r36b.txt). 2 Sonnet writers, 3,000 to 3,129 words, 3 to 7 products.
+- Cluster has ~290 todo slugs, mostly questions, store names, cost/how-to and near-dups. Curated to 32; 35 near-dups marked skip (e.g. generator-transfer-switch-30-amp = published 30-amp sibling, kit/home/cord variants of kept slugs).
+- Skipped (<3 matching items): 4-circuit, 40 amp, 60 amp, 75 amp, 150 amp, 9500 watt, VEVOR 30/200 amp, interlock kit, adapter, wheel kits.
+- New research: docs/research/generator-accessories.md (from established knowledge, no web search).
+- Coordinator varied one methodology sentence that appeared in 10 guides. Checks: audit 0 fails, no 【, three short lines in 3 guides, top description opening 5, tsc ok, build ok.

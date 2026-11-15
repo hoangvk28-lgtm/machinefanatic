@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-whole-house-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "whole house generator transfer switch",
+ "guideTitle": "Best Whole House Generator Transfer Switches (2026)",
+ "metaTitle": "Best Whole House Generator Transfer Switches",
+ "metaDescription": "Six whole-house and large-capacity transfer switches compared by amp rating, manual or automatic operation and generator match, with installation cautions.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31WPCl+S4aL._SL500_.jpg",
+ "expertTake": "The Generac 200 amp Next Gen automatic switch is the best answer when a standby generator will carry the whole panel. The Tzechkii 200 amp manual switch is the value route for an owner who will throw the lever by hand. Anyone with a portable generator under 12,000 watts should skip service-level switches and use a smaller circuit-based kit.",
+ "introParagraphs": [
+  "A whole-house transfer switch sits at the service entrance and moves the entire electrical panel between utility and generator power in one action. It is a different class of product from the small circuit boxes sold for portable generators.",
+  "The choices come down to manual or automatic operation, the amp rating of your service, and the generator it is meant to pair with. Every one of these installs at the service entrance, so a licensed electrician and a permit are the norm, not the exception."
+ ],
+ "products": [
+  {
+   "id": "B0H34KY36M",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Generac 200A Next Gen automatic transfer switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0H34KY36M?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31WPCl+S4aL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A",
+    "Automatic",
+    "Single-phase",
+    "Brownout guard"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "200A"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic"
+    },
+    {
+     "label": "System",
+     "value": "120/240V single-phase"
+    },
+    {
+     "label": "Control",
+     "value": "Integrated, brownout hardened"
+    },
+    {
+     "label": "Breaker",
+     "value": "Not included"
+    }
+   ],
+   "description": "This is an automatic transfer switch: it monitors the utility line and moves the full 200 amp panel to the generator when power drops, then back when it returns. The control module is built to ride through brownouts, which is the failure that confuses cheaper electronics. That makes it the one in this group that you can leave alone while you are away.\n\nIt is made to pair with a standby generator, so it only makes sense if you already have, or plan to install, a matching unit. Next to the Tzechkii 200 amp manual switch, it is the pricier route and needs more design work, but it removes the human step during a storm.\n\nExpect professional commissioning. Utility notification, a permit and breaker selection are part of the job, and the breaker is listed as not included in the package. Over years of ownership, the weak point of any automatic switch is the generator it talks to, not the contactor. Stale fuel, a flat starting battery or a missed service interval will defeat a perfect switch. Pair it with a service contract or a calendar reminder, and test a full transfer after any panel work.",
+   "bestFor": "Homes with a standby generator who want hands-off whole-panel backup.",
+   "pros": [
+    "Automatic transfer at the service entrance",
+    "Control module resists brownout chatter",
+    "Covers 120V and 240V loads at 200A",
+    "Outdoor enclosure for exterior mounting"
+   ],
+   "cons": [
+    "Needs a compatible standby generator",
+    "Breaker is a separate purchase and a pro install"
+   ]
+  },
+  {
+   "id": "B077KHPHKB",
+   "rank": 2,
+   "badge": "Best for Generac Standby Units",
+   "name": "Generac 200A outdoor automatic switch, single-phase",
+   "amazonUrl": "https://www.amazon.com/dp/B077KHPHKB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/417xJBiYUfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A",
+    "Automatic",
+    "NEMA 3R",
+    "Open-transition"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "200A"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic"
+    },
+    {
+     "label": "Transition",
+     "value": "Open-transition"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R"
+    },
+    {
+     "label": "Paired with",
+     "value": "Generac standby units"
+    }
+   ],
+   "description": "This switch is an open-transition design: it breaks the utility connection before closing on the generator, so the two sources are never joined. It is specified for Generac standby generators using Evolution or Nexus controllers, so compatibility is the question to settle before you buy.\n\nThe weather-rated 3R enclosure and heavy-duty contactor are aimed at outdoor mounting beside the meter. In practice it is the same job as the Next Gen switch at the top of this list, with the difference being the controller generation it is built to talk to.\n\nIf your generator is another brand, or a portable unit, this is not the part to buy. The install side is professional work, including bonding and the service disconnect. Compared with the Generac Next Gen at the top of the list, the practical gap is how the controller talks to the generator, so confirm the model pairing in writing before the electrician orders parts. Keep the wiring diagram with the panel, because a future technician will want it when the generator is replaced.",
+   "bestFor": "Owners matching an existing Generac standby generator controller.",
+   "pros": [
+    "Open-transition design never joins sources",
+    "Rated for outdoor mounting beside the meter",
+    "Designed for specific Generac controllers",
+    "Heavy-duty contactor for long life"
+   ],
+   "cons": [
+    "Only makes sense with matching standby units",
+    "Pro install and commissioning are required"
+   ]
+  },
+  {
+   "id": "B0DQ9MGLFY",
+   "rank": 3,
+   "badge": "Best Value 200A Manual",
+   "name": "Tzechkii 200A manual double-throw transfer switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ9MGLFY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A",
+    "Manual",
+    "NEMA 3R",
+    "120/240V"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "200A"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual lever"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240V"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized NEMA 3R"
+    },
+    {
+     "label": "Design",
+     "value": "Double-throw"
+    }
+   ],
+   "description": "A manual double-throw switch is conceptually simple: one lever, two positions, utility or generator, with no position that connects both. Without electronics inside, there is little to fail in a storm, and you decide when to transfer.\n\nIt is rated at 200 amps in a galvanized NEMA 3R enclosure, so it suits mounting outdoors. Compared with the Generac Next Gen, you give up automatic transfer and the controller, and you gain a straightforward part that a competent electrician can fit in a day.\n\nThe catch is that a 200 amp service does not mean a generator that can carry it. You still manage the load, turning off the range or the dryer so the engine is not overloaded. Ownership is mostly about the enclosure. A galvanized 3R box that is mounted where the gutters drip will weep rust within a few seasons, so mount it under cover and leave room in front for the lever. Years later the same lever should still move freely, and an annual exercise keeps it that way.",
+   "bestFor": "Owners with a large portable or standby generator who accept manual transfer.",
+   "pros": [
+    "Mechanical lever with no electronics to fail",
+    "Galvanized outdoor enclosure",
+    "Full service-level 200A coverage",
+    "Simple to understand and service"
+   ],
+   "cons": [
+    "You must be home to throw the lever",
+    "Full-panel coverage invites generator overload"
+   ]
+  },
+  {
+   "id": "B0FGCNDNPW",
+   "rank": 4,
+   "badge": "Best Budget 200A Manual",
+   "name": "200A manual double-throw safety switch, 48,000W rated",
+   "amazonUrl": "https://www.amazon.com/dp/B0FGCNDNPW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A",
+    "Manual",
+    "Galvanized",
+    "Double-throw"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "200A"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    },
+    {
+     "label": "Max load",
+     "value": "48,000W listing"
+    },
+    {
+     "label": "Body",
+     "value": "Galvanized steel"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240V"
+    }
+   ],
+   "description": "The listing describes aluminum connections, no electronic components and a coated galvanized steel body with a thicker door. That list reads as a conventional safety-disconnect style build rather than a feature set.\n\nCompared with the Tzechkii, this is the same architecture, so the choice comes down to markings, listing and documentation. The 48,000 watt headline is the capacity of a 200 amp, 240 volt path, not a statement that you should connect a generator that large.\n\nBefore you commit, ask the supplier for the listing mark and have your electrician confirm it will pass local inspection. Unmarked service equipment is where saving money costs the most. It is also worth asking how the unit is shipped and supported. A switch that arrives bent or without a terminal diagram is a return, not an installation, and an electrician will charge for time spent on a part that cannot be documented. For anyone who wants a quieter path, the Tzechkii above carries similar construction language with a clearer enclosure rating.",
+   "bestFor": "Cost-focused owners who will verify listing before installation.",
+   "pros": [
+    "Simple manual double-throw action",
+    "Galvanized steel body with thick door",
+    "No electronics to fail in storms",
+    "200A capacity matches a typical service"
+   ],
+   "cons": [
+    "Listing and inspection status need verification",
+    "Little documentation compared with big brands"
+   ]
+  },
+  {
+   "id": "B0D9LG1QWY",
+   "rank": 5,
+   "badge": "Best for Portable Generators",
+   "name": "Nature's Generator 50A 12-circuit manual switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0D9LG1QWY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A",
+    "12 circuits",
+    "UL listed",
+    "120/240V"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A"
+    },
+    {
+     "label": "Circuits",
+     "value": "Twelve 120V or six 240V"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Scale",
+     "value": "Sub-panel level"
+    }
+   ],
+   "description": "This is not a whole-house switch in the service-entrance sense, but it is the sensible stand-in for a home with a large portable generator. The 12 circuits can cover a furnace, fridge, well pump and lighting, which is most of what people need in an outage.\n\nAgainst the 200 amp switches it is far smaller: a 50 amp feed tops out near 12,000 watts at 240 volts, so you choose circuits rather than moving everything. That restraint is a feature when the generator is a portable unit.\n\nIt needs a 50 amp generator receptacle and a properly sized inlet. Hire a licensed installer for the sub-panel work.",
+   "bestFor": "Large portable generator owners who want a UL-listed circuit-level solution.",
+   "pros": [
+    "UL listing helps with inspection",
+    "Twelve circuits or six 240V circuits",
+    "Limits load to what a portable can carry",
+    "Cheaper install than a service-level switch"
+   ],
+   "cons": [
+    "Does not cover the whole panel",
+    "Requires a 50A generator receptacle"
+   ]
+  },
+  {
+   "id": "B0G3SXHY4X",
+   "rank": 6,
+   "badge": "Best Pro/Tran Style 50A",
+   "name": "Pro/Tran2 50A 10-circuit manual transfer switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0G3SXHY4X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41IYuGBS88L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "240V",
+    "Manual"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Voltage",
+     "value": "240V"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    },
+    {
+     "label": "Wires",
+     "value": "Marked or tagged"
+    }
+   ],
+   "description": "Pro/Tran2 is the panel-style layout familiar to many installers: a bank of marked circuit switches fed from a main inlet. The listing notes tagged wiring and normally open contact types, which helps the electrician land conductors correctly.\n\nCompared with the Nature's Generator 50 amp box, it has fewer circuits at ten instead of twelve, but its layout is common enough that service help is easy to find. It is the middle route between small portable kits and a 200 amp disconnect.\n\nAs with all of these, you need basic electrical knowledge to even judge the install, and the actual wiring should stay with the electrician. A practical point is the generator side. A ten-circuit panel at 50 amps pairs with a generator rated near 12,000 watts at most, and in real use a 7,500 watt portable is the more common partner. Keep a laminated list of what each switch controls, and start motor loads one at a time so the engine is never hit by two compressors at once.",
+   "bestFor": "Owners wanting a familiar 50A panel layout for a large portable.",
+   "pros": [
+    "Marked wiring helps the electrician",
+    "Familiar Pro/Tran style layout",
+    "Ten circuits on a 50A feed",
+    "Lower cost than a service-level switch"
+   ],
+   "cons": [
+    "Fewer circuits than the 12-circuit box",
+    "Needs a 50A generator outlet and inlet"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Service entrance or circuit level",
+   "explanation": "A 200 amp switch such as the Generac Next Gen or the Tzechkii moves the whole panel, while a 50 amp unit like the Pro/Tran2 moves chosen circuits. Whole-panel switches suit standby generators of about 20 kilowatts and up, and a portable generator will be overloaded if you try to feed everything. Choose by generator size first."
+  },
+  {
+   "criterion": "Manual or automatic transfer",
+   "explanation": "Automatic units, like the Generac 200 amp pair, sense an outage and start the generator on their own. Manual switches such as the Tzechkii need you at the lever. Automatic is worth it for medical equipment or long absences; manual is fine if you are home and lower cost matters."
+  },
+  {
+   "criterion": "Generator compatibility",
+   "explanation": "The Generac switches are specified for Generac standby generators with certain controllers, so a mixed-brand setup may not talk at all. The manual 200 amp switches are controller-free. Check the generator manual and the switch listing before you order, because there are few returns after wiring."
+  },
+  {
+   "criterion": "Service rating and load calculation",
+   "explanation": "A 200 amp service does not mean you can draw 200 amps from a generator. Do a load calculation, keeping the range, dryer and heat pump in mind, and expect to shed loads by hand with a manual switch. An electrician can perform the calculation for the permit."
+  },
+  {
+   "criterion": "Listing and inspection",
+   "explanation": "Service equipment should carry UL or ETL marking, because inspectors and insurers look for it. The Nature's Generator 50 amp box states UL listing, while some value 200 amp boxes only describe construction. Ask for the marking before you buy."
+  },
+  {
+   "criterion": "Permits and utility rules",
+   "explanation": "Many utilities require notification or a permit before any generator is connected at the service entrance. Open-transition switches such as the Generac 200 amp unit are designed so utility and generator are never tied together. Plan for inspection timing in your schedule, because a finished install that has not passed inspection may not be legal to energize. Ask the utility whether it wants a notice of intent and whether it requires a specific meter-side disconnect."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Amp rating",
+   "meaning": "The continuous current the switch carries. At 240 volts, 200 amps is a 48,000 watt path.",
+   "watchFor": "Match it to your panel main, not to the generator size."
+  },
+  {
+   "spec": "Open-transition",
+   "meaning": "The switch breaks utility before making generator, with a short interruption. Sources are never tied together.",
+   "watchFor": "The Generac 200 amp unit is open-transition."
+  },
+  {
+   "spec": "Double-throw",
+   "meaning": "A two-position switch that connects one source at a time. It is the mechanical safety core.",
+   "watchFor": "The Tzechkii and the 48,000W unit both use it."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "Rain-resistant enclosure for outdoor mounting. It is not rated for submersion.",
+   "watchFor": "The Generac and Tzechkii enclosures list 3R."
+  },
+  {
+   "spec": "Circuit count",
+   "meaning": "How many branch circuits a sub-panel style switch can transfer. Service-level switches move all of them.",
+   "watchFor": "The Nature's Generator box has 12, the Pro/Tran2 has 10."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Scale and fit",
+   "description": "We separated service-level 200 amp switches from 50 amp circuit switches so nothing is compared across classes unfairly. The Generac units and Tzechkii are the whole-panel group. The 50 amp pair serve large portables."
+  },
+  {
+   "title": "Transfer mode",
+   "description": "We scored automatic operation for unattended backup and manual operation for simplicity. Automatic switches rely on a compatible controller. Manual switches rely on you."
+  },
+  {
+   "title": "Listing evidence",
+   "description": "We looked for UL, ETL and NEMA 3R language in each listing. Standby-brand switches have clear controller compatibility statements. Some value boxes only describe materials."
+  },
+  {
+   "title": "Documentation and service",
+   "description": "Established brands produce installation literature that a second electrician can use. We weighed that against the lower cost of generic imports. This is based on spec sheets and owner feedback patterns."
+  },
+  {
+   "title": "Lineup spread",
+   "description": "The lineup runs from the 50 amp Pro/Tran2 up to the 200 amp Generac and Tzechkii. We also looked at which items demand a specific generator brand."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Generator Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Generac standby generator",
+      "Generac 200A Next Gen",
+      "Matched controller and brownout guard"
+     ],
+     [
+      "Older Generac Evolution unit",
+      "Generac 200A outdoor switch",
+      "Specified for those controllers"
+     ],
+     [
+      "Large portable, circuits chosen",
+      "Nature's Generator 50A",
+      "UL listed, 12 circuits"
+     ],
+     [
+      "Large portable, familiar layout",
+      "Pro/Tran2 50A",
+      "Marked wiring, 10 circuits"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest 200A route",
+      "200A 48,000W manual",
+      "Plain mechanical switch"
+     ],
+     [
+      "Value 200A",
+      "Tzechkii 200A",
+      "Galvanized 3R enclosure"
+     ],
+     [
+      "Mid-range portable",
+      "Pro/Tran2 50A",
+      "Familiar installer layout"
+     ],
+     [
+      "Premium whole home",
+      "Generac 200A Next Gen",
+      "Automatic and brownout guard"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Automatic vs Manual",
+   "cards": [
+    {
+     "label": "Automatic",
+     "text": "The Generac Next Gen and the Generac 200 amp switch transfer on their own, which suits people who travel or run medical equipment. The price is a matched standby generator and a pro commissioning."
+    },
+    {
+     "label": "Manual",
+     "text": "The Tzechkii and the 48,000W switch hand control to you. They are simple and cheap to maintain, but someone has to be home and willing to throw the lever."
+    }
+   ],
+   "note": "Pick automatic if nobody can be home in a storm; pick manual if cost and simplicity matter more. A middle path is a manual switch now and a planned upgrade later, since the wiring at the service entrance is similar and an electrician can swap the unit during a future generator purchase."
+  },
+  {
+   "subheading": "By Panel Scope",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cover everything including range",
+      "Tzechkii 200A",
+      "Full panel path"
+     ],
+     [
+      "Cover essentials only",
+      "Nature's Generator 50A",
+      "Circuits chosen up front"
+     ],
+     [
+      "Must start without anyone",
+      "Generac 200A Next Gen",
+      "Senses outage itself"
+     ],
+     [
+      "Budget whole panel",
+      "200A 48,000W manual",
+      "Lowest-cost service-level style"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Medical and Well-Pump Loads Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Automatic transfer, a listed switch and a generator sized with margin for motor starting. A well pump or oxygen concentrator should be on a defined circuit."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Generac Next Gen suits unattended medical use, while the Nature's Generator 50 amp box suits a portable that carries a pump circuit."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You are away often, rely on powered medical gear or run a standby generator, which points to the Generac 200 amp automatic units."
+    },
+    {
+     "label": "Save if",
+     "text": "You will be home and own a portable generator, where the Tzechkii or the 50 amp Pro/Tran2 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Operate the lever",
+   "interval": "Twice a year",
+   "why": "A manual switch that never moves can seize. Operate it with the generator off, under an electrician's guidance."
+  },
+  {
+   "task": "Test the automatic transfer",
+   "interval": "Monthly",
+   "why": "Standby systems exercise themselves, but you should watch the transfer event happen. Confirm the home loads return after a test."
+  },
+  {
+   "task": "Inspect the enclosure",
+   "interval": "Yearly",
+   "why": "Look for rust, cracked seals and wasp nests. A damp enclosure is a safety problem, not a cosmetic one."
+  },
+  {
+   "task": "Review the load list",
+   "interval": "Yearly",
+   "why": "New appliances change what a generator can carry. Update the list when a heat pump or EV charger arrives."
+  },
+  {
+   "task": "Professional thermal check",
+   "interval": "Every few years",
+   "why": "Loose lugs run hot under load. A technician can check connections with a thermal camera."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a whole-house transfer switch for a portable generator?",
+   "a": "Rarely. A portable generator cannot carry the whole panel, so a circuit-level kit is the better match. Whole-panel switches belong with standby generators sized for the house."
+  },
+  {
+   "q": "What does open-transition mean?",
+   "a": "The switch disconnects the utility before connecting the generator, so there is a brief interruption. It guarantees the two sources never join, which protects line workers and equipment."
+  },
+  {
+   "q": "Is a manual 200 amp switch safe to use?",
+   "a": "A listed, correctly installed double-throw switch is safe, since it prevents dual-source connection. An unlisted box or a do-it-yourself install is not worth the risk. Use a licensed electrician and pull the permit."
+  },
+  {
+   "q": "How do I size the generator for a 200 amp switch?",
+   "a": "Size to the loads you will actually run, not the service rating. Brand matching matters too: the Generac 200 amp switches name compatible Generac controllers, so check that pairing before you buy. A load calculation by an electrician accounts for the range, dryer, HVAC and well pump. Many homes run on 10 to 22 kilowatts in practice."
+  },
+  {
+   "q": "Is the electrical work something I can do myself?",
+   "a": "No. Service-entrance work involves live conductors and the utility meter base, and it requires a permit in most areas. This guide does not give wiring instructions for that reason. Even a confident hobbyist should leave the meter-side work to the utility and a licensed installer, since a mistake there can energize lines that crews believe are dead."
+  },
+  {
+   "q": "What is the difference between a transfer switch and a generator interlock?",
+   "a": "A transfer switch is a purpose-built box that moves loads between sources. An interlock is a mechanical plate on the main panel that blocks the main and generator breakers from being on together. Both rely on correct installation, and the interlock must be listed for your exact panel brand."
+  }
+ ],
+ "relatedGuides": []
+}

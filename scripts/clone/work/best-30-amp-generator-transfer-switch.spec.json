@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-30-amp-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "30 amp generator transfer switch",
+ "guideTitle": "Best 30 Amp Generator Transfer Switches (2026)",
+ "metaTitle": "Best 30 Amp Generator Transfer Switches 2026",
+ "metaDescription": "Six 30 amp generator transfer switches compared by circuit count, inlet type and generator fit, with notes on permits and what a licensed electrician handles.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Reliance 31410CRK is the safest default because its 10 circuits and 7,500 running watt ceiling match what most 30 amp portable generators can really deliver. The VEVOR 6-circuit kit is the value pick for people who only need a fridge, furnace, well pump and a few lights. Anyone who is not hiring a licensed electrician and pulling a permit should skip this category entirely and use a properly rated extension cord for a short list of loads.",
+ "introParagraphs": [
+  "A generator transfer switch sits between your main panel and a portable generator so that household circuits run from the generator while the utility feed is physically cut off. That isolation is the whole point: it stops power from flowing back out to the street and protects line crews.",
+  "Most buyers in this size class own a portable generator with a locking receptacle in the mid-size class and want to run a fridge, furnace, sump pump and some lights. Circuit count, inlet box type and how the kit mounts matter more than the badge on the enclosure."
+ ],
+ "products": [
+  {
+   "id": "B000HS2L3O",
+   "badge": "Best Overall",
+   "name": "Reliance Controls 31410CRK 30A 10-circuit kit",
+   "specs": [
+    "30A 120/240V",
+    "10 circuits",
+    "Up to 7,500W",
+    "18 in. conduit whip"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Generator ceiling",
+     "value": "7,500 running watts"
+    },
+    {
+     "label": "Wiring",
+     "value": "18 in. flexible conduit to load center"
+    },
+    {
+     "label": "Format",
+     "value": "Kit with switch box"
+    }
+   ],
+   "description": "Reliance built this Pro/Tran kit around a pre-wired switch box that bolts next to the main panel, so the electrician connects a short flexible conduit whip instead of building a sub-panel from scratch. Ten breakers sit in the box, and each one has its own double-throw rocker that selects utility or generator for that circuit only. The switch is specified for portable generators up to 7,500 running watts, which lines up with the output of a 30 amp, 240 volt receptacle.\n\nTen circuits is the most flexibility you get at this amp rating, and it is why the kit beats the 6-circuit VEVOR for a house with a well pump, a furnace blower and a chest freezer. The catch is that every circuit you add is a temptation to overload the generator, so a written load list matters. Next to the Nature's Generator 6-circuit unit, this one gives four extra breakers for the same 30 amp ceiling.\n\nOwnership is simple because the parts are mechanical. The rockers are the same style used in Reliance panels for years, and replacement breakers are a stock electrical item. Keep the inlet cover closed between outages, exercise the rockers a couple of times a year, and the kit will outlast most generators. Installation still needs a licensed electrician and a local permit.",
+   "bestFor": "Homeowners with a 30 amp portable generator who want the most circuits at this rating.",
+   "pros": [
+    "Ten breakers cover fridge, furnace, pump and lights",
+    "Pre-wired box with flexible conduit whip speeds the install",
+    "Each circuit has its own utility or generator rocker",
+    "Sized for generators up to 7,500 running watts"
+   ],
+   "cons": [
+    "More circuits invite generator overload without a load list",
+    "Bulkier box than the 6-circuit kits"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B000HS2L3O?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Qtjj39aGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CSFRCZQ1",
+   "badge": "Best Compact Pick",
+   "name": "Nature's Generator 30A 6-circuit manual switch",
+   "specs": [
+    "30A 120V",
+    "6 circuits",
+    "UL listed",
+    "Pre-wired"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A at 120V"
+    },
+    {
+     "label": "Circuits",
+     "value": "Up to 6"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Control",
+     "value": "Manual selector switches"
+    },
+    {
+     "label": "Format",
+     "value": "Pre-wired transfer kit"
+    }
+   ],
+   "description": "This unit is rated for 30 amps at 120 volts and supports up to six circuits through manual selector switches on the front. The listing leans on UL certification and pre-wiring, which matter because an unlisted switch can fail inspection or complicate an insurance claim. It is the smallest enclosure in this roundup that still handles a real generator feed.\n\nThe 120 volt rating is the limit to understand. A single-voltage switch cannot run a 240 volt well pump or a central air handler, so check your essential loads before choosing it over the 120/240 volt Reliance. For a fridge, lights, a gas furnace blower and a modem, that limit rarely bites.\n\nDay to day there is little to maintain beyond keeping the cover closed and confirming the inlet pins stay clean. Wire gauge, breaker size and neutral handling follow the manual and local code, and a licensed electrician should do the connection. Pairing it with a quiet inverter generator keeps the whole setup tidy.",
+   "bestFor": "Small homes that need six 120 volt circuits and a smaller enclosure.",
+   "pros": [
+    "UL listed for easier inspection and insurance conversations",
+    "Compact six-circuit layout suits a small panel",
+    "Manual selectors give clear control per circuit",
+    "Pre-wired design trims electrician time"
+   ],
+   "cons": [
+    "120 volt rating rules out 240 volt loads",
+    "Six circuits is tight for a larger house"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CSFRCZQ1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CMuy8Eo1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F1FHWRLS",
+   "badge": "Best Value",
+   "name": "VEVOR 30A 6-circuit prewired kit with L14-30P inlet",
+   "specs": [
+    "30A",
+    "6 circuits",
+    "NEMA 3R",
+    "L14-30P inlet"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R weatherproof"
+    },
+    {
+     "label": "Inlet",
+     "value": "L14-30P power inlet box"
+    },
+    {
+     "label": "Generator fit",
+     "value": "7,500W class"
+    }
+   ],
+   "description": "VEVOR packages the switch with an L14-30P power inlet box, so the kit is ready for the standard 30 amp, 120/240 volt generator cord. The double-throw design ties each circuit to either utility or generator, never both, which is the property that prevents backfeed. The NEMA 3R weatherproof cover is rated for outdoor mounting.\n\nThe maker positions it for 7,500 watt generators, the same ceiling as the Reliance, with six circuits instead of ten. That is plenty if the list is fridge, furnace, a pump and a few lighting circuits, and the lower circuit count keeps the box smaller and the generator less likely to be overloaded. Compared with the Connecticut Electric 10-circuit kit, you give up four breakers.\n\nBecause it comes from a value brand, check the listing marks on the actual unit and ask the inspector before the electrician starts. Keep spare breaker sizes noted on the panel directory, and replace the inlet cover gasket if it hardens. A licensed electrician and a permit remain mandatory.",
+   "bestFor": "Budget-minded households with a short list of essential circuits.",
+   "pros": [
+    "Includes the L14-30P inlet box in the kit",
+    "Double-throw switching blocks backfeed by design",
+    "NEMA 3R cover suits an outdoor wall mount",
+    "Six circuits keep the generator load honest"
+   ],
+   "cons": [
+    "Confirm listing marks with your inspector first",
+    "Only six circuits for the same 30A ceiling"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F1FHWRLS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UYjA-TIiL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B005FQJD7K",
+   "badge": "Best for 240V Loads",
+   "name": "Connecticut Electric EmerGen 30A 10-circuit kit",
+   "specs": [
+    "30A 7,500W",
+    "10 circuits",
+    "Four 2-pole 240V",
+    "10 ft cord"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "240V circuits",
+     "value": "Four 2-pole"
+    },
+    {
+     "label": "Cord",
+     "value": "10 ft generator cord included"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R, indoor or outdoor"
+    }
+   ],
+   "description": "The EmerGen kit stands out for its four 2-pole, 240 volt circuits, which is the feature to look for if you own a well pump or an electric water heater booster. The kit ships with a 10 foot cord and a NEMA 3R inlet, and the whole assembly is meant for portable generators up to the 7,500 watt class.\n\nWhere the Reliance 31410CRK arranges its ten circuits mostly as single-pole breakers, this one hands you real 240 volt capacity on four slots. That makes it the better pick for rural homes where the pump is the first thing you must keep alive. The trade is a cord that is shorter than the longer-cord variant sold under the same brand.\n\nOwnership is routine. Mark each circuit on the cover so family members know what is live, check the inlet pins for pitting after storms, and keep the cord coiled off the ground. As with all of these kits, a licensed electrician and a permit are part of the purchase.",
+   "bestFor": "Homes with a well pump or other 240 volt essentials.",
+   "pros": [
+    "Four 2-pole circuits serve 240 volt loads",
+    "Ten circuits in total for broader coverage",
+    "Cord and inlet come in the box",
+    "NEMA 3R enclosure works indoors or outdoors"
+   ],
+   "cons": [
+    "Short 10 ft cord limits generator placement",
+    "More circuits than most 7,500W units can run together"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B005FQJD7K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Tfk5NQ86L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00V4NDFZO",
+   "badge": "Best Upgradeable Pick",
+   "name": "Generac HomeLink 30A manual switch, 8 to 10 circuits",
+   "specs": [
+    "30A",
+    "8 to 10 circuits",
+    "Indoor panel",
+    "HomeLink upgrade"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "8 to 10"
+    },
+    {
+     "label": "Mounting",
+     "value": "Indoor pre-wired panel"
+    },
+    {
+     "label": "Switching",
+     "value": "Electronic rocker, one button"
+    },
+    {
+     "label": "Upgrade",
+     "value": "HomeLink automatic module"
+    }
+   ],
+   "description": "Generac sells this as a starter system: a pre-wired indoor panel with one-button utility to generator switching, later convertible to automatic operation with a HomeLink module. That upgrade path is its main selling point, because a manual switch today does not lock you out of automatic standby tomorrow.\n\nThe electronic rocker is faster in a dark storm than flipping a row of breakers, and the 8 to 10 circuit layout covers the usual essentials. It is an indoor panel, so it suits a garage or utility room rather than an exposed wall, and the generator inlet still needs an outdoor box. Against the simpler Reliance kit, you pay for convenience and the upgrade option.\n\nExpect to keep the panel dry and accessible, and to follow Generac guidance for the upgrade module. Both the first install and any later automatic conversion belong with a licensed electrician under a local permit.",
+   "bestFor": "Buyers who may move to automatic switching later.",
+   "pros": [
+    "One-button switching is quick in an outage",
+    "Upgrade path to automatic operation",
+    "Indoor pre-wired panel keeps parts dry",
+    "Eight to ten circuits cover most essentials"
+   ],
+   "cons": [
+    "Indoor panel needs a clean, accessible wall",
+    "Upgrade module adds cost later"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B00V4NDFZO?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aVADXbdYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D3VQBPG8",
+   "badge": "Best No-Panel-Work Option",
+   "name": "GenerLink 30A meter-mounted automatic switch",
+   "specs": [
+    "30A",
+    "Meter mounted",
+    "Automatic",
+    "Surge version"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Mounting",
+     "value": "Between meter and socket"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic"
+    },
+    {
+     "label": "Service fit",
+     "value": "Up to 200A service"
+    },
+    {
+     "label": "Voltage",
+     "value": "240V"
+    }
+   ],
+   "description": "GenerLink takes a different route: instead of living beside your breaker panel it mounts at the utility meter socket, so the whole house is the load and no circuits are rewired. When the utility drops, it transfers automatically and the generator can feed whatever breakers you leave on.\n\nThat design avoids the circuit-selection step entirely, which is its strength and its risk. With every breaker potentially live, a 30 amp generator can be overloaded unless you switch big loads off yourself. The listing says it supports service up to 200 amps, so it is a fit for larger panels where selecting individual circuits would be tedious.\n\nIt is not a free-for-all install: meter-socket work typically requires utility approval, a licensed electrician and a permit. Treat it as a niche choice for people who want fast hookup and are disciplined about managing loads.",
+   "bestFor": "Larger homes that want whole-panel backup without circuit selection.",
+   "pros": [
+    "No interior circuit rewiring needed",
+    "Automatic transfer when the utility drops",
+    "Works with services up to 200 amps",
+    "Surge version adds extra protection"
+   ],
+   "cons": [
+    "Utility approval is usually required",
+    "Easy to overload a 30A generator with everything live"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0D3VQBPG8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4182r+ZYuJL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Match the generator receptacle",
+   "explanation": "A 30 amp L14-30 outlet delivers about 3,600 watts at 120 volts or 7,200 watts at 240 volts. Pick a switch whose inlet matches, such as the VEVOR with its L14-30P box. The common mistake is wiring a 30 amp inlet to a larger generator and trusting its breaker, which can let the cord overheat."
+  },
+  {
+   "criterion": "Circuit count versus real load",
+   "explanation": "The Reliance 31410CRK offers 10 circuits while the Nature's Generator unit gives 6, but a 7,500 watt ceiling is shared by all of them. Add the running watts of each essential load and keep the total under about 80 percent of the generator rating. Buyers often choose the highest circuit count and then trip the generator."
+  },
+  {
+   "criterion": "Single versus 120/240 volt",
+   "explanation": "Single-voltage switches like the Nature's Generator 6-circuit only power 120 volt circuits. If you need a well pump, choose a unit with 2-pole circuits such as the Connecticut Electric EmerGen with four of them. Confirm with the panel directory before ordering."
+  },
+  {
+   "criterion": "Listing and inspection",
+   "explanation": "Look for UL or ETL marks on the switch itself, not just the product page. Inspectors can reject unlisted gear and insurers may question a claim. The Nature's Generator unit and the Champion-style UL 1008 gear in this class lean on these listings."
+  },
+  {
+   "criterion": "Indoor panel or outdoor box",
+   "explanation": "The Generac HomeLink panel is indoor only, while VEVOR and Connecticut Electric ship NEMA 3R enclosures. Match the enclosure to where you will mount it, and keep clearance in front of the panel. A garage wall is typical for indoor panels."
+  },
+  {
+   "criterion": "Permit and electrician reality",
+   "explanation": "Every unit here, including the meter-mounted GenerLink, needs a licensed electrician and a local permit in most jurisdictions. A rough budget for labor often equals or exceeds the switch itself. Skipping the permit can void insurance and creates a backfeed hazard for line workers."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "30A rating",
+   "meaning": "This is the continuous current the switch contacts are built for. At 240 volts it equates to roughly 7,200 watts.",
+   "watchFor": "A 7,500W generator slightly exceeds the math, which is why the Reliance spec says running watts."
+  },
+  {
+   "spec": "Number of circuits",
+   "meaning": "Each circuit is one breaker position you can move from utility to generator. Two-pole circuits use two slots.",
+   "watchFor": "The EmerGen's four 2-pole circuits use up slots that single-pole units spend on lights."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "A rain-resistant enclosure rating for outdoor mounting. It does not mean submersion proof.",
+   "watchFor": "The Generac HomeLink panel is indoor, so it does not offer this."
+  },
+  {
+   "spec": "Double-throw switching",
+   "meaning": "Each rocker connects either utility or generator but never both. That mechanical interlock prevents backfeed.",
+   "watchFor": "The VEVOR and Reliance kits both rely on it."
+  },
+  {
+   "spec": "UL 1008 or ETL listing",
+   "meaning": "A safety listing for transfer switch equipment. Inspectors look for the mark on the unit.",
+   "watchFor": "Check the mark on the box, not only the listing text, especially on value brands."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Generator fit",
+   "description": "We compared the rated amperage, voltage and generator ceiling in each listing. Units rated for 7,500 running watts, such as the Reliance and VEVOR, were treated as the normal match. Anything built for a different class was left out."
+  },
+  {
+   "title": "Circuit flexibility",
+   "description": "We counted usable circuits and whether any were 2-pole. The Connecticut Electric kit stood out with four 240 volt slots. Fewer circuits scored lower unless the footprint was clearly smaller."
+  },
+  {
+   "title": "Safety design",
+   "description": "We looked at double-throw interlocks, listing marks and enclosure ratings. A listing mark carries more weight than marketing language. Backfeed prevention was a pass or fail item."
+  },
+  {
+   "title": "Install practicality",
+   "description": "We weighed pre-wiring, whip length, included inlet boxes and cords. The Reliance with its 18 inch conduit whip scored well against kits that need extra parts. The meter-mounted GenerLink was scored separately because it skips panel work."
+  },
+  {
+   "title": "Ownership",
+   "description": "We considered replacement breakers, weatherproofing and upgrade paths. The Generac HomeLink earned credit for its automatic upgrade option. All findings come from spec sheets and owner feedback patterns, not lab work."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Need",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fridge, furnace, pump and lights",
+      "Reliance Controls 31410CRK",
+      "Ten breakers with a 7,500 watt ceiling"
+     ],
+     [
+      "Short list of 120 volt loads",
+      "Nature's Generator 6-circuit",
+      "Compact enclosure, UL listed"
+     ],
+     [
+      "Well pump at 240 volts",
+      "Connecticut Electric EmerGen",
+      "Four 2-pole circuits"
+     ],
+     [
+      "Maybe automatic later",
+      "Generac HomeLink 30A",
+      "Upgrade module path"
+     ],
+     [
+      "Whole panel without selecting circuits",
+      "GenerLink 30A",
+      "Meter-mounted automatic design"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost entry",
+      "VEVOR 30A 6-circuit",
+      "Inlet box included, six circuits"
+     ],
+     [
+      "Middle ground",
+      "Nature's Generator 6-circuit",
+      "UL listing in a compact box"
+     ],
+     [
+      "Mainstream kit",
+      "Reliance 31410CRK",
+      "Ten circuits, long-proven design"
+     ],
+     [
+      "Higher outlay for flexibility",
+      "Generac HomeLink 30A",
+      "Electronic rocker and upgrade path"
+     ],
+     [
+      "Highest outlay",
+      "GenerLink 30A",
+      "Automatic meter-mounted unit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Panel Kit vs Meter-Mounted",
+   "cards": [
+    {
+     "label": "Panel kit",
+     "text": "Kits like the Reliance 31410CRK and VEVOR 6-circuit sit beside the main panel and move chosen circuits only. They protect the generator from overload by design and give you control over what runs."
+    },
+    {
+     "label": "Meter mounted",
+     "text": "The GenerLink feeds the whole panel through the meter socket and switches automatically. It is quick to connect but needs discipline about large loads and usually utility approval."
+    }
+   ],
+   "note": "Choose a panel kit if you want predictable loads, and the GenerLink only if you accept managing breakers yourself."
+  },
+  {
+   "subheading": "By Voltage Needs",
+   "table": {
+    "headers": [
+     "Load",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "All 120 volt",
+      "Nature's Generator 6-circuit",
+      "Single-voltage design is enough"
+     ],
+     [
+      "Mixed 120 and 240 volt",
+      "Reliance 31410CRK",
+      "120/240 volt layout"
+     ],
+     [
+      "Several 240 volt pumps",
+      "Connecticut Electric EmerGen",
+      "Four 2-pole slots"
+     ],
+     [
+      "Large panel with big loads",
+      "GenerLink 30A",
+      "Handles a 200 amp service"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Well Pumps Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A 240 volt, 2-pole circuit sized for the pump, and a generator that can cover the pump's start surge. Check the pump nameplate before choosing a switch."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Connecticut Electric EmerGen provides four 2-pole circuits, so it is the clearest match, and the Reliance 31410CRK is the fallback for one pump."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want one-button switching and a later automatic upgrade, which points to the Generac HomeLink, or whole-panel backup, which points to the GenerLink."
+    },
+    {
+     "label": "Save if",
+     "text": "Your list is short. The VEVOR 6-circuit and Nature's Generator kits cover a fridge, furnace blower and lights without extra circuits you cannot power."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Exercise the rockers",
+   "interval": "Twice a year",
+   "why": "Switching each circuit prevents contact sticking. It also reminds the household what each position does."
+  },
+  {
+   "task": "Inspect the inlet box",
+   "interval": "After storms",
+   "why": "Moisture and pitting at the inlet pins cause heat. Replace the cover gasket if it hardens."
+  },
+  {
+   "task": "Check the cord",
+   "interval": "Before each outage season",
+   "why": "Cracked jackets and bent pins show up in storage. A bad cord can fail under load."
+  },
+  {
+   "task": "Update the load list",
+   "interval": "Yearly",
+   "why": "New appliances change the math against a 7,500 watt ceiling. Keep the list taped near the panel."
+  },
+  {
+   "task": "Run a generator drill",
+   "interval": "Every few months",
+   "why": "A trial run catches fuel and connection problems early. Do it with a licensed electrician's setup already in place."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which size generator suits a 30 amp transfer switch?",
+   "a": "A portable generator with a 30 amp, 120/240 volt receptacle and around 7,500 running watts is the usual match. A smaller inverter unit also works if its output is lower than the switch rating."
+  },
+  {
+   "q": "Is a 10-circuit switch better than a 6-circuit one?",
+   "a": "Only if your generator can run what you add. Ten circuits give flexibility, but the 7,500 watt ceiling is shared, so six well chosen circuits often serve a small home better."
+  },
+  {
+   "q": "Can I install a transfer switch myself?",
+   "a": "No. Wiring into the main panel is licensed electrician work and most jurisdictions require a permit and inspection. Doing it wrong can backfeed utility lines and endanger line workers."
+  },
+  {
+   "q": "What does 120 volt versus 120/240 volt mean here?",
+   "a": "A 120 volt switch only powers standard outlets and lights. A 120/240 volt unit has 2-pole circuits for well pumps, dryers or water heaters."
+  },
+  {
+   "q": "Are the cheaper kits safe?",
+   "a": "A kit can be safe if it carries UL or ETL marks and passes inspection. Check the marks on the unit and ask your electrician before buying a value brand."
+  },
+  {
+   "q": "How long should a transfer switch last?",
+   "a": "The mechanical parts can last many years with occasional exercise and a dry enclosure. Generators and cords usually wear out first."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41Qtjj39aGL._SL500_.jpg"
+}

@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best generator transfer switch",
+ "guideTitle": "Best Generator Transfer Switches (2026)",
+ "metaTitle": "Best Generator Transfer Switches in 2026",
+ "metaDescription": "Six manual generator transfer switches compared by how they connect to your panel, from 30 amp circuit kits to 200 amp whole-panel switches, with permit notes.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The Nature's Generator 50 amp 12-circuit kit is the best all-round pick because its circuit layout flexes between 120 volt and 240 volt needs and it carries a UL listing. The 30 amp six-circuit kit from the same maker is the value pick for small homes. Anyone planning to run a whole house on a portable generator should skip this roundup and talk to an electrician about a standby generator with its own switch.",
+ "introParagraphs": [
+  "A transfer switch is the legal and safe link between a generator and a house. Without one, the only options are running extension cords to individual appliances or backfeeding through an outlet, and the second of those can kill a lineman restoring the grid.",
+  "There are two broad families, and choosing between them matters more than any brand. Circuit-select kits move a handful of chosen breakers to the generator, while whole-panel switches hand the entire panel to a single source and leave you to manage the load yourself."
+ ],
+ "products": [
+  {
+   "id": "B0D9LG1QWY",
+   "badge": "Best Overall",
+   "name": "Nature's Generator 50A 12-circuit 120/240V manual switch",
+   "specs": [
+    "50A",
+    "12 circuits",
+    "120/240V",
+    "UL listed"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A at 120/240V"
+    },
+    {
+     "label": "Circuits",
+     "value": "Up to 12"
+    },
+    {
+     "label": "Layout",
+     "value": "Twelve 120V or six 240V"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Type",
+     "value": "Manual, non-automatic"
+    }
+   ],
+   "description": "This kit gives you up to twelve circuits and lets you set them up as twelve 120 volt circuits or six 240 volt circuits with interchangeable parts. That choice is rare at this level and means one box can suit a house with lots of lighting circuits or one with a well pump and a water heater.\n\nThe UL listing is the second reason it leads the group, since a listed switch is far easier to get past an inspector. At 50 amps it also matches the larger portable generators that run close to 12,000 watts. Next to the 30 amp kit from the same maker, you gain headroom, and you also gain a more demanding install.\n\nOwnership comes down to labeling and discipline. A written directory, a trial run each season and a generator cord in good shape keep the system dependable. Installation requires a licensed electrician and a local permit. The configurable layout is worth a planning session before the box goes on the wall: list every circuit you want, mark which ones are 240 volt, and let the installer assign slots. That avoids the common outcome where a homeowner buys the biggest kit and then finds the slots do not line up with the loads that matter. In year three, the likely upkeep is the inlet seal, the cord and the habit of exercising the switches each season.",
+   "bestFor": "Homes with a mix of 120 volt and 240 volt essentials.",
+   "pros": [
+    "Twelve 120V or six 240V circuit arrangement",
+    "UL listing eases inspection",
+    "50 amp rating suits large portable generators",
+    "Manual operation keeps the design simple"
+   ],
+   "cons": [
+    "Larger install than a 30 amp kit",
+    "Cord and inlet need separate sourcing"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0D9LG1QWY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CSFRCZQ1",
+   "badge": "Best for Small Homes",
+   "name": "Nature's Generator 30A 6-circuit 120V manual switch",
+   "specs": [
+    "30A 120V",
+    "6 circuits",
+    "UL listed",
+    "Pre-wired"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A at 120V"
+    },
+    {
+     "label": "Circuits",
+     "value": "Up to 6"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Control",
+     "value": "Manual selector switches"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pre-wired"
+    }
+   ],
+   "description": "The smaller sibling is a 30 amp, 120 volt unit with up to six circuits and manual selector switches. It is pre-wired and UL listed, and the listing says it works with most generators on the market.\n\nWhat it will not do is run 240 volt loads, so a well pump or electric dryer is out. For a small home with a refrigerator, lights and a gas furnace blower, that limit rarely matters. It is the lower-cost route into a legal generator connection.\n\nPlan the install with a licensed electrician and permit, and keep the inlet cover closed between outages. If your needs grow, the 50 amp version above is the natural step up. Many small-home owners pair this switch with an inverter generator, which is quiet and sips fuel, and that combination handles a refrigerator, a furnace blower and a few lights without strain. If you ever add a well pump or move to a larger house, expect to replace the switch rather than extend it, because the 120 volt rating is a hard limit.",
+   "bestFor": "Small homes with only 120 volt essentials.",
+   "pros": [
+    "UL listed and pre-wired",
+    "Six circuits cover a short essentials list",
+    "Compact enclosure",
+    "Lower cost than the 50 amp class"
+   ],
+   "cons": [
+    "No 240 volt capability",
+    "Six circuits limit larger houses"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CSFRCZQ1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CMuy8Eo1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G3SXHY4X",
+   "badge": "Best Budget 50A Kit",
+   "name": "DSGSANO 50A Pro/Tran2 10-circuit manual switch",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "240V",
+    "Manual"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A"
+    },
+    {
+     "label": "Circuits",
+     "value": "Ten"
+    },
+    {
+     "label": "Voltage",
+     "value": "240V operating"
+    },
+    {
+     "label": "Type",
+     "value": "Manual transfer switch"
+    },
+    {
+     "label": "Marking",
+     "value": "Wires marked or tagged"
+    }
+   ],
+   "description": "This listing describes a 50 amp, ten-circuit manual switch built on the Pro/Tran2 pattern, with marked wires and a 240 volt operating rating. Its pitch is cost-effectiveness compared with pricier alternatives.\n\nThe listing is thin and even advises that you need some basic knowledge of electrical circuits, which is a reminder that this is a job for a licensed electrician. Next to the Nature's Generator 50 amp kit, you gain ten circuits at a lower entry cost but lose the configurable layout and a clearly stated UL listing.\n\nCheck the label on the unit for listing marks before the electrician starts, and make sure the inlet and cord are specified together. A permit is required. Value-brand kits are not automatically unsafe, but the burden of proof shifts to you: ask the electrician to read the label, confirm the breaker sizes and photograph the finished panel for your records. If the inspector balks at the marks, returning the unit early is far cheaper than redoing the wiring later.",
+   "bestFor": "Budget buyers who still want a 50 amp, ten-circuit layout.",
+   "pros": [
+    "Ten circuits at 50 amps",
+    "Marked wires help the installer",
+    "Lower entry cost than branded kits",
+    "Manual operation is simple"
+   ],
+   "cons": [
+    "Thin listing with few verified details",
+    "Check listing marks before install"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0G3SXHY4X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41IYuGBS88L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DQNHC64W",
+   "badge": "Best 100A Whole-Panel Pick",
+   "name": "Sekelo 100A manual double-throw transfer switch, 24,000W",
+   "specs": [
+    "100A",
+    "120/240V",
+    "24,000W",
+    "Double throw"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "100A at 120/240V"
+    },
+    {
+     "label": "Capacity",
+     "value": "24,000 watts"
+    },
+    {
+     "label": "Type",
+     "value": "Manual double-throw safety switch"
+    },
+    {
+     "label": "Connections",
+     "value": "Aluminum, no electronics"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel"
+    }
+   ],
+   "description": "Sekelo's switch is a manual double-throw safety switch rated at 100 amps and 24,000 watts. It uses a simple aluminum connection design with no electronic components, housed in galvanized steel, and the listing highlights arc-fault protection features.\n\nA double-throw switch like this hands a panel or sub-panel to either the utility or the generator, never both. That simplicity is attractive, but it also means no per-circuit selection, so the user has to manage the load downstream. It suits a sub-panel fed from a generator large enough to carry it.\n\nBecause there are no electronics, there is little to fail, but the enclosure and lug connections still need inspection. An electrician must size the wire and breakers for 100 amps, and a permit is required. A source big enough to justify a 100 amp switch is usually a very large portable or a small standby unit, and it brings fuel, noise and exhaust concerns of its own. Plan where it will sit, how it will be fueled and how the household will shed load, because the switch itself will not protect the generator from being overloaded.",
+   "bestFor": "Sub-panel installs with a large generator.",
+   "pros": [
+    "Simple double-throw design with no electronics",
+    "100 amp rating and 24,000 watt capacity",
+    "Galvanized steel enclosure",
+    "Arc-fault features noted in the listing"
+   ],
+   "cons": [
+    "No per-circuit selection",
+    "Needs a large generator to be worthwhile"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQNHC64W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41MSmkFpS3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DQ9MGLFY",
+   "badge": "Best 200A Whole-Panel Pick",
+   "name": "Tzechkii 200A manual double-throw transfer switch, 48,000W",
+   "specs": [
+    "200A",
+    "120/240V",
+    "48,000W",
+    "NEMA 3R"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "200A at 120/240V"
+    },
+    {
+     "label": "Capacity",
+     "value": "48,000 watts"
+    },
+    {
+     "label": "Type",
+     "value": "Manual double-throw disconnect"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel, NEMA 3R"
+    },
+    {
+     "label": "Use",
+     "value": "Gas or auxiliary source to house"
+    }
+   ],
+   "description": "The Tzechkii switch is a 200 amp, 120/240 volt manual double-throw disconnect with a stated 48,000 watt capacity. It uses a galvanized steel NEMA 3R enclosure that meets standards for rain and snow, and a manual lever for changing between sources.\n\nThis is a service-level switch, so it matters only if your generator is large enough to feed the whole panel, which is rare for a portable unit. It is better thought of as a part of a standby installation than as a portable generator accessory. Against the Sekelo 100 amp switch, it simply scales the same idea up.\n\nA 200 amp switch should only be installed by a licensed electrician under a permit, with the utility's rules in mind. Keep the enclosure sealed and inspect lugs periodically. Utilities often have rules about service-level equipment, so the electrician should confirm requirements before anything is bought or mounted. For almost every portable generator owner, this switch is more than the job needs, and the 50 amp circuit kit above is the more sensible purchase.",
+   "bestFor": "Service-level standby installations with a very large source.",
+   "pros": [
+    "200 amp rating at 120/240 volts",
+    "NEMA 3R galvanized steel enclosure",
+    "Manual lever prevents sources overlapping",
+    "Simple mechanical design"
+   ],
+   "cons": [
+    "Overkill for portable generators",
+    "Service-level work needs careful permitting"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ9MGLFY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00FADDE0A",
+   "badge": "Best Patented Alternative",
+   "name": "EZ Generator Switch original manual switch, UL/CSA approved",
+   "specs": [
+    "UL/CSA/ETL",
+    "Patented",
+    "Made in USA",
+    "Manual"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Manual transfer switch"
+    },
+    {
+     "label": "Approvals",
+     "value": "UL, CSA and ETL"
+    },
+    {
+     "label": "Design",
+     "value": "Patented"
+    },
+    {
+     "label": "Origin",
+     "value": "Made in the USA"
+    },
+    {
+     "label": "Support",
+     "value": "US customer support"
+    }
+   ],
+   "description": "The listing positions this as the original, patented version of the EZ Generator Switch, UL, CSA and ETL approved and made in the USA by a veteran-employed company. It is a manual transfer switch with a different design from the circuit-select kits above.\n\nThe listing gives few electrical specifics, so confirm the rating and how it connects to your panel with the maker and your electrician before buying. Its appeal is the approvals and the domestic support, which matter if you want a documented paper trail for an inspector.\n\nInstall with a licensed electrician under a permit. Treat the manual as the source of truth, keep it with the generator and note the install date. The approvals listed are its strongest argument, because inspectors and insurers respond better to a documented label than to a product page. Because the listing is short on numbers, avoid assuming it matches your panel or generator, and have the installer sign off on compatibility before you pay.",
+   "bestFor": "Buyers who want documented approvals and US support.",
+   "pros": [
+    "UL, CSA and ETL approvals noted",
+    "Patented design from a US maker",
+    "US customer support",
+    "Manual operation keeps it simple"
+   ],
+   "cons": [
+    "Listing gives few electrical specifics",
+    "Confirm panel compatibility before buying"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B00FADDE0A?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/61dy3MzvZOL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Circuit kit or whole panel",
+   "explanation": "The Nature's Generator kits move chosen circuits, while the Sekelo 100 amp and Tzechkii 200 amp switches hand a whole panel to one source. Circuit kits protect a small generator by design. Whole-panel switches need a big source and careful load management. Buyers often choose a whole-panel switch because it sounds more complete, then find their portable generator cannot carry the panel and they must manually shed loads at every breaker."
+  },
+  {
+   "criterion": "Generator output first",
+   "explanation": "A 30 amp kit suits a mid-size portable, the 50 amp kits suit larger ones near 12,000 watts, and the 100 and 200 amp switches only make sense with very large machines. Buy the generator first, then match the switch. A bigger switch does not make a generator stronger. Read the generator's receptacle and running watts, and bring that information to the electrician rather than asking them to guess."
+  },
+  {
+   "criterion": "120 volt or 240 volt",
+   "explanation": "The Nature's Generator 30 amp unit is 120 volt only, while the 50 amp unit can run six 240 volt circuits. A well pump or electric dryer needs 240 volts. Check the nameplates before choosing. Look at the breaker for each load in the panel, because a 2-pole breaker is the giveaway that a circuit runs at 240 volts."
+  },
+  {
+   "criterion": "Listing marks",
+   "explanation": "The Nature's Generator kits cite UL listing, and the EZ switch cites UL, CSA and ETL approvals. A mark on the unit matters at inspection. A cheap kit without one can be rejected or complicate an insurance claim. Photograph the label when it arrives and keep the picture with your permit paperwork."
+  },
+  {
+   "criterion": "Manual versus automatic",
+   "explanation": "Every product here is manual. An automatic switch senses an outage and moves loads itself, but it costs more and pairs best with a standby generator. Manual is the right fit for portable units. The cost of automation is rarely justified when someone is home to switch by hand, and a mechanical design has less to go wrong in a storm."
+  },
+  {
+   "criterion": "Permit and electrician",
+   "explanation": "All six require a licensed electrician and a local permit in most areas. The 100 and 200 amp switches also involve service-level wiring. Do not try to improvise with a male-to-male cord. That shortcut energizes exposed plug pins and backfeeds the grid, which is exactly the danger a transfer switch exists to remove."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Amp rating",
+   "meaning": "The continuous current the switch is built for. At 240 volts, 50 amps is roughly 12,000 watts.",
+   "watchFor": "The Sekelo lists 24,000 watts at 100 amps."
+  },
+  {
+   "spec": "Double-throw",
+   "meaning": "A switch position for each source, never both at once. It is the interlock that stops backfeed.",
+   "watchFor": "The Tzechkii and Sekelo both use it."
+  },
+  {
+   "spec": "12 circuits or 6 circuits",
+   "meaning": "How many breakers can be moved to the generator. Two-pole loads use two positions.",
+   "watchFor": "The Nature's Generator 50 amp unit trades twelve 120V for six 240V."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "A rain-resistant enclosure standard for outdoor mounting.",
+   "watchFor": "The Tzechkii cites it."
+  },
+  {
+   "spec": "UL, CSA, ETL",
+   "meaning": "Third-party safety approvals. Inspectors look for them on the label.",
+   "watchFor": "The EZ switch lists all three."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Connection style",
+   "description": "We separated circuit-select kits from whole-panel switches. The Nature's Generator kits are circuit-select, while the Sekelo and Tzechkii are whole-panel. Each style was judged for who it suits, not for which looks more capable on paper. A large switch behind a small generator was treated as unused capacity rather than an advantage."
+  },
+  {
+   "title": "Generator match",
+   "description": "We matched amp ratings to generator classes. 30 amp suits mid-size units and 50 amp suits large ones. The 100 and 200 amp switches scored lower for portable use. They stay in the roundup because some readers have large sources, but the editorial lean is toward circuit kits for most households."
+  },
+  {
+   "title": "Safety marks",
+   "description": "We looked for UL, CSA and ETL marks and for double-throw interlocks. The Nature's Generator and EZ listings lead. Marks on the unit matter more than listing text."
+  },
+  {
+   "title": "Layout flexibility",
+   "description": "We compared circuit counts and voltage options. The Nature's Generator 50 amp kit stands out. Fixed layouts scored as solid."
+  },
+  {
+   "title": "Ownership",
+   "description": "We considered enclosure ratings, listing clarity and install effort. All findings come from spec sheets and owner feedback patterns, not lab work."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Need",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Mix of 120 and 240 volt loads",
+      "Nature's Generator 50A 12-circuit",
+      "Configurable layout"
+     ],
+     [
+      "Small home, 120 volt only",
+      "Nature's Generator 30A 6-circuit",
+      "Compact and listed"
+     ],
+     [
+      "Budget 50 amp ten circuits",
+      "DSGSANO 50A",
+      "Lower entry cost"
+     ],
+     [
+      "Large generator and sub-panel",
+      "Sekelo 100A",
+      "Double-throw, 24,000 watts"
+     ],
+     [
+      "Service-level standby",
+      "Tzechkii 200A",
+      "200 amp, 48,000 watts"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "DSGSANO 50A",
+      "Ten circuits"
+     ],
+     [
+      "Low to middle",
+      "Nature's Generator 30A",
+      "Six circuits, listed"
+     ],
+     [
+      "Middle",
+      "EZ Generator Switch",
+      "Approvals and support"
+     ],
+     [
+      "Higher outlay",
+      "Nature's Generator 50A",
+      "Flexible and listed"
+     ],
+     [
+      "Highest outlay",
+      "Tzechkii 200A",
+      "Service-level switch"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Circuit Kit vs Whole Panel",
+   "cards": [
+    {
+     "label": "Circuit kit",
+     "text": "The Nature's Generator kits move only selected circuits, so a small generator is protected from overload by design."
+    },
+    {
+     "label": "Whole panel",
+     "text": "The Sekelo and Tzechkii switches hand a whole panel to one source, so you manage the load yourself and need a large generator."
+    }
+   ],
+   "note": "Most portable generator owners want a circuit kit. Whole-panel switches belong with standby systems. If you are unsure which camp you are in, count the amps your generator's receptacle can deliver and compare it to your main breaker, since a gap of several times is the sign that a circuit kit is the right tool."
+  },
+  {
+   "subheading": "By Generator Size",
+   "table": {
+    "headers": [
+     "Generator",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Mid-size portable",
+      "Nature's Generator 30A",
+      "30 amp class"
+     ],
+     [
+      "Large portable",
+      "Nature's Generator 50A",
+      "50 amp class"
+     ],
+     [
+      "Very large source",
+      "Sekelo 100A",
+      "100 amp switch"
+     ],
+     [
+      "Standby-scale source",
+      "Tzechkii 200A",
+      "200 amp switch"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Well Pumps Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A 240 volt, 2-pole circuit and enough generator output to cover the pump's start surge. Check the nameplate first."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Nature's Generator 50 amp kit can run six 240 volt circuits, while the 30 amp kit cannot."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a large generator and mixed loads, which points to the Nature's Generator 50 amp kit, or a standby setup, which points to the Tzechkii."
+    },
+    {
+     "label": "Save if",
+     "text": "Your list is short. The Nature's Generator 30 amp kit covers a refrigerator, furnace blower and lights."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Exercise the switch",
+   "interval": "Twice a year",
+   "why": "Moving each position keeps contacts clean. It confirms the switch still transfers."
+  },
+  {
+   "task": "Inspect lugs and enclosure",
+   "interval": "Yearly",
+   "why": "Loose lugs and rust cause heat. Have an electrician check them. A torque check with the right tool is routine for them and takes minutes, but it catches the loose connection that would otherwise heat up under a real load."
+  },
+  {
+   "task": "Check the generator cord",
+   "interval": "Before storm season",
+   "why": "Cracked jackets overheat. Replace damaged cords."
+  },
+  {
+   "task": "Update the load list",
+   "interval": "Yearly",
+   "why": "New appliances change the numbers. Keep it near the panel."
+  },
+  {
+   "task": "Run a trial",
+   "interval": "Every few months",
+   "why": "A supervised run finds fuel and connection problems. Do it before an outage forces it, with the generator outdoors and well clear of windows and doors because of carbon monoxide. Write down how long it ran and what the draw looked like so you know what to expect next time."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does a transfer switch actually do?",
+   "a": "It connects selected circuits or a panel to a generator while isolating the house from the utility. That isolation prevents backfeed that endangers line workers."
+  },
+  {
+   "q": "Circuit kit or whole-panel switch?",
+   "a": "Circuit kits suit portable generators because they limit the load. Whole-panel switches suit very large sources and need careful load management."
+  },
+  {
+   "q": "Can I install it myself?",
+   "a": "No. A licensed electrician should install it under a permit. Improvised connections can injure line workers."
+  },
+  {
+   "q": "Which amp rating should I buy?",
+   "a": "Match the switch to your generator's receptacle, often 30 or 50 amps. Do not buy a bigger switch expecting more power."
+  },
+  {
+   "q": "Is a manual switch enough?",
+   "a": "For a portable generator, yes. Automatic switches pair better with standby units."
+  },
+  {
+   "q": "Do the listing marks matter?",
+   "a": "Yes. UL, CSA or ETL marks help the unit pass inspection and satisfy insurers."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg"
+}

@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-6-circuit-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "6 circuit generator transfer switch",
+ "guideTitle": "Best 6 Circuit Generator Transfer Switches (2026)",
+ "metaTitle": "Best 6 Circuit Generator Transfer Switches",
+ "metaDescription": "Six 6-circuit generator transfer switches compared by breaker layout, metering and enclosure, with clear notes on permits and licensed electrician installs.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Reliance Controls A306C is the pick because its built-in meters show what the generator is really carrying across six circuits. The VEVOR kit is the value choice when you just want a prewired box and inlet. Skip a six-circuit switch if your essentials include several 240 volt loads, because the slots run out fast.",
+ "introParagraphs": [
+  "A switch with a small, fixed number of circuits forces a useful discipline: you decide in advance which loads matter during an outage. That is usually the refrigerator, a furnace blower, a sump pump, a few lights and a modem, and little else.",
+  "Within this size class the differences are in how the breakers are split between standard and larger sizes, whether the box has meters, and what ships with it. Those details decide how smoothly an electrician can finish the job and how easy the setup is to live with."
+ ],
+ "products": [
+  {
+   "id": "B00YEXK8KQ",
+   "badge": "Best Overall",
+   "name": "Reliance Controls A306C Pro/Tran2 30A 6-circuit with meters",
+   "specs": [
+    "30A",
+    "6 circuits",
+    "Built-in meters",
+    "Manual"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Metering",
+     "value": "Meters included"
+    },
+    {
+     "label": "Series",
+     "value": "Pro/Tran2"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual transfer"
+    }
+   ],
+   "description": "Reliance's Pro/Tran2 line adds meters to the front of the box, and that is the feature that separates this unit from every bare-bones six-circuit option. With six circuits sharing one generator, seeing watts or amps in real time tells you when to stop adding loads. The 30 amp rating puts it in the standard portable generator class.\n\nCompared with the VEVOR kit, you get a more established brand and the meter display, but you do not get an inlet box in the listing, so plan to buy the inlet and cord separately. That makes it slightly less turnkey, and it suits owners who already have a generator cord or want to choose their own.\n\nOwnership is about the long game. Reliance parts are common, a spare breaker is easy to source, and the metering cuts down on trial-and-error. Installation belongs to a licensed electrician under a local permit, and the electrician will specify the inlet and wire gauge from the manual. A written note on the front of the box listing which breaker feeds which load saves arguments during a long outage, and the meters make it obvious when a compressor start briefly pushes the draw higher than the steady running figure.",
+   "bestFor": "Owners who want to watch load while the generator runs.",
+   "pros": [
+    "Front-panel meters show what the generator carries",
+    "Established brand with easy parts sourcing",
+    "Six circuits keep loads under control",
+    "Fits the standard 30 amp generator class"
+   ],
+   "cons": [
+    "Inlet box is not part of the listing",
+    "Meter display adds a little to the cost"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00YEXK8KQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SLT6or9iL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DZQR5KBT",
+   "badge": "Best Brand Kit",
+   "name": "Connecticut Electric EmerGen 30A 6-circuit 7,500W kit",
+   "specs": [
+    "30A 7,500W",
+    "6 circuits",
+    "Powder-coated",
+    "Rocker switches"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Capacity",
+     "value": "7,500 watts"
+    },
+    {
+     "label": "Switching",
+     "value": "Double-throw rockers"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Powder-coated steel"
+    }
+   ],
+   "description": "This EmerGen kit combines six double-throw rocker circuits in a powder-coated steel enclosure. The rockers physically route each circuit to one source at a time, which is the safeguard against feeding power back to the grid.\n\nIt carries the same 7,500 watt capacity as the other kits here, so the difference comes down to finish, brand and what is included. Where the Nature's Generator unit is a single-voltage design, this EmerGen is built for the 30 amp generator receptacle and mixed breaker sizes. The enclosure's coating resists scratches during install better than bare metal.\n\nKeep the cover closed, label the circuits clearly and replace any cracked rocker cover. A licensed electrician and a permit are part of the project, and the load list should be updated whenever appliances change. Compared with the VEVOR, the extra cost buys a recognizable name for the inspector and a coating that holds up in a damp garage or on a shaded exterior wall, which matters in year three when cheaper paint often chips and rust blooms around the knockouts.",
+   "bestFor": "Buyers who prefer a named brand kit with a durable finish.",
+   "pros": [
+    "Double-throw rockers isolate each circuit",
+    "Powder-coated steel resists install scratches",
+    "7,500 watt capacity matches common generators",
+    "Straightforward six-circuit layout"
+   ],
+   "cons": [
+    "No meters on the front",
+    "Fewer extras than metered units"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DZQR5KBT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WPrbEgPwL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F1FHWRLS",
+   "badge": "Best Value",
+   "name": "VEVOR 30A 6-circuit prewired kit with L14-30P inlet",
+   "specs": [
+    "30A",
+    "6 circuits",
+    "L14-30P inlet",
+    "NEMA 3R"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Inlet",
+     "value": "L14-30P box included"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R"
+    },
+    {
+     "label": "Generator fit",
+     "value": "7,500W"
+    }
+   ],
+   "description": "VEVOR bundles an L14-30P power inlet box with the switch, which removes one shopping decision. The double-throw operation and the weatherproof cover are standard features at this level, and the maker rates it for 7,500 watt generators.\n\nWhat you give up against the Reliance A306C is the meter display and a long track record. That is fine if you plan to size loads on paper and run the generator conservatively. You get the same six-circuit limit that keeps overload risk low.\n\nExpect to verify the listing marks, because a value-brand kit still has to pass inspection. Once installed, there is little to maintain beyond the inlet cover seal and an annual exercise of each rocker. Because the kit is an all-in-one box, it works well for people who dislike sourcing a separate inlet, but they should still let the electrician confirm that the wire gauge in the box matches the breakers and the cord. If the generator ever changes to a different receptacle style, the inlet is the part to replace, not the entire switch.",
+   "bestFor": "Budget buyers who want the inlet included.",
+   "pros": [
+    "Inlet box included in the kit",
+    "Weatherproof cover suits outdoor mounting",
+    "Six circuits limit generator overload",
+    "Double-throw design prevents backfeed"
+   ],
+   "cons": [
+    "No meters to monitor load",
+    "Verify listing marks before purchase"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F1FHWRLS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UYjA-TIiL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H2HC8H95",
+   "badge": "Best for Monitoring",
+   "name": "NUWJBYE 30A 6-circuit ETL listed switch with watt meter",
+   "specs": [
+    "30A",
+    "6 circuits",
+    "ETL listed",
+    "Watt meter"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Listing",
+     "value": "ETL listed"
+    },
+    {
+     "label": "Indicators",
+     "value": "LED per circuit"
+    },
+    {
+     "label": "Metering",
+     "value": "Mechanical watt meter"
+    }
+   ],
+   "description": "This model gives each circuit an LED indicator and adds a mechanical watt meter, so one glance tells you which circuits are live and how many watts you are drawing. The listing calls it ETL listed and says the kit arrives with an inlet and the switch together.\n\nThat combination of indicators and metering goes beyond what the VEVOR offers, and it undercuts the Reliance A306C on completeness since an inlet is bundled. The uncertainty is the brand's service record, which is thin next to Reliance.\n\nFor day-to-day use, the LEDs help families who do not know the panel. Mount it with a licensed electrician, pull the permit, and check the ETL mark on the label before the inspector arrives. The mechanical watt meter is an analog dial, so treat it as a trend gauge rather than a precision instrument, and compare it against the generator's own display if it has one. Households with teenagers or guests benefit most from the lit indicators, since nobody has to remember which rocker belongs to which room.",
+   "bestFor": "Households that want indicators and metering together.",
+   "pros": [
+    "LED on every circuit shows what is live",
+    "Mechanical watt meter shows load",
+    "ETL listing noted by the maker",
+    "Kit arrives with inlet and switch"
+   ],
+   "cons": [
+    "Newer brand with a short service record",
+    "Meter accuracy is only a rough guide"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H2HC8H95?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SEINTGeeL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GGB5FT1L",
+   "badge": "Best Cord Included",
+   "name": "Fexhull 31406CWK 30A 6-circuit kit with 10 ft cord",
+   "specs": [
+    "30A 7,500W",
+    "4x15A + 2x20A",
+    "10 ft cord",
+    "NEMA 3R"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Breakers",
+     "value": "Four 15A, two 20A"
+    },
+    {
+     "label": "Cord",
+     "value": "10 ft generator cord"
+    },
+    {
+     "label": "Generator ceiling",
+     "value": "7,500 watts"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Powder-coated, NEMA 3R"
+    }
+   ],
+   "description": "The 31406CWK pattern is a common one: four 15 amp single-pole breakers and two 20 amp ones in a powder-coated steel box with a weatherproof inlet. This version includes a 10 foot generator cord with the proper connector, so the kit is closer to ready out of the box.\n\nThe breaker split is the real feature to understand. Fifteen amp slots suit lights and standard outlets, while the 20 amp slots suit a furnace or a refrigerator. Compared with the EmerGen, you get the same six-circuit count but a clearer description of the split.\n\nStore the cord dry, and check the pins before storm season. As always, the electrician matches wire size to the breakers and handles the permit. A longer cord is a common upgrade, since ten feet often leaves the generator close to a window or wall, and generators should always run outdoors well away from openings because of carbon monoxide. Choose it over the VEVOR when the cord matters more than the inlet being bundled.",
+   "bestFor": "Buyers who want the cord included and a clear breaker split.",
+   "pros": [
+    "Four 15A and two 20A slots are clearly laid out",
+    "10 ft cord with connector included",
+    "Built-in backfeed prevention design",
+    "Powder-coated steel enclosure"
+   ],
+   "cons": [
+    "Cord length limits generator placement",
+    "Third-party seller support varies"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GGB5FT1L?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/518V3p2-l9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CSFRCZQ1",
+   "badge": "Most Compact",
+   "name": "Nature's Generator 30A 6-circuit 120V switch",
+   "specs": [
+    "30A 120V",
+    "6 circuits",
+    "UL listed",
+    "Pre-wired"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A at 120V"
+    },
+    {
+     "label": "Circuits",
+     "value": "Up to 6"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Control",
+     "value": "Manual selector switches"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pre-wired"
+    }
+   ],
+   "description": "Nature's Generator describes this as a 120 volt, 30 amp, six-circuit unit with manual selector switches and UL listing. The pre-wired build is meant to cut electrician time.\n\nIts 120 volt design means no 240 volt circuits, which separates it from the EmerGen or Fexhull kits. That is a real limitation for pumps and large appliances. For small homes with only standard outlets and lighting, it is a tidy answer.\n\nAs with the others, plan for a licensed installer and a permit, and keep the generator inlet protected from moisture. Because it is rated at 120 volts only, it pairs well with a smaller inverter generator whose single 120 volt outlet feeds the household essentials. Anyone who later adds a well pump or electric water heater should plan to replace it with a 120/240 volt kit such as the EmerGen.",
+   "bestFor": "Small homes with only 120 volt essentials.",
+   "pros": [
+    "UL listing simplifies inspection talk",
+    "Compact enclosure takes less wall space",
+    "Manual selectors are easy to read",
+    "Pre-wired build trims install time"
+   ],
+   "cons": [
+    "No 240 volt circuits",
+    "Fewer features than metered rivals"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CSFRCZQ1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CMuy8Eo1L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Breaker mix across six slots",
+   "explanation": "The Fexhull 31406CWK splits six circuits into four 15 amp and two 20 amp breakers, a layout that suits lights and a furnace. A kit with different splits can leave a refrigerator on an undersized breaker. Ask the electrician to map your loads to the slots before you buy. A typical fit puts the refrigerator and furnace on the 20 amp slots and lights, a modem and a few outlets on the 15 amp ones, which leaves one spare."
+  },
+  {
+   "criterion": "Metering and indicators",
+   "explanation": "The Reliance A306C includes meters, and the NUWJBYE adds LED lights and a watt meter. With only six circuits, the danger is overload on the generator rather than the switch. Meters let you add loads one at a time. Start the biggest motor first, let the draw settle, then bring on smaller circuits so the generator never faces every start surge together."
+  },
+  {
+   "criterion": "Single versus 120/240 volt",
+   "explanation": "The Nature's Generator unit is rated 30 amps at 120 volts, so it cannot serve a well pump. Kits like the EmerGen support mixed layouts. Decide this before you count circuits. A buyer who discovers the limit after the box is on the wall faces a second round of labor, which costs far more than choosing the right voltage rating at the start."
+  },
+  {
+   "criterion": "What ships in the box",
+   "explanation": "VEVOR includes an L14-30P inlet and Fexhull adds a 10 foot cord, while the Reliance A306C is the bare switch. Missing parts mean extra trips and cost. List everything the install needs: switch box, inlet, cord, conduit, breakers and a cover plate for the panel directory, and ask the electrician which of those they supply."
+  },
+  {
+   "criterion": "Listing marks",
+   "explanation": "UL and ETL marks matter at inspection. The Nature's Generator and NUWJBYE listings mention them, but the label on the unit is what the inspector reads. Photograph the mark before mounting. If a unit arrives without a visible listing label, return it rather than hoping the inspector accepts a product page printout."
+  },
+  {
+   "criterion": "Permit and installer",
+   "explanation": "All six kits require a licensed electrician and a local permit in most areas. Wiring a transfer switch yourself risks backfeed and voids insurance. Budget for labor and inspection up front. The generator itself also has to sit outdoors and away from windows, so plan the inlet location and cord path before choosing between a short and a long cord."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "6 circuits",
+   "meaning": "Six breaker positions can each be moved to generator power. Two-pole loads take two positions.",
+   "watchFor": "A well pump on a 2-pole breaker leaves five usable slots in the Fexhull layout."
+  },
+  {
+   "spec": "30A, 7,500W",
+   "meaning": "Maximum continuous current and the generator class the maker names. The two figures are linked by the 240 volt math.",
+   "watchFor": "The EmerGen and VEVOR both cite 7,500 watts."
+  },
+  {
+   "spec": "Double-throw rocker",
+   "meaning": "A switch that connects one of two sources, never both. It is the interlock that prevents backfeed.",
+   "watchFor": "Confirm every kit here uses it before you buy."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "A rain-resistant enclosure standard for outdoor boxes.",
+   "watchFor": "Check whether it covers the switch or only the inlet."
+  },
+  {
+   "spec": "ETL or UL listing",
+   "meaning": "A third-party safety listing for the product.",
+   "watchFor": "The NUWJBYE cites ETL, the Nature's Generator cites UL."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Circuit layout",
+   "description": "We compared how each kit divides its six circuits between breaker sizes. The Fexhull split of four 15 amp and two 20 amp served as the reference. A clear split scored higher than vague descriptions."
+  },
+  {
+   "title": "Monitoring",
+   "description": "We checked for meters and indicators because six circuits share one generator. The Reliance A306C and NUWJBYE led here. Plain switches scored lower on feedback. Metering earned extra credit for households that cannot predict what will run at once, and none for households with a fixed list."
+  },
+  {
+   "title": "Safety marks",
+   "description": "We looked for UL, ETL and double-throw interlocks in the listing text. Listings are a starting point, not proof. The inspector reads the label on the unit."
+  },
+  {
+   "title": "Kit completeness",
+   "description": "We noted which kits include an inlet box or cord. VEVOR and Fexhull scored well on completeness. The bare Reliance switch scored lower here. Completeness matters because every missing part is another purchase and another delay before the electrician can finish the job."
+  },
+  {
+   "title": "Ownership",
+   "description": "We weighed brand parts support and enclosure finish. Reliance's parts availability counted. All judgments use spec sheets and owner feedback patterns."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Primary Attribute",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Want to watch load",
+      "Reliance Controls A306C",
+      "Built-in meters"
+     ],
+     [
+      "Want indicators and a watt meter",
+      "NUWJBYE 6-circuit",
+      "LED per circuit"
+     ],
+     [
+      "Need cord in the box",
+      "Fexhull 31406CWK",
+      "10 ft cord included"
+     ],
+     [
+      "Need inlet in the box",
+      "VEVOR 6-circuit",
+      "L14-30P inlet included"
+     ],
+     [
+      "Only 120 volt loads",
+      "Nature's Generator 6-circuit",
+      "Compact single-voltage unit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "VEVOR 6-circuit",
+      "Inlet included"
+     ],
+     [
+      "Low to middle",
+      "NUWJBYE 6-circuit",
+      "Indicators and meter"
+     ],
+     [
+      "Middle",
+      "Fexhull 31406CWK",
+      "Cord included"
+     ],
+     [
+      "Brand kit",
+      "Connecticut Electric EmerGen",
+      "Named brand, durable finish"
+     ],
+     [
+      "Higher outlay",
+      "Reliance A306C",
+      "Meters and brand parts"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Metered vs Unmetered",
+   "cards": [
+    {
+     "label": "Metered",
+     "text": "The Reliance A306C and NUWJBYE show load, which helps when six circuits share a generator near its limit."
+    },
+    {
+     "label": "Unmetered",
+     "text": "The VEVOR and EmerGen rely on your load list. They suit careful users with a small generator margin."
+    }
+   ],
+   "note": "Pick a metered kit if you add loads in the moment, and an unmetered one if the list is fixed. A metered kit also helps new family members learn how much the generator can carry, which prevents the quiet failure where a breaker trips at night and nobody knows why."
+  },
+  {
+   "subheading": "By Voltage Mix",
+   "table": {
+    "headers": [
+     "Loads",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lights and outlets only",
+      "Nature's Generator 6-circuit",
+      "120 volt design"
+     ],
+     [
+      "Furnace plus fridge",
+      "Fexhull 31406CWK",
+      "Two 20 amp slots"
+     ],
+     [
+      "Mixed loads",
+      "Connecticut Electric EmerGen",
+      "Built for the 30A receptacle"
+     ],
+     [
+      "Monitoring mixed loads",
+      "Reliance A306C",
+      "Meters help balance"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sump Pumps and Fridges Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A 20 amp slot for the pump or refrigerator motor and a generator that handles start surge. Check the nameplate first."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Fexhull 31406CWK gives two 20 amp slots, and the Reliance A306C lets you see start surge on the meters."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want metering and parts support, which points to the Reliance A306C, or full indicators, which points to the NUWJBYE."
+    },
+    {
+     "label": "Save if",
+     "text": "Your loads are fixed. The VEVOR covers them with an inlet included."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Exercise rockers",
+   "interval": "Twice a year",
+   "why": "Moving each switch keeps contacts clean. It also confirms every circuit still transfers."
+  },
+  {
+   "task": "Check the inlet cover",
+   "interval": "Before storm season",
+   "why": "A cracked seal lets moisture reach the pins. Replace it before it fails."
+  },
+  {
+   "task": "Inspect the cord",
+   "interval": "Yearly",
+   "why": "Jackets crack in cold storage. Damaged cords overheat under load."
+  },
+  {
+   "task": "Review the load list",
+   "interval": "Yearly",
+   "why": "New appliances change what six circuits can carry. Update the label."
+  },
+  {
+   "task": "Photograph the panel directory",
+   "interval": "After any change",
+   "why": "A record helps the electrician and the household. Keep a copy with the generator and another inside the house for whoever is home during an outage."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is six circuits enough for a house?",
+   "a": "For essentials like a refrigerator, furnace blower, sump pump, lights and a modem it is usually enough. Larger homes with several 240 volt loads need more slots. If you are unsure, write down every load you would miss after one day without power and count how many separate breakers they use."
+  },
+  {
+   "q": "Should I choose six circuits or ten?",
+   "a": "Six keeps the load under control and the box small, while ten adds flexibility. Your generator rating should decide, not the slot count."
+  },
+  {
+   "q": "Do meters matter?",
+   "a": "They help avoid overload when several circuits share one generator. Units like the Reliance A306C make that visible."
+  },
+  {
+   "q": "Can I use a 120 volt switch with a 240 volt generator?",
+   "a": "Only if your loads are all 120 volt. A 120 volt switch cannot feed 240 volt appliances."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "In most places yes. A licensed electrician should pull it and arrange inspection."
+  },
+  {
+   "q": "How long does a transfer switch last?",
+   "a": "The mechanical parts last many years if kept dry and exercised. Generators and cords usually wear out sooner. Replace a rocker or breaker if it feels loose or runs warm instead of waiting for it to fail."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41SLT6or9iL._SL500_.jpg"
+}

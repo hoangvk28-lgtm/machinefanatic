@@ -1,0 +1,628 @@
+{
+ "guideSlug": "best-generator-transfer-switch-with-breakers",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "generator transfer switch with breakers",
+ "guideTitle": "Best Generator Transfer Switches With Breakers (2026)",
+ "metaTitle": "Best Generator Transfer Switches With Breakers",
+ "metaDescription": "Seven manual transfer switches with built-in circuit breakers compared on amp rating, circuit count, metering and generator fit, with install cautions.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg",
+ "expertTake": "The Nature's Generator 50 amp 12-circuit box is the strongest all-round switch with breakers because it is UL listed and flexible between 120 and 240 volt loads. The VEVOR 30 amp six-circuit kit is the value pick for a mid-size portable generator. Anyone who wants to power only one appliance should skip a breaker panel and look at a single-circuit cord instead.",
+ "introParagraphs": [
+  "A transfer switch with breakers pairs a source selector with protective breakers for every circuit you move onto generator power. That matters because a generator has firm limits, and a tripped breaker on one branch beats a stalled engine.",
+  "Breaker-equipped boxes differ in how many circuits they offer, whether they cover 240 volt loads, and whether they add extras such as lights or a watt meter. Each one is installed by a licensed electrician, so use this guide to choose what to buy and not how to wire it."
+ ],
+ "products": [
+  {
+   "id": "B0D9LG1QWY",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Nature's Generator 50A 12-circuit 120/240V switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0D9LG1QWY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A",
+    "12 circuits",
+    "UL listed",
+    "120/240V"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A"
+    },
+    {
+     "label": "Circuits",
+     "value": "Twelve 120V or six 240V"
+    },
+    {
+     "label": "Breakers",
+     "value": "Interchangeable pairs"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    }
+   ],
+   "description": "The breaker bank here can be arranged as twelve single-pole circuits or six double-pole ones, because the breakers swap in pairs. Each circuit has its own selector between utility and generator, so the box does two jobs: transfer and overcurrent protection for the generator side.\n\nThe 50 amp rating sets it apart from the 30 amp six-circuit VEVOR and Nature's Generator siblings. It carries up to roughly 12,000 watts at 240 volts, so a large portable with a 50 amp receptacle can feed a furnace, a fridge and a well pump on one 240 volt circuit. A smaller generator simply never loads it fully.\n\nThe real-world risk is mismatch. The box needs a 50 amp inlet and generator outlet, and your electrician must size wiring to match. Keep a tagged breaker map inside the door so the person standing there in the dark knows what each pair feeds. Over several years the main care items are keeping the cover sealed and exercising each selector, because a box in an unheated garage sees condensation that a basement panel never does.",
+   "bestFor": "Large portable generator owners with mixed 120V and 240V loads.",
+   "pros": [
+    "Breakers swap between 120V and 240V pairs",
+    "UL listing smooths inspection",
+    "Twelve circuits give the widest coverage here",
+    "Each circuit protected on the generator side"
+   ],
+   "cons": [
+    "Needs a 50A generator outlet and heavy wiring",
+    "Too much box for a small portable"
+   ]
+  },
+  {
+   "id": "B0H2HJZKWD",
+   "rank": 2,
+   "badge": "Best for Load Awareness",
+   "name": "50A 10-circuit ETL switch with LEDs and watt meter",
+   "amazonUrl": "https://www.amazon.com/dp/B0H2HJZKWD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GCvaLV0mL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "LED lights",
+    "Watt meter"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Listing",
+     "value": "ETL listed"
+    },
+    {
+     "label": "Indicators",
+     "value": "LED per circuit"
+    },
+    {
+     "label": "Metering",
+     "value": "Mechanical watt meter"
+    }
+   ],
+   "description": "Each circuit has an LED that lights when power is active, and a mechanical watt meter shows what the connected load draws. Both are small features that change how you run a generator, because the dial tells you when you are near the engine's rating before the breaker does.\n\nIt is a 50 amp, ten-circuit box with ETL listing, so the capacity matches the Nature's Generator 50 amp unit minus two circuits. What you gain is feedback; what you give up is breaker flexibility, since two fewer slots means choosing what stays dark.\n\nThe watt meter is a mechanical gauge, so treat it as an estimate rather than a measurement. It still beats guessing, and it helps you start motor loads one at a time while watching the needle. A good habit is to note the reading with only the furnace and fridge running, then add one load at a time and stop when the needle nears about two thirds of the generator's rated output. That gives the engine headroom for startup surges, and it makes the dial a teaching tool for everyone in the household.",
+   "bestFor": "Owners who want live load feedback while running a large portable.",
+   "pros": [
+    "Watt meter shows load before breakers trip",
+    "LED lights confirm which circuits are live",
+    "ETL listing noted for inspection",
+    "Ten circuits on a 50A feed"
+   ],
+   "cons": [
+    "Mechanical meter is approximate",
+    "Two fewer circuits than the 12-circuit box"
+   ]
+  },
+  {
+   "id": "B0F1FLQK24",
+   "rank": 3,
+   "badge": "Best Prewired 50A",
+   "name": "VEVOR 50A 10-circuit prewired kit with CS6375 inlet",
+   "amazonUrl": "https://www.amazon.com/dp/B0F1FLQK24?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41nEz-SwlYL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "CS6375 inlet",
+    "NEMA 3R"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Inlet",
+     "value": "CS6375"
+    },
+    {
+     "label": "Generator limit",
+     "value": "12,500W"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R"
+    }
+   ],
+   "description": "The kit is prewired, which means the breakers, the switch bank and the inlet arrive assembled. That shortens the electrician's time, and the NEMA 3R enclosure covers outdoor mounting. The generator limit stated is 12,500 watts, consistent with a 50 amp, 240 volt path.\n\nCompared with the Pro/Tran2, the inlet is included and matched to the CS6375 plug, so there is no separate part to buy. The tradeoff is the same as with any newer import: fewer installer guides than the well-known panel brands.\n\nPair it with a generator that has a 14-50 or CS6375 outlet, and confirm the cord. Most owners add a 25 or 30 foot cord so the engine sits well clear of the house. Check that the cord gauge matches the 50 amp rating, because a thin cord on a long run heats up and drops voltage to the motors you are trying to protect. Over the long term, the plug and inlet contacts are the wear items, so inspect them for discolouration after any long outage.",
+   "bestFor": "Owners of 12,500 watt class generators who want an all-in-one 50A kit.",
+   "pros": [
+    "Prewired for faster installation",
+    "Inlet matched to the CS6375 plug",
+    "Rain-resistant 3R enclosure",
+    "Rated for up to 12,500W generators"
+   ],
+   "cons": [
+    "Documentation is thinner than established brands",
+    "Generator needs the matching 50A plug"
+   ]
+  },
+  {
+   "id": "B0G3SXHY4X",
+   "rank": 4,
+   "badge": "Best Familiar Panel Layout",
+   "name": "Pro/Tran2 50A 10-circuit manual transfer switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0G3SXHY4X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41IYuGBS88L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "240V",
+    "Tagged wires"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "50A"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Voltage",
+     "value": "240V"
+    },
+    {
+     "label": "Wiring",
+     "value": "Marked or tagged"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    }
+   ],
+   "description": "Pro/Tran2 follows the panel-style layout many electricians have wired before. The marked wiring in the listing is the useful part: tags on each conductor make the install less error-prone and the later inspection easier.\n\nThe listing leans on cost-effectiveness against pricier alternatives and calls for basic electrical knowledge, which is its polite way of saying hire a pro. It carries ten circuits, the same count as the ETL box with the watt meter but without the extras.\n\nThat plainness is its strength. There is less to fail, and a different electrician can read the layout years from now. If you want the dials and lights, look at the meter box instead.",
+   "bestFor": "Owners who value a conventional layout over extras.",
+   "pros": [
+    "Marked wiring helps installers",
+    "Conventional layout is easy to service",
+    "Ten circuits at 50A",
+    "No meters or lights to fail"
+   ],
+   "cons": [
+    "No load metering or indicator lights",
+    "Still needs a licensed install and 50A inlet"
+   ]
+  },
+  {
+   "id": "B0F1FHWRLS",
+   "rank": 5,
+   "badge": "Best Value 30A",
+   "name": "VEVOR 30A 6-circuit prewired kit with L14-30P inlet",
+   "amazonUrl": "https://www.amazon.com/dp/B0F1FHWRLS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UYjA-TIiL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A",
+    "6 circuits",
+    "L14-30P",
+    "7,500W"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Inlet",
+     "value": "L14-30P"
+    },
+    {
+     "label": "Generator limit",
+     "value": "7,500W"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R"
+    }
+   ],
+   "description": "This is the 30 amp answer for a mid-size portable generator. Six circuits are enough for a furnace blower, a fridge, a freezer, a few lights and one more branch, which is the realistic list for most outages.\n\nAgainst the 50 amp VEVOR, it limits capacity to 7,500 watts, but it also matches the L14-30 receptacle found on a great many portables. That match is the practical reason to buy it, because the cord and inlet are standard parts.\n\nIt lacks 240 volt breadth compared with the Nature's Generator box, so a deep-well pump needs a check against the breaker layout. Ask the electrician which pair, if any, is a 2-pole position. Over the years the weak spot is rarely the box itself; it is the inlet cover and the cord, both of which sit outdoors. A small tube of the manufacturer-approved contact protectant and a yearly look are all the upkeep it needs, and the stated 7,500 watt ceiling is also a convenient reminder not to push a bigger generator through it.",
+   "bestFor": "Mid-size portable owners covering six essential circuits.",
+   "pros": [
+    "Matches the common L14-30 generator outlet",
+    "Prewired and weatherproof enclosure",
+    "Six circuits cover core essentials",
+    "Cheaper install than a 50A box"
+   ],
+   "cons": [
+    "Limited 240V breadth",
+    "Capped at 7,500W of generator output"
+   ]
+  },
+  {
+   "id": "B0CSFRCZQ1",
+   "rank": 6,
+   "badge": "Best UL-Listed 30A",
+   "name": "Nature's Generator 30A 6-circuit 120V manual switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0CSFRCZQ1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CMuy8Eo1L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A",
+    "6 circuits",
+    "120V",
+    "UL listed"
+   ],
+   "specList": [
+    {
+     "label": "Amp rating",
+     "value": "30A at 120V"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Control",
+     "value": "Manual selector switches"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Fit",
+     "value": "Most portable generators"
+    }
+   ],
+   "description": "This kit is rated 30 amps at 120 volts across up to six circuits, with a manual selector per circuit. The point of that design is load management: you decide what runs, and the breaker on each branch protects the wiring.\n\nAs a 120 volt box, it is simpler than the 50 amp 12-circuit sibling and not suited to 240 volt pumps. That makes it a clean fit for a household of 120 volt appliances and a modest generator.\n\nUL listing is the feature to lean on during inspection. Remember that universal compatibility claims should still be checked against your generator's receptacle before you order. Because it carries 120 volt loads only, it pairs naturally with a smaller inverter generator, and many owners in that spot never need the extra breadth of a 50 amp box.",
+   "bestFor": "Households running only 120V circuits on a modest generator.",
+   "pros": [
+    "UL listing for inspection comfort",
+    "Manual selector per circuit",
+    "Simple 120V layout",
+    "Lower capacity means smaller box"
+   ],
+   "cons": [
+    "Not suited to 240V pump circuits",
+    "Compatibility claims need a receptacle check"
+   ]
+  },
+  {
+   "id": "B00FADDE0A",
+   "rank": 7,
+   "badge": "Best Lockout Approach",
+   "name": "The Original EZ Generator Switch, US-made",
+   "amazonUrl": "https://www.amazon.com/dp/B00FADDE0A?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/61dy3MzvZOL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Patented",
+    "UL/CSA/ETL",
+    "US-made",
+    "Panel add-on"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Manual transfer switch"
+    },
+    {
+     "label": "Approvals",
+     "value": "UL, CSA, ETL"
+    },
+    {
+     "label": "Origin",
+     "value": "Made in the USA"
+    },
+    {
+     "label": "Concept",
+     "value": "Panel-side lockout"
+    },
+    {
+     "label": "Use",
+     "value": "Whole-panel selection"
+    }
+   ],
+   "description": "This is a different concept from the circuit-bank boxes: a patented manual switch that works at the main panel to keep the utility and generator from being on together. The listing stresses UL, CSA and ETL approval and US assembly with customer support.\n\nThe contrast with the Nature's Generator box is plain. Instead of moving a fixed set of circuits, you manage what runs by breaker at the panel, so you have flexibility and the responsibility to avoid overloading the generator.\n\nCheck that it is listed for your specific panel brand and model before ordering, because panel compatibility is the main reason these devices are rejected. Installation still belongs to a licensed electrician.",
+   "bestFor": "Owners who want to choose any panel breaker on the day.",
+   "pros": [
+    "Approved by UL, CSA and ETL per the listing",
+    "US-made with customer support",
+    "Any panel breaker can be chosen",
+    "No separate circuit sub-panel needed"
+   ],
+   "cons": [
+    "Must match your exact panel brand and model",
+    "Easy to overload the generator by choosing too much"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Breaker type and layout",
+   "explanation": "Single-pole breakers feed 120 volt loads, and double-pole ones feed 240 volt loads like well pumps. The Nature's Generator 50 amp box swaps pairs to change layout, while the 120 volt 30 amp unit has a fixed arrangement. List your loads before choosing, and plan at least one spare slot."
+  },
+  {
+   "criterion": "Amp rating and generator output",
+   "explanation": "A 30 amp box such as the VEVOR six-circuit handles about 7,500 watts, and a 50 amp box such as the Pro/Tran2 can handle about 12,000 watts at 240 volts. Buying a 50 amp box for a 3,500 watt generator is wasted money. Match the rating to the generator receptacle."
+  },
+  {
+   "criterion": "Circuit count versus real loads",
+   "explanation": "Count what you must keep running: furnace, fridge, freezer, lights, internet. Six circuits cover most outages, and ten or twelve circuits only help if your generator can carry the combined draw. A tripped breaker is the box doing its job."
+  },
+  {
+   "criterion": "Metering and indicators",
+   "explanation": "The ETL box with a watt meter and LED lights shows load and live circuits, which the plain Pro/Tran2 does not. A mechanical meter is approximate, but it warns you before an overload. This is useful for owners new to managing a generator."
+  },
+  {
+   "criterion": "Listing and inspection",
+   "explanation": "UL or ETL marking, as on the Nature's Generator and meter box, helps with permits and insurance. An electrician or inspector may refuse an unmarked box. Ask the seller for the listing file and photograph the label on arrival."
+  },
+  {
+   "criterion": "Panel compatibility",
+   "explanation": "The EZ Generator Switch works at the panel, so it must be approved for your panel brand. Circuit-bank boxes avoid that issue but need space and extra wiring. Your electrician can tell you which approach suits your panel in minutes."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Circuit breaker",
+   "meaning": "A protective device that opens when current exceeds its rating. In these boxes it guards each generator-fed branch.",
+   "watchFor": "The VEVOR kits and Nature's Generator box include breakers; confirm amp ratings per circuit."
+  },
+  {
+   "spec": "Single vs double pole",
+   "meaning": "One pole serves a 120 volt line; two poles serve 240 volts. Pumps and dryers need two.",
+   "watchFor": "The Nature's Generator 50 amp box can be six 240 volt circuits."
+  },
+  {
+   "spec": "Generator limit",
+   "meaning": "The largest output the box is intended for, such as 7,500 or 12,500 watts.",
+   "watchFor": "VEVOR states both limits across its 30 and 50 amp kits."
+  },
+  {
+   "spec": "Watt meter",
+   "meaning": "A gauge showing the load in watts. Mechanical ones are rough.",
+   "watchFor": "Only the ETL 50 amp box here includes one."
+  },
+  {
+   "spec": "UL or ETL listing",
+   "meaning": "A third-party safety mark. It helps with permits and insurers.",
+   "watchFor": "Look for the mark on the product, not just in the listing."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Breaker flexibility",
+   "description": "We looked at how each box arranges its breakers and whether pairs can be swapped. The Nature's Generator 12-circuit unit scored highest here. Fixed layouts lost points for pump owners."
+  },
+  {
+   "title": "Capacity honesty",
+   "description": "We compared stated generator limits, such as 7,500 watts on the 30 amp VEVOR and 12,500 watts on the 50 amp one, to the real outlet types. Matching amp rating to receptacle matters more than the headline wattage."
+  },
+  {
+   "title": "Feedback features",
+   "description": "We gave credit to the LED lights and watt meter on the ETL 50 amp box. These help prevent overloads. They do not replace a load calculation."
+  },
+  {
+   "title": "Listing and support",
+   "description": "We favoured UL, CSA and ETL claims and US support, as in the EZ Generator Switch listing. We treated unmarked boxes with caution. This is based on spec sheets and owner feedback patterns."
+  },
+  {
+   "title": "Install practicality",
+   "description": "We considered prewiring, inlet inclusion and conventional layouts. These reduce electrician time. They do not remove the need for a licensed install."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Generator Receptacle",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "L14-30 generator outlet",
+      "VEVOR 30A 6-circuit",
+      "Matched L14-30P inlet"
+     ],
+     [
+      "50A generator outlet, mixed loads",
+      "Nature's Generator 50A",
+      "Breaker pairs swap 120V and 240V"
+     ],
+     [
+      "12,500W class generator",
+      "VEVOR 50A 10-circuit",
+      "Stated 12,500W limit and CS6375 inlet"
+     ],
+     [
+      "120V only, modest generator",
+      "Nature's Generator 30A",
+      "Simple six-circuit 120V box"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower cost 30A",
+      "VEVOR 30A 6-circuit",
+      "Prewired with inlet"
+     ],
+     [
+      "Lower cost UL-listed 30A",
+      "Nature's Generator 30A",
+      "UL listing in a small box"
+     ],
+     [
+      "Mid-range 50A",
+      "Pro/Tran2 50A",
+      "Familiar layout"
+     ],
+     [
+      "Premium 50A",
+      "Nature's Generator 50A",
+      "Twelve circuits and UL listing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Circuit Bank vs Panel Lockout",
+   "cards": [
+    {
+     "label": "Circuit bank",
+     "text": "Boxes like the Pro/Tran2 and VEVOR 50A move a fixed list of circuits and add per-circuit breakers. They limit what you can overload and take wall space."
+    },
+    {
+     "label": "Panel lockout",
+     "text": "The EZ Generator Switch acts at the main panel, so any breaker can be selected. It needs approval for your panel brand and trust that you will not overload the generator."
+    }
+   ],
+   "note": "Choose a circuit bank for guard rails, a panel lockout for flexibility."
+  },
+  {
+   "subheading": "By Load Awareness",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Want live watt readout",
+      "ETL 50A with watt meter",
+      "Mechanical meter and LEDs"
+     ],
+     [
+      "Want plain and serviceable",
+      "Pro/Tran2 50A",
+      "No extras to fail"
+     ],
+     [
+      "Want max circuits",
+      "Nature's Generator 50A",
+      "Twelve circuit slots"
+     ],
+     [
+      "Want least wiring",
+      "VEVOR 30A 6-circuit",
+      "Prewired six circuits"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Well Pumps Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A double-pole breaker position sized for the pump, plus a generator rated well above the pump's starting load. Pumps draw several times their running current at startup."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Nature's Generator 50A box and the VEVOR 50A kit offer 240 volt capacity, while the 30A 120V Nature's Generator unit does not."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a 50 amp generator, a 240 volt pump or you want UL listing, which points to the Nature's Generator 50A box or the meter-equipped ETL unit."
+    },
+    {
+     "label": "Save if",
+     "text": "You run a mid-size portable and a handful of 120V loads, where the VEVOR 30A six-circuit or the Nature's Generator 30A will do."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Exercise the switches",
+   "interval": "Twice a year",
+   "why": "Idle contacts can stick. Move each selector with the main off and the generator stopped."
+  },
+  {
+   "task": "Trip-test breakers",
+   "interval": "Yearly",
+   "why": "A breaker that never trips can seize. Use the test method in the manual, ideally with an electrician."
+  },
+  {
+   "task": "Refresh the circuit map",
+   "interval": "Yearly",
+   "why": "Loads change as appliances change. A current label avoids wrong choices in the dark."
+  },
+  {
+   "task": "Inspect the inlet and cover",
+   "interval": "Yearly",
+   "why": "Cracked covers let in water. Replace weather seals before storm season."
+  },
+  {
+   "task": "Check terminal tightness",
+   "interval": "Every few years",
+   "why": "Heat cycles loosen lugs. A technician can retorque to the printed value."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Why choose a transfer switch with breakers?",
+   "a": "Breakers protect each branch on the generator side and limit what you can overload. They also make it clear which circuit tripped. Without them a fault could stall the generator or damage wiring."
+  },
+  {
+   "q": "Are 30 amp or 50 amp switches better?",
+   "a": "Neither is better; match the generator. A 30 amp box such as the VEVOR six-circuit fits generators around 7,500 watts, and a 50 amp box such as the Nature's Generator unit fits larger ones. Oversizing adds cost without extra power."
+  },
+  {
+   "q": "Does a watt meter replace a load calculation?",
+   "a": "No. The mechanical meter on the ETL box gives a rough view while running. A load calculation before you buy tells you what the generator can carry safely."
+  },
+  {
+   "q": "Can I swap breakers in a transfer switch?",
+   "a": "Some boxes, like the Nature's Generator 50 amp, are designed for breaker pairs to be changed. Use only the breaker type the manufacturer lists, and have an electrician make the change."
+  },
+  {
+   "q": "What is the EZ Generator Switch compared with a circuit box?",
+   "a": "It works at the main panel to keep the two sources from being on together, so any breaker can be powered. A circuit box moves a fixed list of circuits. Check panel compatibility with the former."
+  },
+  {
+   "q": "Is installation a do-it-yourself job?",
+   "a": "No. These boxes connect to the main panel and require correct bonding. Hire a licensed electrician and obtain any required permit, and never backfeed through a dryer or wall outlet."
+  }
+ ],
+ "relatedGuides": []
+}

@@ -1,0 +1,22 @@
+# Generator accessories research notes (fuel cans, distribution boxes, RV generator sizing)
+
+- Gasoline cans are red, diesel yellow, kerosene blue by common convention; never mix fuels in a can marked for another.
+- Modern EPA/CARB spill-proof cans use a squeeze or push-to-pour spout; they pour slower and need a vent and a firm seat on the tank neck. Old-style vented cans are cheaper but no longer sold as new in many states.
+- Type I safety cans (metal, one opening, flame arrester) differ from Type II (two openings). Metal cans resist permeation and heat but dent and rust.
+- HDPE plastic cans do not rust; look for UV stabilised resin and a screw cap with a gasket.
+- Gasoline with ethanol absorbs moisture; stabiliser extends storage to about 12 months; fuel older than 3 to 6 months untreated risks gummed carburettors.
+- Fill cans outdoors on the ground, never in a truck bed or on a liner (static); leave expansion room, about 5 percent of volume.
+- Store away from living space, pilot lights, and direct sun; a shed or detached garage is the usual advice.
+- A five gallon can of gasoline weighs about 30 pounds full; pouring into a generator tank with a rigid nozzle is easier than lifting.
+- Wheeled fuel caddies (14 to 15 gallon) pump or gravity feed; they hold the heavy volume but need secure storage and are for transfer, not long storage.
+- Match fuel runtime: a 3.4 gallon generator tank at half load may last 8 to 12 hours; plan one can per run.
+- Power distribution (spider) boxes convert a generator's 30A or 50A outlet into several GFCI-protected 20A household outlets; GFCI matters outdoors and on wet ground.
+- A 30A L14-30 box splits 7,500 watts into 120V legs; each leg is limited to about 3,750 watts, so balance loads across both legs.
+- An inlet box is not the same as a distribution box; inlets feed a house, distribution boxes feed outlets.
+- OSHA-style job site boxes carry GFCI on every outlet; look for listing marks (ETL or UL) and a lockable cover.
+- RV air conditioners draw 13,500 to 15,000 BTU units about 12 to 16 amps running, with starting surges of roughly 2 to 3 times; a soft starter can cut that surge by a large fraction.
+- A typical 13,500 BTU RV AC runs on roughly 1,300 to 1,800 watts but can need 2,500 to 4,000 watts for the first second or two to start; so a 3,500 watt class inverter generator is the practical size without a soft starter, while 2,000 to 2,500 watt units need a soft starter and a smaller AC.
+- Rated watts, not peak watts, decide continuous AC operation; altitude cuts output about 3 percent per 1,000 feet.
+- Parallel two 2,000 to 2,500 watt inverter units for an AC only with a parallel kit and an AC that has a soft start.
+- Generators in campgrounds are noise limited and quiet hours apply; inverter models are far quieter.
+- Never run a generator inside an RV compartment or near slide-outs and windows; carbon monoxide risk is real, and a CO alarm in the RV is wise.
