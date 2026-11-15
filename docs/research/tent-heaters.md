@@ -1,0 +1,15 @@
+# Tent and camping heaters research
+- Families: radiant propane (Buddy style, 4,000 to 18,000 BTU), small butane/propane canister heaters (about 3,000 to 4,500 BTU), forced-air propane construction heaters (tens of thousands of BTU, outside the tent), wood stoves for hot tents with a chimney through a stove jack, electric ceramic for sites with hookups.
+- Propane holds roughly 21,000 BTU per pound, so a 1 lb cylinder at 9,000 BTU/hr lasts about 2 to 2.5 hours; at 4,000 BTU/hr about 5 hours. A 3,800 BTU unit stretches a 1 lb cylinder to roughly 5 to 6 hours.
+- Unvented combustion heaters consume oxygen and release carbon monoxide and water vapor. Carbon monoxide is odorless; it is the main fatal risk in a closed tent.
+- Indoor-safe radiant propane heaters carry an oxygen depletion sensor (ODS) that shuts the pilot off when oxygen falls, and a tip-over switch. They do not replace ventilation or a battery CO alarm.
+- Rule of practice: crack a vent high and a vent low, never sleep with a flame heater running, keep fabric well clear of the radiant face (manuals state minimum clearances), and set the heater on a flat stable surface.
+- Condensation: combustion adds moisture, which wets sleeping bags in a small tent. Dry electric heat adds none.
+- Wattage on campsites: standard 15A circuit gives about 1,800W continuous (80 percent rule); many campground pedestals share 20A or 30A across several loads. 1500W is about 5,100 BTU/hr; 500W is about 1,700 BTU/hr.
+- Electric heaters need weather protection, a heavy-gauge outdoor extension cord, and keep out of rain; ceramic indoor units are not splash rated.
+- Heat per cubic volume: a 2 or 3 person tent has very little air, so a 9,000 BTU unit overheats it on high; low settings and thermostats matter more than top output.
+- Cylinder type: 1 lb disposable cylinders screw straight on; larger tanks need a hose and regulator kit. Butane and isobutane blends lose pressure in freezing cold and may sputter; propane vaporizes down to about minus 40 degrees.
+- Backpacking: weight and fuel logistics rule it out for most trips; a stove-top or 1 lb heater adds weight and cylinder mass; most hikers rely on insulation, sleeping system and hot water bottles instead.
+- Wood stoves: need a hot tent with a stove jack and a spark arrestor, a stable site and constant attendance; they dry gear and handle deep cold but burn through wood and are heavy.
+- Ice and hot tent use: keep a CO alarm, never leave the heater unattended, store cylinders outside the sleeping area.
+- Radiant heaters warm objects and people in front of them; convection warms the air slowly in a drafty tent.

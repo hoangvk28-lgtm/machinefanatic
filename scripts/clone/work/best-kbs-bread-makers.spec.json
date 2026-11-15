@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-kbs-bread-makers",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "KBS bread makers",
+ "guideTitle": "Best KBS Bread Makers (2026)",
+ "metaTitle": "Best KBS Bread Makers in 2026",
+ "metaDescription": "Six KBS bread machines compared on motor wattage, loaf size, touchscreen controls, custom programs and ceramic pans, from the 710W 2.2LB to the 3LB 750W.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The KBS 2.2LB Smart Bread Maker with the color touchscreen and two custom programs is the pick for most bakers, because it adds recipe control to a 710-watt dual-heater machine. The KBS 19-in-1 with custom menus is the value pick, with a gluten-free and sourdough program set at the lowest cost in the group. Anyone who only wants a plain white loaf should skip the line, since a basic machine does that for far less.",
+ "introParagraphs": [
+  "This maker has built a large range of stainless-bodied bread machines around the same set of ideas: dual heaters, a ceramic-coated pan, a high-wattage motor and a long program list. The models differ in loaf size, motor power and control style, and the product names make the differences hard to see.",
+  "That is why a buying guide has to sort the range by what actually changes the bread. Motor power decides how well the machine handles dense dough, the loaf size decides how much you bake, and a touchscreen or custom program decides how much control you have over the cycle. This guide sorts six machines along those lines."
+ ],
+ "products": [
+  {
+   "id": "B0GWPX53NC",
+   "badge": "Best Overall",
+   "name": "KBS 2.2LB Smart Bread Maker, 20-in-1, Color Touchscreen, 2 Custom Programs",
+   "specs": [
+    "2.2 lb",
+    "Touchscreen",
+    "Dual heaters",
+    "2 custom"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2.2 pounds"
+    },
+    {
+     "label": "Display",
+     "value": "Color touchscreen"
+    },
+    {
+     "label": "Programs",
+     "value": "20 automatic and 2 custom"
+    },
+    {
+     "label": "Heaters",
+     "value": "Dual"
+    },
+    {
+     "label": "Pan",
+     "value": "True ceramic"
+    }
+   ],
+   "description": "What marks this model out is the control layer. A large color touchscreen replaces the small monochrome display found on traditional machines, and two custom programs let you set your own knead, rise and bake stages for a recipe that does not fit the standard menu. Twenty automatic programs cover the usual breads, and dual heaters and a true ceramic pan handle the baking.\n\nThe custom programs matter for baking styles that need unusual timing, such as long-rise doughs or sourdough-style loaves. A touchscreen is easier to read at arm's length than small buttons, but it is also a panel that can fail if steam and flour reach it, so the placement on the counter matters. Compared with the KBS Premium, it adds the screen and the custom programs at a higher cost.\n\nThe maker pitches the machine for zero-additive homemade bread, which is a reminder that the point of a bread machine is control over ingredients. The ceramic pan should be hand washed and the screen wiped with a barely damp cloth. The B0HMZXSJRY listing describes a closely related touchscreen model with a 710-watt motor, so check the specification you are buying.",
+   "bestFor": "Bakers who want to design their own cycles and read the display easily.",
+   "pros": [
+    "Color touchscreen is easy to read",
+    "Two custom programs for unusual recipes",
+    "Dual heaters and true ceramic pan",
+    "Twenty automatic programs"
+   ],
+   "cons": [
+    "Touchscreen is a failure point near steam",
+    "Higher cost than the button models",
+    "Custom programs need some baking skill"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GWPX53NC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41yGbh4oFoL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07ZQ711SW",
+   "badge": "Best Convection Baker",
+   "name": "KBS Premium 2.2LB Convection Bread Maker, Dual Heaters, 710W",
+   "specs": [
+    "2.2 lb",
+    "710 W",
+    "Convection",
+    "Horizontal pan"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2.2 pounds"
+    },
+    {
+     "label": "Motor",
+     "value": "710 watts"
+    },
+    {
+     "label": "Heaters",
+     "value": "Dual convection-style"
+    },
+    {
+     "label": "Pan",
+     "value": "Horizontal ceramic"
+    },
+    {
+     "label": "Programs",
+     "value": "17 with 53 recipes"
+    }
+   ],
+   "description": "The Premium is the machine built for baking quality. Dual heaters give a convection-style bake, a 710-watt motor kneads strongly and quietly, and a horizontal ceramic pan makes a loaf shaped like store-bought bread instead of a tall narrow one. The stainless steel body is durable and wipes clean.\n\nSeventeen programs and a set of 53 recipes cover everyday loaves, dough and jam. It lacks the touchscreen and custom programs of the Smart model, so it follows the standard cycles. Beside the KBS Pro, it adds the second heater and the horizontal pan, which is the upgrade that most improves the crust.\n\nIn year three the pan coating is the part to watch, so hand wash it and avoid metal utensils. The vents need clearance, since a convection design moves air around the chamber.",
+   "bestFor": "Bakers who care most about crust and a conventional loaf shape.",
+   "pros": [
+    "Dual heaters for convection-style baking",
+    "710-watt motor kneads thick doughs",
+    "Horizontal pan makes a conventional loaf",
+    "Stainless steel body wipes clean"
+   ],
+   "cons": [
+    "No touchscreen or custom programs",
+    "Large and heavy for a small counter",
+    "Higher cost than single-heater machines"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07ZQ711SW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mjyJXbOfL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FQC2LQ32",
+   "badge": "Best Value",
+   "name": "KBS 2.2LB 19-in-1 Bread Maker, Ceramic Pan, Custom Menus, Gluten-Free",
+   "specs": [
+    "2.2 lb",
+    "19 programs",
+    "Custom menus",
+    "Sourdough"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2.2 pounds"
+    },
+    {
+     "label": "Programs",
+     "value": "19 with 53 recipes"
+    },
+    {
+     "label": "Custom",
+     "value": "Adjustable duration for each stage"
+    },
+    {
+     "label": "Airflow",
+     "value": "360-degree hot air circulation"
+    },
+    {
+     "label": "Includes",
+     "value": "Gluten-free and sourdough programs"
+    }
+   ],
+   "description": "The 19-in-1 is the value pick because it packs custom control and specialty programs into the lowest-cost body. Nineteen programs include gluten-free and sourdough, 53 recipes come with the machine, and the program can be customized so you tailor the duration of each baking stage. A ceramic nonstick pan and 360-degree hot air circulation complete the baking system.\n\nThe lower cost comes with fewer extras: there is no touchscreen listed, and the motor and heater details are less prominent than on the 710-watt models. For a baker who wants gluten-free and sourdough programs without paying for a screen, that is the right balance. Compared with the Smart model, it has fewer programs and a simpler display.\n\nThe custom stage durations are the feature to explore, since they let you lengthen a rise for a more flavorful loaf. Hand wash the ceramic pan and keep the receipt for the first year.",
+   "bestFor": "Bakers who want gluten-free and sourdough programs at the lowest cost.",
+   "pros": [
+    "Gluten-free and sourdough programs included",
+    "Custom stage durations",
+    "53 recipes come with the machine",
+    "360-degree hot air circulation"
+   ],
+   "cons": [
+    "No touchscreen listed",
+    "Motor details are less prominent",
+    "Fewer programs than the 20-in-1"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FQC2LQ32?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oqrx8tgGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07BYXHYLY",
+   "badge": "Best with Dispenser",
+   "name": "KBS Pro 710W 2.2LB Stainless Bread Maker, Ceramic Pan, Nut Dispenser",
+   "specs": [
+    "2.2 lb",
+    "710 W",
+    "Nut dispenser",
+    "17 programs"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2.2 pounds"
+    },
+    {
+     "label": "Motor",
+     "value": "710 watts"
+    },
+    {
+     "label": "Dispenser",
+     "value": "Automatic stainless steel"
+    },
+    {
+     "label": "Pan",
+     "value": "Healthy ceramic pan and paddle"
+    },
+    {
+     "label": "Programs",
+     "value": "17 with 53 recipes"
+    }
+   ],
+   "description": "The Pro adds an automatic stainless steel dispenser for fruit and nuts to the 710-watt motor and 17 programs of the Premium. The dispenser releases mix-ins at the right moment, so raisins and seeds are mixed evenly instead of being crushed in the first knead, and it makes a delay-timer bake of a fruit loaf possible.\n\nThe tradeoff is the heater layout. It is a single-heater design, so the top browns less evenly than on the dual-heater Premium. Beside the Premium, it is the pick for fruit and nut breads rather than for crust.\n\nWash the dispenser by hand after each use, because sticky fruit leaves residue. The ceramic pan and paddle should be treated gently.",
+   "bestFor": "Bakers who make raisin, seeded and nut breads often.",
+   "pros": [
+    "Automatic stainless steel nut dispenser",
+    "710-watt motor kneads strongly",
+    "Ceramic pan and paddle",
+    "17 programs with 53 recipes"
+   ],
+   "cons": [
+    "Single heater browns the top less evenly",
+    "Dispenser adds a part to clean",
+    "No touchscreen or custom programs"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07BYXHYLY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41x9Srt38tL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G3PYC22B",
+   "badge": "Best Quiet Motor",
+   "name": "KBS 20-in-1 Programmable 2.2LB Bread Maker, 650W Variable-Frequency Motor",
+   "specs": [
+    "2.2 lb",
+    "650 W",
+    "Variable motor",
+    "20 menus"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2.2 pounds"
+    },
+    {
+     "label": "Motor",
+     "value": "650-watt variable-frequency"
+    },
+    {
+     "label": "Programs",
+     "value": "20 menus with a smart customization program"
+    },
+    {
+     "label": "Paddle",
+     "value": "Stainless steel"
+    },
+    {
+     "label": "Airflow",
+     "value": "360-degree hot air circulation"
+    }
+   ],
+   "description": "This model changes the motor. A 650-watt variable-frequency motor varies its speed instead of running at a fixed rate, which can make kneading quieter and gentler on the dough at low speeds and stronger when it is needed. A stainless steel paddle replaces the ceramic one, and a ceramic nonstick pan and 360-degree hot air circulation handle the bake.\n\nTwenty menus include a smart customization program, and a four-season constant temperature system is meant to keep results steady through the year. It is a smaller motor than the 710-watt machines, but a smarter one. Next to the Premium, it offers more menus and a quieter knead but a lower peak power.\n\nThe stainless paddle is more durable than a coated one, though it can scratch a ceramic pan if it seizes, so soak it before removing.",
+   "bestFor": "Bakers who want a quieter knead and a durable paddle.",
+   "pros": [
+    "Variable-frequency motor for quieter kneading",
+    "Stainless steel paddle is durable",
+    "Twenty menus with a customization program",
+    "Four-season constant temperature system"
+   ],
+   "cons": [
+    "Lower peak power than the 710-watt models",
+    "Stainless paddle can scratch the pan if forced",
+    "Less established than the older KBS models"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0G3PYC22B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412pFcKbJqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GQF4RHQ3",
+   "badge": "Best for Large Families",
+   "name": "KBS 750W Programmable Bread Maker, 3LB Ceramic Pan, Fruit Dispenser",
+   "specs": [
+    "3 lb",
+    "750 W",
+    "20 menus",
+    "Fruit dispenser"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "3 pounds"
+    },
+    {
+     "label": "Motor",
+     "value": "750-watt brushless"
+    },
+    {
+     "label": "Heaters",
+     "value": "Infrared dual"
+    },
+    {
+     "label": "Programs",
+     "value": "20 menus with 2 custom"
+    },
+    {
+     "label": "Pan",
+     "value": "Ceramic with a fruit dispenser"
+    }
+   ],
+   "description": "The 3LB is the largest and most powerful machine in the range. A 750-watt ultra-quiet brushless motor drives a 3-pound ceramic pan, infrared dual heaters bake from above and below, and a fruit dispenser handles mix-ins. Twenty menus and two custom programs round out the controls.\n\nThe size is both the draw and the drawback. A 3-pound loaf feeds a large household, but the machine is heavy and takes a lot of counter space, and a loaf that big needs exact flour measurement. Compared with the 2.2LB models, it adds capacity and a stronger motor, at the cost of footprint.\n\nThe pan is sintered at high temperature and cast to a thick wall, which helps heat retention but makes it heavy to lift. Use a smaller loaf setting for everyday baking.",
+   "bestFor": "Large households and bakers who give loaves as gifts.",
+   "pros": [
+    "3-pound capacity for large loaves",
+    "750-watt brushless motor",
+    "Infrared dual heaters",
+    "Two custom programs and a fruit dispenser"
+   ],
+   "cons": [
+    "Heavy and bulky on the counter",
+    "Large loaves need exact measuring",
+    "Pan is heavy to lift"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQF4RHQ3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41zxrG+JGcL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Motor power and type",
+   "explanation": "The range spans 650, 710 and 750 watts, and one model uses a variable-frequency motor. A stronger motor kneads dense whole grain doughs without stalling. The 650-watt variable motor is quieter and adjusts speed, while the 710 and 750-watt models offer more raw power. For rye and multigrain, favor 710 watts or more. A machine that groans, heats up or walks across the counter during kneading is working too hard, so cut the flour to the low end of the recipe and use a non-slip mat under the base."
+  },
+  {
+   "criterion": "Heater layout",
+   "explanation": "The Premium and the Smart model use dual heaters, and the 3LB uses infrared dual heaters. The Pro is a single-heater design. Dual heaters give an even crust on tall loaves, while a single heater leaves the top paler. If appearance matters, choose dual. The difference is clearest on whole wheat and sweet doughs, which brown on the outside while the top stays damp in a single-heater machine. A dark crust setting can partly compensate on the Pro, but it will not fix an underbaked crown."
+  },
+  {
+   "criterion": "Controls and custom programs",
+   "explanation": "The Smart model has a color touchscreen and two custom programs, the 19-in-1 offers adjustable stage durations and the 3LB has two custom programs. Custom control matters for sourdough-style and long-rise recipes. If you bake from standard recipes, a button display is enough. Custom programs reward note-taking: record each change to the knead, rise and bake times so you can reproduce a good loaf, because a slot that is overwritten without a record is easy to lose."
+  },
+  {
+   "criterion": "Loaf size",
+   "explanation": "Most of the range bakes 2.2 pounds, which suits a family for two days. The 3LB bakes up to 3 pounds for large households. A bigger loaf needs a bigger counter and more exact measuring. Choose the size you will finish before it goes stale. A homemade loaf has no preservatives, so a 3-pound loaf in a small household often ends up half in the freezer. Slice and freeze portions on baking day to keep the bread fresh."
+  },
+  {
+   "criterion": "Dispenser",
+   "explanation": "The Pro and the 3LB list dispensers that drop fruit and nuts at the right time. Without one you add mix-ins at the beep. A dispenser makes fruit loaves possible on a delay timer. Toss sticky dried fruit in a spoonful of flour first so it separates, and keep the compartment dry, since damp raisins clump and release unevenly."
+  },
+  {
+   "criterion": "Pan and paddle",
+   "explanation": "All models use ceramic-coated pans that should be hand washed. The 650-watt model uses a stainless steel paddle, which is durable but can scratch a pan if forced. Check that replacement pans and paddles are available. Because the product names in this range are long and similar, note the exact model on the label of your machine so a replacement part is the right one, and keep the order confirmation for any warranty claim."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "710 W",
+   "meaning": "The motor power on the Premium and Pro. More watts means stronger kneading for dense dough.",
+   "watchFor": "The Smart model lists a 710-watt motor in a related listing; check the exact model."
+  },
+  {
+   "spec": "Variable-frequency motor",
+   "meaning": "A motor whose speed varies with load, for quieter kneading and more precise control.",
+   "watchFor": "Listed on the 650-watt 20-in-1."
+  },
+  {
+   "spec": "Custom programs",
+   "meaning": "Slots that let you set your own knead, rise and bake times for a recipe.",
+   "watchFor": "Listed on the Smart model and the 3LB."
+  },
+  {
+   "spec": "Convection baking",
+   "meaning": "A heater and airflow arrangement that circulates hot air for an even bake.",
+   "watchFor": "The Premium and 19-in-1 list hot air or convection."
+  },
+  {
+   "spec": "Horizontal pan",
+   "meaning": "A wide, flat pan that makes a conventional loaf shape instead of a tall narrow one.",
+   "watchFor": "Listed on the Premium."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Verified KBS range",
+   "description": "We kept distinct KBS machines and merged near-identical listings such as the touchscreen variants. We set aside other brands. That left six machines across 2.2 and 3 pounds."
+  },
+  {
+   "title": "Motor and heaters",
+   "description": "We compared 650, 710 and 750 watts and the dual, infrared and single heater layouts. We weighted motor reserve and even browning."
+  },
+  {
+   "title": "Controls and programs",
+   "description": "We compared touchscreens, button displays and custom programs. The Smart model led for control. We weighted the useful programs over the count."
+  },
+  {
+   "title": "Size and convenience",
+   "description": "We looked at loaf size, dispensers and paddles. The 3LB is the largest, and the Pro and 3LB have dispensers."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Buyer feedback entered only as repeating themes in what owners say about each loaf maker. Pan wear, touchscreen care and loaf size recurred. They shaped the tradeoffs we list. We also noted that many owners buy these machines for the ceramic pan and the recipe set, so we gave weight to how the pan is treated and how easy it is to replace."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Baking Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Custom recipes and long rises",
+      "KBS 2.2LB Smart Bread Maker",
+      "Touchscreen and two custom programs"
+     ],
+     [
+      "Best crust",
+      "KBS Premium 2.2LB Convection",
+      "Dual heaters and horizontal pan"
+     ],
+     [
+      "Fruit and nut breads",
+      "KBS Pro 710W",
+      "Automatic dispenser"
+     ],
+     [
+      "Gluten-free and sourdough on a budget",
+      "KBS 2.2LB 19-in-1",
+      "Specialty programs"
+     ],
+     [
+      "Quiet kneading",
+      "KBS 20-in-1 650W",
+      "Variable-frequency motor"
+     ],
+     [
+      "Large family loaves",
+      "KBS 750W 3LB",
+      "3-pound capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "KBS 2.2LB 19-in-1",
+      "Entry with specialty programs"
+     ],
+     [
+      "Low to middle",
+      "KBS Pro 710W",
+      "Dispenser and strong motor"
+     ],
+     [
+      "Middle",
+      "KBS 20-in-1 650W",
+      "Variable motor and menus"
+     ],
+     [
+      "Upper",
+      "KBS Premium 2.2LB",
+      "Dual heaters"
+     ],
+     [
+      "Higher",
+      "KBS 2.2LB Smart",
+      "Touchscreen and custom programs"
+     ],
+     [
+      "Premium",
+      "KBS 750W 3LB",
+      "Largest loaf"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Touchscreen vs Button Display",
+   "cards": [
+    {
+     "label": "Touchscreen",
+     "text": "The Smart model's color screen is easy to read and supports custom programs. It is a panel that can fail near steam."
+    },
+    {
+     "label": "Button display",
+     "text": "The Premium, Pro and 19-in-1 use simpler displays. They are less flexible but more forgiving of splashes."
+    }
+   ],
+   "note": "Choose the touchscreen if you customize recipes, and a button display if you want simplicity."
+  },
+  {
+   "subheading": "Motor Type",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Highest power",
+      "KBS 750W 3LB",
+      "750-watt brushless motor"
+     ],
+     [
+      "Strong and proven",
+      "KBS Premium 2.2LB",
+      "710 watts"
+     ],
+     [
+      "Quiet and adaptive",
+      "KBS 20-in-1 650W",
+      "Variable frequency"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Gluten-Free and Sourdough Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A dedicated gluten-free program, custom stage durations for long rises and a pan that releases sticky dough."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The 19-in-1 lists gluten-free and sourdough programs, and the Smart model adds custom programs for full control."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You customize recipes or bake large loaves. The Smart model or the 3LB justify their cost with control and capacity."
+    },
+    {
+     "label": "Save if",
+     "text": "You bake standard loaves. The 19-in-1 gives specialty programs at the lowest cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Hand wash the pan and paddle",
+   "interval": "After every bake",
+   "why": "Dishwashers shorten the life of ceramic coatings. Warm soapy water and a soft sponge are enough."
+  },
+  {
+   "task": "Soak a stuck paddle",
+   "interval": "As needed",
+   "why": "Dough bakes around the paddle shaft. A warm soak frees it without prying, which matters most with a stainless paddle that can scratch the pan if forced out."
+  },
+  {
+   "task": "Wipe the touchscreen",
+   "interval": "Weekly",
+   "why": "Steam and flour dust reach the screen. Use a barely damp cloth and dry it, and never spray cleaner directly onto the panel."
+  },
+  {
+   "task": "Clean the dispenser",
+   "interval": "After use",
+   "why": "Sticky fruit leaves residue. Wash by hand and dry fully so the next load of nuts does not stick or jam."
+  },
+  {
+   "task": "Check vents and the lid",
+   "interval": "Monthly",
+   "why": "Convection models move air through the chamber. Clear vents and a clean lid keep baking even, and a dusty vent can make the machine run hotter than needed."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which KBS bread maker is best?",
+   "a": "The 2.2LB Smart Bread Maker for most bakers, thanks to the touchscreen and custom programs. The Premium is best for crust and a conventional loaf. The 19-in-1 is best for value, with gluten-free and sourdough programs at the lowest cost in the group."
+  },
+  {
+   "q": "Is 710 watts better than 650 watts?",
+   "a": "For dense doughs, a higher wattage gives more reserve and a cooler-running motor. The 650-watt model uses a variable-frequency motor that adjusts speed, so the gap is smaller than the numbers suggest. For standard loaves the difference is small."
+  },
+  {
+   "q": "Do KBS machines make gluten-free bread?",
+   "a": "The 19-in-1 lists gluten-free and sourdough programs, and most models include a gluten-free setting. Use a mix designed for machines, scrape the pan during the knead and let the loaf cool before slicing."
+  },
+  {
+   "q": "Are the models with similar names the same?",
+   "a": "Not always. Near-identical listings can differ in motor wattage or program count, so check the specification before buying. The touchscreen listings in particular share a name but can differ in the motor figure."
+  },
+  {
+   "q": "How big a loaf can I bake?",
+   "a": "Most models bake up to 2.2 pounds. The 3LB bakes up to 3 pounds. Smaller loaf sizes are usually available, which is helpful when you bake for one or two people and want fresher bread."
+  },
+  {
+   "q": "How long do these machines last?",
+   "a": "The motor and heaters often last years. The pan and paddle are the wear items. Keep the screen dry and the vents clear, and replace the pan as soon as the coating flakes."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41yGbh4oFoL._SL500_.jpg"
+}

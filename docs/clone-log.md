@@ -485,3 +485,9 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Skipped (near-dup vs published): best-food-processor-and-blender-combos, best-small-bread-makers.
 - Skipped (<3 real brand/type machines): breville, ninja, oster, west-bend, cuisinart, sunbeam bread makers; best-zojirushi-mini-bread-makers; crock-pot pressure cookers; cuisinart and all-clad slow cookers; magimix food processors; best-13-cup and best-5-cup food processors; best-slow-cookers-with-stainless-steel-inserts.
 - Checks: audit 0 fails, no 【, no 40+ char sentence in 3+ guides, top description opening 5 (after a Sonnet repetition-fix pass), tsc ok, build ok.
+
+## Round 35 (2026-11-15): RV, tent and patio heaters, 27 guides
+- Topics: 15 RV space heater (r35a.txt) + 12 patio/tent/camping heater (r35b.txt) slugs. 2 Sonnet writers, 3,000 to 3,793 words, 3 to 7 products.
+- Skipped: best-space-heaters-for-rvs (near-dup of best-rv-space-heater), best-pellet-patio-heaters (1 item in data), best-catalytic-heater-for-large-rv (only 2 real catalytic heaters).
+- New research: docs/research/tent-heaters.md.
+- Checks: audit 0 fails, no 【, one short safety sentence in 3 guides, top description opening 5, tsc ok, build ok.

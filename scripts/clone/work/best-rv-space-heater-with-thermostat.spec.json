@@ -1,0 +1,585 @@
+{
+ "guideSlug": "best-rv-space-heater-with-thermostat",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best rv space heater with thermostat",
+ "guideTitle": "Best RV Space Heaters with Thermostat (2026)",
+ "metaTitle": "Best RV Space Heaters with Thermostat 2026",
+ "metaDescription": "Six RV space heaters with real thermostats compared: digital sensors, dial controls, wall-mount and milkhouse designs, with notes on cycling and 30 amp loads.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The DREO 1500W with a digital thermostat is the best thermostat heater for an RV because it holds a set point quietly, and the Good Housekeeping 750W wall unit is the value pick for a small cabin. Owners who sleep on a mild coast and only need a boost can skip the thermostat and buy any plain heater.",
+ "introParagraphs": [
+  "A thermostat turns a space heater from a device you babysit into one that manages itself. It senses the room, cuts the element when the target is reached and brings it back when the temperature drops.",
+  "In an RV that matters twice over. A small cabin overshoots quickly, so a heater without control swings between stuffy and cold, and a controlled heater also draws far less on average. The quality of the thermostat decides how well that works."
+ ],
+ "products": [
+  {
+   "id": "B095PP1GZR",
+   "badge": "Best Overall",
+   "name": "DREO 1500W Heater with Digital Thermostat and 34 dB Claim",
+   "specs": [
+    "1500W PTC",
+    "Digital thermostat",
+    "34 dB claim",
+    "ETL certified"
+   ],
+   "specList": [
+    {
+     "label": "Element",
+     "value": "1500W PTC ceramic"
+    },
+    {
+     "label": "Thermostat",
+     "value": "Digital"
+    },
+    {
+     "label": "Noise claim",
+     "value": "34 dB"
+    },
+    {
+     "label": "Airflow",
+     "value": "Oblique fan wheel, 70 degree sweep"
+    },
+    {
+     "label": "Safety",
+     "value": "ETL certified, V0 flame retardant"
+    }
+   ],
+   "description": "This DREO pairs a 1500 watt PTC ceramic element with a digital thermostat and a fan wheel that uses oblique airflow to cut turbulence and noise. The maker quotes 34 decibels, a claim you should treat as a lower bound, and lists ETL certification with V0 flame-retardant plastics. A digital sensor holds the room closer to the set point than a mechanical dial does.\n\nA tight set point is what saves electricity, because the element cycles off as soon as the target is reached. It also keeps the fan from alternating between loud and silent, which is what wakes sleepers. Alongside the Amazon Basics dial model in this roundup, the extra cost buys accuracy and a quieter fan.\n\nOn high it draws about 12.5 amps, so plan the circuit. Set the thermostat two or three degrees under your comfort limit and let the stored warmth in the cabin do the rest. Vacuum the grille monthly, since dust is the main cause of rising fan noise. A second habit worth building is to park the heater where the thermostat reads the middle of the cabin, not the cold air sliding under a door, which otherwise keeps it running far longer than needed.",
+   "bestFor": "Daily RV heating where a tight set point and quiet running matter.",
+   "pros": [
+    "Digital sensor holds a tight set point",
+    "Oblique airflow fan keeps noise low",
+    "ETL certified with V0 flame-retardant plastics",
+    "70 degree sweep spreads warmth"
+   ],
+   "cons": [
+    "High setting draws about 12.5 amps",
+    "Noise figure is a maker claim",
+    "Costs more than dial-thermostat units"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B095PP1GZR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41s5nIlULzL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H9L2LSHJ",
+   "badge": "Best Flexible Mount",
+   "name": "Ambiora 1500W PTC Heater with ECO Thermostat and 12H Timer",
+   "specs": [
+    "1500W PTC",
+    "ECO thermostat",
+    "12H timer",
+    "3 mounting options"
+   ],
+   "specList": [
+    {
+     "label": "Element",
+     "value": "1500W PTC ceramic"
+    },
+    {
+     "label": "Thermostat",
+     "value": "ECO regulation"
+    },
+    {
+     "label": "Timer",
+     "value": "12 hours"
+    },
+    {
+     "label": "Mounting",
+     "value": "Wall mount, hook or desktop"
+    },
+    {
+     "label": "Warm-up claim",
+     "value": "3 seconds"
+    }
+   ],
+   "description": "Ambiora's heater offers three ways to place it: screwed to the wall, hung on a built-in hook or sat on a desktop. The 1500 watt PTC element pairs with a high-speed turbo fan, and the maker claims warm air in about three seconds. An ECO mode regulates temperature by adjusting power, which is a more refined approach than simply cycling on and off.\n\nA 12 hour timer and a remote complete the control set. The flexible mounting is the attraction for RVs: the same heater can live on a wall in winter and sit on a shelf elsewhere. Next to the DREO, it has a less proven brand and a turbo fan that is likely to be louder at high speed.\n\nIf you wall mount it, anchor it to a stud or backing plate and leave clearance on all sides. Dust the intake each season. Refresh the remote battery before cold weather. If you use the timer, check it against the clock on the first night, because owners sometimes mistake the timer setting for the temperature setting and wake to a cold cabin.",
+   "bestFor": "Owners who want to move between wall, hook and desktop placement.",
+   "pros": [
+    "Three mounting options in one heater",
+    "ECO mode regulates output",
+    "12 hour timer and remote",
+    "PTC element warms in seconds"
+   ],
+   "cons": [
+    "Turbo fan is likely louder on high",
+    "Less established brand",
+    "Full 12.5 amp draw on high"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H9L2LSHJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41iqQGa78tL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DLJDFFMH",
+   "badge": "Best Value Wall Unit",
+   "name": "Good Housekeeping 750W Wall-Mount Heater with Thermostat and Remote",
+   "specs": [
+    "750W",
+    "Wall mount",
+    "Digital display",
+    "Cool-touch housing"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "750W"
+    },
+    {
+     "label": "Draw",
+     "value": "About 6.3 amps"
+    },
+    {
+     "label": "Mount",
+     "value": "Wall mount"
+    },
+    {
+     "label": "Display",
+     "value": "Digital readout"
+    },
+    {
+     "label": "Safety",
+     "value": "Overheat protection, cool-touch housing"
+    }
+   ],
+   "description": "This 750 watt wall-mount heater has a thermostat, a remote and an easy-to-read digital display, with overheat protection and a cool-touch housing. At about 6.3 amps it sits comfortably on a shared 30 amp circuit. The wall mount keeps it off the floor.\n\nA 750 watt heater suits a small bedroom, a bath or a van-sized cabin, not a long trailer. Cool-touch housing matters in a tight space where you might brush the unit. Against the DREO, it has less output and less reach but a much lower draw.\n\nSince it hangs on a wall, locate studs or use proper anchors. Keep curtains clear and leave a hand of space above and beside it, because a wall unit that is crowded by cabinetry will cut out early. Wipe the display with a dry cloth. The licensed brand name on the box says nothing about the maker, so register the heater and keep the paperwork, since support runs through the actual manufacturer.",
+   "bestFor": "Small cabins and bathrooms that need steady low-draw warmth.",
+   "pros": [
+    "750W draws only about 6.3 amps",
+    "Digital display and remote",
+    "Cool-touch housing",
+    "Wall mount frees floor space"
+   ],
+   "cons": [
+    "750W is limited for larger spaces",
+    "Fixed mounting needs installation",
+    "Brand name is a licensed label"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DLJDFFMH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/510mk99jmCL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H7LNLXKV",
+   "badge": "Best Stepped Power Pick",
+   "name": "TMHEI 750W/1000W/1500W PTC Heater with Thermostat and Remote",
+   "specs": [
+    "750/1000/1500W",
+    "Touch buttons",
+    "Thermostat",
+    "Carry handle"
+   ],
+   "specList": [
+    {
+     "label": "Power steps",
+     "value": "750W, 1000W, 1500W"
+    },
+    {
+     "label": "Control",
+     "value": "Touch buttons and remote"
+    },
+    {
+     "label": "Thermostat",
+     "value": "Built in"
+    },
+    {
+     "label": "Handle",
+     "value": "Built-in carry handle"
+    },
+    {
+     "label": "Housing",
+     "value": "Flame-retardant"
+    }
+   ],
+   "description": "TMHEI's PTC ceramic heater offers three power levels, 750, 1000 and 1500 watts, plus a thermostat and remote. Touch-sensitive buttons and a built-in carry handle make it easy to use and move. The housing is flame-retardant.\n\nThree steps give you a ladder for shared circuits: 750 watts draws about 6.3 amps and 1000 watts about 8.3. A thermostat on top of stepped output is a strong combination, because it lets you pick a step and then let the thermostat do the cycling. Beside the Ambiora, it lacks mounting flexibility but has a clearer power ladder.\n\nTouch buttons can be fiddly with gloves, so use the remote in cold weather. Wipe the panel gently. Store it with the cord coiled loosely and the remote taped to the side or tucked in a labelled bag. When the weather turns truly cold, run it on the middle step with the thermostat set around the high sixties, which holds a small cabin well without ever asking the breaker for the full amount.",
+   "bestFor": "Owners who want a clear power ladder plus a thermostat.",
+   "pros": [
+    "Three steps from 750W to 1500W",
+    "Thermostat and remote included",
+    "Built-in carry handle",
+    "Flame-retardant housing"
+   ],
+   "cons": [
+    "Touch buttons are fiddly with gloves",
+    "Less known brand",
+    "No mounting option"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H7LNLXKV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oLZ7XGjVL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CB65YF3J",
+   "badge": "Best Rugged Pick",
+   "name": "BEYOND HEAT 1500W Milkhouse Heater with Thermostat",
+   "specs": [
+    "Fan/1300W/1500W",
+    "Metal housing",
+    "Thermostat",
+    "Tip-over switch"
+   ],
+   "specList": [
+    {
+     "label": "Settings",
+     "value": "Fan only, 1300W, 1500W"
+    },
+    {
+     "label": "Draw at 1500W",
+     "value": "About 12.5 amps"
+    },
+    {
+     "label": "Housing",
+     "value": "Heavy-duty material"
+    },
+    {
+     "label": "Control",
+     "value": "Thermostat"
+    },
+    {
+     "label": "Safety",
+     "value": "Tip-over switch"
+    }
+   ],
+   "description": "A milkhouse heater is a utility fan heater with a metal case, designed for barns, shops and tough environments. This one offers fan-only, 1300 watt and 1500 watt settings with a thermostat and a tip-over switch. The heavy-duty casing handles the knocks that a plastic heater would not.\n\nIt is blunt and loud compared with a bedroom ceramic unit, because the fan is a utility blower. That makes it better for a storage bay, a garage-style toy hauler or a cold wet utility space than for a sleeping area. The 1300 watt step is only slightly gentler than 1500.\n\nSet it on a stable base and keep it clear of anything flammable. Check the cord and plug each season. Do not run it where it can take a splash unless it is rated for it. In a toy hauler it can sit on the garage floor and warm the sleeping area through the door, which is a use the plastic bedroom units handle poorly.",
+   "bestFor": "Toy haulers, bays and workshop areas that see rough use.",
+   "pros": [
+    "Heavy-duty housing survives rough use",
+    "Thermostat holds the set point",
+    "Fan-only mode for summer airflow",
+    "Tip-over switch included"
+   ],
+   "cons": [
+    "Loud for a bedroom",
+    "1300W step barely lowers the draw",
+    "Bulky for small cabins"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CB65YF3J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/417Kz5F9N2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B000TTSXNI",
+   "badge": "Best Tower with Remote",
+   "name": "Lasko 23 Inch Oscillating Tower Heater with Thermostat and Remote",
+   "specs": [
+    "1500W ceramic",
+    "5,118 BTU",
+    "Thermostat",
+    "Remote"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "1500W ceramic"
+    },
+    {
+     "label": "Output",
+     "value": "5,118 BTU"
+    },
+    {
+     "label": "Thermostat",
+     "value": "Set once and hold"
+    },
+    {
+     "label": "Control",
+     "value": "Remote"
+    },
+    {
+     "label": "Form",
+     "value": "23 inch oscillating tower"
+    }
+   ],
+   "description": "Lasko's tower heater uses an elongated 1500 watt ceramic element, quotes 5,118 BTU and holds the temperature you set. The remote lets you change it from across the room. The oscillating head spreads the warmth across the cabin.\n\nThe maker's selling line is that you set the temperature once and the unit keeps the room there, which is exactly the job of a thermostat. A tall, narrow shape fits corners but tips more easily, which matters in a rig that moves. Set against the TMHEI, it offers a single power level and a classic design.\n\nSecure the tower for travel, and never run it while driving. Dust the grille monthly. Keep it on a level, hard surface, and leave the front clear of throw pillows. A set-once thermostat is only as good as the airflow it gets.",
+   "bestFor": "Corner placement in a living area with a remote and a set-once thermostat.",
+   "pros": [
+    "Thermostat holds the set temperature",
+    "Remote controls it from across the room",
+    "Slim tower fits corners",
+    "Oscillating head spreads warmth"
+   ],
+   "cons": [
+    "Tall shape tips on a moving floor",
+    "Only one power level",
+    "Needs strapping for travel"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B000TTSXNI?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31K0zeAbFFL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Digital versus dial thermostats",
+   "explanation": "A mechanical dial may swing three to five degrees around its setting, while a digital sensor, as in the DREO, holds closer to the target. In a small RV that difference is the line between comfortable and stuffy. If you sleep with the heater on, prefer digital, and expect to pay a modest premium for it. Cheap dials are not dangerous, only vague, and a few degrees of swing is enough to wake some people."
+  },
+  {
+   "criterion": "Cycling and fan noise",
+   "explanation": "A thermostat cycles the element, and in a fan heater the fan may start and stop with it. Frequent starts wake light sleepers. A wider hysteresis or a heater with ECO regulation, like the Ambiora, cycles less often. Ask whether the listing mentions a gentle low step too, since a heater that can run steadily on a low setting avoids the clicking altogether."
+  },
+  {
+   "criterion": "Where the sensor sits",
+   "explanation": "The thermostat reads the air near the heater, which may be warmer than where you sit. A wall-mounted unit near the ceiling reads high and may shut off too early. Place portable heaters in the middle of the cabin, away from direct drafts. A heater tucked behind the sofa measures a temperature nobody lives in."
+  },
+  {
+   "criterion": "Amps on a 30 amp service",
+   "explanation": "The TMHEI offers 750, 1000 and 1500 watts, drawing about 6.3, 8.3 and 12.5 amps. The Good Housekeeping at 750 watts draws about 6.3. A thermostat lowers the average draw, but the peak still counts for the breaker, so plan around the worst moment, which is the heater starting while the air conditioner compressor kicks in."
+  },
+  {
+   "criterion": "Mounting and placement",
+   "explanation": "Ambiora can mount on a wall, a hook or a desk, and the Good Housekeeping is wall only. Fixed mounts cannot tip, but they need solid anchoring. Portable units need a level, hard surface."
+  },
+  {
+   "criterion": "Build for the environment",
+   "explanation": "A milkhouse unit like the BEYOND HEAT tolerates rough use in a bay or toy hauler. A bedroom ceramic is quieter but less rugged. Match the build to where the heater will live, and do not buy a bedroom ceramic for a bay that sees mud and tools."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Thermostat type",
+   "meaning": "Digital thermostats use a sensor and a microcontroller, while dials use a bimetal strip. Digital is more accurate.",
+   "watchFor": "DREO and Good Housekeeping have digital displays, and the Lasko uses a set-once control."
+  },
+  {
+   "spec": "ECO mode",
+   "meaning": "ECO mode adjusts output toward a target instead of just switching on and off. It reduces overshoot, the swing past your target that makes a small cabin feel stuffy.",
+   "watchFor": "Ambiora lists an ECO thermostat."
+  },
+  {
+   "spec": "Wattage steps",
+   "meaning": "Steps set the peak draw. Lower steps work with the thermostat to hold gentle temperatures.",
+   "watchFor": "TMHEI offers 750, 1000 and 1500 watts."
+  },
+  {
+   "spec": "Timer",
+   "meaning": "A timer shuts off the heater after a set period. It limits unattended running.",
+   "watchFor": "Ambiora lists 12 hours."
+  },
+  {
+   "spec": "Housing",
+   "meaning": "Metal casings resist impacts and heat, which helps if the heater gets knocked by luggage. Plastic is lighter and quieter.",
+   "watchFor": "BEYOND HEAT uses heavy-duty material, while the others use flame-retardant plastics."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Thermostat quality",
+   "description": "We compared digital sensors, ECO regulation and set-once controls. The DREO and Ambiora lead on regulation, and the Lasko follows. This comes from the listings and owner feedback patterns about temperature swing."
+  },
+  {
+   "title": "Load options",
+   "description": "We compared wattage steps against a 30 amp circuit. The TMHEI and Good Housekeeping offer the gentlest options, while the BEYOND HEAT keeps near-full draw."
+  },
+  {
+   "title": "Placement flexibility",
+   "description": "We rated mounting options and footprint. Ambiora's three mounts stand out, and the tower scored lower for stability on the road."
+  },
+  {
+   "title": "Noise",
+   "description": "We looked at fan design and noise claims. Maker figures were treated as claims, and utility blowers scored lower for bedrooms."
+  },
+  {
+   "title": "Safety listing",
+   "description": "We confirmed tip-over and overheat protection and noted ETL certification on the DREO. Where a listing was silent, no credit was given."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Where It Will Live",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Bedroom with a light sleeper",
+      "DREO 1500W",
+      "Digital thermostat and quiet fan."
+     ],
+     [
+      "Wall in a small cabin",
+      "Good Housekeeping 750W",
+      "Low draw and a cool-touch housing."
+     ],
+     [
+      "Wall, hook or shelf",
+      "Ambiora 1500W",
+      "Three mounting options."
+     ],
+     [
+      "Toy hauler or bay",
+      "BEYOND HEAT milkhouse",
+      "Rugged housing."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Good Housekeeping 750W",
+      "Small and inexpensive."
+     ],
+     [
+      "Lower to middle",
+      "TMHEI 750/1000/1500W",
+      "Power ladder with a thermostat."
+     ],
+     [
+      "Middle",
+      "Lasko tower",
+      "Established brand and remote."
+     ],
+     [
+      "Higher",
+      "DREO 1500W",
+      "Digital precision and a quiet fan."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fan Heater vs Utility Heater",
+   "cards": [
+    {
+     "label": "Fan heater",
+     "text": "The DREO, TMHEI and Ambiora warm quickly and run quietly enough for living areas. They use lightweight plastic housings."
+    },
+    {
+     "label": "Utility heater",
+     "text": "The BEYOND HEAT milkhouse uses a heavy-duty casing and a louder blower. It suits bays and workshops."
+    }
+   ],
+   "note": "Choose a fan heater for living spaces and a utility heater for rough areas."
+  },
+  {
+   "subheading": "By Thermostat Style",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Digital set point",
+      "DREO 1500W",
+      "Digital sensor."
+     ],
+     [
+      "ECO regulation",
+      "Ambiora 1500W",
+      "Adjusts power toward target."
+     ],
+     [
+      "Set once and forget",
+      "Lasko tower",
+      "Thermostat plus remote."
+     ],
+     [
+      "Step and hold",
+      "TMHEI",
+      "Choose a step and let the thermostat cycle."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Overnight Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Choose a precise thermostat, a quiet fan and a timer, and test the whole setup for one evening before relying on it for a cold night. Set it a couple of degrees low and keep clear of bedding, since the cabin will creep upward as the night goes on."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DREO and Ambiora suit overnight use best. The Good Housekeeping is a quiet low-draw alternative for a small bedroom."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You use the heater nightly and want a tight set point. The DREO's sensor and quiet fan justify the cost."
+    },
+    {
+     "label": "Save if",
+     "text": "You need only occasional warmth. The Good Housekeeping or TMHEI covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dust the intake",
+   "interval": "Monthly in use",
+   "why": "Lint restricts airflow and distorts the sensor reading. A brush clears it."
+  },
+  {
+   "task": "Check the sensor opening",
+   "interval": "Each season",
+   "why": "A blocked sensor makes the thermostat misread. Keep it clear of dust and cloth, and do not cover the heater with a blanket or towel to speed up drying, which both blocks the sensor and creates a fire risk."
+  },
+  {
+   "task": "Inspect the plug",
+   "interval": "Each season",
+   "why": "A warm plug signals a poor connection. Replace the unit if it discolors."
+  },
+  {
+   "task": "Tighten wall mounts",
+   "interval": "Twice a year",
+   "why": "Vibration loosens screws. Check anchors before travel, especially on wall units that carry the whole weight of the case on two or three screws."
+  },
+  {
+   "task": "Swap remote batteries",
+   "interval": "Yearly",
+   "why": "Weak cells cause missed commands. Keep a spare set in the same drawer as the remote."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does a thermostat save electricity?",
+   "a": "Yes, in nearly every case. It cuts the element once the target is reached, so the average draw is lower than continuous running. Savings are largest in a small, well-sealed cabin. A drafty rig keeps the element running, so seal the gaps as well."
+  },
+  {
+   "q": "How accurate are heater thermostats?",
+   "a": "Digital sensors hold closer than dials, which may swing three to five degrees. The sensor reads air near the heater, not at your seat."
+  },
+  {
+   "q": "Will a thermostat stop my breaker from tripping?",
+   "a": "It lowers the average draw but not the peak. When the element is on, a 1500 watt heater still draws about 12.5 amps."
+  },
+  {
+   "q": "Can I use a thermostat heater overnight?",
+   "a": "Use a unit with tip-over and overheat protection and a timer, and keep three feet from bedding."
+  },
+  {
+   "q": "Why does my heater keep clicking?",
+   "a": "It is cycling on and off to hold the set point. Moving the heater away from drafts and raising the setting slightly can reduce it. A cleaned intake also helps, since a blocked one makes the unit overheat and trip its own protection."
+  },
+  {
+   "q": "What is a milkhouse heater?",
+   "a": "It is a metal-cased utility fan heater built for barns and shops. It is rugged and loud, so it suits bays more than bedrooms, and it usually costs less than a decorated bedroom unit."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41s5nIlULzL._SL500_.jpg"
+}
