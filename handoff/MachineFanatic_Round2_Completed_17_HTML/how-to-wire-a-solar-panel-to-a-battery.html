@@ -6,7 +6,7 @@ metaDescription: Learn the correct solar panel to battery wiring order, required
 kicker: Installation Guide
 readTime: 16 min
 lastUpdated: 2026-11-16
-hero: solar-panel-to-battery-wiring-hero.webp | Solar charge controller mounted beside a battery with protected positive and negative cables
+hero: solar-install-kenya.webp | Wall mounted inverter above a steel rack holding a row of batteries indoors
 quickAnswer: A solar panel should normally connect to a battery through a compatible charge controller, not directly. Connect and protect the battery side first so the controller can identify system voltage, then connect the solar input using the shutdown and startup order in the controller manual. Verify polarity, voltage limits, conductor size, fuse or breaker placement, connector ratings, and grounding requirements before exposing the panel to full sun.
 related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best RV Solar Panel Kits | /guide/best-rv-solar-panel-kit ; Best Foldable Solar Panels | /guide/best-foldable-solar-panels ; Series vs Parallel Solar Wiring | /series-vs-parallel-solar-wiring
 -->
@@ -17,6 +17,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best RV Solar Panel
 
 <h2 id="the-complete-power-path">The complete power path</h2>
 <p>A basic off-grid charging circuit includes more than a panel and battery. Understanding every part before cutting cable prevents improvisation during the installation.</p>
+<figure><img src="/images/articles/solar-panel-back-junction.webp" alt="Rear of a solar panel showing its junction box, specification label and two output leads" width="1400" height="1867" loading="lazy" /><figcaption>The path starts at the junction box on the back of the panel and ends at the battery terminals, with protection at both ends.</figcaption></figure>
 <table>
 <thead><tr><th>Component</th><th>Job in the circuit</th><th>What must be verified</th></tr></thead>
 <tbody>
@@ -65,12 +66,14 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best RV Solar Panel
 
 <h2 id="make-reliable-terminations">Make reliable terminations</h2>
 <p>A high-resistance connection generates heat and wastes energy. Use lugs, ferrules, connectors, and crimp tooling approved for the conductor and terminal. A lug sized for a different cable may appear tight while leaving voids that weaken the connection.</p>
+<figure><img src="/images/articles/mc4-connectors.webp" alt="A pile of photovoltaic cable connector bodies and their sealing glands" width="1400" height="1030" loading="lazy" /><figcaption>A crimp made with the right tool is the difference between a joint that lasts years and one that heats up under load.</figcaption></figure>
 <p>Follow the equipment torque specification with a suitable torque tool. Too little torque can allow movement and heating. Too much can damage a terminal block, crush strands, or strip hardware. Do not place soldered wire ends into screw terminals unless the manufacturer explicitly allows it because solder can creep under pressure.</p>
 <p>Support cables so vibration and movement do not load the terminal. Use insulated covers on battery positive connections and barriers where tools could bridge between terminals. Route positive and negative conductors together where appropriate to reduce loop area, while respecting heat and separation requirements.</p>
 <p>Solar connectors require compatible components and proper crimping. Mixing connector brands or visually similar parts can create a poor seal or unreliable contact. Do not use generic pliers to fold a contact around the conductor. Perform the prescribed pull check and confirm the seal is seated.</p>
 
 <h2 id="connect-the-battery-side-first">Connect the battery side first</h2>
 <p>Many standalone solar controllers require the battery to be connected before the PV input. The battery allows the controller to power up, identify nominal system voltage, and accept configuration. Always use the exact startup order in the manual because some integrated equipment may differ.</p>
+<figure><img src="/images/articles/aux-battery-charger.webp" alt="Deep cycle battery with charger and fused cabling connected inside a vehicle compartment" width="1400" height="933" loading="lazy" /><figcaption>The battery end is energised the moment it is connected, so its fuse and polarity get checked before anything else goes live.</figcaption></figure>
 <p>With all sources isolated, confirm the battery-side fuse is removed or breaker is open. Connect the controller battery conductors with correct polarity. Connect negative according to the system design, then complete the protected positive path as directed. Ensure tools cannot bridge the battery terminals.</p>
 <p>Close the battery disconnect or install the specified fuse only after every termination has been checked. The controller should power up from the battery. Confirm that its display or application reports the expected battery voltage. Configure battery chemistry, charging voltages, current limits, temperature compensation, and any BMS communication required by the manuals.</p>
 <p>If the controller does not power up or reports unexpected voltage, open the disconnect and investigate. Do not connect the solar input hoping that additional voltage will correct a battery-side problem.</p>

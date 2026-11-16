@@ -6,7 +6,7 @@ metaDescription: Learn why solar panels rarely hold their rated watts outdoors a
 kicker: Explainer
 readTime: 15 min
 lastUpdated: 2026-11-16
-hero: solar-panel-output-hero.webp | Portable solar panel operating outdoors in direct sunlight
+hero: solar-panel-12v-bp.webp | Small framed solar panel with its output cable attached, sunlight reflecting off the glass
 quickAnswer: A solar panel's watt rating is measured under standard test conditions with 1,000 watts per square meter of irradiance and a cell temperature of 25 degrees Celsius. Outdoor cell temperature, sun angle, clouds, shade, dirt, wiring, and the connected controller change the power you actually see. Judge a panel by energy collected across the day, not by whether it briefly reaches the number on its label.
 related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best RV Solar Panel Kits | /guide/best-rv-solar-panel-kit ; Best Foldable Solar Panels | /guide/best-foldable-solar-panels ; How Many Solar Panels Do I Need? | /how-many-solar-panels-do-i-need
 -->
@@ -55,6 +55,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best RV Solar Panel
 
 <h2 id="shade-is-not-just-less-sunlight">Shade is not just less sunlight</h2>
 <p>Partial shade can create a disproportionate loss because cells within a module are electrically connected. If one group of cells is shaded, it can restrict current through the connected path. Bypass diodes allow current to route around defined cell groups, but bypassing also removes that portion's voltage contribution.</p>
+<figure><img src="/images/articles/pv-roof-shadows.webp" alt="Dark roof mounted solar modules with a vent pipe casting a shadow across them" width="1400" height="1050" loading="lazy" /><figcaption>A vent pipe and its shadow. A shaded strip this size can cost far more output than its area suggests.</figcaption></figure>
 <p>The shape and direction of a shadow matter. A narrow roof rack shadow crossing several cell strings can behave differently from a leaf covering part of one group. Shade also moves during the day. An RV vent that causes no problem at noon may cast a long shadow across a panel in the morning or late afternoon.</p>
 <p>Multiple panels can experience mismatch when one is shaded and another remains clear. Their series or parallel configuration changes how current and voltage interact, but no wiring arrangement makes shade free. Place the array to avoid predictable shadows before using electrical configuration as mitigation.</p>
 <p>Portable panels offer the advantage of being carried away from a shaded vehicle. They also introduce the risk of a cable crossing a walking area, a panel falling in wind, or a user forgetting to move it when the shadow returns. Field output reflects all of those practical realities.</p>
@@ -66,6 +67,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best RV Solar Panel
 
 <h2 id="the-controller-can-limit-the-number-you-see">The controller can limit the number you see</h2>
 <p>A solar panel does not independently choose one fixed watt output. Its voltage and current relationship changes with irradiance, temperature, and load. A maximum power point tracking controller searches for an operating point that extracts strong available power while converting it for the battery. A PWM controller operates differently and can leave more available panel power unused when panel and battery voltage are not closely matched.</p>
+<figure><img src="/images/articles/solar-charge-controller.webp" alt="Solar charge controller mounted on a wall with its display showing charging status" width="1400" height="1268" loading="lazy" /><figcaption>The figure on a controller display is charging power at that moment, not what the array could produce.</figcaption></figure>
 <p>Even an MPPT controller has input voltage, input current, output current, and power limits. If the array can produce more than the controller is permitted to deliver, the controller may clip output at its rated limit. Clipping during a short favorable period can be a deliberate design outcome, but exceeding absolute voltage or current limits is unsafe and can damage equipment.</p>
 <p>The controller may also reduce charge power because the battery no longer requests maximum current. Near full charge, the charging profile can enter absorption or float behavior. A user who sees lower solar watts at that moment may incorrectly blame the panel even though the controller is protecting and managing the battery.</p>
 <p>The <a href="/pwm-vs-mppt-charge-controller">PWM versus MPPT</a> comparison explains the operating difference. This output article keeps the focus on recognizing the controller as one part of the measured result, not on selecting or wiring it.</p>
@@ -82,6 +84,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best RV Solar Panel
 
 <h2 id="how-to-measure-output-without-fooling-yourself">How to measure output without fooling yourself</h2>
 <p>Start by identifying what the display measures. A charge controller may report PV voltage, PV current, charging current, battery voltage, and output power separately. A power station may show rounded input watts. An external meter may be installed at another point in the circuit. Values taken at different locations will not necessarily match.</p>
+<figure><img src="/images/articles/clamp-meter-voltage.webp" alt="Clamp meter in use showing a voltage reading on its display" width="1400" height="2023" loading="lazy" /><figcaption>A meter reading is only meaningful alongside the conditions it was taken in: light, temperature and what the battery was doing.</figcaption></figure>
 <p>Record conditions with the reading: time, sky, shade, panel orientation, cell or back surface temperature if safely available, battery state of charge, controller mode, and active loads. Compare readings from similar conditions rather than a cool spring morning against a hot summer afternoon.</p>
 <p>Watch a trend instead of one instant. Passing cloud edges can cause rapid fluctuations. A controller may take time to sweep for a new maximum power point. A short screenshot can capture an unusual high or low that does not represent the charging session.</p>
 <p>For daily usefulness, record energy in watt hours over the entire period. The battery monitor or controller history may provide this value. Daily energy can then be compared with the load budget. The distinction between power and stored energy is covered in <a href="/power-station-watt-hours-explained">watt hours explained</a>.</p>

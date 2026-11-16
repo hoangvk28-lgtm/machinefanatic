@@ -6,7 +6,7 @@ metaDescription: Compare PWM and MPPT solar charge controllers by conversion met
 kicker: Comparison
 readTime: 15 min
 lastUpdated: 2026-11-16
-hero: pwm-vs-mppt-charge-controller-hero.webp | PWM and MPPT solar charge controllers installed beside a battery bank
+hero: solar-charge-controller.webp | Solar charge controller mounted on a wall with its display showing charging status
 quickAnswer: A PWM controller connects the panel array to the battery in rapid pulses, so the array operates close to battery charging voltage. An MPPT controller tracks the array's maximum power point and converts excess panel voltage into additional charging current. PWM can suit a small, voltage matched system, while MPPT is usually the stronger choice for larger arrays, long cable runs, variable weather, or panels whose operating voltage is well above battery voltage.
 related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best Solar Generators | /guide/best-solar-generator ; Best RV Solar Generators | /guide/best-rv-solar-generator ; RV Solar Panel Kits | /guide/best-rv-solar-panel-kit
 -->
@@ -18,6 +18,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best Solar Generato
 
 <h2 id="what-a-charge-controller-actually-controls">What a charge controller actually controls</h2>
 <p>A photovoltaic module produces electrical power whenever sufficient light reaches it. Its voltage and current change with sunlight, temperature, and the connected load. A battery, meanwhile, needs a controlled charging profile. Sending panel output directly into a battery can overcharge it, damage it, or create unsafe conditions.</p>
+<figure><img src="/images/articles/solar-install-kenya.webp" alt="Wall mounted inverter above a steel rack holding a row of batteries indoors" width="1400" height="1867" loading="lazy" /><figcaption>The controller sits between array and battery. Everything it does is about protecting the bank on the right of this frame.</figcaption></figure>
 <p>The charge controller sits between the array and battery. It limits energy flow and applies charging stages appropriate to the selected battery profile. Depending on the equipment, those stages may include bulk charging, an absorption period, float maintenance, and specialized behavior such as equalization for certain lead acid batteries. Lithium batteries use different voltage limits and may depend on a battery management system for cell level protection.</p>
 
 <h2 id="how-a-pwm-controller-works">How a PWM controller works</h2>
@@ -69,6 +70,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best Solar Generato
 
 <h2 id="cold-weather-voc-is-a-hard-limit">Cold weather Voc is a hard limit</h2>
 <p>The most important MPPT input check is not a simple watts divided by volts formula. It is whether the array's maximum possible open circuit voltage remains below the controller's absolute input limit at the coldest expected cell temperature.</p>
+<figure><img src="/images/articles/solar-panel-back-junction.webp" alt="Rear of a solar panel showing its junction box, specification label and two output leads" width="1400" height="1867" loading="lazy" /><figcaption>Open circuit voltage is printed on this label. Cold corrected, it is the number that decides whether a string is legal on a given controller.</figcaption></figure>
 <p>Panel voltage rises as temperature falls. Add the open circuit voltage of panels connected in series, then correct it using the module's voltage temperature coefficient and the expected minimum temperature. Parallel strings do not add voltage, but they do add current. The controller manufacturer's sizing method and applicable electrical rules govern the final calculation.</p>
 <p>Exceeding the maximum PV voltage can damage a controller. A sunny cold morning is often the critical condition because the array can be cold while receiving enough light to produce open circuit voltage. Designing only from the standard test condition Voc printed in large type can therefore leave no safe margin.</p>
 <p>PWM equipment also has maximum input voltage limits, but its normal use with voltage matched panels often produces shorter strings. The limit remains real and must be checked for the actual configuration.</p>
@@ -90,6 +92,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best Solar Generato
 
 <h2 id="rv-and-portable-system-considerations">RV and portable system considerations</h2>
 <p>Vehicle roofs offer limited area and frequent partial shade, while the battery compartment may be several cable meters from the panels. These conditions often favor MPPT because higher array voltage reduces current on the roof run and the controller can recover the voltage difference at the battery.</p>
+<figure><img src="/images/articles/campervan-roadside.webp" alt="Campervan with a raised pop top roof parked beside a road in open country" width="1400" height="933" loading="lazy" /><figcaption>In a vehicle the controller shares a small, warm space. Standby draw and cooling matter more here than on a house wall.</figcaption></figure>
 <p>A preassembled <a href="/guide/best-rv-solar-panel-kit">RV solar panel kit</a> can simplify component matching, but the included controller still needs to be checked against the exact panel configuration and battery. A kit label does not prove that every optional expansion remains within controller limits.</p>
 <p>For a basic panel comparison before choosing the rest of the equipment, the <a href="/guide/best-rv-solar-panel">best RV solar panels</a> guide focuses the purchase on module dimensions, output, and intended installation.</p>
 

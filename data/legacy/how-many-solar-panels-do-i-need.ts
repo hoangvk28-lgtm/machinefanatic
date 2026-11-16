@@ -1,0 +1,139 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "how-many-solar-panels-do-i-need",
+  title: "How Many Solar Panels Do I Need?",
+  metaTitle: "How Many Solar Panels Do I Need?",
+  metaDescription: "Calculate how many solar panels you need from daily energy use, local sun hours, system losses, roof space, and seasonal conditions.",
+  kicker: "Sizing Guide",
+  heroImage: { src: "/images/articles/solar-roof-array.webp", alt: "Solar modules covering the roof of a farm building in open countryside" },
+  lastUpdated: "2026-11-16",
+  readTime: "16 min",
+  quickAnswer: "Add your daily electricity use in watt hours, divide it by the usable peak sun hours for the location and season, then divide by an honest overall system efficiency factor. The resulting array wattage can be divided by the rated wattage of one panel and rounded up. Check the result against available area, controller limits, battery charging needs, and the worst season you expect the system to support.",
+  html: `<h2 id="start-with-energy-not-panel-count">Start with energy, not panel count</h2>
+<p>Asking how many solar panels you need sounds like a question about hardware, but the answer begins with energy. Ten small panels can provide less useful energy than four larger modules. Two arrays with the same rated wattage can also deliver different daily results because their locations, temperatures, shade, orientation, and system losses differ.</p>
+<p>The reliable method is to work backward from the electricity that must be replaced each day. First calculate daily energy use in watt hours. Then estimate how much solar energy one watt of installed panel can collect during the planning season. After allowing for real system losses, convert the required array wattage into a count of actual modules.</p>
+<p>This article owns that general sizing method. It does not size an RV roof in detail, build a boondocking worksheet, or select a charge controller. Those applications use the same energy principles but add different physical and operating constraints. Keeping the general arithmetic here prevents one rule of thumb from being stretched across homes, cabins, vans, and portable charging setups.</p>
+<div class="mf-callout"><strong>The core sizing chain:</strong> daily load energy, divided by planning sun hours, divided by overall delivery efficiency, equals required array watts. Panel count is required array watts divided by one panel's rated watts, rounded up.</div>
+
+<h2 id="four-numbers-control-the-answer">Four numbers control the answer</h2>
+<table>
+<thead><tr><th>Input</th><th>What it means</th><th>Why it changes panel count</th></tr></thead>
+<tbody>
+<tr><td>Daily energy use</td><td>Total watt hours consumed in a day</td><td>More energy requires a larger array or less load</td></tr>
+<tr><td>Planning peak sun hours</td><td>Equivalent hours of full rated solar irradiance</td><td>Fewer sun hours require more installed wattage</td></tr>
+<tr><td>System efficiency factor</td><td>Allowance for heat, wiring, conversion, dirt, and mismatch losses</td><td>Larger losses increase required array wattage</td></tr>
+<tr><td>Panel rated wattage</td><td>Power of one module at standard test conditions</td><td>Higher wattage modules reduce count, though not necessarily area</td></tr>
+</tbody>
+</table>
+<p>Only the first three determine the array wattage. The final number converts that wattage into a module count. This distinction matters because panel count is not a portable answer. Six panels tells you almost nothing unless you know their rating and dimensions. Six compact modules and six full size modules are different systems.</p>
+<p>Area must be checked after the energy calculation. If the required array does not fit, the honest options are to reduce the load, use higher efficiency modules, add another suitable mounting area, deploy portable panels, or accept that another energy source will be needed. Changing the arithmetic to make the answer fit the roof does not change the energy balance.</p>
+
+<h2 id="step-one-build-a-daily-load-list">Step one: build a daily load list</h2>
+<p>List every device the solar system is expected to support. For each item, record its running watts and expected operating time per day. Multiply watts by hours to obtain watt hours. A 20 watt device used for five hours consumes 100 watt hours. Add the daily energy of all items.</p>
+<p>Loads that cycle need an estimate of actual run time rather than the full time they remain plugged in. A refrigerator compressor may run for only part of each hour. A pump may run for minutes. A router may operate continuously. Manufacturer energy labels, equipment manuals, and a suitable energy meter can provide better evidence than guessing from the largest number on a nameplate.</p>
+<p>Separate direct current and alternating current loads. AC equipment draws through an inverter, which introduces conversion loss and consumes some power itself. DC equipment may avoid inverter loss but still has wiring and conversion losses if its operating voltage differs from the battery. Do not count the same conversion loss twice.</p>
+<p>Also separate essential, flexible, and optional energy. Essential loads must run. Flexible loads can move to sunny hours. Optional loads can be dropped during poor weather. This classification helps later when the calculated array will not fit or the least sunny season makes the system impractical.</p>
+<p>If a load has a large starting surge, that affects inverter and battery power capability but does not automatically multiply its daily energy. Energy sizing and instantaneous power sizing are related checks with different units. The guide to <a href="/power-station-watt-hours-explained">watt hours</a> explains why a short surge and a full day of consumption should not be treated as the same measurement.</p>
+
+<h2 id="account-for-loads-that-change-by-season">Account for loads that change by season</h2>
+<p>A single average day can hide the real design challenge. Cooling may dominate summer use, while lighting and heating support loads can rise in winter. Water pumping may be seasonal. A vacation property may sit nearly unused for months and then experience concentrated demand.</p>
+<p>Create at least two load lists when usage changes materially: a high demand day and a normal day. For an off grid system, the high demand case often controls. For a grid connected system intended mainly to offset annual consumption, monthly or annual energy may be more useful than designing around one extreme day.</p>
+<p>Do not size from a low use day and assume behavior will remain unchanged after solar is installed. People often add loads once electricity feels available. A realistic list includes the devices likely to be added during the system's useful life, but it should not bury the calculation under speculative equipment that may never appear.</p>
+<p>Efficiency improvements can reduce the array before a panel is purchased. Replacing an inefficient light, improving insulation, adjusting schedules, or choosing a lower draw appliance can be easier than finding new mounting area. Conservation is part of system design because every watt hour not consumed is a watt hour the array does not need to restore.</p>
+
+<h2 id="step-two-choose-planning-sun-hours">Step two: choose planning sun hours</h2>
+<p>Peak sun hours are not the number of daylight hours. They express the day's solar energy as an equivalent number of hours at 1,000 watts per square meter. A day can have ten hours between sunrise and sunset but only a few equivalent full sun hours because the sun is weak in the morning and evening, clouds intervene, and the panel is not always perpendicular to the rays.</p>
+<p>Use location specific solar resource data rather than a universal number. NREL's PVWatts and solar resource databases can help estimate energy for a location, tilt, and orientation. For systems that must operate through winter, use the relevant low production period rather than an annual average. Annual averages are useful for yearly grid offset but can leave an off grid system short during the worst month.</p>
+<p>Portable panels complicate the estimate because the user can reposition them toward the sun, but they are not always deployed. A perfectly oriented folding panel stored inside a vehicle produces nothing. Include realistic deployment time, campsite shade, security concerns, wind, and the hours someone is available to move the panel.</p>
+<p>Fixed arrays trade daily attention for predictable placement. Their tilt and direction affect the resource captured across the year. The article on solar panel angle and shading losses covers that placement question. Here, the planning rule is to use a sun hour input that matches the real mounting method and season.</p>
+
+<h2 id="step-three-allow-for-real-system-losses">Step three: allow for real system losses</h2>
+<p>Rated panel output is measured at standard test conditions, including 1,000 watts per square meter of irradiance and a cell temperature of 25 degrees Celsius. Field conditions rarely hold those values for long. Cells become hotter than ambient air, sun angle changes, and output passes through wiring and power electronics.</p>
+<p>Losses may include cell temperature, imperfect orientation, dust, shade, wiring voltage drop, controller conversion, battery charging, inverter conversion, module mismatch, and equipment standby consumption. These losses do not always occur at their worst values simultaneously, and the correct allowance depends on system architecture.</p>
+<p>A common planning approach is to multiply theoretical solar energy by an overall efficiency factor below one. The factor should be documented rather than chosen only to produce a convenient answer. If detailed component efficiencies and environmental assumptions are available, model them separately. If they are not, use a conservative combined factor and state what it covers.</p>
+<p>The array formula is:</p>
+<p><strong>Required array watts = daily load watt hours ÷ planning peak sun hours ÷ overall efficiency factor</strong></p>
+<p>For example, a 2,400 watt hour daily load, four planning sun hours, and a 0.75 overall factor produces 800 watts of required array capacity. This is a planning example, not a universal derating value. Your factor must reflect the actual system and desired margin.</p>
+<p>For a deeper explanation of why the panel rating and field output differ, read <a href="/solar-panel-watts-vs-actual-output">solar panel output explained</a>. That article owns temperature coefficients, STC, irradiance, and measured output. The sizing calculation uses those effects as a loss allowance instead of repeating the full panel performance analysis.</p>
+
+<h2 id="step-four-convert-array-watts-to-panel-count">Step four: convert array watts to panel count</h2>
+<p>Divide the required array wattage by the rated wattage of the selected module. Always round up to a whole panel. If the calculation requires 800 watts and the chosen module is rated at 200 watts, the arithmetic result is four panels. If the module is rated at 175 watts, the result is 4.57, so at least five are required before other design limits are considered.</p>
+<p>Do not round down because the fraction looks small. The original required wattage already reflects the energy target and stated losses. Rounding down knowingly creates an energy deficit. If the next full panel exceeds another component limit, select a different module, revise the electrical configuration, or resize the receiving equipment.</p>
+<p>A panel with more watts is not always physically more efficient. It may simply be larger. Compare dimensions and module efficiency when area is constrained. The <a href="/monocrystalline-vs-polycrystalline-solar-panels">mono versus poly solar panel</a> comparison explains why current monocrystalline products often provide stronger power density, while still requiring buyers to compare complete module specifications.</p>
+<p>Module count must also support practical wiring. An awkward prime number of panels may not form balanced series strings for the intended controller. That does not mean the energy calculation was wrong. It means the module choice and electrical configuration need another iteration.</p>
+
+<h2 id="check-roof-and-ground-area">Check roof and ground area</h2>
+<p>Draw the usable mounting surface to scale. Remove roof vents, air conditioners, chimneys, antennas, skylights, setbacks, maintenance paths, and areas affected by regular shade. Include the exact module dimensions and required gaps, not only the active cell area.</p>
+<figure><img src="/images/articles/barn-roof-solar.webp" alt="Rows of solar modules fitted across a tiled barn roof" width="1400" height="933" loading="lazy" /><figcaption>Usable roof area, not total roof area. Vents, edges and walkways take space before the first module is placed.</figcaption></figure>
+<p>Roof area is not automatically usable area. Structural capacity, wind exposure, roof condition, drainage, fire access, and mounting instructions can remove locations that look open in a photograph. A qualified installer may need to assess structure and code requirements.</p>
+<p>On an RV, roof appliances create small irregular spaces. The general panel count may fit by total square area but fail as rectangles. The dedicated RV sizing article will apply the energy budget to that constrained layout. For product comparisons after measuring the available surface, the <a href="/guide/best-rv-solar-panel">best RV solar panels</a> guide can help identify candidate dimensions and ratings.</p>
+<p>Portable and ground deployed panels can add collection area without consuming the roof. The tradeoff is setup time, storage volume, theft exposure, cable length, wind stability, and the chance that panels remain packed away. Browse <a href="/guide/best-foldable-solar-panels">foldable solar panels</a> when mobility is more important than permanent deployment.</p>
+
+<h2 id="size-for-energy-not-instantaneous-power">Size for energy, not instantaneous power</h2>
+<p>Solar array watts and load watts are not interchangeable in a battery based system. A 1,000 watt array does not guarantee that a 1,000 watt appliance can start at any moment. Clouds may reduce solar output, and the battery and inverter must carry the instantaneous load.</p>
+<p>Panel sizing answers how much energy can be collected over time. Inverter sizing answers how much AC power can be delivered at once. Battery sizing answers how much energy can be stored and how much current can be supplied. Charge controller sizing determines whether panel energy can be converted safely into battery charging current.</p>
+<p>These parts must agree, but increasing panel count does not repair an undersized inverter or a battery that cannot provide the motor surge. Conversely, a large inverter does not create daily energy. Keep the units visible throughout the design: watts for power and watt hours for energy.</p>
+
+<h2 id="battery-autonomy-changes-the-design">Battery autonomy changes the design</h2>
+<p>A battery allows loads to operate when solar production is low, but it does not reduce the energy the array must eventually replace. If the battery supplies 2,000 watt hours overnight, the array must restore that energy while also supporting daytime loads, subject to charging limits and losses.</p>
+<figure><img src="/images/articles/solar-install-kenya.webp" alt="Wall mounted inverter above a steel rack holding a row of batteries indoors" width="1400" height="1867" loading="lazy" /><figcaption>A battery bank on a rack. Days of autonomy are a storage decision, so adding panels alone does not buy them.</figcaption></figure>
+<p>Days of autonomy and array size solve different problems. More battery can carry loads through longer cloudy periods, but a small array may take too long to recharge it. More panels can restore energy faster in suitable sun, but they cannot help after sunset without storage. A balanced system considers both.</p>
+<p>If the design assumes the battery will begin each day full, explain how that happens. Repeatedly consuming more than the array restores causes state of charge to decline. The shortfall may stay hidden for several days until low voltage protection stops the system.</p>
+<p>Charge acceptance can also limit useful solar collection. A battery management system or charger may reduce current near full charge, in cold conditions, or at temperature limits. The panel array should not be enlarged beyond controller and battery limits without a design that accounts for those constraints.</p>
+
+<h2 id="controller-limits-can-cap-panel-count">Controller limits can cap panel count</h2>
+<p>After calculating energy and selecting a tentative module count, verify the charge controller. Maximum photovoltaic input voltage must remain above the array's temperature corrected open circuit voltage. Cold conditions raise panel voltage, so multiplying label Voc by the number of series panels is not enough without temperature correction.</p>
+<figure><img src="/images/articles/solar-charge-controller.webp" alt="Solar charge controller mounted on a wall with its display showing charging status" width="1400" height="1268" loading="lazy" /><figcaption>The controller sets a hard ceiling on array size. Its input ratings can cap panel count before roof space does.</figcaption></figure>
+<p>Also check maximum input short circuit current, allowed array power, controller output current, and supported battery voltage. Series connections add panel voltage. Parallel connections add current. Each limit must be evaluated separately according to the controller and panel instructions.</p>
+<p>If the calculated panel count exceeds the controller, do not silently clip the answer. Select a larger or additional compatible controller, change the approved array configuration, use different modules, or revise the energy target. Controller sizing is covered in the separate charge controller article because it requires more than one amperage formula.</p>
+
+<h2 id="grid-connected-and-off-grid-answers-differ">Grid connected and off grid answers differ</h2>
+<p>A grid connected array intended to offset consumption can be evaluated over a month or year. The utility supplies power when solar production is insufficient, subject to the service arrangement. A low production day does not necessarily interrupt the loads.</p>
+<p>An off grid system must maintain the load without relying on the grid. The design may therefore use the worst relevant season, battery autonomy, a backup source, and load shedding rules. Sizing only to annual average production can create recurring winter shortages even if yearly energy appears sufficient.</p>
+<p>Hybrid systems sit between these cases. Solar may reduce generator runtime, recharge a portable station, or support selected circuits. Define the objective before calculating. An array designed to maintain communications and refrigeration is different from one expected to reproduce normal household consumption.</p>
+<p>For small experimental or maintenance loads, the <a href="/guide/best-solar-panels-under-50">solar panels under 50</a> roundup covers compact options. A small panel should not be assumed to support a large energy budget merely because it can charge a battery eventually.</p>
+
+<h2 id="add-margin-with-a-stated-purpose">Add margin with a stated purpose</h2>
+<p>Margin can account for aging, dirt, load growth, unusually cloudy periods, and uncertainty in the inputs. It should have a stated purpose. Adding an arbitrary percentage to every stage can compound into a system far larger than intended, while adding no margin can make a design fragile.</p>
+<p>Keep a calculation sheet with the base load, solar resource, efficiency factor, and final design margin separated. This makes later revisions easier. If the load grows, you can see whether the original margin absorbs it. If a more accurate resource estimate becomes available, you can update one input rather than rebuild the entire design from memory.</p>
+<p>Physical and electrical expansion should be planned too. Leave approved controller capacity, conductor capacity, roof area, or a path for a second controller only when the equipment documentation supports it. Never assume extra panels can simply be plugged into an existing input later.</p>
+<div class="mf-callout"><strong>Run three cases:</strong> calculate a normal day, a high use day, and a low solar period. The spread between them reveals whether the plan needs more panels, more storage, flexible loads, or a backup source.</div>
+
+<h2 id="solar-electrical-safety">Solar electrical safety</h2>
+<p>Solar modules produce voltage whenever illuminated. Switching off an inverter or battery does not deenergize an exposed panel. Follow the module, controller, battery, and disconnect procedures, and use equipment rated for the maximum voltage and current.</p>
+<p>Do not connect panels directly to a battery unless a manufacturer explicitly specifies a complete safe method. A suitable charge controller regulates charging and provides required operating limits, but it does not replace overcurrent protection, disconnects, correct conductors, strain relief, or proper polarity checks.</p>
+<p>Direct current arcs can persist. Never separate connectors under load unless the equipment is designed for that operation and the approved procedure calls for it. Protect wiring from abrasion, sharp roof edges, movement, heat, ultraviolet exposure, and water intrusion.</p>
+<p>Roof installation introduces fall, structural, sealing, and wind hazards. Use qualified help where required. Local electrical and building rules determine protection and installation details. A mathematically correct panel count is not an installation plan.</p>
+
+<h2 id="faq">Frequently asked questions</h2>
+<h3>Can I divide my daily watt hours by panel watts?</h3>
+<p>No. Panel watts describe power under standard test conditions, while daily use is energy. Include planning peak sun hours and system losses before converting required array wattage into panel count.</p>
+<h3>Should I size solar from my highest electricity bill?</h3>
+<p>For a grid connected annual offset project, monthly or annual utility data is useful. For an off grid system, build a daily load list and examine the worst relevant season. A bill alone does not show timing, surge power, or which loads are essential.</p>
+<h3>Do more efficient panels reduce the wattage I need?</h3>
+<p>They reduce the area needed for a given rated array wattage. They do not reduce the energy demand. Higher efficiency is valuable when mounting space is limited.</p>
+<h3>Can I rely on the panel's full rated watts?</h3>
+<p>No. The rating is measured under standard test conditions. Real output changes with irradiance, cell temperature, orientation, shade, dirt, wiring, and power electronics. Use a documented performance model or conservative loss allowance.</p>
+<h3>How many panels do I need to charge a battery?</h3>
+<p>The answer depends on energy removed from the battery, recharge time, sun resource, charging losses, battery charge limits, and controller capacity. Battery amp hours alone are insufficient without voltage and intended depth of discharge.</p>
+<h3>What if the calculated panels do not fit?</h3>
+<p>Reduce energy use, choose higher power density modules, use another suitable mounting area, add deployable panels, or plan a backup source. Do not reduce the calculated requirement without accepting the resulting energy shortfall.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Calculate panel count from energy, not from a generic panels per home rule. Add the watt hours used each day, choose location and season specific peak sun hours, allow honestly for system losses, and calculate the required array wattage. Divide that result by the rating of an actual module and round up. Then verify area, shade, controller limits, battery charging, structure, and electrical safety. If the design does not fit, change the load plan or system architecture rather than changing the arithmetic.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"barn-roof-solar.webp","author":"Stefan Thiesen","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Combined_heat_and_power_solar_installation_on_barn_roof_in_Western_Europe.jpg"},
+    {"image":"solar-install-kenya.webp","author":"PowerAfricaSolar","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Solar_Installation_in_Kenya.jpg"},
+    {"image":"solar-charge-controller.webp","author":"MAmberg","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Laderegler.jpg","via":"Wikimedia Commons"},
+  ],
+  relatedLinks: [
+    {"title":"Best RV Solar Panels","href":"/guide/best-rv-solar-panel"},
+    {"title":"Best RV Solar Panel Kits","href":"/guide/best-rv-solar-panel-kit"},
+    {"title":"Best Foldable Solar Panels","href":"/guide/best-foldable-solar-panels"},
+    {"title":"Solar Panel Output Explained","href":"/solar-panel-watts-vs-actual-output"},
+  ],
+};
+
+export default article;

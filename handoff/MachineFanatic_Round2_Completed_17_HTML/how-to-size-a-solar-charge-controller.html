@@ -6,7 +6,7 @@ metaDescription: Size a solar charge controller by checking cold-weather array v
 kicker: Sizing Guide
 readTime: 15 min
 lastUpdated: 2026-11-16
-hero: solar-charge-controller-sizing-hero.webp | Solar charge controller installed beside a battery bank with protected DC wiring
+hero: solar-install-kenya.webp | Wall mounted inverter above a steel rack holding a row of batteries indoors
 quickAnswer: Size a solar charge controller by checking every published limit, not by applying one watt-to-amp formula. The array's cold-weather open-circuit voltage must remain below the controller's maximum PV input voltage, array short-circuit current must fit its input limit, and expected charging current must fit its battery-side output rating. Use the panel, controller, and battery manufacturer data for the final design.
 related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best Solar Generators | /guide/best-solar-generator ; Best RV Solar Generators | /guide/best-rv-solar-generator ; Best RV Solar Panel Kits | /guide/best-rv-solar-panel-kit
 -->
@@ -31,6 +31,7 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best Solar Generato
 
 <h2 id="collect-the-source-data-before-calculating">Collect the source data before calculating</h2>
 <p>Start with the label or datasheet for every solar-panel model. Record rated power, open-circuit voltage or Voc, short-circuit current or Isc, maximum-power voltage or Vmp, maximum-power current or Imp, and the temperature coefficient of Voc. If modules differ, record each group separately. Do not assume two panels with the same watt rating have the same electrical characteristics.</p>
+<figure><img src="/images/articles/solar-panel-back-junction.webp" alt="Rear of a solar panel showing its junction box, specification label and two output leads" width="1400" height="1867" loading="lazy" /><figcaption>Every number the sizing calculation needs is on this label. Start here rather than with the headline wattage.</figcaption></figure>
 <p>Next record the array configuration. Count modules in each series string and count the number of identical strings placed in parallel. Series connections add voltage while current stays approximately equal to one module. Parallel strings add current while voltage stays approximately equal to one string.</p>
 <p>For the battery, record nominal system voltage, chemistry, capacity, recommended charging voltage, maximum allowable charge current, and temperature restrictions. A battery management system may disconnect a lithium bank outside its limits, but that protection is not a sizing strategy.</p>
 <p>Finally, record the lowest credible temperature at the panel location, not only the normal winter daytime average. The design must account for unusual cold conditions in which an illuminated array can produce its highest open-circuit voltage. Module temperature may differ from air temperature, so follow the controller or module manufacturer's sizing method when one is provided.</p>
@@ -84,11 +85,13 @@ related: Best RV Solar Panels | /guide/best-rv-solar-panel ; Best Solar Generato
 
 <h2 id="power-station-and-solar-generator-inputs">Power-station and solar-generator inputs</h2>
 <p>A portable power station normally contains its own solar charge controller. The relevant limits are its stated solar input voltage range, maximum open-circuit voltage, input current, and accepted power. Users do not select an external controller unless the manufacturer specifically supports that configuration.</p>
+<figure><img src="/images/articles/power-station-jackery.webp" alt="Portable power station with a carry handle, front panel display and several output sockets" width="1400" height="1050" loading="lazy" /><figcaption>A portable power station has its controller built in, so its input voltage and current limits replace the ones you would otherwise choose.</figcaption></figure>
 <p>Before connecting third-party panels, compare the entire series or parallel array against those input limits and verify connector polarity. A plug that physically fits does not prove voltage compatibility. Avoid chains of undocumented adapters.</p>
 <p>Selection guides for <a href="/guide/best-solar-generator">solar generators</a> and <a href="/guide/best-rv-solar-generator">RV solar generators</a> can help identify products with suitable charging inputs. The sizing procedure remains the same: verify cold Voc, current, power, and supported connectors from primary documentation.</p>
 
 <h2 id="wire-size-fuses-and-voltage-drop">Wire size, fuses, and voltage drop</h2>
 <p>A correctly rated controller cannot compensate for undersized conductors or missing protection. Conductor ampacity must suit the circuit current, insulation temperature, bundling, installation environment, and applicable code. Voltage drop must remain acceptable over the actual round-trip cable length.</p>
+<figure><img src="/images/articles/mc4-connectors.webp" alt="A pile of photovoltaic cable connector bodies and their sealing glands" width="1400" height="1030" loading="lazy" /><figcaption>Connectors and conductors are part of the sizing decision. A correctly rated controller behind undersized cable still underperforms.</figcaption></figure>
 <p>The PV side and battery side may require different conductor sizes. A high-voltage series array may carry relatively low current, while the controller-to-battery connection carries much higher current at lower voltage. Keep the controller close enough to the battery to limit voltage drop, while meeting ventilation and environmental instructions.</p>
 <p>Place overcurrent protection and disconnects where required. The battery can deliver extreme fault current, so battery-side protection is critical. Follow the specified connection order. Many controllers require the battery to be connected before PV so the device can establish system voltage safely.</p>
 

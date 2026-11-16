@@ -29,6 +29,19 @@ export const specDecoder: { spec: string; meaning: string; watchFor: string }[] 
 export const maintenance: { task: string; interval: string; why: string }[] = [{"task":"Wash the panel surface","interval":"Monthly in season","why":"Dust and droppings cut output. Plain water with a soft cloth is enough, and abrasive pads should stay in the cupboard."},{"task":"Check roof sealant","interval":"Every year","why":"UV cracks sealant around brackets and cable glands. A small gap can let water into the roof."},{"task":"Inspect connectors and wire","interval":"Every season","why":"Heat and vibration loosen MC4 plugs and crack insulation. Look for discoloration or melting."},{"task":"Check adhesive edges on flexible panels","interval":"Every season","why":"Lifting edges let water and wind in. Reseal them before they peel further."},{"task":"Verify controller settings","interval":"Every few months","why":"Battery profile settings can drift. A wrong profile shortens battery life."}];
 export const faq = [{"q":"How many watts do I need on an RV roof?","a":"Divide your daily watt-hours by 4 to 5 sun hours, then multiply by about 1.4 for losses. A refrigerator and lights usually need 300 to 400W."},{"q":"Are flexible panels worth it for an RV?","a":"Only when the roof curves or weight is tight. They trap heat and age faster, so rigid panels are better when a flat roof allows."},{"q":"What does ShadowFlux do?","a":"It arranges the cells so shade on part of the panel does not shut down the whole string. It limits loss but does not remove it."},{"q":"Do I need MPPT?","a":"MPPT is best for panels with higher voltage such as N-type or the BougeRV's 36V design. PWM works for small low-voltage panels like the Newpowa 180W."},{"q":"Can I add panels later?","a":"Yes, if your controller current rating has headroom and you match voltage. Identical panels in parallel are the simplest expansion, and mixing wattages in series drags the stronger panel down to the weaker one."},{"q":"How do I stop roof leaks?","a":"Use lap sealant over every screw and bracket foot, and prefer cable entry glands over new holes. Recheck the sealant every year."}];
 export const relatedGuides: { title: string; href: string }[] = [
+  { title: "What Are Bifacial Solar Panels and When Do They Work?", href: "/what-is-bifacial-solar" },
+  { title: "Solar Panel Watts vs Actual Output, Explained", href: "/solar-panel-watts-vs-actual-output" },
+  { title: "Solar Panel Degradation, Lifespan, and Warranties", href: "/solar-panel-degradation-and-warranties" },
+  { title: "Solar Panel Angle and Shading Losses Explained", href: "/solar-panel-angle-and-shading-losses" },
+  { title: "Solar Panels in Series vs Parallel, Explained", href: "/series-vs-parallel-solar-wiring" },
+  { title: "RV Solar Panel Mounting and Wiring Basics", href: "/rv-solar-panel-mounting-and-wiring-basics" },
+  { title: "PWM vs MPPT Solar Charge Controllers Explained", href: "/pwm-vs-mppt-charge-controller" },
+  { title: "Monocrystalline vs Polycrystalline Solar Panels", href: "/monocrystalline-vs-polycrystalline-solar-panels" },
+  { title: "How to Wire a Solar Panel to a Battery Safely", href: "/how-to-wire-a-solar-panel-to-a-battery" },
+  { title: "How to Size an RV Solar System From Daily Use", href: "/how-to-size-an-rv-solar-system" },
+  { title: "How to Size a Solar Charge Controller Correctly", href: "/how-to-size-a-solar-charge-controller" },
+  { title: "How Many Solar Panels Do I Need?", href: "/how-many-solar-panels-do-i-need" },
+  { title: "Flexible vs Rigid Solar Panels: What Changes?", href: "/flexible-vs-rigid-solar-panels" },
   { title: "12V vs 24V vs 48V Systems: Choosing the Right Voltage", href: "/12v-vs-24v-vs-48v-systems" },
 
 ];
