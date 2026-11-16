@@ -1,0 +1,158 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "what-size-air-compressor-do-i-need",
+  title: "What size air compressor do I need for my tools and garage",
+  metaTitle: "What Size Air Compressor Do I Need?",
+  metaDescription: "Size an air compressor by the CFM your tools need at a stated PSI, then use tank size and duty cycle to match your work. Avoid the tank-only trap.",
+  kicker: "How to",
+  heroImage: { src: "/images/articles/compressor-sealey-tank.webp", alt: "Portable air compressor with a horizontal tank, wheels and a pressure gauge" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "Match the compressor's delivered CFM at the tool's working PSI to the tool's needs, with a margin, and use the tank to cover short bursts. Intermittent tools such as nailers and inflators run fine on a small tank, while continuous tools such as sanders and paint sprayers need much more CFM than a small compressor can supply.",
+  html: `<h2 id="the-tank-size-trap">The tank size trap</h2>
+<p>Most shoppers walk into this purchase asking how many gallons they need. Tank size is the number printed biggest on the box, so it feels like the number that matters. Then they buy a large-tank compressor, connect a sander or an impact wrench and watch the tool sputter as the pressure collapses within a minute.</p>
+<p>A tank stores air. It does not make it. The part that makes the air is the pump, and its output is measured in a different number. Sizing a compressor is really about matching that output to the tools you plan to run, with the tank as a buffer.</p>
+
+<h2 id="three-numbers">The three numbers that matter</h2>
+<p>You will see three specs on a compressor. PSI is the pressure the machine can reach. CFM, cubic feet per minute, is the volume of air the pump delivers, and it is quoted at a stated pressure. Tank capacity, in gallons, is how much compressed air is stored for bursts.</p>
+<p>The relationship between PSI and CFM is covered in detail in <a href="/cfm-vs-psi-explained">our CFM versus PSI article</a>. The key point for sizing is that CFM is quoted at a pressure, and a figure at a low pressure overstates what the machine delivers at the pressure your tool needs.</p>
+
+<h2 id="intermittent-vs-continuous">Intermittent versus continuous tools</h2>
+<p>This is the most useful split. Some tools use air only in brief puffs. A nail gun fires and stops. Tire inflation fills in short bursts. Those tools draw little average air, and a small compressor with a modest tank can keep up, because the pump refills the tank between shots.</p>
+<p>Other tools consume air continuously while you hold the trigger. Sanders, grinders, die grinders, paint sprayers, impact wrenches on a long job and blow guns all fall in this group. They draw air faster than a small pump can supply it, so they empty the tank and then run starved. For those tools, pump output matters far more than tank size.</p>
+<table>
+<thead><tr><th>Tool type</th><th>Air demand pattern</th><th>What to prioritize</th></tr></thead>
+<tbody>
+<tr><td>Brad and finish nailers</td><td>Short bursts</td><td>Portability, a small tank is enough</td></tr>
+<tr><td>Framing nailers</td><td>Bursts, higher volume per shot</td><td>A moderate tank and decent CFM</td></tr>
+<tr><td>Tire and sports inflation</td><td>Low volume</td><td>Almost any compressor</td></tr>
+<tr><td>Impact wrench</td><td>Intermittent, high demand while running</td><td>CFM at pressure and a bigger tank</td></tr>
+<tr><td>Orbital sander, die grinder</td><td>Continuous</td><td>High CFM, a bigger pump</td></tr>
+<tr><td>Paint sprayer</td><td>Continuous</td><td>High CFM, sometimes beyond a small unit</td></tr>
+</tbody>
+</table>
+<p>The table is a pattern. Individual tools differ, so use the air consumption figure in each tool's manual.</p>
+
+<h2 id="step-by-step">A sizing method</h2>
+<ol>
+<li>List every air tool you plan to run, including the most demanding.</li>
+<li>Find each tool's required CFM and working PSI in its manual or specification.</li>
+<li>Take the highest requirement among tools you will run one at a time, or add them if two run together.</li>
+<li>Add a margin, because tools are rated at ideal conditions and real hoses, fittings and wear reduce delivery. A commonly cited margin is a third or more above the stated need.</li>
+<li>Look for a compressor whose delivered CFM at the tool's working PSI meets that number.</li>
+<li>Choose a tank size to smooth bursts, with more capacity for intermittent heavy tools.</li>
+</ol>
+<p>Step 5 is where most buyers go wrong. They compare the tool's number with the compressor's number at a different pressure, which makes the compressor look more capable than it is.</p>
+
+<h2 id="illustrative-example">An illustrative example</h2>
+<p>The numbers here are illustrative to show the method. Suppose a sander needs a certain amount of air at the standard working pressure, and you plan to use it for long stretches. A compressor that delivers less than that at the same pressure will run the sander for a short time and then wait for the pump to catch up. The tool will slow down, and the compressor will run constantly.</p>
+<p>Now take a finish nailer that uses a small amount per shot and only fires occasionally. The same small compressor refills the tank between shots, and you never notice a limit. Same machine, two outcomes, and the only difference is how the tool uses air. This is why the answer to the question depends on your tools and not on a universal size.</p>
+
+<h2 id="tank-size">What tank size does for you</h2>
+<p>A larger tank gives you a bigger reservoir of compressed air to draw on during a burst. It also means the pump cycles less often, which reduces wear and noise from constant starting. A tiny tank cycles frequently, even during light use.</p>
+<figure><img src="/images/articles/compressor-sealey-tank.webp" alt="Portable air compressor with a horizontal tank, wheels and a pressure gauge" width="1400" height="931" loading="lazy" /><figcaption>The tank buys time, not output. Once it empties, the pump's delivery rate is the only number that matters.</figcaption></figure>
+<p>The tank does not increase the amount of air the pump can make in an hour. If a tool uses more than the pump can supply, a big tank only delays the point at which the pressure drops. A small pancake-style compressor is portable and sufficient for nailers and inflation, and our <a href="/guide/best-pancake-air-compressors">best pancake air compressors guide</a> lists the strong options. Larger tanks help for tools that need short, intense draws, and the <a href="/guide/best-6-gallon-air-compressors">best 6 gallon air compressors guide</a> covers the common middle size.</p>
+
+<h2 id="duty-cycle">Duty cycle: how long it can run</h2>
+<p>Duty cycle describes the share of time a compressor can run without overheating. A pump rated at a given duty cycle should work for that fraction of each period and rest the rest. A compressor feeding a continuous tool runs most of the time, so a low duty cycle machine will overheat or wear out sooner.</p>
+<p>Smaller consumer compressors are designed for intermittent use. If you plan sustained work, such as long sanding or spraying sessions, look for a compressor intended for higher duty, with a larger pump and often a two-stage design, and check the manufacturer's stated rating.</p>
+
+<h2 id="oil-free-vs-oil-lubricated">Oil-free versus oil-lubricated pumps</h2>
+<p>Oil-free pumps are low maintenance, lighter and cheaper, and they suit occasional use. They are generally louder and have a shorter service life under heavy use. Oil-lubricated pumps run cooler, quieter and last longer, but they need oil checks and changes and tend to be heavier.</p>
+<p>For a homeowner doing nailing, inflation and occasional tasks, oil-free is the practical choice. For a workshop where the compressor runs most days, an oil-lubricated unit pays back in durability and lower noise.</p>
+
+<h2 id="power-and-voltage">Power supply limits</h2>
+<p>A typical small compressor runs on a standard 120 volt household circuit. A larger pump draws more current, and some can trip a breaker on startup if the circuit is shared. Check the motor's current draw and put the compressor on a circuit that can supply it. Large compressors may need a 240 volt circuit, which requires proper electrical installation.</p>
+<p>Avoid long, thin extension cords, which drop the voltage and strain the motor. Use a short heavy cord rated for the current, or better, run an air hose instead of an electrical extension, since a hose is cheap and has no electrical risk.</p>
+
+<h2 id="noise-and-location">Noise and where you will use it</h2>
+<p>Standard compressors are loud. If you will run one in an attached garage, a basement or near neighbors, noise matters. Quiet models use designs that lower the sound level and run at lower speeds, with a trade-off in size and output. See the <a href="/guide/best-quiet-air-compressors">best quiet air compressors guide</a> if noise is a priority.</p>
+<p>Placing the compressor away from your work area and running a hose to the tool reduces the noise you hear while you work. Always allow airflow around the machine and never run it in a closed cabinet.</p>
+
+<h2 id="start-up-and-circuit-load">Start-up surge on shared circuits</h2>
+<p>A compressor motor draws a short surge of current when it starts under pressure, higher than its running current. On a shared household circuit, that surge can trip a breaker even when the running current looks fine. If the breaker trips as the compressor starts, plug it into a circuit with fewer other loads, bleed pressure from the tank before restarting and avoid long extension cords that add resistance and weaken the start.</p>
+
+<h2 id="hoses-and-fittings">Hoses and fittings can cost you CFM</h2>
+<p>A long, narrow hose and small fittings restrict flow, so the tool receives less air than the compressor delivers. Use a hose of adequate diameter, keep the length reasonable and avoid unnecessary quick couplers, which can be restrictive. Poor fittings can make a capable compressor feel weak.</p>
+<p>Drain the tank after use to remove condensed water, which builds up inside and can cause corrosion. A tank that is never drained is a safety and durability issue.</p>
+<div class="mf-callout"><strong>Safety:</strong> wear eye and hearing protection, follow the manual's pressure limits and drain the tank regularly. Never exceed a tool's maximum rated pressure.</div>
+
+<h2 id="single-stage-two-stage">Single-stage and two-stage pumps</h2>
+<p>A single-stage compressor compresses air in one stroke from atmospheric pressure to the working pressure. It is simple, light and suits most home tasks. A two-stage compressor compresses air in two steps, first to an intermediate pressure and then to the final pressure, with cooling in between. The staging is more efficient at higher pressures and runs cooler.</p>
+<p>Two-stage machines are usually larger, heavier and costlier, and they target workshops with air tools that run for long periods. For nailing, inflating and occasional tasks, a single-stage unit is sufficient. If you plan heavy, regular use of a demanding tool, a two-stage machine may be worth discussing with the manufacturer or a retailer.</p>
+
+<h2 id="portable-vs-stationary">Portable versus stationary</h2>
+<p>Pancake and hot dog compressors are designed to be carried, and they trade tank size for portability. They suit job-site nailing, tire inflation and home projects where you move the machine around. Larger vertical or horizontal tanks are heavier, often on wheels, and sit in a garage or a shop.</p>
+<p>If you move between jobs, think about the weight you can lift, the handle and the footprint. If the compressor lives in a corner of a garage, a larger tank and a higher-capacity pump make more sense. For compact portable models, see the <a href="/guide/best-pancake-air-compressors">pancake compressor guide</a>, and for a flexible mid-size option, the <a href="/guide/best-6-gallon-air-compressors">6 gallon guide</a> is a useful reference.</p>
+
+<h2 id="recovery-time">Recovery time and how it feels in use</h2>
+<p>Recovery time is how long the pump takes to refill the tank after you use air. A small pump on a large tank takes a long time to refill, which you notice as long waits between bursts of work. A strong pump on a small tank refills quickly, but it starts often.</p>
+<p>When a tool seems to run out of air, the cause is usually a mismatch between the tool's consumption and the pump's output, not a faulty compressor. If you find yourself waiting for the tank to refill after every few minutes of work, a pump with higher delivered CFM would solve the problem, and a bigger tank would only stretch the wait.</p>
+<ul>
+<li>Frequent short pauses suggest a modest pump, which may be fine for intermittent tools.</li>
+<li>Long waits suggest the tool needs more air than the pump supplies.</li>
+<li>A compressor that never shuts off suggests a leak or undersizing.</li>
+</ul>
+
+<h2 id="common-tools-and-needs">What common jobs ask of a compressor</h2>
+<p>Different projects place very different demands on a compressor, and thinking in terms of jobs helps. Filling tires and pool toys uses little air and almost any compressor will do. Trim carpentry with a brad or finish nailer needs light, intermittent bursts. Framing and roofing nailers use more per shot and fire in quick succession, so a bigger tank helps keep up.</p>
+<p>Automotive work with an impact wrench or a ratchet draws more air during use, and results depend on the CFM at pressure. Sanding, grinding, cutting with an air saw and spraying paint are the hardest, because they consume air constantly. For those, check the tool's required CFM first and shop for a compressor that exceeds it, rather than starting from a tank size.</p>
+
+<h2 id="maintenance-and-safety">Keeping a compressor healthy</h2>
+<p>Compressors reward simple habits. Drain the tank after each use, or at least weekly, to remove the water that condenses from compressed air. Check the air filter and clean or replace it, because a clogged intake starves the pump. On oil-lubricated models, check the oil level and change it on the schedule in the manual.</p>
+<ul>
+<li>Inspect hoses and fittings for cracks and leaks before each session.</li>
+<li>Test the safety relief valve as the manual describes.</li>
+<li>Store the unit in a dry place, with the tank drained.</li>
+<li>Use the correct extension cord and never defeat the thermal protection.</li>
+</ul>
+<p>A neglected tank can corrode from the inside, which is dangerous at high pressure. If you see rust on the outside of the tank or the drain valve leaks, stop using it and consult the manufacturer.</p>
+
+<h2 id="altitude-and-heat">Heat, altitude and real-world derating</h2>
+<p>The numbers on a spec sheet come from a controlled test. A compressor in a hot garage draws in hotter, thinner air and delivers less than it does at a comfortable temperature, and at altitude the thinner atmosphere reduces the mass of air each stroke captures. Neither effect is dramatic for a homeowner, but together they argue for a margin in your sizing rather than a figure that matches the tool exactly.</p>
+<p>Give the machine ventilation, keep it out of direct sun and avoid a closed cabinet, which traps heat and drives the pump into thermal protection. A cooler pump delivers more and lasts longer.</p>
+
+<h2 id="a-buying-checklist">A buying checklist</h2>
+<ol>
+<li>List your tools and note each one's CFM and working PSI.</li>
+<li>Decide whether you use them in bursts or continuously.</li>
+<li>Find compressors that deliver the needed CFM at that pressure, with a margin.</li>
+<li>Choose a tank size that smooths bursts for your heaviest intermittent tool.</li>
+<li>Check duty cycle, pump type, noise and weight.</li>
+<li>Confirm the electrical supply can handle it.</li>
+<li>Budget for a decent hose, a regulator and fittings.</li>
+</ol>
+<p>A compressor sized this way serves you for years, and a mismatched one frustrates you from the first project.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Is a bigger tank always better?</h3>
+<p>No. A bigger tank stores more air and cycles less often, but it does not raise the pump's output. For continuous tools, the delivered CFM matters more than the tank.</p>
+<h3>What size compressor do I need for a nail gun?</h3>
+<p>Nailers use air in short bursts, so a small compressor with a modest tank usually works. Check the tool's air consumption and make sure the compressor delivers enough at the tool's working pressure.</p>
+<h3>Can a small compressor run a sander?</h3>
+<p>Typically not for long. Sanders use air continuously, so a small pump cannot keep up, and the tool slows as pressure drops. Choose a compressor with delivered CFM above the sander's requirement.</p>
+<h3>What does duty cycle mean?</h3>
+<p>It is the share of time a compressor can run without overheating. Sustained work needs a machine built for a higher duty cycle.</p>
+<h3>Do I need an oil-lubricated compressor?</h3>
+<p>Only if you use it heavily. Oil-free models suit occasional work, and oil-lubricated ones suit frequent use, where they run cooler and last longer.</p>
+<h3>Why does my compressor run constantly?</h3>
+<p>It may be too small for the tool, there may be an air leak, or the pressure switch settings may be off. Check hoses and fittings for leaks and compare the tool's demand with the compressor's delivery.</p>
+
+<h3>Do I need a regulator and a filter on the line?</h3>
+<p>Most compressors include a regulator, and you should set it to the tool's working pressure. A moisture filter or water separator on the line helps for painting and sanding, where water droplets spoil the work. For nailers and inflation, it is less critical, but draining the tank is still important.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Size a compressor by what your tools consume, not by the tank. Find each tool's CFM at its working pressure, add a margin, and pick a compressor that delivers that at the same pressure. Use the tank as a buffer, check the duty cycle for long jobs and consider noise and the electrical supply. Match those, and a modest unit serves a nailer well, while the big jobs call for a bigger pump.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"compressor-sealey-tank.webp","author":"Chris Sampson","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Sealey_SA5020_50_Litre_Compressor.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Best Air Compressors","href":"/guide/best-air-compressors"},
+    {"title":"Best Pancake Air Compressors","href":"/guide/best-pancake-air-compressors"},
+    {"title":"CFM vs PSI Explained","href":"/cfm-vs-psi-explained"},
+  ],
+};
+
+export default article;

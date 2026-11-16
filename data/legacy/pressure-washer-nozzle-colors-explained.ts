@@ -1,0 +1,149 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "pressure-washer-nozzle-colors-explained",
+  title: "Pressure Washer Nozzle Colors Explained: Which Tip for Which Job",
+  metaTitle: "Pressure Washer Nozzle Colors Explained",
+  metaDescription: "Red, yellow, green, white and black pressure washer nozzles each spray at a different angle. Learn what every color does and which surfaces it can harm.",
+  kicker: "Explainer",
+  heroImage: { src: "/images/articles/pw-driveway-cleaning.webp", alt: "Pressure washer wand cleaning block paving, leaving a clear strip behind the spray" },
+  lastUpdated: "2026-11-16",
+  readTime: "13 min",
+  quickAnswer: "Pressure washer nozzle colors mark the spray angle: red is 0 degrees, yellow 15, green 25, white 40, and black is a wide low-pressure soap tip. A narrower angle concentrates force and cleans harder but can gouge surfaces, while a wider angle spreads the force and is safer. Start with white or green and move narrower only when the dirt demands it.",
+  html: `<h2 id="the-red-tip-incident">The red tip incident</h2>
+<p>A common story goes like this. Someone wants a stubborn stain gone from the driveway, snaps on the first nozzle in the box, and squeezes the trigger. The stain disappears, and so does a strip of the surface beneath, leaving a pale scar that never blends back. The nozzle was red.</p>
+<p>Color coding on pressure washer tips exists to stop exactly that kind of mistake. Each color stands for a spray angle, and the angle decides how concentrated the force is when it lands. Learn the colors and you can pick the right tip in a second instead of learning by damage.</p>
+<p>This article covers the color code, what each tip is for, what it can ruin, and how to choose. The numbers behind pressure and flow are explained in <a href="/psi-vs-gpm-pressure-washer">our PSI versus GPM article</a>, and large flat areas get their own treatment in the <a href="/what-is-a-surface-cleaner-attachment">surface cleaner attachment</a> explainer.</p>
+
+<h2 id="what-the-colors-mean">What the colors actually mean</h2>
+<p>The standard code is widely used across consumer and many professional tips. The color tells you the angle of the fan the nozzle produces, measured in degrees. A smaller angle means the water leaves in a tighter sheet, so the same pump pressure is packed into a smaller footprint.</p>
+<p>The angle does not change the pressure the pump creates, but it changes the force per square inch of surface you hit. That is why a narrow tip feels brutal and a wide tip feels almost gentle even from the same machine.</p>
+<p>Colors are a convention. Always read the angle stamped on the nozzle itself, because a few brands use their own schemes or add extra colors for specialty tips. When the printed degrees and the color disagree, trust the number.</p>
+
+<h2 id="color-chart">The color chart at a glance</h2>
+<table>
+<thead><tr><th>Color</th><th>Angle</th><th>Concentration</th><th>Typical use</th></tr></thead>
+<tbody>
+<tr><td>Red</td><td>0 degrees</td><td>Pinpoint, most intense</td><td>Rust, tough stains on hard metal or concrete, used with great care</td></tr>
+<tr><td>Yellow</td><td>15 degrees</td><td>Narrow, strong</td><td>Stripping paint or grime from hard surfaces, heavy concrete</td></tr>
+<tr><td>Green</td><td>25 degrees</td><td>Moderate</td><td>General cleaning of decks, siding, driveways, fences</td></tr>
+<tr><td>White</td><td>40 degrees</td><td>Wide, gentle</td><td>Vehicles, windows, outdoor furniture, delicate surfaces</td></tr>
+<tr><td>Black</td><td>Wide, low pressure</td><td>Soap or detergent application</td><td>Applying cleaner before rinsing with another tip</td></tr>
+</tbody>
+</table>
+<p>Many kits also include a rotating turbo tip, which is not part of the color code and works differently. We cover it separately below.</p>
+
+<h2 id="red-0-degrees">Red, 0 degrees</h2>
+<p>The red tip fires a single narrow stream with no fan. It is the most concentrated tip in the kit and the one most likely to cause harm. It can cut through paint, strip wood fibre, score concrete, pierce thin metal, and injure skin and eyes from a surprising distance.</p>
+<p>Most owners almost never need it. Its legitimate uses are narrow, such as reaching a mud dauber nest high on a wall, removing a bit of rust from solid steel, or cleaning inside a tight crack. Even then, stay well back and keep the stream moving.</p>
+<div class="mf-callout"><strong>Safety:</strong> a zero-degree stream can inject water and debris beneath the skin, and the wound may look trivial while being serious. Never point it at people, animals or your own feet, and keep the safety latch on whenever you are not actively cleaning. Some owners keep the red tip out of the nozzle holder entirely.</div>
+
+<h2 id="yellow-15-degrees">Yellow, 15 degrees</h2>
+<p>Yellow produces a narrow fan that still concentrates a lot of force. It is the tip for tasks that need stripping power on tough, hard surfaces: oil-stained concrete, heavily weathered paint on masonry, and caked-on mud on equipment frames.</p>
+<p>It is too aggressive for most wood and for vinyl, and it can leave visible tracks on concrete if you hold it too close or dwell in one place. Use it with a steady sweeping motion and keep a distance of at least a foot or more from the surface, adjusting by watching what happens to the dirt rather than the surface.</p>
+<p>If you often use a narrow tip on large flat concrete, consider a better method. Streaks are the typical flaw, and a surface cleaner attachment spreads the work evenly, which is why it appears in more depth in our <a href="/what-is-a-surface-cleaner-attachment">dedicated explainer</a>.</p>
+
+<h2 id="green-25-degrees">Green, 25 degrees</h2>
+<p>Green is the workhorse. The fan is wide enough to avoid scoring most materials and narrow enough to lift ordinary dirt, mildew and algae. For fences, siding, brick, outdoor tiles, patios and general driveway cleaning, it is the sensible first choice.</p>
+<p>On soft woods and composite decking, it can still be too much at close range. Start further back than you think you need and move in slowly. Always test in an inconspicuous spot first, because the same tip that cleans a fence panel beautifully may fuzz a weathered deck board.</p>
+<p>If you keep only one tip on the wand most of the time, make it this one or the white. Between them they cover most household work without a high chance of damage.</p>
+
+<h2 id="white-40-degrees">White, 40 degrees</h2>
+<p>White has the widest fan among the pressure tips and the gentlest effect. It suits surfaces that dislike force: vehicles, boats, windows, painted surfaces in good condition, outdoor furniture and garden ornaments.</p>
+<p>Because the energy is spread over a large footprint, it is also the safest tip for a beginner to start with on any unfamiliar surface. If white does not lift the dirt, step up to green rather than jumping to yellow. The progression from wide to narrow is how professionals avoid mistakes.</p>
+<p>A wider fan also covers more area per pass, which is useful for rinsing. For light rinsing after you apply detergent, white is often all you need.</p>
+
+<h2 id="black-soap-tip">Black, the soap tip</h2>
+<p>The black nozzle has a larger orifice, which drops the pressure at the tip to a low level. That drop is deliberate. Many pressure washers draw detergent through a siphon tube using a vacuum effect, and the siphon only works when the pressure falls low enough.</p>
+<p>This means soap is usually applied with the black tip, left to dwell on the surface for the time the product label specifies, and then rinsed with a higher-pressure tip. Some machines have a built-in detergent tank and a switch, while others rely on the siphon with this tip.</p>
+<p>Do not let detergent dry on the surface, especially in sun, and rinse thoroughly. Use only products designed for pressure washers, as household cleaners can damage pump seals or leave residue. Check the manual for what the pump can handle.</p>
+
+<h2 id="turbo-and-rotating-tips">Turbo and rotating tips</h2>
+<p>A turbo nozzle, also called a rotary or rotating nozzle, spins a zero-degree jet in a small cone. It cleans nearly as hard as a narrow tip but covers a wider path, which makes it popular for stubborn, stained concrete. The spinning motion gives better coverage than a fixed red tip with less risk of a single scar.</p>
+<p>It is not a free lunch. A turbo tip still concentrates force on whatever it touches, so it can mark soft materials, and it reduces effective flow because the water has to turn the rotor. Pump pressure falls slightly, and the machine feels different in the hand.</p>
+<p>Use a turbo tip on hard surfaces only, keep it moving, and avoid it on wood, vehicle paint and siding. The decision between it and a surface cleaner usually comes down to area: spot treatment suits a turbo tip, and large flat surfaces suit the attachment.</p>
+
+<h2 id="match-tip-to-surface">Matching the tip to the surface</h2>
+<table>
+<thead><tr><th>Surface</th><th>Safe starting tip</th><th>Avoid</th></tr></thead>
+<tbody>
+<tr><td>Car, boat, motorbike</td><td>White</td><td>Red, yellow, turbo</td></tr>
+<tr><td>Windows and glass</td><td>White, from a distance</td><td>Anything narrower, because of seals and cracks</td></tr>
+<tr><td>Vinyl siding</td><td>White or green, spraying downward</td><td>Red, yellow, turbo</td></tr>
+<tr><td>Wood fence and deck</td><td>White, then green</td><td>Red, yellow, turbo</td></tr>
+<tr><td>Brick and stone</td><td>Green</td><td>Red, narrow tips on soft or old mortar</td></tr>
+<tr><td>Concrete</td><td>Green, then yellow for stains</td><td>Red held close, long dwell in one spot</td></tr>
+<tr><td>Metal tools and frames</td><td>Green or yellow</td><td>Red on thin or painted sheet</td></tr>
+</tbody>
+</table>
+
+<h2 id="why-wider-is-safer">Why a wider fan is the safer default</h2>
+<p>Force per area is the quantity that damages a surface, and it climbs sharply as the fan narrows. Doubling the concentration does not merely double the risk, because many materials have a threshold below which they are unharmed and above which they fail. Wood fibres, paint films and sealant lines all behave this way.</p>
+<figure><img src="/images/articles/pw-driveway-partly-done.webp" alt="Concrete driveway partly cleaned, with curved clean paths across grey concrete" width="1400" height="653" loading="lazy" /><figcaption>Every one of these curved paths is a tip width. Overlap and consistent distance are what stop the stripes showing.</figcaption></figure>
+<figure><img src="/images/articles/pw-before-after-low-pressure.webp" alt="House siding half cleaned, showing the line between dirty and clean surface" width="1400" height="1050" loading="lazy" /><figcaption>Painted siding is the classic case for a wide fan. A narrow tip here strips paint rather than dirt.</figcaption></figure>
+<p>That threshold is why a gentle approach works so reliably. Start with white or green and the force is almost certainly under the limit for any normal surface. Step narrower only after you have seen that the dirt will not budge. You lose a few seconds and avoid a ruinous mistake.</p>
+<p>It also explains why distance is a safety control, not just a technique. A fan spreads as it travels, so the same tip held further back lands softer. Treat standoff and angle as two dials on one control and turn them together.</p>
+
+<h2 id="distance-and-technique">Distance and technique matter as much as color</h2>
+<p>A tip is only half of the safety equation. The other half is how far the nozzle sits from the surface, since force falls off with distance. Moving the wand a few inches closer can multiply the effect, and that is why careful operators change the standoff before they change the tip.</p>
+<ul>
+<li>Start further back than feels necessary, then step in until the dirt lifts.</li>
+<li>Keep the wand moving and overlap passes by about a third.</li>
+<li>Hold the fan at a slight angle rather than square on, so debris is thrown sideways.</li>
+<li>Work from top to bottom so dirt runs down onto areas you have not cleaned yet.</li>
+</ul>
+<p>Eye protection is not optional, because debris and spray rebound at speed. Closed shoes and long trousers are sensible too, since a ricochet from a narrow tip can sting even through light clothing.</p>
+
+<h2 id="quick-connect-and-fitting">Quick-connect fittings and compatibility</h2>
+<p>Most modern consumer machines use quick-connect nozzles that snap into the end of the wand when you pull a collar back. They save time and make swapping tips painless, which encourages you to use the correct one. Older or heavier setups use threaded fittings and need a bit more care.</p>
+<p>Make sure any tip you buy matches both the connection style and the machine's pressure and flow rating. A nozzle sized for a much larger machine behaves poorly on a small one, because the orifice is too big to build proper pressure. Tips usually carry a size number, and the manual indicates what your pump expects.</p>
+<p>When a nozzle wears, the orifice enlarges and the pressure falls. If cleaning performance drops slowly over a season, a worn tip is a cheap thing to check before you suspect the pump. Store spare tips in a labelled case so you do not grab the wrong one by feel.</p>
+
+<h2 id="reading-the-nozzle-number">Reading the number stamped on the nozzle</h2>
+<p>Besides the angle, most nozzles carry a second number that tells you the orifice size. A common format is a four-digit code, where the first two digits indicate the spray angle and the last two indicate the orifice size. A tip stamped with a code starting 25 produces a 25 degree fan, which matches green, and the remaining digits set how much water passes through.</p>
+<p>The orifice size is matched to the machine's pressure and flow. If the orifice is too large for the pump, pressure at the tip drops and the machine feels weak. If it is too small, pressure rises above what the pump should deliver, which strains the pump and can trip a pressure relief. That is why swapping in a random tip from another brand is not always harmless.</p>
+<p>When you replace a lost or worn nozzle, match both numbers to the original. If you cannot find the code, check the manual or ask the manufacturer for the correct size for your model. A mismatched orifice is the most common reason a new tip seems to perform worse than the one it replaced.</p>
+
+<h2 id="common-nozzle-problems">Common nozzle problems and fixes</h2>
+<p>Nozzles fail quietly. A partly blocked orifice gives an uneven fan with dry stripes or a spray that veers to one side. Grit from the water supply is the usual cause, and a clogged inlet screen on the machine lets it through. The fix is to switch off the machine, release the trigger pressure, and clear the orifice with the small cleaning needle that often ships with the kit.</p>
+<figure><img src="/images/articles/pw-karcher-unit.webp" alt="Yellow domestic pressure washer unit with hose reel and lance" width="1400" height="1867" loading="lazy" /><figcaption>A blocked tip shows up as a drop in pressure at the machine. Check the nozzle before suspecting the pump.</figcaption></figure>
+<p>A worn orifice looks fine but acts weak. Sand and mineral-laden water slowly enlarge the opening, and pressure at the tip falls with it. If cleaning power fades gradually across a season and the pump sounds normal, replace the tip before you replace anything bigger.</p>
+<p>Quick-connect collars can also fail. A collar that does not lock fully may let the nozzle blow out of the wand under pressure, which is a hazard because it turns into a projectile. Pull on a nozzle after you click it in, every time, to confirm it is seated.</p>
+<div class="mf-callout"><strong>Release pressure first:</strong> before you change or clear a nozzle, switch the machine off, squeeze the trigger to release stored pressure, and engage the safety lock. Never clear a blocked tip while the pump is running or the line is still pressurised.</div>
+
+<h2 id="choosing-a-set">What a sensible nozzle set contains</h2>
+<p>A good kit covers the practical range without including every extreme. At minimum, look for a green or white tip for general work, a white tip for delicate jobs, a soap tip, and a narrower option for stubborn marks. A turbo tip is a useful extra if you have a lot of hard concrete.</p>
+<p>When you compare machines in our roundups, check what is included in the box. A model that ships with a full set of quick-connect tips saves you money later, and you can see what comes with each unit in <a href="/guide/best-pressure-washers">our pressure washer comparison</a>. If you are shopping specifically in the common household class, <a href="/guide/best-2000-psi-pressure-washers">the 2000 PSI roundup</a> shows what kits typically include.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>What does each pressure washer nozzle color mean?</h3>
+<p>The color indicates the spray angle: red is 0 degrees, yellow 15, green 25 and white 40, while black is a wide, low-pressure soap tip. Narrower angles concentrate force and clean harder but damage more easily.</p>
+<h3>Which nozzle is best for a driveway?</h3>
+<p>Green is a good general choice, with yellow for oil stains and heavy dirt used carefully. For a large flat driveway, a surface cleaner attachment gives a more even finish than any single tip.</p>
+<h3>Can I use the red tip to clean my deck?</h3>
+<p>No. A zero-degree stream will gouge wood and can leave permanent marks. Use white or green from a safe distance, and test a small hidden area first.</p>
+<h3>Why will my detergent not come out with the green tip?</h3>
+<p>Most siphon systems only draw soap when the nozzle drops pressure enough to create a vacuum, which is why the black tip is used. Check the manual for how your machine applies detergent.</p>
+<h3>Do nozzle colors change PSI?</h3>
+<p>The machine's rated pressure stays the same, but the nozzle changes how that pressure is delivered. A narrower tip concentrates force onto a smaller area, so the surface feels more pressure per square inch.</p>
+<h3>How often should I replace nozzles?</h3>
+<p>Replace one when cleaning performance drops for no other reason, when the orifice looks enlarged or damaged, or when the spray pattern turns uneven. They are small, inexpensive parts and worth keeping a spare for.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Color is shorthand for angle, and angle is shorthand for risk. Start wide with white or green, step narrower only when needed, keep the red tip for rare, careful jobs, and use the black tip for soap. Read the degrees stamped on the nozzle instead of trusting the color alone.</p>
+<p>Combine the right tip with sensible distance and steady movement and you will clean quickly without leaving scars. For choosing a machine that suits your jobs in the first place, start with our <a href="/gas-vs-electric-pressure-washer">gas versus electric comparison</a>.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"pw-driveway-cleaning.webp","author":"Clean and Green","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Driveway-Cleaning-1-1.jpg"},
+    {"image":"pw-before-after-low-pressure.webp","author":"Jamesmcardle","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Before_and_after_low_pressure_cleaning.jpg"},
+    {"image":"pw-driveway-partly-done.webp","author":"Rossaustralia","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Brighton-Driveway-29Apr.jpg"},
+    {"image":"pw-karcher-unit.webp","author":"Asurnipal","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstraße-Kaercher_770MX-3_kW-01ASD.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"PSI vs GPM on a Pressure Washer","href":"/psi-vs-gpm-pressure-washer"},
+    {"title":"What Is a Surface Cleaner Attachment","href":"/what-is-a-surface-cleaner-attachment"},
+    {"title":"Gas vs Electric Pressure Washers","href":"/gas-vs-electric-pressure-washer"},
+  ],
+};
+
+export default article;

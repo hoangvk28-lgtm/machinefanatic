@@ -1,0 +1,140 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "battery-snow-blowers-in-deep-snow",
+  title: "Can a Battery Snow Blower Handle Deep Snow? Limits, Runtime and Cold",
+  metaTitle: "Can Battery Snow Blowers Handle Deep Snow?",
+  metaDescription: "How battery snow blowers behave in deep, heavy snow and cold: voltage platforms, watt-hours, runtime under load and when gas is still the safer choice.",
+  kicker: "Explainer",
+  heroImage: { src: "/images/articles/snow-deep-driveway.webp", alt: "Deep snow covering a garden and driveway after a heavy fall" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "Battery snow blowers handle light to moderate snow on small and medium drives well, but deep, wet or packed snow drains the battery quickly and can stall the motor. Cold reduces usable capacity, and runtime under load is far shorter than the figure on the box. For deep snow, choose a higher-voltage platform with several batteries, clear in layers, or stay with gas.",
+  html: `<h2 id="a-forty-minute-battery-and-a-foot-of-snow">One battery, a foot of snow, and a half-cleared drive</h2>
+<p>The scene repeats itself in cordless households every winter. The forecast said six inches, a foot fell, and halfway down the driveway the battery gauge drops to one bar. The motor slows, the auger starts to lag, and the owner stands at the middle of the drive holding a machine that is quietly giving up.</p>
+<p>Battery snow blowers are real tools now, and for the right job they are a pleasure: no fuel, no pull cord, no fumes, quiet enough to use at dawn. The trouble is that marketing leans on the best case, a light snowfall and a fresh battery, while the buyer's real day is often the worst case.</p>
+<p>This article explains how battery machines behave under load and in the cold, how to read the specifications that matter, and how to decide whether a cordless machine fits your snow. Sizing and mechanism are covered elsewhere: see <a href="/what-size-snow-blower-do-i-need">our size guide</a> and the <a href="/single-stage-vs-two-stage-snow-blower">single-stage versus two-stage comparison</a>.</p>
+
+<h2 id="what-limits-a-battery-machine">What actually limits a battery snow blower</h2>
+<p>Two physical limits govern a cordless machine. The first is power, meaning how fast the battery and motor can deliver energy. The second is energy, meaning how much total work the battery can store. Deep snow stresses both at once, because moving heavy snow demands high power and sustains it for many minutes.</p>
+<p>Power is limited by the motor, the electronics and the battery's ability to discharge quickly. If the load exceeds what the system can deliver, the controller protects it by slowing or cutting out. You experience that as the auger bogging down or the machine stopping with a fault light, even though the battery still holds charge.</p>
+<p>Energy is limited by capacity. Heavy snow draws far more energy per foot of driveway than light snow, so the same battery that cleared a whole drive in a dusting runs out part-way through a storm. The relationship is not linear, because heavy loads also create more heat and loss in the system.</p>
+
+<h2 id="decoding-the-battery-numbers">Decoding the battery numbers</h2>
+<p>Battery labels use voltage and amp-hours. Voltage describes the electrical pressure of the system, and amp-hours describe charge capacity. Multiplying them gives watt-hours, which is the number that best predicts how much total work a battery can do. A higher voltage platform with the same amp-hours stores more energy.</p>
+<p>The voltage class also hints at the power the platform can deliver. Lower voltage platforms suit lighter machines, and higher voltage platforms are used for heavier ones. You can see how classes line up in our roundups of <a href="/guide/best-40v-snow-blowers">40V</a>, <a href="/guide/best-60v-snow-blowers">60V</a> and <a href="/guide/best-80v-snow-blowers">80V</a> snow blowers.</p>
+<table>
+<thead><tr><th>Spec</th><th>What it tells you</th><th>What it does not tell you</th></tr></thead>
+<tbody>
+<tr><td>Voltage</td><td>Platform class and power ceiling</td><td>How long the machine runs</td></tr>
+<tr><td>Amp-hours</td><td>Charge capacity of one battery</td><td>Total energy without voltage</td></tr>
+<tr><td>Watt-hours</td><td>Total stored energy, the best runtime predictor</td><td>Performance in the cold or under heavy load</td></tr>
+<tr><td>Number of batteries</td><td>Total energy available per charge cycle</td><td>Whether the motor can use it all at once</td></tr>
+<tr><td>Stated runtime</td><td>Best-case time in light conditions</td><td>Deep or wet snow performance</td></tr>
+</tbody>
+</table>
+<p>Watch for claims that quote runtime on a single battery in light snow. Under load, runtime is much shorter, and the manufacturer's figure rarely says what conditions it applies to.</p>
+
+<h2 id="cold-weather">What cold does to the battery</h2>
+<p>Lithium-ion batteries lose usable capacity and power as the temperature falls. The chemistry slows down, internal resistance rises, and the battery cannot deliver as much current or as many watt-hours. The effect is gradual and varies by cell design, so rather than quote a figure, treat any cold day as shorter runtime than the label implies.</p>
+<p>Battery management systems add another layer. Many batteries will refuse to charge below a certain temperature, and some limit output when very cold to protect the cells. A battery left in an unheated garage overnight in a deep freeze may arrive at the machine already depleted in usable terms.</p>
+<p>The practical fix is simple. Store batteries indoors at room temperature until you need them, and bring a spare indoors while you use the first. A warm battery performs better, and a battery warmed by use stays warm for a while. Charge only in conditions the manual allows.</p>
+<div class="mf-callout"><strong>Charging in the cold:</strong> do not charge a frozen battery. Let it reach the temperature range stated in the manual first, and never force a charge on a battery that is swollen, damaged or leaking.</div>
+
+<h2 id="how-deep-snow-changes-the-load">How deep and wet snow changes the load</h2>
+<p>Snow weight varies enormously. Light, dry powder is mostly air, and a machine throws it with modest effort. Wet snow can weigh many times more per cubic foot, and compacted snow or a plow ridge is denser still. The machine has to accelerate every pound of snow to throwing speed, so energy use climbs with density and depth together.</p>
+<figure><img src="/images/articles/snow-blower-blowing-snow.webp" alt="Snow being thrown in a wide plume beside people clearing a path" width="1400" height="1050" loading="lazy" /><figcaption>Deep wet snow raises the load on every pass, and runtime falls faster than the depth rises.</figcaption></figure>
+<p>Depth also matters through the bite. In deep snow the auger tries to take in more volume per second, so the motor is loaded continuously. A shallow layer lets the machine coast between demands, while a deep layer keeps it near its limit. This is why battery runtime on the same driveway can differ so much between storms.</p>
+<p>Ground speed is a variable you control. Walking slowly lets the machine take smaller bites and keeps the load manageable. Rushing a cordless machine through deep snow stalls the auger, trips the protection circuit, and wastes the battery on a high peak load.</p>
+
+<h2 id="clearing-in-layers">Clearing deep snow in layers</h2>
+<p>The best technique with a cordless machine in deep snow is to clear in layers. Set the chute and take the top portion off first, then go back for the remainder. Layers reduce the instantaneous load, which keeps the motor in a healthy range and reduces the chance of stalling.</p>
+<figure><img src="/images/articles/snow-blower-clearing-drive.webp" alt="Person clearing snow with a snow blower, throwing a plume of snow" width="1400" height="1043" loading="lazy" /><figcaption>Taking the fall in two shallow passes keeps the auger loaded lightly, which is the practical fix for a battery machine.</figcaption></figure>
+<p>It costs extra passes, but it saves battery. A machine that never stalls wastes less energy than one that repeatedly bogs down and restarts. Think of it as using a lower gear, trading time for efficiency.</p>
+<p>Another tactic is to clear snow during the storm in two or three sessions instead of waiting for the full accumulation. Clearing six inches twice is far easier than clearing a foot once, and it suits cordless machines well, because each session uses a manageable fraction of the battery.</p>
+<ul>
+<li>Take half-width bites when the snow is heavy, overlapping the previous pass.</li>
+<li>Walk slowly and let the auger clear before you advance.</li>
+<li>Clear the plow ridge by hand first, or in thin slices.</li>
+<li>Rest the machine briefly if it feels warm or the motor begins to labour.</li>
+</ul>
+
+<h2 id="single-stage-versus-two-stage-cordless">Single-stage versus two-stage in cordless form</h2>
+<p>Most battery snow blowers are single-stage machines, because the compact mechanism suits battery power. They clear close to the pavement and are light, but they share the limits of any single-stage machine in deep snow: they struggle with depth above their intake and with packed material.</p>
+<p>Cordless two-stage machines exist and use higher-voltage platforms and multiple batteries to supply more power. They bring wheel drive and an impeller, so they handle deeper snow than a cordless single-stage unit. Even so, they are limited by battery energy, and heavy snow on a large drive may require several batteries or a mid-job recharge.</p>
+<p>If your snow is regularly deep, the mechanism and the battery both matter. A machine with the right mechanism and too small a battery stalls, and a machine with a large battery and the wrong mechanism bogs in the heavy layers. Our <a href="/single-stage-vs-two-stage-snow-blower">comparison article</a> covers the mechanism side in full.</p>
+
+<h2 id="runtime-planning">Planning runtime for your driveway</h2>
+<p>Runtime planning is a matter of honest arithmetic. Estimate the area, estimate the snow, and then compare with the battery's energy. You will not get a precise answer, but you will avoid the worst surprises.</p>
+<p>Start with the manufacturer's stated runtime and assume it applies to a light snowfall. Then discount it substantially for deep or wet snow and for cold weather. If the discounted figure covers your drive with a margin, a single battery may do. If not, plan for a second battery, or for clearing in stages.</p>
+<p>A quick method is to test your own drive on a mild, light day. Note how much of the battery a full clear uses, then scale for heavier conditions. If a light-snow clear uses half the battery, a heavy storm may well need all of it or more, and you should plan accordingly.</p>
+<p>Remember that batteries age. After years of cycling, capacity falls, and a machine that cleared your drive comfortably when new may struggle later. Allow headroom for that, particularly if you are buying for a drive that is already at the limit.</p>
+
+<h2 id="spare-batteries-and-charging">Spare batteries and charging logistics</h2>
+<p>For anything beyond a small drive, a second battery is the best upgrade. It lets you swap and continue, and it gives a warm battery on a cold day. Check that the charger can restore a battery in a reasonable time, because a slow charger limits the value of a spare.</p>
+<p>Plan charging around the weather. Charge indoors before the storm, and keep spares indoors until use. If you expect a long storm with multiple clearings, set the charger up at the end of the first session so batteries are ready for the next.</p>
+<p>Check the platform for compatibility if you own other cordless tools. Sharing batteries across a mower, a trimmer and a snow blower is a real saving, but a snow blower is a heavy load, and a small battery meant for light tools will run it only briefly. Match the battery size to the machine, not only the brand.</p>
+
+<h2 id="reading-marketing-claims">Reading the marketing claims</h2>
+<p>Cordless snow blower listings lean on a few phrases that deserve scepticism. "Up to" runtime figures describe a best case, usually light snow on a fresh, warm battery. "Equivalent to a gas engine" comparisons use a rating convention that is not a measurement of snow-moving ability. "Brushless motor" is a genuine efficiency benefit, but it does not turn a small battery into a large one.</p>
+<p>A useful habit is to ask what each claim leaves out. A runtime figure that does not name the snow depth or battery temperature is incomplete. A clearing width quoted without an intake height tells you how wide the machine is but not how deep it can go. A weight listed without the battery tells you less than you think, since packs are heavy.</p>
+<p>Compare machines on the same basis: platform voltage, total watt-hours supplied in the box, clearing width, intake height, and the mechanism. When a listing leaves one of those out, assume the number is not flattering.</p>
+
+<h2 id="battery-care-through-winter">Battery care through the season</h2>
+<p>Battery longevity depends on how they are treated. Avoid leaving packs in a freezing vehicle or shed, avoid fully depleting them repeatedly, and avoid charging a hot or frozen pack. Store them at room temperature, partly charged, at the end of the season, following the manufacturer's guidance for off-season storage.</p>
+<p>Inspect the pack and the contacts before each storm. Corrosion from road salt or moisture on the terminals causes poor contact and heat. Wipe the contacts clean and dry, and check for cracks in the casing. A damaged or swollen pack should be retired and handled as the manual directs, since it can be a fire hazard.</p>
+<p>Keep the charger in a dry, ventilated spot away from combustible material, and do not leave batteries charging unattended for days. A modest routine of storing, warming and charging them properly adds seasons to their useful life, which matters because replacement packs are a significant cost.</p>
+<div class="mf-callout"><strong>Fire safety:</strong> never charge a damaged battery, never leave a charging pack on a flammable surface, and follow the manufacturer's disposal instructions for worn-out packs. Lithium-ion batteries can overheat if abused.</div>
+
+<h2 id="when-gas-is-still-better">When gas is still the safer choice</h2>
+<p>Gas still wins in a few clear situations. Long driveways, frequent deep or wet storms, a heavy plow ridge, steep slopes and very cold climates all favour a gas machine, because it carries its energy as fuel and can be refilled in seconds. A gas two-stage machine keeps going as long as you do.</p>
+<figure><img src="/images/articles/snow-blower-gilson.webp" alt="Red two stage snow blower parked on a cleared driveway beside a garage door" width="1400" height="933" loading="lazy" /><figcaption>For long driveways and repeated heavy storms, refuelling in a minute still beats waiting on a charger.</figcaption></figure>
+<p>Cordless machines suit the opposite profile: short to medium drives, light to moderate snow, and owners who value quiet, easy starts and low maintenance. Many households fall into this group, and for them a battery machine is a good fit.</p>
+<p>A mixed approach also works. Use a cordless machine for the regular storms, and keep a shovel and a plan for the big one, or have a neighbor or contractor on call for the exceptional storm. Decide before the storm which approach you will use.</p>
+
+<h2 id="decision-table">Decision table</h2>
+<table>
+<thead><tr><th>Your conditions</th><th>Battery machine</th><th>Better choice</th></tr></thead>
+<tbody>
+<tr><td>Short paved drive, light to moderate snow</td><td>Good fit</td><td>Cordless single-stage</td></tr>
+<tr><td>Medium drive, mixed snow, spare batteries available</td><td>Workable</td><td>Higher-voltage cordless, with spares</td></tr>
+<tr><td>Long drive, frequent heavy snow</td><td>Marginal</td><td>Gas two-stage</td></tr>
+<tr><td>Plow ridge every storm</td><td>Limited</td><td>Gas two-stage, or hand-clear the ridge</td></tr>
+<tr><td>Gravel drive</td><td>Only a cordless two-stage with adjustable shoes</td><td>Two-stage, see the skid shoe guide</td></tr>
+<tr><td>Frequent deep freezes</td><td>Needs indoor battery storage</td><td>Gas, or careful battery handling</td></tr>
+</tbody>
+</table>
+<p>For gravel, remember to set the housing height correctly, which we explain in <a href="/how-to-adjust-snow-blower-skid-shoes">the skid shoe guide</a>. For a broader look at cordless and other models, see <a href="/guide/best-snow-blowers">our snow blower roundup</a>.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Can a battery snow blower handle eight inches of snow?</h3>
+<p>Often yes, if the snow is light and you clear in layers, but wet or packed snow of that depth can overwhelm a smaller machine. Check the manufacturer's stated capacity and plan for a spare battery.</p>
+<h3>Why does my battery snow blower stop even though the battery is not empty?</h3>
+<p>Protection circuits cut power when the motor draws too much current, when the battery is too hot or too cold, or when voltage sags under load. Slow your pace and take smaller bites, and let the pack warm up if it is very cold.</p>
+<h3>Do batteries really lose capacity in the cold?</h3>
+<p>Yes. Lithium-ion cells deliver less energy and power at low temperatures, so expect shorter runtime on freezing days. Keep batteries indoors until use to help.</p>
+<h3>Is a higher voltage platform better for deep snow?</h3>
+<p>Generally, higher-voltage platforms are designed for heavier machines and can deliver more power, but the machine design and battery energy matter too. Compare watt-hours and the intended use, not voltage alone.</p>
+<h3>How many batteries do I need?</h3>
+<p>For a small drive, one may be enough. For a medium or large drive, or heavy snow, plan on two or more so you can swap and continue. Estimate by testing runtime on a light day and scaling up.</p>
+<h3>Can I use my mower battery in a snow blower?</h3>
+<p>If the platform supports it, yes, but check that the battery size suits the load. A snow blower is a heavy, sustained load, and a small battery will deplete quickly.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Battery snow blowers are a good match for short to medium paved drives and light to moderate snow, and they get worse as snow gets deeper, wetter and colder. Runtime under load is much shorter than the label suggests, cold cuts usable capacity, and heavy snow can stall the motor even with charge left.</p>
+<p>If you go cordless, pick a platform with enough power for your snow, buy a spare battery, keep batteries warm, and clear in layers. If your snow is heavy and your drive is long, gas remains the dependable choice.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"snow-deep-driveway.webp","author":"Raysonho","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:7Winter_in_Waterdown_2014.JPG"},
+    {"image":"snow-blower-blowing-snow.webp","author":"Katja Schulz","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Blowing_Snow_-_Flickr_-_treegrow.jpg"},
+    {"image":"snow-blower-clearing-drive.webp","author":"Mcapdevila","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Snowblower.JPG"},
+    {"image":"snow-blower-gilson.webp","author":"Gilson","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Gilson_snowblower_model_55093.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Single-Stage vs Two-Stage Snow Blower","href":"/single-stage-vs-two-stage-snow-blower"},
+    {"title":"What Size Snow Blower Do I Need","href":"/what-size-snow-blower-do-i-need"},
+    {"title":"How to Adjust Snow Blower Skid Shoes","href":"/how-to-adjust-snow-blower-skid-shoes"},
+  ],
+};
+
+export default article;

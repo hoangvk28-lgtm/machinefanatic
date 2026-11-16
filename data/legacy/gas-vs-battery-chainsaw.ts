@@ -1,0 +1,142 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "gas-vs-battery-chainsaw",
+  title: "Gas vs Battery Chainsaw: Power, Runtime, Noise and Upkeep Compared",
+  metaTitle: "Gas vs Battery Chainsaw: Which to Buy",
+  metaDescription: "Compare gas and battery chainsaws on power, runtime, noise, weight, maintenance and cold weather, and find which fits your yard work or firewood needs.",
+  kicker: "Comparison",
+  heroImage: { src: "/images/articles/chainsaw-bosch-electric.webp", alt: "Electric chainsaw with a short bar, shown against a plain background" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "Battery chainsaws suit yard cleanup, pruning and light firewood: they start instantly, run quietly, need almost no maintenance and cut for as long as the battery lasts. Gas chainsaws suit large trees, heavy felling and long working days, because they offer the highest sustained power and refuel in seconds. Choose by the size and amount of wood you cut, not by loyalty to a power source.",
+  html: `<h2 id="the-direct-answer">The direct answer</h2>
+<p>For most homeowners cutting branches, fallen limbs and a modest amount of firewood, a battery chainsaw is now the better everyday tool. It starts with a button, it does not smell of exhaust, and it asks for nothing between jobs but a charged battery and a sharp chain.</p>
+<p>Gas still wins for sustained, heavy work: felling large trees, bucking big logs, and cutting for hours. It carries its energy as fuel, delivers high power without sagging, and refills in seconds. Everything else in this comparison is detail around that split.</p>
+<p>This article is only about the power source. Bar selection is in the <a href="/chainsaw-bar-length-guide">bar length guide</a>, chain vocabulary in the <a href="/chainsaw-chain-types-explained">chain types explainer</a>, and filing in the <a href="/how-to-sharpen-a-chainsaw-chain">sharpening guide</a>. Those hold for either type.</p>
+
+<h2 id="how-each-delivers-power">How each type delivers power</h2>
+<p>A gas chainsaw uses a small two-stroke engine, or in some models a four-stroke, mixing fuel and oil or using separate lubrication. It makes power by burning fuel, which means it needs air, fuel, a spark and a working carburetor. Output is measured by engine displacement or power rating.</p>
+<figure><img src="/images/articles/chainsaw-chain-brake.webp" alt="Petrol chainsaw resting on a tree stump outdoors" width="1400" height="713" loading="lazy" /><figcaption>A gas saw makes power while the engine runs. A battery saw delivers it only while charge remains.</figcaption></figure>
+<p>A battery chainsaw uses an electric motor powered by a lithium-ion battery pack. Modern brushless motors are efficient and deliver high torque from a standstill. Power depends on the battery voltage, the motor design and the battery's ability to discharge at a high rate.</p>
+<p>The difference shows up under load. An engine has a rev range and can be pushed hard for long periods, while a battery system manages power electronically and may reduce output if the pack heats up or the voltage sags. For short bursts the gap is narrow, and for sustained heavy cutting it widens.</p>
+
+<h2 id="power-and-capacity">Power and cutting capacity</h2>
+<p>High-end gas saws are built for large wood. They carry long bars, aggressive chains and engines that hold speed in dense hardwood. For felling mature trees and bucking big rounds all day, gas is the standard in professional work.</p>
+<p>Battery saws have narrowed the gap at the compact and mid-size range. Modern models can handle common firewood and yard work with ease, and some high-voltage models approach the capability of mid-size gas saws. The limit is not instantaneous power but how long the battery can hold it.</p>
+<p>If your wood is mostly under about a foot thick and you cut in sessions of an hour or less, a good battery saw is adequate. If you routinely cut larger logs, or cut for many hours at a stretch, gas gives more margin. This is also where bar length matters, because a long bar on a modest saw bogs down regardless of power source.</p>
+
+<h2 id="runtime-and-refuelling">Runtime and refuelling</h2>
+<p>Runtime is the central trade-off. A gas saw runs until the tank is empty, which takes long enough for a typical session, and refilling takes seconds. A battery saw runs until the pack is depleted, and swapping a second pack takes seconds too, but recharging takes a long time compared with refuelling.</p>
+<p>Real battery runtime depends on the wood and the technique. Cutting hardwood with a long bar drains a pack much faster than pruning softwood branches. Manufacturer runtime claims are usually for light cutting, so plan on shorter runtime in heavy use.</p>
+<p>The practical approach is to count packs. For occasional pruning, one pack is enough. For a day of firewood, you may need two or three, plus a charger that works while you cut. Without enough packs, a battery saw interrupts the work, and a gas saw does not.</p>
+
+<h2 id="noise-and-fumes">Noise, vibration and fumes</h2>
+<p>Battery saws are much quieter. The chain and the cutting still make noise, but the engine roar is gone, and you can talk, hear traffic and work early without disturbing neighbors. Vibration is also lower, which reduces fatigue over a long session.</p>
+<figure><img src="/images/articles/chainsaw-cutting-branch.webp" alt="Person using a chainsaw to cut a fallen tree branch in a garden" width="1400" height="935" loading="lazy" /><figcaption>For short jobs close to a house, the difference in noise and exhaust is the deciding factor more often than cutting speed.</figcaption></figure>
+<p>Gas saws are loud and vibrate noticeably. Hearing protection is essential, and anti-vibration mounts only partly reduce the effect on hands and arms. Exhaust fumes include carbon monoxide, which makes gas saws unsuitable for enclosed or poorly ventilated areas.</p>
+<p>For suburban yards where noise and fumes are a concern, battery wins decisively. For remote jobs, where neither the neighbors nor the confined space matter, the difference counts for less.</p>
+<div class="mf-callout"><strong>Protect your hearing:</strong> a gas chainsaw runs at a volume that can damage hearing with repeated exposure. Wear ear protection with any gas saw, and consider it with a battery saw too, since the chain noise on hard wood is still high.</div>
+
+<h2 id="weight-and-handling">Weight and handling</h2>
+<p>Weight depends on size more than on power source. A compact battery saw is often lighter than a similar gas saw, since it has no fuel tank or engine, though the battery adds weight. In larger sizes, a gas saw can be lighter per unit of power, but the battery pack's mass is balanced at the rear in some designs.</p>
+<figure><img src="/images/articles/chainsaw-in-hand.webp" alt="Chainsaw bar and chain resting across a cut tree stump" width="1400" height="1050" loading="lazy" /><figcaption>Battery weight sits at the back of the saw, which changes the balance in a way the spec sheet does not show.</figcaption></figure>
+<p>Handling differences come from the start. A battery saw is ready instantly and stops completely between cuts, which is a safety benefit, since the chain does not idle. A gas saw idles with the chain stationary but the engine running, and starting requires a pull cord and some technique.</p>
+<p>For overhead pruning and one-handed jobs, many users find compact battery saws easier to control. Whatever the power source, never cut above shoulder height, and never use a chainsaw on a ladder.</p>
+
+<h2 id="maintenance">Maintenance and ownership</h2>
+<p>Battery saws have few maintenance items beyond the chain, bar and bar oil. There is no fuel to stabilise, no carburetor to clean, no spark plug and no air filter. You can leave one in a shed and pick it up months later, provided the battery has been stored sensibly.</p>
+<p>Gas saws behave like any small engine. They need a correct fuel mix or oil, fresh fuel, an air filter, a spark plug and carburetor care. Fuel left in the tank over winter can gum the carburetor, and a saw that does not start in spring is a common complaint. Many owners drain the tank and run it dry before storage.</p>
+<p>Both types need chain and bar care: sharpening, tension, lubrication and cleaning the bar groove. If you are not a regular small-engine maintainer, the battery saw's simplicity is a real advantage. If you already look after other engines, gas upkeep is routine.</p>
+
+<h2 id="comparison-table">Side-by-side comparison</h2>
+<table>
+<thead><tr><th>Factor</th><th>Battery</th><th>Gas</th></tr></thead>
+<tbody>
+<tr><td>Starting</td><td>Button or trigger, instant</td><td>Pull cord, choke, technique</td></tr>
+<tr><td>Sustained power</td><td>Good, limited by battery and heat</td><td>Highest, built for long sessions</td></tr>
+<tr><td>Runtime</td><td>Battery limited, needs spare packs</td><td>Fuel limited, refuel in seconds</td></tr>
+<tr><td>Noise</td><td>Moderate, mostly chain noise</td><td>Loud engine, hearing protection essential</td></tr>
+<tr><td>Fumes</td><td>None at the saw</td><td>Exhaust, outdoor use only</td></tr>
+<tr><td>Maintenance</td><td>Chain, bar, battery care</td><td>Chain, bar, fuel, plug, filter, carburetor</td></tr>
+<tr><td>Cold weather</td><td>Reduced battery capacity</td><td>Hard starting possible, otherwise reliable</td></tr>
+<tr><td>Best for</td><td>Yard work, pruning, light firewood</td><td>Felling, large logs, long days</td></tr>
+</tbody>
+</table>
+
+<h2 id="cold-and-weather">Cold, wet and remote conditions</h2>
+<p>Cold cuts battery capacity and power, so a saw that runs well in autumn may run noticeably shorter in freezing weather. Keep packs warm until use, and carry a spare inside your jacket for a cold-day job. Gas saws can be harder to start in the cold, but once running they deliver steady power.</p>
+<p>Wet conditions need care with both. Do not use a battery saw in heavy rain without checking the manufacturer's rating, and keep packs and chargers dry. Gas saws tolerate rain better but the engine can flood or fail to start when wet.</p>
+<p>In remote locations without power, gas has the advantage, as a can of fuel is easier to carry than several packs and a generator to charge them. For work near the house, where you can charge between jobs, battery is practical.</p>
+
+<h2 id="safety-considerations">Safety considerations that apply to both</h2>
+<p>The power source does not change the basic hazards of a chainsaw. Kickback, pinch, the chain's cutting ability and falling wood are the same. Always wear a helmet with face and ear protection, cut-resistant chaps, boots and gloves, and keep both hands on the saw.</p>
+<p>Battery saws have a subtle risk: they start instantly and silently. Remove the battery when changing the chain, clearing a jam or carrying the saw, because an accidental squeeze of the trigger starts the chain at once. Gas saws announce themselves, but the engine can still engage the clutch if the throttle is bumped.</p>
+<p>Keep the chain brake in good order and engage it when you walk with the saw. Never use a chainsaw when tired, and never attempt a felling job beyond your training. If a tree is under tension, near a structure or near power lines, hire a professional.</p>
+
+<h2 id="battery-platform-lock-in">Battery platforms and lock-in</h2>
+<p>A battery chainsaw is not only a saw, it is a commitment to a battery platform. Packs, chargers and often the whole family of outdoor tools are brand specific, so choosing a saw is also choosing which blower, trimmer and mower you will pair with it. If you already own a platform, adding a saw that shares its batteries is cheaper and simpler than starting a new one.</p>
+<p>Check how the saw uses the platform. Some saws run on the standard packs, while others need a higher-capacity or higher-voltage pack to perform well. A saw advertised as compatible with a platform may run only modestly on the smallest pack. Read the minimum pack recommendation and plan to buy the pack that makes the saw work properly.</p>
+<p>Think about the long term as well. Batteries wear out, and platforms occasionally change. A major brand with a long record of supporting its packs lowers that risk. Gas saws have no such lock-in: any fuel station supplies the energy, and spare parts are widely available.</p>
+
+<h2 id="fuel-handling-for-gas">Fuel handling for gas saws</h2>
+<p>Gas saws add a small set of chores that battery owners never meet. Two-stroke saws need fuel mixed with two-stroke oil at the ratio the manufacturer specifies, in a clean, approved container, and the mix should be used within a reasonable period because it degrades. Using the wrong ratio can starve the engine of lubrication or foul the plug.</p>
+<p>Use fresh fuel of the grade the manual calls for, and store it away from heat and ignition sources. Many owners buy small amounts and mix only what they need for a season. A fuel stabiliser extends storage life if you must keep fuel.</p>
+<p>Refuel on bare, level ground away from where you will cut, with the engine off and cool. Move at least a few paces from the refuelling spot before starting the saw, so spilled fuel and vapour are not near the ignition. Wipe up any spill first.</p>
+<div class="mf-callout"><strong>Fire safety:</strong> never refuel a hot or running saw, never smoke near fuel, and store fuel only in approved containers. Treat refuelling as a safety step, not a rushed chore at the end of a cut.</div>
+
+<h2 id="mixed-fleets">Owning both, or renting the big one</h2>
+<p>Plenty of owners settle on a mixed approach. A compact battery saw lives by the back door and handles pruning, storm tidying and the odd small log. A bigger gas saw, or a rented one, comes out once or twice a year for the large jobs. That split matches the tool to the task and avoids carrying a heavy saw for light work.</p>
+<p>Renting is a legitimate option for rare big jobs. It saves storage and maintenance, and rental saws are usually well maintained and set up with suitable chains. Make sure you are comfortable with the saw before you start, and ask about its bar length and safety features.</p>
+<p>If you only have budget for one saw, be honest about your typical work. A battery saw that covers ninety percent of your tasks and a professional for the tenth is often a better outcome than a heavy gas saw that sits unused most of the year.</p>
+
+<h2 id="running-costs">Running costs and lifespan</h2>
+<p>A battery saw has a purchase price that includes the battery and charger, and its running cost is small: electricity, chain and bar oil. The main cost over time is the battery itself, which loses capacity with age and use. If you share a platform with other tools, spare packs serve double duty.</p>
+<p>A gas saw has ongoing fuel, oil, spark plug and filter costs, and an engine that can last for decades if cared for. A neglected engine can fail quickly, so lifespan depends on habits.</p>
+<p>For occasional users, the lower maintenance burden of a battery saw tends to produce more total use at less trouble. For heavy users, gas engines have a long record under hard conditions. Consider how often you will use the saw, rather than the label price.</p>
+
+<h2 id="storage-and-transport">Storage and transport</h2>
+<p>Both types need a dry, secure place. Store a battery saw with the pack removed and kept at room temperature, and keep the bar covered with its scabbard. Store a gas saw upright with the fuel drained or stabilised, and keep it out of living spaces. Carry any saw with the chain brake on, the bar pointed backward and the engine off or the battery removed.</p>
+
+<h2 id="which-to-choose">Which should you choose</h2>
+<ul>
+<li>Choose battery if you mostly prune, clear storm branches and cut a small amount of firewood, and value quiet and easy starts.</li>
+<li>Choose gas if you fell sizeable trees, cut large logs, or work for hours away from charging.</li>
+<li>Choose battery if you already own a compatible cordless platform and spare packs.</li>
+<li>Choose gas if you are comfortable with small-engine maintenance and need sustained power.</li>
+<li>Consider owning both if your work includes a mix of yard cleanup and occasional big jobs.</li>
+</ul>
+<p>Our roundup of <a href="/guide/best-cordless-chainsaws">cordless chainsaws</a> shows what battery saws can do today, and the guides to compact models, like <a href="/guide/best-mini-chainsaw-under-100">mini chainsaws</a>, show the lighter end of the range. If you are weighing bar length, return to <a href="/chainsaw-bar-length-guide">our bar length guide</a> to size the saw to the wood.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Are battery chainsaws as powerful as gas?</h3>
+<p>For small to mid-size work, modern battery saws are strong and often sufficient. Gas still leads in sustained power for large trees and long sessions, because it does not depend on battery capacity.</p>
+<h3>How long does a battery chainsaw run?</h3>
+<p>It depends on the battery, the wood and the bar length. Light pruning can run for a long time, while heavy cutting drains a pack much faster, so plan for spare batteries on bigger jobs.</p>
+<h3>Can I cut firewood with a battery chainsaw?</h3>
+<p>Yes, for moderate amounts of wood of manageable diameter, with enough battery packs to cover your session. For large volumes of big logs, a gas saw is more practical.</p>
+<h3>Are gas chainsaws harder to maintain?</h3>
+<p>Yes. They need fuel management, plug, filter and carburetor care. A battery saw needs only chain, bar and battery care, which makes it easier for occasional users.</p>
+<h3>Do battery chainsaws work in cold weather?</h3>
+<p>They work, but the battery delivers less capacity and power in the cold. Keep packs warm until use, and expect shorter runtime on freezing days.</p>
+<h3>Which is safer, gas or battery?</h3>
+<p>The cutting hazards are the same. A battery saw is quieter and has no exhaust, but starts instantly, so remove the battery before maintenance. A gas saw adds fuel and exhaust risks.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Match the power source to the work. Battery is the sensible default for yard cleanup, pruning and light firewood, thanks to easy starts, quiet running and minimal maintenance. Gas is the right choice for large trees, long sessions and remote jobs, where sustained power and quick refuelling matter most.</p>
+<p>Whichever you pick, keep the chain sharp, size the bar to the wood, and wear full protective equipment. The best chainsaw is the one that fits the job you actually do and that you will maintain and use safely.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"chainsaw-bosch-electric.webp","author":"Bosch","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Bosch_advancedcut_50.jpg"},
+    {"image":"chainsaw-chain-brake.webp","author":"Massimo Telo","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Blocco_catena_motosega_per_wiki5.jpg"},
+    {"image":"chainsaw-cutting-branch.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:A_man_operates_a_chainsaw_to_cut_a_fallen_tree_branch_in_his_backyard.jpg"},
+    {"image":"chainsaw-in-hand.webp","author":"Richard Allaway","license":"CC BY 3.0","source":"https://commons.wikimedia.org/wiki/File:Chainsaw_(232696817).jpeg"},
+  ],
+  relatedLinks: [
+    {"title":"Chainsaw Bar Length Guide","href":"/chainsaw-bar-length-guide"},
+    {"title":"Chainsaw Chain Types Explained","href":"/chainsaw-chain-types-explained"},
+    {"title":"How to Sharpen a Chainsaw Chain","href":"/how-to-sharpen-a-chainsaw-chain"},
+  ],
+};
+
+export default article;

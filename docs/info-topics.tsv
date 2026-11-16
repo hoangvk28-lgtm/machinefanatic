@@ -53,11 +53,11 @@ trimmer-line-sizes-and-shapes-explained	trimmer line size guide	3	ope-1	string-t
 bump-feed-vs-automatic-vs-fixed-line-heads	bump feed vs auto feed trimmer	3	ope-1	string-trimmer
 hedge-trimmer-blade-gap-and-cutting-capacity	hedge trimmer cutting capacity	3	ope-1	hedge-trimmer
 single-sided-vs-double-sided-hedge-trimmer	single vs double sided hedge trimmer	3	ope-1	hedge-trimmer
-2-stroke-vs-4-stroke-engine	2 stroke vs 4 stroke	3	ope-1	gas|engine
-how-to-mix-2-stroke-fuel	2 stroke fuel mix ratio	3	ope-1	gas|chainsaw
-why-small-engines-wont-start	small engine wont start	3	ope-1	gas|engine
-how-to-clean-a-small-engine-carburetor	clean small engine carburetor	3	ope-1	gas|engine
-ethanol-fuel-and-small-engine-damage	ethanol free gas small engine	3	ope-1	gas|generator
+2-stroke-vs-4-stroke-engine	2 stroke vs 4 stroke	3	ope-1	string-trimmer|chainsaw
+how-to-mix-2-stroke-fuel	2 stroke fuel mix ratio	3	ope-1	chainsaw|string-trimmer
+why-small-engines-wont-start	small engine wont start	3	ope-1	lawn-mower|chainsaw
+how-to-clean-a-small-engine-carburetor	clean small engine carburetor	3	ope-1	lawn-mower|chainsaw
+ethanol-fuel-and-small-engine-damage	ethanol free gas small engine	3	ope-1	lawn-mower|generator
 how-to-store-outdoor-power-equipment-for-winter	winterize lawn equipment	3	ope-1	lawn-mower|leaf-blower
 psi-vs-gpm-pressure-washer	psi vs gpm pressure washer	4	ope-2	pressure-washer
 gas-vs-electric-pressure-washer	gas vs electric pressure washer	4	ope-2	pressure-washer
@@ -87,15 +87,15 @@ what-is-cadr-air-purifier	what is cadr	5	indoor	air-purifier
 hepa-vs-true-hepa	hepa vs true hepa	5	indoor	hepa|air-purifier
 air-purifier-room-size-and-air-changes	air purifier room size	5	indoor	air-purifier
 activated-carbon-and-voc-filtration	carbon filter air purifier	5	indoor	air-purifier
-evaporative-vs-ultrasonic-humidifier	evaporative vs ultrasonic humidifier	5	indoor	humidifier
+evaporative-vs-ultrasonic-humidifier	evaporative vs ultrasonic humidifier	5	indoor	humidifiers-for|gallon-humidifier
 humidifier-maintenance-and-pink-slime	humidifier cleaning	5	indoor	humidifier
-space-heater-watts-and-circuit-limits	space heater wattage	5	indoor	space-heater|heater
-ceramic-vs-infrared-vs-oil-filled-heater	ceramic vs infrared heater	5	indoor	heater
-robot-vacuum-suction-pa-explained	robot vacuum suction pa	5	indoor	vacuum
-lidar-vs-camera-robot-vacuum	lidar vs camera robot vacuum	5	indoor	vacuum
-front-load-vs-top-load-washer	front load vs top load washer	5	indoor	washer|washing
+space-heater-watts-and-circuit-limits	space heater wattage	5	indoor	space-heaters|watt-space-heater
+ceramic-vs-infrared-vs-oil-filled-heater	ceramic vs infrared heater	5	indoor	space-heaters|ceramic-space-heater
+robot-vacuum-suction-pa-explained	robot vacuum suction pa	5	indoor	robot-vacuum
+lidar-vs-camera-robot-vacuum	lidar vs camera robot vacuum	5	indoor	robot-vacuum|camera-free-robot
+front-load-vs-top-load-washer	front load vs top load washer	5	indoor	compact-washer|washer-dryer-combo
 what-size-air-compressor-do-i-need	what size air compressor do i need	5	indoor	air-compressor
 cfm-vs-psi-explained	cfm vs psi	5	indoor	air-compressor
 fdm-3d-printer-nozzle-and-layer-height	3d printer layer height	5	indoor	3d-printer
 3d-printer-bed-leveling-explained	3d printer bed leveling	5	indoor	3d-printer
-burr-grinder-vs-blade-grinder	burr vs blade grinder	5	indoor	grinder|espresso
+burr-grinder-vs-blade-grinder	burr vs blade grinder	5	indoor	burr-coffee-grinder|espresso-grinder

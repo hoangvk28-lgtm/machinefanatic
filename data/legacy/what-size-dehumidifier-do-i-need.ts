@@ -1,0 +1,164 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "what-size-dehumidifier-do-i-need",
+  title: "What size dehumidifier do I need for my room or basement",
+  metaTitle: "What Size Dehumidifier Do I Need?",
+  metaDescription: "Size a dehumidifier by floor area, how damp the space really is, and the load from laundry, ceilings and people. A clear method plus common mistakes.",
+  kicker: "How to",
+  heroImage: { src: "/images/articles/dehum-in-hotel-bedroom.webp", alt: "Dehumidifier standing against a wall in a bedroom" },
+  lastUpdated: "2026-11-16",
+  readTime: "13 min",
+  quickAnswer: "Start with the floor area of the space, then move up a size for every real dampness factor such as a musty smell, wet walls, a laundry area or high ceilings. A machine sized for the area but not the dampness runs constantly and still falls short. Because pint ratings use different test conditions, compare units by the same standard rather than by the number alone.",
+  html: `<h2 id="the-biggest-mistake">The biggest mistake: shopping by the box number only</h2>
+<p>Most people walk into this decision with one idea: bigger is safer. They pick the largest capacity on the shelf, plug it in and discover two things. The unit is louder and costlier to run than needed, and the basement is still not quite right.</p>
+<p>Sizing is a three part problem. Capacity must match the space, the amount of moisture entering that space, and the temperature the machine will actually work in. Ignore any one of them and the pint figure on the box means very little.</p>
+
+<h2 id="what-capacity-means">What the capacity figure represents</h2>
+<p>A dehumidifier's rating is the amount of water it can remove in a day under a defined test condition. It is a ceiling, reached when the air is warm and humid. As the room cools or dries, output drops, sometimes far below the label.</p>
+<p>That has a practical consequence. A unit rated for a given capacity in a heated, humid test room will move noticeably less in a cool basement. When you size, you are really estimating how much water you must remove in the conditions you have, then choosing a rated unit that can do it with headroom. The reasoning behind the shifting rating standards is covered in <a href="/dehumidifier-pint-ratings-and-the-doe-change">our guide to pint ratings and the DOE change</a>.</p>
+
+<h2 id="step-one-area">Step one: measure the floor area</h2>
+<p>Multiply length by width for every area the machine must serve. Skip closets and tiny alcoves, but include open connections such as a stairwell opening into the same air volume. Write the number down in square feet.</p>
+<p>Area is only a proxy for air volume. A room with a tall ceiling holds more air than a standard one of the same footprint, and the machine has more air to process. If your ceiling is well above standard height, treat the space as larger than its floor area suggests.</p>
+<p>Open floor plans also matter. A dehumidifier does not stop at an invisible line. If your damp basement shares air with a finished area through an open stairway, the machine is drying both.</p>
+
+<h2 id="step-two-dampness">Step two: classify how damp it really is</h2>
+<p>This is the step the box charts hide. Grade the space by what you can observe, not by a feeling.</p>
+<figure><img src="/images/articles/dehum-with-euro-plug.webp" alt="Domestic dehumidifier with a collection tank, standing on a floor" width="1400" height="1810" loading="lazy" /><figcaption>Tank size and capacity are different things. A large tank on a small machine only means fewer trips to empty it.</figcaption></figure>
+<table>
+<thead><tr><th>Condition</th><th>What you notice</th><th>Sizing move</th></tr></thead>
+<tbody>
+<tr><td>Slightly damp</td><td>Occasional stuffy smell on humid days</td><td>Size to the area</td></tr>
+<tr><td>Moderately damp</td><td>Clammy feel, musty odor, condensation on cold pipes</td><td>Move up one size</td></tr>
+<tr><td>Very damp</td><td>Visible damp patches, a dark stain on walls, mildew on stored items</td><td>Move up one or two sizes</td></tr>
+<tr><td>Wet</td><td>Water on the floor after rain, active seepage</td><td>Fix the water entry first, then size up</td></tr>
+</tbody>
+</table>
+<p>The sizing moves above are a decision rule, not an industry standard. Different manufacturers publish their own charts, and they do not agree perfectly. Treat any chart as a starting point and then apply the adjustments below.</p>
+
+<h2 id="step-three-extra-load">Step three: add the extra moisture loads</h2>
+<p>Every source of vapor makes the machine work harder. Count the ones that apply to your space.</p>
+<ul>
+<li><strong>Laundry:</strong> a washer and dryer in the room releases a large amount of vapor, especially an unvented dryer.</li>
+<li><strong>Occupants:</strong> people breathe and sweat vapor into the air, so a crowded finished basement is wetter than an empty one.</li>
+<li><strong>Bathrooms and showers:</strong> a bathroom opening into the area adds steam each day.</li>
+<li><strong>Open earth:</strong> a crawlspace with bare soil lets ground moisture evaporate into the air continuously.</li>
+<li><strong>Leaky windows or doors:</strong> they bring in humid outdoor air and keep the load high.</li>
+<li><strong>Drying things indoors:</strong> hanging wet clothes or storing firewood adds a lot of vapor.</li>
+</ul>
+<p>Each of these pushes you towards a larger unit or towards fixing the source. Fixing a source is nearly always cheaper than buying capacity to fight it.</p>
+
+<h2 id="illustrative-example">An illustrative example of the method</h2>
+<p>The following numbers are illustrative only, to show the reasoning. They are not rated values for any product. Imagine a basement of 900 square feet. By area alone you might choose a mid-range unit. The space has a laundry corner and a musty smell, so you graded it moderately damp and add the laundry load. That pushes you up one size, and you check the model's rating at the temperature your basement actually holds, not the label temperature.</p>
+<p>If the basement stays cool, you discount the rated capacity because output falls with temperature. You end up choosing a unit one step larger than the area chart suggested, with a drain hose so it can run unattended. The same logic applies at any scale. Area gets you a starting size, dampness moves it, and temperature tells you whether the label is believable.</p>
+
+<h2 id="temperature">Why temperature changes your answer</h2>
+<p>Output falls as air cools, because cold air carries less vapor to begin with and a cold coil is prone to frost. The mechanism is explained in <a href="/how-does-a-dehumidifier-work">how a dehumidifier works</a>. A unit rated at a warm test condition may deliver much less in a basement that sits cool for most of the year.</p>
+<p>If your space is cool, you have two choices. You can buy a larger compressor unit and accept it will cycle through defrost, or you can choose a desiccant model, which keeps working at low temperatures. The trade-offs are laid out in our <a href="/compressor-vs-desiccant-dehumidifier">compressor versus desiccant comparison</a>.</p>
+
+<h2 id="too-big-or-too-small">What too small and too big each look like</h2>
+<p>An undersized machine runs without stopping, never reaches the setpoint, and the bucket fills and stops it over and over. You will see damp patches persist and condensation return as soon as it pauses. It also wears out sooner because it never rests.</p>
+<figure><img src="/images/articles/dehum-home-unit.webp" alt="Home dehumidifier seen from above showing its control panel" width="1400" height="1867" loading="lazy" /><figcaption>An undersized unit runs constantly and never reaches the setpoint. The humidistat tells you which case you are in.</figcaption></figure>
+<p>An oversized machine in a small space is less dramatic but real. It drops humidity quickly, shuts off, and cycles often. Frequent starting is hard on the compressor, and a rapid pull-down can feel noisy and wasteful. In a living space where you want quiet, a big unit running briefly can be more annoying than a medium unit running longer at a lower fan speed.</p>
+<div class="mf-callout"><strong>Rule of thumb:</strong> choose the smallest unit that still has headroom for your worst-case day. Headroom means it can still reach the setpoint on the dampest, warmest day you expect, not that it is simply the biggest available.</div>
+
+<h2 id="whole-house-and-hvac">When portable is the wrong format</h2>
+<p>A portable machine serves one open space. If you need to treat a whole house, a crawlspace and several rooms, running many portables becomes clumsy. A whole-house unit that connects to the ducting dries the building from one place and drains continuously.</p>
+<p>Those systems cost more and need installation, so they suit owners with a persistent moisture problem across the building. Compare the options in the <a href="/guide/best-hvac-dehumidifiers">best HVAC dehumidifiers guide</a> before committing to several separate units.</p>
+
+<h2 id="drainage-sizing">Drainage is part of the size decision</h2>
+<p>Capacity is meaningless if the tank fills and stops the machine. A unit that can pull a large volume per day but only holds a small tank will interrupt itself in a wet basement. Count how often you are willing to empty it.</p>
+<figure><img src="/images/articles/dehum-riello-unit.webp" alt="Dehumidifier standing on a floor in an office interior" width="1400" height="1050" loading="lazy" /><figcaption>Once a machine runs most of the day, a continuous drain matters more than any feature on the box.</figcaption></figure>
+<ul>
+<li>If you will not empty a bucket daily, require a hose connection.</li>
+<li>If no floor drain sits below the machine, consider a model with a built-in pump.</li>
+<li>If the unit sits in a finished room, check that the hose can reach a sink or window safely.</li>
+</ul>
+<p>In practice, a medium unit that drains continuously often outperforms a larger unit that stops whenever the tank fills.</p>
+
+<h2 id="humidity-meter">Use a meter to confirm the answer</h2>
+<p>A small hygrometer is the cheapest tool you can own for this decision. Place it in the space for a few days before buying and note the readings at different times, especially during the humid part of the season. Then place it again after you run the machine.</p>
+<p>If the reading refuses to drop to your target with the machine running continuously, it is undersized or fighting a source. If it drops easily and the machine cycles off quickly, you have headroom. The meter turns a guess into a result you can trust.</p>
+
+<h2 id="common-mistakes">Common sizing mistakes</h2>
+<ul>
+<li>Using the label capacity at a warm test condition for a cold basement.</li>
+<li>Counting only floor area and ignoring a tall ceiling.</li>
+<li>Skipping the laundry load and then wondering why it keeps up in winter but not summer.</li>
+<li>Choosing a large tank-only unit for a space where no one will empty it.</li>
+<li>Expecting a dehumidifier to cure an active leak.</li>
+<li>Comparing a recent box with an older box from a previous standard as if the numbers matched.</li>
+</ul>
+
+<h2 id="ready-to-shop">Ready to shop</h2>
+<p>With the area, dampness grade and temperature in hand, you can read a product list intelligently. Start with the <a href="/guide/best-dehumidifiers">best dehumidifiers guide</a> to see how current models compare across capacity tiers, and then check that each candidate has the drain option and operating temperature you need.</p>
+
+<h2 id="room-by-room">Sizing room by room</h2>
+<p>Different spaces create different problems, and the same unit that suits a bedroom may be wrong for a crawlspace. Think about the particular room before you apply any general rule.</p>
+<h3>Basements</h3>
+<p>Basements are the classic case because the surrounding soil is cool and damp, and concrete wicks moisture slowly through the floor and walls. Even a basement with no visible water can hold air at a high relative humidity for much of the year. Size to the full open area, add a step for laundry or an unfinished floor, and plan on continuous drainage.</p>
+<h3>Bedrooms and living rooms</h3>
+<p>Occupied rooms have smaller loads, and the real priority is noise. A smaller unit with a quiet fan speed often wins over a larger machine, because you are managing people and cooking vapor, not seepage. Choose a model with a low-speed setting and a humidistat that does not need constant adjustment.</p>
+<h3>Crawlspaces</h3>
+<p>A crawlspace with bare soil is a moisture engine, because water evaporates from the ground all day. Standard portable units are usually not designed for this cool, dusty, cramped environment. Whole-house or purpose-built crawlspace units exist, and the first fix is a ground vapor barrier, which cuts the load before any machine is chosen.</p>
+<h3>Bathrooms, laundry rooms and closets</h3>
+<p>Small rooms with a burst of vapor, such as a laundry room, need less total capacity but respond quickly to ventilation. A bath fan that vents outdoors does more for a steamy bathroom than a dehumidifier can. For a closet, a small compact unit is enough, and the main decision is whether the model can drain without being opened every day.</p>
+
+<h2 id="climate-and-season">Climate and season change the target</h2>
+<p>Where you live affects the load. In a humid climate, outdoor air entering through doors, vents and gaps keeps the vapor level high through summer. In a dry climate, a basement may only need a machine for a few damp weeks. Choose a size for the worst month you expect, but do not pay for capacity you will only use on a handful of days.</p>
+<p>If the damp season is short and mild, a mid-size unit that cycles is perfectly adequate. If the damp season is long, buying a larger machine with a drain hose pays back in less attention and fewer failures. The key is to size for your worst realistic month, then confirm with a hygrometer whether the machine keeps up.</p>
+
+<h2 id="humidity-targets">Setting a sensible target</h2>
+<p>A lower target is not automatically better. Pushing the setpoint as low as possible makes the machine run constantly, costs more to operate, and can dry out wood, instruments and skin. For most households a moderate target is enough to stop mildew growth and keep the air comfortable.</p>
+<p>Because relative humidity changes with temperature, a target that works in a warm room may feel different in a cool one. If your basement swings between seasons, adjust the setpoint rather than leaving it at a single value all year. Check the hygrometer when the weather changes and nudge the setting a little in either direction.</p>
+<div class="mf-callout"><strong>Tip:</strong> a stuffy smell, white powder on masonry, or sticky stored cardboard are all signs the humidity target is not being met, even if the humidistat claims it is.</div>
+
+<h2 id="operating-cost">Think about running cost, not just purchase cost</h2>
+<p>A machine that runs constantly uses electricity for as long as it works. A larger unit that reaches the target quickly and shuts off can use less total energy than a smaller one that never stops, though the opposite can be true if the larger unit is a poor design. An efficient model that suits your space saves more over a few years than a small difference in purchase price.</p>
+<p>Look at the stated efficiency and the power draw, and remember the efficiency figure is only meaningful when compared with other units rated under the same procedure. You can also reduce running cost by sealing air leaks, venting dryers outdoors and keeping interior doors open for better circulation.</p>
+
+<h2 id="checklist-before-buying">A checklist before you buy</h2>
+<ul>
+<li>Floor area of the space, plus an allowance for tall ceilings and open connections.</li>
+<li>A dampness grade based on visible signs, not a guess.</li>
+<li>A list of extra moisture loads: laundry, showers, bare soil, drying clothes.</li>
+<li>The lowest temperature the room reaches in the damp season.</li>
+<li>Where the water will go: bucket, hose or pump.</li>
+<li>How loud the machine can be in that room.</li>
+<li>Whether one unit can reach all the connected areas or you need two.</li>
+</ul>
+<p>Write these answers down before you open a product list. It turns a long scroll of near-identical models into a short list that actually fits.</p>
+<p>If you still cannot decide between two sizes, a useful tiebreaker is to choose the larger one when the space is cool or has a heavy moisture load, and the smaller one when the space is warm, quiet-sensitive and only mildly damp.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Can I use one dehumidifier for the whole house?</h3>
+<p>A portable unit treats the air it can reach, so it works best for one open area. Closed doors limit its reach. For a whole building, consider several units or a ducted whole-house system.</p>
+<h3>Is a bigger dehumidifier always better for a damp basement?</h3>
+<p>Not always. A larger unit has more headroom, but an oversized one in a small space cycles often and can be noisy. Match capacity to the area, the dampness and the temperature, then add a drain.</p>
+<h3>Why does my dehumidifier work in summer but not in winter?</h3>
+<p>Output falls as the room cools, and a cold coil frosts, which triggers defrost pauses. Check the minimum operating temperature in your manual. A desiccant unit suits cold spaces better.</p>
+<h3>How do I know my dehumidifier is too small?</h3>
+<p>It runs continuously, the tank keeps filling, and the humidity reading never reaches your target. If this happens only on the wettest days, it may be borderline, but if it happens often, step up a size or remove a moisture source.</p>
+<h3>Does ceiling height matter?</h3>
+<p>Yes. Taller ceilings hold more air than a floor area suggests, so the machine has more volume to process. Treat a tall space as larger than its footprint.</p>
+<h3>Do I need a hose or pump?</h3>
+<p>If you will not empty the tank every day, yes. Continuous drainage lets the machine run all day and usually removes more water over a month than a larger tank-only unit.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Sizing a dehumidifier means estimating the water you must remove, not reading a single number on a box. Measure the area, grade the dampness honestly, add the moisture loads from laundry, people and leaks, and discount for your real operating temperature. Then choose the smallest unit with true headroom and a drain. A little care at this step saves months of a machine that either never catches up or cycles itself to death.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"dehum-in-hotel-bedroom.webp","author":"Michael Rivera","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Dehumidifier_in_hotel_bedroom,_Comfort_Suites,_Kingsland.jpg"},
+    {"image":"dehum-with-euro-plug.webp","author":"Vladimir Okhotnikov","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Air_dehumidifier_with_a_European_plug.jpg"},
+    {"image":"dehum-riello-unit.webp","author":"Vale93b","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Deumidificatore_Riello_Mangiaumido_eco.jpg"},
+    {"image":"dehum-home-unit.webp","author":"Mewtu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dehumidifer.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Best Dehumidifiers","href":"/guide/best-dehumidifiers"},
+    {"title":"Best HVAC Dehumidifiers","href":"/guide/best-hvac-dehumidifiers"},
+    {"title":"How a Dehumidifier Works","href":"/how-does-a-dehumidifier-work"},
+  ],
+};
+
+export default article;

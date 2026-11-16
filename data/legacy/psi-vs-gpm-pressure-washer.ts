@@ -1,0 +1,126 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "psi-vs-gpm-pressure-washer",
+  title: "PSI vs GPM on a Pressure Washer: Which Number Actually Cleans",
+  metaTitle: "PSI vs GPM on a Pressure Washer: What Matters",
+  metaDescription: "PSI sets how hard a pressure washer hits, GPM sets how fast it rinses. Learn how the two combine and which spec to prioritise for your own jobs.",
+  kicker: "Explainer",
+  heroImage: { src: "/images/articles/pw-driveway-cleaning.webp", alt: "Pressure washer wand cleaning block paving, leaving a clear strip behind the spray" },
+  lastUpdated: "2026-11-16",
+  readTime: "13 min",
+  quickAnswer: "PSI is the force of the water at the nozzle and GPM is the volume of water moving through it each minute. PSI breaks the bond between dirt and a surface, while GPM carries the loosened dirt away, so a machine needs both. Multiplying the two gives a rough cleaning units figure that makes different machines easier to compare. For most home jobs, a balanced machine beats one that advertises a huge PSI with a tiny flow.",
+  html: `<h2 id="the-mistake-most-buyers-make">The mistake most buyers make</h2>
+<p>Walk down any pressure washer aisle and the box with the biggest number on the front is usually the one that gets picked. That number is almost always PSI, and it is only half of the story. A machine that advertises a very high PSI but pushes a trickle of water can feel impressive when you pull the trigger and still take twice as long to finish a driveway as a more balanced machine.</p>
+<p>The second number, GPM, is printed in smaller type, sometimes on a side panel, sometimes only in the manual. Yet it controls how quickly you rinse away what the pressure has just loosened. Understanding how the two interact is the single most useful bit of spec literacy you can bring to a purchase.</p>
+<p>This article owns that one question: what each number does, how they combine, and how to read them on a listing. Power source, nozzles, attachments and storage each have their own articles, linked where they come up.</p>
+
+<h2 id="what-psi-measures">What PSI actually measures</h2>
+<p>PSI stands for pounds per square inch. On a pressure washer it describes how much force the pump generates against the restriction of the nozzle. The pump pushes water through a small opening, the opening resists, and the resistance builds pressure. A smaller orifice at the same pump output means higher pressure at the tip.</p>
+<p>Pressure is what lifts dirt. Mud, algae film, old paint and oxidised grime are all held to a surface by adhesion. A narrow, fast jet concentrates energy on a tiny area and shears that bond. This is why a pressure washer removes things a garden hose cannot, even though the hose delivers plenty of water.</p>
+<p>The same force is also the damage mechanism. Wood grain, soft mortar joints, vinyl siding seams, car paint and skin are all weaker than the dirt you want to remove on a bad day. Higher PSI means a narrower margin for error, which is why the choice of nozzle angle and the distance you hold the wand matter as much as the rating on the machine.</p>
+
+<h2 id="what-gpm-measures">What GPM actually measures</h2>
+<p>GPM is gallons per minute, the volume of water the pump moves through the system. Where PSI is the punch, GPM is the flush. Once pressure has broken a layer of dirt free, flowing water has to carry it off the surface. If flow is low, loosened grime sits in a film and gets pushed around instead of rinsed away, and you end up making repeat passes.</p>
+<figure><img src="/images/articles/pw-karcher-unit.webp" alt="Yellow domestic pressure washer unit with hose reel and lance" width="1400" height="1867" loading="lazy" /><figcaption>Flow is limited by what the machine can draw and deliver, which is why a tap that runs slowly caps performance before the motor does.</figcaption></figure>
+<p>Flow also affects how much of a surface you clean per sweep. A wider, higher-volume spray pattern moves more material per second. This matters most on large flat areas such as patios, decks and long runs of fence, where speed is the real cost.</p>
+<p>GPM has one more effect people overlook: it sets the load on your water supply. A machine rated at a high flow can outrun a weak outdoor tap or a long thin hose, starving the pump. Starvation shows up as pulsing pressure and, over time, a worn pump. Checking that your supply can match the machine's flow requirement is part of reading the spec properly.</p>
+
+<h2 id="cleaning-units">Cleaning units: how PSI and GPM combine</h2>
+<p>Because neither number alone predicts performance, the industry uses a simple composite called cleaning units, sometimes written CU. You calculate it by multiplying PSI by GPM. It is a convention, not a laboratory standard, but it is a handy way to compare two machines whose specs pull in different directions.</p>
+<p>The calculation is easy to do on any listing. A machine rated at 2,000 PSI and 1.0 GPM scores 2,000 cleaning units. Another rated at 1,600 PSI and 1.5 GPM scores 2,400, so on paper it should clean faster despite the lower pressure. The example is illustrative and not taken from any specific model, but the arithmetic holds for any pair of figures you find.</p>
+<div class="mf-callout"><strong>Use it carefully:</strong> cleaning units compare machines, they do not describe a safe setting for a surface. A high score still needs the right nozzle and standoff distance, and the figure assumes the manufacturer's rating is honest. See the section on rated versus real numbers below.</div>
+<p>One limit of the formula is that it treats the two inputs as interchangeable. They are not. Past a certain point, extra flow does not remove stuck-on material, and extra pressure does not rinse it faster. The composite is a starting point for comparison, not the final word.</p>
+
+<h2 id="how-the-two-trade-off">How the two trade off in the same pump</h2>
+<p>A given pump and motor or engine can only deliver so much hydraulic power. Hydraulic power is roughly the product of pressure and flow, which is why cleaning units track it so well. If a manufacturer wants a higher PSI from the same power source, flow usually drops, and the reverse.</p>
+<p>This trade-off is the reason that two machines at the same price tier can feel so different. One is tuned toward pressure and works well on stubborn spots but is slow across big areas. The other is tuned toward flow, feels gentler on contact and rinses fast. Neither is wrong. They are tools for different jobs.</p>
+<p>When you are looking at the entry-level end of the market, the spread between machines is often wider than the headline PSI suggests. A glance at our overview of <a href="/guide/best-pressure-washers">the best pressure washers</a> shows how widely flow figures vary between machines that carry similar pressure ratings.</p>
+
+<h2 id="typical-ranges-by-job">Typical ranges by job</h2>
+<p>Rather than quote a magic number, it is more useful to think in classes of machine and what each is generally suited to. The table below uses broad, approximate ranges that reflect how light-duty, mid-range and heavy-duty residential machines are commonly specified. Always check the exact figures for the model you are considering.</p>
+<table>
+<thead><tr><th>Job</th><th>Pressure need</th><th>Flow need</th><th>What to prioritise</th></tr></thead>
+<tbody>
+<tr><td>Cars, bikes, outdoor furniture</td><td>Low</td><td>Low to moderate</td><td>Gentle control, a wide fan nozzle, a soap option</td></tr>
+<tr><td>Siding, fences, decks</td><td>Low to moderate</td><td>Moderate to high</td><td>Flow, so you rinse quickly without gouging the surface</td></tr>
+<tr><td>Concrete driveways, patios</td><td>Moderate to high</td><td>Moderate to high</td><td>Cleaning units, plus a surface cleaner for evenness</td></tr>
+<tr><td>Oil stains, rust, old paint</td><td>High</td><td>Moderate</td><td>Pressure, a narrow nozzle, and patience</td></tr>
+<tr><td>Wood decking and soft cladding</td><td>Low</td><td>Moderate</td><td>Restraint, because pressure is the risk here</td></tr>
+</tbody>
+</table>
+<p>If you want a concrete starting point for a household machine, <a href="/guide/best-2000-psi-pressure-washers">machines in the 2000 PSI class</a> cover most common homeowner tasks, and the comparison above shows why flow should be checked alongside that headline figure.</p>
+
+<h2 id="rated-versus-real">Rated versus real numbers</h2>
+<p>The figures printed on a box are ratings, and ratings can be generous. Some manufacturers quote a peak pressure rather than the sustained operating pressure, particularly on lighter electric machines. A peak figure may be reached briefly during startup or with a specific nozzle, and it is not what you will see over a ten minute cleaning job.</p>
+<p>Look for wording such as "maximum", "up to" or "peak". If a listing gives pressure with no flow figure at all, treat it as incomplete. A trustworthy spec sheet gives both PSI and GPM and usually states the pump type and the power source rating as well.</p>
+<p>Another common distortion is the unit rating on a detergent or turbo nozzle. A rotating turbo nozzle can feel far more aggressive than its stated pressure because the spinning jet delivers concentrated impact over a small spot. That is real cleaning ability, but it does not change the machine's PSI rating, so do not use it to compare two models.</p>
+
+<h2 id="matching-your-supply">Matching the machine to your water supply</h2>
+<p>A pressure washer cannot create water, only move it. The garden tap and hose feeding it must deliver at least the flow the pump demands. If the supply is weaker, the pump pulls air or runs dry, which causes cavitation. Cavitation is the formation and collapse of tiny vapour bubbles inside the pump, and it is a quiet way to shorten a pump's life.</p>
+<p>A simple check is to time how long your tap takes to fill a bucket of known size. If the supply rate falls clearly below the machine's rated GPM, expect trouble. A long or kinked supply hose makes the problem worse, as does a splitter that shares flow with a sprinkler.</p>
+<ul>
+<li>Use a supply hose of adequate diameter and keep it as short and straight as practical.</li>
+<li>Open the tap fully and let the pump fill and purge air before squeezing the trigger.</li>
+<li>Never run the pump for long with the trigger released, because the water recirculating inside heats up.</li>
+</ul>
+
+<h2 id="the-role-of-the-nozzle">The role of the nozzle in the maths</h2>
+<p>Everything above assumes the nozzle fitted is the one the machine was rated with. Swap it and the numbers at the tip change. A smaller orifice raises pressure and cuts flow through the nozzle at the same pump output, while a wider orifice does the opposite. This is also why manufacturers specify the nozzle size their pump expects.</p>
+<p>Angle matters as well. A narrow angle packs the energy into a small footprint, and a wide angle spreads it. The same pressure delivers a very different effect depending on that spread. Color coding makes the choice simpler, and you can see how it works in our explainer on <a href="/pressure-washer-nozzle-colors-explained">pressure washer nozzle colors</a>.</p>
+<p>The practical lesson is that a machine with modest pressure and the right nozzle for the job can outperform a bigger machine fitted with the wrong tip. When results disappoint, check the nozzle before blaming the machine.</p>
+
+<h2 id="surfaces-and-risk">Surfaces and damage risk</h2>
+<p>Cleaning power is only useful if the surface survives it. Different materials tolerate very different pressures. Concrete and brick can take a lot. Wood, composite decking, aluminum and vinyl siding, window glass and painted surfaces cannot, and the difference between a clean surface and a scarred one can be a second or two at the wrong distance.</p>
+<figure><img src="/images/articles/pw-before-after-low-pressure.webp" alt="House siding half cleaned, showing the line between dirty and clean surface" width="1400" height="1050" loading="lazy" /><figcaption>The line between cleaned and untouched siding. Soft surfaces reward flow and dwell time rather than raw pressure.</figcaption></figure>
+<p>Start with the widest angle and a distance of a couple of feet, then work closer only if the dirt demands it. Keep the wand moving and overlap passes to avoid stripes. On wood, follow the grain. On siding, spray downward and never push water upward under the laps, where it can soak the wall behind.</p>
+<div class="mf-callout"><strong>Safety:</strong> a pressure washer jet can inject water and contaminants under the skin. The wound can look like a small puncture and still be a medical emergency. Never point the wand at people, pets or your own feet, and seek urgent medical care after any skin contact at close range.</div>
+
+<h2 id="which-spec-to-prioritise">Which spec to prioritise for your situation</h2>
+<p>The right answer depends on the work. If your list is dominated by big flat areas, favour flow and a machine with strong cleaning units. If you mostly tackle stained concrete or stubborn spots, favour pressure and a good set of nozzles. If you clean delicate things like vehicles and outdoor furniture, a lower pressure setting with decent flow is both safer and more pleasant.</p>
+<p>Think about frequency as well. A machine used once a season does not need the same pump quality as one that runs every weekend, so a modest machine with balanced specs can be a sensible choice. Those who run a gas machine will also want to understand the power source trade-offs, which we cover in <a href="/gas-vs-electric-pressure-washer">gas versus electric pressure washers</a>.</p>
+<p>If you already know your jobs are large and flat, an attachment that spreads the jet evenly changes the equation, and <a href="/what-is-a-surface-cleaner-attachment">the surface cleaner attachment</a> explains how it multiplies the effect of the flow you already have.</p>
+
+<h2 id="common-mistakes">Common mistakes when chasing a spec</h2>
+<p>The first mistake is buying on pressure alone and then compensating by standing closer to the surface. That habit is how decks get furred and concrete gets etched in stripes. If a job needs you to hold the tip an inch from the surface, the answer is a better nozzle or a surface cleaner, not more proximity.</p>
+<p>The second is assuming a gas engine's horsepower figure says anything about cleaning. Engine size tells you how much power is available, but the pump converts it, and a small pump on a large engine gains nothing. Judge the pump output, meaning PSI and GPM, not the engine label.</p>
+<p>The third is ignoring duty cycle. A light electric machine may deliver its rated pressure only in short bursts before the motor heats up, while a larger machine holds it all afternoon. If you plan a full day of fence and driveway work, check how the manufacturer describes continuous operation rather than assuming the headline figure applies hour after hour.</p>
+<p>The fourth is mixing units from different sources. Some listings quote bar or liters per minute, and converting carelessly produces numbers that look better than they are. If you meet metric figures, convert both properly before comparing cleaning units against a machine rated in PSI and GPM.</p>
+
+<h2 id="how-to-read-a-listing">How to read a listing in two minutes</h2>
+<p>Use the same quick routine every time you compare machines. First, find both PSI and GPM and write them down. Second, compute PSI times GPM for a cleaning units figure. Third, check whether the PSI is sustained or a peak value. Fourth, note the pump type and the power source, because those hint at how long the machine will last.</p>
+<figure><img src="/images/articles/pw-driveway-partly-done.webp" alt="Concrete driveway partly cleaned, with curved clean paths across grey concrete" width="1400" height="653" loading="lazy" /><figcaption>Cleaning units combine the two figures, but the finish still depends on nozzle choice and technique.</figcaption></figure>
+<p>Finally, check which nozzles are included and whether they are quick-connect. A machine with a good flow rate but a single fixed nozzle limits what you can do with it. You can browse a range of options in our roundup of <a href="/guide/best-gas-pressure-washers">gas pressure washers</a> and see how these specs line up in practice.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Is higher PSI always better?</h3>
+<p>No. Higher PSI removes tough dirt more aggressively, but it also raises the chance of damaging soft surfaces and does nothing to speed up rinsing. A balanced machine with decent flow is often more useful for general home work than a high-pressure machine with a small flow.</p>
+<h3>Which matters more for cleaning a driveway, PSI or GPM?</h3>
+<p>Both, but flow decides how fast you cover the area, while pressure decides whether stubborn stains lift. A machine with solid cleaning units and a surface cleaner attachment usually produces the most even result with the least time on the job.</p>
+<h3>What are cleaning units?</h3>
+<p>Cleaning units are PSI multiplied by GPM. The figure is a convenient industry shorthand for comparing machines, not a formal standard, and it does not account for nozzle choice or the surface you are cleaning.</p>
+<h3>Can I raise GPM by using a bigger hose?</h3>
+<p>No. The pump sets the maximum flow. A larger supply hose only helps if your existing hose or tap was restricting the water the pump demands, and it will not push the machine past its rating.</p>
+<h3>Why does my pressure pulse while I clean?</h3>
+<p>Pulsing usually means the pump is not getting a steady supply of water, or air is trapped in the system. Check for kinks, a weak tap, a clogged inlet screen or a worn nozzle, and let the pump purge fully before you start.</p>
+<h3>Does a turbo nozzle increase PSI?</h3>
+<p>No. A rotating tip concentrates the jet on a small spinning circle, which feels more aggressive, but the machine's rated pressure is unchanged. It trades coverage for impact, so it suits stubborn spots rather than big areas.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>PSI is force and GPM is flushing. You need enough of the first to break the dirt free and enough of the second to carry it away, and the cleaning units figure is the quickest way to compare two machines honestly. Ignore the biggest number on the box and read both.</p>
+<p>For most homeowners, a balanced machine with a sustained pressure rating, a flow rate that matches the water supply and a decent set of nozzles beats a high-PSI machine that sips water. Match the numbers to the work, protect the surface with the right nozzle and distance, and keep the wand pointed away from anyone.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"pw-driveway-cleaning.webp","author":"Clean and Green","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Driveway-Cleaning-1-1.jpg"},
+    {"image":"pw-karcher-unit.webp","author":"Asurnipal","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstraße-Kaercher_770MX-3_kW-01ASD.jpg"},
+    {"image":"pw-before-after-low-pressure.webp","author":"Jamesmcardle","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Before_and_after_low_pressure_cleaning.jpg"},
+    {"image":"pw-driveway-partly-done.webp","author":"Rossaustralia","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Brighton-Driveway-29Apr.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Gas vs Electric Pressure Washers","href":"/gas-vs-electric-pressure-washer"},
+    {"title":"Pressure Washer Nozzle Colors Explained","href":"/pressure-washer-nozzle-colors-explained"},
+    {"title":"What Is a Surface Cleaner Attachment","href":"/what-is-a-surface-cleaner-attachment"},
+  ],
+};
+
+export default article;

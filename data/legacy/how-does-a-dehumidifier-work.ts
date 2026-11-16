@@ -1,0 +1,160 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "how-does-a-dehumidifier-work",
+  title: "How a dehumidifier works and where the water actually comes from",
+  metaTitle: "How Does a Dehumidifier Work? The Full Cycle",
+  metaDescription: "A compressor dehumidifier chills air below its dew point, collects the water and reheats the air. Learn each part, why cold rooms stall, and what it means.",
+  kicker: "Explainer",
+  heroImage: { src: "/images/articles/dehum-with-euro-plug.webp", alt: "Domestic dehumidifier with a collection tank, standing on a floor" },
+  lastUpdated: "2026-11-16",
+  readTime: "13 min",
+  quickAnswer: "A compressor dehumidifier pulls room air across a cold coil, so water vapor condenses into droplets that drip into a bucket or drain. The same air then passes over a warm coil and returns to the room drier and slightly warmer. The cycle repeats until the humidistat reads the target humidity. Performance depends heavily on air temperature, because a colder coil collects less water and can frost over.",
+  html: `<h2 id="the-puzzle">The puzzle: water appears from air</h2>
+<p>Run a dehumidifier in a damp basement overnight and the bucket is full by morning. Nothing was poured in, no pipe leaked, and yet there is a few liters of water sitting in a plastic tank. The first time you see it, it feels like a trick.</p>
+<p>It is not a trick. Air always carries water as an invisible gas called water vapor, and how much it can carry depends on temperature. A dehumidifier exploits that single relationship. Once you understand it, every spec on the box, from the pint rating to the minimum operating temperature, starts to make sense.</p>
+
+<h2 id="dew-point">Dew point is the whole idea</h2>
+<p>Warm air holds more vapor than cold air. If you cool a parcel of air, it eventually reaches a temperature where it cannot hold all the vapor it contains. That temperature is the dew point. Cool it any further and the surplus vapor turns into liquid droplets.</p>
+<p>You have seen this on a cold glass of water in summer. The glass surface is below the dew point of the surrounding air, so vapor condenses on it and runs down the side. A dehumidifier is a machine that builds a very effective cold glass, then deliberately catches the runoff.</p>
+<div class="mf-callout"><strong>Key idea:</strong> a dehumidifier does not soak up moisture like a sponge. It cools a surface below the dew point so vapor becomes liquid, and then it removes the liquid.</div>
+
+<h2 id="refrigeration-cycle">The refrigeration cycle in plain steps</h2>
+<p>A standard dehumidifier is built from the same parts as a small air conditioner. A sealed loop of refrigerant moves heat from one coil to another. Here is the sequence the air and the refrigerant follow.</p>
+<ol>
+<li>A fan draws humid room air through a grille and a filter.</li>
+<li>The air crosses the evaporator coil, which is cold because refrigerant is expanding and evaporating inside it.</li>
+<li>Vapor in the air condenses on the coil fins as liquid water and drips into a collection tray.</li>
+<li>The now cooler, drier air continues across the condenser coil, which is hot because it is releasing the heat the compressor added.</li>
+<li>That reheated air is blown back into the room, with a lower relative humidity than when it entered.</li>
+<li>The compressor squeezes the refrigerant back to a hot, high pressure gas and the loop starts over.</li>
+</ol>
+<p>The key detail is that both coils sit in the same airstream. The cold coil removes the water, and the hot coil immediately warms the air back up so the unit does not simply act as a weak air conditioner.</p>
+
+<h2 id="the-parts">The parts and what each one does</h2>
+<table>
+<thead><tr><th>Part</th><th>Job</th><th>What goes wrong</th></tr></thead>
+<tbody>
+<tr><td>Compressor</td><td>Pressurizes refrigerant and drives the loop</td><td>Loud rattle or no cooling means the sealed system has failed</td></tr>
+<tr><td>Evaporator coil</td><td>Cold surface where water condenses</td><td>Frost, dust coating or mineral film reduces collection</td></tr>
+<tr><td>Condenser coil</td><td>Warm surface that reheats the air</td><td>Blocked airflow causes overheating</td></tr>
+<tr><td>Fan</td><td>Moves air across both coils</td><td>Weak airflow means weak water output</td></tr>
+<tr><td>Humidistat</td><td>Senses humidity and cycles the machine</td><td>Poor calibration makes the machine run too long or short</td></tr>
+<tr><td>Bucket and float</td><td>Collects water and shuts the unit off when full</td><td>A stuck float stops the unit early</td></tr>
+</tbody>
+</table>
+<p>Most failures that owners can fix are on the airflow side: a clogged filter, a dust-coated coil or a blocked exhaust. The sealed refrigerant side is rarely repaired in a consumer unit.</p>
+<figure><img src="/images/articles/dehum-internals-opened.webp" alt="Dehumidifier partly disassembled showing its coil and water tray" width="1200" height="1600" loading="lazy" /><figcaption>Inside, the machine is a small refrigeration system: a cold coil, a warm coil, a compressor and a fan.</figcaption></figure>
+
+<h2 id="where-water-goes">Where the collected water goes</h2>
+<p>Water drips off the evaporator coil into a tray and then into a removable bucket. A float switch inside the bucket stops the machine when the tank is full. This is the default arrangement and it is fine for a spare room or a small basement you check daily.</p>
+<figure><img src="/images/articles/dehum-home-unit.webp" alt="Home dehumidifier seen from above showing its control panel" width="1400" height="1867" loading="lazy" /><figcaption>Water condensed on the cold coil drains into a tank, and the float that stops the machine lives there too.</figcaption></figure>
+<p>For a damp basement, emptying a bucket every day gets old fast. Many models include a drain hose connection that uses gravity to send water to a floor drain or sump. Some units add a built-in condensate pump that lifts water up and out through a thin hose, which helps when no floor drain sits lower than the machine.</p>
+<p>If you plan to run the machine continuously, drain capability matters more than a few pints of rated capacity. A smaller unit with a hose outlet can remove more water over a month than a bigger unit that stops every time the bucket fills.</p>
+
+<h2 id="why-air-comes-out-warm">Why the air coming out is warmer</h2>
+<p>Many people expect a dehumidifier to cool the room. It does the opposite, slightly. Two things add heat. The compressor motor turns electricity into heat, and condensing vapor releases the energy it absorbed when it first evaporated. All of that ends up in the airstream leaving the condenser coil.</p>
+<p>In a small enclosed room the temperature creep is noticeable. In a large basement it is hardly detectable. Either way, the added warmth is useful, because warmer air can hold more vapor, so the machine keeps a steady supply of moisture to process.</p>
+<div class="mf-callout"><strong>Practical note:</strong> because the machine warms the air, a dehumidifier will never cool a sweaty room. If your problem is heat as well as moisture, an air conditioner running in dry mode does a similar job while also removing heat.</div>
+
+<h2 id="relative-humidity">Relative humidity, the number you actually set</h2>
+<p>Relative humidity expresses how full the air is compared with the maximum it could hold at that temperature. At the same moisture content, cool air shows a higher percentage than warm air. That is why a basement at a cool temperature often feels clammy even when the total water in the air is modest.</p>
+<p>The humidistat reads this percentage. When it rises above the setpoint, the compressor and fan start. When it falls below, they stop. Many households aim for a middle range in living spaces. A dedicated damp area such as a basement is often held on the lower side of that range to discourage mold, though the right target also depends on the building and the season.</p>
+<p>Because the machine reads relative humidity, moving it changes its behavior. A unit in a corner with poor airflow may read a pocket of damp air and keep running while the rest of the room is already dry. Place it with free space around the intake and exhaust.</p>
+
+<h2 id="cold-rooms-and-frost">Why cold rooms stall the machine</h2>
+<p>The evaporator coil must be cold enough to drop below the dew point, but not so cold that water freezes on it. In a warm room the coil sits in a happy range. In a cold room, the incoming air chills the coil further, and frost starts to form on the fins.</p>
+<p>Frost is bad for two reasons. It insulates the coil, so less heat transfers and less water condenses. It also blocks the gaps between fins, so airflow falls. A frosted coil makes the unit nearly useless until it is cleared.</p>
+<p>Manufacturers handle this with a defrost cycle. A sensor detects a cold coil, the compressor pauses, and the fan keeps blowing room air over the fins to melt the ice. Some units use a hot gas bypass instead. In either case, the time spent defrosting is time spent not removing water, so the effective output in a cold space is far lower than the rated figure.</p>
+<p>Cool basements and unheated garages are the common trouble spots. If your space regularly sits at the low end of a compressor unit's stated operating range, read the manual's minimum temperature and consider a desiccant unit instead. Our comparison of <a href="/compressor-vs-desiccant-dehumidifier">compressor and desiccant dehumidifiers</a> covers that decision.</p>
+
+<h2 id="energy-and-efficiency">Energy and efficiency</h2>
+<p>A dehumidifier is efficient when it moves a lot of water for each unit of electricity. Manufacturers describe this as liters per kilowatt hour on Energy Star listings. A higher number means more water per unit of electricity.</p>
+<p>Efficiency is not fixed. It rises in warm, damp air because the coil collects a lot of water quickly. It falls in cool or already dry air, because the compressor spends energy chasing a small amount of moisture. That is one reason a machine seems to use more power during the dry end of a cycle.</p>
+<ul>
+<li>Run it continuously with a drain in a very damp space rather than cycling manually.</li>
+<li>Close doors and windows in the room, or the machine is trying to dry the outdoors.</li>
+<li>Keep the filter clean so the fan does not work harder than needed.</li>
+<li>Set the target to what you need, not the lowest possible number.</li>
+</ul>
+
+<h2 id="size-and-capacity">How capacity connects to the cycle</h2>
+<p>Capacity is the amount of water a unit can pull from air in a day under a stated test condition. A bigger coil, a stronger compressor and a larger fan give more output. But the ratings come from a controlled test, and real rooms rarely match it.</p>
+<p>The rating is therefore a comparison tool rather than a promise. We explain how pint figures changed and why older and newer boxes are not directly comparable in <a href="/dehumidifier-pint-ratings-and-the-doe-change">our pint rating guide</a>. For choosing a number for your own space, use <a href="/what-size-dehumidifier-do-i-need">the sizing guide</a>.</p>
+
+<h2 id="maintenance-that-protects-performance">Maintenance that protects the cycle</h2>
+<p>Because the machine is only as good as its airflow and its coil, upkeep is simple but non-negotiable.</p>
+<ul>
+<li><strong>Filter:</strong> wash or replace it on the schedule in the manual. A clogged filter reduces airflow and lets dust coat the coil.</li>
+<li><strong>Bucket:</strong> rinse it regularly. Standing water grows slime and smells.</li>
+<li><strong>Coil:</strong> if the manual allows it, vacuum the fins gently with the unit unplugged.</li>
+<li><strong>Drain hose:</strong> confirm it slopes downward the whole way, with no kinks that trap water.</li>
+<li><strong>Storage:</strong> drain it fully before storing so stagnant water does not breed odor.</li>
+</ul>
+<p>Always unplug the machine before cleaning anything inside it and follow your own manual for what is safe to remove.</p>
+
+<h2 id="what-a-dehumidifier-cannot-do">What a dehumidifier cannot do</h2>
+<p>It removes moisture from air, not from walls that are actively leaking. If water is entering through a foundation crack, a dehumidifier will chase the problem forever. It will also not remove mold that is already growing, though lower humidity stops new growth.</p>
+<p>It also does not cure a space that is open to damp outdoor air. A garage door left cracked or a window left open lets in a steady supply of vapor, and the unit never catches up.</p>
+<div class="mf-callout"><strong>Check first:</strong> if you see liquid water on a basement floor after rain, fix the drainage or the leak. A dehumidifier manages humidity, not flooding.</div>
+
+<h2 id="choosing-after-you-understand-it">Choosing a unit once you understand the cycle</h2>
+<p>With the mechanism clear, the shopping list gets short. Look for a stated operating temperature range that covers your coldest room, a drain hose option if you run it daily, an accessible filter, and a humidistat that is easy to set. Then size it to the space.</p>
+<p>When you are ready to compare real models, start with the <a href="/guide/best-dehumidifiers">best dehumidifiers guide</a>. If you prefer a particular brand, the <a href="/guide/best-lg-dehumidifiers">LG dehumidifier roundup</a> narrows the field.</p>
+
+<h2 id="common-placement-mistakes">Placement mistakes that waste the cycle</h2>
+<p>Because the whole process depends on airflow across two coils, where you put the machine matters as much as which machine you buy. The most common mistake is pushing the unit tight against a wall or into a corner. The intake and exhaust grilles then recirculate the same small pocket of air, the humidistat decides the room is dry, and the rest of the space stays damp.</p>
+<figure><img src="/images/articles/dehum-in-hotel-bedroom.webp" alt="Dehumidifier standing against a wall in a bedroom" width="1400" height="1867" loading="lazy" /><figcaption>The unit needs air to reach both coils. Pushed tight against furniture, it recycles its own exhaust.</figcaption></figure>
+<p>Leave open space around the machine, as the manual specifies, and put it near the middle of the area you want to dry. In a basement with several rooms, open the interior doors so air can move. A closed door turns each small room into its own sealed box, and the unit only treats the one it sits in.</p>
+<p>Another frequent error is running the unit beside a clothes dryer vent, a bathroom without a fan or an open crawlspace hatch. Those sources add vapor faster than the coil can remove it. Fix the source first, and the machine finally gets ahead of the load.</p>
+
+<h2 id="reading-the-spec-sheet">Reading the spec sheet with the cycle in mind</h2>
+<p>Once you know how the loop works, the specifications stop looking like marketing and start reading as design choices. A larger evaporator coil and a stronger fan point to higher water output. A built-in pump points to flexible drainage. A low operating temperature limit means the manufacturer has either added a defrost strategy or accepted a narrower range.</p>
+<table>
+<thead><tr><th>Spec</th><th>What it tells you about the cycle</th></tr></thead>
+<tbody>
+<tr><td>Capacity rating</td><td>How much water the coil and compressor can pull in a defined test condition</td></tr>
+<tr><td>Operating temperature range</td><td>Where the coil stays above freezing and the unit keeps running</td></tr>
+<tr><td>Airflow figure</td><td>How quickly the room air passes over the coil</td></tr>
+<tr><td>Tank size</td><td>How long it runs before the float stops it</td></tr>
+<tr><td>Drain options</td><td>Whether it can run unattended for days</td></tr>
+<tr><td>Noise level</td><td>Largely compressor and fan, important for living areas</td></tr>
+</tbody>
+</table>
+<p>Noise deserves a note. The compressor hums and the fan moves air, so no compressor dehumidifier is silent. If the machine will sit in a bedroom, noise belongs high on your list, and a desiccant model that has no compressor may suit better.</p>
+
+<h2 id="seasonal-behavior">How the machine behaves through the year</h2>
+<p>In humid summer weather the air is warm and wet, which is the ideal condition for the cycle. The coil collects a lot of water, the bucket fills quickly and the machine may run for long stretches. This is the season it was designed for.</p>
+<p>In autumn and spring the indoor air cools while basements stay damp. Output falls, and you may notice more defrost pauses. In winter, a heated living space is usually dry on its own, and an unheated basement may sit too cold for a compressor unit to do much. Many owners shut the machine down for the coldest months and restart it when conditions warm.</p>
+<p>That seasonal pattern is also why a single rating cannot describe a unit. The same machine that fills a bucket twice a day in July can sit nearly idle in January, and neither behavior means it is broken.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Does a dehumidifier work in a cold basement?</h3>
+<p>A compressor dehumidifier loses output as the room cools, because frost builds on the coil and forces defrost pauses. Check the minimum operating temperature in your manual. For persistently cold spaces, a desiccant unit holds up better.</p>
+<h3>Does the water from a dehumidifier have a use?</h3>
+<p>It is distilled-like condensate but can pick up dust, metal from the coil and microbes from the tank. Manufacturers generally advise against drinking it. It is commonly used for non-edible purposes such as watering ornamental plants, though check your manual.</p>
+<h3>Why is my dehumidifier running but the bucket stays empty?</h3>
+<p>Common causes are already dry air, a very cold room causing frost, a blocked filter or a failing sealed system. If the room humidity reads at or below the setpoint, the machine is simply cycling and there is nothing left to remove.</p>
+<h3>Should I run it all day?</h3>
+<p>In a damp space, continuous operation with a drain hose is common and keeps humidity stable. In a drier room, rely on the humidistat so it cycles off when the target is reached.</p>
+<h3>Does a dehumidifier make a room hotter?</h3>
+<p>Slightly. The compressor and the heat released by condensation both enter the airstream. In a small closed room the effect is noticeable, while in a large space it is minor.</p>
+<h3>Is a bigger dehumidifier always better?</h3>
+<p>No. An oversized unit in a small room cycles quickly and can leave the air feeling cold and still damp at the surface level, while wasting money. Match capacity to the space and dampness.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>A compressor dehumidifier is a small refrigeration loop: a cold coil condenses vapor into water, a warm coil reheats the air, and a bucket or drain collects the result. It works best in warm, damp air and loses effectiveness as the room cools. Learn the cycle, keep the airflow clean, give it a drain if you run it daily, and match it to your space instead of chasing the biggest number on the box.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"dehum-with-euro-plug.webp","author":"Vladimir Okhotnikov","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Air_dehumidifier_with_a_European_plug.jpg"},
+    {"image":"dehum-home-unit.webp","author":"Mewtu","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dehumidifer.jpg"},
+    {"image":"dehum-in-hotel-bedroom.webp","author":"Michael Rivera","license":"CC BY 4.0","source":"https://commons.wikimedia.org/wiki/File:Dehumidifier_in_hotel_bedroom,_Comfort_Suites,_Kingsland.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Best Dehumidifiers","href":"/guide/best-dehumidifiers"},
+    {"title":"Best LG Dehumidifiers","href":"/guide/best-lg-dehumidifiers"},
+    {"title":"What Size Dehumidifier Do I Need","href":"/what-size-dehumidifier-do-i-need"},
+  ],
+};
+
+export default article;

@@ -1,0 +1,145 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "how-to-winterize-a-pressure-washer",
+  title: "How to Winterize a Pressure Washer and Protect the Pump From Freezing",
+  metaTitle: "How to Winterize a Pressure Washer",
+  metaDescription: "Learn how to winterize a pressure washer: drain the pump, add pump saver, stabilize fuel and store it so a freeze never cracks the pump in spring.",
+  kicker: "How to",
+  heroImage: { src: "/images/articles/pw-karcher-unit.webp", alt: "Yellow domestic pressure washer unit with hose reel and lance" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "To winterize a pressure washer, disconnect the hoses, drain all water from the pump, wand and hose, and run a pump-saver antifreeze through the pump so no liquid water remains to freeze. On a gas model, also stabilize or drain the fuel and change the oil if due. Store it in a dry, sheltered place, because trapped water that freezes expands and can crack the pump head.",
+  html: `<h2 id="the-spring-surprise">The spring surprise that costs a pump</h2>
+<p>The typical story starts in April. The machine ran fine last October, it sat in an unheated shed all winter, and now it starts, spins, and sprays a thin jet of water from a crack in the pump head. Nothing visibly broke in the cold. The damage happened quietly on the first hard freeze, when a few teaspoons of water left inside the pump turned to ice and expanded.</p>
+<p>Water increases in volume when it freezes. Inside a pump with tight chambers and thin aluminum or brass walls, that expansion has nowhere to go. It can crack the manifold, split a check valve seat or deform the pistons' housing, and the damage often stays invisible until you pressurise the system. A cracked pump is frequently more expensive to fix than the machine is worth.</p>
+<p>Winterizing prevents all of that, and it takes about half an hour once a year. This article is the storage procedure. If you are still deciding which type of machine to own, see <a href="/gas-vs-electric-pressure-washer">our gas versus electric comparison</a>, since the fuel steps only apply to the engine-driven type.</p>
+
+<h2 id="why-freezing-damages">Why freezing damages a pump</h2>
+<p>A pressure washer pump is a positive-displacement pump. Small pistons draw water in through inlet valves and force it out through outlet valves at high pressure. The water chambers are machined to tight tolerances, and water sits trapped in them whenever you stop the machine. Even after you shut off the tap and squeeze the trigger, a little water remains inside the pump and unloader valve.</p>
+<p>When the temperature drops below freezing, that water crystallises and expands by roughly nine percent in volume. That sounds small, but ice is incompressible at the scale of a pump casing, and the force it exerts on thin walls is enough to crack them. The weakest point is usually the manifold or the seat of a valve.</p>
+<p>The risk is not limited to deep winter. A single night below freezing can do it, which is why autumn is the time to act. If you live in a mild climate, you still need to protect the machine during any cold snap, and you should not assume that a garage keeps it safe.</p>
+
+<h2 id="what-you-need">What you need before you start</h2>
+<p>Gather the supplies first so the job runs smoothly. Check your manual for the exact products and steps it recommends, because pump designs differ and the manufacturer's instructions take priority over any general guide.</p>
+<ul>
+<li>A pump-saver or pump antifreeze product made for pressure washers, which also lubricates seals.</li>
+<li>A short length of garden hose, or the adapter that came with the pump-saver bottle.</li>
+<li>For gas machines: fuel stabilizer, fresh engine oil if it is due, and a clean funnel.</li>
+<li>A rag, a bucket and a pair of work gloves.</li>
+</ul>
+<div class="mf-callout"><strong>Use the right product:</strong> do not pour automotive antifreeze into a pressure washer pump unless the manual explicitly allows it. Many pump-saver products are formulated to protect seals and are less hazardous to the environment. Follow the label on whichever product you use.</div>
+
+<h2 id="step-one-drain">Step one: disconnect and drain everything</h2>
+<p>Turn off the water supply and disconnect the garden hose from the machine. If you have a gas machine, shut the engine off and let it cool. With the supply off, squeeze the trigger on the gun to release the pressure remaining in the system, and keep squeezing until water stops flowing.</p>
+<figure><img src="/images/articles/pw-driveway-cleaning.webp" alt="Pressure washer wand and hose on wet block paving" width="1000" height="667" loading="lazy" /><figcaption>Water left in the hose and lance freezes first, because they hold the least heat and sit nearest the cold.</figcaption></figure>
+<p>Detach the high-pressure hose from both the pump and the gun, and hold each end low so the water runs out. Lift and shake the hose, walking along its length, to clear any trapped water. Do the same with the wand and any quick-connect nozzles, tipping them down to drain.</p>
+<p>Tilt the machine gently, following the manual's advice, to encourage water to run from the pump inlet and outlet. Some owners pull the starter rope of a gas machine a few times with the spark plug disconnected, or briefly turn on the electric motor without water, to push residual droplets out, but only do this if the manual allows it. Running a pump dry for more than a few seconds can damage the seals, so keep any such step very short or skip it and rely on the antifreeze step.</p>
+
+<h2 id="step-two-pump-saver">Step two: run pump saver through the pump</h2>
+<p>This is the step that actually protects the pump. Pump-saver is a liquid formulated to stay fluid at low temperatures, to displace water inside the pump, and to lubricate the seals so they do not dry out over the months of storage. Most come in a bottle with a nozzle that screws onto the water inlet.</p>
+<p>Attach the bottle to the pump inlet, following the product instructions. Squeeze or pour the liquid in until it appears at the outlet where the high-pressure hose attaches. For machines where you must pull the starter or briefly crank the motor to circulate the fluid, follow the manual precisely and keep the cranking short.</p>
+<p>You are looking for the colored liquid to emerge from the outlet. That tells you it has displaced the remaining water in the chambers. Once you see it, stop, cap the inlet and outlet if the product suggests it, and wipe up any spillage.</p>
+<ol>
+<li>Confirm the water supply is off and the pressure is released.</li>
+<li>Connect the pump-saver bottle to the inlet.</li>
+<li>Run or squeeze the fluid through until it appears at the outlet.</li>
+<li>Reconnect nothing, cap the openings, and store the machine.</li>
+</ol>
+
+<h2 id="step-three-gas-engine">Step three: prepare a gas engine</h2>
+<p>If your machine has a gas engine, the fuel and oil need attention. Gas left in a tank for months loses volatility and can form gum and varnish that clog the carburetor jets. That is the most common reason a gas pressure washer will not start in spring.</p>
+<p>You have two valid approaches. Add a fuel stabilizer to a nearly full tank, run the engine for a few minutes so the treated fuel reaches the carburetor, and store it. Alternatively, drain the fuel tank and run the engine until it stops from fuel starvation, so the carburetor is empty. Follow the engine manual, because some manufacturers prefer one method.</p>
+<p>Change the engine oil if it is due, since used oil holds acids and moisture that attack internal parts during storage. Pull the spark plug, put a few drops of clean oil in the cylinder if your manual suggests it, turn the engine over a few times by hand and refit the plug. Check the air filter and clean or replace it.</p>
+<div class="mf-callout"><strong>Fire safety:</strong> store fuel only in an approved container, away from heat sources and living spaces, and never refuel a hot engine. Keep a gas machine with fuel inside out of any enclosed space where vapour could reach a water heater, furnace or other ignition source.</div>
+
+<h2 id="electric-machines">Electric machines: a shorter list</h2>
+<p>Electric washers skip the fuel and oil steps, which makes winterizing quicker. The pump still needs draining and a pump-saver treatment, and the power cord needs a tidy inspection. Look along the cord and plug for cracks or exposed wire, and replace damaged ones before the next season rather than discovering the fault when you plug it in.</p>
+<p>Coil the cord loosely and avoid kinking it, since tight bends crack the insulation in cold storage. Keep the motor housing dry. If the machine has a detergent tank, empty it and rinse it with clean water so residue does not harden in the siphon tube.</p>
+<p>Check the inlet screen as well. A clogged or damaged filter lets grit into the pump, and the end of the season is the best time to clean or replace it.</p>
+
+<h2 id="hoses-guns-and-accessories">Hoses, guns, wands and accessories</h2>
+<p>The pump is the expensive part, but the rest of the system deserves attention. Inspect the high-pressure hose for bulges, kinks or abrasion, because a weakened hose can burst under pressure. Store it coiled in loose loops, not wrapped tightly around a small spool where it develops kinks.</p>
+<p>The trigger gun contains seals and a valve that can hold water. Drain it, and give it a short squirt of pump saver or a light lubricant if the manual allows it. Remove the nozzles and store them in a labelled box, since they are small and easy to lose. A set of clean, labelled tips also makes the next season quicker, and you can brush up on them in <a href="/pressure-washer-nozzle-colors-explained">our nozzle color guide</a>.</p>
+<p>If you use a surface cleaner or other attachment, flush it and drain it, then store it where it will not be crushed. Water trapped in a swivel can freeze and crack the housing just as it can in a pump.</p>
+
+<h2 id="where-to-store-it">Where to store it</h2>
+<p>The best place is a heated or at least frost-protected space, such as a basement, a heated garage or a utility room. If you must use an unheated shed, drain and treat the pump thoroughly, because you are relying on the antifreeze rather than ambient temperature to protect it.</p>
+<figure><img src="/images/articles/pw-street-cleaning-london.webp" alt="Pressure washer in use on a wet street surface" width="1400" height="1050" loading="lazy" /><figcaption>A machine put away wet after the last autumn job is the one that fails in spring.</figcaption></figure>
+<p>Keep the machine upright and off bare concrete, which can wick moisture, using a shelf or a piece of wood beneath it. Cover it with a breathable cloth or a fitted cover to keep dust off. A sealed plastic bag traps moisture and encourages corrosion.</p>
+<p>Store the machine away from rodents, which love to chew hoses and wiring in the cold. Gas models should not share a room with open flames or pilot lights, and any fuel should sit in a separate approved container.</p>
+
+<h2 id="checklist">Quick checklist table</h2>
+<table>
+<thead><tr><th>Task</th><th>Electric</th><th>Gas</th></tr></thead>
+<tbody>
+<tr><td>Disconnect water and release pressure</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Drain hose, wand and gun</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Run pump saver through the pump</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Stabilize or drain fuel</td><td>Not needed</td><td>Yes</td></tr>
+<tr><td>Change oil if due</td><td>Not needed</td><td>Yes</td></tr>
+<tr><td>Inspect cord and plug</td><td>Yes</td><td>Not applicable</td></tr>
+<tr><td>Clean inlet screen</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Store frost-protected and dry</td><td>Yes</td><td>Yes</td></tr>
+</tbody>
+</table>
+
+<h2 id="de-winterizing">Bringing it back to life in spring</h2>
+<p>When the season returns, reverse the process carefully. Check the machine for visible damage, then reconnect the high-pressure hose, the gun and the wand. Attach the garden hose and turn on the water, and squeeze the trigger until a steady stream emerges, which purges air and the remaining pump saver from the system.</p>
+<p>Do not start the machine until water is flowing, since running the pump dry harms the seals. Once the stream is steady, start the machine. On a gas model, check the oil level, add fresh fuel, and start it outside in open air. If it runs rough, give it a moment, because the carburetor may still be clearing.</p>
+<p>Look for leaks at the pump, the hose connections and the gun while the machine is running. A small drip at a fitting often means a worn o-ring, which is a cheap fix. Water leaking from the pump head after winter is a warning sign of freeze damage, and you should stop using the machine until it is checked.</p>
+<p>Before your first big job of the year, it helps to remember how pressure and flow interact, which we explain in <a href="/psi-vs-gpm-pressure-washer">our PSI versus GPM article</a>. If a pump has been damaged, pressure often drops and pulses, and knowing what normal looks like helps you spot it.</p>
+
+<h2 id="short-term-storage">Short breaks versus full winterizing</h2>
+<p>Not every pause is a full winter. If the machine will sit for a couple of weeks in weather that stays above freezing, a simple drain of the hose, wand and gun is usually enough, and you can leave the pump treatment for the end of the season. The trigger is the forecast, not the calendar. Any night expected to dip near freezing means the pump needs protection that night, not later.</p>
+<p>Gas owners face a similar judgement on fuel. Modern gas with ethanol can start to degrade within a month or two, so a machine that will rest for more than that benefits from stabilizer. A tank of fresh, treated fuel at the start of storage costs almost nothing compared with a carburetor rebuild.</p>
+<p>If you use the machine for occasional winter jobs, such as cleaning salt off a car, wash in a heated space and drain it fully before it goes back outside. Treat each cold day of use as a small, separate winterizing event.</p>
+
+<h2 id="signs-of-trouble">Reading the warning signs before and after storage</h2>
+<p>A few symptoms are worth knowing. Oil in the pump crankcase should look clean and amber. If it appears milky or tan, water has mixed with it, which can follow a freeze or a failed seal, and the pump needs service before you use it again. Most pumps have a sight glass or a dipstick for this check, so look at it each spring.</p>
+<p>Pulsing pressure can mean a worn valve, trapped air or a partly cracked housing. If the pulsing continues after you have purged the lines and checked the inlet screen and nozzle, stop and investigate. A pump that leaks water from its body is a pump that needs repair or replacement.</p>
+<p>A machine that starts but produces no pressure may have a stuck unloader valve or a clogged inlet. These are service issues that a repair shop can usually address. Knowing the baseline is helpful, and our <a href="/psi-vs-gpm-pressure-washer">PSI versus GPM article</a> explains what normal output looks like.</p>
+
+<h2 id="o-rings-and-seals">Seals, o-rings and the cheap parts worth checking</h2>
+<p>Winter storage is a good moment to look at the small rubber parts that cause most leaks. The o-rings in the quick-connect fittings, the seals in the trigger gun and the washer inside the garden hose coupling all harden with age and cold. A dried or flattened o-ring is the most common cause of a drip that appears at a connection in spring.</p>
+<p>Remove each o-ring gently with a plastic pick, look for cracks, flat spots or nicks, and wipe it clean. A light smear of silicone-based lubricant, or the grease the manual suggests, keeps rubber supple through storage. Avoid petroleum-based grease on rubber seals unless the manual allows it, since some formulas swell and soften them.</p>
+<p>Replace any o-ring that looks suspect. They cost very little and are quick to swap, and a fresh set removes a whole category of leaks. Keep a small bag of spares with the machine so the first job of the season is not interrupted by a missing part.</p>
+<p>Finally, check the unloader and thermal relief valves if the manual identifies them as serviceable. A thermal relief valve protects the pump from overheating when the trigger is released, and a stuck or dirty valve can leak. If you are unsure, leave internal valve service to a repair shop rather than guessing.</p>
+
+<h2 id="mistakes-to-avoid">Mistakes that undo the work</h2>
+<p>The first mistake is skipping the pump-saver on the grounds that you drained the machine. Draining removes most water, but not all, and the residue can be enough to cause a crack. Pump-saver is cheap insurance.</p>
+<p>The second is leaving a hose connected to the pump. Water in a hose that is still attached can drain back to the pump or freeze at the connection. Disconnect and drain every piece.</p>
+<p>The third is storing a gas machine with stale fuel and a dirty air filter. These are small details with an outsized effect on the first start. The fourth is storing the machine in a damp place without a cover, which encourages corrosion on fittings and the electrical connections of an electric machine.</p>
+<p>The fifth is assuming that a machine has been safe if it survived last winter. A mild winter does not prove the pump is protected. The hard freeze only has to happen once.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Do I need to winterize a pressure washer if I store it in the garage?</h3>
+<p>If the garage can drop below freezing, yes. A garage is not heated, and a single hard frost can freeze the water left in the pump. Treating it with pump-saver is cheap protection.</p>
+<h3>Can I use regular antifreeze instead of pump saver?</h3>
+<p>Do not, unless the manual specifically allows it. Pump-saver products are formulated to protect the seals and are made for this use. Automotive antifreeze may harm seals and is harder to dispose of responsibly.</p>
+<h3>How do I know if the pump froze and cracked?</h3>
+<p>Typical signs are water leaking from the pump head, loss of pressure, pulsing, or oil that looks milky. If you suspect damage, stop running the machine and have the pump inspected, because running it can worsen the damage.</p>
+<h3>Do electric pressure washers need winterizing too?</h3>
+<p>Yes. The pump has the same freeze risk as a gas model. You skip the fuel and oil steps but still drain the pump, run pump-saver through it, and store it frost-protected.</p>
+<h3>Should I run the engine dry or use fuel stabilizer?</h3>
+<p>Either works if done correctly, so follow your engine manual. Stabilizer in a nearly full tank is simple. Draining and running the carburetor dry avoids stored fuel altogether.</p>
+<h3>How often should I do this?</h3>
+<p>Once per year, at the end of the season, and any time you expect the machine to sit through freezing weather. Treat any extended cold snap as a reason to drain and protect the pump.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Winterizing a pressure washer is a short job that protects its most expensive part. Disconnect and drain everything, run pump-saver through the pump until it appears at the outlet, look after the fuel and oil on a gas engine, and store the machine dry and out of the worst cold.</p>
+<p>Do it before the first hard frost and not after. A half hour in autumn spares you a cracked pump and a frustrating spring. If you are choosing a machine and want one that is lighter on upkeep, our <a href="/guide/best-pressure-washers">pressure washer overview</a> is a good place to start, and you can see how many of the options sidestep the engine care described above.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"pw-karcher-unit.webp","author":"Asurnipal","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstraße-Kaercher_770MX-3_kW-01ASD.jpg"},
+    {"image":"pw-driveway-cleaning.webp","author":"Clean and Green","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Driveway-Cleaning-1-1.jpg"},
+    {"image":"pw-street-cleaning-london.webp","author":"Ethan Doyle White","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Borough_Market_street_cleaning_Southwark_London_England_01.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Gas vs Electric Pressure Washers","href":"/gas-vs-electric-pressure-washer"},
+    {"title":"PSI vs GPM on a Pressure Washer","href":"/psi-vs-gpm-pressure-washer"},
+    {"title":"Pressure Washer Nozzle Colors Explained","href":"/pressure-washer-nozzle-colors-explained"},
+  ],
+};
+
+export default article;

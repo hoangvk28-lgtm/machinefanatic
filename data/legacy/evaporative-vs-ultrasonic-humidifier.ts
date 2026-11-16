@@ -1,0 +1,165 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "evaporative-vs-ultrasonic-humidifier",
+  title: "Evaporative vs ultrasonic humidifier: which type suits your home",
+  metaTitle: "Evaporative vs Ultrasonic Humidifier",
+  metaDescription: "Evaporative humidifiers use a wick and fan, ultrasonic ones vibrate water into mist. Compare white dust, noise, hygiene and humidity control before buying.",
+  kicker: "Comparison",
+  heroImage: { src: "/images/articles/humidifier-smartair-1.webp", alt: "Tall white humidifier standing on a floor" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "An evaporative humidifier blows air through a wet wick and tends to self-limit as the room gets humid, so it is steady, leaves no white dust and needs wick changes. An ultrasonic humidifier vibrates water into a fine cool mist, runs almost silently and is easy to control, but it can leave white mineral dust and needs strict cleaning.",
+  html: `<h2 id="white-dust-on-the-nightstand">The white dust on the nightstand</h2>
+<p>A common story goes like this. Someone buys a sleek, silent cool mist humidifier for the bedroom, runs it with tap water, and a week later finds a fine white powder on the nightstand, the dresser and the screen of the television. They assume the machine is defective. In fact the powder is the dissolved minerals from the water, left behind as the mist dried.</p>
+<p>That powder is the clearest sign of the difference between the two main humidifier technologies. Understanding how each makes humid air explains the dust, the noise, the upkeep and the control you get, and it makes the choice a lot easier.</p>
+
+<h2 id="how-evaporative-works">How an evaporative humidifier works</h2>
+<p>An evaporative unit draws water from a tank into a porous wick, sometimes called a filter or pad. A fan pulls room air across the wet wick, and the water evaporates into the airstream as invisible vapor. The humid air leaves the machine and mixes with the room.</p>
+<figure><img src="/images/articles/humidifier-closeup-appliance.webp" alt="Close view of a humidifier with its power cord resting on top" width="1400" height="2097" loading="lazy" /><figcaption>An evaporative machine pulls air through a wet wick, so the air can only take up what it has room for.</figcaption></figure>
+<p>The design has a built-in brake. Evaporation slows as the surrounding air gets more humid, so output falls when the room is already moist. It is the same reason wet clothes dry slowly on a damp day. That self-limiting behavior makes an evaporative unit hard to overshoot.</p>
+<p>Minerals do not evaporate. They stay in the wick, which is why this type produces no white dust but needs the wick cleaned or replaced as it clogs with scale.</p>
+
+<h2 id="how-ultrasonic-works">How an ultrasonic humidifier works</h2>
+<p>An ultrasonic unit has a small metal disc that vibrates at a very high frequency, above the range of human hearing. The vibration breaks water into extremely fine droplets, and a small fan pushes the resulting cool mist into the room. There is no heating and no wick.</p>
+<p>Because it makes droplets directly, it can produce a lot of humidity quickly and silently. The droplets evaporate in the air, and any minerals in the water that was misted are released as a fine dust. The unit has no natural limit on output, so it needs a humidistat or your attention to avoid over-humidifying a small room.</p>
+
+<h2 id="side-by-side">Side by side</h2>
+<table>
+<thead><tr><th>Factor</th><th>Evaporative</th><th>Ultrasonic</th></tr></thead>
+<tbody>
+<tr><td>Mist or vapor</td><td>Invisible vapor from a wick</td><td>Visible cool mist</td></tr>
+<tr><td>White dust</td><td>None, minerals stay in the wick</td><td>Possible with hard tap water</td></tr>
+<tr><td>Noise</td><td>Fan noise, audible hum</td><td>Very quiet, sometimes a faint gurgle</td></tr>
+<tr><td>Self-limiting</td><td>Yes, output falls in humid air</td><td>No, needs a humidistat</td></tr>
+<tr><td>Ongoing parts</td><td>Replacement wicks</td><td>Often none, sometimes a demineralization cartridge</td></tr>
+<tr><td>Cleaning</td><td>Tank, base and wick</td><td>Tank, base and vibrating disc</td></tr>
+<tr><td>Power use</td><td>Fan only, low</td><td>Low</td></tr>
+</tbody>
+</table>
+<p>Both types are cool-mist machines in the sense that they do not boil water. A separate category, the warm-mist or steam unit, heats water to produce vapor, and it uses more power and carries a burn risk if tipped.</p>
+
+<h2 id="hard-water-and-dust">Hard water and the white dust problem</h2>
+<p>The more dissolved minerals in your water, the more dust an ultrasonic unit throws into the air. Water hardness varies widely by region, so the same machine may produce no visible dust in one home and a coating in another. The particles are fine, and they can settle on surfaces and electronics.</p>
+<figure><img src="/images/articles/humidifier-eupa-unit.webp" alt="Humidifier with a circular opening standing on a grey surface" width="1400" height="1364" loading="lazy" /><figcaption>Minerals left behind by an ultrasonic unit settle as fine white dust on surfaces near the machine.</figcaption></figure>
+<p>You have a few options if you want an ultrasonic unit anyway.</p>
+<ul>
+<li>Use distilled or demineralized water, which has very few dissolved solids.</li>
+<li>Use a model with a demineralization cartridge, and replace it as directed.</li>
+<li>Choose an evaporative unit instead, if your tap water is hard and you do not want to buy water.</li>
+</ul>
+<div class="mf-callout"><strong>Note:</strong> the dust is mostly mineral particles. Some people with sensitive airways prefer to avoid breathing it, which is one more reason to match the water to the machine.</div>
+
+<h2 id="hygiene">Hygiene and what gets into the air</h2>
+<p>A humidifier is a warm, wet container, and microbes grow in standing water. The two technologies differ in what happens to what grows there. An ultrasonic unit breaks up whatever is in the tank into droplets, so contaminants in the water can be dispersed into the air. An evaporative unit releases only vapor, and the wick traps most solids and many microbes, although a dirty wick is also a place where growth happens.</p>
+<p>The practical conclusion is not that one type is safe and the other dangerous. Both need clean water, regular cleaning and fresh water each time, as covered in <a href="/humidifier-maintenance-and-pink-slime">our maintenance and pink slime article</a>. The ultrasonic design simply has less margin for neglect, because it sends tank water straight into the air.</p>
+
+<h2 id="humidity-control">Controlling the humidity level</h2>
+<p>Over-humidifying is a real problem. Very high indoor humidity encourages mold and dust mites and can lead to condensation on windows. A good target for comfort in most homes is a moderate range, and your own hygrometer is the right tool for the job.</p>
+<p>An evaporative unit tends to protect you from excess, since it slows as the air approaches saturation. An ultrasonic unit will keep making mist until the tank is empty unless a built-in humidistat shuts it off. If you choose ultrasonic, pick a model with a humidistat or place a hygrometer in the room and set a routine.</p>
+<p>In a small bedroom a large ultrasonic unit can fog the room quickly, and the humidity can climb past a comfortable level within an hour. Match the output to the size of the room instead of buying the biggest tank.</p>
+
+<h2 id="noise-and-bedrooms">Noise and bedrooms</h2>
+<p>Ultrasonic units are the quiet option, and for a bedroom that often decides the question. A faint bubbling sound is typical, and most users do not notice it. Evaporative units have a fan, and at higher speeds the noise is similar to a small desk fan.</p>
+<figure><img src="/images/articles/humidifier-smartair-1.webp" alt="Tall white humidifier standing on a floor" width="1400" height="1760" loading="lazy" /><figcaption>A fan is the loudest part of an evaporative unit, which is the trade for not producing mineral dust.</figcaption></figure>
+<p>That does not mean evaporative models are unsuitable for sleep. Many have a low setting that is quiet enough, and some people find the steady fan noise helps them fall asleep. If you are sensitive to sound, compare the stated noise level at the speed you plan to use. The <a href="/guide/best-humidifiers-for-bedroom">best humidifiers for bedroom guide</a> looks at this tradeoff directly.</p>
+
+<h2 id="tank-size-and-runtime">Tank size and runtime</h2>
+<p>A larger tank means fewer refills, which matters if you want to run the machine all night or all day. Runtime depends on the output setting and the tank volume. A unit with a gallon of water at a moderate setting may run through the night and well into the next day.</p>
+<p>Evaporative models often use water more slowly at a given humidity because the wick limits evaporation in already moist air. Ultrasonic units can consume water quickly at a high mist setting. If you want a unit that runs unattended for long stretches, compare the stated runtime at the setting you will actually use. For large-capacity picks, see the <a href="/guide/best-1-gallon-humidifiers">best 1 gallon humidifiers guide</a>.</p>
+
+<h2 id="filters-and-running-cost">Running cost and consumables</h2>
+<p>An evaporative unit needs replacement wicks. The price and the interval vary by model, and a clogged wick reduces output and can smell. Ultrasonic units often have no wick, but some use a demineralization cartridge, and using distilled water adds its own ongoing cost.</p>
+<p>Power use is low for both types, much lower than a steam unit that heats water. In practice the consumables and the water decide the running cost, not the electricity. Check the cost of replacement parts before you buy and make sure they are easy to find.</p>
+
+<h2 id="who-should-choose-which">Who should choose which</h2>
+<table>
+<thead><tr><th>Your situation</th><th>Better fit</th></tr></thead>
+<tbody>
+<tr><td>Hard tap water, no wish to buy distilled</td><td>Evaporative</td></tr>
+<tr><td>Light sleeper wanting near silence</td><td>Ultrasonic, with clean water</td></tr>
+<tr><td>Want a set-and-forget unit that will not overshoot</td><td>Evaporative</td></tr>
+<tr><td>Small room, careful owner with a hygrometer</td><td>Ultrasonic with humidistat</td></tr>
+<tr><td>Household with young children who might tip it</td><td>Cool mist of either type, never steam</td></tr>
+<tr><td>Large open area needing steady output</td><td>Larger evaporative model</td></tr>
+</tbody>
+</table>
+
+<h2 id="placement">Placement and use</h2>
+<p>Put the unit on a flat, water-resistant surface, a few feet above the floor if the manual suggests it, and away from walls so mist or vapor can disperse. Keep it off wooden furniture and electronics, especially an ultrasonic unit that emits visible mist and may leave a damp or dusty patch.</p>
+<p>If you see condensation on windows or a damp patch on the wall, lower the output or turn the unit off, because the room is already humid enough. A hygrometer is cheap and removes the guesswork.</p>
+
+<h2 id="warm-mist-comparison">Where warm mist and steam units fit</h2>
+<p>A third family boils water and releases steam, usually cooling it slightly before it leaves the unit. The boiling step kills many microbes in the water before they leave the machine, which some owners value. The cost is higher power use, a heating element that collects scale and, in many designs, hot water that can scald if the unit is knocked over.</p>
+<p>For rooms where a small child or a pet might reach the unit, cool mist of either type is the common recommendation. For an adult bedroom in a cold climate, some people like the slight warmth of a steam unit. The point is that the evaporative and ultrasonic choice applies to cool mist, and a steam unit is a separate decision with its own trade-offs.</p>
+
+<h2 id="humidity-targets">What humidity level to aim for</h2>
+<p>Dry winter air feels uncomfortable, dries skin and can irritate the nose and throat. Raising the humidity helps, but too much invites problems. High indoor humidity supports mold growth on cold surfaces and encourages dust mites. A hygrometer lets you hold the room in a moderate range and back off before condensation appears.</p>
+<p>Outdoor temperature matters. On very cold days, warm indoor air meets cold window glass and moisture condenses on it. If you see water on windows, the target is too high for that weather, and you should lower it. This adjustment is a normal part of running any humidifier through a winter.</p>
+<ul>
+<li>Place a hygrometer in the room, away from the humidifier's output.</li>
+<li>Check it at different times of day, especially at night.</li>
+<li>Lower the setting when windows fog or walls feel damp.</li>
+<li>Raise it a little when the air feels dry, and the unit has headroom.</li>
+</ul>
+
+<h2 id="wick-details">What the wick does and when it fails</h2>
+<p>The wick in an evaporative unit is a porous pad, often made from paper-like fibers, that draws water up by capillary action and exposes a large wet surface to the airflow. As the water evaporates, the minerals it carried stay behind in the wick. Over weeks, the wick stiffens and its pores fill with scale, which reduces airflow and evaporation.</p>
+<p>A clogged wick lowers the output and may start to smell, because standing damp fibers invite microbial growth. Replace the wick on the schedule in the manual, and sooner in hard-water areas. Some owners rinse or soak a wick in a mild descaling solution, but only where the manufacturer allows it. A replacement wick is a routine running cost, so check that your model's wicks are easy to buy before you commit.</p>
+
+<h2 id="matching-output-to-room">Matching output to room volume</h2>
+<p>A humidifier's rated output is the amount of water it can put into the air per day under test conditions, and manufacturers often state a room coverage. Small output in a big room yields very little change, and a large output in a small room can overshoot. Estimate your room's volume and compare it with the coverage claims, treating them as rough guides.</p>
+<p>Leaky, drafty homes lose humidity to the outdoors quickly, so the same machine delivers a smaller change than in a tight home. Closing the bedroom door helps the unit work on a smaller volume. If you need to humidify a large open area, a larger evaporative console or several smaller units work better than one small tabletop model.</p>
+<table>
+<thead><tr><th>Space</th><th>Practical approach</th></tr></thead>
+<tbody>
+<tr><td>Small bedroom or nursery</td><td>Compact unit with a humidistat, door closed</td></tr>
+<tr><td>Large bedroom</td><td>Larger tank, check coverage, use a hygrometer</td></tr>
+<tr><td>Open living area</td><td>Console evaporative unit or two units</td></tr>
+<tr><td>Whole home dry air</td><td>Consider a whole-house humidifier on the furnace</td></tr>
+</tbody>
+</table>
+
+<h2 id="night-use-and-safety">Night use and safety habits</h2>
+<p>Place the unit on a stable surface away from the edge of a table, with the cord out of reach of children and pets. Keep the mist or vapor from blowing directly onto bedding, walls or electronics, since constant dampness damages surfaces and can lead to mold. An ultrasonic unit's visible mist can leave a damp spot on wood, so a tray or a waterproof surface helps.</p>
+<p>Use the type of water the manufacturer recommends, and fill the tank fresh before bed. If you wake with a stuffy nose or notice a musty smell from the unit, clean it before the next use. For a bedroom, the <a href="/guide/best-humidifiers-for-sleep">best humidifiers for sleep guide</a> highlights quiet models with good auto-off features.</p>
+<div class="mf-callout"><strong>Rule:</strong> never fill a humidifier with anything but plain water unless the manual says an additive is allowed. Essential oils and other additives can damage parts and are not safe in every unit.</div>
+
+<h2 id="cost-of-water">The hidden cost of distilled water</h2>
+<p>Using distilled water in an ultrasonic unit solves the dust problem and adds a recurring cost and a shopping chore. A unit running all night can use a gallon or more of water, and buying that every day or two adds up over a winter. A demineralization cartridge reduces the cost at the price of a replacement part, and an evaporative unit avoids the issue by keeping the minerals in a wick.</p>
+<p>Count that cost when you compare the two types. The cheaper machine is not always the cheaper way to humidify a room for a season.</p>
+
+<h2 id="ultrasonic-extras">Features worth having on an ultrasonic unit</h2>
+<p>Because an ultrasonic machine has no natural limit, features that provide control are more than conveniences. A built-in humidistat that shuts the unit off at a set level prevents overshoot. An auto shut-off when the tank is empty protects the disc. A mist output dial lets you match the room, and a nightlight or display that can be dimmed matters in a bedroom.</p>
+<p>A tank that fills from the top is easier to clean and refill than one you have to invert. Look for a wide opening that your hand can reach into.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Which is better, evaporative or ultrasonic?</h3>
+<p>Neither is better everywhere. Evaporative suits hard water and homes that want a self-limiting machine, and ultrasonic suits owners who want near silence and are willing to use clean water and a humidistat.</p>
+<h3>Why does my ultrasonic humidifier leave white dust?</h3>
+<p>The dust is dissolved minerals from tap water, which the mist leaves behind as it dries. Use distilled or demineralized water, or a unit with a demineralization cartridge, to reduce it.</p>
+<h3>Do evaporative humidifiers make white dust?</h3>
+<p>Generally not. The minerals stay in the wick, which is why wicks need cleaning or replacement as scale builds up.</p>
+<h3>Are ultrasonic humidifiers less hygienic?</h3>
+<p>They give less margin for neglect, because they disperse tank water as droplets. With clean water, daily refilling and regular cleaning, they can be used safely, but a dirty tank is more of a concern.</p>
+<h3>Which is quieter?</h3>
+<p>Ultrasonic units are usually quieter because they have no large fan. Evaporative units have a fan, and the noise depends on the speed setting.</p>
+<h3>Do I need a hygrometer?</h3>
+<p>It is strongly recommended. A cheap hygrometer lets you see whether the room is in a comfortable range and prevents over-humidifying, especially with an ultrasonic unit.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Pick evaporative if your water is hard, you want a machine that limits itself and you do not mind replacing a wick. Pick ultrasonic if silence matters most and you will use clean water, a humidistat and a strict cleaning routine. Whichever you choose, size it to the room, watch the humidity with a hygrometer and clean it on schedule. A well-kept machine of either type beats a neglected one every time.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"humidifier-smartair-1.webp","author":"Air Naturel","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Air_Naturel_Humidificateur_Smartair_1.jpg"},
+    {"image":"humidifier-closeup-appliance.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Close_view_of_a_humidifier_appliance_with_a_power_cord_resting_on_top_in_a_well-lit_room.jpg"},
+    {"image":"humidifier-eupa-unit.webp","author":"Solomon203","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:EUPA_TK-5320B_20110302.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Best 1 Gallon Humidifiers","href":"/guide/best-1-gallon-humidifiers"},
+    {"title":"Best Humidifiers for Bedroom","href":"/guide/best-humidifiers-for-bedroom"},
+    {"title":"Humidifier Maintenance and Pink Slime","href":"/humidifier-maintenance-and-pink-slime"},
+  ],
+};
+
+export default article;

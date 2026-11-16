@@ -1,0 +1,174 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "burr-grinder-vs-blade-grinder",
+  title: "Burr vs blade coffee grinder: why grind consistency changes the cup",
+  metaTitle: "Burr vs Blade Grinder: Which Is Better?",
+  metaDescription: "Burr grinders crush beans to a set gap for even grounds, blade grinders chop them unevenly. See how that changes extraction, heat and which burrs to pick.",
+  kicker: "Comparison",
+  heroImage: { src: "/images/articles/grinder-baratza-encore.webp", alt: "Burr coffee grinder standing on a kitchen counter beside a small tin" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "A burr grinder crushes beans between two abrasive surfaces set a fixed distance apart, giving a consistent particle size you can adjust. A blade grinder chops beans at random with a spinning blade, producing a mix of dust and chunks. Consistent grounds extract evenly, so burr grinders make better coffee, especially for espresso.",
+  html: `<h2 id="the-sour-and-bitter-cup">The cup that is sour and bitter at once</h2>
+<p>You brew coffee with good fresh beans and a careful pour, and it tastes both sour and bitter. That seems impossible, since sour usually means too little extraction and bitter means too much. The explanation sits in the grinder. A blade grinder produces fine dust that over-extracts into bitterness, and chunky pieces that under-extract into sourness, all in the same cup.</p>
+<p>This is the central reason coffee enthusiasts say the grinder matters more than the brewer. The machine that turns whole beans into grounds sets a ceiling on what the rest of the equipment can achieve.</p>
+
+<h2 id="why-grind-size-matters">Why grind size controls flavor</h2>
+<p>Brewing dissolves flavor compounds from ground coffee into water. Water reaches the surface of each particle first and then works inward. Small particles have more surface area per weight, so they give up their flavor quickly. Large particles take longer.</p>
+<p>When particles are all about the same size, they extract at about the same rate, so the brew is balanced. When sizes are mixed, the small ones finish and begin releasing harsh, bitter compounds while the big ones are still giving up only sour, thin flavor. The result is muddy and unbalanced, and no amount of tuning the water or time can fix it fully.</p>
+
+<h2 id="how-blade-works">How a blade grinder works</h2>
+<p>A blade grinder has a small propeller-shaped blade driven by a fast motor, spinning in a cup. It hits the beans over and over and shatters them. The longer it runs, the finer the result, but the process is chaotic. Pieces bounce around, and some are struck many times while others escape.</p>
+<p>The output is a wide spread of sizes, from fine powder to coarse chunks. You control fineness only by how long you hold the button, and you cannot repeat the result reliably. Blade grinders are small, cheap and simple, which is their appeal.</p>
+
+<h2 id="how-burr-works">How a burr grinder works</h2>
+<p>A burr grinder has two toothed or ridged surfaces, the burrs, set a fixed distance apart. Beans are fed between them and crushed and sheared as one burr turns. A particle cannot leave until it is small enough to fit through the gap.</p>
+<figure><img src="/images/articles/grinder-burrs-exposed.webp" alt="Close view inside a coffee grinder showing the burr and coffee residue" width="1400" height="709" loading="lazy" /><figcaption>Two burrs set a fixed gap, and coffee leaves only once it is small enough to pass through it.</figcaption></figure>
+<p>That gap is the grind setting. Narrow it for fine grounds and widen it for coarse. Because every particle must pass the same gap, the output is far more uniform, and the setting is repeatable. You can note the number that made a good cup and return to it.</p>
+<div class="mf-callout"><strong>Core difference:</strong> a burr grinder controls the maximum particle size with a fixed gap. A blade grinder controls nothing except time, and the sizes it makes vary widely.</div>
+
+<h2 id="comparison-table">Side by side</h2>
+<table>
+<thead><tr><th>Factor</th><th>Burr grinder</th><th>Blade grinder</th></tr></thead>
+<tbody>
+<tr><td>Particle uniformity</td><td>High, set by burr gap</td><td>Low, a mix of dust and chunks</td></tr>
+<tr><td>Adjustability</td><td>Many settings, repeatable</td><td>Time only, not repeatable</td></tr>
+<tr><td>Heat to beans</td><td>Lower, depending on speed</td><td>Higher in long runs, and friction heats the beans</td></tr>
+<tr><td>Espresso capable</td><td>Yes, with fine adjustment</td><td>No</td></tr>
+<tr><td>Cost</td><td>Higher</td><td>Lower</td></tr>
+<tr><td>Size and noise</td><td>Larger, motor and burr noise</td><td>Small, but a harsh whir</td></tr>
+<tr><td>Cleaning</td><td>Occasional burr cleaning</td><td>Wipe or rinse the cup</td></tr>
+</tbody>
+</table>
+
+<h2 id="heat-and-aroma">Heat, fines and aroma</h2>
+<p>Grinding generates friction, and friction makes heat. A blade grinder running for many seconds can warm the grounds, and heat drives off some of the volatile aroma compounds that give coffee its smell and flavor. A burr grinder usually processes beans faster per unit, and slow-turning designs keep heat low.</p>
+<p>Burr grinders also produce fines, tiny particles, but a good burr set makes fewer and more consistent ones. Some users sift to remove fines, but for most people, buying a decent burr grinder is a bigger step than any trick.</p>
+
+<h2 id="types-of-burrs">Flat versus conical burrs</h2>
+<p>There are two common burr shapes. Conical burrs have a cone-shaped inner burr that turns inside a ring. Flat burrs are two parallel rings with teeth facing each other.</p>
+<ul>
+<li><strong>Conical:</strong> usually run slower, retain a little less grounds, and are common in home grinders across a range of prices. They tend to produce a wider spread of sizes that many people describe as a fuller body.</li>
+<li><strong>Flat:</strong> often produce a more uniform distribution, which many describe as a clearer cup with more distinct flavors. They can retain more grounds and often cost more.</li>
+</ul>
+<p>Neither is universally better, and taste descriptions are subjective. What matters is build quality, burr material and precision, and the quality of the adjustment mechanism.</p>
+
+<h2 id="burr-size-and-material">Burr size, material and motor</h2>
+<p>Larger burrs process more beans per rotation and run cooler at a given speed. The material matters too. Hardened steel burrs stay sharp for a long time, and ceramic burrs are hard but can chip on a stray stone. Most good home grinders use steel.</p>
+<p>The motor and gearing determine speed and noise. A direct drive motor is simple, and a geared design runs the burrs slower with more torque, which can reduce heat and noise. Check how the grinder holds the burrs steady, since wobble ruins consistency.</p>
+
+<h2 id="adjustment-system">Stepped versus stepless adjustment</h2>
+<p>A stepped grinder has fixed click positions. They are easy to repeat, and many are enough for filter and press methods. A stepless grinder can be set to any position within its range, which gives fine control, and it is preferred for espresso, where tiny changes matter.</p>
+<p>If you only brew drip, French press or pour over, a stepped grinder with a good range is plenty. If you plan to pull espresso shots, look for fine adjustment. Our <a href="/guide/best-espresso-grinders">best espresso grinders guide</a> covers grinders with the precision that espresso demands.</p>
+
+<h2 id="brew-method">Matching the grinder to your brewing method</h2>
+<table>
+<thead><tr><th>Method</th><th>Grind needed</th><th>Grinder note</th></tr></thead>
+<tbody>
+<tr><td>French press</td><td>Coarse</td><td>Fines matter, because they leak into the cup</td></tr>
+<tr><td>Pour over and drip</td><td>Medium</td><td>Consistency affects flow and balance</td></tr>
+<tr><td>Moka pot</td><td>Medium fine</td><td>Needs a fine, even grind without powder</td></tr>
+<tr><td>Espresso</td><td>Fine and precise</td><td>Needs a burr grinder with fine adjustment</td></tr>
+</tbody>
+</table>
+<p>Espresso is the most demanding. A change in grind that barely shows in drip coffee can change an espresso shot from sour and watery to bitter and slow. A blade grinder cannot do espresso in any useful way.</p>
+
+<h2 id="roast-and-bean-differences">Roast level and bean differences</h2>
+<p>Darker roasts are more brittle and grind with less effort, while light roasts are denser and harder, which can slow a weak motor and shift the best setting finer or coarser. Oily dark roasts leave residue in the burrs and chute, so they need more frequent cleaning. When you change beans, expect to adjust the grind a notch or two and taste again.</p>
+
+<h2 id="freshness">Freshness and grinding at home</h2>
+<p>Whole beans stay fresh far longer than ground coffee, because grinding exposes a large surface to oxygen and the aroma escapes. A grinder at home lets you grind just before brewing, which is the cheapest way to improve flavor, whichever type you choose.</p>
+<p>Pairing fresh beans with a burr grinder raises the quality of the cup noticeably. A great bean ground unevenly is wasted, and a decent bean ground evenly is often better than expected.</p>
+
+<h2 id="cleaning-and-upkeep">Cleaning and upkeep</h2>
+<p>Old oils and fine particles build up in a grinder and can taste stale. A blade grinder is easy to wipe or rinse. A burr grinder benefits from an occasional clean, with a brush, a vacuum or a specific cleaning product made for grinders, following the manual.</p>
+<figure><img src="/images/articles/grinder-mechanism.webp" alt="Grinding mechanism of a coffee grinder seen through a clear housing" width="1400" height="1932" loading="lazy" /><figcaption>Oils and fines build up on the burrs and in the chute, and stale grounds there taint everything ground afterwards.</figcaption></figure>
+<ul>
+<li>Unplug the grinder before opening it.</li>
+<li>Brush out the burr chamber and the exit chute.</li>
+<li>Avoid grinding rice or other substances unless the manual recommends it.</li>
+<li>Replace worn burrs when grind consistency declines or the grinder struggles.</li>
+</ul>
+
+<h2 id="which-to-buy">Which to buy</h2>
+<p>If you drink coffee daily and care about the taste, a burr grinder is the better investment. An entry-level burr grinder beats a blade grinder for consistency. For a broad comparison of current models, see the <a href="/guide/best-burr-coffee-grinders">best burr coffee grinders guide</a>.</p>
+<p>A blade grinder is acceptable for spices, nuts or an occasional coarse grind, and as a stopgap. If you are on a tight budget, a good hand burr grinder is also an option, and it costs less than many electric ones. The step from blade to burr is the largest quality jump in coffee equipment.</p>
+
+<h2 id="grind-retention-and-waste">Retention, static and mess</h2>
+<p>Grinders hold back some grounds inside the burr chamber and chute. This is called retention, and it matters in two ways. Old grounds from the previous dose can mix with the new one, which can affect flavor, and a grinder with high retention wastes some beans on every cycle. Designs differ widely, and some are built to shed grounds cleanly.</p>
+<p>Static makes grounds cling to the chute and the container, which creates a mess. Many people use a small spritz of water on the beans before grinding to reduce it, a habit often called the Ross droplet technique, though you should check your grinder's manual for whether it is advisable. A short tap on the chute and a brush after grinding keep things tidy.</p>
+<ul>
+<li>Single dosing, where you weigh the beans and grind exactly that amount, reduces stale buildup.</li>
+<li>A hopper that stays full keeps beans exposed to air, so fill it with what you use in a few days.</li>
+<li>A grinder with a clear, short path for grounds typically retains less.</li>
+</ul>
+
+<h2 id="dialing-in">Dialing in a new grinder</h2>
+<p>Switching to a burr grinder introduces a new skill, dialing in. You pick a setting based on your brewing method, brew a cup and taste it. If it is sour, thin or salty, the extraction is low, so grind finer. If it is bitter, harsh or dry, the extraction is high, so grind coarser. Change one thing at a time and keep notes.</p>
+<p>With a stepped grinder, move a click or two at a time. With a stepless one, make small changes and record the position. Keep the dose and water constant while you adjust, so that grind size is the only variable. Over a few brews, you will find a setting that suits your taste and your beans, and the setting will shift as the beans age and as the roast changes.</p>
+<div class="mf-callout"><strong>Tip:</strong> weigh your beans and water. Consistent doses make grind adjustments meaningful, because volume measures vary with roast and bean density.</div>
+
+<h2 id="hand-grinders">Hand grinders as a middle path</h2>
+<p>A manual burr grinder uses the same burr principle with a hand crank. For filter methods and travel, a well-made hand grinder produces consistent grounds at a modest price, and it is quiet and portable. The downside is effort, especially for large doses or fine espresso grinds, which take time to crank.</p>
+<p>If you brew one or two cups at a time, a hand grinder is a good value. For a household that brews large quantities every morning, an electric burr grinder saves effort. Either way, the burr mechanism is what provides the consistency, and that is the main reason to choose one over a blade unit. A review of electric options in the <a href="/guide/best-espresso-machines">best burr coffee grinders guide</a> shows how much range there is.</p>
+
+<h2 id="spices-and-other-uses">What a blade grinder is still good for</h2>
+<p>A blade grinder is a perfectly reasonable tool for spices, dried herbs, nuts and sugar. These uses do not require a precise particle size, and a blade chops them quickly. Many cooks keep a cheap blade unit just for spices, using a separate burr grinder for coffee so that flavors do not mix.</p>
+<p>If you do use a blade grinder for coffee, a few habits help. Grind in short pulses, shake the grinder between pulses so the beans redistribute, and stop when the grounds look as even as you can get. You will never match a burr grinder for consistency, but those habits reduce the worst of the dust and chunks.</p>
+
+<h2 id="grind-size-and-extraction">The extraction link, explained further</h2>
+<p>Extraction is the share of the coffee's soluble material that ends up in the cup. Brewers aim for a middle range, where the pleasant acids and sugars have dissolved and the harsher compounds have not. Grind size, water temperature, contact time and the amount of coffee all move extraction up or down.</p>
+<p>Grind size is the lever that is most under your control and the one that a blade grinder removes from your hands. When the particles vary, no single contact time suits all of them. A burr grinder narrows the spread, so a change in contact time or grind setting moves the whole cup in one direction, and you can steer it toward balance.</p>
+<p>That predictability is why burr users talk about dialing in. They change one variable, taste and adjust. With a blade grinder, changes are masked by the chaos of the particle spread, so the cup seems to vary for no reason.</p>
+
+<h2 id="noise-and-kitchen-life">Noise, size and where it lives</h2>
+<p>Electric burr grinders are louder than most people expect, and a high-speed model can wake a sleeping household. Slower, geared designs are quieter. They also take more counter space than a small blade unit, and a large hopper adds height that may not fit under a cabinet. Measure before you buy if space is tight.</p>
+<p>If you grind in the early morning, check owner comments about noise, and consider a hand grinder, which is nearly silent apart from the crunch of the beans. The quiet and the freshness of grinding by hand are part of the appeal for some owners.</p>
+
+<h2 id="who-needs-what">Who needs what</h2>
+<table>
+<thead><tr><th>Coffee drinker</th><th>Sensible choice</th></tr></thead>
+<tbody>
+<tr><td>Occasional drinker, pre-ground is fine</td><td>Buy whole beans and a hand burr grinder, or stay with pre-ground</td></tr>
+<tr><td>Daily filter or press brewer</td><td>Electric or hand burr grinder with a good mid-range</td></tr>
+<tr><td>Espresso at home</td><td>Burr grinder with fine, stepless or micro-stepped adjustment</td></tr>
+<tr><td>Spices and occasional coarse grinding</td><td>Blade grinder is acceptable</td></tr>
+<tr><td>Large households brewing a lot</td><td>Electric burr grinder with a decent hopper and motor</td></tr>
+</tbody>
+</table>
+<p>For a wide look at electric burr models, the <a href="/guide/best-coffee-makers-with-grinders">burr coffee grinder roundup</a> compares the main options by features and grind range.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Is a burr grinder really better than a blade grinder?</h3>
+<p>For coffee, yes. A burr grinder produces consistent particle sizes you can adjust and repeat, which gives even extraction. A blade grinder gives a mix of dust and chunks.</p>
+<h3>Can a blade grinder make espresso?</h3>
+<p>No. Espresso needs a fine, uniform grind with precise adjustment, and a blade grinder cannot control or repeat it.</p>
+<h3>Are conical or flat burrs better?</h3>
+<p>Neither is universally better. Conical burrs are common and often quieter, while flat burrs can give a more uniform distribution. Build quality and adjustment matter more than the shape.</p>
+<h3>Do burr grinders heat the coffee?</h3>
+<p>All grinders create some friction heat. Burr grinders usually keep it lower, especially slower designs, which protects aroma.</p>
+<h3>How often should I clean a burr grinder?</h3>
+<p>Clean it periodically, more often with oily dark roasts or heavy use. Follow the manual, brush out the chamber and replace burrs when the grind becomes uneven.</p>
+<h3>Is a hand grinder as good as an electric one?</h3>
+<p>A good hand burr grinder can match or beat an entry-level electric grinder for consistency. The trade-off is the effort of turning the handle.</p>
+
+<h3>Should I buy pre-ground coffee instead?</h3>
+<p>Pre-ground coffee is convenient, and it goes stale faster because the large surface area meets oxygen sooner. If convenience is the priority, buy small bags and use them quickly. If flavor matters, whole beans and a burr grinder give a noticeably better cup, even at modest settings.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>A burr grinder crushes beans to a fixed gap, giving uniform, adjustable grounds that extract evenly. A blade grinder chops at random and delivers dust and chunks that make sour and bitter coffee in one cup. Choose a burr grinder, match the adjustment range to your brewing method, grind just before brewing and keep it clean. That one change improves coffee more than a fancier brewer.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"grinder-baratza-encore.webp","author":"Marco Verch","license":"CC BY-SA 2.0","source":"https://commons.wikimedia.org/wiki/File:Baratza_Encore_burr_coffee_grinder_and_coffee_beans.jpg"},
+    {"image":"grinder-burrs-exposed.webp","author":"Bruno Girin","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Zassenhaus_coffee_grinder_hopper_and_burrs.jpg"},
+    {"image":"grinder-mechanism.webp","author":"Robert Gombos","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Coffee_grinder_mechanism.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Best Burr Coffee Grinders","href":"/guide/best-burr-coffee-grinders"},
+    {"title":"Best Espresso Grinders","href":"/guide/best-espresso-grinders"},
+    {"title":"Best Burr Coffee Grinders Buying Guide","href":"/guide/best-burr-coffee-grinders"},
+  ],
+};
+
+export default article;

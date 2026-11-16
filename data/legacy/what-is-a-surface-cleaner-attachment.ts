@@ -1,0 +1,142 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "what-is-a-surface-cleaner-attachment",
+  title: "What Is a Surface Cleaner Attachment and Is It Worth Adding",
+  metaTitle: "What Is a Pressure Washer Surface Cleaner?",
+  metaDescription: "A surface cleaner attachment spins jets under a shroud for even, streak-free results on flat surfaces. See how it works, how to size one, and when to buy.",
+  kicker: "Explainer",
+  heroImage: { src: "/images/articles/pw-driveway-finished.webp", alt: "Concrete driveway after cleaning, showing a large pale curved pattern across the surface" },
+  lastUpdated: "2026-11-16",
+  readTime: "13 min",
+  quickAnswer: "A surface cleaner is a round, shrouded attachment that spins one or two jets over flat ground like concrete or pavers, cleaning in an even sweep without wand streaks. It usually finishes large flat areas several times faster than a bare wand. It needs enough flow to spin properly, so match its size to your machine, and use it only on flat, hard surfaces.",
+  html: `<h2 id="the-zebra-driveway">The zebra driveway problem</h2>
+<p>If you have ever cleaned a patio with a bare wand and stood back to admire it, you may have noticed pale stripes where each pass overlapped and darker lines where it did not. That zebra pattern is the hallmark of freehand cleaning on a large flat surface. It is almost impossible to avoid, because the human hand cannot hold a constant distance and speed for hundreds of square feet.</p>
+<p>A surface cleaner is the tool built to fix exactly that. It turns a skilled-hand problem into a mechanical one, which is why professional pressure washing crews almost always use one on driveways and patios. Many homeowners never learn the tool exists.</p>
+<p>This article owns the attachment itself: what it is, what it does, how to size it, how to use it, and when it is not the right tool. For the numbers that feed it, see <a href="/psi-vs-gpm-pressure-washer">our PSI versus GPM explainer</a>.</p>
+
+<h2 id="what-it-is">What a surface cleaner is</h2>
+<p>A surface cleaner is a circular housing, usually plastic or stainless steel, that attaches to the end of your pressure washer wand. Inside the housing, a bar with two or more nozzles spins rapidly, driven by the water jets themselves. The housing holds the spray close to the ground, so water and dirt stay contained instead of flying around.</p>
+<p>The effect is a wide, evenly applied cleaning path. Because the jets rotate at a fixed height above the ground, every inch of the surface in the footprint receives nearly the same treatment. You push the unit in straight lines, overlapping slightly, and the surface comes out uniform.</p>
+<p>It is not a nozzle. A tip changes the angle of the stream. A surface cleaner is a separate tool, with its own nozzles inside, a skirt and often wheels or a caster.</p>
+
+<h2 id="how-it-works">How it works inside</h2>
+<p>The rotating bar is the heart of the device. Water from the wand enters the housing through a swivel and flows into the bar. Each end of the bar has an angled jet. The reaction force of the water leaving the nozzles spins the bar, much like a garden sprinkler.</p>
+<p>Spinning a zero-degree jet over an area is the same idea as a turbo tip, but at a fixed height and with a shroud. The shroud does two things. It keeps the jets at an even standoff distance from the surface, and it catches overspray so you get a cleaner working area and less splashback on you.</p>
+<p>The result is that you gain the concentrated force of narrow jets without the risk of dwell marks from a stationary hand. The surface sees a rapid pass of narrow jets rather than a slow pass of one, which is gentler on the surface and more uniform.</p>
+
+<h2 id="why-it-is-faster">Why it is faster than a wand</h2>
+<p>Speed comes from two things. First, the footprint is wide. A housing 15 or more inches across covers a path in one sweep that would take a wand several passes. Second, you do not have to slow down for technique, since the machine does the work of keeping an even pattern.</p>
+<figure><img src="/images/articles/pw-driveway-partly-done.webp" alt="Concrete driveway partly cleaned, with curved clean paths across grey concrete" width="1400" height="653" loading="lazy" /><figcaption>This is what a single wand leaves behind. Each curved path is one pass, and the overlaps are where striping begins.</figcaption></figure>
+<p>Owners often report finishing a large driveway in a fraction of the time compared with a bare wand, and with better results. The precise ratio depends on surface condition and machine output, so we will not quote a figure, but the time saving on big areas is real.</p>
+<p>The other benefit is fatigue. Holding a wand at a fixed angle and distance for an hour is physically tiring, and tired hands wander. A surface cleaner rests on the ground and rolls, so your arms mostly just guide it.</p>
+
+<h2 id="does-it-use-more-water">Flow requirements and sizing</h2>
+<p>This is where buyers go wrong. A surface cleaner needs enough flow to spin the bar quickly, and it needs the right nozzle size for your machine. If your machine has low flow, a large cleaner may turn slowly or erratically, producing streaks and wasting the benefit.</p>
+<p>Manufacturers publish recommended flow and pressure ranges for each size. Check them against your machine's rated GPM and PSI. A small unit suits a light electric machine, while larger models need the higher flow of heavy gas washers.</p>
+<table>
+<thead><tr><th>Machine class</th><th>Suitable cleaner size</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Light electric, lower flow</td><td>Smaller diameter, around 11 to 14 inches</td><td>Rotation may be slow, so choose a model designed for low flow</td></tr>
+<tr><td>Mid-range electric or small gas</td><td>Mid size, around 14 to 16 inches</td><td>The most common home choice</td></tr>
+<tr><td>Larger gas, higher flow</td><td>Larger diameter, 18 inches and up</td><td>Faster coverage, higher demand on the pump</td></tr>
+</tbody>
+</table>
+<p>The sizes in the table are indicative, not rules. Always follow the compatibility notes on the specific attachment. Bigger is not better if your machine cannot feed it.</p>
+
+<h2 id="fittings">Connections and compatibility</h2>
+<p>Most surface cleaners connect through a quick-connect or threaded fitting to the wand. Check that the inlet matches your wand or buy an adapter. Many models offer a swivel inlet that lets you hold the wand comfortably without twisting the hose.</p>
+<p>Some cleaners accept a spare nozzle set, so you can match the orifice to your pump. This matters because the same cleaner can run poorly if the nozzles are sized for a different machine. Read the packaging for the nozzle size and the machine range it supports.</p>
+<p>Finally, consider the hose. A stiff or kinked hose will drag the unit and cause uneven movement. A good-quality, flexible hose, kept straight behind you, makes pushing the cleaner much easier.</p>
+
+<h2 id="how-to-use-it">How to use it for even results</h2>
+<ol>
+<li>Sweep the area and move loose debris, furniture and anything that could be thrown.</li>
+<li>Connect the cleaner, turn on the water, and let the pump purge air before squeezing the trigger.</li>
+<li>Set the cleaner down on the surface before squeezing the trigger, then start the flow, so the jets never fire into open air.</li>
+<li>Push in straight, slow lines, overlapping each pass by a couple of inches.</li>
+<li>Work in one direction across the area, then, if you want to remove any ghosting, finish with a perpendicular pass.</li>
+<li>Rinse the surface with a wide fan tip afterward to clear loosened dirt.</li>
+</ol>
+<p>Speed matters. Move too fast and the surface looks patchy, move too slow and you risk leaving a mark on softer material. A walking pace that lets you see clean ground behind the unit is the right guide.</p>
+<div class="mf-callout"><strong>Tip:</strong> clean a small test patch in an out-of-sight corner first. Concrete that has been sealed, stained or aged can respond differently, and it is better to learn that on a square foot than on the whole driveway.</div>
+
+<h2 id="what-surfaces">What surfaces it suits and what it does not</h2>
+<p>Surface cleaners are built for flat, hard areas. Concrete driveways, paving slabs, patio stones, garage floors, walkways and some pool decks are good candidates. Smooth, even surfaces let the housing glide and keep the standoff distance steady.</p>
+<figure><img src="/images/articles/pw-driveway-cleaning.webp" alt="Pressure washer wand cleaning block paving, leaving a clear strip behind the spray" width="1000" height="667" loading="lazy" /><figcaption>Block paving with sand joints is the case where a spinning bar needs care, because the same force that lifts dirt lifts joint sand.</figcaption></figure>
+<p>It is not for vertical surfaces such as siding or fences, because the housing relies on being flat to the ground. It is also unsuitable for soft wood decks without great care, since the rotating jets can raise grain and leave circular marks if the unit is slow or the flow too high.</p>
+<p>Be cautious on pavers with sand in the joints. A powerful jet can blast the jointing sand out and loosen the stones. Resand the joints afterward, or use the lowest practical setting. Rough aggregate and textured concrete are fine, but deep holes or broken surfaces will catch the housing.</p>
+
+<h2 id="vs-turbo-tip">Surface cleaner versus turbo tip versus wand</h2>
+<p>All three can clean concrete, and the right choice depends on the shape of the job. A wand with a green or yellow tip gives you control for edges, steps and detail work. A turbo tip delivers aggressive spot cleaning and handles a stain on a small area. A surface cleaner dominates when the job is a broad, flat area.</p>
+<p>In practice, many owners use all three. The cleaner handles the main field, and a wand with a suitable tip handles edges, corners and vertical surfaces the housing cannot reach. See <a href="/pressure-washer-nozzle-colors-explained">our nozzle color guide</a> for the tips that suit those jobs.</p>
+
+<h2 id="power-source-fit">Does your machine have enough output</h2>
+<p>A surface cleaner is the most useful add-on you can attach to a machine with decent flow. On a gas machine with strong flow, the cleaner transforms the experience. On a light electric machine, results depend on picking a unit designed for low flow and accepting slower rotation.</p>
+<p>If you are still shopping, think of the cleaner as part of the system. A machine with moderate pressure but good flow plus a cleaner often finishes large concrete better than a high-pressure, low-flow machine used with a bare wand. Our <a href="/gas-vs-electric-pressure-washer">gas versus electric comparison</a> explains how the power source affects sustained output, and our <a href="/guide/best-gas-pressure-washers">gas pressure washer roundup</a> lists machines with the flow to drive larger attachments.</p>
+
+<h2 id="common-problems">Common problems and what causes them</h2>
+<p>The most frequent complaint is stripes, and nearly every case traces back to one of four causes. A clogged jet makes one side of the bar spin unevenly. Insufficient flow slows the bar so it leaves lines instead of a blur. Pushing the unit too fast reduces dwell, and overlapping too little leaves unwashed gaps between passes.</p>
+<figure><img src="/images/articles/pw-karcher-unit.webp" alt="Yellow domestic pressure washer unit with hose reel and lance" width="1400" height="1867" loading="lazy" /><figcaption>A surface cleaner demands more flow than a wand. Match it to the machine before blaming the attachment.</figcaption></figure>
+<p>The second complaint is that the cleaner will not spin at all. That is nearly always a flow problem, a stuck swivel, or nozzles of the wrong size for the pump. Check that the hose is not kinked, that the water supply is fully open, and that the bar turns freely by hand with the water off.</p>
+<p>Third, owners notice the housing lifting at the edges on uneven ground. That lets spray escape and leaves cleaned and uncleaned bands. If your surface has deep cracks or heave, work slowly, and use a wand for the worst areas.</p>
+<p>Finally, a cleaner that suddenly pulls or drags to one side usually has a worn skirt or a nozzle that has enlarged on one side. Replace nozzles in matched pairs so the bar stays balanced.</p>
+
+<h2 id="finishing-and-sealing">Finishing touches after the cleaner</h2>
+<p>A surface cleaner does most of the work, but a few finishing steps lift the result from good to professional. First, rinse the whole surface with a wide white or green fan to wash loosened residue off the surface rather than leaving it to dry. Second, work along the edges, steps and corners with a wand, since the housing cannot reach them.</p>
+<p>Third, give the surface time to dry fully before you judge it. Wet concrete looks darker and can hide faint marks. Walk the area in daylight from a few angles, and spot-treat any missed patches with a narrow tip used carefully.</p>
+<p>If you plan to seal concrete or pavers, follow the sealer maker's instructions on dry time after cleaning, because trapped moisture prevents proper bonding. Cleaning first and sealing after, in that order, is the way to protect a surface you have just restored.</p>
+
+<h2 id="maintenance">Maintenance and care</h2>
+<p>Surface cleaners are simple, but a few habits keep them running. After use, flush clean water through to clear grit from the swivel and jets. Check the nozzles for blockages, because a partly clogged jet unbalances the bar and causes uneven spinning and streaks.</p>
+<p>Inspect the skirt or brush ring if one is fitted. A worn skirt lets water spray out and reduces the even standoff. Replace worn bearings or seals promptly, since a wobbling bar wastes flow and hammers the swivel.</p>
+<ul>
+<li>Store it flat or hung, away from frost, with water drained out.</li>
+<li>Replace worn or enlarged nozzles in matched pairs.</li>
+<li>Avoid dragging the unit across rough ground while running, which wears the housing.</li>
+</ul>
+
+<h2 id="diy-versus-pro-cleaners">Homemade rigs versus a proper unit</h2>
+<p>Some owners try to improvise a surface cleaner from a bucket, a rotary tip and a lot of enthusiasm. A bucket with a hole cut for a turbo tip does contain spray, but it does not hold a consistent standoff, and the rotor is working against the splash rather than with a designed skirt. The results are patchy and the setup is awkward to push.</p>
+<p>A purpose-built unit has a balanced bar, bearings sized for the rotation speed, and a shroud shaped to keep the jets at an even height. Those details are what remove the stripes. If you are going to use the tool more than once, a proper one is the better route.</p>
+<p>Look for a housing that rolls smoothly, either on a caster or wheels, because a unit that drags makes the work tiring and uneven. Stainless steel housings last longer in demanding use, while moulded plastic units are lighter and fine for home work.</p>
+
+<h2 id="water-and-runoff">Water, runoff and where the dirt goes</h2>
+<p>Cleaning a driveway sends a lot of grime somewhere. A surface cleaner's shroud contains the spray better than a bare wand, but the wash water still runs off with oil, algae and sediment in it. Direct runoff toward a lawn or planted area rather than a storm drain where you can, and avoid washing detergent or heavy oil stains into drains that lead to waterways. Local rules on wash water vary, so check what applies to you.</p>
+
+<h2 id="is-it-worth-it">Is it worth buying</h2>
+<p>If you clean more than a few hundred square feet of flat concrete or pavers, yes. The time saved and the quality of finish repay the purchase quickly for anyone who washes a driveway, patio and pool deck every year. If your cleaning is mostly vehicles, fences, furniture and small steps, you will rarely use it.</p>
+<p>Also weigh storage. The attachment takes up a bin or shelf, and the large units are awkward to move. Many people find a mid-size model strikes the right balance. If you have a broad range of jobs, our <a href="/guide/best-pressure-washers">pressure washer guide</a> shows which machines come with a surface cleaner included or supported.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Can I use a surface cleaner with an electric pressure washer?</h3>
+<p>Yes, if the machine has sufficient flow and you choose a smaller unit designed for lower-flow machines. Check the manufacturer's recommended flow range, because too little flow makes the bar spin poorly and leaves streaks.</p>
+<h3>Will a surface cleaner damage my driveway?</h3>
+<p>It is generally gentler than a narrow tip held freehand because the distance and speed are consistent. Sealed, painted or very old surfaces can still be damaged, so test a hidden patch first and keep moving.</p>
+<h3>Why is my surface cleaner leaving stripes?</h3>
+<p>Common causes are a partly clogged nozzle, low flow, pushing too fast, or overlapping too little. Clean the jets, slow down and overlap each pass by a couple of inches.</p>
+<h3>Can I use it on a wooden deck?</h3>
+<p>Not recommended on soft wood, because rotating jets can raise the grain and leave circles. If a manufacturer states that a specific unit is suitable for wood at a given pressure, follow that, and test first.</p>
+<h3>What size should I buy?</h3>
+<p>Match the unit to your machine's GPM and PSI as listed by the manufacturer. A mid-size model suits many home machines, while larger sizes need higher flow to spin properly.</p>
+<h3>Does it use more water?</h3>
+<p>It uses the same flow your machine produces. Because it finishes faster and avoids repeat passes, the total water used for a big area is often lower than with a bare wand.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>A surface cleaner is the cure for striped driveways. It spins narrow jets under a shroud at a steady height, so large flat surfaces come out even and in a fraction of the time. Match its size to your machine's flow, use it only on flat, hard surfaces, and keep the nozzles clean.</p>
+<p>If you wash big concrete areas, buy one. If you mostly clean cars and fences, skip it and put the money into a good nozzle set. Either way, a little planning beats freehand streaks.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"pw-driveway-finished.webp","author":"Rossaustralia","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Brighton-Driveway-30Apr-Final.jpg"},
+    {"image":"pw-driveway-partly-done.webp","author":"Rossaustralia","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Brighton-Driveway-29Apr.jpg"},
+    {"image":"pw-driveway-cleaning.webp","author":"Clean and Green","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Driveway-Cleaning-1-1.jpg"},
+    {"image":"pw-karcher-unit.webp","author":"Asurnipal","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstraße-Kaercher_770MX-3_kW-01ASD.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Pressure Washer Nozzle Colors Explained","href":"/pressure-washer-nozzle-colors-explained"},
+    {"title":"PSI vs GPM on a Pressure Washer","href":"/psi-vs-gpm-pressure-washer"},
+    {"title":"Gas vs Electric Pressure Washers","href":"/gas-vs-electric-pressure-washer"},
+  ],
+};
+
+export default article;
