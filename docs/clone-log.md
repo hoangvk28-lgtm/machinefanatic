@@ -552,3 +552,17 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Writer A first missed best-easy-to-use-air-fryers; written in the fix pass. Two fix passes for repetition: no sentence in 3+ guides except a product name fragment; top 4-word description opening = 6.
 - Checks: audit ok, tsc ok, build ok. Words 3,000 to 3,216.
 - Round 40 near-dup skips (marked 2026-11-16): kettles-with-keep-warm-functions, auto-shutoff-electric-tea-kettles, kettles-with-tea-infuser, variable-temperature-kettles, small-electric-tea-kettles, cordless/gooseneck/temperature-control/glass ...-with-auto-shutoff kettles, coffee-makers-without-pods.
+
+### Prefilter skips (2026-11-16)
+| Skipped slug | Reason |
+|---|---|
+| best-ninja-electric-kettles | prefilter: only 2 distinct items match brand ninja after extra searches |
+| best-smeg-coffee-makers | prefilter: only 1 distinct items match brand smeg after extra searches |
+| best-zwilling-electric-kettles | prefilter: only 1 distinct items match brand zwilling after extra searches |
+
+## Round 40 (2026-11-16): coffee makers and electric kettles, 52 guides
+- 27 coffee maker guides (r40a.txt) + 25 electric kettle guides (r40b.txt), Sonnet only; done list in scripts/clone/work/r40.done.txt. Previous session hit its limit mid-run; 22 unfinished slugs were redone by 2 new writers.
+- Skip: best-9-cup-coffee-makers (only 1 real 9-cup machine, OXO Brew; extra search added 0).
+- Notes: plastic-free kettles is Cosori-heavy (5 Cosori + Nuxatoms glass); quiet kettles picks on construction, no dB figures; plastic-free coffee makers covers brew-path claims only; French press and pour-over guides are manual brewers.
+- Repetition: opening fix pass (scripted first-word swaps, sampled for grammar); top 4-word description opening = 5. No sentence in 3+ guides.
+- Checks: audit ok, no 【, tsc ok, build ok. Words 3,000 to 3,324.

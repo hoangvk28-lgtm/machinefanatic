@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-toaster-ovens-for-rvs",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "Toaster Ovens for RVs",
+ "guideTitle": "Best Toaster Ovens for RVs (2026)",
+ "metaTitle": "Best Toaster Ovens for RVs in 2026",
+ "metaDescription": "Toaster ovens for RVs and campers compared on wattage, footprint, door design and timers, with practical notes on inverters, shore power and securing them.",
+ "lastUpdated": "2026-11-16",
+ "readTime": "12 min",
+ "expertTake": "The Elite Gourmet ETO449X is the pick for RVs because its stated 800 watt rating is easy to plan around and its dial controls survive vibration. The Elite Gourmet ETO490 is the value pick with a pan and rack in the box. Anyone running on a small inverter should check the rating label of any oven before relying on it.",
+ "introParagraphs": [
+  "An RV kitchen is a shrunken version of a home kitchen with stricter limits. Counter space is tight, electrical power comes from shore hookups, a generator or an inverter, and everything must survive a day of bumps on the road.",
+  "That reality favors small ovens with modest power draw, simple controls and a body that can be secured while driving. This guide ranks compact ovens on those travel-specific points and explains how to match an oven to your power source."
+ ],
+ "products": [
+  {
+   "id": "B0GVVJRFQ4",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Elite Gourmet ETO449X 4-Slice Toaster Oven, 800W Quartz",
+   "price": "",
+   "specs": [
+    "800 W",
+    "9.5 qt",
+    "Dual dials",
+    "Bell"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "800 W quartz"
+    },
+    {
+     "label": "Capacity",
+     "value": "9.5 qt, 4 slices"
+    },
+    {
+     "label": "Controls",
+     "value": "Dual dials with bell"
+    },
+    {
+     "label": "Timer",
+     "value": "30 minutes"
+    },
+    {
+     "label": "Temperature",
+     "value": "200 to 450 F"
+    }
+   ],
+   "description": "The ETO449X is the easiest oven to plan an RV electrical system around, because its listing states an 800 watt draw from two quartz elements. That is a modest number compared with air fry ovens, so it leaves headroom on a 15 amp campground hookup and is a more realistic load for a mid-size inverter. Two analog dials set temperature and time, and a bell rings at the end.\n\nAnalog controls are a real advantage on the road. There are no circuit boards or touch panels to be shaken loose, and the dials are easy to read in dim camper light. The cost is patience, since a lower-wattage oven heats and recovers more slowly. Against the GOLUX at 1200 watts, the Elite is gentler on power and slower to cook.\n\nSecure the oven with a non-slip mat or a strap before you drive, and never run it while moving. It is the dependable choice for a camper with limited power. Cook small portions in short bursts and let residual heat finish the job, which saves battery and keeps the cabin cooler in summer.",
+   "bestFor": "RVs on shore power, small generators or mid-size inverters.",
+   "pros": [
+    "800 W rating is stated plainly",
+    "Analog dials survive vibration and bumps",
+    "Bell signals the end of the cycle",
+    "9.5 qt body fits a camper counter"
+   ],
+   "cons": [
+    "Eight inch pizza ceiling limits dishes",
+    "Slower recovery after opening the door"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GVVJRFQ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41vQcPf4gkL._SL500_.jpg"
+  },
+  {
+   "id": "B0DDWPX76J",
+   "rank": 2,
+   "badge": "Best Value",
+   "name": "Elite Gourmet ETO490 9L 4-Slice Toaster Oven",
+   "price": "",
+   "specs": [
+    "9 L",
+    "30 min timer",
+    "Pan and rack",
+    "200 to 450 F"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "9 L, 4 slices"
+    },
+    {
+     "label": "Timer",
+     "value": "30 minutes"
+    },
+    {
+     "label": "Temperature",
+     "value": "200 to 450 F"
+    },
+    {
+     "label": "Included",
+     "value": "Baking pan and wire rack"
+    },
+    {
+     "label": "Functions",
+     "value": "Bake, broil, toast"
+    }
+   ],
+   "description": "The ETO490 pairs a compact 9 liter cavity with a baking pan and a wire rack in the box. For an RV, bundled cookware is a quiet win, because every extra pan competes for scarce cabinet space. A 30 minute timer and an adjustable thermostat from 200 to 450 F handle toast, reheats and simple bakes.\n\nThe listing does not state a wattage, so read the rating label before you plug it into an inverter. The size suggests a modest draw, but verifying beats assuming when your power comes from batteries. Against the ETO449X, the ETO490 includes the pan and rack and gives up the stated 800 W figure.\n\nStore the pan inside the oven while traveling, wrapped in a towel to stop rattles. It suits campers who want a small oven that comes ready to cook. If a trip takes you through cold weather, remember that a chilled cavity needs more time to heat, and plan the extra minutes.",
+   "bestFor": "Campers who want cookware included in a compact oven.",
+   "pros": [
+    "Baking pan and wire rack included",
+    "9 L cavity fits tight galleys",
+    "Dial controls handle vibration well",
+    "Adjustable 200 to 450 F thermostat"
+   ],
+   "cons": [
+    "Wattage must be confirmed on the label",
+    "Pull-down door needs clearance in a tight galley"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DDWPX76J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gdTKv70fL._SL500_.jpg"
+  },
+  {
+   "id": "B0GJL4MPGS",
+   "rank": 3,
+   "badge": "Best Faster Heat",
+   "name": "GOLUX GT12 12L Compact Toaster Oven, 1200W",
+   "price": "",
+   "specs": [
+    "12 L",
+    "1200 W",
+    "4 elements",
+    "60 min timer"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "12 L, 4 slices"
+    },
+    {
+     "label": "Power",
+     "value": "1200 W"
+    },
+    {
+     "label": "Heating elements",
+     "value": "4 stainless steel"
+    },
+    {
+     "label": "Modes",
+     "value": "4 cooking modes"
+    },
+    {
+     "label": "Timer",
+     "value": "60 minutes"
+    }
+   ],
+   "description": "GOLUX lists 1200 watts from four stainless steel heating elements in a 12 liter body, with four cooking modes and a 60 minute timer. More power and more elements mean quicker heat-up and better recovery, which helps in a cold camper. The long timer allows real baking.\n\nThe tradeoff is draw. At 1200 watts it needs a campground hookup, a good generator or a large inverter, and it competes with any other heater on the circuit. Against the ETO449X, the GOLUX heats faster and offers a longer timer, while the Elite is easier to power.\n\nCheck the inverter's continuous rating, not its peak, before trusting it. A smaller maker means less proven support, so keep the receipt. It suits RVs with plenty of power. Because it heats faster, shorten your usual cook times a little and watch the first batch, since small ovens with strong elements can brown quickly.",
+   "bestFor": "RVs on shore power or a strong generator that want faster heat.",
+   "pros": [
+    "1200 W heats a 12 L cavity quickly",
+    "Four elements spread heat across the cavity",
+    "60 minute timer allows real baking",
+    "Four modes keep controls simple"
+   ],
+   "cons": [
+    "Higher draw demands a strong power source",
+    "Smaller brand with less proven long-term record"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GJL4MPGS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jcczzDpgL._SL500_.jpg"
+  },
+  {
+   "id": "B00GGFHH4U",
+   "rank": 4,
+   "badge": "Best Compact Pizza Fit",
+   "name": "Black and Decker TO1313SBD Compact Toaster Oven",
+   "price": "",
+   "specs": [
+    "15.47 in wide",
+    "9 in pizza",
+    "30 min timer",
+    "Stay-on"
+   ],
+   "specList": [
+    {
+     "label": "Width",
+     "value": "15.47 inch"
+    },
+    {
+     "label": "Capacity",
+     "value": "4 slices or 9 in pizza"
+    },
+    {
+     "label": "Timer",
+     "value": "30 minutes with stay-on"
+    },
+    {
+     "label": "Functions",
+     "value": "Bake, broil, toast, warm"
+    },
+    {
+     "label": "Heating",
+     "value": "Natural convection"
+    }
+   ],
+   "description": "The TO1313 is a narrow oven with a curved interior that fits a 9 inch pizza or four slices of bread. At 15.47 inches wide it tucks into a camper counter without eating the whole run. Four functions and a 30 minute timer with a stay-on setting cover most small jobs, and there is no fan motor to draw extra power.\n\nA simple, fanless oven has fewer parts to shake loose on the road. The stay-on setting deserves caution in a small space, because a forgotten cycle is more dangerous in an RV than in a house. Against the ETO490, the TO1313 fits a slightly bigger pizza and does not include a pan.\n\nStrap it down in transit and wipe the interior once it cools. It is a good fit for a snug galley. A frozen personal pizza is a classic camper dinner, and this is the oven size that handles it without a fuss.",
+   "bestFor": "Narrow RV counters that need a 9 in pizza fit.",
+   "pros": [
+    "Narrow 15.47 in body suits tight counters",
+    "Fits a 9 in pizza or four slices",
+    "No fan motor to add draw or noise",
+    "30 minute timer with stay-on"
+   ],
+   "cons": [
+    "Stay-on needs strict supervision in an RV",
+    "No fan, so browning is slow"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00GGFHH4U?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41l2u2JNGLL._SL500_.jpg"
+  },
+  {
+   "id": "B0721CGB5F",
+   "rank": 5,
+   "badge": "Best Keep-Warm Oven",
+   "name": "Black and Decker TO1745SSG 4-Slice Toaster Oven",
+   "price": "",
+   "specs": [
+    "4 slices",
+    "Keep warm",
+    "30 min timer",
+    "EvenToast"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "4 slices"
+    },
+    {
+     "label": "Functions",
+     "value": "Bake, broil, toast, keep warm"
+    },
+    {
+     "label": "Timer",
+     "value": "30 minutes with stay-on"
+    },
+    {
+     "label": "Toast tech",
+     "value": "EvenToast"
+    },
+    {
+     "label": "Control",
+     "value": "Dials"
+    }
+   ],
+   "description": "The TO1745SSG offers four functions, including keep warm, plus a 30 minute timer with a stay-on setting. Keep warm is handy at a campsite where the group eats at different times, because food can wait without a second burner. The EvenToast layout is the maker's answer to uneven bread browning.\n\nA four slice body is a common compromise for an RV, big enough for a small tray and small enough for a shelf. The listing gives no wattage, so check the label before relying on an inverter. Against the TO1313, it adds keep warm and the EvenToast layout, and it does not list a pizza size.\n\nTreat the stay-on position with respect and never leave it running. It suits campers who cook for two. Set the keep warm function after cooking, then turn the oven off when the last person has eaten.",
+   "bestFor": "Campers who cook for two and want a keep-warm setting.",
+   "pros": [
+    "Keep warm holds food for late eaters",
+    "Four slice body fits a camper shelf",
+    "Dial controls handle vibration",
+    "EvenToast layout aims for even bread"
+   ],
+   "cons": [
+    "Wattage must be confirmed on the label",
+    "Stay-on needs strict supervision"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0721CGB5F?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qjdV9lYOL._SL500_.jpg"
+  },
+  {
+   "id": "B09XWG4LW5",
+   "rank": 6,
+   "badge": "Best Smallest",
+   "name": "Elite Gourmet ETO236 Compact 2-Slice Toaster Oven",
+   "price": "",
+   "specs": [
+    "2 slices",
+    "15 min timer",
+    "200 to 450 F",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "2 slices"
+    },
+    {
+     "label": "Timer",
+     "value": "15 minutes"
+    },
+    {
+     "label": "Temperature",
+     "value": "200 to 450 F"
+    },
+    {
+     "label": "Functions",
+     "value": "Bake, broil, toast"
+    },
+    {
+     "label": "Class",
+     "value": "Compact"
+    }
+   ],
+   "description": "The ETO236 is the smallest oven here, a 2-slice box with a 15 minute timer. In a camper that is a feature, because it tucks into a cabinet and a short timer limits a forgotten cycle. Dials set temperature from 200 to 450 F.\n\nCapacity is the clear limit. Toast, bagels and small snacks fit, and a real meal does not. The listing does not state wattage, so confirm the label. Against the ETO490, you save space and lose the pan and half the timer.\n\nStore it in a cabinet with a towel around it and secure it for driving. It suits a solo traveler who wants toast and reheats. Because it stores so easily, it is also a good backup oven for a tent trip with a power pedestal.",
+   "bestFor": "Solo travelers who want toast and reheats in the smallest oven.",
+   "pros": [
+    "Tiny body stores in a cabinet",
+    "15 minute timer limits a forgotten cycle",
+    "Dial controls have little to break",
+    "200 to 450 F range covers most reheat jobs"
+   ],
+   "cons": [
+    "Wattage must be confirmed on the label",
+    "Fits only the smallest dishes"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B09XWG4LW5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41i+08VjY9L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Know your power source",
+   "explanation": "A campground hookup, a generator and a battery inverter each have different limits. Check the inverter's continuous watt rating, not its peak. The ETO449X states 800 W and the GOLUX 1200 W, so match the number to the source. On a 30 amp RV hookup there is plenty of room, but a 15 amp adapter or a small generator can run short once the air conditioner or the water heater is running. Add up the loads before you start cooking, and switch off the largest one if the total gets close."
+  },
+  {
+   "criterion": "Stated versus unstated wattage",
+   "explanation": "Only the ETO449X and GOLUX state their draw in the listing. For the others, read the rating label on the oven. Dividing watts by volts gives the amps, which is the figure a breaker or an inverter cares about. If the label is missing or worn, a plug-in watt meter will tell you the true draw in seconds. That small tool also shows you how often the elements cycle, which helps you estimate battery use."
+  },
+  {
+   "criterion": "Vibration and build",
+   "explanation": "Dial controls and mechanical timers survive bumps better than touch panels. Every oven here uses dials. Check that racks and trays do not rattle, and wrap spare parts in a towel when you drive. A tray that clatters on every bump will wear its coating and keep you awake at a rest stop. Many campers keep the oven in a cabinet in transit and set it on the counter only at camp."
+  },
+  {
+   "criterion": "Galley clearance",
+   "explanation": "Drop-down doors need space in front to open. The Hamilton Beach Easy Reach style roll-top would help, but the ovens here use standard doors. Measure the clearance in your camper before you buy. Many galleys put the oven near a window or an overhead cabinet, so check the space above as well, because a hot case under a low shelf can scorch the finish. A heat-safe mat under the oven protects a laminate counter."
+  },
+  {
+   "criterion": "Timer and safety",
+   "explanation": "A forgotten oven is more dangerous in a small RV. Short timers on the ETO236 and a bell on the ETO449X help, and a stay-on setting is a risk. Add a smoke alarm check to your trip routine. Cook only when you are inside and awake, and open a vent or a window for fresh air. Keep a small fire extinguisher where you can reach it without crossing the stove."
+  },
+  {
+   "criterion": "Securing it for travel",
+   "explanation": "An oven can slide, tip or shed parts on a bumpy road. Use a non-slip mat or a strap, and store the crumb tray and rack separately. Never run the oven while the vehicle is moving. Unplug it at the end of each cook, because a plugged-in oven can switch on if a dial gets bumped during a drive."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Watts and amps",
+   "meaning": "Watts describe the power draw, and amps equal watts divided by volts. A 15 amp circuit at 120 volts carries about 1800 watts at most.",
+   "watchFor": "The GOLUX at 1200 W uses most of what a small inverter can give."
+  },
+  {
+   "spec": "Continuous versus peak",
+   "meaning": "An inverter has a continuous rating it can sustain and a higher peak for brief surges. A heating element draws steadily, so the continuous number matters.",
+   "watchFor": "Match the oven's draw to the continuous rating with a margin."
+  },
+  {
+   "spec": "Quartz elements",
+   "meaning": "Quartz elements heat quickly and give off radiant heat. They suit small cavities.",
+   "watchFor": "The ETO449X uses two quartz elements."
+  },
+  {
+   "spec": "Stay-on timer",
+   "meaning": "A position that holds the oven on past the timer. It is for long bakes and needs supervision.",
+   "watchFor": "The TO1313 and TO1745SSG list it, so use it only when you are present."
+  },
+  {
+   "spec": "Natural convection",
+   "meaning": "Warm air rises without a fan. It uses no motor and heats gently.",
+   "watchFor": "The TO1313 uses it, which also means no fan noise in a quiet camper."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power draw",
+   "description": "We evaluated stated wattage and what the listing leaves out. The ETO449X's 800 W and the GOLUX's 1200 W led on clarity. Models with no stated number were treated as unknown."
+  },
+  {
+   "title": "Footprint",
+   "description": "We evaluated width and shelf fit. The ETO236 and TO1313 scored for narrowness. Larger bodies lost points for galley space."
+  },
+  {
+   "title": "Vibration tolerance",
+   "description": "We evaluated controls and moving parts. Dial and mechanical timer designs scored above touch panels. This reflects owner feedback patterns about electronics on the road."
+  },
+  {
+   "title": "Safety features",
+   "description": "We evaluated timers, bells and stay-on positions. Short timers and bells scored well, and stay-on settings lost points for the risk. A bell is a useful reminder."
+  },
+  {
+   "title": "Value and accessories",
+   "description": "We evaluated price tier against included extras. The ETO490's pan and rack and the ETO449X's stated rating led. We favored picks that give real function for travel."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Power Source",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small inverter",
+      "Elite Gourmet ETO449X",
+      "Stated 800 W"
+     ],
+     [
+      "Campground hookup",
+      "GOLUX GT12",
+      "1200 W and a 60 minute timer"
+     ],
+     [
+      "Generator with spare capacity",
+      "Elite Gourmet ETO490",
+      "Pan and rack, check the label"
+     ],
+     [
+      "Unknown power",
+      "Elite Gourmet ETO236",
+      "Smallest body, check the label"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Elite Gourmet ETO236",
+      "Smallest and simplest"
+     ],
+     [
+      "Lower middle",
+      "Elite Gourmet ETO449X",
+      "Stated wattage and dials"
+     ],
+     [
+      "Middle",
+      "Elite Gourmet ETO490",
+      "Pan and rack included"
+     ],
+     [
+      "Higher",
+      "Black and Decker TO1745SSG",
+      "Keep warm"
+     ],
+     [
+      "Highest in this list",
+      "GOLUX GT12",
+      "Faster heat"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Low Draw vs Fast Heat",
+   "cards": [
+    {
+     "label": "Low draw",
+     "text": "The ETO449X's stated 800 W suits small inverters and shared hookups. It heats and recovers more slowly, so plan for patience."
+    },
+    {
+     "label": "Fast heat",
+     "text": "The GOLUX's 1200 W and four elements heat a 12 L cavity quickly. It needs a stronger source and leaves less headroom."
+    }
+   ],
+   "note": "Choose low draw if your power is limited. Choose fast heat if you are on a good hookup."
+  },
+  {
+   "subheading": "By Galley Space",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Narrowest body",
+      "Black and Decker TO1313",
+      "15.47 in wide"
+     ],
+     [
+      "Stores in a cabinet",
+      "Elite Gourmet ETO236",
+      "Tiny 2 slice body"
+     ],
+     [
+      "Bigger but still compact",
+      "GOLUX GT12",
+      "12 L cavity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Boondocking Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A stated low wattage, short cooking times and a body that can be strapped down. Battery power makes every watt-hour count."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ETO449X lists 800 W, and the ETO236 is the smallest. Check the label on any other oven before running it on a battery."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have strong power and want the GOLUX's faster heat, or you want the ETO490's included pan. Both fit a well-equipped rig."
+    },
+    {
+     "label": "Save if",
+     "text": "You only toast and reheat, so the ETO236 covers it. Save as well if your power is limited."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Secure before driving",
+   "interval": "Every trip",
+   "why": "An unsecured oven slides and tips on bumps. A non-slip mat or a strap keeps it in place."
+  },
+  {
+   "task": "Empty the crumb tray",
+   "interval": "After each use",
+   "why": "Burnt crumbs smoke in a small space and can set off the smoke alarm. Empty the tray into a bag, not the sink."
+  },
+  {
+   "task": "Wipe the interior",
+   "interval": "Weekly when cool",
+   "why": "Grease on the walls smokes when heated. Water is limited in a camper, so a damp cloth on the cooled walls is the cleaning method that fits."
+  },
+  {
+   "task": "Check the cord and plug",
+   "interval": "Each season",
+   "why": "Vibration and heat stress cords. A warm plug or a loose outlet is a reason to stop using it."
+  },
+  {
+   "task": "Test the smoke alarm",
+   "interval": "Each trip",
+   "why": "A small space leaves little warning. A working alarm is the first line of defense."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I run a toaster oven on an RV inverter?",
+   "a": "It depends on the inverter's continuous rating and the oven's real draw. Check the label and leave a margin. Avoid running other heaters at the same time."
+  },
+  {
+   "q": "How many watts does a toaster oven use?",
+   "a": "Compact ovens vary, and the ETO449X lists 800 W while the GOLUX lists 1200 W. Many listings do not state a number, so read the label. Dividing watts by volts gives amps."
+  },
+  {
+   "q": "Is it safe to use a toaster oven in an RV?",
+   "a": "It can be, with clearance, a working smoke alarm and no unattended use. Keep curtains and paper well away. Never run it while the vehicle is moving."
+  },
+  {
+   "q": "How do I stop it sliding on the road?",
+   "a": "Use a non-slip mat or a strap, and store the tray and rack separately. A towel wrapped around parts stops rattles. Remove the oven from the counter if the route is rough."
+  },
+  {
+   "q": "Which oven suits boondocking?",
+   "a": "The ETO449X with its stated 800 W is the easiest to plan around. Cook in short bursts and avoid long preheats. Check the battery capacity first."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "The ETO236 and ETO449X sit at the lower tiers. Spend more for the ETO490's pan or the GOLUX's heat. RV ovens rarely need more."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41vQcPf4gkL._SL500_.jpg"
+}
