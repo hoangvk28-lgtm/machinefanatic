@@ -1,0 +1,167 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "trimmer-line-sizes-and-shapes-explained",
+  title: "Trimmer Line Sizes and Shapes Explained",
+  metaTitle: "Trimmer Line Sizes and Shapes Explained",
+  metaDescription: "Learn how trimmer line diameter and shape change cutting power, noise and battery drain, and how to match line to your head and your yard.",
+  kicker: "Explainer",
+  heroImage: { src: "/images/articles/trimmer-cutting-line.webp", alt: "Coil of orange trimmer line resting on a wooden surface" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "Thinner line, around 0.065 to 0.080 inch, suits light grass and small battery trimmers. Medium line, about 0.080 to 0.095 inch, is the all-round choice for most yards. Thick line, 0.095 inch and above, is for heavy weeds and powerful gas or high-voltage trimmers. Shape changes the cut: round is durable and general, square and star lines slice more aggressively, and twisted lines run quieter. Always stay within the diameter range printed on your trimmer head.",
+  html: `<h2 id="wrong-line-wrong-result">When the wrong line is the whole problem</h2>
+<p>A trimmer that seems weak, burns through battery or keeps snapping its line is often a trimmer with the wrong line in it. Owners blame the motor, the battery or the head, and then a change of line fixes it. The line is the only part of the machine that actually touches the grass, so its diameter, shape and material have a large effect on results.</p>
+<p>This page explains how to read line sizes, how cross sections change the cut and how to match line to your trimmer and your yard. For the choice between a trimmer and an edger, see <a href="/string-trimmer-vs-edger">our trimmer versus edger comparison</a>.</p>
+
+<h2 id="reading-the-diameter">Reading the diameter</h2>
+<p>Line is sold by diameter, shown in inches or millimetres, and the most common sizes run from about 0.065 inch, or 1.6 mm, up to 0.155 inch, or 4 mm, with a handful of in-between steps. The number printed on the package is the thickness of the line, not its strength, though thicker line is generally stronger and cuts heavier material.</p>
+<figure><img src="/images/articles/trimmer-head-with-line.webp" alt="Hand holding a string trimmer head fitted with green cutting line" width="1400" height="935" loading="lazy" /><figcaption>Diameter is stamped on the head or printed in the manual. Going above the approved range loads the motor rather than cutting better.</figcaption></figure>
+<table>
+<thead><tr><th>Diameter (inch)</th><th>Approx. mm</th><th>Typical use</th></tr></thead>
+<tbody>
+<tr><td>0.065</td><td>1.6</td><td>Light grass, small electric and battery trimmers</td></tr>
+<tr><td>0.080</td><td>2.0</td><td>General lawn trimming, mid-range trimmers</td></tr>
+<tr><td>0.095</td><td>2.4</td><td>Thicker grass and weeds, stronger trimmers</td></tr>
+<tr><td>0.105</td><td>2.7</td><td>Heavy weeds, gas trimmers</td></tr>
+<tr><td>0.130 and above</td><td>3.3 and above</td><td>Brush-style cutting, large gas machines</td></tr>
+</tbody>
+</table>
+<p>Treat the table as a general map, not a strict rule. What matters for your tool is the range the manufacturer approves, which is printed on the head, in the manual or on the trimmer&rsquo;s label.</p>
+
+<h2 id="thin-versus-thick">Thin versus thick line</h2>
+<p>Thin line is light, so the motor can spin it fast with little load. It cuts soft grass cleanly and gives long battery runtime. The cost is durability. Thin line wears quickly against fences, concrete and woody stems, and it can snap against tougher weeds.</p>
+<p>Thick line carries more mass and more cutting energy on each pass. It handles heavy grass, stubborn weeds and light brush, and lasts longer against abrasive edges. The cost is load. A thick line drags more air and demands more torque, so it drains a battery faster, and an underpowered motor slows down and cuts worse. On a weak trimmer, thicker line often cuts worse than the thinner line the machine was designed for.</p>
+<p>This is the most common sizing mistake. People assume that thicker is stronger and fit the thickest line that physically goes into the head. The motor sees an increase in drag, the head speed falls, and the result is less cutting power, not more. Stay within the range the maker approves.</p>
+
+<h2 id="matching-line-to-the-machine">Matching line to the machine</h2>
+<p>Match the line to the trimmer first, and the yard second. A small battery trimmer designed for light work usually specifies a thin line, because its motor and pack cannot support more. A mid-power cordless or corded trimmer handles medium line. Gas trimmers, and high-voltage battery models built to rival them, handle thicker line and heavy loads.</p>
+<p>Check three things before you buy line. First, the approved diameter range on your head or in the manual. Second, the type of head, because bump-feed, automatic feed and fixed-line heads accept different line forms. Third, the spool capacity, since a thick line fills a spool quickly and may fit fewer winds.</p>
+<p>If you are shopping for a machine as well as line, compare how the motors and line ranges differ in <a href="/guide/best-cordless-string-trimmers">our cordless trimmer guide</a>, and note the budget options in <a href="/guide/best-string-trimmers-under-75">our entry-level trimmer picks</a>, which typically use thin line.</p>
+
+<h2 id="shapes">Line shapes and what they do</h2>
+<p>The cross section of the line changes how it cuts as well as how loud it is. The common shapes are round, square, star, twisted and serrated or multi-sided variants.</p>
+<table>
+<thead><tr><th>Shape</th><th>How it cuts</th><th>Strengths</th><th>Weaknesses</th></tr></thead>
+<tbody>
+<tr><td>Round</td><td>Smooth surface, tears and shears</td><td>Durable, cheap, feeds smoothly, general use</td><td>Less aggressive on thick grass</td></tr>
+<tr><td>Square</td><td>Edges act like small blades</td><td>Cuts thick grass and weeds more cleanly</td><td>Wears faster, more load on the motor</td></tr>
+<tr><td>Star or multi-sided</td><td>Several edges per rotation</td><td>Very aggressive cut, good on heavy growth</td><td>Draws more power, can be louder</td></tr>
+<tr><td>Twisted or spiral</td><td>Round with a twisted profile</td><td>Quieter, reduced drag and noise</td><td>Slightly less cutting edge than square</td></tr>
+<tr><td>Serrated</td><td>Teeth along the line</td><td>Bites through tough material</td><td>Can snag, wears quickly</td></tr>
+</tbody>
+</table>
+
+<h2 id="round-line">Round line in practice</h2>
+<p>Round line is the default for good reason. It is easy to manufacture, feeds smoothly through most heads and tolerates abrasion better than sharper shapes. It tears grass more than it slices, which is fine for ordinary lawn edges and light weeds.</p>
+<p>If you only buy one type, choose round line in the diameter your trimmer calls for. Many entry-level machines ship with it, and it leaves you with the least feed trouble. Its main limitation is on thick weeds, where it can bend rather than cut.</p>
+
+<h2 id="edged-line">Square, star and edged line</h2>
+<p>Lines with corners cut by shearing, as each edge slices through the stem. They work better than round line on thick, tough grass, dense weeds and woody stems, and they leave a cleaner cut. A star cross section offers the most edges per revolution.</p>
+<p>The trade-off is drag and wear. Edged lines move through air less smoothly, which costs battery power and can raise noise. The corners round off with use, so the line gets less aggressive as it wears. Edged lines can also be stiffer in a head, and may feed less smoothly in heads that rely on the line bending around a spool.</p>
+<p>They are a good choice when you face overgrown patches and have a motor with spare power. For routine trimming of short grass, they are rarely necessary.</p>
+
+<h2 id="twisted-and-quiet-line">Twisted and quiet line</h2>
+<p>Twisted line, sometimes marketed as quiet line, has a spiral profile that cuts through air with less turbulence, so it makes a lower, smoother sound. It also tends to feel slightly smoother in the hands. It is a good fit for people who trim near neighbours or dislike the buzz of a standard round line.</p>
+<p>The cutting edge is moderate. It cuts well on lawn grass, and it is not as aggressive as square or star lines on thick weeds. If noise matters more than top cutting power, a twisted line is worth trying.</p>
+
+<h2 id="line-material-and-quality">Material and quality</h2>
+<p>Nylon is the standard, but quality varies. Cheap line can be brittle, and it becomes more so as it ages and dries out. Better line stays flexible and resists breakage, and some products have a co-polymer blend or a reinforced core. A few premium lines embed other materials for abrasion resistance.</p>
+<p>Line ages on the shelf. Old, dried line snaps more readily, and many owners soak a spool in water for a short time before use to restore some flexibility. Store line in a cool, dry place away from direct sunlight and heat, and avoid buying a very large quantity if you only use a little each season.</p>
+<p>Metal-reinforced and steel-cored lines exist for cutting heavy brush. They need a head and a guard that approve them, since they throw debris with more energy, and they are not suited to every trimmer. Check your manual and local guidance before using any non-standard cutting line.</p>
+
+<h2 id="head-types-and-feed">Head type and feed compatibility</h2>
+<p>The head decides what line you can use. Bump-feed heads release more line when you tap the head on the ground, and they take round and most shaped lines in the approved diameter. Automatic feed heads release line when the spool detects a shortened line, and they can be fussy about line type. Fixed-line heads use pre-cut lengths that you insert, which suits users who prefer no spool-winding. Models using that head type are collected in our <a href="/guide/best-bump-feed-cordless-string-trimmers">bump feed string trimmer guide</a>.</p>
+<figure><img src="/images/articles/trimmer-nylon-head.webp" alt="String trimmer head with an orange guard resting on paving" width="1024" height="929" loading="lazy" /><figcaption>The head and its guard decide which line forms will feed. Shaped line that will not pass the eyelet is the wrong line for that machine.</figcaption></figure>
+<p>Some heads accept thicker line only when fitted with a specific spool. Others use a pre-wound cartridge that you replace as a unit, which is convenient and costs more per metre. If your trimmer takes pre-wound spools, you pay for the convenience and are limited to the supplier&rsquo;s line.</p>
+<ul>
+<li>Check the maximum diameter the head accepts, not just the line that fits through the eyelet.</li>
+<li>Check whether the head uses a dual-line or a single-line design.</li>
+<li>Check the spool capacity for the line you choose, since thick line fills a spool fast.</li>
+<li>Wind the line in the direction marked on the spool, and keep it tight and even to avoid jams.</li>
+</ul>
+
+<h2 id="winding-line-step-by-step">Winding new line step by step</h2>
+<p>Bad winding causes more feed problems than bad line. Heads differ, so follow the diagram in your manual, but the general method is the same on most bump-feed and dual-line spools.</p>
+<figure><img src="/images/articles/trimmer-line-spool.webp" alt="Two hands feeding cutting line into a string trimmer head" width="1400" height="935" loading="lazy" /><figcaption>Winding evenly and in the marked direction prevents most feed faults that get blamed on the line itself.</figcaption></figure>
+<ol>
+<li>Switch the trimmer off and remove the battery or unplug it. On a gas trimmer, make sure the engine is off and cool.</li>
+<li>Open the head by pressing the tabs or unscrewing the cap, and lift out the spool. Clean out grass and dirt from the housing.</li>
+<li>Cut two lengths of line to the length the manual suggests, or one long length if the spool has a central slot for a single folded piece.</li>
+<li>Find the notch or hole that holds the line, and hook the end through. Note the arrow on the spool that shows the winding direction.</li>
+<li>Wind the line in neat, tight layers in the arrow direction, side by side and never crossed over itself.</li>
+<li>Leave about six inches of line free and lock each end in its slot, or thread it through the eyelets as the head requires.</li>
+<li>Refit the spool and cap, and tug the line to confirm that it feeds.</li>
+</ol>
+<div class="mf-callout"><strong>Why neat winding matters:</strong> crossed turns pinch under pressure and weld together in the heat of use, so the line will not feed. Winding tight and even is the single best habit for fewer jams.</div>
+
+<h2 id="line-length-and-the-guard">Line length, the guard cutter and speed</h2>
+<p>Line length affects cutting power more than most people expect. A longer free length increases the cutting circle and the load on the motor, so the head spins slower and the cut gets worse. Overlong line also puts more strain on the head and the shaft. Every trimmer guard has a small cutter blade that trims the line to its proper working length when you feed more out, and you should let that blade do its job.</p>
+<p>If your trimmer seems to bog down after you feed new line, the line is probably too long. Stop, switch off and trim it to the guard mark. On battery trimmers, over-long line is a hidden reason for short runtime, because the motor works harder to move the extra length.</p>
+<p>For the same reason, fresh line right after feeding is more aggressive than worn line, and the machine will seem to lose power as the line wears down to a short stub. Feed a little more before the line gets too short to cut properly.</p>
+
+<h2 id="matching-line-to-the-job">Matching line to the job</h2>
+<table>
+<thead><tr><th>Job</th><th>Suggested diameter band</th><th>Suggested shape</th></tr></thead>
+<tbody>
+<tr><td>Light lawn edges, small yard</td><td>Thin</td><td>Round or twisted</td></tr>
+<tr><td>Regular weekly trimming of a suburban lot</td><td>Medium</td><td>Round</td></tr>
+<tr><td>Thick grass along fences and ditches</td><td>Medium to thick</td><td>Square or star</td></tr>
+<tr><td>Weedy overgrown patches</td><td>Thick, if the head allows</td><td>Square, star or serrated</td></tr>
+<tr><td>Noise-sensitive neighbourhood</td><td>Thin to medium</td><td>Twisted</td></tr>
+<tr><td>Trimming along concrete and stone walls</td><td>Medium to thick</td><td>Round, durable</td></tr>
+</tbody>
+</table>
+<p>In every row, the diameter band is limited by what your trimmer approves. If the job calls for a heavier line than your machine allows, the answer is a stronger trimmer, and not a thicker line.</p>
+
+<h2 id="runtime-and-line">How line choice affects battery runtime</h2>
+<p>On a cordless trimmer, line is a runtime setting as much as a cutting setting. Thicker and edged lines move more air, so the motor draws more current for the same head speed. Thinner and twisted lines draw less, which extends the time you can trim on a charge.</p>
+<p>If your trimmer has a power mode switch, the line matters even more. In a boost mode, thick line may use up a pack quickly, while a thinner line lets you use a mid-power mode and get through a whole property on one charge. If you find your battery trimmer running out too soon, try a thinner or twisted line within the approved range before buying more batteries.</p>
+
+<h2 id="safety-with-line">Safety with line and non-standard cutters</h2>
+<p>Trimmer line is flexible, but it still throws debris at high speed. Wear safety glasses, long trousers and closed shoes, and keep the guard in place. Never run a trimmer with the guard removed to allow longer line.</p>
+<p>Do not replace the line with wire, rope, fishing line, a chain or any other material the manufacturer does not approve. Metal wire can break off in pieces that become projectiles, and it can damage the head and shaft. Metal-bladed heads are a separate product with their own guards, and they need compatible equipment.</p>
+<p>Keep hands and feet away from the head when you change line, and always disconnect the power source first. A battery trimmer can start unexpectedly if the trigger is bumped, so remove the pack before touching the head.</p>
+
+<h2 id="common-problems">Common line problems and fixes</h2>
+<ul>
+<li><strong>Line keeps breaking:</strong> it may be old and brittle, too thin for the job or hitting hard objects. Switch to fresh line, a thicker approved size or a tougher shape.</li>
+<li><strong>Line will not feed:</strong> the spool is tangled, the line is wound unevenly or the line has fused together in heat. Rewind it neatly, and use a line that matches the head.</li>
+<li><strong>Trimmer bogs down:</strong> the line is too thick for the motor, or the line is too long and creating drag. Use the approved size and let the guard cutter trim excess length.</li>
+<li><strong>Battery drains fast:</strong> thicker or edged line draws more power, so consider a thinner or twisted option.</li>
+<li><strong>Ragged cut:</strong> the line is worn short or has rounded off. Feed fresh line.</li>
+</ul>
+
+<h2 id="storage-and-buying-quantity">Storage and how much line to buy</h2>
+<p>Line is cheap, but it is worth buying sensibly. A small trimmer used weekly on a modest lawn goes through a surprisingly small amount of line in a season, and a large donut or bulk spool can outlast the line&rsquo;s useful life. Nylon dries out with age and heat, and brittle line breaks constantly, which looks like a trimmer fault but is a storage fault.</p>
+<p>Keep spare line in its sealed package or a closed bag, in a cool place out of direct sun, and keep a pre-wound spare spool ready if your head accepts one. Buy a size you will use within a couple of seasons, and match the diameter to your trimmer rather than to a bargain on an unsuitable size. A spare spool wound in advance turns a mid-job line change from a ten minute chore into a thirty second swap.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>What size trimmer line should I use?</h3>
+<p>Use the diameter range printed on your trimmer head or in the manual. For light home trimming, a thin to medium line is usually right, and heavier line is for stronger machines and tougher growth.</p>
+<h3>Is thicker trimmer line better?</h3>
+<p>Not on every trimmer. Thicker line cuts heavier material but loads the motor and drains the battery. On a small trimmer it can reduce cutting speed.</p>
+<h3>Does line shape matter?</h3>
+<p>Yes. Round is general-purpose, square and star cut more aggressively, twisted is quieter. The best choice depends on the grass and on your motor.</p>
+<h3>Can I use any brand of line in my trimmer?</h3>
+<p>Generally, any line in the approved diameter and a compatible shape will work in a standard head. Pre-wound cartridge systems may limit you to the brand&rsquo;s own spools.</p>
+<h3>Why does my line keep snapping?</h3>
+<p>It may be dry and old, too thin for the job, or striking hard edges. Try fresh line, a tougher shape or a slightly thicker approved size.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Pick the diameter your trimmer was designed for, then choose a shape that suits your job. Round line in a medium size covers most lawns, square or star shapes help on thick weeds when the motor has power to spare, and twisted line suits noise-sensitive yards. Keep line fresh, wind it neatly and replace it before it wears short. When the machine is the weak link, our <a href="/guide/best-cordless-string-trimmers">cordless string trimmer guide</a> can help you pick a model that suits your line of choice.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"trimmer-cutting-line.webp","author":"Posterrr","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Косильна_струна_-_20260808_112337.jpg"},
+    {"image":"trimmer-head-with-line.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Picture_of_man_holding_grass_trimmer_head_with_line_cord.jpg"},
+    {"image":"trimmer-nylon-head.webp","author":"Rasbak","license":"CC BY 2.5","source":"https://commons.wikimedia.org/wiki/File:Maehkopf_nylon.jpg"},
+    {"image":"trimmer-line-spool.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:A_man_is_focused_on_fixing_the_trimmer_coil_using_a_line_cord.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Best Cordless String Trimmers","href":"/guide/best-cordless-string-trimmers"},
+    {"title":"Best Budget String Trimmers","href":"/guide/best-string-trimmers-under-75"},
+    {"title":"String Trimmer vs Edger","href":"/string-trimmer-vs-edger"},
+  ],
+};
+
+export default article;

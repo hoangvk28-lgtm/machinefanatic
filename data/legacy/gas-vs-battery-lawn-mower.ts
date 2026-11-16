@@ -1,0 +1,149 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "gas-vs-battery-lawn-mower",
+  title: "Gas vs Battery Lawn Mower: Which Power Source Fits Your Yard",
+  metaTitle: "Gas vs Battery Lawn Mower: How to Decide",
+  metaDescription: "Compare gas and battery lawn mowers on runtime, noise, maintenance, cold starts and yard size so you can pick the power source that fits.",
+  kicker: "Comparison",
+  heroImage: { src: "/images/articles/mower-closeup-grass.webp", alt: "Petrol walk behind lawn mower standing on a freshly cut lawn in low evening light" },
+  lastUpdated: "2026-11-16",
+  readTime: "14 min",
+  quickAnswer: "For a yard under about half an acre, a battery mower with two batteries now cuts as well as a gas mower and asks for far less upkeep. Gas still wins on very large or very thick lawns because you refuel in a minute and keep mowing. Battery runtime is measured in minutes per charge, so match the pack size to the time your yard actually takes. If you mow more than an acre or cut tall wet grass weekly, buy gas.",
+  html: `<h2 id="the-mistake-most-buyers-make">The mistake most buyers make</h2>
+<p>The most common regret in this category is buying a battery mower with one small pack for a yard that needs forty minutes of cutting. The mower works perfectly for the first twenty-five minutes, then the lawn is left half striped and the owner is standing in the garage waiting on a charger. The opposite regret exists too: a gas mower bought for a small townhouse lawn that sits in the shed for months and refuses to start the first warm Saturday of spring.</p>
+<p>Both mistakes come from comparing the engines instead of comparing the job. Power source is really a decision about how long you mow, how often, how thick the grass gets, and how much upkeep you are willing to do when the machine is not running. Cutting width and yard geometry matter just as much, and those have their own page in <a href="/mower-deck-size-and-yard-size">our deck size and yard size guide</a>. This article stays on the power source question.</p>
+
+<h2 id="how-each-mower-makes-power">How each type makes power</h2>
+<p>A gas mower burns fuel in a small four-stroke engine, usually a single cylinder between roughly 140 and 190 cc on residential models. The engine spins the blade directly and, on self-propelled models, also drives the wheels through a belt or transmission. Output depends on engine displacement and the quality of the governor that holds blade speed steady when the load rises.</p>
+<figure><img src="/images/articles/mower-starting-engine.webp" alt="Hand pulling the recoil starter cord on a petrol lawn mower" width="1400" height="931" loading="lazy" /><figcaption>A recoil start. The pull cord, the choke and the fuel in the tank are three things a battery mower removes from the routine.</figcaption></figure>
+<p>A battery mower uses a brushless electric motor fed by a lithium-ion pack, or two packs working together. The motor controller reads load and raises power when the blade bogs in thick grass, which is why many models advertise an automatic or turbo mode. Because the motor is electric, torque is available instantly, and there is no warm-up, no choke and no fuel system.</p>
+<p>The practical difference is energy storage. A gallon of gasoline holds far more usable energy than any pack a person can lift, so a gas mower&rsquo;s runtime is limited only by the tank you can refill in under a minute. A battery mower&rsquo;s runtime is capped by watt-hours in the pack, and refilling takes an hour or more.</p>
+
+<h2 id="runtime-and-yard-size">Runtime and yard size</h2>
+<p>Runtime is the single deciding spec for most yards. Battery makers publish a runtime for the pack, but that number is almost always measured in light conditions: dry, short grass, flat ground, and often in the lowest power setting. Buyers consistently report real runtime landing well below the headline when they mow damp or overgrown lawn, climb slopes, or leave a self-propel drive running.</p>
+<p>Instead of trusting a single figure, work backwards from your yard. Walk or mow your own lawn once and note the time it takes at your normal pace. Then compare that time to the pack&rsquo;s rated runtime and subtract a margin of about a third for rough conditions. If the result is shorter than your mow time, you need a bigger pack, a second battery, or a gas mower.</p>
+<table>
+<thead><tr><th>Yard condition</th><th>Mow time</th><th>Better fit</th></tr></thead>
+<tbody>
+<tr><td>Small flat lawn, front yard only</td><td>Under 30 minutes</td><td>Battery, single pack is usually fine</td></tr>
+<tr><td>Average suburban lot, mostly flat</td><td>30 to 60 minutes</td><td>Battery with two packs or a high-capacity single pack</td></tr>
+<tr><td>Large lot with slopes</td><td>Over 60 minutes</td><td>Gas, or battery only if you accept swapping and a pause</td></tr>
+<tr><td>Acreage or rough ground</td><td>Over 90 minutes</td><td>Gas, or a ride-on instead of a walk-behind</td></tr>
+</tbody>
+</table>
+<div class="mf-callout"><strong>Rule of thumb:</strong> if your mow time is within ten minutes of the rated runtime, you are guessing. Pick the option with more reserve.</div>
+
+<h2 id="power-and-thick-grass">Power in thick, wet or tall grass</h2>
+<p>Modern battery mowers hold their own in ordinary lawn grass. The weak spot is the worst day of the season: grass that grew past six inches during a rainy week, or a heavy wet cut in spring. Wet clippings are dense, clump under the deck and load the motor continuously, and that drains a pack far faster than a normal cut.</p>
+<p>A gas engine handles that load by burning more fuel, and the penalty is only a thirstier tank. A battery mower handles it by drawing more current, which shortens runtime sharply and can trigger thermal protection if the motor or pack gets hot. Several makers add a boost button to hold blade speed, but boost is intended for short stretches, not for an entire overgrown lawn.</p>
+<p>If your lawn regularly gets tall between cuts, or you mow wet because your schedule leaves no choice, lean gas. If you mow weekly on a normal schedule, battery power is adequate and the engine difference rarely shows up in the finished cut. How the clippings leave the deck also affects load, which is covered in <a href="/mulching-vs-bagging-vs-side-discharge">our mulching, bagging and side discharge comparison</a>.</p>
+
+<h2 id="noise-and-vibration">Noise, vibration and neighbours</h2>
+<p>A gas mower is loud enough to need hearing protection over a long session, and the vibration comes up through the handle into your hands. A battery mower is much quieter, with most of the sound coming from the blade moving air rather than from the motor. Owners often notice they can hold a conversation or hear a phone without stopping.</p>
+<p>Quiet has real consequences. You can mow earlier or later in the day without annoying anyone, some local rules limit gas equipment hours or restrict gas mowers outright, and fatigue after a long cut is lower. If you live on a tight lot, have small children asleep during the day, or simply dislike ear defenders, noise alone can decide it.</p>
+<p>Vibration also matters for anyone with sore hands or wrists. Electric motors have far fewer reciprocating parts, so the handle feels smoother, and that is a bigger comfort gain than the noise figure suggests.</p>
+
+<h2 id="maintenance-and-ownership">Maintenance and ownership reality</h2>
+<p>This is where battery mowers pull ahead for most people. A gas mower needs an annual routine: change the oil, replace the spark plug, check or replace the air filter, sharpen the blade, and deal with the fuel. Ethanol blended gasoline can gum a carburetor if it sits through winter, so the routine also includes fuel stabiliser or running the tank dry before storage.</p>
+<figure><img src="/images/articles/mower-repair-in-garden.webp" alt="Person kneeling beside a green lawn mower working on it in a garden" width="1400" height="2104" loading="lazy" /><figcaption>Oil changes, air filters and spark plugs belong to the petrol side of this comparison. The battery side trades them for charge cycles.</figcaption></figure>
+<p>A battery mower asks for a blade sharpening, a deck rinse, a check of the connectors and a sensible place to store the packs. There is nothing to winterise except keeping the battery at a moderate state of charge, away from freezing and from direct summer heat.</p>
+<table>
+<thead><tr><th>Task</th><th>Gas mower</th><th>Battery mower</th></tr></thead>
+<tbody>
+<tr><td>Oil change</td><td>Yearly or per hours</td><td>None</td></tr>
+<tr><td>Spark plug and air filter</td><td>Yearly</td><td>None</td></tr>
+<tr><td>Fuel handling</td><td>Stabiliser, storage, fresh gas</td><td>None</td></tr>
+<tr><td>Blade sharpening</td><td>Yearly</td><td>Yearly</td></tr>
+<tr><td>Battery care</td><td>Not applicable</td><td>Moderate charge in storage, avoid extreme temperatures</td></tr>
+<tr><td>Starting reliability</td><td>Depends on carburetor and fuel</td><td>Press and go</td></tr>
+</tbody>
+</table>
+<p>Battery packs do age. Lithium-ion cells lose capacity with charge cycles and with heat exposure, and a pack that is four or five seasons old will not deliver its original runtime. That is a future replacement cost, and it should be factored in against the gas mower&rsquo;s recurring consumables.</p>
+
+<h2 id="cold-and-hot-weather">Cold starts and hot weather</h2>
+<p>A gas mower&rsquo;s starting issues are mostly fuel and carburetor problems, not temperature. A fresh tank and a clean carburetor starts the engine reliably down to cool spring temperatures. A battery mower starts instantly in any weather, but the pack itself prefers moderate temperatures. Very cold conditions reduce usable capacity, and very hot conditions can cause the pack to limit power.</p>
+<p>For a lawn mowed in cold shoulder seasons, keep the pack indoors until you are ready to cut and expect shorter runtime on the first cold mow. In midsummer heat, let a hot pack cool before charging, and avoid leaving packs in a car or a closed metal shed.</p>
+
+<h2 id="battery-voltage-and-ecosystem">Battery platform and ecosystem</h2>
+<p>When you buy a battery mower you are also buying into a battery platform. The same pack and charger can often run a trimmer, a blower and a hedge trimmer from the same brand, which spreads the cost. If you already own a set of tools on a platform, that existing investment is a strong tie-breaker.</p>
+<p>Voltage by itself tells you little. A mower on 40 volt or 60 volt or 80 volt with a small pack is not automatically stronger than a lower voltage mower with a larger pack. What counts is the total energy in the packs, measured in amp-hours times volts, and how well the motor and controller use it. Compare watt-hours when the brand lists them, and compare the number of packs in the box.</p>
+<p>If you are shopping inside a platform, our <a href="/guide/best-40v-lawn-mowers">40V mower guide</a> shows how the options compare on pack count and deck size, and the principle carries across to other voltages.</p>
+
+<h2 id="weight-and-handling">Weight, storage and handling</h2>
+<p>Battery mowers are usually lighter than gas models of the same deck width, and many fold their handles flat so they stand upright in a closet or garage corner. That matters if you lift the mower in and out of a truck or a shed. Gas mowers have to stay level in storage to avoid oil and fuel leaks, and they take up a fixed footprint.</p>
+<figure><img src="/images/articles/mower-electric-corded.webp" alt="Red electric lawn mower with its cable running across cut grass" width="1400" height="831" loading="lazy" /><figcaption>An electric mower carries no engine or fuel, which is most of the weight difference you feel at the handle.</figcaption></figure>
+<p>A heavier gas mower can be easier to push on rough ground because mass keeps it steady, and many gas models are available with self-propel that handles slopes with less strain. If drive is the question for you, read our <a href="/self-propelled-vs-push-mower">self-propelled versus push mower comparison</a> before choosing, because the drive system affects battery runtime too.</p>
+
+<h2 id="environment-and-local-rules">Environmental and local considerations</h2>
+<p>A small gas engine has no catalytic converter in most residential mowers, so it releases exhaust directly at your breathing height. Battery mowers emit nothing at the machine. Over a full season the difference in emissions per hour of mowing is meaningful, though the electricity you charge with also has its own source.</p>
+<p>Some cities and regions have adopted rules that restrict or phase out gas-powered yard equipment, or limit the hours they can be used. Before buying a gas mower, check your municipal code and your homeowner association rules. A battery mower removes that uncertainty entirely.</p>
+
+<h2 id="choosing-by-your-situation">Choosing by your situation</h2>
+<table>
+<thead><tr><th>Situation</th><th>Recommended power source</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Small lot, weekly mowing, close neighbours</td><td>Battery</td><td>Quiet, no fuel, short runtime need</td></tr>
+<tr><td>Average suburban lot, you own other battery tools</td><td>Battery with two packs</td><td>Shared platform, covers 30 to 60 minutes</td></tr>
+<tr><td>Over an acre or rough terrain</td><td>Gas</td><td>Refuel and continue, no recharge wait</td></tr>
+<tr><td>Frequent tall or wet grass</td><td>Gas</td><td>Sustained load without runtime collapse</td></tr>
+<tr><td>Mow a few times a year, long storage</td><td>Battery</td><td>No stale fuel or carburetor problems</td></tr>
+<tr><td>Rental property or tight storage space</td><td>Battery</td><td>Folds flat, nothing to winterise</td></tr>
+</tbody>
+</table>
+<p>If you land on gas, compare engines, deck sizes and drive systems in our <a href="/guide/best-gas-lawn-mowers">best gas lawn mowers guide</a>. If you land on battery, start with the pack count and capacity listed on the mower you are considering rather than the voltage badge.</p>
+
+<h2 id="slopes-and-terrain">Slopes, bumps and rough ground</h2>
+<p>Slopes change the power question more than most buyers expect. Climbing a grade with a self-propelled mower draws extra current from the pack on top of the blade load, so a battery mower that comfortably finishes a flat lawn may run out of charge early on a hilly one. Gas engines simply throttle up and burn a little more fuel, with no hidden ceiling.</p>
+<p>Weight distribution matters on a slope as well. Gas engines sit high and add mass at the rear, which can help traction on drive wheels but makes side-hill mowing awkward. Battery packs are often mounted low and centrally, which tends to feel more stable. Whichever you choose, mow across a slope with a walk-behind mower only if the manual allows it, and never mow wet grass on a steep grade.</p>
+<p>Rough ground also affects blade strikes. A hard hit on a root or a stone can bend a blade or shock the motor shaft. Electric motors shut down quickly when the blade stops, which is a safety advantage, while gas mowers rely on the blade brake system and the engine kill lever that the manufacturer specifies.</p>
+
+<h2 id="spec-sheet-traps">Spec sheet traps to avoid</h2>
+<p>A few numbers on battery mower boxes look more informative than they are. Learn to read past them.</p>
+<ul>
+<li><strong>Voltage without capacity:</strong> a high voltage with a small amp-hour rating can hold less total energy than a lower voltage pack with a larger capacity. Multiply volts by amp-hours to get watt-hours.</li>
+<li><strong>Runtime on the lowest setting:</strong> some listings quote runtime at minimum power or without self-propel. Ask what mode the figure applies to.</li>
+<li><strong>Equivalent to a gas engine:</strong> a claim that a motor is equal to a certain engine size has no standard definition. Treat it as a marketing line, not a measurement.</li>
+<li><strong>Batteries not included:</strong> a bare tool listing is cheaper but useless until you add packs and a charger. Check what is in the box.</li>
+<li><strong>Gas engine displacement alone:</strong> two engines of the same size can differ in torque curve and governor quality. Look at how the mower is rated for thick grass and drive wheels rather than the cc figure alone.</li>
+</ul>
+<div class="mf-callout"><strong>Charger speed matters:</strong> a standard charger can take several hours to refill a large pack. If you plan to swap packs mid-mow, a rapid charger shortens the wait and is worth the extra purchase.</div>
+
+<h2 id="total-ownership-over-years">Thinking about total ownership</h2>
+<p>Stand back from the first season and look at five years. A gas mower will consume oil, spark plugs, filters, blades and fuel every year, and will need an occasional carburetor cleaning or a new pull cord. A battery mower will consume blades and electricity, then ask for a replacement pack somewhere in the second half of its life, depending on how hard it is used and how it is stored.</p>
+<p>For a lawn mowed weekly for six or seven months, many owners find the two options come out close, with the battery mower slightly ahead on effort and the gas mower slightly ahead on durability of the power source. For a lawn mowed only a handful of times, the battery mower&rsquo;s lack of fuel problems makes it the safer pick, because gas equipment suffers most when it sits idle.</p>
+<p>Resale and repair also differ. Small engines are easy for any local shop to repair, and parts are standard across brands. Battery mower repairs usually go through the manufacturer, and a dead controller can be uneconomical to fix. Check the warranty length on both the mower and the batteries, since those terms are often different.</p>
+
+<h2 id="hybrid-approach">A hybrid approach that works</h2>
+<p>Plenty of owners split the difference. They keep a small battery mower for quick front-yard cuts and trimming around obstacles, and keep a gas mower for the big back lot. That arrangement trades storage space for convenience, and it is a legitimate answer if your property has two very different lawns.</p>
+<p>A simpler hybrid is a battery mower with a spare pack and a habit of charging one while you mow with the other. That gives effectively unlimited runtime on mid-sized lawns, at the cost of buying the second pack.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Are battery lawn mowers as powerful as gas mowers?</h3>
+<p>For ordinary residential grass cut on a regular schedule, yes. The blade tip speed and cutting quality are comparable on well-built models. Gas retains an edge in sustained heavy loads such as tall wet grass or long continuous mowing.</p>
+<h3>How long does a battery mower last on one charge?</h3>
+<p>It depends on pack capacity, grass condition and whether the self-propel drive is running. Rated runtime usually reflects easy conditions, so plan on noticeably less in a thick or damp lawn. Work out your actual mow time first, then pick a pack or pack count that covers it with margin.</p>
+<h3>Do battery mowers cost less to run?</h3>
+<p>Day to day, yes. You pay for electricity instead of fuel and skip the oil, plugs and filters. The long-term cost to account for is eventual battery replacement, which can come after several seasons of heavy use.</p>
+<h3>Can I use a battery mower in the rain?</h3>
+<p>Mowing wet grass is hard on any mower and leaves clumps. Many battery mowers are built to resist splashing, but they are not made to be submerged or sprayed with a hose. Follow your manual and keep connectors dry.</p>
+<h3>Is gas still the better choice for a big yard?</h3>
+<p>Generally yes. Once a lawn needs more than an hour of continuous cutting, a gas mower avoids the interruption of swapping or recharging packs. A ride-on is often the more sensible choice for acreage.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Buy battery if your mow time is under about an hour, you value quiet and low upkeep, and you can afford a second pack where needed. Buy gas if your lawn is large, hilly, frequently overgrown, or you want one machine that never stops for a recharge. Measure your mow time before you shop, size the packs to that time with a margin, and treat the voltage number as marketing until you have compared watt-hours.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"mower-closeup-grass.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Lawn_mower_on_the_grass_closeup.jpg"},
+    {"image":"mower-starting-engine.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Man_starting_a_lawn_mower_in_a_green_garden.jpg"},
+    {"image":"mower-repair-in-garden.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Man_repairs_lawn_mower_in_garden.jpg"},
+    {"image":"mower-electric-corded.webp","author":"Rasbak","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Electric_lawn_mower_IMG_5496.JPG"},
+  ],
+  relatedLinks: [
+    {"title":"Best Gas Lawn Mowers","href":"/guide/best-gas-lawn-mowers"},
+    {"title":"Best 40V Lawn Mowers","href":"/guide/best-40v-lawn-mowers"},
+    {"title":"What Size Lawn Mower Do I Need","href":"/mower-deck-size-and-yard-size"},
+  ],
+};
+
+export default article;

@@ -1,0 +1,169 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "how-to-sharpen-a-lawn-mower-blade",
+  title: "How to Sharpen a Lawn Mower Blade Safely and Correctly",
+  metaTitle: "How to Sharpen a Lawn Mower Blade",
+  metaDescription: "Step by step lawn mower blade sharpening: safe removal, filing or grinding the edge, checking balance and knowing when to replace the blade.",
+  kicker: "How to",
+  heroImage: { src: "/images/articles/mower-kneeling-inspection.webp", alt: "Person kneeling beside a lawn mower inspecting it in a garden" },
+  lastUpdated: "2026-11-16",
+  readTime: "15 min",
+  quickAnswer: "Disconnect the spark plug or remove the battery, tip the mower the correct way, unbolt the blade and clamp it in a vise. File or grind along the original bevel until the edge is clean and keen, then balance the blade on a nail or a balancer, refit it with the cup facing the deck and tighten the bolt to the maker's torque. Sharpen once or twice per season, and replace the blade if it is bent, cracked or heavily worn. Always follow your own mower manual.",
+  html: `<h2 id="the-short-version">The short version</h2>
+<p>Sharpening a mower blade is a thirty minute job with a vise, a file or bench grinder, a socket wrench and a way to check balance. The sequence is the same on every walk-behind mower: make the machine impossible to start, remove the blade, sharpen the cutting edge, balance it, refit it the right way up and torque the bolt.</p>
+<p>The hard parts are not the filing. They are the safety steps before it, the balance check after it, and knowing when a blade is too worn to sharpen. This page covers all three, and it stays on maintenance. Choosing a mower or discharge mode is covered in other pages such as <a href="/mulching-vs-bagging-vs-side-discharge">our mulching, bagging and side discharge comparison</a>.</p>
+
+<h2 id="why-sharp-matters">Why a sharp blade matters</h2>
+<p>A sharp blade slices grass cleanly across the stem. A dull blade tears and bruises it. The torn tips dry out, turning the lawn a pale, frayed grey-brown a day or two after mowing, and open wounds in the leaf give disease an entry point. You can see this by looking at a cut blade of grass: a clean cut is flat, and a torn one is ragged and split.</p>
+<p>A dull blade also makes the mower work harder. The engine or motor has to push through grass instead of cutting it, and that costs fuel on gas mowers and runtime on battery mowers. Mulching performance falls as well, because a dull blade chops clippings into larger, uneven pieces that clump on the surface.</p>
+<p>If your lawn looks uneven even though the deck height is level, or you see strips of uncut grass between passes, check the blade first.</p>
+
+<h2 id="safety-first">Safety before you touch the blade</h2>
+<p>A mower blade can injure you even when it is stationary, because the edge is sharp, and it can cause serious harm if the engine or motor starts while you work. Treat the preparation as the most important part of the job.</p>
+<figure><img src="/images/articles/mower-starting-engine.webp" alt="Hand pulling the recoil starter cord on a petrol lawn mower" width="1400" height="931" loading="lazy" /><figcaption>Disconnect the spark plug lead before the blade is touched. A turned blade can turn the engine over.</figcaption></figure>
+<ul>
+<li><strong>Gas mower:</strong> let the engine cool, then disconnect the spark plug lead and tuck it away from the plug so it cannot touch. Some owners also close the fuel valve if the mower has one.</li>
+<li><strong>Battery mower:</strong> remove the battery pack and, if there is a safety key, remove the key as well. Store the pack away from the work area.</li>
+<li><strong>Corded electric mower:</strong> unplug it.</li>
+<li><strong>Wear gloves and eye protection.</strong> Cut-resistant gloves help, and safety glasses protect from metal filings and sparks if you use a grinder.</li>
+<li><strong>Work on a stable surface</strong> where the mower cannot slide or tip unexpectedly.</li>
+</ul>
+<div class="mf-callout"><strong>Tipping a gas mower:</strong> most manuals specify which side to tip it on, usually with the air filter and carburetor facing up. Tipping it the wrong way lets oil drain into the air filter or cylinder, which causes smoke and hard starting. Check your manual before you tip.</div>
+
+<h2 id="tools-you-need">Tools and parts you need</h2>
+<table>
+<thead><tr><th>Item</th><th>Purpose</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Socket wrench and extension</td><td>Remove and refit the blade bolt</td><td>Size varies by mower, often 5/8 or 3/4 inch</td></tr>
+<tr><td>Block of wood</td><td>Jam the blade to stop it turning while you loosen the bolt</td><td>Or use a blade removal tool</td></tr>
+<tr><td>Bench vise</td><td>Hold the blade while sharpening</td><td>Clamp it firmly, edge up</td></tr>
+<tr><td>Mill file or bench grinder</td><td>Restore the cutting edge</td><td>File gives more control, grinder is faster</td></tr>
+<tr><td>Blade balancer or nail</td><td>Check balance</td><td>A nail in a wall works</td></tr>
+<tr><td>Torque wrench</td><td>Tighten the blade bolt to spec</td><td>Torque value is in the manual</td></tr>
+<tr><td>Wire brush and rags</td><td>Clean grass and rust off</td><td>Easier to inspect a clean blade</td></tr>
+<tr><td>Marker</td><td>Mark the underside of the blade</td><td>Helps you refit it the right way up</td></tr>
+</tbody>
+</table>
+
+<h2 id="removing-the-blade">Removing the blade</h2>
+<p>With the mower disabled and tipped as the manual specifies, look at the underside. Before loosening anything, mark the side of the blade that faces the ground with a marker or paint. This guards against the most common refitting error, which is installing the blade upside down.</p>
+<figure><img src="/images/articles/mower-repair-in-garden.webp" alt="Person kneeling beside a green lawn mower working on it in a garden" width="1400" height="2104" loading="lazy" /><figcaption>Working at the deck. Note the blade orientation before anything is undone, because refitting it upside down is a common and costly mistake.</figcaption></figure>
+<p>Jam the blade with a block of wood between the blade and the deck so it cannot spin, then turn the bolt counterclockwise with a socket wrench. Most mower bolts use standard right-hand threads, but check the manual, since some models differ. If the bolt is stubborn, a penetrating oil and a few minutes of soak time help, and a breaker bar adds leverage.</p>
+<p>Note the order of parts: bolt, washer, blade, and any adapter or spacer. Take a quick photo of the stack. Some blades have a blade adapter, a metal disc between the blade and the crankshaft, and it must go back in the same order.</p>
+
+<h2 id="inspect-before-sharpening">Inspect before sharpening</h2>
+<p>Clean the blade with a wire brush, and look at it closely before you start to sharpen. A blade that is not safe to sharpen should be replaced, and the inspection tells you which it is.</p>
+<ul>
+<li><strong>Bends:</strong> lay the blade on a flat surface, or sight along it. A bent blade will not cut evenly and creates dangerous vibration. Do not straighten a bent blade, because bending weakens the metal. Replace it.</li>
+<li><strong>Cracks:</strong> look near the centre hole and the bolt holes. A cracked blade can fail at speed, so replace it.</li>
+<li><strong>Deep nicks:</strong> small nicks can be filed out, but deep gouges that remove a lot of metal need the blade replaced.</li>
+<li><strong>Wear on the sail:</strong> the upturned edge at the back of the blade creates the lift. If it has worn thin or has holes from corrosion, the blade will not lift grass well.</li>
+<li><strong>Rust:</strong> surface rust brushes off. Rust that has eaten through the metal is a reason to replace the blade.</li>
+</ul>
+
+<h2 id="sharpening-with-a-file">Sharpening with a file</h2>
+<p>A mill bastard file is the traditional tool and gives you excellent control. Clamp the blade in the vise with the cutting edge facing up and tight against the jaws, so it cannot move. Find the original bevel, the angled surface along the cutting edge, and match the existing angle. Many blades are ground at an angle around 30 to 45 degrees, but follow the factory bevel rather than guessing a number.</p>
+<p>Push the file along the edge in one direction, away from your body, from the inside edge toward the tip. File only on the forward stroke and lift on the return. Count your strokes so that you remove the same amount from each end. Work until the edge looks bright and thin and any nicks disappear, and a light burr forms on the back side.</p>
+<p>You do not need a razor edge. A mower blade should be sharp like a good garden spade, not like a kitchen knife. An overly thin edge dulls quickly and chips on stones. Remove the burr lightly with a pass of the file flat on the back.</p>
+
+<h2 id="sharpening-with-a-grinder">Sharpening with a bench grinder</h2>
+<p>A bench grinder is faster and works well if you are careful. Wear eye protection and gloves, and hold the blade steady against the grinder rest at the original bevel angle. Use light passes and keep the blade moving.</p>
+<p>Heat is the enemy. Overheating the edge turns it blue and softens the steel, so it dulls fast. Dip the blade in water between passes, or pause often to let it cool. Remove the same amount of metal from both ends, so the blade stays balanced, and stop as soon as you have a clean edge.</p>
+<p>An angle grinder or a drill-mounted sharpening attachment can also work, but they are harder to control and easier to overheat or to grind unevenly. For most owners, a file is slower but safer.</p>
+
+<h2 id="balancing-the-blade">Balancing the blade</h2>
+<p>Balance is the step that people skip, and it matters more than a sharp edge. A blade that is heavier on one end spins unevenly, producing vibration that wears the crankshaft bearings on a gas engine or the motor shaft on a battery mower. It also makes the mower shake in your hands.</p>
+<p>The simplest check is to hang the blade on a nail driven into a wall or stud, through the centre hole. A balanced blade stays level. If one end dips, that end is heavier. Remove a small amount of metal from the heavy end, usually from the back of the cutting edge and never from the tip, and recheck. A cone-style blade balancer does the same job and is faster to use.</p>
+<p>Repeat until the blade stays level at any rotation. If a blade is badly out of balance after sharpening, you removed too much from one side. Replace the blade if you cannot restore balance.</p>
+
+<h2 id="refitting-the-blade">Refitting the blade</h2>
+<p>Refit in the reverse order. Check the marks you made: the side you marked faces the ground, and the sail points up toward the deck. Place any adapter or spacer in the same order you removed it, use the original washer and a fresh bolt if the old one is damaged.</p>
+<p>Tighten the bolt to the torque listed in your manual, using a torque wrench. Guessing risks a loose blade that can come off in use or an over-tightened bolt that strips threads. If you do not own a torque wrench, borrow or buy one for this job, because a blade bolt is not a place to guess.</p>
+<p>Turn the blade by hand to check that it clears the deck and spins freely. Then restore the mower to its upright position, reconnect the spark plug lead or battery, and run a short test on a clear patch of lawn.</p>
+
+<h2 id="blade-types">Know which blade you have</h2>
+<p>Mower blades are not all the same shape, and the shape affects how you sharpen and replace them. Knowing the type helps you keep the original geometry.</p>
+<ul>
+<li><strong>Standard or 2-in-1 blades:</strong> a straight cutting edge with a modest sail. They suit side discharge and bagging.</li>
+<li><strong>High-lift blades:</strong> a larger sail that moves more air, for bagging in thick grass and for clearing leaves. They need more engine power and wear their edges faster in sandy soil.</li>
+<li><strong>Mulching blades:</strong> a curved edge with extra cutting surface to recut clippings. Only sharpen along the cutting surfaces the maker intended.</li>
+<li><strong>Multi-piece or shredder blades:</strong> some mowers use two blades stacked, or a blade with extra cutters. Sharpen each piece evenly and keep the stack order unchanged.</li>
+</ul>
+<p>Sharpening should never change the profile of the sail. File only the cutting bevel. If you remove too much metal from the lifting section, you reduce airflow, and the mower will leave clippings behind.</p>
+
+<h2 id="common-mistakes">Common mistakes to avoid</h2>
+<ul>
+<li>Not disconnecting the spark plug or battery, which is the most dangerous mistake on the list.</li>
+<li>Refitting the blade upside down, so the mower tears the grass or barely cuts at all.</li>
+<li>Skipping the balance check and then replacing a bearing or crankshaft because of vibration.</li>
+<li>Grinding too hot and softening the steel.</li>
+<li>Changing the bevel angle dramatically, which can leave a fragile edge or a blunt one.</li>
+<li>Over-tightening or under-tightening the bolt, instead of using the torque value in the manual.</li>
+<li>Tipping a gas mower the wrong way and flooding the air filter with oil.</li>
+</ul>
+<div class="mf-callout"><strong>After a blade strike:</strong> if the mower hits a stone, stump or pipe, stop at once, disable it and inspect the blade and the crankshaft. A bent crankshaft shows up as a wobbling blade and heavy vibration, and the engine should be repaired before the mower is used again.</div>
+
+<h2 id="aftercare-and-storage">Aftercare and storage</h2>
+<p>Once the blade is on, a few habits keep it sharp longer. Scrape or hose off grass from the underside of the deck after mowing, because wet clippings hold moisture against the steel and encourage rust. Wipe the blade with an oiled rag at the end of the season, which leaves a thin protective film.</p>
+<p>Avoid mowing over sticks, acorns and loose stones, and walk the lawn before you mow to pick them up. If you edge along a driveway or curb, keep the deck slightly away from the hard surface, because even a brief contact chips the edge. Following those habits, many owners find that a seasonal sharpening is enough.</p>
+
+<h2 id="professional-sharpening">When to send it out</h2>
+<p>If you do not own a vise, a grinder or the confidence to balance a blade, a local mower shop or hardware store can sharpen and balance it quickly. Professional machines hold the correct angle consistently and balance the blade as part of the service. Many owners find that a swap with a spare blade while the first is serviced is the least disruptive routine, since the mower is only out of use for a few minutes.</p>
+<p>Whichever route you take, treat a sharp blade as a safety item as well as a quality one. It is the one part of the mower that touches everything you cut, and the care you give it shows in the lawn within a single mow.</p>
+
+<h2 id="how-often">How often to sharpen</h2>
+<p>A reasonable schedule is once at the start of the season and once mid-season for an average residential lawn. Sandy soil, lots of twigs and stones, or edging near hard surfaces dulls blades faster, and you may need to sharpen more often. Mowing a rough, bumpy lawn or hitting a rock can nick a blade immediately.</p>
+<p>Signs that the blade needs attention include ragged grass tips, uneven cuts, a lawn that browns at the tips after mowing, more vibration than usual, and more effort or battery drain. If you notice any of these, inspect the blade.</p>
+<p>Keeping a second blade is a practical habit. You can swap in the spare when the first goes dull, and sharpen at leisure. It cuts the downtime and makes it easy to keep one in good condition at all times.</p>
+
+<h2 id="sharpen-or-replace">Sharpen or replace</h2>
+<table>
+<thead><tr><th>Condition</th><th>Action</th></tr></thead>
+<tbody>
+<tr><td>Dull, clean edge, no damage</td><td>Sharpen</td></tr>
+<tr><td>Small nicks</td><td>File out and sharpen</td></tr>
+<tr><td>Bent</td><td>Replace</td></tr>
+<tr><td>Cracks near centre or bolt holes</td><td>Replace</td></tr>
+<tr><td>Sail worn thin or missing</td><td>Replace</td></tr>
+<tr><td>Rust through the metal</td><td>Replace</td></tr>
+<tr><td>Cannot be balanced after sharpening</td><td>Replace</td></tr>
+<tr><td>Cutting edge so worn it is very short</td><td>Replace</td></tr>
+</tbody>
+</table>
+<p>When replacing, use the part listed for your exact mower model. Blades are not interchangeable even when they look similar, because length, centre hole and bolt pattern vary. For mulching, check that the blade type suits your deck, as explained in <a href="/mulching-vs-bagging-vs-side-discharge">our discharge mode comparison</a>.</p>
+<figure><img src="/images/articles/mower-viking-side.webp" alt="Side view of a green walk behind lawn mower parked on a lawn" width="1400" height="1050" loading="lazy" /><figcaption>A blade that has lost its sail or thinned near the tip is past sharpening. At that point it is a replacement, not a maintenance job.</figcaption></figure>
+
+<h2 id="battery-mower-notes">Notes for battery and electric mowers</h2>
+<p>The process is the same on a battery mower, and the safety step is even simpler: remove the battery and, where there is one, the safety key. Some battery mowers use a blade with a special mounting design or a quick-release adapter, so read the manual. Not all brands approve of owner sharpening, and some warranty terms mention blade replacement, so check yours.</p>
+<p>Because motors spin at a fixed high speed, an unbalanced blade shows up as vibration quickly, and battery mowers are often quieter, so vibration is easier to notice. See our page on <a href="/gas-vs-battery-lawn-mower">gas versus battery mowers</a> for broader ownership differences.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>Can I sharpen a mower blade without removing it?</h3>
+<p>You can touch up the edge with a file while it is still on, but you cannot balance it or inspect it properly. Removing the blade is safer and gives a better result.</p>
+<h3>How do I know which side of the blade faces down?</h3>
+<p>The sail, the upturned edge, points toward the deck, and the flat cutting edge faces the ground. Mark the ground-facing side before you remove it so you refit it correctly.</p>
+<h3>Is a bench grinder better than a file?</h3>
+<p>A grinder is faster but easier to overheat and over-grind. A file is slower and gives more control, which suits most home owners. Either works if you keep the angle and the balance.</p>
+<h3>How sharp should a mower blade be?</h3>
+<p>Clean and keen, but not razor sharp. The edge should cut grass cleanly without chipping on small stones. A thin, fragile edge dulls quickly.</p>
+<h3>Can I use a bent blade if I straighten it?</h3>
+<p>No. Bending weakens the steel and a blade that was straightened can fail. Replace any bent blade.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Disable the mower first, mark the blade, remove it, inspect it, and sharpen along the original bevel with a file or a carefully used grinder. Balance the blade before refitting, put it back with the sail toward the deck and torque the bolt to the manual&rsquo;s value. Sharpen once or twice a season, keep a spare blade, and replace anything bent, cracked, rusted through or impossible to balance. A good routine keeps the cut clean and protects the machine, whether it runs on gas or a battery. For help choosing a new mower, see <a href="/guide/best-gas-lawn-mowers">our gas mower picks</a> and <a href="/guide/best-40v-lawn-mowers">our battery mower picks</a>.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"mower-kneeling-inspection.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Man_inspecting_a_lawnmower_while_kneeling_in_a_vibrant_garden.jpg"},
+    {"image":"mower-starting-engine.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Man_starting_a_lawn_mower_in_a_green_garden.jpg"},
+    {"image":"mower-repair-in-garden.webp","author":"Kampus Production","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Man_repairs_lawn_mower_in_garden.jpg"},
+    {"image":"mower-viking-side.webp","author":"Steffen Loewe","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Viking_MB_2_R_lawn_mower_01.jpg"},
+  ],
+  relatedLinks: [
+    {"title":"Mulching vs Bagging vs Side Discharge","href":"/mulching-vs-bagging-vs-side-discharge"},
+    {"title":"Best Gas Lawn Mowers","href":"/guide/best-gas-lawn-mowers"},
+    {"title":"Best 40V Lawn Mowers","href":"/guide/best-40v-lawn-mowers"},
+  ],
+};
+
+export default article;

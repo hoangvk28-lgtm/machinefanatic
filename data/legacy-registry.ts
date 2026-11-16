@@ -43,5 +43,15 @@ export const legacyLoaders: Record<string, () => Promise<Record<string, unknown>
   "solar-panel-degradation-and-warranties": () => import("./legacy/solar-panel-degradation-and-warranties"),
   "solar-panel-watts-vs-actual-output": () => import("./legacy/solar-panel-watts-vs-actual-output"),
   "what-is-bifacial-solar": () => import("./legacy/what-is-bifacial-solar"),
+  "backpack-vs-handheld-vs-walk-behind-blower": () => import("./legacy/backpack-vs-handheld-vs-walk-behind-blower"),
+  "gas-vs-battery-lawn-mower": () => import("./legacy/gas-vs-battery-lawn-mower"),
+  "how-to-sharpen-a-lawn-mower-blade": () => import("./legacy/how-to-sharpen-a-lawn-mower-blade"),
+  "leaf-blower-cfm-vs-mph": () => import("./legacy/leaf-blower-cfm-vs-mph"),
+  "mower-deck-size-and-yard-size": () => import("./legacy/mower-deck-size-and-yard-size"),
+  "mulching-vs-bagging-vs-side-discharge": () => import("./legacy/mulching-vs-bagging-vs-side-discharge"),
+  "self-propelled-vs-push-mower": () => import("./legacy/self-propelled-vs-push-mower"),
+  "single-sided-vs-double-sided-hedge-trimmer": () => import("./legacy/single-sided-vs-double-sided-hedge-trimmer"),
+  "string-trimmer-vs-edger": () => import("./legacy/string-trimmer-vs-edger"),
+  "trimmer-line-sizes-and-shapes-explained": () => import("./legacy/trimmer-line-sizes-and-shapes-explained"),
 };
 export const legacySlugs = Object.keys(legacyLoaders);
