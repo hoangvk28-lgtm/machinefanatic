@@ -539,3 +539,16 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Zwilling vacuum sealers guide covers handheld valve pumps and pump kits only (no heat sealer in data); guide says so.
 - Repetition: a script-based fix glued product names onto fragments and was reverted from backup; redone by hand. After: no 4-word description opening above 5 in either set; remaining 3 to 4 guide repeats are short glossary/maintenance lines and two short con bullets.
 - Checks: audit ok, no 【, tsc ok, build ok. Words 3,000 to 3,434.
+
+### Prefilter skips (2026-11-16)
+| Skipped slug | Reason |
+|---|---|
+| best-panasonic-toaster-ovens | prefilter: only 2 distinct items match brand panasonic after extra searches |
+
+## Round 39 (2026-11-16): air fryers and toaster ovens, 56 guides
+- 30 air fryer guides (scripts/clone/work/r39a.txt, writer A) + 26 toaster oven guides (r39b.txt, writer B), Sonnet only. Includes 2 new budget topics added via add-topics: best-air-fryers-under-200, best-toaster-ovens-under-200.
+- Skips (6): best-compact-microwave-air-fryer-combos (same intent as microwave-air-fryer-combos), best-microwave-toaster-oven-combos (same Toshiba combo lineup as microwave-air-fryer-combos), best-wolf-toaster-ovens (no Wolf machine), best-panasonic-toaster-ovens (2 machines), best-infrared-toaster-ovens (2 real infrared units), best-toaster-ovens-under-30 (1 toaster oven under cap; rest pop-up toasters and bakeware).
+- Type purity: 2-slice guide uses toaster ovens only (no pop-up toasters); roll-top guide uses Hamilton Beach Easy Reach only; 30-quart guide labels the 32 qt NutriChef as near-size.
+- Writer A first missed best-easy-to-use-air-fryers; written in the fix pass. Two fix passes for repetition: no sentence in 3+ guides except a product name fragment; top 4-word description opening = 6.
+- Checks: audit ok, tsc ok, build ok. Words 3,000 to 3,216.
+- Round 40 near-dup skips (marked 2026-11-16): kettles-with-keep-warm-functions, auto-shutoff-electric-tea-kettles, kettles-with-tea-infuser, variable-temperature-kettles, small-electric-tea-kettles, cordless/gooseneck/temperature-control/glass ...-with-auto-shutoff kettles, coffee-makers-without-pods.
