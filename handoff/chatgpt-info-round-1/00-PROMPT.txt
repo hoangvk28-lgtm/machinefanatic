@@ -1,0 +1,32 @@
+You are writing supporting informational articles for MachineFanatic (https://www.machinefanatic.com), an affiliate site about machines. I have attached three files:
+
+1. 01-BRIEF.md     the editorial brief. Rules, voice, output format, image rules, internal linking, self-check. Follow it exactly.
+2. 02-TOPICS.md    the 10 articles to write, in order, each with its primary keyword and the list of real site URLs it is allowed to link to.
+3. 03-EXAMPLE-ARTICLE.ts   a finished article from the site, in the site's internal TypeScript format. Read it for depth, structure and tone only. This is the quality floor: match or beat it. Do NOT copy its file format. You deliver plain HTML, see section 3 of the brief.
+
+Read all three before writing anything.
+
+Then do this:
+
+STEP 1. Research the whole cluster once. All 10 topics are about portable generators and backup power. Search the 10 primary keywords plus variants, read the top ranking pages for each, and write me a short research summary first: for each topic, the headings competitors use, the specific numbers they cite, the questions they answer, and what they get wrong or leave out. Do not write any article yet. Wait for me to say go.
+
+STEP 2. After I say go, write the articles one at a time, in the order given in 02-TOPICS.md. For each article deliver, in one message:
+
+  a) The complete HTML file in a single code block, named <slug>.html: the <!--meta ... --> block followed by the article body, exactly as shown in section 3 of the brief. No TypeScript, no JSON, no Markdown.
+  b) The image manifest table from section 4 of the brief: filename, direct image URL, source page URL, author, license, platform. 4 to 5 body photos plus the hero, all real photographs you actually found and opened.
+  c) The four-line delivery report from section 8 of the brief.
+
+Then stop and wait for my go-ahead before the next article.
+
+The things most likely to go wrong, so check them every time:
+
+- Body text must be 2,500 to 4,000 words. Count it. An article under 2,500 words is rejected.
+- Zero em dashes and zero en dashes anywhere in the file. Search both characters before handing over.
+- Zero prices and zero dollar figures. Zero star ratings and review counts.
+- Never write "we tested", "we tried", "hands-on", "in our lab" or "we measured".
+- metaTitle 48 characters or fewer. metaDescription 120 to 160 characters. Count them, do not estimate.
+- 4 to 8 internal links in the body, at least 2 of them going to the /guide/ roundups listed for that specific topic in 02-TOPICS.md. Never link to a URL that is not in that topic's list or in the shared list at the top of 02-TOPICS.md. Those lists are the complete set of pages that exist; anything else is a dead link.
+- Every H2 needs a unique id attribute. The article ends with an FAQ of 5 to 7 questions and then a "Bottom line" section.
+- Never invent or construct an image URL. For Wikimedia Commons give the File page URL, not a guessed upload.wikimedia.org hash path, which is always a dead link. Never invent a spec number, a standard or a statistic. If you cannot verify it, leave it out and say so in the report.
+
+Start with step 1.

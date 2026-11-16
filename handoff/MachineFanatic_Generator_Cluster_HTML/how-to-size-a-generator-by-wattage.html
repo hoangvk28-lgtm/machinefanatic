@@ -1,0 +1,116 @@
+<!--meta
+slug: how-to-size-a-generator-by-wattage
+title: How to Size a Generator by Wattage
+metaTitle: Generator Wattage Calculator Guide
+metaDescription: Calculate generator size from real running loads, additional motor surge, voltage, outlet limits, and a worksheet you can audit before buying.
+kicker: How-to
+readTime: 17 min
+lastUpdated: 2026-11-19
+hero: gen-open-frame-angle.webp | Red open frame portable generator standing on grass with an extension cord plugged into its outlet panel
+quickAnswer: Add the running watts of every load that may operate together. Then add the largest credible additional starting surge, which is total starting watts minus that appliance's running watts. The generator must pass both the continuous load test and the startup test at the required voltage and through the intended outlet.
+related: Best 30 Amp Generators | /guide/best-30-amp-generators ; Best 50 Amp Generators | /guide/best-50-amp-generators ; Best 3000 Watt Inverter Generator | /guide/best-3000-watt-inverter-generator ; Running Watts vs Starting Watts | /running-watts-vs-starting-watts
+-->
+<h2 id="the-sizing-formula">The sizing formula</h2>
+<p>Generator sizing becomes manageable when every number has one job. Running watts describe the load that remains after equipment starts. Starting watts describe the short demand while a motor or compressor accelerates. Mixing those two columns is the reason many worksheets produce a misleading result.</p>
+<p>Use this sequence:</p>
+<ol><li>Add the running watts of every load expected to operate at the same time.</li><li>For each motor load, subtract running watts from total starting watts to find its additional surge.</li><li>Add the largest credible additional surge to the combined running total.</li><li>Check that the generator meets the continuous total and the startup total.</li><li>Confirm voltage, receptacle, breaker, cord, fuel rating, and environmental derating.</li></ol>
+<p>If the selected loads total 2,400 running watts and the hardest motor adds 1,600 watts above its running demand, the startup requirement is 4,000 watts. The generator needs at least 2,400 running watts and at least 4,000 starting watts under the conditions in which it will be used.</p>
+<div class="mf-callout"><p><strong>Do not add total starting watts twice:</strong> when a motor's running demand is already in the total, add only the difference between its starting and running figures.</p></div>
+<table><thead><tr><th>Worksheet field</th><th>Meaning</th><th>Where to find it</th></tr></thead><tbody><tr><td>Voltage</td><td>Required supply voltage</td><td>Appliance label and manual</td></tr><tr><td>Running watts</td><td>Normal continuous input</td><td>Nameplate, manual, or manufacturer data</td></tr><tr><td>Total starting watts</td><td>Brief total demand at startup</td><td>Manufacturer data or qualified measurement</td></tr><tr><td>Additional surge</td><td>Starting watts minus running watts</td><td>Calculated from the two verified figures</td></tr><tr><td>Operating group</td><td>Loads that can run together</td><td>Your actual outage or work plan</td></tr></tbody></table>
+<figure><img src="/images/articles/clamp-meter-voltage.webp" alt="Clamp meter with its probes in a wall socket reading a voltage on the display" width="1400" height="2023" loading="lazy" /><figcaption>A clamp meter at a socket. A measured figure beats a catalogue estimate whenever you can get one.</figcaption></figure>
+
+<h2 id="step-one-define-the-operating-scenario">Step one: define the operating scenario</h2>
+<p>Do not begin by copying every electrical device in the building. Begin with what will operate during one realistic scenario. A home outage, RV campsite, food trailer, workshop, and construction site have different simultaneous loads even if they own some of the same appliances.</p>
+<p>Make separate groups when operation changes through the day. A home might have an overnight group with refrigeration, furnace blower, lights, and medical equipment, then a cooking group that temporarily replaces a heater with a microwave. A workshop may use dust collection with one large cutting tool at a time.</p>
+<p>Mark loads that can be switched off deliberately and loads that start automatically. Refrigerators, freezers, sump pumps, well pumps, and thermostatically controlled equipment may cycle without warning. Two automatic motors can overlap even if the operator originally started them separately.</p>
+<p>The worst credible operating group, not the sum of everything owned, controls generator size. This distinction prevents both reckless undersizing and unnecessarily large equipment.</p>
+
+<h2 id="step-two-read-real-equipment-data">Step two: read real equipment data</h2>
+<p>Inspect the appliance or tool nameplate for volts, amps, watts, hertz, and phase. Motors may also list horsepower, full load amps, service factor, efficiency, power factor, or locked rotor information. Use the manual when the label does not explain normal and starting input separately.</p>
+<p>If a simple 120 volt resistive appliance lists 10 amps, voltage multiplied by current gives 1,200 volt amps, which is approximately 1,200 watts when power factor is close to one. For motors and electronic power supplies, volts multiplied by amps gives apparent power. Real watts can differ because of power factor.</p>
+<p>Do not size a motor from horsepower alone. Horsepower describes mechanical output, while electrical input must also cover efficiency losses. Starting current depends on motor design, controls, voltage, and the mechanical load being accelerated.</p>
+<p>Generic charts are useful for an early estimate, but appliance models vary. An old refrigerator chart may not describe a modern variable speed compressor. Replace every important default with the actual equipment data before selecting the generator.</p>
+<figure><img src="/images/articles/motor-data-plate.webp" alt="Metal data plate riveted to an electric motor housing showing the type and voltage stamped into it" width="1400" height="1050" loading="lazy" /><figcaption>A motor data plate. This is the input a load list actually needs, and it is on the machine rather than in the manual.</figcaption></figure>
+
+<h2 id="step-three-calculate-running-watts">Step three: calculate running watts</h2>
+<p>Add the continuous demand of the loads in one operating group. The running total answers whether the generator can carry everything after motors have reached speed. It must fit within the generator's running rating, not its larger peak rating.</p>
+<p>Use the rating for the intended fuel. A dual fuel generator can publish one continuous output on gasoline and a lower output on propane. If propane is the emergency plan, the propane running number belongs in the comparison.</p>
+<p>Check whether loads are specified by input or output. A microwave advertised by cooking output can draw more electrical input than the number in its product name. Battery chargers also lose energy during conversion, so battery charging watts and wall input watts are not interchangeable.</p>
+<p>A generator should not be planned to operate at its absolute continuous limit for every hour. Load changes, environmental derating, cord losses, aging, and uncertain appliance data all consume margin. There is no universal margin percentage that replaces accurate information, so document the uncertainties instead of hiding them behind one rule.</p>
+
+<h2 id="step-four-find-additional-starting-surge">Step four: find additional starting surge</h2>
+<p>For each motor or compressor, record total starting watts and normal running watts. Subtract running watts from starting watts. The result is the additional surge imposed on top of the running load already counted.</p>
+<p>Example: a pump uses 1,000 watts after it starts and requires 2,400 total watts during startup. Its additional surge is 1,400 watts. If the rest of the operating group plus the pump totals 2,800 running watts, the startup requirement becomes 4,200 watts.</p>
+<p>This is different from adding 2,400 to 2,800, which would count the pump's 1,000 running watts twice. It is also different from comparing the 2,400 starting figure with the generator while ignoring the other loads that remain on.</p>
+<p>Our explanation of <a href="/running-watts-vs-starting-watts">running and starting watts</a> covers the motor physics and terminology. For this worksheet, the key is keeping total starting demand and additional surge in separate columns.</p>
+<table><thead><tr><th>Example load</th><th>Running watts</th><th>Total starting watts</th><th>Additional surge</th></tr></thead><tbody><tr><td>Refrigerator</td><td>Use actual label or manufacturer data</td><td>Use model data</td><td>Starting minus running</td></tr><tr><td>Sump pump</td><td>Use pump data</td><td>Use pump data</td><td>Starting minus running</td></tr><tr><td>Resistance heater</td><td>Use label input</td><td>Usually near running demand</td><td>Usually little additional surge</td></tr><tr><td>Electronic charger</td><td>Use input rating</td><td>Check manufacturer inrush data if important</td><td>Model dependent</td></tr></tbody></table>
+
+<h2 id="step-five-test-overlapping-starts">Step five: test overlapping starts</h2>
+<p>Using only the single largest surge assumes other large motors will not start at the same moment. That may be acceptable when an operator controls every load. It may be unsafe when a sump pump, refrigerator, freezer, and furnace respond automatically.</p>
+<p>Write a short sequence for each operating group. Ask what is already running when the largest motor starts, then whether another automatic load can start before the first has settled. Include that overlap if it is plausible and cannot be prevented by controls or operating procedure.</p>
+<p>Starting one device at a time after generator startup reduces the initial demand. It does not prevent later cycling. A refrigerator that started alone can restart while a pump is operating several hours later.</p>
+<p>Load management devices can shed selected circuits when demand rises. Their compatibility and installation must be evaluated professionally. Manual discipline is not equivalent to an automatic interlock when critical motors can cycle without warning.</p>
+
+<h2 id="step-six-check-voltage-and-outlets">Step six: check voltage and outlets</h2>
+<p>Total wattage does not prove that the generator can supply the intended load through one receptacle. Verify whether equipment requires 120 or 240 volts, single phase power, and a particular plug or hardwired circuit. Check the generator manual for how output is divided among receptacles and windings.</p>
+<p>A 30 amp outlet, 50 amp outlet, or household receptacle has its own breaker and conductor limits. The generator's running rating may be lower than the theoretical power associated with the connector. The lowest applicable limit controls.</p>
+<p>Extension cords introduce resistance and voltage drop. Size the conductor for current and distance, use outdoor rated equipment, and inspect every connector. A long undersized cord can prevent a motor from starting even when generator wattage appears sufficient.</p>
+<p>For moderate portable systems, compare connections and output in our <a href="/guide/best-30-amp-generators">30 amp generator guide</a>. Larger panel connections may require equipment from the <a href="/guide/best-50-amp-generators">50 amp generator guide</a>, but connector class remains only one part of the calculation.</p>
+<figure><img src="/images/articles/gen-tri-fuel-panel.webp" alt="Firman tri fuel generator on grass with its control panel, battery and fuel hose visible" width="1400" height="1265" loading="lazy" /><figcaption>A generator control panel. Total output means little if the outlet you need cannot carry the circuit you want to feed.</figcaption></figure>
+
+<h2 id="step-seven-adjust-for-conditions">Step seven: adjust for operating conditions</h2>
+<p>Combustion engines lose available power as air density falls. Altitude and high temperature can reduce output, while maintenance condition, fuel quality, and restricted airflow can make the loss worse. Use the generator manufacturer's derating instructions for the planned location.</p>
+<p>Propane operation can reduce rated output compared with gasoline on the same engine. Natural gas commonly reduces it further on tri fuel equipment. Never apply a generic percentage when the manufacturer publishes separate fuel ratings.</p>
+<p>Cold weather affects starting, oil viscosity, batteries, and propane vaporization. A small propane cylinder may not vaporize fuel quickly enough for a large engine under heavy load in cold conditions. Tank and regulator planning belongs beside wattage planning.</p>
+<p>Equipment condition changes the load too. A pump with mechanical resistance, a compressor restarting against pressure, or a motor supplied with low voltage can draw high current longer. Generator capacity should not be used to conceal a machine fault.</p>
+
+<h2 id="worked-example">Worked example</h2>
+<p>Consider an operating group with verified running demand of 2,150 watts. It includes lighting and electronics, one refrigerator, and one pump. The refrigerator adds 900 watts above its running demand during startup, while the pump adds 1,500 watts.</p>
+<p>If only one of those motors can start at a time, use the larger 1,500 watt additional surge. The generator requirement is at least 2,150 running watts and 3,650 starting watts. A machine advertised as 3,500 peak watts would fail the startup test even though its headline number exceeds the running total.</p>
+<p>If the refrigerator and pump can start together, add their credible overlapping additional surge instead. The requirement could rise to 4,550 starting watts. Whether that overlap belongs in the design depends on controls, actual timing, and the consequence of a failed start.</p>
+<p>A unit in the <a href="/guide/best-3000-watt-inverter-generator">3,000 watt inverter generator class</a> may carry the continuous total but still lack the necessary surge for this example. Model selection begins only after both figures are known.</p>
+<div class="mf-callout"><p><strong>Worksheet verdict:</strong> reject a generator if it fails either the running test, startup test, voltage test, or outlet test. Passing three out of four is still an incompatible system.</p></div>
+
+<h2 id="common-calculator-errors">Common calculator errors</h2>
+<ul><li><strong>Using peak generator watts as continuous output.</strong> Peak capacity is temporary.</li><li><strong>Adding total starting watts to a total that already contains running watts.</strong> This double counts the motor.</li><li><strong>Adding every surge automatically.</strong> Include starts that can realistically overlap.</li><li><strong>Ignoring voltage.</strong> Enough watts at 120 volts cannot directly serve a 240 volt load.</li><li><strong>Using output instead of input watts.</strong> Microwaves, chargers, and power supplies can display both.</li><li><strong>Trusting old appliance charts.</strong> Models and technologies vary.</li><li><strong>Ignoring fuel specific ratings.</strong> Gasoline and propane output may differ.</li><li><strong>Ignoring outlet and cord limits.</strong> Total output may not be available through one connection.</li></ul>
+<p>A calculator is only as reliable as its inputs. A polished interface cannot identify an unknown well pump or know which appliances the household intends to operate together. Preserve the source beside each figure so the final result can be audited.</p>
+<figure><img src="/images/articles/fridge-compressor.webp" alt="Sealed black refrigerator compressor with its wiring still attached" width="1400" height="790" loading="lazy" /><figcaption>A sealed refrigerator compressor. Leaving its starting surge out of the worksheet is the most common way a sizing calculation goes wrong.</figcaption></figure>
+
+<h2 id="electrical-and-carbon-monoxide-safety">Electrical and carbon monoxide safety</h2>
+<p>Operate combustion generators outdoors at least 20 feet from buildings, with exhaust directed away from doors, windows, vents, and neighboring structures. Never use a generator in a garage, basement, shed, porch, carport, or other enclosed or partly enclosed space.</p>
+<p>Keep the generator dry without restricting airflow or trapping exhaust. Shut it down and allow it to cool before refueling. Install and maintain carbon monoxide alarms according to their instructions.</p>
+<p>Do not backfeed a home through a receptacle. A panel connection requires approved transfer equipment, a proper inlet, compatible breakers, and correct neutral and grounding treatment installed by a qualified electrician.</p>
+<p>Wattage calculations do not authorize electrical work. Follow the generator manual, appliance manuals, local codes, and professional installation requirements.</p>
+
+<h2 id="between-two-generator-sizes">When the number lands between two sizes</h2>
+<p>A finished worksheet rarely matches a model on the shelf. More often it falls between two, and the choice then is not arithmetic but judgement about which way the error should point.</p>
+<p>Round up when the load list contains a motor whose starting requirement you estimated rather than read, when two automatic loads can call at the same time, or when the list is likely to grow. A well pump and a furnace do not ask permission before starting together, and the cost of being short is a tripped breaker in the middle of the night.</p>
+<p>Round down when every figure came off a nameplate, when the large loads are manual and you can stage them yourself, and when the outage plan is a short list of essentials rather than whole house operation. A generator running near its rated output is working as designed. One running at a small fraction of its rating burns fuel to produce heat and noise, and on a conventional machine it can glaze cylinder walls over long periods of light load.</p>
+<p>If the gap between the two sizes is wide, take the smaller machine and shorten the load list rather than buying capacity you will carry, fuel and maintain for years.</p>
+
+<h2 id="document-the-final-calculation">Document the final calculation</h2>
+<p>Keep one clean worksheet with the source of every number. Record the appliance model, voltage, running input, starting data, fuel specific generator rating, and date the information was checked. This makes later updates possible without rebuilding the entire calculation.</p>
+<p>Mark estimated values clearly. A result built from three verified labels and one guessed pump is still limited by the guessed pump. Resolve the uncertain item before purchasing equipment when its surge can change generator class.</p>
+<p>Update the sheet after replacing a refrigerator, pump, HVAC unit, or generator. Store it with the manuals and transfer system instructions so another operator can understand which circuits were intended to run together.</p>
+<p>Add a second column for observed behavior after the system is commissioned. Note whether motors start cleanly, whether voltage indicators sag, and which loads were operating. Observation can reveal an incorrect estimate, but it should be used to improve the documented calculation rather than justify an overload.</p>
+<p>Review the worksheet before each storm season. Fuel choice, stored cords, appliance priorities, and household medical needs can change even when the generator has not.</p>
+<p>Keep both the original sources and the final totals available for the electrician.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>What is the basic generator sizing formula?</h3>
+<p>Add the running watts of simultaneous loads, then add the largest credible additional starting surge. Additional surge equals total starting watts minus that appliance's running watts.</p>
+<h3>Should I add 20 percent extra capacity?</h3>
+<p>A fixed percentage is not a universal engineering rule. Provide margin for uncertain data, environmental derating, automatic overlap, and practical operation, but do not use margin to replace accurate load information.</p>
+<h3>Can I use volts times amps to find watts?</h3>
+<p>Volts times amps gives apparent power in volt amps. It closely approximates watts for simple resistive loads with power factor near one, but motors and electronic loads can differ.</p>
+<h3>Why does a calculator ask for starting watts?</h3>
+<p>Motors and compressors can draw much more power while accelerating than during normal operation. The generator must carry that brief event while continuing to supply the other running loads.</p>
+<h3>Do all appliances start at the same time?</h3>
+<p>Usually not, but automatic loads can overlap. The worksheet should include starts that are reasonably possible, not every theoretical combination and not an assumption of perfect sequencing.</p>
+<h3>Can I size from the generator outlet amperage?</h3>
+<p>No. Outlet current is one limit, while generator running watts, starting watts, voltage, breaker rating, and winding configuration impose others. The lowest applicable limit controls.</p>
+<h3>Should propane ratings be calculated differently?</h3>
+<p>The load calculation is the same, but compare it with the generator's published propane output. Do not use the larger gasoline rating when propane will be the operating fuel.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Build generator size from an auditable operating group. Add verified running watts, add the largest credible additional surge, test overlapping automatic starts, and confirm voltage and outlet limits. Then compare the result with the rating for the intended fuel and location. A generator is correctly sized only when it passes every one of those checks.</p>

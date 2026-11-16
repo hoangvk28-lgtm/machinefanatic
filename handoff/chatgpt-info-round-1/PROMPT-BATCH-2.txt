@@ -1,0 +1,64 @@
+Batch 2, the next ten articles in the same generator and portable power cluster. Same brief, same format as batch 1, with four corrections I need you to apply from the start. Reuse the research you already did for this cluster and extend it to power stations, inverters and RV power.
+
+WRITE THESE TEN, IN THIS ORDER
+
+Each entry gives the slug, the primary keyword, and the complete list of /guide/ URLs that article may link to. Those lists are the only /guide/ pages that exist for these topics. Anything else is a dead link.
+
+ 1. portable-power-station-vs-generator | power station vs generator
+    /guide/best-power-station  /guide/best-lifepo4-power-stations  /guide/best-power-stations-for-rvs  /guide/best-power-station-under-100
+ 2. what-is-lifepo4-and-why-it-matters | lifepo4 vs lithium ion
+    /guide/best-lifepo4-power-stations  /guide/best-lifepo4-solar-generators
+ 3. power-station-watt-hours-explained | watt hours explained
+    /guide/best-power-station  /guide/best-lifepo4-power-stations  /guide/best-power-stations-for-rvs  /guide/best-power-station-under-100
+ 4. pure-sine-wave-vs-modified-sine-wave | pure sine wave vs modified sine wave
+    /guide/best-rv-inverter  /guide/best-camping-inverters  /guide/best-quiet-rv-inverter  /guide/best-inverter-generator
+ 5. how-to-size-an-inverter-for-your-loads | what size inverter do i need
+    /guide/best-rv-inverter  /guide/best-camping-inverters  /guide/best-quiet-rv-inverter  /guide/best-inverter-generator
+ 6. 12v-vs-24v-vs-48v-systems | 12v vs 24v vs 48v
+    /guide/best-rv-inverter  /guide/best-rv-solar-panel  /guide/best-solar-generator  /guide/best-camping-inverters
+ 7. generator-break-in-and-maintenance-schedule | generator maintenance
+    /guide/best-rv-generator  /guide/best-solar-generator  /guide/best-30-amp-generators  /guide/best-50-amp-generators
+ 8. how-to-store-a-generator-off-season | generator storage
+    /guide/best-rv-generator  /guide/best-solar-generator  /guide/best-30-amp-generators  /guide/best-50-amp-generators
+ 9. solar-generator-vs-gas-generator | solar generator vs gas generator
+    /guide/best-solar-generator  /guide/best-rv-solar-generator  /guide/best-240v-solar-generators  /guide/best-300w-solar-generators
+10. what-is-a-30-amp-vs-50-amp-rv-hookup | 30 amp vs 50 amp rv
+    /guide/best-30-amp-generators  /guide/best-50-amp-generators  /guide/best-rv-generator  /guide/best-rv-inverter
+
+The ten articles from batch 1 are now live URLs and are good link targets. Use them where they genuinely help: /running-watts-vs-starting-watts, /what-size-generator-to-run-a-house, /inverter-generator-vs-conventional-generator, /how-to-size-a-generator-by-wattage, /dual-fuel-generator-pros-and-cons, /tri-fuel-and-propane-generator-explained, /generator-carbon-monoxide-safety, /how-to-safely-connect-a-generator-to-a-house, /generator-thd-and-sensitive-electronics, /how-long-will-a-generator-run-on-a-tank. The articles in this batch may also link to each other.
+
+CORRECTION 1, THE IMAGE MANIFEST. This is the part of batch 1 I had to redo entirely.
+
+In batch 1 you returned 51 filenames that pointed at only 18 source photos. One photo appeared under eight different filenames, each with alt text describing a scene that photo does not contain. A regulator close up was captioned as a generator connected to a propane cylinder. A refrigerator compressor was captioned as a sump pump. A photo of generators on a shop shelf, with retail price tags legible in the frame, was captioned as a generator placed safely away from a house. None of that was usable.
+
+So, for this batch:
+
+- One filename equals one distinct source photo. Never rename the same photo twice. If you have ten figure slots, you need ten different photographs.
+- Write the alt text and the caption from what is actually in the frame, not from what the section needs. Open the photo and describe it. If the only true description of a photo does not fit the section, that is the wrong photo, so find another or leave the slot out.
+- Reject any photo with a price tag, a price sticker or a shelf label visible anywhere in the frame. The site never displays prices.
+- Reject any photo with text, arrows or labels drawn on top of it. That is a diagram, not a photograph.
+- Reject any photo that is a product listing shot on a white background, watermarked, or carrying a retailer logo.
+- A photo whose subject sits in a laboratory, a factory or a shop display is usually the wrong photo for a consumer article even when the hardware is technically correct. Prefer a real home, yard, campsite, van or workshop.
+- If you cannot find four honest photographs for an article, deliver three and say which slot you could not fill and what you searched. Three true photos beat five captioned wrongly.
+
+Useful note from batch 1: Wikimedia Commons category trees were far more productive than keyword search. Category:Electric generators, Category:Uninterruptible power supplies, Category:Oscilloscopes, Category:Electrical wiring and Category:Propane all contained usable photographs that keyword search never surfaced.
+
+CORRECTION 2, WORD COUNT. Batch 1 landed at 2,486 to 2,938 words, with seven articles sitting within ten words of the 2,500 floor, and three reports claimed a higher count than the file actually contained. Aim for 2,800 to 3,200 words of body text this time and count honestly. If your count and the real count differ, the real count is the one that gets checked.
+
+CORRECTION 3, THE HERO. Give each article a hero photo that is not also used as a figure inside that same article, and vary heroes across the ten. In batch 1 several heroes were the same photo as a figure further down the page.
+
+CORRECTION 4, DO NOT REPEAT THE STRUCTURE. Batch 1's ten articles all opened the same way, with a definition section followed by a mechanism section. Vary it. Some articles should open on the mistake people make, some on a question, some on a direct comparison, some on a failure that happens in the field.
+
+EVERYTHING ELSE IS UNCHANGED
+
+Plain HTML per article, named <slug>.html: the <!--meta ... --> block exactly as in batch 1, then the body. No TypeScript, no document wrapper, no h1, no table of contents, no byline, no date line, no image credits inside the body.
+
+Per article: unique id on every h2, 4 to 5 figure blocks, an FAQ of 5 to 7 questions under <h2 id="faq">, a <h2 id="bottom-line"> section last, at least one comparison table, one or two <div class="mf-callout"> tips, a safety section wherever the topic touches electricity, fuel, exhaust or batteries.
+
+4 to 8 internal links in the body, at least 2 of them to that article's own /guide/ list, placed where the buying decision comes up rather than at the end. metaTitle 48 characters or fewer, metaDescription 120 to 160 characters, both counted not estimated. Zero em dashes and zero en dashes anywhere in the file. Zero prices and dollar figures. Zero star ratings and review counts. Never "we tested", "we tried", "hands-on", "in our lab", "we measured".
+
+Deliver per article: the HTML code block, the image manifest table, and the four line report. For Wikimedia Commons give the File page URL in both URL columns, never a constructed upload.wikimedia.org hash path, which is always a dead link. Every URL must be a page you actually opened.
+
+Write them in order. You will not fit ten articles of 3,000 words in one message, so finish the article you are on, end with exactly PAUSED AFTER ARTICLE N, and wait for me to say continue from article N+1. Never shorten an article to make it fit.
+
+Start with article 1, portable-power-station-vs-generator.

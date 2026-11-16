@@ -1,0 +1,132 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "generator-carbon-monoxide-safety",
+  title: "Generator Carbon Monoxide Safety",
+  metaTitle: "Generator Carbon Monoxide Safety",
+  metaDescription: "Place and operate a portable generator safely using the 20 foot rule, exhaust direction, CO alarms, shutoff sensors, and emergency response steps.",
+  kicker: "Explainer",
+  heroImage: { src: "/images/articles/gen-open-frame-angle.webp", alt: "Red open frame portable generator standing on grass with an extension cord plugged into its outlet panel" },
+  lastUpdated: "2026-11-22",
+  readTime: "17 min",
+  quickAnswer: "Run every portable combustion generator outdoors at least 20 feet from a home or RV, with exhaust directed away from doors, windows, vents, and neighboring structures. Never operate one in a garage, shed, porch, carport, basement, or crawlspace. Install working carbon monoxide alarms on every level and outside sleeping areas, because an onboard generator shutoff is only a backup layer.",
+  html: `<h2 id="the-20-foot-rule">The 20 foot rule</h2>
+<p>Place a portable generator outdoors at least 20 feet from the home, RV, garage, or other occupied building. Point the exhaust away from doors, windows, vents, crawlspace openings, soffits, and neighboring structures. This is the current conservative guidance from the United States Consumer Product Safety Commission.</p>
+<p>Distance alone is not enough. Wind can carry exhaust toward an opening, and pressure differences can pull contaminated air indoors. Inspect the entire area before starting, then recheck when wind changes or doors and windows are opened.</p>
+<p>A generator should not sit in a garage with the door open, on a covered porch, beneath a deck, inside a shed, or under a carport. Those spaces can trap exhaust or direct it into the building. Carbon monoxide can accumulate rapidly even when a location feels ventilated.</p>
+<table><thead><tr><th>Location</th><th>Acceptable?</th><th>Why</th></tr></thead><tbody><tr><td>Outdoors at least 20 feet away, exhaust facing away</td><td>Yes, when weather and openings are also managed</td><td>Provides separation and directs exhaust away</td></tr><tr><td>Garage with door open</td><td>No</td><td>Exhaust can accumulate and enter the home</td></tr><tr><td>Covered porch or carport</td><td>No</td><td>Roof and walls can trap or recirculate exhaust</td></tr><tr><td>Shed or homemade sound box</td><td>No</td><td>Concentrates CO and restricts engine cooling</td></tr><tr><td>Near an open window or vent</td><td>No</td><td>Exhaust can enter directly</td></tr><tr><td>Inside an RV storage compartment</td><td>No for a portable generator</td><td>Portable units are not engineered for built in compartments</td></tr></tbody></table>
+<figure><img src="/images/articles/gen-tri-fuel-panel.webp" alt="Firman tri fuel generator on grass with its control panel, battery and fuel hose visible" width="1400" height="1265" loading="lazy" /><figcaption>A portable generator set up in the open. Distance from the building is the first and cheapest control against carbon monoxide.</figcaption></figure>
+
+<h2 id="why-generator-exhaust-is-so-dangerous">Why generator exhaust is so dangerous</h2>
+<p>Carbon monoxide is a colorless, odorless gas produced by incomplete combustion. A person cannot see it, smell it, or judge its concentration without a detector. Engine exhaust may have other odors, but the absence of smell does not mean CO is absent.</p>
+<p>CO binds to hemoglobin and interferes with oxygen delivery through the body. Headache, dizziness, weakness, nausea, vomiting, chest pain, sleepiness, and confusion can appear as exposure rises. A sleeping person may not recognize the warning signs.</p>
+<p>CPSC reports that one portable generator can produce as much carbon monoxide as hundreds of cars. It also reports more than 100 annual non fire CO deaths linked to portable generators among consumer product incidents. The small engine does not imply a small exhaust hazard.</p>
+<p>People often make the comparison with an idling car and conclude that an open garage is adequate. It is not. Both car and generator exhaust can be lethal, and a generator may run for many hours while people sleep nearby.</p>
+
+<h2 id="how-exhaust-enters-a-building">How exhaust enters a building</h2>
+<p>Open windows and doors are obvious entry points, but exhaust can also enter through dryer vents, bathroom exhaust outlets, combustion air openings, attic vents, crawlspace vents, gaps around utilities, and poorly sealed foundations. A generator placed below a window can send warm exhaust upward toward it.</p>
+<p>Wind creates positive pressure on one side of a building and suction on another. Exhaust released outdoors can wrap around a corner or collect between closely spaced buildings. Calm air can allow a plume to linger near the ground.</p>
+<p>Exhaust direction must be checked at the actual muffler outlet, not inferred from the generator handle or control panel. Keep the outlet pointed into clear open space. Do not aim it at a fence, vehicle, neighboring home, tent, or RV.</p>
+<p>Snow banks, tarps, walls, and improvised rain shelters can change airflow after the generator is positioned. Maintain the clearances in the manual and keep the exhaust path open throughout operation.</p>
+<figure><img src="/images/articles/gen-open-frame-side.webp" alt="Side view of the same portable generator showing its engine, air cleaner and fuel tank" width="1400" height="1050" loading="lazy" /><figcaption>The engine side of a portable generator. Exhaust leaves close to the ground, where it can drift toward a vent, a window well or an open door.</figcaption></figure>
+
+<h2 id="garages-sheds-and-porches-fail">Why garages, sheds, and porches fail</h2>
+<p>An open garage door does not turn the garage into open air. Exhaust can strike the ceiling, mix with indoor air, and move through the door connecting the garage to the house. Wind can push the plume deeper inside rather than carrying it out.</p>
+<p>A shed creates a concentrated source. Opening its doors or adding a fan cannot guarantee safe dilution, and the enclosure may overheat the engine. A homemade exhaust pipe can leak, loosen, transfer heat to combustible material, or create backpressure.</p>
+<p>A porch or carport has a roof that can trap rising exhaust. Adjacent walls and the house itself restrict dispersal. Windows above the generator can draw contamination indoors even when the unit sits several feet from the wall.</p>
+<p>The correct solution is distance in open air, not better ventilation of an unsuitable location. Weather protection must be manufacturer approved and designed without enclosing the generator or redirecting exhaust toward the building.</p>
+<div class="mf-callout"><p><strong>An open door is not a safety system:</strong> if the generator has a roof, wall, garage, porch, or shed around it, move it to open outdoor space.</p></div>
+
+<h2 id="co-alarms-inside-the-home">CO alarms inside the home</h2>
+<p>Install battery operated CO alarms or alarms with battery backup on every level and outside sleeping areas. Follow the alarm manufacturer's placement instructions because distance from walls, ceilings, fuel burning appliances, bathrooms, and vents can affect performance.</p>
+<p>Interconnected alarms provide an advantage because one detecting unit can warn the entire home. This matters during an outage when doors are closed, fans are off, and occupants may be asleep on different floors.</p>
+<p>Test alarms monthly and replace batteries and complete units according to their instructions. CO sensors have a finite service life. A device that beeps when its button is pressed may still be past its replacement date.</p>
+<p>Do not place one household alarm beside the generator as a substitute for indoor protection. The alarm system is intended to warn occupants if CO reaches living areas. Outdoor generator sensors serve a different function.</p>
+<figure><img src="/images/articles/carbon-monoxide-alarm.webp" alt="Round carbon monoxide alarm lying on a wooden surface with its test button visible" width="1400" height="1050" loading="lazy" /><figcaption>A carbon monoxide alarm. It belongs inside the house near the sleeping areas, not in the garage with the machine.</figcaption></figure>
+
+<h2 id="onboard-co-shutoff-sensors">Onboard CO shutoff sensors</h2>
+<p>Many current portable generators include a sensor that stops the engine when high carbon monoxide is detected near the unit. Current PGMA G300 and UL 2201 standards address automatic shutoff, and UL 2201 also includes reduced CO emissions requirements.</p>
+<p>This technology can interrupt a dangerous event, but it is not a permit for indoor or near building operation. Sensor location, wind, exhaust movement, contamination, calibration, and restart behavior all affect what happens. The unit may shut down before power is restored safely, or household CO may rise from a plume the generator sensor does not sample.</p>
+<p>If the CO shutdown activates, do not simply restart the generator. Turn off loads, move people to fresh air if exposure is possible, inspect placement and wind, and follow the manual. Treat the shutdown as evidence of a hazardous condition.</p>
+<p>Look for certification to the current applicable standard rather than relying only on a marketing name for the sensor. Maintain the system and never cover, bypass, relocate, or disable it.</p>
+
+<h2 id="fuel-does-not-remove-co-risk">Fuel does not remove CO risk</h2>
+<p>Gasoline, propane, and natural gas engines all produce carbon monoxide. Propane may burn differently and avoid gasoline storage deposits, but it does not make portable generator exhaust safe to breathe.</p>
+<p>Dual fuel and tri fuel owners sometimes place a unit closer when using propane or natural gas. That is unsafe. Use the same outdoor 20 foot placement and exhaust direction for every combustion fuel.</p>
+<p>Battery power stations and solar generators do not produce engine exhaust during use and can operate indoors according to their battery and electrical safety instructions. Their inverter output and stored energy must still be sized for the load.</p>
+<p>Readers comparing fuel flexible machines should use the <a href="/guide/best-dual-fuel-generators">dual fuel generator guide</a> without treating fuel type as a placement exception.</p>
+
+<h2 id="rv-camping-and-tailgating-risks">RV, camping, and tailgating risks</h2>
+<p>Portable generators should not run beneath an RV awning, in a storage bay, between closely parked vehicles, or near tent openings. Exhaust can enter roof vents, windows, doors, and underbody gaps. Neighboring campers may be closer to the exhaust than the owner.</p>
+<p>Built in RV generators use engineered compartments and exhaust systems. That does not make a portable generator safe in the same compartment. Portable units lack the installation specific ducting, shielding, cooling, and exhaust routing.</p>
+<p>Use a long correctly rated outdoor cord to gain distance without creating excessive voltage drop. Secure the generator against movement and theft without blocking airflow. Follow campground generator hours and never sacrifice placement to reduce noise for a neighbor.</p>
+<p>Our <a href="/guide/best-rv-generator">RV generator guide</a> compares suitable output and connections, but safe placement remains mandatory for every portable combustion model.</p>
+<figure><img src="/images/articles/gen-inverter-enclosed.webp" alt="Compact 2300 watt inverter generator in a closed plastic shell standing on pavement" width="1400" height="1345" loading="lazy" /><figcaption>A compact inverter generator of the kind used at campsites. Being quiet is exactly what makes it easy to forget it is still producing exhaust.</figcaption></figure>
+
+<h2 id="weather-protection-without-enclosure">Weather protection without enclosure</h2>
+<p>Generators and electrical connections must be protected from rain and standing water, but enclosing the engine creates a CO and heat hazard. Follow the manufacturer's wet weather instructions and use only a cover or canopy designed for safe operation when permitted.</p>
+<p>A tarp draped over a generator can contact hot exhaust, restrict cooling, and direct fumes. A plastic storage box can melt or trap dangerous concentrations. Never improvise weather protection around a running engine.</p>
+<p>Place the generator on a stable dry surface where water cannot pool. Keep plugs and cord connections off wet ground. Use ground fault protection where required and do not handle electrical equipment while standing in water.</p>
+<p>Storm wind can move rain and exhaust in unexpected directions. Recheck the site periodically without approaching the exhaust plume. Shut down if safe placement and weather protection cannot both be maintained.</p>
+
+<h2 id="what-to-do-if-an-alarm-sounds">What to do if an alarm sounds</h2>
+<ol><li>Move everyone, including pets, into fresh outdoor air immediately.</li><li>Call emergency services and report possible carbon monoxide exposure.</li><li>Do not reenter the building until emergency personnel say it is safe.</li><li>Do not drive yourself if symptoms are present. Arrange emergency transport.</li><li>Have the generator placement and building checked before restarting.</li></ol>
+<p>Do not search the home for the source before leaving. Confusion and weakness can worsen quickly. Fresh air and emergency assessment come first.</p>
+<p>If a person is unconscious, do not enter a contaminated area without trained rescue equipment. Call emergency services. A second victim cannot perform a rescue.</p>
+<p>Medical evaluation matters because symptoms can resemble flu, food poisoning, exhaustion, or stress. Multiple people developing similar symptoms during generator use is a particularly serious warning.</p>
+<div class="mf-callout"><p><strong>Alarm response:</strong> get outside first, call emergency services second, investigate only after professionals declare the area safe.</p></div>
+
+<h2 id="a-pre-outage-safety-checklist">A pre outage safety checklist</h2>
+<ul><li>Choose an outdoor location at least 20 feet from the building.</li><li>Identify the exact exhaust outlet and safe direction.</li><li>Check all nearby doors, windows, vents, soffits, and neighbor openings.</li><li>Install and test indoor CO alarms on every level and outside sleeping areas.</li><li>Read the generator's CO sensor and shutdown instructions.</li><li>Prepare manufacturer approved weather protection.</li><li>Inspect cords and plan routes that avoid water and trip hazards.</li><li>Store fuel safely and plan cooling time before refueling.</li><li>Teach every household member the alarm evacuation procedure.</li><li>Keep emergency numbers available when cellular service is disrupted.</li></ul>
+<p>Complete this work before storm season. Darkness, wind, rain, and urgency make safe placement harder. A marked generator location and prepared cord route reduce improvisation.</p>
+
+<h2 id="electrical-safety-still-matters">Electrical safety still matters</h2>
+<p>Moving the generator farther away often requires longer cords. Use conductors sized for current and distance to limit voltage drop and heating. Keep connections dry and inspect insulation before use.</p>
+<p>Never backfeed a building through a wall receptacle. A home connection requires a proper inlet and approved transfer equipment installed by a qualified electrician. See <a href="/how-to-safely-connect-a-generator-to-a-house">how to connect a generator to a house safely</a> for the electrical architecture.</p>
+<p>Shut the generator down before moving it. Hot exhaust and spilled fuel create additional hazards. Let the engine cool before refueling or storing it.</p>
+<p>Quieter machines can reduce pressure to move a generator closer to occupants. Our <a href="/guide/best-inverter-generators">inverter generator comparison</a> includes enclosed options, but no sound level changes the 20 foot placement rule.</p>
+
+<h2 id="common-failure-patterns">Common failure patterns to prevent</h2>
+<p>Many incidents begin with a reasonable concern followed by a dangerous compromise. Rain leads someone to move the generator into a garage. Noise leads another person to place it behind a wall where exhaust collects. Fear of theft leads to operation in a shed. Each decision solves a minor problem by creating a lethal one.</p>
+<p>Another pattern appears after a CO shutdown. The owner assumes the sensor is overly sensitive, moves the generator only a few feet, and restarts it. A shutdown should trigger a complete review of distance, exhaust direction, wind, nearby openings, obstructions, and household alarms.</p>
+<p>Power cords also influence placement. A cord that is too short encourages operation beside the home, while an undersized long cord creates voltage drop and heat. Prepare a correctly rated cord long enough to preserve the full outdoor distance.</p>
+<p>Neighbors matter. Exhaust pointed away from your home may face their window, tent, or RV. The safe location must protect every occupied structure, not only the building receiving power.</p>
+<p>Finally, never assume previous uneventful use proves a location safe. Wind, open windows, snow banks, building pressure, and generator load change from one event to the next. Reevaluate placement every time.</p>
+<p>Temporary outages can also change household behavior. People open doors to carry fuel, use rooms that are normally empty, and sleep in cooler parts of the home. A window opened after the generator starts can become a new exhaust entry point. Tell everyone in the building that windows and exterior doors near the generator side must remain controlled.</p>
+<p>Check on older adults, children, and anyone with limited mobility or communication ability. They may not recognize symptoms or hear an alarm. The evacuation plan should identify who assists each person and where the group meets in fresh air.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+<h3>How far should a generator be from a house?</h3>
+<p>At least 20 feet outdoors, with exhaust directed away from doors, windows, vents, and other buildings. Recheck wind and openings during operation.</p>
+<h3>Can I run a generator in a garage with the door open?</h3>
+<p>No. Carbon monoxide can accumulate and enter the attached home even with the main door fully open. Move the generator to open outdoor space.</p>
+<h3>Is a covered porch safe?</h3>
+<p>No. The roof and adjacent walls can trap or redirect exhaust, and nearby windows or doors can draw it inside.</p>
+<h3>Does a CO shutoff make indoor use safe?</h3>
+<p>No. It is a backup layer intended to interrupt some hazardous conditions. Correct outdoor placement and household alarms remain essential.</p>
+<h3>Do propane generators produce carbon monoxide?</h3>
+<p>Yes. Propane combustion produces CO, so propane generators follow the same outdoor distance and exhaust direction rules as gasoline models.</p>
+<h3>Where should CO alarms be installed?</h3>
+<p>Install alarms on every level and outside sleeping areas, following each alarm manufacturer's placement instructions. Battery backup is important during outages.</p>
+<h3>What should I do if the generator CO sensor stops the engine?</h3>
+<p>Do not immediately restart it. Check occupants, move to fresh air if exposure is possible, evaluate placement and wind, and follow the generator manual.</p>
+
+<h2 id="bottom-line">Bottom line</h2>
+<p>Carbon monoxide safety depends on layers that do not replace one another. Put the generator outdoors at least 20 feet away, aim exhaust into open space, keep every building opening out of the plume, install working indoor alarms, and choose a certified onboard shutdown system. If safe outdoor placement cannot be maintained, shut the generator down.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"gen-open-frame-angle.webp","author":"Gbleem","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Portable_electrical_generator_angle.jpg","via":"Wikimedia Commons"},
+    {"image":"gen-open-frame-side.webp","author":"Gbleem","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Portable_electrical_generator_side.jpg","via":"Wikimedia Commons"},
+    {"image":"gen-tri-fuel-panel.webp","author":"TaurusEmerald","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Firman_Electric_Generator.jpg","via":"Wikimedia Commons"},
+    {"image":"gen-inverter-enclosed.webp","author":"Famartin","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Black_Diamond_2300_Watt_Inverter_Generator.jpg","via":"Wikimedia Commons"},
+    {"image":"carbon-monoxide-alarm.webp","author":"Santeri Viinamäki","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Carbon_monoxide_alarm.jpg","via":"Wikimedia Commons"},
+  ],
+  relatedLinks: [
+    {"title":"Best RV Generator","href":"/guide/best-rv-generator"},
+    {"title":"Best Inverter Generators","href":"/guide/best-inverter-generators"},
+    {"title":"Best Dual Fuel Generators","href":"/guide/best-dual-fuel-generators"},
+    {"title":"Connect a Generator to a House Safely","href":"/how-to-safely-connect-a-generator-to-a-house"},
+  ],
+};
+
+export default article;

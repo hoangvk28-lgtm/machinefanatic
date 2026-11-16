@@ -1,0 +1,132 @@
+import type { LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
+
+const article: LegacyArticleModule = {
+  slug: "how-to-size-an-inverter-for-your-loads",
+  title: "How to Size an Inverter for Your Actual Loads",
+  metaTitle: "What Size Inverter Do I Need?",
+  metaDescription: "Size an inverter from simultaneous running watts, motor surge, battery voltage, runtime, wiring loss, temperature, and future loads.",
+  kicker: "Sizing Guide",
+  heroImage: { src: "/images/articles/inverter-with-outlets.webp", alt: "Small power inverter with two mains sockets, a USB port and a power switch on its face" },
+  lastUpdated: "2026-11-16",
+  readTime: "16 min",
+  quickAnswer: "Add the running watts of every load that can operate at the same time, then add the extra starting surge of the largest motor likely to start while those loads are running. Choose an inverter whose continuous rating exceeds the simultaneous load and whose surge rating lasts long enough for the starting event. Then verify that the battery bank, DC cables, fuse, ventilation, temperature rating, and usable watt hours can support that output.",
+  html: `<h2 id="start-with-the-moment-everything-overlaps">Start with the moment everything overlaps</h2>
+<p>The question what size inverter do I need cannot be answered from a single appliance label or a guess about average use. An inverter is stressed by the loads that overlap at one moment. A refrigerator may already be running when a water pump starts. A laptop charger and lights may remain connected while a microwave switches on. That short overlap can determine the required output even if daily energy consumption is modest.</p>
+<p>Begin by describing the real operating scene. List every AC device, whether it runs continuously or cycles, and whether a person or automatic control starts it. Separate essential loads from optional loads. If the system will enforce a rule that two appliances never operate together, write that rule into the plan and make sure every user understands it.</p>
+<p>Inverter sizing then has four linked checks: continuous AC output, starting or surge output, DC input current, and stored battery energy. Passing only one check is not enough. A large inverter connected to a small battery may shut down from voltage sag. A large battery behind undersized cables may create dangerous heat. A well wired system can still fail if the inverter surge duration is too short for a compressor.</p>
+<div class="mf-callout"><strong>Size from a scenario, not a catalog:</strong> Write down what is already running at the instant the largest automatic load starts. That single line is more useful than adding every appliance maximum or choosing an arbitrary safety factor.</div>
+
+<h2 id="build-a-load-list-that-reflects-real-use">Build a load list that reflects real use</h2>
+<p>For each device, record running watts, starting watts or starting current when applicable, operating time, control type, and whether it may overlap another load. Prefer the appliance nameplate and manual. When those sources show amperes rather than watts, voltage multiplied by current gives apparent power only in a simple case. Motors and electronic loads can involve power factor, so use the manufacturer's input watts or volt amperes when supplied.</p>
+<figure><img src="/images/articles/motor-data-plate.webp" alt="Metal data plate riveted to an electric motor housing with the type and voltage stamped into it" width="1400" height="1050" loading="lazy" /><figcaption>A motor data plate. The figures a load list needs are stamped on the machine rather than printed in the manual.</figcaption></figure>
+<table>
+<thead><tr><th>Load detail</th><th>Why it matters</th><th>Where to obtain it</th></tr></thead>
+<tbody>
+<tr><td>Running watts</td><td>Contributes to continuous inverter loading</td><td>Nameplate, manual, or suitable meter</td></tr>
+<tr><td>Starting demand</td><td>Can exceed running draw for a motor or compressor</td><td>Manual, manufacturer, or qualified measurement</td></tr>
+<tr><td>Operating overlap</td><td>Determines simultaneous total</td><td>Your operating plan and automatic controls</td></tr>
+<tr><td>Daily operating time</td><td>Determines battery energy required</td><td>Duty cycle estimate or energy measurement</td></tr>
+<tr><td>Waveform requirement</td><td>Determines pure sine compatibility</td><td>Equipment documentation</td></tr>
+<tr><td>Criticality</td><td>Determines reserve and redundancy</td><td>Your safety and continuity plan</td></tr>
+</tbody>
+</table>
+<p>Do not use output power as input power. A microwave's cooking output is not necessarily its electrical input. A charger rated to deliver a certain DC output consumes additional AC power. Likewise, a power tool's marketing label may not show the worst input demand. Look for the electrical input specification.</p>
+<p>A plug in energy meter can help with compatible cord connected appliances, but it must have adequate rating and may not capture a very brief starting peak. Clamp measurement and inrush testing require suitable equipment and safe technique. If a critical surge value cannot be verified, ask the equipment manufacturer or a qualified electrician rather than inventing one.</p>
+
+<h2 id="calculate-the-continuous-load-first">Calculate the continuous load first</h2>
+<p>Add the running watts of all loads permitted to operate together. Suppose the operating plan allows a refrigerator, lights, router, television, and several chargers at the same time. Their combined input is the base continuous load. If a kettle or microwave may also be used without switching anything off, it belongs in that same scenario.</p>
+<p>The inverter continuous rating should exceed the calculated total under the expected conditions. Do not plan to hold a unit permanently at its maximum label. Heat, altitude, compartment ventilation, battery voltage, and manufacturer derating can reduce available output. Use the product's continuous rating at the relevant temperature, not a short peak number presented more prominently.</p>
+<p>Headroom is useful for normal variation and modest future changes, but an arbitrary doubling rule can produce an oversized inverter with higher idle consumption, larger cables, and greater battery stress. Choose deliberate margin tied to uncertain loads, temperature, and expansion rather than treating bigger as automatically better.</p>
+
+<h2 id="add-the-largest-credible-starting-event">Add the largest credible starting event</h2>
+<p>Motors and compressors can draw extra power while accelerating. The inverter must supply the loads already operating plus the additional starting demand. If the refrigerator uses its normal running power after starting, do not add its entire starting number on top of its running number without checking how the manufacturer defines the figures. The useful quantity is the extra demand above the base total during the event.</p>
+<p>Automatic loads deserve special attention because the user cannot reliably prevent overlap. A pump can start while someone is cooking. A refrigerator can restart while a power tool is running. Either include the overlap or install a control method that sheds a lower priority load.</p>
+<figure><img src="/images/articles/sump-pump-in-pit.webp" alt="Sump pump sitting in an open pit with its float switch, discharge pipe and check valve" width="1400" height="1050" loading="lazy" /><figcaption>A sump pump in its pit. It starts on its own float switch, without waiting for a convenient moment in your load plan.</figcaption></figure>
+<p>Surge ratings are not directly comparable without duration. One inverter may support a high peak for only an instant, while another supports a lower peak long enough to accelerate a motor. Read the output curve or manual. A claimed peak without time and test conditions is not enough for a difficult compressor.</p>
+<p>The concepts and a practical calculation method are covered in <a href="/running-watts-vs-starting-watts">running watts vs starting watts</a>. If the AC source could instead be a generator, <a href="/how-to-size-a-generator-by-wattage">how to size a generator by wattage</a> shows the related but different process.</p>
+
+<h2 id="choose-the-waveform-before-the-wattage">Choose the waveform before the wattage</h2>
+<p>Output size does not guarantee compatibility. Pure sine wave power is the general choice for a mixed system containing motors, chargers, audio equipment, electronic controls, medical devices, or loads that may change later. Modified sine wave power can cause some equipment to hum, heat, run inefficiently, keep inaccurate time, or refuse to operate.</p>
+<p>Check each load manual. If it calls for sine wave or low distortion AC, follow that requirement. A larger modified sine inverter does not become equivalent to a smaller pure sine unit. The detailed comparison is available in <a href="/pure-sine-wave-vs-modified-sine-wave">pure sine wave vs modified sine wave</a>.</p>
+
+<figure><img src="/images/articles/oscilloscope-sine-wave.webp" alt="Clean green sine wave trace on an oscilloscope screen with the voltage and time scales shown" width="1333" height="1076" loading="lazy" /><figcaption>A clean sine wave. Waveform is chosen first because it decides which loads can be connected at all.</figcaption></figure>
+<h2 id="convert-ac-load-into-dc-current">Convert AC load into DC current</h2>
+<p>The battery side carries much more current than many first time installers expect. An ideal 1,200 watt load would require 100 amperes from a 12 volt source. Real current is higher because the inverter is not perfectly efficient and battery voltage changes. At 24 volts the ideal current for the same power is half as large, and at 48 volts it is one quarter as large.</p>
+<p>A useful planning relationship is DC current equals AC watts divided by battery voltage and inverter efficiency. Use the efficiency as a decimal and evaluate the low operating voltage specified by the inverter, not only a fully charged nominal voltage. The exact design must follow the manufacturer's cable and protection tables.</p>
+<p>High current magnifies small resistance. A loose terminal, undersized conductor, long cable run, or poor crimp can create voltage drop and concentrated heat. The inverter may report low battery even when the battery still has energy because voltage is being lost in the path.</p>
+
+<h2 id="match-the-battery-bank-to-the-inverter">Match the battery bank to the inverter</h2>
+<p>A battery must support both the current and the energy demand. Check the battery manufacturer's continuous and peak discharge limits, the battery management system limit, permitted series or parallel configuration, temperature range, and minimum state of charge. Multiple batteries do not automatically share current equally if their cables and connections are poorly arranged.</p>
+<p>Lead acid batteries can experience substantial voltage sag and their available capacity changes with discharge rate. Lithium systems have different limits and may disconnect abruptly when a battery management threshold is reached. An inverter that appears suitable by watts can trip the battery protection if its input current exceeds the allowed value.</p>
+<figure><img src="/images/articles/lifepo4-cells-busbars.webp" alt="Bank of prismatic lithium iron phosphate cells joined by copper busbars and sense wires" width="1400" height="1050" loading="lazy" /><figcaption>A cell bank joined by busbars. The inverter's current draw passes through every one of these connections.</figcaption></figure>
+<p>Keep system voltage consistent. A 12 volt inverter belongs on a correctly configured 12 volt bank, not a 24 volt bank. Series and parallel battery arrangements require compatible batteries, proper protection, and manufacturer approval. The choice among system voltages is addressed in <a href="/12v-vs-24v-vs-48v-systems">12V vs 24V vs 48V systems</a>.</p>
+
+<h2 id="size-battery-energy-separately-from-inverter-power">Size battery energy separately from inverter power</h2>
+<p>Watts answer how much power can be delivered at once. Watt hours answer how much energy is stored. Multiply each appliance's average watts by its operating hours, add the results, then allow for inverter losses, idle draw, wiring loss, temperature, and the battery's permitted depth of discharge. Cycling appliances require an estimate of actual duty cycle rather than an assumption that their running watts apply all day.</p>
+<p>For example, a refrigerator compressor might run only part of each hour, while a router operates continuously. A microwave draws far more power but runs briefly. Both peak watts and daily watt hours matter, and they lead to different design decisions.</p>
+<p>A system can have an inverter large enough to start every load but a battery that lasts only a short time. The opposite is also possible: a large battery paired with an inverter too small for a motor start. Treat the two calculations as separate gates.</p>
+
+<h2 id="cable-fuse-and-disconnect-sizing">Cable, fuse, and disconnect sizing</h2>
+<p>Use the inverter manufacturer's specified cable size and maximum length whenever provided. DC conductors should be short, protected from abrasion, supported against vibration, and terminated with compatible listed hardware. Do not extend a run casually without recalculating voltage drop and protection.</p>
+<p>The positive battery conductor needs overcurrent protection selected to protect the cable while allowing normal inverter operation and permitted surge. Place it according to the manual and electrical rules, generally close enough to the source that an unprotected section is minimized. A fuse chosen only from inverter watts can be wrong if cable ampacity and surge characteristics are ignored.</p>
+<p>An accessible disconnect permits service and emergency isolation. It must have a DC rating for the system voltage and fault current. AC switches are not automatically suitable for interrupting DC because a DC arc does not cross zero each cycle in the same way.</p>
+<div class="mf-callout"><strong>Treat the battery as a high current source:</strong> Remove jewelry, use insulated tools, cover exposed terminals, and never place loose metal objects above a battery bank. Low voltage can still produce fire, burns, and destructive arcs.</div>
+
+<h2 id="temperature-ventilation-and-altitude-change-output">Temperature, ventilation, and altitude change output</h2>
+<p>Inverters create heat during conversion. Cooling fans and heat sinks can only work when air paths are clear. A unit installed in a small cabinet may reach its temperature limit and reduce output or shut down even though the load is below the room temperature rating.</p>
+<p>Read the derating information for high ambient temperature and altitude. Do not surround the inverter with bedding, clothing, or stored supplies. Keep it away from fuel vapor, water, direct spray, and corrosive battery gases. The installation location must also permit inspection of cables and protection.</p>
+<p>Noise can influence placement in an RV. Fans may cycle with load and temperature. Buyers prioritizing sleeping comfort can consult the <a href="/guide/best-quiet-rv-inverter">best quiet RV inverters</a>, but adequate ventilation should never be sacrificed to suppress fan sound.</p>
+
+<h2 id="rv-transfer-and-neutral-details">RV transfer and neutral details</h2>
+<p>An RV inverter may interact with shore power, a generator, a converter charger, solar charging, and branch circuits. A transfer switch must prevent two AC sources from feeding each other. An inverter charger may combine charging and transfer functions, but its manual still controls wiring and configuration.</p>
+<p>Neutral bonding can change when a mobile system transfers between sources. The correct arrangement depends on inverter design and applicable rules. An extra bond can place current on grounding conductors, while a missing required bond can prevent fault protection from working. Use a qualified installer if the manual and system diagram do not clearly resolve the arrangement.</p>
+<p>For integrated mobile installations, the <a href="/guide/best-rv-inverter">best RV inverters</a> guide compares the features that affect this decision. Smaller field systems can begin with the <a href="/guide/best-camping-inverters">best camping inverters</a>.</p>
+
+<h2 id="avoid-common-sizing-shortcuts">Avoid common sizing shortcuts</h2>
+<p>Do not choose an inverter by adding every appliance wattage when the loads will never overlap. That creates unnecessary cost, idle draw, and DC current capability. Conversely, do not use average daily watts as the output requirement because a short motor start can exceed the average many times over.</p>
+<p>Do not assume a cigarette lighter socket can supply a large inverter. Vehicle accessory circuits have limited current and must use the connector, fuse, and load specified by the vehicle manufacturer. Higher output equipment normally requires a purpose designed connection to an appropriate battery system.</p>
+<p>Do not place the inverter far from the battery and compensate with a long DC run when a safe layout can keep DC cables short. Where practical, keep the inverter near the battery within environmental restrictions and carry power farther on the AC side using correctly selected wiring.</p>
+<p>Do not rely on a peak label as continuous capacity. Confirm whether a rating is continuous, time limited, temperature limited, or a marketing maximum. Also confirm whether output is stated in watts or volt amperes.</p>
+
+<h2 id="verify-the-system-before-depending-on-it">Verify the system before depending on it</h2>
+<p>After a qualified installation, inspect polarity, torque, cable support, protection, ventilation, grounding, and transfer operation according to the manuals. Begin with modest loads. Add planned devices in a controlled order while observing inverter status, battery voltage, cable temperature, and abnormal sound or odor.</p>
+<p>Test the largest motor start with the normal background load present. A no load startup does not prove the planned scenario. If voltage collapses, the inverter overloads, a battery disconnects, or a connection heats, stop and correct the cause rather than repeatedly resetting protection.</p>
+<p>Repeat a readiness test periodically. Battery capability changes with age, temperature, and state of charge. Connections can loosen in mobile equipment. Firmware settings and appliance replacements can also change the system.</p>
+<p>Record the approved load combinations beside the inverter controls. A person using the system later should know whether the microwave requires the air conditioner to be off, whether a pump starts automatically, and which outlets are supported. Load management that exists only in the designer's memory will eventually fail when another person operates the system.</p>
+<p>Keep a simple commissioning record with battery voltage, state of charge, background load, peak load, ambient temperature, and any inverter messages. The record creates a baseline for troubleshooting without claiming laboratory precision. If the same load later causes deeper voltage sag or earlier shutdown, the change can point toward battery aging, a loose connection, corrosion, or a new load that was not included originally.</p>
+<p>Emergency and medical loads need an additional layer of planning. Document who should be contacted, how long the reserve can support the critical device, and which warnings require immediate relocation. Test the backup path on the schedule recommended by the equipment provider. Do not depend on a single inverter, battery, cable, or charger where a loss of power creates immediate danger. Follow the equipment provider's backup recommendations, maintain alarms, and identify a safe alternative location or power source. More inverter wattage alone does not create redundancy.</p>
+
+<h2 id="faq">Frequently asked questions</h2>
+<h3>Should the inverter equal the sum of every appliance rating?</h3>
+<p>Only add loads that can operate together. Then account for the largest credible starting event. If load management prevents overlap, document and enforce it rather than buying capacity for an impossible scenario.</p>
+<h3>How much headroom should an inverter have?</h3>
+<p>There is no universal percentage. Allow enough for uncertain load variation, temperature derating, and reasonable expansion without creating excessive idle draw or DC system requirements. Use documented product performance.</p>
+<h3>Can a 2,000 watt inverter run a 2,000 watt appliance?</h3>
+<p>It may be a poor continuous plan. The appliance can draw more than its nominal figure, environmental derating can reduce inverter output, and other loads or starting demand may overlap. Check both manuals and provide deliberate margin.</p>
+<h3>Why does the inverter shut down when the battery looks charged?</h3>
+<p>Possible causes include voltage sag, undersized or loose cables, excessive current, battery management system limits, cold temperature, or a motor surge. Measure safely at the relevant points and correct the cause.</p>
+<h3>Is a 24 volt inverter more efficient than a 12 volt inverter?</h3>
+<p>The higher system voltage reduces current for the same power, which can simplify high output wiring. Overall efficiency still depends on the specific inverter, battery, cables, and load. System voltage must be chosen as a complete design decision.</p>
+<h3>Do I need pure sine wave output?</h3>
+<p>Use it for a mixed load list, motors, compressors, audio equipment, electronic controls, medical devices, or any product whose manual requires sine wave power. It is the flexible default when future loads are uncertain.</p>
+
+<p>Review it annually.</p>
+<h2 id="bottom-line">Bottom line</h2>
+<p>Size an inverter from the highest realistic overlap, not from one appliance, a daily average, or an arbitrary multiplier. Add simultaneous running watts, include the extra demand and duration of the largest credible motor start, and choose the required waveform. Then confirm the battery can supply the current and energy, the DC cables and protection meet the manual, and heat can escape from the installation. Finally, test the actual scenario before relying on it. Correct sizing is a system calculation in which inverter watts, battery watt hours, surge response, wiring, temperature, transfer equipment, and user behavior all agree.</p>`,
+  products: [],
+  imageCredits: [
+    {"image":"motor-data-plate.webp","author":"tony_duell","license":"CC BY 2.0","source":"https://commons.wikimedia.org/wiki/File:Motor_Nameplate.jpg","via":"Wikimedia Commons"},
+    {"image":"oscilloscope-sine-wave.webp","author":"Pittigrilli","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Sine_wave_10_kHz_displayed_on_analog_oscilloscope.jpg","via":"Wikimedia Commons"},
+    {"image":"sump-pump-in-pit.webp","author":"Famartin","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:2023-07-30_20_08_18_A_newly-installed_sump_pump_in_the_basement_of_a_house_along_Aquetong_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg","via":"Wikimedia Commons"},
+    {"image":"lifepo4-cells-busbars.webp","author":"Yo-Co-Man","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Lithium_Iron_Phosphate_LiFePO4_Cells_400_Ah_Amp_Hours_3.25_Volts_-_1.jpg","via":"Wikimedia Commons"},
+    {"image":"inverter-with-outlets.webp","author":"Zuzu","license":"CC BY-SA 3.0","source":"https://commons.wikimedia.org/wiki/File:Cobra_CPI-475_400w_power_inverter_with_USB_front.jpeg","via":"Wikimedia Commons"},
+  ],
+  relatedLinks: [
+    {"title":"Best RV Inverters","href":"/guide/best-rv-inverter"},
+    {"title":"Best Camping Inverters","href":"/guide/best-camping-inverters"},
+    {"title":"Best Quiet RV Inverters","href":"/guide/best-quiet-rv-inverter"},
+    {"title":"Running Watts vs Starting Watts","href":"/running-watts-vs-starting-watts"},
+  ],
+};
+
+export default article;

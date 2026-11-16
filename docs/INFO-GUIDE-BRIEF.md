@@ -1,3 +1,5 @@
+> **Superseded 2026-11-16 by `docs/INFO-GUIDE-BRIEF-V2.md`.** The topic allocation below does not match the site's best-guide inventory (see `docs/INFO-GUIDE-PLAN.md` section 2). Kept for reference only.
+
 # MachineFanatic: Info Guide Production Brief (100 articles, 5 rounds of 20)
 
 You are writing informational ("info") guides for **MachineFanatic** (https://www.machinefanatic.com), an independent affiliate site about machines: power tools, outdoor power equipment, shop and garage machines, kitchen machines and home machines. Repo: https://github.com/hoangvk28-lgtm/machinefanatic (Next.js 16, TypeScript).

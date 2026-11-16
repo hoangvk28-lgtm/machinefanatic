@@ -1,0 +1,64 @@
+You are sourcing real photographs for machinefanatic.com, a site that reviews machines. I have attached GUIDE-SECTION-PHOTOS.md. Read all of it, especially the section "How to save what you find, exact spec". That section is a contract: a photo saved under the wrong name, or without its manifest row, cannot be used and is lost work.
+
+WHAT I NEED
+
+Three photos per cluster, for the clusters in the shopping-list tables. Each cluster has three slots, spec, decision and ownership, and the table says what each photo must show and gives search terms. Work the clusters top down, in the order they appear, because that is the order of how many pages each photo serves.
+
+Start with the first five clusters only: kitchen, generators, garden-power, shop, power-stations. That is 15 photos. Stop there and show me, and I will tell you to continue.
+
+WHAT MAKES A PHOTO USABLE
+
+- A real photograph. Not AI generated, not a 3D render, not a drawing, diagram, infographic, screenshot or logo.
+- It shows the thing the slot calls for. Read the "what must be visible" column and hold the photo to it. A generator sitting on a lawn is not a spec-slot photo: the spec slot needs the data plate or control panel legible.
+- It looks like reality, not marketing. Reject product listing shots on white, anything watermarked, anything with a retailer logo, anything obviously staged for an ad. The entire reason for these photos is that they look like a real machine in a real place.
+- At least 1000 px on the long side in the original. Softer than that looks blurred on the page.
+WHERE TO LOOK: SEARCH EVERY PLATFORM
+
+Do not limit yourself to stock or openly licensed libraries. Search everywhere a real owner might have posted a photo, and sort what you find into two buckets.
+
+Bucket 1, openly licensed, ready to use with credit: Wikimedia Commons (including the category tree, e.g. Category:Electric generators), Flickr filtered to creative commons or no known copyright restrictions, Openverse, Unsplash, Pexels, Pixabay, Geograph, and government or lab libraries (DOE, NREL, FEMA, USDA, EPA, NIOSH, national labs).
+
+Bucket 2, real owner photos that need permission, which I will request myself: Reddit, Imgur, hobby and brand forums, Instagram and Threads, YouTube frames, personal blogs, Facebook groups. Search these properly, do not treat them as an afterthought: they are the only place the ownership slot really comes from.
+
+- Reddit: site:reddit.com plus the scene words, and search inside r/lawncare, r/landscaping, r/GoRVing, r/SolarDIY, r/vandwellers, r/Tools, r/woodworking, r/Welding, r/espresso, r/Coffee, r/3Dprinting, r/snowblowers, r/HomeImprovement, r/preppers
+- Imgur: site:imgur.com plus the scene words, and follow Imgur links out of Reddit threads
+- Forums: site:<forum> plus the scene words, on arboristsite, diysolarforum, tractorbynet, irv2, garagejournal, home-barista, weldingweb, forums.lawnsite
+- Instagram, YouTube, blogs, Facebook groups: hashtags and scene words, plus phrases owners use like "my setup", "after one season", "six months later"
+
+Search the scene words from the shopping list rather than a model name. You want the situation, not the product.
+
+Two sources to avoid: Amazon customer review photos, because the uploader holds the copyright and there is no way to reach them, and retailer or manufacturer press images, because they are marketing shots and marketing shots are the thing these photos exist to replace.
+
+TWO THINGS TO CHECK ON ANY BUCKET 2 CANDIDATE
+
+Reposts: a photo on Imgur, Reddit, Instagram or Pinterest is very often not the poster's own, and asking a reposter gets me nothing because they cannot grant what they do not own. Reverse image search each candidate. If it appears on an older page under a different name, give me that earlier source instead, or drop it and say why.
+
+Unreachable posters: if the account is deleted or has no contact path, the photo is unusable. Do not queue it.
+
+PREFERENCE, NOT A RULE
+
+Fill the spec and decision slots from bucket 1 where you can, since those need no asking. Put the effort into bucket 2 for the ownership slot. But if the only photo that genuinely shows what a slot needs is a bucket 2 photo, queue it: a correct photo I have to ask for beats a wrong photo I can use today.
+
+WHAT TO DELIVER, per cluster
+
+1. The manifest, as a fenced code block I can save straight to handoff/photos/<cluster-id>.tsv. Six tab separated columns, no header:
+   filename.webp <TAB> image or file page URL <TAB> source page URL <TAB> photographer <TAB> license <TAB> platform
+   Filenames follow <cluster-id>-<slot>-<description>.webp using the fixed cluster ids in the doc. Slots are exactly spec, decision or ownership.
+
+2. The captions, one line per filename:
+   filename.webp = one sentence describing what is visible and why it matters in that section.
+   The caption never carries the credit and never implies the photo shows a recommended product.
+
+3. The permission queue, as a second fenced code block I can save to handoff/photos/permission-queue.tsv. Seven tab separated columns, no header:
+   intended-filename.webp <TAB> cluster-id <TAB> slot <TAB> post or photo URL <TAB> platform <TAB> poster name or handle <TAB> what the photo shows
+   Everything from Reddit, Imgur, a forum, Instagram, YouTube, a blog or a Facebook group goes here, never in the manifest. For each row, say in a note whether your reverse image search suggested it is a repost.
+
+4. A one-line note on anything you could not fill, and what you tried.
+
+THE URL RULE, read it twice
+
+Every URL must be a page you actually opened, in both files. For Wikimedia Commons give the File page URL, like https://commons.wikimedia.org/wiki/File:Generator_control_panel.jpg, in both URL columns. Never construct an upload.wikimedia.org/wikipedia/commons/7/7d/... path: that hash cannot be derived from a filename, so an invented one is always a dead link. Every row gets fetched on my side and a 404 sends the row back.
+
+Do not resize, crop or convert anything. I run the download, resize and webp conversion from the manifest. Give me URLs, not files.
+
+Start with the kitchen cluster.

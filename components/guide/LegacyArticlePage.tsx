@@ -30,7 +30,7 @@ export interface LegacyArticleModule {
   quickAnswer?: string;
   html: string;
   products?: LegacyProduct[];
-  imageCredits?: { image: string; author: string; license: string; source: string }[];
+  imageCredits?: { image: string; author: string; license: string; source: string; via?: string }[];
   relatedLinks?: { title: string; href: string }[];
 }
 
@@ -170,7 +170,7 @@ export function LegacyArticlePage({ article }: { article: LegacyArticleModule })
                 <ul className="text-xs text-ink-muted space-y-1">
                   {article.imageCredits.map((c) => (
                     <li key={c.image}>
-                      {c.image}: {c.author}, <a href={c.source} target="_blank" rel="noopener noreferrer" className="underline hover:text-cta">{c.license}</a>, via Wikimedia Commons
+                      {c.image}: {c.author}, <a href={c.source} target="_blank" rel="noopener noreferrer" className="underline hover:text-cta">{c.license}</a>{c.via ? `, via ${c.via}` : ""}
                     </li>
                   ))}
                   {products.length > 0 && <li>Product images: Amazon.</li>}
