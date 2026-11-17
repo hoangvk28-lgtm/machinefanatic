@@ -1,13 +1,13 @@
-# Standing resume prompt (paste into a new session after any interruption)
+# Paste this into a new session at 7:00 PM (2026-11-17) to continue rounds 42 and 43
 
-```
-Đọc CLAUDE.md, rồi đọc mục "## RESUME" MỚI NHẤT (mục cuối cùng) trong docs/rounds/NEXT-ROUNDS-BRIEF.md và "Winter plan" nếu có.
-KHÔNG push gì cho tới khi tôi duyệt preview.
-1. git status + git log -3 để biết trạng thái. Chạy lệnh "Unfinished" trong mục RESUME; báo tôi số slug còn lại mỗi list và các skip mới của writer.
-2. Nếu còn slug: giao tối đa 2-3 agent Sonnet (model: "sonnet"), mỗi agent nhận cả list một lần, theo writer prompt và luật thêm ghi trong brief/RESUME. Bỏ list đã xong.
-3. Khi xong: Finish đầy đủ cho tất cả slug của round (register, mark done, mark skip, audit, grep 【, 2 bước kiểm tra trùng lặp với mở câu lặp nhiều nhất <= 6, sửa bằng Edit + finish.mjs nếu vượt, tsc, build, clone-log, commit local).
-4. Đưa tôi link preview (tôi tự chạy npx next dev -p 3005). Chờ duyệt, rồi push main và IndexNow các slug mới.
-5. Nếu round đã push xong: làm Stage A + A2 cho round kế tiếp theo kế hoạch trong brief, giao writer, và trước khi kết thúc phiên luôn ghi một mục RESUME mới + commit local.
-```
+Read CLAUDE.md and the last "RESUME (2026-11-17, afternoon)" section of docs/rounds/NEXT-ROUNDS-BRIEF.md. Checkout main and git pull.
 
-Coordinator rule: every time a round changes state (writers spawned, finished, pushed), append a new dated `## RESUME` section with the "Unfinished" command for the current lists, so this prompt always works.
+Do NOT re-run Stage A: the .compact.json files for rounds 42 and 43 already exist in scripts/clone/work/ on this machine.
+
+1. List the unfinished slugs first:
+   for s in $(cat scripts/clone/work/r4243.live.txt); do [ -f data/guides/$s.ts ] || grep -q "^$s:" scripts/clone/skip-?.txt || echo $s; done
+2. Hand ONLY those unfinished slugs to ONE new Sonnet writer agent, using the writer prompt from the RESUME section (lean brief only, one spec per Write, selfcheck, finish.mjs, no generators or scripts, no padding, 3 real machines is enough, budget approved, do not stop early).
+3. When it finishes, run the Finish steps from NEXT-ROUNDS-BRIEF.md: register-dynamic-guide, register-new-guides (needs ~/.nvm/versions/node/v22.23.3/bin/node), mark done + mark writer skips, audit-guides, grep for 【, both duplicate checks (top 4-word description opening must be <= 5; if higher, one Sonnet fix agent editing spec.json then finish.mjs), tsc --noEmit, next build, clone-log entry for rounds 42 and 43, local commit of data/, docs/, scripts/clone/source-index.json and the .spec.json files.
+4. Give me preview links on npx next dev -p 3005. Do NOT push to main or ping IndexNow before I approve.
+
+Note: background agents die with the session, but finished guide files are kept, so only unfinished slugs need redoing.
