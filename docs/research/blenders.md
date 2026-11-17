@@ -16,3 +16,11 @@
 - Programs, pre-set cycles and variable dials differ: dial gives control for hot soup and nut butter, presets give repeatability.
 - Rinse right after use; dried smoothie residue is the main cause of stuck blades and funk.
 - Do not run empty or with dry thick loads for long; use the tamper where provided.
+## Added: nut butter
+- Nut butter: thick loads need maximum speed; at low speed the motor heats more because no air pocket forms. Keep batches to roughly 4 cups or less of thick mixes.
+- Manuals commonly cap oily or paste loads at about 1 minute once the mix turns to paste; tamper use often limited (e.g. 30 s continuous, jar no more than 2/3 full on some brands).
+- A tamper is what keeps nuts circulating when the vortex collapses. Premium bases carry thermal protection and reset after cooling (Vitamix cites up to 45 minutes).
+## Added: commercial
+- Commercial listings quote peak horsepower of the motor, not output to the jar (KitchenAid says its 3.5 peak HP is a motor rating).
+- NSF mark matters for foodservice inspections; commercial warranties vary (3 years typical on major brands, one brand advertises 5), and commercial-use rules can differ from home-use terms: read the fine print.
+- Bar blenders use paddle or toggle switches with 2 speeds and pulse; simple controls and sturdy jars for long shifts. Copolyester or steel jars.

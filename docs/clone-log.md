@@ -566,3 +566,31 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Notes: plastic-free kettles is Cosori-heavy (5 Cosori + Nuxatoms glass); quiet kettles picks on construction, no dB figures; plastic-free coffee makers covers brew-path claims only; French press and pour-over guides are manual brewers.
 - Repetition: opening fix pass (scripted first-word swaps, sampled for grammar); top 4-word description opening = 5. No sentence in 3+ guides.
 - Checks: audit ok, no 【, tsc ok, build ok. Words 3,000 to 3,324.
+
+### Prefilter skips (2026-11-17)
+| Skipped slug | Reason |
+|---|---|
+| best-all-clad-immersion-blenders | prefilter: only 2 distinct items match brand all after extra searches |
+| best-bella-immersion-blenders | prefilter: only 2 distinct items match brand bella after extra searches |
+| best-breville-immersion-blenders | prefilter: only 2 distinct items match brand breville after extra searches |
+| best-chefman-immersion-blenders | prefilter: only 1 distinct items match brand chefman after extra searches |
+| best-kitchenaid-immersion-blenders | prefilter: only 2 distinct items match brand kitchenaid after extra searches |
+| best-kitchensmith-immersion-blenders | prefilter: only 1 distinct items match brand kitchensmith after extra searches |
+| best-linkchef-immersion-blenders | prefilter: only 1 distinct items match brand linkchef after extra searches |
+| best-ninja-immersion-blenders | prefilter: only 1 distinct items match brand ninja after extra searches |
+| best-nutribullet-immersion-blenders | prefilter: only 2 distinct items match brand nutribullet after extra searches |
+| best-oster-immersion-blenders | prefilter: only 2 distinct items match brand oster after extra searches |
+| best-ovente-immersion-blenders | prefilter: only 1 distinct items match brand ovente after extra searches |
+| best-smeg-immersion-blenders | prefilter: only 1 distinct items match brand smeg after extra searches |
+| best-vitamix-immersion-blenders | prefilter: only 2 distinct items match brand vitamix after extra searches |
+
+## Round 41 (2026-11-17): blenders and immersion blenders, 36 guides
+- 14 countertop/jar blender guides (scripts/clone/work/r41a.txt, writer A) + 22 immersion blender guides (r41b.txt, writer B), Sonnet only. Done list: scripts/clone/work/r41.done.txt.
+- Near-dup skips vs published: best-handheld-immersion-blenders (= best-immersion-blenders), best-bullet-blenders (= best-personal-blenders).
+- Writer/coordinator skips beyond the prefilter table above: best-toastmaster-immersion-blenders (0 Toastmaster items in the data), best-vitamix-5200-blenders (1 real 5200 unit; rest Explorian/Propel/VX1 plus a container accessory), best-zulay-immersion-blenders (2 real Zulay sticks; third item is a milk frother wand).
+- Type/brand purity: princess-house uses only the 3 real Vida Sana machines (play tents, toys, spare jar excluded); bamix drops the Braun units; robot-coupe is laid out as a 7 to 24 inch size ladder and kept distinct from best-commercial-immersion-blenders.
+- Research: docs/research/blenders.md extended with nut-butter and commercial facts; docs/research/immersion-blenders.md newly written from 3 web searches.
+- Caveats: Robot Coupe MP450/MP350 ETL listing and bowl-capacity figures come from search results, not the Amazon data. Several immersion guides were hand-extended to clear the 3,000 word floor.
+- Repetition: one fix pass over 13 guides (Edit on spec.json + finish.mjs, no scripts). Top 4-word description opening = 5. No prose sentence in 3+ guides except one short maintenance line in 4.
+- Housekeeping: 9 round-38 vacuum sealer slugs stuck at inprogress with no work files were reset to todo; best-easy-to-use-air-fryers marked done.
+- Checks: audit ok (36/36), no 【, tsc ok, build ok (Compiled successfully + Finished TypeScript). Words 3,000 to 3,290.

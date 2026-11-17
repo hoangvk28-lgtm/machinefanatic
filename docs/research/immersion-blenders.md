@@ -1,0 +1,14 @@
+# Immersion blenders research (web search 2026-11, plus compact data)
+- Wattage in listings ranges roughly 150W (bamix Classic) to 1100W+ (marketing peaks on budget sets); 300 to 600W is enough for home use. Foot shape, shaft length and coupler decide whether power reaches food.
+- Blade guard / blending foot design affects splatter and suction more than wattage. A bell shaped or vented foot traps the food over the blade and reduces splash.
+- Shaft length: buy for the tallest pot, not the most common one. A 7 to 8 inch shaft does not reach the bottom of a 6 quart stockpot; home sticks run about 8 inch, commercial 10 to 24 inch.
+- Removable shaft: main benefit is cleaning (shaft goes in the dishwasher or sink, motor body stays dry). Fixed shafts are simpler and avoid a coupler wear point.
+- Attachments (whisk, chopper, beaker) only matter if they are used. Whisk and frother heads are low torque accessories; beaker size limits batch size and sets the minimum liquid depth.
+- Mayonnaise: emulsifying in a tall narrow jar with the blade foot flat on the bottom, low speed, oil rising slowly; bell design keeps the oil drawn into the blade. Variable low speed or a 2-speed low setting helps.
+- Mashed potatoes: blade shears starch cells and releases free starch, giving gluey paste. Immersion blenders suit soup and partial mashing; pulse in short bursts, stop while lumps remain; ricer or masher attachment avoids the problem.
+- Hot liquids: let soup cool a few minutes, keep the foot submerged before starting, work in short bursts; never lift a running blender out of the liquid.
+- Cordless vs corded: cordless trades sustained power for freedom; bamix Cordless is a 2-speed Swiss unit; corded sticks have unlimited runtime.
+- Commercial: Robot Coupe MP450 Turbo FW is 1.1 hp / 720W, stainless blade, bell and 18 inch shaft, pan capacity up to about 100 L (26 gal), ETL sanitation listed. MP350 Combi: 1 hp / 660W, 14 inch shaft, up to about 50 L (13 gal). MP450 Combi variable speed 3,000 to 10,000 rpm blending and 500 to 1,500 rpm whisk. MP550: 840W, 21 inch shaft.
+- Waring WSB line from the compact data: WSB35 2-speed 7 inch fixed shaft; WSB250 12 inch 750W 10 gal; WSB255 14 inch 15 gal; WSB260 16 inch 25 gal; WSB265 18 inch 35 gal; EvolutionX WSB500X/600X/650X/700X rated 10/25/35/50 gal with 1.5 hp motors.
+- Duty cycle: heavy sticks are rated for batch kitchen work, but even commercial units need a rest after long continuous runs; check the maker's stated run time.
+- Brands: bamix is Swiss, 150W Classic and 200W M200 with a lifetime motor warranty claim on the Classic listing; Braun MultiQuick 5 (350W/500W), 7, 9 with attachments; Vitamix 625W 5-speed; Breville Control Grip; KitchenAid KHBV53 removable 8 inch arm.
