@@ -1,0 +1,574 @@
+{
+ "guideSlug": "best-label-printers-for-fedex",
+ "categorySlug": "home-machines",
+ "mainKeyword": "label printers for fedex",
+ "guideTitle": "Best Label Printers for FedEx (2026)",
+ "metaTitle": "Best Label Printers for FedEx Shipping 2026",
+ "metaDescription": "Six thermal printers for FedEx labels compared on Zebra-style driver support, 4x6 handling, network sharing and how each one fits a daily pickup routine.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The Zebra ZP450 is the pick for a FedEx shipper who wants the language and driver family carriers know best, and the listing names FedEx. The Rollo USB is the value-minded alternative for a laptop desk. Anyone shipping only a few FedEx parcels a month should skip a printer and use a drop-off location.",
+ "introParagraphs": [
+  "FedEx volume tends to arrive as a daily rhythm: a pickup window, a cut-off time, and a stack of labels that must be on parcels before the driver arrives. A label printer for that rhythm earns its keep by being ready at four in the afternoon without any fuss, and by producing a dense, dark label that the carrier's scanners read the first time.",
+  "Industrial shippers have long favored a particular family of thermal printers because carrier software was written for them, and that history shows in driver support. Smaller sellers can use newer, cheaper machines, but they should know which trade they are making. This guide lays out both sides across six printers."
+ ],
+ "products": [
+  {
+   "id": "B0GQ4482BL",
+   "badge": "Best Overall",
+   "name": "Zebra ZP450 direct thermal label printer, 5 ips",
+   "specs": [
+    "4 in direct thermal",
+    "5 ips at 203 dpi",
+    "USB serial parallel",
+    "Names FedEx"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ribbon"
+    },
+    {
+     "label": "Resolution",
+     "value": "203 dpi"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 5 inches per second"
+    },
+    {
+     "label": "Interfaces",
+     "value": "USB, serial and parallel"
+    },
+    {
+     "label": "Carrier fit",
+     "value": "Listing names UPS and FedEx labels"
+    }
+   ],
+   "description": "Zebra built a reputation on printers that carrier software already knows how to talk to, and the ZP450 sits in that lineage. Its listing states 5 inches per second at 203 dpi, direct thermal, with USB, serial and parallel ports. The serial and parallel ports look old-fashioned, but they tell you who it was designed for: warehouse and counter stations with legacy computers.\n\nThe model is described as handling UPS and FedEx labels, which makes it the one printer in this group with a carrier name on its page. It is the right choice for a shipper whose software expects a Zebra-family printer, but it asks for more setup than the cheaper units, since drivers must be installed and media width set. At 5 inches per second it is slower than the Rollo Wireless at 150 millimeters per second, though a single label still prints in about a second.\n\nKeep the platen clean and the head free of adhesive, and set the media to the label stock you use. Because it is a widely used family, replacement heads and platens are easy to find, which matters in year three when the first one wears.",
+   "bestFor": "FedEx shippers whose software or workflow expects a Zebra-family direct thermal printer.",
+   "pros": [
+    "Listing names UPS and FedEx labels",
+    "Established printer family with wide parts supply",
+    "5 ips at 203 dpi is dependable for daily labels",
+    "USB, serial and parallel suit legacy stations"
+   ],
+   "cons": [
+    "No wireless option for phone printing",
+    "Setup and driver work take more effort"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQ4482BL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41OjukK-B9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01MA3EYC5",
+   "badge": "Best Value",
+   "name": "Rollo USB 4x6 direct thermal printer",
+   "specs": [
+    "4x6 direct thermal",
+    "USB only",
+    "Windows XP and Mac 10.9+",
+    "Rollo Ship app"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 inch shipping labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Connection",
+     "value": "USB cable"
+    },
+    {
+     "label": "Computer support",
+     "value": "Windows XP and newer, Mac 10.9 and newer"
+    },
+    {
+     "label": "Software",
+     "value": "Free Rollo Ship app"
+    }
+   ],
+   "description": "A seller who builds FedEx labels in a browser does not need legacy ports. The Rollo USB is a plain 4x6 direct thermal printer that accepts the label file over a single cable, with Windows XP and newer and Mac 10.9 and newer support listed. The setup is a driver install and a page-size choice, and then it is done.\n\nWhat it gives up next to the Zebra is carrier-specific heritage. The listing does not name FedEx, and it lacks the serial and parallel ports that legacy shipping stations sometimes need. What it gains is a simpler driver and a lower barrier for a seller who wants a printer that works with an ordinary laptop.\n\nUpkeep is minimal: alcohol on the head after a few rolls, a square stack, and a test label before the pickup window. Keep a spare roll beside the machine so the cut-off hour never sneaks up on you with an empty feed.",
+   "bestFor": "Small FedEx shippers who print from a Windows or Mac laptop.",
+   "pros": [
+    "Simple driver and a single USB cable",
+    "Broad Windows and Mac support",
+    "Free shipping app included",
+    "Plain feed path"
+   ],
+   "cons": [
+    "No FedEx wording on the listing",
+    "No legacy serial or parallel ports"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B01MA3EYC5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41+ONy0DNTL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09VF4Z2WQ",
+   "badge": "Best for Wi-Fi Printing",
+   "name": "Rollo Wireless Wi-Fi 4x6 thermal printer, 150 mm/s",
+   "specs": [
+    "4x6 direct thermal",
+    "Wi-Fi and AirPrint",
+    "150 mm/s",
+    "Ship Manager app"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 inch shipping labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Wireless",
+     "value": "Wi-Fi with AirPrint"
+    },
+    {
+     "label": "Speed",
+     "value": "150 mm per second"
+    },
+    {
+     "label": "Software",
+     "value": "Rollo Ship Manager app"
+    }
+   ],
+   "description": "Wi-Fi changes where the printer can live. The Rollo Wireless joins the shop network and takes jobs from iPhones, iPads and Macs through AirPrint, so a FedEx label bought on a tablet can print without a computer in the middle. At 150 millimeters per second it prints a little faster than the Zebra ZP450's 5 inches per second.\n\nThe cost of that freedom is network dependence, and a restart of the router is the first thing to try when it goes quiet. Compared with the Rollo USB, you add radio risk. Compared with the Arkscan LAN below, you get Wi-Fi instead of a wired network jack, which is easier to place but less steady.\n\nKeep it on a stable shelf near the packing table, wipe the head every few rolls and plan to rejoin Wi-Fi if the router is ever replaced.",
+   "bestFor": "FedEx shippers who print from a phone or iPad.",
+   "pros": [
+    "AirPrint for Apple devices without drivers",
+    "150 mm per second is faster than the Zebra ZP450",
+    "Wi-Fi lets it sit away from a computer",
+    "Companion app for other devices"
+   ],
+   "cons": [
+    "Depends on a steady Wi-Fi network",
+    "No carrier name on the listing"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B09VF4Z2WQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31zsmO4VVBL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07QKS1CYL",
+   "badge": "Best for Shared Networks",
+   "name": "Arkscan 2054A-LAN Ethernet 4x6 shipping printer",
+   "specs": [
+    "4x6 direct thermal",
+    "Ethernet LAN",
+    "Windows Mac Chromebook",
+    "BarTender UltraLite"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 inch shipping labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Network",
+     "value": "Ethernet LAN port"
+    },
+    {
+     "label": "Platforms named",
+     "value": "Amazon FBA, EasyPost, eBay, Etsy, Endicia and others"
+    },
+    {
+     "label": "Software",
+     "value": "BarTender UltraLite, Windows only"
+    }
+   ],
+   "description": "Arkscan's LAN model adds a wired network jack to its standard 2054A design, so several computers in an office can send FedEx labels to the same printer. The listing names many marketplaces and postage tools, and it prints product and barcode labels as well. An office with a shipping desk and two or three other staff will appreciate that sharing.\n\nThe wired network is more dependable than Wi-Fi, because it does not roam or sleep. You give up phone printing, and BarTender UltraLite is Windows only. Compared with the plain Arkscan 2054A, the LAN version costs a little more and takes a cable run to the router.\n\nTreat it as a shared office appliance: give it a fixed address on the network, keep the stock flat, and clean the head with alcohol each few rolls.",
+   "bestFor": "Small offices where several people print FedEx labels from different computers.",
+   "pros": [
+    "Ethernet jack shares one printer across a network",
+    "Prints product and barcode labels too",
+    "Names many marketplaces and postage tools",
+    "Wired network avoids Wi-Fi dropouts"
+   ],
+   "cons": [
+    "Needs a cable run to the router",
+    "Bundled designer is Windows only"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07QKS1CYL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Gi1Wq6EHL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GFDW65T5",
+   "badge": "Best for Folded Stock",
+   "name": "D450BT Bluetooth 4x6 printer with label compartment",
+   "specs": [
+    "4x6 direct thermal",
+    "Bluetooth",
+    "Roll and folded stock",
+    "1 to 4.6 in widths"
+   ],
+   "specList": [
+    {
+     "label": "Label width range",
+     "value": "1 to 4.6 inch labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Stock handling",
+     "value": "Internal roll compartment and rear folded paper"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth with Android and iOS"
+    },
+    {
+     "label": "Extras",
+     "value": "Listing includes 750 labels"
+    }
+   ],
+   "description": "This printer is built for people who buy labels both ways. Its internal compartment holds a roll, and a rear slot feeds folded stacks, so a FedEx shipper can use whichever stock is cheaper that month. The label width range of 1 to 4.6 inches also covers parcel labels and smaller stickers.\n\nBluetooth pairs with Android and iOS, and the listing bundles 750 labels so there is stock on hand for the first weeks. Against the Zebra, it has no carrier name and far less track record. Against the Rollo Wireless, it trades Wi-Fi for Bluetooth and gains the flexibility of two stock paths.\n\nWatch the stock path closely: folded and roll feeds each have their own calibration, so run it again when you change. Clean the head with alcohol and keep the internal compartment free of lint.",
+   "bestFor": "Shippers who buy both roll and folded labels and print from a phone.",
+   "pros": [
+    "Takes roll or folded stock",
+    "Wide 1 to 4.6 inch label range",
+    "Bluetooth with Android and iOS",
+    "Starter labels included"
+   ],
+   "cons": [
+    "No carrier named on the listing",
+    "Short owner history"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GFDW65T5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Hq5iq9thL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B072N3S7LV",
+   "badge": "Best for Multi-Site Sellers",
+   "name": "Arkscan 2054A USB 4x6 shipping label printer",
+   "specs": [
+    "4x6 direct thermal",
+    "USB wired",
+    "Windows Mac Chromebook",
+    "Multi-platform"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 inch shipping labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Connection",
+     "value": "USB"
+    },
+    {
+     "label": "Systems",
+     "value": "Windows, Mac, Chromebook and Android"
+    },
+    {
+     "label": "Software",
+     "value": "BarTender UltraLite, Windows only"
+    }
+   ],
+   "description": "The USB Arkscan is the same design without the network jack. Its listing reads like a tour of seller platforms, which suits shippers who send parcels through FedEx and other carriers from several storefronts. It also prints barcodes and product labels, so a single machine can cover parcel and shelf.\n\nNext to the LAN version it is simpler and cheaper, but it ties the printer to one computer. Next to the Zebra it has far broader platform wording and none of the legacy ports. A shipper who works from one desk will find it a quiet performer.\n\nWipe the head, check the roller and keep the stack square. With a Chromebook it works as stated, and Mac users should plan on other software for label design.",
+   "bestFor": "Single-desk shippers who sell on several platforms and use FedEx among other carriers.",
+   "pros": [
+    "Names many platforms and postage tools",
+    "Supports Windows, Mac, Chromebook and Android",
+    "Prints product and barcode labels",
+    "Simple wired link"
+   ],
+   "cons": [
+    "Tied to one computer",
+    "Designer software is Windows only"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B072N3S7LV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31z71o0R+AS._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Carrier-family driver support",
+   "explanation": "FedEx's own software and several third-party tools were written around Zebra-style printer languages for years. The Zebra ZP450 belongs to that family and its listing names FedEx labels, while the Rollo, Arkscan and D450BT models rely on standard PDF printing through ordinary drivers. For a browser-based shipper, either works. For a shipper whose desktop software calls out a Zebra-compatible printer, the family name is a real requirement, not marketing."
+  },
+  {
+   "criterion": "Daily cut-off reliability",
+   "explanation": "A pickup window is a hard deadline, and a printer that needs coaxing at four in the afternoon costs more than any spec can recover. Wired links, as on the Zebra ZP450 and the two Arkscans, rarely fail at the wrong moment. Bluetooth and Wi-Fi models add a layer that can. Run a test label ten minutes before the deadline each day until you trust it."
+  },
+  {
+   "criterion": "Print speed in practice",
+   "explanation": "The ZP450 lists 5 inches per second at 203 dpi, and the Rollo Wireless lists 150 millimeters per second, which is just under 6 inches per second. For a few dozen daily labels, either clears the stack in under a minute. The mistake is to pay for speed and then wait on a slow computer or a weak Wi-Fi signal. Think about the whole path from the label page to the finished sticker."
+  },
+  {
+   "criterion": "Sharing across staff",
+   "explanation": "A single desk can use USB, but a team needs a network path. The Arkscan 2054A-LAN has an Ethernet jack, the Rollo Wireless joins Wi-Fi, and the Zebra ZP450 as listed has USB, serial and parallel only. If more than one person prints, count the computers and choose a network-capable model, because passing a USB cable around is a poor system."
+  },
+  {
+   "criterion": "Roll versus folded stock",
+   "explanation": "The D450BT takes both a roll and folded stock, and the others favor one or the other. Folded stacks are cheaper per label but need a straight feed from behind. Match the printer to the stock you intend to buy in bulk, since switching later means a new calibration and sometimes new accessories."
+  },
+  {
+   "criterion": "Parts and support in year three",
+   "explanation": "Thermal heads and platens wear, and a widely used family such as Zebra has replacement parts on shelves. Newer brands may not. A shipper who prints a hundred labels a day will want to know that the head can be replaced rather than the whole printer. Check the warranty period and spare-part availability before buying."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "203 dpi",
+   "meaning": "Dots per inch of print resolution, a standard for shipping labels. It gives clear barcodes and small text.",
+   "watchFor": "The ZP450 lists it, and the others generally match the same class."
+  },
+  {
+   "spec": "Inches per second",
+   "meaning": "How quickly paper moves under the head. Higher numbers shorten batches.",
+   "watchFor": "The ZP450 lists 5, and the Rollo Wireless lists 150 mm per second, about 5.9."
+  },
+  {
+   "spec": "Serial and parallel ports",
+   "meaning": "Older computer connections still found on legacy warehouse stations. Modern laptops usually lack them.",
+   "watchFor": "The ZP450 has both, but a laptop will use its USB port."
+  },
+  {
+   "spec": "Ethernet LAN",
+   "meaning": "A wired network connection that lets several computers share a printer.",
+   "watchFor": "The Arkscan 2054A-LAN is the only wired network model here."
+  },
+  {
+   "spec": "Folded versus roll stock",
+   "meaning": "Labels can come as a wound roll or as a folded stack, each fed differently.",
+   "watchFor": "The D450BT supports both, which gives purchasing flexibility."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Carrier fit",
+   "description": "We looked at which printers name carrier labels and which rely on generic 4x6 PDF printing. The Zebra ZP450 names UPS and FedEx. The other five do not, so we weighed the value of the name against setup effort."
+  },
+  {
+   "title": "Connection options",
+   "description": "USB, serial, parallel, Ethernet, Wi-Fi and Bluetooth were all counted. The ZP450 has three legacy ports, the Arkscan LAN has Ethernet, and the Rollo Wireless has Wi-Fi. Fallback routes scored higher than a single link."
+  },
+  {
+   "title": "Speed and workload",
+   "description": "The ZP450 lists 5 ips and the Rollo Wireless 150 mm/s. We judged both against a typical daily FedEx stack. For most shippers, steadiness mattered more than raw speed."
+  },
+  {
+   "title": "Stock handling",
+   "description": "Roll, folded and rear-fed designs were compared, with the D450BT standing out for taking both. Feed straightness and calibration needs were part of the notes."
+  },
+  {
+   "title": "Long-term ownership",
+   "description": "Parts supply, cleaning and driver upkeep were weighed. An established family scored higher on parts, and newer brands scored lower on history. Simple wired designs scored highest on upkeep."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Shipping Setup",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Software expects a Zebra-family printer",
+      "Zebra ZP450",
+      "Listing names FedEx and UPS labels."
+     ],
+     [
+      "Browser-based labels on one laptop",
+      "Rollo USB",
+      "Plain driver and a single cable."
+     ],
+     [
+      "Several staff print from different computers",
+      "Arkscan 2054A-LAN",
+      "Ethernet lets the network share it."
+     ],
+     [
+      "Print from an iPad or iPhone",
+      "Rollo Wireless",
+      "AirPrint over Wi-Fi."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "Rollo USB",
+      "Wired and basic."
+     ],
+     [
+      "Middle tier",
+      "Arkscan 2054A",
+      "Names many platforms."
+     ],
+     [
+      "Network tier",
+      "Arkscan 2054A-LAN",
+      "Adds Ethernet sharing."
+     ],
+     [
+      "Established-brand tier",
+      "Zebra ZP450",
+      "Carrier-known family."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Legacy Ports vs Wireless",
+   "cards": [
+    {
+     "label": "Legacy ports",
+     "text": "The Zebra ZP450 offers USB, serial and parallel. These suit warehouse stations that already have the cables. They do not help a phone."
+    },
+    {
+     "label": "Wireless",
+     "text": "The Rollo Wireless and D450BT print from phones. They suit mobile shippers. They add radio risk."
+    }
+   ],
+   "note": "Choose legacy ports for fixed stations and wireless for flexible shipping."
+  },
+  {
+   "subheading": "Stock Preference",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Roll or folded depending on price",
+      "D450BT",
+      "Takes both."
+     ],
+     [
+      "Folded stack behind the printer",
+      "Arkscan 2054A",
+      "Rear feed suits stacks."
+     ],
+     [
+      "Roll in a desk setup",
+      "Rollo USB",
+      "Standard roll path."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Daily Pickup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A printer that is ready without warm-up fuss, a spare roll and a test label routine. Wired models are the safest."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Zebra ZP450 and the two Arkscan models are wired and steady, so they suit a hard pickup deadline."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Several staff share the printer or your software expects a Zebra-family model. The Arkscan LAN and ZP450 each solve one."
+    },
+    {
+     "label": "Save if",
+     "text": "One laptop makes labels. The Rollo USB covers that cleanly."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the head",
+   "interval": "Every few rolls",
+   "why": "Adhesive and dust cause pale bars that carrier scanners can miss. Alcohol and a swab fix most streaks."
+  },
+  {
+   "task": "Wipe the platen roller",
+   "interval": "Monthly",
+   "why": "A dirty roller slips and causes skewed labels. Rotate it while cleaning."
+  },
+  {
+   "task": "Set media type after stock change",
+   "interval": "Each new brand",
+   "why": "Printers learn label gaps. A stale setting feeds blank labels."
+  },
+  {
+   "task": "Test before the cut-off",
+   "interval": "Daily",
+   "why": "A single test label ten minutes before pickup shows a problem while there is still time to fix it."
+  },
+  {
+   "task": "Check network or cable",
+   "interval": "Weekly for networked units",
+   "why": "A drifting address or a loose cable looks like a dead printer. Verify the link first."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does FedEx require a specific printer?",
+   "a": "FedEx labels print on standard 4x6 thermal stock, and many carrier tools support Zebra-family printers by name. For browser-based label printing, any 4x6 direct thermal printer works."
+  },
+  {
+   "q": "Is the Zebra ZP450 better than a cheaper printer?",
+   "a": "It has a stronger carrier heritage and legacy ports, but it needs more setup and has no wireless. A cheaper 4x6 printer prints the same label from a browser with less effort."
+  },
+  {
+   "q": "Can I print FedEx labels from my phone?",
+   "a": "Yes with a wireless model such as the Rollo Wireless or the D450BT. Share the label file to the app and print. Keep a cable-connected backup for deadline days."
+  },
+  {
+   "q": "How many labels can these print a day?",
+   "a": "Thermal heads can run hundreds of labels a day when kept clean. The limit is usually stock handling and connection rather than the head. Buy a spare roll ahead of busy weeks."
+  },
+  {
+   "q": "Do I need a network printer for an office?",
+   "a": "If several people print, yes. The Arkscan 2054A-LAN has an Ethernet jack. A Wi-Fi model also works if the signal is strong."
+  },
+  {
+   "q": "Why does my label print faint?",
+   "a": "A dirty head, worn paper or low heat setting is the usual cause. Clean the head and check the stock is direct thermal. A fading barcode can fail a pickup scan."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41OjukK-B9L._SL500_.jpg"
+}

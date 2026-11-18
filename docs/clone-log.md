@@ -647,3 +647,24 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Checks: audit ok (21/21), no 【, no em/en dashes, tsc ok, build ok (Compiled successfully + Finished TypeScript) after rm -rf .next.
 - Post-write duplicate audit (slug key + lineup overlap vs all 2,012 published slugs): best-50a-generator-transfer-switch was pulled after it was written and registered. It duplicates the published best-50-amp-generator-transfer-switch ("Best 50A ..." vs "Best 50 Amp ...", 5 of 6 products identical). The normalized slug key missed it because "50a" does not split into "50" + "amp". Add digit+unit splitting (50a -> 50 amp, 600a -> 600 amp) to the near-dup key before the next round.
 - Also noted, already published, no action taken: best-black-decker-electric-food-choppers shares 4 of 4 products with best-black-decker-food-processors, and best-hamilton-beach-electric-food-choppers shares 4 of 5 with best-hamilton-beach-food-processors. Different keywords and different prose, but identical lineups because Amazon returns the same machines for both searches.
+
+### Prefilter skips (2026-11-18)
+| Skipped slug | Reason |
+|---|---|
+| best-munbyn-label-printers | prefilter: only 1 distinct items match brand munbyn after extra searches |
+| best-rollo-label-printers | prefilter: only 2 distinct items match brand rollo after extra searches |
+| best-vevor-label-printers | prefilter: only 1 distinct items match brand vevor after extra searches |
+| best-vretti-label-printers | prefilter: only 1 distinct items match brand vretti after extra searches |
+| best-journeyman-pro-generator-transfer-switch | prefilter: only 2 distinct items match brand journeyman after extra searches |
+| best-vevor-100-amp-generator-transfer-switch | prefilter: only 0 distinct items match brand vevor after extra searches |
+
+## Round 45 (2026-11-18): label printers and generator transfer switches, 71 guides
+- Scope: 85 topics marked inprogress (label printer cluster plus the remaining generator transfer switch slugs). Final split: 71 written, 14 skipped.
+- Writers: 3 Sonnet agents in the first session (A transfer switches, B brands and print technology, C shipping, connectivity and under-N), then 2 Sonnet agents in a second session after the first hit its token limit. The resumed session recovered state from source-index.json plus the existing data/guides files rather than a RESUME note, which did not get written before the first session ended.
+- Second-session writers finished the last 8 slugs: network, qr-code, rfid, smart, usb and wireless label printers, plus generator-transfer-switch-and-plug and universal-generator-transfer-switch-converter. Research docs/research/label-printers.md and transfer-switches.md both existed, so no web searches were run.
+- Writer skips (13, scripts/clone/skip-a.txt and skip-b.txt): laser and inkjet label printers (no true laser or inkjet label printer in the data, only office document printers and sticker sheets), nelko and polono (2 distinct machines each, the rest are tape and label rolls), transfer switch 4-circuit (2 true 4-circuit kits), meter-socket (2 true units), scp-5k, natural-gas, tri-fuel (fuel-agnostic switches plus generators, no fuel-specific switch), onan-4000, onan-5500, predator-8750, predator-9000 (start/stop and oil pressure switches, no transfer switch tied to the model).
+- Post-write duplicate audit (slug key + lineup overlap, run against all published slugs and within the round): best-digital-label-printers was pulled after it was written. Its pool held 5 items and its 3-product lineup was a strict subset of both best-bluetooth-label-printers and best-iphone-label-printers in the same round, so it added no distinct lineup for a vague keyword.
+- Checked and kept: best-commercial-label-printers and best-label-printers-for-shopify share 4 products, but each has its own picks and the intents differ. best-generator-transfer-switch-and-plug and best-plug-in-generator-transfer-switch collide on the normalized key only because the key drops the stop words "and" and "in"; their lineups share 2 of 6 and the intents differ (a kit including the inlet plug versus a plug-in, non-hardwired switch), so both were kept on the user's call. The stop-word drop is a known false positive in neardup.mjs, worth remembering next round.
+- Checks on all 71: audit ok, selfcheck ok, 0 em/en dashes, 0 【, 0 star ratings or review counts, no "we tested"/"hands-on"; the only dollar figures are the four under-N caps, each in its own guide; metaTitle + 12 <= 60 and metaDescription 120-160 on all 71; every lineup has 3 to 7 products.
+- Repetition: no sentence of 70 characters or more appears in 3 or more guides.
+- Build: tsc clean, next build green (Compiled successfully and the TypeScript pass), registered in both data/guides.ts and data/dynamic-guides-registry.ts (2,050 total).

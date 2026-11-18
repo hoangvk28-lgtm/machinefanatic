@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-generator-transfer-switch-controller",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "generator transfer switch controller",
+ "guideTitle": "Best Generator Transfer Switch Controllers (2026)",
+ "metaTitle": "Best Generator Transfer Switch Controllers",
+ "metaDescription": "Six manual transfer switch panels that control which home circuits run on generator power, compared by circuit count, indicators and wiring effort.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The NUWJBYE 30 amp panel is the pick for owners who want visible control, because it adds a lit indicator for each circuit and a watt meter. The Reliance 31410CRK is the value pick for a 7,500 watt generator. Anyone searching for an automatic controller module should skip this guide and look at standby-generator systems, since every product here is operated by hand.",
+ "introParagraphs": [
+  "When shoppers type transfer switch controller they usually mean one of two things: a module that senses an outage and commands a generator, or a panel that lets a person choose which circuits receive generator power. Only the second is realistic for a portable generator.",
+  "The panels in this guide are manual controllers. They do not start the engine or sense the grid. What they give you is a safe, labelled place to decide which branch circuits are live, and the differences lie in indicators, circuit count and how much wiring comes done."
+ ],
+ "products": [
+  {
+   "id": "B0H2HH2RXR",
+   "rank": 1,
+   "badge": "Best Overall Controller",
+   "name": "NUWJBYE 30A 10-Circuit Manual Switch with LEDs and Watt Meter",
+   "amazonUrl": "https://www.amazon.com/dp/B0H2HH2RXR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41mCs06mzPL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 10-circuit",
+    "LED per circuit",
+    "Watt meter",
+    "NEMA 3R"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Indicators",
+     "value": "LED for each circuit"
+    },
+    {
+     "label": "Meter",
+     "value": "Mechanical watt meter"
+    },
+    {
+     "label": "Title claim",
+     "value": "ETL Listed; verify label"
+    }
+   ],
+   "description": "The most visible control feature in the group is a mechanical watt meter, which shows how much load the generator is carrying. Each circuit also has its own LED that lights when power is active, so you can see the state of the house from one panel without a multimeter.\n\nThat makes it the most useful controller for a beginner who does not know what a dishwasher actually draws. Against the Reliance 31410CRK, which offers the same ten circuits and 30 amp rating, the NUWJBYE gives up the established brand name and gains feedback. Against the Nature's Generator six-circuit panel, it adds four positions and the meter.\n\nUse the meter as a rough guide and the generator's own rated output as the limit. The title says ETL Listed; read the label on the box, and treat the install as a permit and electrician task in most jurisdictions. To get the most from the meter, write the wattage of each major appliance on masking tape beside its circuit label. Then, during an outage, add loads one at a time and watch the needle. Doing that rehearsal once on a calm day teaches the household more than any manual.",
+   "bestFor": "Owners who want to see live circuits and total load on the panel itself.",
+   "pros": [
+    "LED shows each circuit is energised",
+    "Mechanical watt meter for load awareness",
+    "Ten circuits at 30 amps",
+    "NEMA 3R enclosure in the listing"
+   ],
+   "cons": [
+    "Less-established brand, seller support only",
+    "Analog meter is a rough indicator",
+    "Wiring ten circuits is real labour"
+   ]
+  },
+  {
+   "id": "B000HS2L3O",
+   "rank": 2,
+   "badge": "Best Value for 7,500W Generators",
+   "name": "Reliance Controls 31410CRK Pro/Tran 10-Circuit 30A Kit",
+   "amazonUrl": "https://www.amazon.com/dp/B000HS2L3O?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Qtjj39aGL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 10-circuit",
+    "7,500W running",
+    "18in conduit whip",
+    "Pro/Tran"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Generator limit",
+     "value": "Up to 7,500 running watts"
+    },
+    {
+     "label": "Whip",
+     "value": "18-inch flexible conduit"
+    },
+    {
+     "label": "Series",
+     "value": "Pro/Tran"
+    }
+   ],
+   "description": "Reliance Controls designed this kit specifically around generators up to 7,500 running watts, which is a clear, honest ceiling that matches the common L14-30 outlet. The eighteen inch flexible conduit whip attaches the panel to the load center, so the wiring run is short and neat.\n\nIt competes with the NUWJBYE on rating and circuit count but has no LEDs or meter. In return you get a brand electricians already know and a design that appears in many installations, which makes parts and instructions easier to find than for a seller-only product.\n\nBecause the whip is only eighteen inches, the panel needs to mount beside the main panel. That is good for neatness and restrictive for placement, so check the layout before ordering. Verify any listing mark on the label. Ownership is easy: no batteries, no electronics, no software. The usual year-three issue is a loose lug or an inlet that corroded because its cover was left open, so the maintenance list at the end of this guide applies in full. Store the instruction sheet and a photo of the wiring diagram with the generator, because the person using the switch in an emergency is often not the person who installed it.",
+   "bestFor": "Homeowners with a 7,500-watt-class portable and a main panel with room alongside.",
+   "pros": [
+    "Clear 7,500 running watt design limit",
+    "Eighteen inch flexible whip included",
+    "Ten circuits at 30 amps",
+    "Familiar brand and widespread instructions"
+   ],
+   "cons": [
+    "No indicator lights or meter",
+    "Short whip forces panel placement",
+    "Inlet is a separate purchase"
+   ]
+  },
+  {
+   "id": "B00X7VVVTS",
+   "rank": 3,
+   "badge": "Best Compact 6-Circuit",
+   "name": "Reliance Controls 306C Pro/Tran 30A 6-Circuit Switch",
+   "amazonUrl": "https://www.amazon.com/dp/B00X7VVVTS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41uBKBb0esL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 6-circuit",
+    "Pro/Tran 2",
+    "Manual",
+    "Warranty"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Series",
+     "value": "Pro/Tran 2"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    },
+    {
+     "label": "Support",
+     "value": "Manufacturer warranty"
+    }
+   ],
+   "description": "The 306C trims the layout to six circuits, which is the sweet spot for a household that only needs refrigeration, heat, a pump and a few lights. Six positions on a thirty amp feed leave a generator running at sensible loads instead of at its limit.\n\nCompared with the ten-circuit 31410CRK, you save wiring time and panel space, and you lose four positions. Compared with the surface-mount Reliance B012DHO4A4, it is a more conventional layout. The listing text is short and mainly mentions the manufacturer warranty, so research the wiring details in the instruction sheet.\n\nThe real skill with six circuits is choosing the right six. Write the list, label the breakers, and test it once while the grid is still on.",
+   "bestFor": "Small households that can prioritise six essentials.",
+   "pros": [
+    "Six circuits cover core loads simply",
+    "Less wiring than ten-circuit panels",
+    "Established Pro/Tran family",
+    "Manufacturer warranty referenced"
+   ],
+   "cons": [
+    "Only six positions",
+    "Thin listing detail",
+    "No indicators or meter"
+   ]
+  },
+  {
+   "id": "B012DHO4A4",
+   "rank": 4,
+   "badge": "Best Surface-Mount Retrofit",
+   "name": "Reliance Controls 30A 240V 6-Circuit Surface Mount Kit",
+   "amazonUrl": "https://www.amazon.com/dp/B012DHO4A4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41-9fuY4tgL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 240V",
+    "6-circuit",
+    "Surface mount",
+    "2 space"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 240 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "Six singles or one double plus four"
+    },
+    {
+     "label": "Mounting",
+     "value": "Surface, beside load center"
+    },
+    {
+     "label": "Format",
+     "value": "Two-space kit"
+    },
+    {
+     "label": "Use",
+     "value": "Adjacent to existing panel"
+    }
+   ],
+   "description": "This kit installs adjacent to the existing load center and contains the components the listing says are needed to switch up to six single-pole circuits or one two-pole plus four single-pole. That flexibility is the unusual detail: a 240 volt load is allowed without giving up the whole panel.\n\nIt differs from the 306C in how the circuits are arranged and mounted. The surface-mount body suits an unfinished wall; it will not suit a finished room where you want a flush look.\n\nPlan the pole assignments with the electrician before buying, because a double-pole pump takes two of the six positions. Confirm the label for any listing and keep the cord and inlet matched to the thirty amp rating.",
+   "bestFor": "Retrofits beside an existing panel where one 240 volt load must be covered.",
+   "pros": [
+    "Allows one 240V circuit among six",
+    "Mounts next to the existing load center",
+    "Kit includes the switching components",
+    "Thirty amp rating fits common inlets"
+   ],
+   "cons": [
+    "Surface body is not flush",
+    "Only six positions",
+    "Needs separate inlet and cord"
+   ]
+  },
+  {
+   "id": "B0CSFRCZQ1",
+   "rank": 5,
+   "badge": "Best 120V-Only Six Circuit",
+   "name": "Nature's Generator 30A 6-Circuit 120V Manual Switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0CSFRCZQ1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CMuy8Eo1L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 120V",
+    "6-circuit",
+    "Selector switches",
+    "Pre-wired"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 120 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "6"
+    },
+    {
+     "label": "Control",
+     "value": "Manual selector switches"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pre-wired"
+    },
+    {
+     "label": "Listing claim",
+     "value": "UL Listed in title; verify"
+    }
+   ],
+   "description": "Manual selector switches let you choose, per circuit, whether it runs on the utility or the generator, which is the plainest meaning of a transfer controller. The panel is pre-wired and rated at 30 amps at 120 volts.\n\nIts 120 volt-only description is the limit. Compared with the Reliance surface-mount kit, which allows a 240 volt pair, this unit is for lights, outlets, refrigeration and small motors only. Compared with the NUWJBYE, it has no meter and no per-circuit lights.\n\nUse it when your essentials are all 120 volts. Verify the UL claim on the label, and have the install checked.",
+   "bestFor": "Households whose essentials are all 120V and who like per-circuit selector control.",
+   "pros": [
+    "Selector switch for each circuit",
+    "Pre-wired panel saves bench work",
+    "Thirty amp rating",
+    "Simple, no electronics"
+   ],
+   "cons": [
+    "120V circuits only",
+    "No indicators or meter",
+    "Six positions limit planning"
+   ]
+  },
+  {
+   "id": "B0CNQR39RT",
+   "rank": 6,
+   "badge": "Best High-Count Panel",
+   "name": "Nature's Generator 30A 12-Circuit Home Backup Panel",
+   "amazonUrl": "https://www.amazon.com/dp/B0CNQR39RT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51+5WGR3o0L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 120/240V",
+    "12 circuits",
+    "Lit rockers",
+    "Steel enclosure"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 120/240V"
+    },
+    {
+     "label": "Circuits",
+     "value": "12"
+    },
+    {
+     "label": "Controls",
+     "value": "Illuminated rocker switches"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Steel"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pre-wired"
+    }
+   ],
+   "description": "For owners who want the most control points, twelve circuits on a thirty amp feed is the top end here. The illuminated rocker switches give a visual cue similar to the NUWJBYE's LEDs, without the meter.\n\nThe arithmetic caps usefulness: twelve circuits share roughly 7,200 watts at 240 volts, so this panel is for rotation, not simultaneous use. Against the 31410CRK, you add two positions and lit switches.\n\nCheck that your main panel has room for conduit routing and be ready for a longer electrician visit. Verify label listings.",
+   "bestFor": "Load rotation across many circuits on a mid-size generator.",
+   "pros": [
+    "Twelve circuits at 120/240V",
+    "Lit rocker switches show status",
+    "Steel enclosure pre-wired",
+    "Good for rotating loads"
+   ],
+   "cons": [
+    "Shared 7,200W ceiling at 240V",
+    "Heaviest wiring job of the six",
+    "Listing claims need verification"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Manual control versus automatic sensing",
+   "explanation": "Every panel here needs a person to start the generator and move the switches. Automatic controllers, which watch the grid and start the engine, belong to standby generator systems and often require a professional. If nobody will be home during outages, a manual panel will not protect a freezer; consider whether a battery backup or an automatic standby system fits better. For a household with a medical device, a sump pump in a flood-prone basement or a long absence in winter, the gap between a manual panel and an automatic one is the gap between a good plan and a risky one. Be honest about who will actually be present at three in the morning."
+  },
+  {
+   "criterion": "Circuit count and priorities",
+   "explanation": "Six circuits on the Reliance 306C or Nature's Generator panel suit refrigeration, heat, pump and lights. Ten on the NUWJBYE or 31410CRK add a few outlets, and twelve on the Nature's Generator 12-circuit panel are for rotation. More positions means more wiring and a bigger electrician bill, so count only circuits you will truly power. A useful discipline is to write the circuit list in priority order and draw a line after the sixth entry. Anything below the line is a convenience, and paying for a ten-circuit panel to run a convenience is where budgets drift. The cheaper six-position panels also leave more generator headroom per circuit."
+  },
+  {
+   "criterion": "Visible status indicators",
+   "explanation": "LEDs on the NUWJBYE and lit rockers on the Nature's Generator 12-circuit panel show which circuits are live. In a dark house that is more useful than it sounds, since you can tell at a glance whether a breaker is on generator power. A meter, as on the NUWJBYE, shows total load, helping you avoid tripping the generator. The trade-off is that an analog meter is coarse and unlabelled for surge, so it cannot catch a one-second compressor start. Use indicators to confirm state and the generator nameplate to set limits, and do not let a green light talk you into overloading the engine."
+  },
+  {
+   "criterion": "Generator limit versus panel rating",
+   "explanation": "Thirty amps at 240 volts is about 7,200 watts, matching the Reliance 31410CRK's 7,500 running watt design. A larger generator cannot push more through these panels. A smaller one will run out of capacity before the panel does. Check the generator nameplate for continuous, not starting, wattage. Many sellers print the peak figure in large type, but a switch has to carry what the engine can deliver all evening, not what it can spike for a few seconds. When the two numbers differ a lot, use the lower one for planning and leave a margin of at least twenty percent."
+  },
+  {
+   "criterion": "Voltage handling",
+   "explanation": "The Nature's Generator six-circuit panel is 120 volt only, while the Reliance surface-mount kit can take one two-pole circuit and the 12-circuit Nature's Generator panel is 120/240 volt. A 240 volt well pump needs two poles. Decide first whether any load needs it. Electric water heaters, ranges and central air are also 240 volt, and a 120 volt-only panel quietly excludes them. If you only discover this after the wall is open, the fix is a different panel and a second permit."
+  },
+  {
+   "criterion": "Install and inspection reality",
+   "explanation": "A controller panel is wired to your main panel and generator inlet. Most jurisdictions require a permit and many require a licensed electrician. The listing marks in titles are seller statements. Verify labels, keep the instructions, and have the work inspected. Where the data only describes generic seller panels, such as the NUWJBYE, ask the electrician whether they are willing to install it, since some will only work with brands they already know and support."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Circuits",
+   "meaning": "How many branch circuits can be moved to generator power. Each is its own breaker or position.",
+   "watchFor": "Six, ten and twelve are all in this guide; pick by need."
+  },
+  {
+   "spec": "30 amp feed",
+   "meaning": "A feeder rated for 30 amps, about 3,600 watts at 120V or 7,200 at 240V. The wire, inlet and cord must all share that rating.",
+   "watchFor": "All six panels here are 30 amp."
+  },
+  {
+   "spec": "Selector or rocker switches",
+   "meaning": "The hand controls that assign each circuit to utility or generator.",
+   "watchFor": "Lit rockers are on the Nature's Generator 12-circuit panel."
+  },
+  {
+   "spec": "Watt meter",
+   "meaning": "A gauge that reads total load drawn from the generator.",
+   "watchFor": "Only the NUWJBYE lists one, and it is mechanical."
+  },
+  {
+   "spec": "Surface mount",
+   "meaning": "A box that mounts on the wall surface rather than recessed.",
+   "watchFor": "The Reliance surface kit installs beside the load center."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Controller meaning",
+   "description": "We defined controller as a manual panel selecting which circuits get generator power, because no standalone automatic controller exists in the data. All six are manual. We deliberately excluded dual-power relay modules sold for industrial use, since they are not residential kits and do not describe a safe house tie-in."
+  },
+  {
+   "title": "Control feedback",
+   "description": "Indicators and meters were weighed as usability. The NUWJBYE leads, the Nature's Generator 12-circuit panel follows with lit rockers, and the Reliance panels offer none."
+  },
+  {
+   "title": "Circuit and rating fit",
+   "description": "We compared six, ten and twelve circuit counts against a thirty amp ceiling to see where extra positions stop being useful."
+  },
+  {
+   "title": "Install burden",
+   "description": "Whips, prewiring and mounting style change labour. The 31410CRK's eighteen inch whip is short and neat."
+  },
+  {
+   "title": "Claim handling",
+   "description": "UL and ETL words in titles are repeated as seller claims only, with a reminder to check labels."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Circuit Count",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Six essentials",
+      "Reliance Controls 306C Pro/Tran",
+      "Compact and simple"
+     ],
+     [
+      "Ten circuits",
+      "Reliance Controls 31410CRK",
+      "7,500W design ceiling"
+     ],
+     [
+      "Twelve for rotation",
+      "Nature's Generator 30A 12-Circuit Panel",
+      "Most positions"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "Nature's Generator 30A 6-Circuit",
+      "Simple prewired panel"
+     ],
+     [
+      "Middle tier",
+      "NUWJBYE 30A 10-Circuit",
+      "LEDs and meter included"
+     ],
+     [
+      "Higher tier",
+      "Reliance Controls 31410CRK",
+      "Brand and whip"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Visible Feedback vs Plain Panel",
+   "cards": [
+    {
+     "label": "Visible feedback",
+     "text": "The NUWJBYE with LEDs and meter, and the Nature's Generator 12-circuit panel with lit rockers, show state at a glance."
+    },
+    {
+     "label": "Plain panel",
+     "text": "The Reliance 306C and 31410CRK are straightforward with no extras, easier to source support for."
+    }
+   ],
+   "note": "Choose feedback if the household includes first-time operators."
+  },
+  {
+   "subheading": "By Voltage Needs",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "All 120V loads",
+      "Nature's Generator 30A 6-Circuit 120V",
+      "Simple selector control"
+     ],
+     [
+      "One 240V pump",
+      "Reliance Controls 30A 240V Surface Kit",
+      "One two-pole circuit allowed"
+     ],
+     [
+      "Mixed loads",
+      "Nature's Generator 30A 12-Circuit",
+      "120/240V positions"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Refrigerators and Freezers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A dedicated position for each compressor and a generator with enough running watts for start surges. Check labels for the circuit."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Reliance 306C covers refrigeration plus a few more circuits simply, and the NUWJBYE meter helps you avoid overload."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want the NUWJBYE feedback features or the Reliance 31410CRK brand recognition."
+    },
+    {
+     "label": "Save if",
+     "text": "Six essential circuits are enough. The Nature's Generator six-circuit panel or the 306C meets that."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Cycle every switch",
+   "interval": "Every 6 months",
+   "why": "Idle contacts stiffen. Move each position with the generator off."
+  },
+  {
+   "task": "Check indicators",
+   "interval": "Each outage test",
+   "why": "A dead LED or lamp can hide a loose connection. Confirm each lights as expected. If one stays dark, switch the panel off and investigate before relying on it."
+  },
+  {
+   "task": "Re-torque terminals",
+   "interval": "Yearly",
+   "why": "Heat cycling loosens lugs. An electrician should tighten to the label value."
+  },
+  {
+   "task": "Review labels",
+   "interval": "After appliance changes",
+   "why": "A new freezer changes priorities. Keep the panel map current, and tape a printed copy inside the door where anyone can find it during an outage."
+  },
+  {
+   "task": "Inspect the whip",
+   "interval": "Yearly",
+   "why": "Flexible conduit can chafe at the knockout. Look for cracks or worn jacket, and replace the whip rather than taping over damage."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is there an automatic controller in this guide?",
+   "a": "No. Every panel is manual, so a person must start the generator and move the switches. Automatic sensing belongs to standby systems. If that is what you need, look at an automatic transfer switch paired with a standby generator, which is a professional installation with its own controller board and exercise schedule."
+  },
+  {
+   "q": "How many circuits do I need?",
+   "a": "Most households can ride out an outage on six to eight circuits. Ten and twelve are for rotating loads, and the generator must handle what you switch on."
+  },
+  {
+   "q": "Which panel lasts longest?",
+   "a": "Manual panels have few failure points. Lug tightness, contact wear and moisture decide life, so regular exercise matters more than brand. Between the Reliance panels and the seller-brand ones, the main difference after a few years is how easy it is to find parts and instructions, which favours the established names."
+  },
+  {
+   "q": "Does a watt meter replace a generator rating?",
+   "a": "No. The NUWJBYE meter is a rough guide. The generator's rated output is the limit. The meter is most helpful for learning, since it shows how much a microwave or a space heater adds when you switch it on, which tells you what to leave off during a long outage."
+  },
+  {
+   "q": "Can I install a panel myself?",
+   "a": "Most places require a permit and often a licensed electrician. Ask locally before buying."
+  },
+  {
+   "q": "Do UL or ETL titles prove approval?",
+   "a": "They are seller statements. Check the nameplate and ask the inspector."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41mCs06mzPL._SL500_.jpg"
+}

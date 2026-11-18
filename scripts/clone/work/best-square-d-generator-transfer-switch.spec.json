@@ -1,0 +1,420 @@
+{
+ "guideSlug": "best-square-d-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "square d generator transfer switch",
+ "guideTitle": "Best Square D Generator Transfer Switch Options (2026)",
+ "metaTitle": "Best Square D Generator Transfer Switch Options",
+ "metaDescription": "Three real ways to add a generator to a Square D panel: the QO generator panel with interlock and two interlock kits for QO and Homeline load centers, compared.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The Square D QO generator panel is the pick for a new or replaced sub-panel, because it is a factory-made 30 amp panel with an L14-30 inlet and a flip-two-breakers interlock for up to eight circuits. The LATING kit is the value pick for adding lockout to an existing QO or Homeline panel. Anyone with a different panel brand should skip all three, since interlock plates are panel-specific.",
+ "introParagraphs": [
+  "The QO and Homeline load center families are common in North American homes, which makes them a popular target for generator interlock kits. Such kits add a physical barrier so a main breaker and a generator breaker cannot be on together, which is the core of a safe manual changeover.",
+  "The catch is that interlocks are cut for one specific panel layout. This guide covers only products that name these panel families, explains which one suits a new sub-panel and which suit an existing main panel, and says plainly what remains for an electrician to do."
+ ],
+ "products": [
+  {
+   "id": "B00CONM68K",
+   "rank": 1,
+   "badge": "Best Factory-Built Generator Panel",
+   "name": "Square D QO1DM10030TRBR QO Generator Panel, 30A with Interlock",
+   "amazonUrl": "https://www.amazon.com/dp/B00CONM68K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51jzEFwFOnL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A main",
+    "Interlock",
+    "L14-30P inlet",
+    "Up to 8 circuits"
+   ],
+   "specList": [
+    {
+     "label": "Main rating",
+     "value": "30 amp main breaker"
+    },
+    {
+     "label": "Circuits",
+     "value": "Up to 8 circuits to a standby source"
+    },
+    {
+     "label": "Changeover",
+     "value": "Flip two QO main breakers"
+    },
+    {
+     "label": "Inlet",
+     "value": "30 amp L14-30P twist-lock receptacle"
+    },
+    {
+     "label": "Maker",
+     "value": "Square D by Schneider Electric"
+    }
+   ],
+   "description": "This is the only product here made by Square D itself, and it is a complete small panel instead of a part. The listing describes connecting a standby source to as many as eight circuits, with the changeover done by flipping two QO main breakers, and an L14-30P twist-lock receptacle built into the bottom end wall for a direct generator connection.\n\nThat design makes the transfer procedure physical and visible: turn the utility main off, turn the generator main on, and the interlock stops you doing both. It suits a house where the essential circuits can be moved into this sub-panel, which then becomes the generator-backed panel. Compared with the aftermarket kits below, it is a new load center to install and wire, so it costs more and needs more electrical work.\n\nThe thirty amp main sets the ceiling at roughly 7,200 watts at 240 volts, which matches a mid-size portable generator. Because it is a branded, factory-made panel, an electrician and an inspector usually find it easier to accept than an aftermarket plate. Check the label for any listing and keep the paperwork for your permit. In daily use the panel is almost invisible: the breakers stay in their utility positions all year, and the inlet sits under a cover waiting for a storm. Its failure points are the inlet and the cord, not the breakers, so the care routine is a seasonal look at the receptacle, a dry cover and a cord with sound insulation. Plan a labelled circuit directory in the panel door, because the person flipping the breakers in an emergency may not be the person who installed it.",
+   "bestFor": "Houses that can move essential circuits into a new generator sub-panel.",
+   "pros": [
+    "Factory-made panel from the panel maker",
+    "Interlocked flip-two-breakers changeover",
+    "Built-in L14-30 twist-lock inlet",
+    "Serves up to eight circuits"
+   ],
+   "cons": [
+    "A new panel means more install work",
+    "Thirty amp main caps the generator size",
+    "Circuits must be relocated into it"
+   ]
+  },
+  {
+   "id": "B09QKHVXFC",
+   "rank": 2,
+   "badge": "Best Value Interlock for Existing Panels",
+   "name": "LATING Generator Interlock for Square D QO or Homeline 150/200A",
+   "amazonUrl": "https://www.amazon.com/dp/B09QKHVXFC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51pQ1yBce3L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "QO/Homeline",
+    "150 or 200A",
+    "1-3/8in spacing",
+    "Anodized aluminum"
+   ],
+   "specList": [
+    {
+     "label": "Fits",
+     "value": "Square D QO or Homeline 150/200 amp panels"
+    },
+    {
+     "label": "Spacing",
+     "value": "1-3/8 inches between main and generator breaker"
+    },
+    {
+     "label": "Material",
+     "value": "Aluminum alloy, anodized"
+    },
+    {
+     "label": "Finish",
+     "value": "Brushed nickel"
+    },
+    {
+     "label": "Function",
+     "value": "Mechanical lockout"
+    }
+   ],
+   "description": "A machined aluminum plate that slides behind the panel cover is the cheapest route to a lockout on an existing QO or Homeline load center. The listing names panels rated at 150 or 200 amps with 1-3/8 inch spacing between the main breaker and the generator breaker, a detail you must verify on your own panel before ordering.\n\nIt does not add circuits or an inlet. You still need a dedicated two-pole generator breaker beside the main, a feeder to an outdoor inlet and a correctly bonded generator. Against the Square D QO generator panel, it keeps your existing load center and every circuit in it, but it leaves you to build the rest of the system.\n\nOwnership is simple: the plate has no moving parts apart from the slide, so the usual care is checking that the mounting screw is tight and that the panel cover still closes properly. Because some jurisdictions want a listed kit, ask your inspector whether an aftermarket plate is accepted before spending money. Remember that the plate only blocks two breakers from being on together, so the safety of the whole system still depends on the generator breaker being the right size for the feeder wire and the inlet. Many owners label the generator breaker in red and write the sequence on a card inside the panel door, so the order of operations survives a stressful night.",
+   "bestFor": "Owners of a matching QO or Homeline main panel who want a low-cost lockout.",
+   "pros": [
+    "Fits existing QO and Homeline load centers",
+    "Anodized, corrosion-resistant aluminum",
+    "No new panel or relocated circuits",
+    "Mechanical lockout with no electronics"
+   ],
+   "cons": [
+    "Panel-specific, spacing must match",
+    "Leaves the generator breaker and inlet to you",
+    "Acceptance varies by jurisdiction"
+   ]
+  },
+  {
+   "id": "B086Q41H4H",
+   "rank": 3,
+   "badge": "Best Alternative Interlock Kit",
+   "name": "GenSafety NSD200A Square D QO and Homeline Interlock Kit",
+   "amazonUrl": "https://www.amazon.com/dp/B086Q41H4H?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BYb3mLnWL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "QO/Homeline",
+    "200A class",
+    "Anodized",
+    "Interlock kit"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "NSD200A"
+    },
+    {
+     "label": "Fits",
+     "value": "Square D QO and Homeline panels"
+    },
+    {
+     "label": "Finish",
+     "value": "Anodized"
+    },
+    {
+     "label": "Function",
+     "value": "Generator interlock"
+    },
+    {
+     "label": "Listing detail",
+     "value": "Title only"
+    }
+   ],
+   "description": "GenSafety's kit is described in the title as a Square D generator interlock for QO and Homeline panels, in an anodized finish, with a model name pointing to the 200 amp class. The listing has no further detail, so it gives you the fitment and nothing about spacing, materials or instructions.\n\nThat sparseness makes it a second-source option against the LATING kit rather than a different kind of product. Where the LATING listing names the 1-3/8 inch spacing, this one leaves you to check the manufacturer's instructions for the exact fitment, so ask for the installation sheet before ordering.\n\nIf your electrician has used this kit before, familiarity is a real advantage. As with any plate, the dedicated generator breaker, the inlet and the neutral and ground arrangement are separate jobs, and a permit is likely. Keep the model number on the invoice for the inspector. A kit with a bare title also deserves a short phone call to the seller: ask for the instruction sheet, the dimensions of the slot and the panel models it fits, and write the answers on the order. If the seller cannot answer, choose a kit whose listing states its fitment and spacing, since a plate that nearly fits is worse than none. Ownership is as light as the LATING, with a yearly check that the plate has not shifted.",
+   "bestFor": "Owners of a QO or Homeline panel whose electrician already knows this kit.",
+   "pros": [
+    "Names QO and Homeline panels directly",
+    "Anodized finish resists corrosion",
+    "Familiar to some installers",
+    "No new panel needed"
+   ],
+   "cons": [
+    "Listing gives no spacing or material detail",
+    "Panel-specific fitment must be verified",
+    "Generator breaker and inlet are separate"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "New sub-panel or existing panel",
+   "explanation": "The Square D QO generator panel is a new load center that you wire to a utility feed and a generator inlet, with up to eight circuits moved into it. The two interlock kits fit the load center you already own. A sub-panel is more work but gives a clean, labelled backup panel. A plate is cheaper but leaves the whole house on the generator breaker, so load management is up to you. In practice that means a written list of which large loads to leave off, since the generator breaker feeds the whole panel. A panel with eight chosen circuits protects you from yourself by design, while a plate trusts you to behave, and that difference is the main reason some households pay more for the sub-panel."
+  },
+  {
+   "criterion": "Panel family and spacing",
+   "explanation": "The LATING kit lists QO or Homeline panels at 150 or 200 amps with 1-3/8 inch spacing between the main and the generator breaker. Square D also makes other panel families, and some use different spacing, so a plate for one family will not fit another. Read the label inside your panel door, note the model, and match it to the listing exactly. Photograph the inside of the panel with the cover off, including the breaker layout and the label, and send it to the seller or the electrician before you order. A panel that has been modified, or one with an unusual main breaker, may not suit a plate even if the model number looks right, and a ten minute check beats a return shipment."
+  },
+  {
+   "criterion": "Generator size versus panel rating",
+   "explanation": "The QO generator panel has a 30 amp main, so it matches a mid-size portable generator around 7,500 watts. An interlock on a 200 amp panel passes whatever the generator breaker allows, which is set by the breaker and the feeder wire, not the plate. Size the generator breaker and the inlet cord to the generator's outlet, and never exceed the generator's rated output. A common mistake is to use a 200 amp panel as a reason to buy a very large generator, when the feeder and inlet are sized for thirty or fifty amps. Another is to assume that a larger generator breaker makes more power available; it only makes the feeder less protected, which is dangerous."
+  },
+  {
+   "criterion": "What the kit does not include",
+   "explanation": "Neither interlock kit includes the generator breaker, the inlet box, the cord or the feeder wire. The QO panel includes an L14-30P inlet but not the feeder to the main panel. Price the whole chain before you compare. A cheap plate with a long, heavy-gauge feeder can cost more than a factory panel with a short run. Ask the electrician to itemise the quote: breaker, inlet, conduit, wire, permit, inspection and labour. Comparing totals rather than kit prices usually reveals that the cheaper-looking route is not always cheaper, particularly when the main panel is far from the generator location."
+  },
+  {
+   "criterion": "Neutral and ground handling",
+   "explanation": "A generator tie-in changes how neutral and ground are connected, and a portable generator with a floating neutral behaves differently from one with a bonded neutral. This is the part of the job that most often goes wrong, because a second bond between neutral and ground can create unsafe current paths. Follow the generator and panel manuals and have an electrician confirm. Inverter generators and some portables ship with a floating neutral, while others bond neutral to the frame, and the right wiring depends on which you own. Some manuals show a bonding plug or a switch for this very reason, and ignoring it is how a safe install becomes an unsafe one."
+  },
+  {
+   "criterion": "Inspector acceptance and permits",
+   "explanation": "Many jurisdictions require a permit for any generator connection and some insist on a kit listed for the specific panel. A factory Square D panel is the easiest to defend, and an aftermarket plate may need extra discussion. Ask your inspector what is accepted before you buy, and never rely on a listing's wording as proof of approval. A factory panel also leaves a clearer paper trail for an insurance claim, since the nameplate, the model number and the permit all line up. Keep digital copies of each in a folder you can reach without power."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "QO",
+   "meaning": "A Square D load center family using plug-on breakers. Interlock plates are cut for its breaker layout.",
+   "watchFor": "All three products here name QO."
+  },
+  {
+   "spec": "Homeline",
+   "meaning": "A lower-cost Square D load center family with a different breaker style from QO.",
+   "watchFor": "The two kits name Homeline as well as QO."
+  },
+  {
+   "spec": "1-3/8 inch spacing",
+   "meaning": "The gap between the main breaker and the generator breaker that a plate must span.",
+   "watchFor": "Named in the LATING listing."
+  },
+  {
+   "spec": "L14-30P twist-lock",
+   "meaning": "A four-prong locking connector rated for thirty amps at 120/240 volts.",
+   "watchFor": "Built into the QO generator panel."
+  },
+  {
+   "spec": "Interlock",
+   "meaning": "A mechanical barrier that stops the utility main and generator breaker being on together.",
+   "watchFor": "Panel includes one; kits add one."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Brand fit",
+   "description": "We kept only products that name Square D panels. Generic transfer switches that merely work beside a Square D panel were left out, because the question is about fitment. We also excluded switches for other panel brands and the general home transfer kits found elsewhere in this series, which have their own guides. Only three real fits exist in the data, so the guide explains the choice at greater length instead of padding the list."
+  },
+  {
+   "title": "Product type",
+   "description": "We separated a factory panel from aftermarket plates, since they solve the same safety problem at different effort and cost."
+  },
+  {
+   "title": "Listing clarity",
+   "description": "We favoured listings that state spacing, finish and function. The GenSafety entry is a title only, and we say so. A title-only listing is not a defect, but it shifts the research burden onto you, so the evaluation penalises it and rewards products that state their spacing and function plainly."
+  },
+  {
+   "title": "Install burden",
+   "description": "A new sub-panel, a generator breaker and an inlet are different jobs. We weighed what each product leaves for the electrician. The factory panel leaves relocating circuits and running the feeder, while the plates leave a breaker, an inlet and a feeder. Neither route is trivial, and both need a permit in most places."
+  },
+  {
+   "title": "Claim caution",
+   "description": "No listing mark, code compliance or amperage rating is confirmed on a product's behalf, and we point readers to labels and inspectors."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Existing Equipment",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Adding a new backup sub-panel",
+      "Square D QO Generator Panel (QO1DM10030TRBR)",
+      "Factory panel with inlet"
+     ],
+     [
+      "Existing QO or Homeline main panel",
+      "LATING QO/Homeline Interlock",
+      "Fits 1-3/8 inch spacing"
+     ],
+     [
+      "Installer prefers another kit",
+      "GenSafety NSD200A Interlock",
+      "Second-source plate"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "LATING QO/Homeline Interlock",
+      "Plate only"
+     ],
+     [
+      "Low-mid tier",
+      "GenSafety NSD200A Interlock",
+      "Plate only, alternative source"
+     ],
+     [
+      "Higher tier",
+      "Square D QO Generator Panel",
+      "A complete panel"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Sub-Panel vs Interlock Plate",
+   "cards": [
+    {
+     "label": "Sub-panel",
+     "text": "The Square D QO generator panel creates a labelled backup panel with an inlet. Circuits are moved into it, and the generator size is bounded by its thirty amp main."
+    },
+    {
+     "label": "Interlock plate",
+     "text": "The LATING and GenSafety kits lock out the existing main against a generator breaker. Cheaper, but the whole panel is live and load management is yours."
+    }
+   ],
+   "note": "Choose the sub-panel if you can relocate circuits; choose a plate if you want to keep the panel as it is."
+  },
+  {
+   "subheading": "By Generator Class",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "7,500W portable with L14-30 outlet",
+      "Square D QO Generator Panel",
+      "Matches the 30 amp inlet"
+     ],
+     [
+      "Larger generator, 50 amp outlet",
+      "LATING QO/Homeline Interlock",
+      "Generator breaker sized separately"
+     ],
+     [
+      "Unsure of generator",
+      "GenSafety NSD200A Interlock",
+      "Fitment only; size breaker later"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Inspection Confidence Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A kit or panel made for your exact Square D model, a manual to hand the inspector, and a permit pulled before the work starts."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Square D QO generator panel is the manufacturer's own product, which is usually the easiest to defend."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a clean, factory-made backup panel with an inlet, which points to the Square D QO generator panel."
+    },
+    {
+     "label": "Save if",
+     "text": "You own a matching QO or Homeline main panel and your inspector accepts plates. The LATING kit is the economical choice."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check the plate fit",
+   "interval": "Yearly",
+   "why": "Screws loosen and plates drift. Confirm the slot still stops one breaker when the other is on."
+  },
+  {
+   "task": "Cycle the breakers",
+   "interval": "Every 6 months",
+   "why": "Exercise the main and generator breakers with the generator off so they do not stick."
+  },
+  {
+   "task": "Inspect the inlet",
+   "interval": "Before storm season",
+   "why": "Corroded pins heat up under load. Clean them with a dry brush, look for discolouration and replace worn covers, since a damaged twist-lock inlet is the weakest link in the chain."
+  },
+  {
+   "task": "Re-torque lugs",
+   "interval": "Yearly",
+   "why": "Thermal cycling loosens terminals. An electrician should tighten them to label torque."
+  },
+  {
+   "task": "Review the circuit directory",
+   "interval": "After any change",
+   "why": "A backup panel is only useful if its labels are current. Print a fresh directory after each change and tape a spare copy inside the door so a visitor can follow it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Will an interlock kit fit any Square D panel?",
+   "a": "No. Kits are cut for specific families and spacings, such as QO or Homeline at 1-3/8 inches. Read your panel label and match the listing exactly, or ask Square D which kit it approves."
+  },
+  {
+   "q": "Is the QO generator panel a complete transfer switch?",
+   "a": "It is a small panel with an interlock and an inlet, so it works as a manual transfer arrangement for up to eight circuits. You still need the feeder, the cord and a permitted install."
+  },
+  {
+   "q": "Which is cheaper, a plate or a panel?",
+   "a": "A plate is usually cheaper to buy, but the full job includes a breaker, an inlet and wiring. Get an electrician's quote for each route before deciding. Ask also how long each route takes, since a sub-panel needs circuits moved and may require the power to be off for most of a day, while a plate is often an afternoon job once the breaker and inlet are in place."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Almost always, and many places require a licensed electrician. Ask the local authority first, and keep the paperwork."
+  },
+  {
+   "q": "Can I use the LATING kit on a different brand of panel?",
+   "a": "No. The kit is made for Square D QO and Homeline panels. Other brands have their own kits. Even within the Square D name, older panel families used different spacings, so do not rely on the brand alone. Match the model printed on the panel label."
+  },
+  {
+   "q": "Does a listing mention of compatibility prove approval?",
+   "a": "No. It is a seller statement. Check the panel manufacturer's list of approved kits and ask the inspector."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51jzEFwFOnL._SL500_.jpg"
+}

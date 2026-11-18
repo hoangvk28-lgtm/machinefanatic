@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-outdoor-rated-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "outdoor rated generator transfer switch",
+ "guideTitle": "Best Outdoor Rated Generator Transfer Switches (2026)",
+ "metaTitle": "Best Outdoor Rated Generator Transfer Switches",
+ "metaDescription": "Six generator transfer switches built for exterior walls, from NEMA 3R steel panels and 200 amp levers to a meter-mounted unit and a gasketed 30 amp box.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The NUWJBYE 50 amp NEMA 3R panel is the pick for a house that wants an outdoor-rated circuit panel with indicator lights and a watt meter. The POOAMY 50 amp kit is the value pick for a plain weatherproof panel. Anyone mounting a switch where water can pool or spray should note that rain-rated is not flood-rated, and should raise the box above the splash line.",
+ "introParagraphs": [
+  "Mounting a transfer switch on an exterior wall saves a long indoor wire run and keeps the electrical work near the meter, but it exposes the equipment to rain, snow, sun and dust. Ratings exist to describe how much of that a box can take.",
+  "This guide covers products whose listings state a weather rating or a weather-resistant build, explains what the common ratings mean in practice, and points out the installation habits that keep an outdoor box working for years."
+ ],
+ "products": [
+  {
+   "id": "B0H2HJZKWD",
+   "rank": 1,
+   "badge": "Best Overall Outdoor Panel",
+   "name": "NUWJBYE 50A 10-Circuit Manual Switch with Watt Meter, NEMA 3R",
+   "amazonUrl": "https://www.amazon.com/dp/B0H2HJZKWD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GCvaLV0mL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A 10-circuit",
+    "NEMA 3R",
+    "Watt meter",
+    "LED per circuit"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 10 circuits"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R"
+    },
+    {
+     "label": "Meter",
+     "value": "Mechanical watt meter"
+    },
+    {
+     "label": "Indicators",
+     "value": "LED for each circuit"
+    },
+    {
+     "label": "Claim",
+     "value": "Title says ETL Listed; verify"
+    }
+   ],
+   "description": "A NEMA 3R rating means the enclosure is built to shed rain, sleet and snow and to stay undamaged by outside ice formation, and it is the common rating for exterior electrical boxes. This panel pairs that rating with ten circuits at fifty amps, a mechanical watt meter and an LED for each circuit.\n\nThe feedback features are the reason it ranks first for outdoor use. A box on an exterior wall is often visited in bad weather and bad light, and lit indicators and a meter tell you what the generator is doing without opening anything else. Compared with the POOAMY panel, it adds that feedback while sharing the rain rating.\n\nThe title cites ETL listing, which should be checked on the label. Mount it high enough to be clear of splash, point the conduit entry down and keep the cover closed. Plan a permit and an electrician, as with any panel tie-in. On a winter wall, ice can load the cover with weight, so a brisk tap to knock it off before opening saves a latch. Year after year, the meter is the part to watch for drift: compare its reading with the generator's own display during a test, and trust the generator's display when they disagree.",
+   "bestFor": "Houses that want an exterior panel with live-circuit lights and a load meter.",
+   "pros": [
+    "NEMA 3R rain-rated enclosure",
+    "LED indicator for each circuit",
+    "Mechanical watt meter shows load",
+    "Fifty amps across ten circuits"
+   ],
+   "cons": [
+    "Unfamiliar brand with seller-only support",
+    "Analog meter is approximate",
+    "Title claim needs a label check"
+   ]
+  },
+  {
+   "id": "B0H3ZNTDD1",
+   "rank": 2,
+   "badge": "Best Value Weatherproof Panel",
+   "name": "POOAMY 50A 10-Circuit Manual Transfer Switch, NEMA 3R, 12,500W",
+   "amazonUrl": "https://www.amazon.com/dp/B0H3ZNTDD1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GCvaLV0mL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A 120/240V",
+    "10 circuits",
+    "NEMA 3R",
+    "12,500W max"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240V"
+    },
+    {
+     "label": "Capacity",
+     "value": "12,500W maximum"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Heavy-duty steel with protective finish, NEMA 3R"
+    },
+    {
+     "label": "Install",
+     "value": "Pre-drilled holes and instructions"
+    }
+   ],
+   "description": "POOAMY describes a heavy-duty steel enclosure with a premium protective finish and a NEMA 3R rating, which is the right combination for an outdoor wall: steel resists impact and the finish resists rust. The listing quotes a 12,500 watt maximum at 120/240 volts and ten circuits.\n\nIt is a plain panel, with no meter and no lights, and that simplicity is its appeal. Against the NUWJBYE it costs less and tells you less, so you will rely on the generator's own readouts.\n\nPre-drilled holes make mounting easier, and the instructions are described as easy to follow, though generic sellers tend to give thinner documentation than established brands. Seal the mounting holes against water, run the conduit in from below and have an electrician confirm the breaker sizes. Steel boxes also act as a heat sink in summer sun, so a shaded wall is kinder to breakers than a south-facing one. Where the only wall available faces the afternoon sun, a small hood above the box reduces heat and keeps rain off the cover.",
+   "bestFor": "An exterior fifty amp panel where a plain steel NEMA 3R box is enough.",
+   "pros": [
+    "Heavy-duty steel NEMA 3R enclosure",
+    "Fifty amps with 12,500W stated maximum",
+    "Pre-drilled mounting holes",
+    "Ten circuits at 120/240V"
+   ],
+   "cons": [
+    "No meter or indicator lights",
+    "Thin documentation",
+    "Generic seller support"
+   ]
+  },
+  {
+   "id": "B0DQ9MGLFY",
+   "rank": 3,
+   "badge": "Best Rain-Rated Whole-House Lever",
+   "name": "Tzechkii 200A Manual Double-Throw Transfer Switch, NEMA 3R",
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ9MGLFY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A 120/240V",
+    "Galvanized",
+    "NEMA 3R",
+    "Double throw"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240V"
+    },
+    {
+     "label": "Capacity",
+     "value": "48,000W as listed"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel, NEMA 3R"
+    },
+    {
+     "label": "Action",
+     "value": "Manual double-throw lever"
+    },
+    {
+     "label": "Role",
+     "value": "Whole-service changeover"
+    }
+   ],
+   "description": "This is the heavy outdoor option: a galvanized steel enclosure that the listing says meets NEMA 3R for rain, with a manual double-throw lever that moves a whole service between the grid and a generator. Galvanizing coats the steel with zinc, which slows rust even where paint chips.\n\nThe device is built for the meter wall of a house, where the service enters. Compared with the circuit panels above, it is bigger, heavier and a service-entrance job, and it leaves load management to you.\n\nBecause it lives outdoors for decades, check the gasket and the latch each autumn, and keep insects and wasps out of the lower vent area. A licensed electrician and a permit are the norm, and utility notice may be needed. The enclosure is large, so mount it on a backer board or masonry with anchors rated for its weight, and never rely on siding alone. A stable mount also keeps vibration from the nearby generator from loosening terminals over the seasons.",
+   "bestFor": "Whole-house switching mounted beside the meter.",
+   "pros": [
+    "Galvanized NEMA 3R enclosure",
+    "Whole-service lever",
+    "No electronics to fail",
+    "Never closes both sources"
+   ],
+   "cons": [
+    "Service-entrance work, electrician only",
+    "Heavy and bulky to mount",
+    "Load management is manual"
+   ]
+  },
+  {
+   "id": "B0FGCNDNPW",
+   "rank": 4,
+   "badge": "Best Alternative 200A Outdoor Lever",
+   "name": "LNEUIE 200A Manual Double-Throw Safety Switch, 48,000W",
+   "amazonUrl": "https://www.amazon.com/dp/B0FGCNDNPW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A 120/240V",
+    "Galvanized case",
+    "Double throw",
+    "Aluminum lugs"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240V"
+    },
+    {
+     "label": "Capacity",
+     "value": "48,000W as listed"
+    },
+    {
+     "label": "Case",
+     "value": "Galvanized steel, protective coating"
+    },
+    {
+     "label": "Connections",
+     "value": "Aluminum, no electronics"
+    },
+    {
+     "label": "Action",
+     "value": "Manual double throw"
+    }
+   ],
+   "description": "LNEUIE's lever has the same job and similar construction: a galvanized case with a protective coating, aluminum connections and a manual double-throw action. The listing does not state a NEMA rating in the data, so confirm it before you mount the box where rain can reach it.\n\nThe missing rating is the key difference from the Tzechkii for outdoor use. If the label shows an outdoor rating, the two are close, and if it does not, use the box indoors or add a rated enclosure.\n\nAluminum lugs call for the right torque and an anti-oxidant compound, and outdoor boxes see wider temperature swings that loosen them. Plan an annual re-torque. If the label shows no rating, ask the seller in writing which standard the case meets before mounting it outside, and keep the reply. A box rated only for indoor use will rust, leak and eventually fail, and the failure point is usually the one place you cannot see, inside the lug compartment.",
+   "bestFor": "Whole-house lever switching where the label confirms an outdoor rating.",
+   "pros": [
+    "Coated galvanized case",
+    "Manual lever with no electronics",
+    "200A service-level capacity",
+    "Simple operation"
+   ],
+   "cons": [
+    "Outdoor rating not stated in the listing",
+    "Aluminum lugs need torque discipline",
+    "Service-level install"
+   ]
+  },
+  {
+   "id": "B0D3VQBPG8",
+   "rank": 5,
+   "badge": "Best Weather-Resistant Meter Mount",
+   "name": "GenerLink 30A Automatic Transfer Switch with Surge, Meter-Mounted",
+   "amazonUrl": "https://www.amazon.com/dp/B0D3VQBPG8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4182r+ZYuJL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 240V",
+    "Meter-mounted",
+    "Weather-resistant",
+    "Automatic"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 240V"
+    },
+    {
+     "label": "Mount",
+     "value": "Meter socket"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic transfer"
+    },
+    {
+     "label": "Service",
+     "value": "Supports up to 200 amp service"
+    },
+    {
+     "label": "Build",
+     "value": "Weather-resistant, built for outdoor use"
+    }
+   ],
+   "description": "A meter-mounted unit lives in the open by design, so the listing's description of a weather-resistant, outdoor-use build is central to the product. It plugs into the utility meter socket, carries thirty amps at 240 volts and includes a surge variant.\n\nBecause it hangs on the meter, it avoids drilling and conduit entirely, which removes one source of water entry. The cost is that the whole house is live and the capacity is thirty amps, about 7,200 watts.\n\nCheck the cover seal and the cord connection after every use, since the cable is the exposed part, and ask the utility whether it allows the device. The unit is exposed to sun as well as rain, so look for plastic that yellows or cracks and replace the cover if it does. A cracked cover is the commonest way water reaches the plug, so check it before every storm season and keep a spare on hand. Because the generator cord is the main wear item, buy one with a jacket rated for outdoor use and keep it off the ground between uses.",
+   "bestFor": "Homes that want no drilled box and whose utility allows meter-mounted devices.",
+   "pros": [
+    "Built for outdoor use at the meter",
+    "No conduit or box to seal",
+    "Automatic transfer",
+    "Supports up to 200 amp service per listing"
+   ],
+   "cons": [
+    "Thirty amp ceiling",
+    "Utility approval may be needed",
+    "Whole house is live"
+   ]
+  },
+  {
+   "id": "B0H444TNC4",
+   "rank": 6,
+   "badge": "Best Gasketed Single-Circuit Box",
+   "name": "Joinfworld 30A 125V L5-30P Manual Transfer Switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0H444TNC4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41tBfn8LYxL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 125V",
+    "Gasketed covers",
+    "Steel box",
+    "Internal breaker"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 125V"
+    },
+    {
+     "label": "Inlet",
+     "value": "L5-30P"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Powder-coated steel, gasketed receptacle covers"
+    },
+    {
+     "label": "Protection",
+     "value": "Internal circuit breaker"
+    },
+    {
+     "label": "Resists",
+     "value": "Dust, moisture and typical garage conditions"
+    }
+   ],
+   "description": "Joinfworld describes a powder-coated steel enclosure with gasketed receptacle covers built to resist dust, moisture and typical garage conditions. That is a protected-location claim rather than a NEMA outdoor rating, so treat it as a covered-porch or garage product.\n\nIt is the smallest item here, a single 120 volt circuit with an internal breaker and engraved terminals. Against the outdoor-rated panels, it gives up capacity and an explicit rain rating, and gains a very easy install.\n\nUse it on a sheltered wall, not in direct rain. Keep the receptacle covers closed when the generator is not connected. A small bead of exterior sealant above the box, not around it, helps divert water without blocking the drain holes. On a porch wall, check that the box is not shaded by plants that stay wet, which can keep the gasket damp for months.",
+   "bestFor": "One circuit on a sheltered wall or in a garage.",
+   "pros": [
+    "Gasketed receptacle covers",
+    "Powder-coated steel enclosure",
+    "Breaker and switch in one box",
+    "Engraved L, N and GND terminals"
+   ],
+   "cons": [
+    "No explicit outdoor rating",
+    "One circuit only",
+    "Manual operation"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What NEMA 3R means",
+   "explanation": "A NEMA 3R enclosure is designed for rain, sleet and snow and to stay intact when ice forms on the outside. It is not designed for submersion or high-pressure spray, and it does not guarantee that condensation will not form inside. The NUWJBYE, POOAMY and Tzechkii listings state it. Treat it as the baseline for an exterior wall. Higher ratings exist for locations that see spray or hose-down, and they matter near a pool or in a car wash bay. For an ordinary house wall under an eave, the 3R class is the standard choice and the cheapest to buy."
+  },
+  {
+   "criterion": "Stated rating versus build language",
+   "explanation": "Some listings state a rating, and others use words such as weather-resistant or resists moisture. The GenerLink and the Joinfworld use descriptive language instead of a NEMA number. Descriptive wording is not the same as a certified rating, so confirm the label or place the product under cover. Ask the seller which standard the case meets, and whether the rating covers the whole assembly or only the box. A wide gap between claim and label is a reason to return the product rather than install it."
+  },
+  {
+   "criterion": "Mounting height and orientation",
+   "explanation": "Water pools and splashes near the ground, snow drifts against walls and ice slides from roofs. Mount the box above the splash line, away from downspouts and dryer vents, with the conduit entering from below. A rain-rated box in a bad spot fails faster than an indoor box in a good one. Walk around the house after a heavy rain and note where water runs, since that is where the box should not be. A spot under a deep eave, away from gutters and corners, is ideal."
+  },
+  {
+   "criterion": "Metal finish and fasteners",
+   "explanation": "Galvanized and powder-coated steel resist rust, and stainless fasteners resist it better. Scratches and drilled holes break the coating, so touch them up and seal the mounting holes. On a coastal wall, salt air attacks aluminum lugs and bare steel first, so inspect them more often."
+  },
+  {
+   "criterion": "Temperature swings",
+   "explanation": "Outdoor boxes expand and contract daily, which loosens terminals over the years. Aluminum lugs, as on the LNEUIE, are particularly sensitive. Plan a yearly re-torque by an electrician, and prefer a box that lets you reach the lugs without removing a panel."
+  },
+  {
+   "criterion": "Permits and listing",
+   "explanation": "A tie-in to house wiring is regulated electrical work in most places. Titles that say ETL Listed are seller statements, so read the label. A weather rating is a separate matter from a safety listing, and an inspector may ask for both."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "NEMA 3R",
+   "meaning": "A rain-resistant outdoor enclosure rating. It does not cover flooding or pressure washing.",
+   "watchFor": "Stated for the NUWJBYE, POOAMY and Tzechkii."
+  },
+  {
+   "spec": "Galvanized steel",
+   "meaning": "Steel coated in zinc to slow rust, even where the paint chips.",
+   "watchFor": "Listed for the Tzechkii and LNEUIE."
+  },
+  {
+   "spec": "Gasketed cover",
+   "meaning": "A cover with a rubber seal that keeps dust and moisture out of a receptacle.",
+   "watchFor": "Listed for the Joinfworld."
+  },
+  {
+   "spec": "Weather-resistant",
+   "meaning": "A descriptive claim without a standard behind it. Confirm on the label.",
+   "watchFor": "Used for the GenerLink."
+  },
+  {
+   "spec": "Meter-mounted",
+   "meaning": "A unit that plugs into the utility meter socket, with no box drilled into the wall.",
+   "watchFor": "The GenerLink only."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Stated rating",
+   "description": "We favoured listings that name a NEMA rating over those that use general weather language, because the former can be checked."
+  },
+  {
+   "title": "Build materials",
+   "description": "Galvanized and powder-coated steel were weighed above plain finishes, based on listing descriptions."
+  },
+  {
+   "title": "Scale of install",
+   "description": "We covered a gasketed single-circuit box, fifty amp panels, a meter mount and 200 amp levers so readers can match the box to the job."
+  },
+  {
+   "title": "Feedback features",
+   "description": "Lights and meters matter outdoors, where checking state is awkward. The NUWJBYE leads on that count."
+  },
+  {
+   "title": "Claim caution",
+   "description": "Weather and safety claims come from listings and are not verified by this guide. Readers should check labels and ask the inspector, and should treat any rating as a minimum to be confirmed on the delivered unit. Outdoor equipment ages in ways a spec sheet cannot show, so the maintenance list matters as much as the rating."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Exposure",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Open wall in rain and snow",
+      "NUWJBYE 50A NEMA 3R Panel",
+      "Stated rating plus indicators"
+     ],
+     [
+      "Meter wall, whole service",
+      "Tzechkii 200A NEMA 3R Lever",
+      "Galvanized rain-rated box"
+     ],
+     [
+      "Sheltered porch or garage",
+      "Joinfworld 30A Gasketed Box",
+      "Gasketed covers"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "Joinfworld 30A Gasketed Box",
+      "Single circuit"
+     ],
+     [
+      "Middle tier",
+      "POOAMY 50A NEMA 3R Panel",
+      "Plain steel panel"
+     ],
+     [
+      "Higher tier",
+      "GenerLink 30A Meter-Mounted",
+      "No drilled box"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Drilled Box vs Meter Mount",
+   "cards": [
+    {
+     "label": "Drilled box",
+     "text": "The NUWJBYE, POOAMY and levers mount to the wall with conduit. Good seals matter, and every hole is a potential leak."
+    },
+    {
+     "label": "Meter mount",
+     "text": "The GenerLink hangs on the meter socket with no drilling. Fewer leak paths, but the whole house is live."
+    }
+   ],
+   "note": "Choose a box for circuit control; choose a meter mount to avoid drilling and panel work."
+  },
+  {
+   "subheading": "By Visibility of State",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Want to see live circuits",
+      "NUWJBYE 50A Panel",
+      "LED per circuit"
+     ],
+     [
+      "Want to see load",
+      "NUWJBYE 50A Panel",
+      "Mechanical watt meter"
+     ],
+     [
+      "Plain and simple",
+      "POOAMY 50A Panel",
+      "No electronics"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Snow and Coastal Walls Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A galvanized or powder-coated body, stainless fasteners, a conduit entry from below and a cover that closes tightly. Plan a yearly look for rust, and wash salt or road grime off the case with fresh water and a soft cloth, never a pressure washer, which can force water past the gaskets."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Tzechkii and LNEUIE list galvanized cases, and the POOAMY lists a protective finish on heavy steel."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want feedback on an exterior panel, which points to the NUWJBYE, or whole-service switching with the Tzechkii."
+    },
+    {
+     "label": "Save if",
+     "text": "A plain rain-rated box is enough. The POOAMY covers fifty amps and ten circuits."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect gaskets and latches",
+   "interval": "Each autumn",
+   "why": "Rubber hardens and cracks. Replace any seal that no longer closes tightly."
+  },
+  {
+   "task": "Check for rust and chipped paint",
+   "interval": "Yearly",
+   "why": "Touch up scratches and mounting holes before rust spreads under the finish."
+  },
+  {
+   "task": "Re-torque lugs",
+   "interval": "Yearly",
+   "why": "Temperature swings loosen terminals, aluminum especially. An electrician should tighten to label torque."
+  },
+  {
+   "task": "Clear insects and debris",
+   "interval": "Each spring",
+   "why": "Wasps and spiders build in vents and conduits, and nests can bridge contacts. Clear them with the power off, and fit a fine mesh over any open vent so they cannot return, taking care not to block drainage."
+  },
+  {
+   "task": "Exercise the switches",
+   "interval": "Every 6 months",
+   "why": "Idle contacts stiffen. Operate each position with the generator off, and note any that feel gritty, since outdoor boxes collect fine dust that wears contacts."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is NEMA 3R the same as waterproof?",
+   "a": "No. It means rain and snow resistant. It does not cover flooding, submersion or pressure washing, so mount the box above the splash line."
+  },
+  {
+   "q": "Can an indoor transfer switch go outside?",
+   "a": "Only in a rated enclosure. An indoor panel exposed to rain corrodes and can fail dangerously, so use a product with an outdoor rating or place it under cover."
+  },
+  {
+   "q": "How often should I inspect an outdoor box?",
+   "a": "Look at seals, finish and terminals at least once a year, and after any severe storm. Open the cover only with dry hands and dry weather, and look for water marks, rust streaks, insect nests and discoloured terminals."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Almost always, and many places require a licensed electrician. Ask your local authority first."
+  },
+  {
+   "q": "Does ETL Listed in a title prove approval?",
+   "a": "No. It is a seller statement. Read the nameplate and ask the inspector."
+  },
+  {
+   "q": "Is a meter-mounted unit easier to keep dry?",
+   "a": "It avoids drilled holes, which removes leak paths, but the cord and cover still need care, and the utility must allow it."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41GCvaLV0mL._SL500_.jpg"
+}

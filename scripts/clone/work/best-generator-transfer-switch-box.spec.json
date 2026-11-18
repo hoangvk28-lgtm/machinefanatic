@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-generator-transfer-switch-box",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "generator transfer switch box",
+ "guideTitle": "Best Generator Transfer Switch Boxes (2026)",
+ "metaTitle": "Best Generator Transfer Switch Boxes",
+ "metaDescription": "Six enclosed transfer switch boxes compared, from 15 and 20 amp single-circuit inlet boxes to 100 and 200 amp double-throw service switches.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The Afurkuot 20 amp inlet box is the pick for most people who only need to keep a furnace or a freezer alive, because it pairs a plug, a breaker and a reset button in one enclosure. The RVMATE is the value choice for a 15 amp circuit. Anyone eyeing the 100 or 200 amp metal boxes should hire an electrician first, since those are service-level disconnects, not weekend projects.",
+ "introParagraphs": [
+  "The phrase transfer switch box covers two very different products. One is a small weatherproof enclosure with an inlet plug and a breaker that feeds a single circuit. The other is a large galvanized disconnect that sits beside the main panel and swaps the whole service between utility and generator.",
+  "Buyers confuse the two because the listings use similar words. This guide separates them clearly, explains what each box is physically doing, and flags which tasks are reasonable for a careful owner and which belong to a licensed electrician."
+ ],
+ "products": [
+  {
+   "id": "B0G1SS8RKH",
+   "rank": 1,
+   "badge": "Best Overall Small Box",
+   "name": "Afurkuot 20A Transfer Switch with NEMA 5-20P Inlet Box",
+   "amazonUrl": "https://www.amazon.com/dp/B0G1SS8RKH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wCrV71+QL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "20A 125V",
+    "5-20P inlet",
+    "Breaker built in",
+    "Reset button"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "20 amp, 125 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "Single circuit"
+    },
+    {
+     "label": "Inlet",
+     "value": "NEMA 5-20P"
+    },
+    {
+     "label": "Features",
+     "value": "Circuit breaker and reset button"
+    },
+    {
+     "label": "Install",
+     "value": "Prewired with punched knockouts"
+    }
+   ],
+   "description": "Afurkuot puts three things in one metal box: a 5-20P inlet, a circuit breaker and a reset button. The breaker is the part that matters on a bad day, because a generator plugged into an overloaded circuit trips this box rather than cooking the house wire. The knockouts are already punched, so the box accepts conduit without drilling.\n\nIt serves a single circuit at 125 volts, roughly 2,400 watts at the limit, which fits a gas furnace blower, a chest freezer or a sump pump but not a pair of those at once. Next to the RVMATE, this is the better choice if your generator has a 20 amp household outlet, since 15 amp cords and plugs do not mate with a 5-20 inlet in the same way.\n\nMount it where the cord can reach without crossing a doorway, run conduit to the appliance circuit, and label it clearly for whoever else lives in the house. A transfer arrangement like this still needs correct wiring and often a permit, so get that sorted before the first outage.",
+   "bestFor": "A single furnace, freezer or sump pump circuit fed from a 20 amp generator outlet.",
+   "pros": [
+    "Built-in breaker protects the branch circuit",
+    "Reset button returns power after a trip",
+    "Pre-punched knockouts speed up conduit",
+    "Matches common 5-20 generator outlets"
+   ],
+   "cons": [
+    "Feeds only one 120V circuit",
+    "About 2,400 watts maximum",
+    "Wiring still needs a competent installer"
+   ]
+  },
+  {
+   "id": "B0BYN564RC",
+   "rank": 2,
+   "badge": "Best 15 Amp Box",
+   "name": "RVMATE 15A 120V Transfer Switch with Breaker and Inlet",
+   "amazonUrl": "https://www.amazon.com/dp/B0BYN564RC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aIiWErQVL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "15A 125V",
+    "Breaker equipped",
+    "Inlet box",
+    "Pre-drilled"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "15 amp, 125 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "Single circuit"
+    },
+    {
+     "label": "Protection",
+     "value": "Circuit breaker for switching"
+    },
+    {
+     "label": "Title claim",
+     "value": "ETL certificated; verify label"
+    },
+    {
+     "label": "Install",
+     "value": "Pre-drilled holes"
+    }
+   ],
+   "description": "RVMATE's 15 amp box is the lightest-duty hardware here, suited to circuits that never pull more than about 1,800 watts. Its breaker doubles as the manual changeover, so one control handles both protection and switching. The listing calls it ETL certificated, a claim to confirm on the nameplate.\n\nIt sits one step below the Afurkuot, which doubles the outlet size to 20 amps and adds a reset button. If your furnace circuit is a standard 15 amp branch, this box matches it exactly and avoids paying for headroom you cannot use, because the feed wire sets the actual limit anyway.\n\nThe box ships with pre-drilled holes meant for easy mounting, which helps on a block wall or a stud. Keep the generator cord short, ground the generator correctly according to its manual, and have the connection to the existing circuit checked by someone who understands neutral and ground handling.",
+   "bestFor": "A standard 15 amp furnace or fridge circuit where cost and simplicity matter.",
+   "pros": [
+    "Exactly matches a 15A branch circuit",
+    "Breaker also acts as the changeover",
+    "Pre-drilled holes for mounting",
+    "Listing cites ETL certification"
+   ],
+   "cons": [
+    "Smallest capacity in the group",
+    "One circuit only",
+    "Certification claim needs a label check"
+   ]
+  },
+  {
+   "id": "B0DSMV3TS4",
+   "rank": 3,
+   "badge": "Best Prewired 20A Alternative",
+   "name": "OPL5 20A 125V Prewired Transfer Switch Inlet Box",
+   "amazonUrl": "https://www.amazon.com/dp/B0DSMV3TS4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31GhOSDGpiL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "20A 125V",
+    "5-20P inlet",
+    "Prewired",
+    "Breaker"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "20 amp, 125 volt"
+    },
+    {
+     "label": "Maximum",
+     "value": "2,500W as listed"
+    },
+    {
+     "label": "Inlet",
+     "value": "NEMA 5-20P"
+    },
+    {
+     "label": "Protection",
+     "value": "Circuit breaker included"
+    },
+    {
+     "label": "Wiring",
+     "value": "Prewired"
+    }
+   ],
+   "description": "OPL5 sells the same 20 amp concept as Afurkuot, with a 2,500 watt ceiling stated in the listing and a breaker so overload cannot burn the load. The inlet is a 5-20P, which suits many modern portable generators with a household-style outlet.\n\nThe differentiator against the Afurkuot is simplicity: the listing emphasises the prewired build and the breaker but makes no mention of a separate reset button. Between two nearly identical boxes, pick on which one has the cleaner wiring instructions and the knockout layout that fits your conduit.\n\nThis category rewards boring habits. Fit a weatherproof cover over the inlet when it is not in use, check the breaker position each season, and keep the generator cord rated for the full 20 amps. A thin extension cord will heat before the breaker notices.",
+   "bestFor": "Owners who want a no-frills 20 amp prewired box and compare listings line by line.",
+   "pros": [
+    "Listing states a 2,500W ceiling",
+    "Breaker protects against overload",
+    "Prewired for faster install",
+    "5-20P inlet fits household-style outlets"
+   ],
+   "cons": [
+    "No reset button mentioned",
+    "Single 120V circuit only",
+    "Little detail on enclosure rating"
+   ]
+  },
+  {
+   "id": "B0GKTRTTR8",
+   "rank": 4,
+   "badge": "Best for RV and Solar Backup",
+   "name": "Generic 15-20A 120V Prewired Corrosion-Resistant Transfer Box",
+   "amazonUrl": "https://www.amazon.com/dp/B0GKTRTTR8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cM2xyam7L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "15-20A 120V",
+    "Prewired copper",
+    "Metal housing",
+    "RV friendly"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "15 to 20 amp, 120 volt"
+    },
+    {
+     "label": "Wiring",
+     "value": "Prewired copper"
+    },
+    {
+     "label": "Housing",
+     "value": "Corrosion-resistant metal"
+    },
+    {
+     "label": "Use",
+     "value": "Indoor, outdoor, RV camping"
+    },
+    {
+     "label": "Source compatibility",
+     "value": "Generators and solar systems"
+    }
+   ],
+   "description": "This is an unbranded box, listed as suitable for 15 or 20 amp use, with a corrosion-resistant metal housing and copper prewiring. It is aimed at RV camping and emergency backup, and the seller also mentions compatibility with solar power systems.\n\nThe split 15-20 amp rating is the catch. It does not say which amperage your particular circuit gets, so confirm what breaker and wire are actually in the box before you rely on it. Compared with the Afurkuot, there is less documentation and no reset button, but the metal casing and flexible use cases attract campers.\n\nBuy it for temporary or mobile use rather than as a permanent house tie-in. Check the label, torque the terminals yourself or have an electrician do it, and keep a spare weatherproof cap in the glovebox.",
+   "bestFor": "RV, camping and light solar backup where flexibility beats documentation.",
+   "pros": [
+    "Pre-wired copper cuts install work",
+    "Corrosion-resistant metal housing",
+    "Works with generators and solar sources",
+    "Suits indoor, outdoor and RV use"
+   ],
+   "cons": [
+    "Unbranded with sparse documentation",
+    "Rating is stated as a 15 to 20A range",
+    "Not a documented house tie-in"
+   ]
+  },
+  {
+   "id": "B0DQNHC64W",
+   "rank": 5,
+   "badge": "Best 100 Amp Service Box",
+   "name": "Sekelo 100A 120/240V Double-Throw Transfer Switch Box",
+   "amazonUrl": "https://www.amazon.com/dp/B0DQNHC64W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41MSmkFpS3L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "100A 120/240V",
+    "Double throw",
+    "Galvanized box",
+    "Arc protection"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "100 amp, 120/240 volt"
+    },
+    {
+     "label": "Capacity",
+     "value": "24,000W as listed"
+    },
+    {
+     "label": "Action",
+     "value": "Manual double-throw"
+    },
+    {
+     "label": "Housing",
+     "value": "Galvanized steel"
+    },
+    {
+     "label": "Safety note",
+     "value": "Listing mentions arc-fault concerns"
+    }
+   ],
+   "description": "Here the word box means a whole-service disconnect. The listing describes a manual double-throw switch with aluminum connections, no electronics and a galvanized housing, rated at 100 amps and 24,000 watts. That moves the whole house, or a 100 amp sub-panel, between the grid and the generator in one lever throw.\n\nThe size jump from the small boxes is enormous. Against the Afurkuot's 2,400 watts, this unit can pass ten times the power, so it only makes sense with a large portable or a standby unit. It is also the kind of device that is wired into the service entrance, which means an electrician and a permit are the default expectations.\n\nBecause the connections are aluminum, torque and anti-oxidant compound at each lug matter, and the box should be inspected annually. Do not confuse this with a plug-in solution. It is a hard-wired service component.",
+   "bestFor": "Whole-service backup with a large generator installed by a licensed electrician.",
+   "pros": [
+    "Passes up to 100 amps at 120/240V",
+    "Manual lever with no electronics",
+    "Galvanized steel enclosure",
+    "Single throw moves the whole load"
+   ],
+   "cons": [
+    "Service-level install needs a permit",
+    "Aluminum lugs demand correct torque",
+    "Far beyond a casual DIY job"
+   ]
+  },
+  {
+   "id": "B0DQ9MGLFY",
+   "rank": 6,
+   "badge": "Best 200 Amp Whole-House Box",
+   "name": "Tzechkii 200A Manual Double-Throw Transfer Switch, NEMA 3R",
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ9MGLFY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A 120/240V",
+    "NEMA 3R",
+    "Double throw",
+    "48,000W listed"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240 volt"
+    },
+    {
+     "label": "Capacity",
+     "value": "48,000W as listed"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel, NEMA 3R"
+    },
+    {
+     "label": "Action",
+     "value": "Manual lever, double throw"
+    },
+    {
+     "label": "Use",
+     "value": "Utility to auxiliary source"
+    }
+   ],
+   "description": "At 200 amps, this galvanized NEMA 3R box matches a typical full-size residential service. The listing describes a lever that moves between utility power and an auxiliary source such as a gas generator, with the double-throw action preventing both sources connecting at once.\n\nThe 48,000 watt figure is the switch's ceiling, not a statement about what your generator can deliver. Next to the Sekelo's 100 amps, this is the one for houses whose entire service must be switchable. Most portable generators cannot come near it, so you would normally pair it with a standby generator or run load-managed.\n\nTreat it as electrician-only equipment. Service entrance work can be lethal, the utility has to be involved in some jurisdictions, and a permit is typical. Check the label for any listing you need, because this guide cannot confirm a certification from marketing text alone. Because it sits outdoors, ask the installer about a lockable cover and a clear label on the lever, so a neighbour or a family member knows the correct position before touching it.",
+   "bestFor": "Whole-house service switching paired with a standby generator, installed by a professional.",
+   "pros": [
+    "200A rating matches full residential service",
+    "NEMA 3R galvanized outdoor enclosure",
+    "Double-throw lever blocks dual feed",
+    "No electronics to fail"
+   ],
+   "cons": [
+    "Service-entrance work, not DIY",
+    "Rating far exceeds portable output",
+    "Utility coordination may be required"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Small inlet box or service switch",
+   "explanation": "A 15 or 20 amp inlet box feeds one circuit at roughly 1,800 or 2,400 watts. A 100 or 200 amp double-throw box, like the Sekelo or the Tzechkii, swaps an entire panel. Decide which job you have: three essential appliances, or a whole service. Mixing the two by buying a big box for a furnace is the most common over-purchase, and it brings a permit and electrician bill with it."
+  },
+  {
+   "criterion": "Breaker and reset behaviour",
+   "explanation": "The Afurkuot and OPL5 include breakers, and the Afurkuot adds a reset button. A breaker means an overloaded generator trips in the box instead of the appliance cord overheating. On a cold night a reset button saves a trip to the panel. Check that the trip rating matches the wire gauge feeding the circuit, since a breaker larger than the wire protects nothing."
+  },
+  {
+   "criterion": "Inlet shape and generator match",
+   "explanation": "A 5-20P inlet suits generators with household-style outlets, while 15 amp boxes like the RVMATE need a matching cord. Locking inlets are more secure but require compatible cords. Look at your generator panel before buying: a mismatch means an adapter, and adapters are where overloaded circuits begin."
+  },
+  {
+   "criterion": "Enclosure material and weather rating",
+   "explanation": "The Tzechkii is described as NEMA 3R galvanized steel, the Sekelo as galvanized housing, the generic box as corrosion-resistant metal. A 3R rating covers rain, not submersion. Outdoor mounting needs sealed entries, a downward-facing conduit hub and a cover that closes over the inlet when unused, otherwise condensation enters the box. Mount the enclosure with the cord entering from below so water running down the cable drips off before reaching the plug, and keep it away from dryer vents and gutter downspouts, which both throw moisture at the wall."
+  },
+  {
+   "criterion": "Aluminum versus copper connections",
+   "explanation": "The Sekelo lists aluminum connections and the generic box lists copper prewiring. Aluminum is fine when correctly torqued with compound, but it loosens with heat cycles. If an electrician is already involved, ask which they prefer. Terminal torque is a label number, not a guess. Under-tightened lugs are the usual cause of hot spots in transfer equipment, and a burnt terminal often shows only as a faint brown stain. If you see it, shut everything down and have the connection redone instead of cleaning it and carrying on."
+  },
+  {
+   "criterion": "Permits and professional install",
+   "explanation": "Any device that ties a generator to house wiring is a permit item in many places, and service-level boxes are almost always electrician-only. This guide reports seller statements and makes no claim of code compliance. Ask the inspector what is accepted, and never use a homemade double-ended cord as a shortcut."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "15A or 20A, 125V",
+   "meaning": "Single-circuit capacity at household voltage, about 1,800 or 2,400 watts. The feed wire decides the true limit.",
+   "watchFor": "The RVMATE is 15A, the Afurkuot and OPL5 are 20A."
+  },
+  {
+   "spec": "100A or 200A, 120/240V",
+   "meaning": "Service-level ratings that cover both legs of a split-phase panel. Capacity is in the tens of thousands of watts.",
+   "watchFor": "The Sekelo lists 24,000W and the Tzechkii 48,000W, both well above portable output."
+  },
+  {
+   "spec": "Double throw",
+   "meaning": "One lever with two positions, utility or generator, never both. It is the core of a manual transfer switch.",
+   "watchFor": "Both big boxes here use it; the small ones rely on a breaker and inlet arrangement."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "A rain-tight enclosure rating for outdoor mounting. It does not cover flooding.",
+   "watchFor": "Stated for the Tzechkii; confirm the others on the label."
+  },
+  {
+   "spec": "Pre-punched knockouts",
+   "meaning": "Circular cutouts sized for conduit fittings so you do not drill into a live enclosure.",
+   "watchFor": "The Afurkuot lists them; check the position suits your conduit run."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Box type separation",
+   "description": "We split small inlet boxes from service-level disconnects because they solve different problems. Six distinct boxes made the list, four small and two large. We left out meter-mounted adapters, interlock kits and multi-circuit panels, which have their own guides, so a reader comparing here sees like with like."
+  },
+  {
+   "title": "Capacity honesty",
+   "description": "We read stated ratings and wattage figures and treated them as ceilings. The Afurkuot at 20 amps and the Tzechkii at 200 amps differ by a factor of ten, so the guide ranks them within their class."
+  },
+  {
+   "title": "Protection features",
+   "description": "Breakers, reset buttons and arc notes were weighed as practical safety aids, based on the spec sheet and owner feedback patterns."
+  },
+  {
+   "title": "Install burden",
+   "description": "Prewiring, knockouts and mounting holes lower labour on small boxes, while service-level units demand an electrician. That burden shaped each pick."
+  },
+  {
+   "title": "Claim caution",
+   "description": "ETL and similar words appear in some titles. We did not treat them as proof, and we ask readers to check labels with the local inspector."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Number of Circuits Covered",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "One furnace or freezer",
+      "Afurkuot 20A Inlet Box",
+      "Breaker and reset in one box"
+     ],
+     [
+      "One 15A circuit only",
+      "RVMATE 15A Transfer Switch",
+      "Matches a 15A branch"
+     ],
+     [
+      "Entire 100A service",
+      "Sekelo 100A Double-Throw",
+      "Whole-panel changeover"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Generic 15-20A Transfer Box",
+      "Cheapest, sparse documentation"
+     ],
+     [
+      "Low-mid tier",
+      "OPL5 20A Inlet Box",
+      "Prewired with breaker"
+     ],
+     [
+      "Highest tier",
+      "Tzechkii 200A Double-Throw",
+      "Full service capability"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Inlet Box vs Service Disconnect",
+   "cards": [
+    {
+     "label": "Inlet box",
+     "text": "The Afurkuot, RVMATE, OPL5 and generic box connect one circuit to a plug. Low power, quick install, limited scope."
+    },
+    {
+     "label": "Service disconnect",
+     "text": "The Sekelo and Tzechkii swap an entire panel with one lever. High power, professional install, permit expected."
+    }
+   ],
+   "note": "Choose an inlet box for a few appliances and a service disconnect only with a licensed electrician."
+  },
+  {
+   "subheading": "By Mounting Environment",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Exterior rain exposure",
+      "Tzechkii 200A NEMA 3R",
+      "Rain-tight rating listed"
+     ],
+     [
+      "Camper or trailer",
+      "Generic 15-20A Transfer Box",
+      "RV and solar use described"
+     ],
+     [
+      "Indoor utility wall",
+      "RVMATE 15A Box",
+      "Simple pre-drilled mounting"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Furnaces Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A box matching the furnace circuit's breaker size, a stable generator outlet and a cord long enough to keep exhaust away from the house. Many furnace circuits are 15 amp."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The RVMATE matches a 15 amp furnace branch; the Afurkuot suits a 20 amp branch and adds a reset button."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need the whole house switched through the Sekelo or Tzechkii, or you want the Afurkuot reset button for a frequent-use circuit."
+    },
+    {
+     "label": "Save if",
+     "text": "Your need is one circuit. The RVMATE or the OPL5 covers it without paying for headroom."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check the breaker",
+   "interval": "Every 6 months",
+   "why": "A stuck or tripped breaker is the usual reason a box fails when needed. Operate it and reset it with the generator off."
+  },
+  {
+   "task": "Seal the inlet cover",
+   "interval": "Each season",
+   "why": "Moisture inside an inlet corrodes the pins. Replace a cracked cap and re-seal the conduit entry."
+  },
+  {
+   "task": "Torque lugs",
+   "interval": "Yearly",
+   "why": "Heat cycles loosen terminals, especially aluminum. An electrician should torque to the label figure."
+  },
+  {
+   "task": "Inspect the cord",
+   "interval": "Each use",
+   "why": "Check the plug for discolouration and the jacket for cuts. A damaged cord defeats the box."
+  },
+  {
+   "task": "Verify labels",
+   "interval": "After any panel change",
+   "why": "Mark which circuit the box feeds so others do not overload it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is a transfer switch box?",
+   "a": "It is an enclosure that safely connects a generator to house wiring. Small versions hold an inlet plug and breaker for one circuit. Large versions are double-throw disconnects for a whole panel."
+  },
+  {
+   "q": "Should I buy a 15 or 20 amp box?",
+   "a": "Match the circuit you intend to power. A 15 amp furnace circuit suits the RVMATE, while a 20 amp branch suits the Afurkuot or OPL5. A bigger box cannot raise the wire's limit. If you are unsure which breaker protects the circuit, read the number on the panel or ask the electrician, then pick the box whose rating equals or sits just above that number, never below it."
+  },
+  {
+   "q": "How long do these boxes last?",
+   "a": "Metal boxes with sealed covers can last years, but breakers, inlets and lugs wear. Exercising them twice a year and inspecting for corrosion catches problems early. The cheap, unbranded units deserve closer attention in year two or three, since plating and plastic bodies vary more between sellers than between established electrical manufacturers."
+  },
+  {
+   "q": "Can a 20 amp box run an air conditioner?",
+   "a": "Usually not. At 2,400 watts the box can carry a small window unit, but central air needs a larger switch and a generator sized for the start surge."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Most places require one for a generator tie-in, and service-level switches almost always need a licensed installer. Ask the local authority before buying."
+  },
+  {
+   "q": "Is an ETL claim in a title enough?",
+   "a": "No. It is a seller statement. Check the nameplate and ask your inspector what they accept."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41wCrV71+QL._SL500_.jpg"
+}

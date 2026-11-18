@@ -1,0 +1,569 @@
+{
+ "guideSlug": "best-bluetooth-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "bluetooth label printers",
+ "guideTitle": "Best Bluetooth Label Printers (2026)",
+ "metaTitle": "Best Bluetooth Label Printers in 2026",
+ "metaDescription": "Six Bluetooth label printers compared on pairing stability, range, app dependence and whether a standalone keyboard or USB gives you a fallback.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The SUPVAN E11 is the pick because it pairs Bluetooth with its own keyboard, so a dead app never leaves you without a printer. The Phomemo M110 is the value-minded choice for a simple app-driven 2 inch printer. Anyone who prints from a fixed desk with a computer should skip Bluetooth and choose a USB printer.",
+ "introParagraphs": [
+  "Bluetooth turned the label printer from a desk appliance into something a phone controls. That is a real convenience, and it brings a new failure mode: the printer is only as dependable as the pairing, the range and the app. Choosing among Bluetooth printers is mostly choosing which of those risks you can live with.",
+  "Some designs add a keyboard or a cable so the machine still works if the radio or the app lets you down. Others lean entirely on the phone. This guide ranks six printers on that resilience, along with label type, battery life and the ordinary question of what each is actually good at."
+ ],
+ "products": [
+  {
+   "id": "B0DKS89T75",
+   "badge": "Best Overall",
+   "name": "SUPVAN E11 keyboard and Bluetooth label maker with 4 tapes",
+   "specs": [
+    "Keyboard and app",
+    "1200 mAh battery",
+    "0.2 in margins",
+    "4 tapes included"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "Built-in keyboard plus phone app"
+    },
+    {
+     "label": "Battery",
+     "value": "1200 mAh, up to about a month per charge"
+    },
+    {
+     "label": "Margins",
+     "value": "About 0.2 inch, saving tape"
+    },
+    {
+     "label": "Fonts and symbols",
+     "value": "30+ fonts and 660+ symbols"
+    },
+    {
+     "label": "In the bundle",
+     "value": "Four tapes"
+    }
+   ],
+   "description": "What makes the E11 the best Bluetooth printer here is the thing that is not Bluetooth: a keyboard. You can type a label and print it with no phone, and when you do want the app you get fonts and symbols over the radio. That means a pairing glitch, a dead phone or a discontinued app never strands the printer.\n\nThe listing claims a 1200 milliamp-hour battery that lasts up to about a month per charge, and it prints with only a 0.2-inch margin, a fraction of what most tape machines waste at the start of each label. Over hundreds of labels, that saves a noticeable amount of tape. The bundle includes four tapes, so printing starts on day one.\n\nThe weaknesses are the usual ones for a small tape printer: narrow label width and a tape-cassette cost per inch. Charge it regularly, store spare tapes in a drawer and clean the cutter if it drags. The standalone keyboard also helps a shared household, since a child or a visiting relative can type a label without installing anything on their phone. For repeated labels such as spice names or file categories, the keyboard is often faster than opening an app, finding a template and waiting for the radio to connect.",
+   "bestFor": "People who want Bluetooth convenience with a fallback that needs no phone.",
+   "pros": [
+    "Keyboard works with no phone or pairing",
+    "Battery claims up to a month per charge",
+    "Minimal 0.2 inch margins save tape",
+    "Four tapes in the bundle"
+   ],
+   "cons": [
+    "Narrow label width",
+    "Tape cassettes cost more per inch"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DKS89T75?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418T-SRI08L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B1KZJXPG",
+   "badge": "Best Durable Labels",
+   "name": "Brother P-Touch PT-D610BT keyboard label maker",
+   "specs": [
+    "Laminated TZe tape",
+    "Bluetooth and USB",
+    "Stores 90 labels",
+    "Up to 24 mm"
+   ],
+   "specList": [
+    {
+     "label": "Tape",
+     "value": "Brother TZe laminated tape up to about 24 mm"
+    },
+    {
+     "label": "Connection",
+     "value": "Bluetooth and USB"
+    },
+    {
+     "label": "Memory",
+     "value": "Up to 90 frequently used labels"
+    },
+    {
+     "label": "Design",
+     "value": "17 fonts, 17 styles, 160 frames, 900 symbols"
+    },
+    {
+     "label": "Users",
+     "value": "Multiple users can connect"
+    }
+   ],
+   "description": "Brother's PT-D610BT also has a keyboard, and it adds a USB cable, so a failed Bluetooth link costs you a minute rather than a job. The listing mentions that multiple users can connect, a useful trait for an office where several people print to a shared machine. Bluetooth handles phones and USB handles computers.\n\nThe lasting advantage is laminated TZe tape, which seals the print inside a film and resists water and scuffs better than any of the direct thermal Bluetooth machines here. It stores up to 90 frequently used labels for reprints. The price of that quality is the cost per inch of the tape and a width limited to about 24 millimeters.\n\nKeep a spare cassette in the case and clean the cutter now and then. If you want a Bluetooth printer that lasts a decade, this is the safe choice. The sealed cassette means no loose roll to unwind and no ribbon to thread, and the memory means a tool room can reprint a numbered series without a computer. In an office, the multi-user feature saves each person from pairing and unpairing a shared printer all day.",
+   "bestFor": "Offices that want durable labels and several ways to connect.",
+   "pros": [
+    "Laminated tape resists water and scuffs",
+    "Keyboard plus Bluetooth plus USB",
+    "Memory stores 90 labels",
+    "Multiple users can connect"
+   ],
+   "cons": [
+    "Narrow 24 mm maximum width",
+    "Tape costs more per inch"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0B1KZJXPG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ATM2ZOVXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F7K15ST2",
+   "badge": "Best Large-Format Bluetooth",
+   "name": "KNAON Y41BT 4x6 Bluetooth shipping label printer",
+   "specs": [
+    "4x6 direct thermal",
+    "Bluetooth and USB",
+    "iOS Android",
+    "Templates"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 inch labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth for iOS and Android"
+    },
+    {
+     "label": "Wired",
+     "value": "USB for macOS, Windows 7 and up, ChromeOS"
+    },
+    {
+     "label": "Extras",
+     "value": "Pre-designed DIY templates"
+    }
+   ],
+   "description": "Almost every Bluetooth label printer prints small stickers, and the KNAON is the large-format exception. It prints 4x6 labels, the size carriers want, from an iOS or Android phone, with a USB cable for macOS, Windows 7 and later and ChromeOS. A seller who packs from a phone can print a shipping label at the shelf.\n\nThe USB route is the fallback that keeps Bluetooth honest: if pairing fails mid-batch, plug in. The template library covers non-carrier labels. The cost is size and weight compared with the sticker printers, and a roll or stack of labels to manage.\n\nKeep the cable in the drawer, re-pair after phone updates and wipe the head after a few rolls. A 4x6 printer is the exception that proves the Bluetooth rule: because it is bigger and mains-friendly, you can leave it on a shelf, but the radio still dislikes distance, so keep the phone within a few meters of the printer while a batch runs. If the batch is large, plug in rather than trusting the link.",
+   "bestFor": "Sellers who need shipping-size labels from a phone.",
+   "pros": [
+    "Prints 4x6 labels over Bluetooth",
+    "USB fallback for several systems",
+    "Template library for extras",
+    "Supports ChromeOS over USB"
+   ],
+   "cons": [
+    "Larger and heavier than sticker printers",
+    "Pairing may need repeating"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0F7K15ST2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412GOWawq7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GTNY7XXS",
+   "badge": "Best Bundle of Rolls",
+   "name": "TYPONOS PM240 Bluetooth label maker with 3 rolls",
+   "specs": [
+    "203 dpi thermal",
+    "3 rolls included",
+    "Labelnize app",
+    "Round and rectangular"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Inkless thermal at 203 dpi"
+    },
+    {
+     "label": "Rolls included",
+     "value": "40x30 mm white, 50x50 mm pink round and 50x80 mm white"
+    },
+    {
+     "label": "App",
+     "value": "Labelnize with 3800+ templates"
+    },
+    {
+     "label": "Connection",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Shapes",
+     "value": "Rectangular and round labels"
+    }
+   ],
+   "description": "TYPONOS sells the PM240 with three different rolls in the box: a 40 by 30 millimeter white rectangle, a 50 by 50 pink round and a 50 by 80 white. That bundle lets a buyer try several label shapes before buying more, which is a thoughtful touch for a first printer. It prints inkless thermal at 203 dpi.\n\nThe Labelnize app lists more than 3800 templates, and it is the same app family used by other budget printers. The tradeoff is that you are dependent on that app and on the maker's roll shapes. Next to the SUPVAN E11, it has no keyboard and no standalone mode.\n\nKeep the app current and check that spare rolls in the same sizes remain easy to find before buying many. Round and pink labels are fun for a craft table, but a printer with unusual shapes may stock them from only one seller, so a quick search for a second source is worthwhile. For plain rectangular labels, open competition keeps prices honest.",
+   "bestFor": "Beginners who want to try several label shapes right away.",
+   "pros": [
+    "Three roll types in the box",
+    "203 dpi inkless printing",
+    "3800+ templates in the app",
+    "Round and rectangular labels"
+   ],
+   "cons": [
+    "No keyboard or standalone mode",
+    "Depends on the maker's roll shapes"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GTNY7XXS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S4wuIho5L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07XXB2MXN",
+   "badge": "Best Simple 2-Inch",
+   "name": "Phomemo M110 Bluetooth 2-inch thermal printer with display",
+   "specs": [
+    "Up to 2 in labels",
+    "Bluetooth 4.0",
+    "Display",
+    "Print Master app"
+   ],
+   "specList": [
+    {
+     "label": "Width",
+     "value": "Up to 2 inch labels"
+    },
+    {
+     "label": "Bluetooth",
+     "value": "Version 4.0, up to about 33 feet"
+    },
+    {
+     "label": "Display",
+     "value": "Screen showing printer state"
+    },
+    {
+     "label": "App",
+     "value": "Print Master with templates"
+    },
+    {
+     "label": "Connection style",
+     "value": "One-click connection and printing"
+    }
+   ],
+   "description": "The M110 is the Bluetooth printer for someone who just wants one-click connection and a decent range. The listing gives Bluetooth 4.0 with up to about 33 feet, which is enough to print from across a typical room. A built-in display shows the printer's state so you know whether it is ready.\n\nPrint Master carries multiple templates and lets you design your own. It prints up to 2 inch labels, which handles barcodes, shelf tags and small address labels. It has no keyboard, so the app is the only path, and thermal prints fade as with every direct thermal sticker machine.\n\nCharge before use, keep rolls dry and re-pair if the phone updates. The status display is the feature that matters on a busy day, because it tells you at a glance whether the printer is on, connected and out of paper. Printers that stay silent leave you guessing, and a quiet failure shows up later as a stack of blank labels.",
+   "bestFor": "People who want a simple 2 inch printer with a clear status screen.",
+   "pros": [
+    "Bluetooth 4.0 with about 33 feet of range",
+    "Display shows printer state",
+    "Templates and custom designs",
+    "Up to 2 inch labels"
+   ],
+   "cons": [
+    "App is the only way to print",
+    "Direct thermal prints fade"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07XXB2MXN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51q9IAWxDjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C3L93F2Q",
+   "badge": "Best Lightweight",
+   "name": "Nelko P21 handheld Bluetooth label printer",
+   "specs": [
+    "BPA-free thermal",
+    "Half the weight",
+    "iOS Android",
+    "App templates"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "BPA-free direct thermal"
+    },
+    {
+     "label": "Weight",
+     "value": "About half the weight and size of traditional label makers"
+    },
+    {
+     "label": "Connection",
+     "value": "Bluetooth with iOS and Android"
+    },
+    {
+     "label": "App",
+     "value": "Nelko app with many templates"
+    },
+    {
+     "label": "Printing",
+     "value": "High-speed chips"
+    }
+   ],
+   "description": "Nelko's P21 is built to be the lightest in the room: the listing says it has half the weight and size of traditional label makers. It pairs with iOS and Android phones through the Nelko app, a three-step process that the listing spells out for first-time users.\n\nIt prints BPA-free direct thermal and the listing mentions high-speed chips, so short labels come out quickly. Like the Phomemo, it depends entirely on its app and cannot print on its own. Its strength is that it travels easily in a bag.\n\nStore the unit with a spare roll and keep the app on your phone updated. A light printer is easy to knock off a shelf, so keep it in a small pouch and avoid leaving it on a windowsill where heat will darken the paper inside. If you plan to carry it daily, a short charging cable in the same pouch saves a lot of frustration.",
+   "bestFor": "Travelers and tidy-minded users who want the lightest Bluetooth printer.",
+   "pros": [
+    "About half the weight of traditional machines",
+    "BPA-free direct thermal",
+    "Simple three-step pairing",
+    "Works with iOS and Android"
+   ],
+   "cons": [
+    "No keyboard or standalone mode",
+    "Prints fade over time"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0C3L93F2Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31jXroCi2EL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Fallback when the radio fails",
+   "explanation": "Bluetooth links drop, phones update and apps get retired. The SUPVAN E11 and Brother PT-D610BT both have keyboards, and the Brother and KNAON add USB. The Phomemo, Nelko and TYPONOS have neither. If you rely on a label printer for work, a second route is worth more than any single feature, so choose one with a fallback. People often discover this on the day a phone is lost or an operating system update arrives, when the whole label workflow depends on a single small app. A printer you can still use with a keyboard or cable that day is a printer that has earned its place on the desk."
+  },
+  {
+   "criterion": "Range and pairing",
+   "explanation": "The Phomemo M110 quotes Bluetooth 4.0 with up to about 33 feet, which is typical of this class and shrinks quickly through walls. Printers that remember a paired phone reconnect fast, but multi-user pairing is harder. The Brother lists multi-user connection, which helps an office. Test the link from where you will actually stand. Concrete and metal shelving cut the signal hard, so a printer in a stockroom may need to be within sight of the phone. A quick test is to print a label from the farthest spot you plan to work and see whether the link holds for ten labels in a row."
+  },
+  {
+   "criterion": "App dependence",
+   "explanation": "Most of these printers need an app to print, and the app is a product with its own lifespan. If the maker stops updating it, a phone upgrade can break the printer. Keyboard models keep working. Look at how long the app has been maintained and whether it works offline once paired. Apps that demand an account or constant internet access are a warning, since the printer's usefulness then depends on a server you do not control. A good sign is an app that keeps your templates on the phone and prints with the airplane mode on."
+  },
+  {
+   "criterion": "Battery and charging",
+   "explanation": "The SUPVAN E11 claims up to about a month per charge from a 1200 milliamp-hour cell. Small printers that need charging every few days become annoying quickly. A printer used in the field should charge by a common cable and show battery state clearly. A claim of a month per charge assumes light use, so if you print hundreds of labels a day expect far less. Keeping a spare cable in the same bag as the printer is the cheapest insurance against a dead battery."
+  },
+  {
+   "criterion": "Label type and cost",
+   "explanation": "Tape cassettes, as on the Brother, give sealed labels and a higher price per inch. Thermal rolls on the Phomemo, Nelko and TYPONOS cost less and fade. The KNAON uses 4x6 stock. Think about the year-long cost of supplies, and check that rolls will still be sold in the shapes you need."
+  },
+  {
+   "criterion": "What Bluetooth is for",
+   "explanation": "Bluetooth suits a printer that follows a phone: a stall, a classroom, a field job. A printer that sits on a desk next to a computer is better served by USB, which is more reliable. If you are buying Bluetooth for a desk, ask whether you really need it. Many people buy a Bluetooth printer and then use it exactly where a cable would have been simpler. If the printer will never leave the desk, a USB model removes the radio from the list of things that can go wrong."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Bluetooth 4.0",
+   "meaning": "A low-energy version of Bluetooth common in small printers. It offers modest range and low power use.",
+   "watchFor": "The Phomemo M110 lists it with about 33 feet of range."
+  },
+  {
+   "spec": "mAh battery rating",
+   "meaning": "Milliamp-hours measure how much charge a battery holds. A larger number means more labels per charge.",
+   "watchFor": "The SUPVAN E11 lists 1200 mAh."
+  },
+  {
+   "spec": "Label margin",
+   "meaning": "The blank leader before the first printed character on each label. Small margins save material.",
+   "watchFor": "The SUPVAN E11 states about 0.2 inch."
+  },
+  {
+   "spec": "Multi-user connection",
+   "meaning": "The ability for several phones or computers to use the same printer.",
+   "watchFor": "The Brother PT-D610BT lists it."
+  },
+  {
+   "spec": "203 dpi",
+   "meaning": "A common print grid for small thermal labels. It is sharp enough for text and codes.",
+   "watchFor": "The TYPONOS PM240 lists it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Resilience to link failure",
+   "description": "We looked at whether each printer can print without Bluetooth. The SUPVAN E11 and Brother PT-D610BT have keyboards, and the KNAON and Brother have USB. The three app-only printers scored lower."
+  },
+  {
+   "title": "Range and connection experience",
+   "description": "Stated Bluetooth versions and range were compared, with the Phomemo M110 at about 33 feet. We also looked at pairing instructions and multi-user options."
+  },
+  {
+   "title": "Battery and portability",
+   "description": "The SUPVAN's 1200 mAh claim and the Nelko's lightweight design were compared. Printers that charge by a common cable and show battery state scored higher."
+  },
+  {
+   "title": "Label type and running cost",
+   "description": "Tape, thermal rolls and 4x6 stock were compared for cost and durability. We weighed the Brother's laminated tape against cheaper direct thermal rolls."
+  },
+  {
+   "title": "App maturity",
+   "description": "We considered how much each printer relies on its app and how mature the app is. Keyboard models lost less to this. Apps with large template libraries scored well for usability."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Resilience",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Works with no phone",
+      "SUPVAN E11",
+      "Built-in keyboard."
+     ],
+     [
+      "Keyboard plus USB fallback",
+      "Brother PT-D610BT",
+      "Three ways to connect."
+     ],
+     [
+      "Shipping labels from a phone",
+      "KNAON Y41BT",
+      "4x6 plus USB backup."
+     ],
+     [
+      "Simple app-only printer",
+      "Phomemo M110",
+      "Display and 33 ft range."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "Nelko P21",
+      "Lightweight sticker printer."
+     ],
+     [
+      "Middle tier",
+      "SUPVAN E11",
+      "Keyboard and battery."
+     ],
+     [
+      "Higher tier",
+      "Brother PT-D610BT",
+      "Laminated tape and multi-user."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Tape vs Thermal Roll",
+   "cards": [
+    {
+     "label": "Tape",
+     "text": "The SUPVAN E11 and Brother PT-D610BT use cassettes. They are durable and neat. They cost more per inch."
+    },
+    {
+     "label": "Thermal roll",
+     "text": "The Phomemo, Nelko and TYPONOS use rolls. They are cheap and flexible. They fade."
+    }
+   ],
+   "note": "Choose tape for lasting labels and rolls for low cost."
+  },
+  {
+   "subheading": "Keyboard vs App-Only",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Type directly",
+      "SUPVAN E11",
+      "Keyboard on the body."
+     ],
+     [
+      "Design with templates",
+      "TYPONOS PM240",
+      "3800+ templates."
+     ],
+     [
+      "Lightest in a bag",
+      "Nelko P21",
+      "Half the weight."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Classroom Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Fast pairing for several users, a lightweight body and cheap rolls. A printer that works for many phones helps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Brother PT-D610BT lists multi-user connection, and the TYPONOS PM240 includes three roll types."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need labels to last years or you hate app dependence. The Brother and SUPVAN fit."
+    },
+    {
+     "label": "Save if",
+     "text": "You print occasional stickers from a phone. The Nelko or Phomemo is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Charge on a schedule",
+   "interval": "Monthly or before big jobs",
+   "why": "A flat battery stops a job halfway. A monthly top-up avoids it."
+  },
+  {
+   "task": "Re-pair after phone updates",
+   "interval": "As needed",
+   "why": "System updates can drop saved pairings. Remove and add the printer again."
+  },
+  {
+   "task": "Clean the print head",
+   "interval": "Every few rolls",
+   "why": "Dust causes pale lines on thermal printers. Use alcohol and a swab."
+  },
+  {
+   "task": "Clean the cutter",
+   "interval": "Quarterly",
+   "why": "Adhesive builds up on tape cutters and ruins cuts."
+  },
+  {
+   "task": "Keep the app updated",
+   "interval": "As updates arrive",
+   "why": "Apps are the printer's brain. An old version can lose its link."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Are Bluetooth label printers reliable?",
+   "a": "Reliable enough for most jobs, but the radio and app add failure points. A model with a keyboard or USB gives you a fallback when pairing fails."
+  },
+  {
+   "q": "What range does Bluetooth give?",
+   "a": "Around 33 feet in open air for Bluetooth 4.0, and much less through walls. Keep the phone near the printer for long jobs."
+  },
+  {
+   "q": "Can several people use one printer?",
+   "a": "Some can. The Brother PT-D610BT lists multi-user connection. Most app-only printers pair with one phone at a time."
+  },
+  {
+   "q": "What happens if the app is discontinued?",
+   "a": "App-only printers lose function, while keyboard models keep printing. This is the main argument for choosing a keyboard machine."
+  },
+  {
+   "q": "Which Bluetooth printer prints shipping labels?",
+   "a": "The KNAON Y41BT prints 4x6 labels over Bluetooth. The small sticker printers cannot."
+  },
+  {
+   "q": "Do Bluetooth printers need a charger?",
+   "a": "Most have rechargeable batteries. The SUPVAN E11 lists up to about a month per charge. Charge before long jobs."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/418T-SRI08L._SL500_.jpg"
+}

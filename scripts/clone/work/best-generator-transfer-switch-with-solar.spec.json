@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-generator-transfer-switch-with-solar",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "generator transfer switch with solar",
+ "guideTitle": "Best Generator Transfer Switches with Solar (2026)",
+ "metaTitle": "Best Generator Transfer Switches with Solar",
+ "metaDescription": "Six transfer switches that work with a generator plus solar or battery power, from automatic 50 amp panels to inverter relays and a battery-and-switch kit.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "14 min",
+ "expertTake": "The Nature's Generator 50 amp automatic 24-circuit switch is the pick for a home that mixes a generator with solar or batteries, because its listing describes automatic outage response and a grid-tie parallel path. The Renogy 30 amp relay is the value pick for an inverter-based cabin or van. Anyone adding a battery bank should buy the matching brand's own transfer switch, because compatibility between brands is the weak point here.",
+ "introParagraphs": [
+  "Adding solar or a battery to a generator changes what a transfer switch has to do. Instead of choosing between two sources, it may have to arbitrate among three: the grid, a generator and an inverter that can both charge and discharge.",
+  "Not every product here does all of that. Some are plain manual panels that happen to work with a solar inverter, others are automatic switches tied to a specific battery brand. The entries say which is which, so you can match the switch to your actual system."
+ ],
+ "products": [
+  {
+   "id": "B0DWMM7J3Q",
+   "rank": 1,
+   "badge": "Best Overall for Mixed Sources",
+   "name": "Nature's Generator 50A Automatic Transfer Switch, 24-Circuit Expandable",
+   "amazonUrl": "https://www.amazon.com/dp/B0DWMM7J3Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TxbJayYUL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A 120/240V",
+    "24-circuit expandable",
+    "Automatic",
+    "63A bus bar"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240V, 63A bus bar"
+    },
+    {
+     "label": "Circuits",
+     "value": "24, expandable"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic outage response"
+    },
+    {
+     "label": "Sources",
+     "value": "Generator, battery or solar"
+    },
+    {
+     "label": "Listing claim",
+     "value": "UL 1008 listed per title; verify"
+    }
+   ],
+   "description": "This is the only fully automatic home panel in the group that names solar and battery compatibility directly. The listing says it senses utility loss and moves selected circuits to generator or battery power, and that it can create a parallel power path for grid-tie inverters.\n\nThat parallel path matters for solar owners, because a grid-tie inverter shuts down when the grid fails unless the system provides a reference. Whether your inverter can use it depends on the inverter, so ask the installer to read both manuals before ordering.\n\nA 63 amp bus bar and twenty-four expandable circuits make it the most capable of the lot, and also the most complex to wire. Against the Nature's Generator 30 amp manual panel, it adds automation and capacity, and loses the plain, no-electronics simplicity. The title cites UL 1008, which should be confirmed on the label. Treat it as permit and electrician work. Commissioning matters as much as hardware here: the installer should walk through a simulated outage with the solar array, the generator and the grid in turn, and write down what each source does. In year three, the usual issues are a loose terminal, an unlabelled circuit and a firmware or setting change nobody recorded, so keep a written configuration sheet.",
+   "bestFor": "Homes combining a generator with solar or a battery and wanting automatic response.",
+   "pros": [
+    "Automatic outage response",
+    "Names generator, battery and solar sources",
+    "Parallel path for grid-tie inverters",
+    "Twenty-four expandable circuits"
+   ],
+   "cons": [
+    "Complex install and commissioning",
+    "Inverter compatibility must be verified",
+    "Electronics add failure points"
+   ]
+  },
+  {
+   "id": "B0DKP22VYQ",
+   "rank": 2,
+   "badge": "Best for Jackery Battery Systems",
+   "name": "Jackery Smart Transfer Switch for Solar Generator 5000 Plus",
+   "amazonUrl": "https://www.amazon.com/dp/B0DKP22VYQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31yLkspBAdL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "14,400W max",
+    "60kWh max",
+    "20ms UPS",
+    "App control"
+   ],
+   "specList": [
+    {
+     "label": "Maximum power",
+     "value": "14,400W with two E5000 Plus stations"
+    },
+    {
+     "label": "Maximum storage",
+     "value": "60 kWh"
+    },
+    {
+     "label": "Transfer time",
+     "value": "20 millisecond automatic"
+    },
+    {
+     "label": "Control",
+     "value": "Jackery app"
+    },
+    {
+     "label": "Brand lock",
+     "value": "Built around Jackery power stations"
+    }
+   ],
+   "description": "Jackery's switch is part of an ecosystem. It supplies home backup automatically in 20 milliseconds when the grid fails, and it is controlled by the Jackery app. When two E5000 Plus power stations are connected, the listing says it can deliver up to 14,400 watts.\n\nThat makes it a battery-first product, not a generator switch, so a portable generator would be a secondary input. The value for owners of the matching stations is a clean, branded connection that avoids guesswork.\n\nIf you do not own those stations, this is the wrong buy. Compared with the Nature's Generator automatic panel, it is simpler to configure for Jackery users and nearly useless for everyone else. Solar panels charge the stations, and the switch handles the house connection. Check the station manuals for the generator input they accept. Batteries age with every cycle, so a system that rides through outages weekly wears faster than one that sits full for years. Plan where the stations will live, since lithium batteries prefer moderate temperatures and a garage in a hard winter or a hot summer shortens their useful life.",
+   "bestFor": "Owners of Jackery E5000 Plus stations who want one-brand home backup.",
+   "pros": [
+    "20 millisecond automatic transfer",
+    "App-based energy management",
+    "Up to 14,400W with two stations",
+    "Designed for the matching ecosystem"
+   ],
+   "cons": [
+    "Useful mainly with Jackery stations",
+    "Generator input is secondary",
+    "App and firmware become part of ownership"
+   ]
+  },
+  {
+   "id": "B0HJYYWKBC",
+   "rank": 3,
+   "badge": "Best Battery and Switch Bundle",
+   "name": "Anker SOLIX S5000 with Transfer Switch Kit, 5,024Wh",
+   "amazonUrl": "https://www.amazon.com/dp/B0HJYYWKBC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UvjXTQOfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "5,024Wh LFP",
+    "4,500W rated",
+    "8,000W peak",
+    "Switch kit"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "5,024Wh lithium iron phosphate"
+    },
+    {
+     "label": "Rated output",
+     "value": "4,500W"
+    },
+    {
+     "label": "Peak output",
+     "value": "8,000W"
+    },
+    {
+     "label": "Outputs",
+     "value": "120V and 240V"
+    },
+    {
+     "label": "Packaging",
+     "value": "Station and switch kit ship separately"
+    }
+   ],
+   "description": "This is a battery system with a transfer switch kit, not a switch on its own. The listing describes a 5,024 watt-hour lithium iron phosphate battery with a 4,500 watt rated output and 8,000 watt peak, plus a kit to connect it to home wiring. It is the most expensive item in the guide by price tier.\n\nIt belongs here because solar owners often want the battery and the switch as one decision. The listing says the station and the kit ship separately, so check that both arrive before you plan an install.\n\nCompared with the Jackery system, it is a smaller, single-station design, and compared with the Renogy relay, it is a whole backup system rather than a small relay. A generator can serve as a charging source if the station accepts one, which the listing does not detail. Read the manual and confirm the input before you rely on that. The battery weighs a great deal, so plan a floor and a path to carry it, and keep it off bare concrete in damp spaces. Over time the main ownership tasks are keeping the charge within the maker's range, updating firmware and checking that the kit's cables and connectors have not worked loose.",
+   "bestFor": "Solar owners who want a battery and switch kit chosen together.",
+   "pros": [
+    "Battery and switch kit in one purchase",
+    "4,500W rated with 8,000W peak",
+    "120V and 240V outputs",
+    "Lithium iron phosphate chemistry"
+   ],
+   "cons": [
+    "Not a stand-alone switch",
+    "Highest price tier here",
+    "Components ship separately"
+   ]
+  },
+  {
+   "id": "B0F5PQWYQ3",
+   "rank": 4,
+   "badge": "Best Inverter Relay",
+   "name": "Renogy 30A Transfer Switch for Pure Sine Wave Inverters",
+   "amazonUrl": "https://www.amazon.com/dp/B0F5PQWYQ3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3115bW8E+kL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A",
+    "Automatic",
+    "Pure sine inverters",
+    "ABS body"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic switch and return"
+    },
+    {
+     "label": "Compatible",
+     "value": "Renogy 1000W, 2000W, 3000W inverters and others"
+    },
+    {
+     "label": "Sources",
+     "value": "Solar inverters, home generators, shore power"
+    },
+    {
+     "label": "Body",
+     "value": "Heat-resistant, corrosion-proof ABS"
+    }
+   ],
+   "description": "Renogy's relay moves a load automatically to backup power when the main source fails and back again when it is restored, no manual action needed. It is built for pure sine wave inverters, including the maker's 1,000, 2,000 and 3,000 watt models and other brands' battery inverters.\n\nThat makes it ideal for a cabin, a van or a workshop, where a small solar and battery setup backs up a grid or a generator. It is not a whole-house kit and the listing does not claim to be.\n\nThe heat-resistant ABS body suits a protected location, not direct rain. Compared with the Nature's Generator automatic panel, it handles a single feed at thirty amps instead of selectable circuits. Use it where a single sub-panel is fed from an inverter, and keep the inverter's own breaker in place. Size the inverter generously, since motors and compressors draw more current to start than to run, and a relay does not make an undersized inverter any more capable. Ownership is easy: wipe dust off the vents, check that cables are snug and look for any discolouration on the plugs once a season.",
+   "bestFor": "Cabins, vans and workshops with an inverter and a generator or shore supply.",
+   "pros": [
+    "Automatic switch and return",
+    "Works with several inverter brands",
+    "Thirty amp capacity for a sub-panel",
+    "Heat-resistant ABS body"
+   ],
+   "cons": [
+    "Not a whole-house kit",
+    "Single feed only",
+    "ABS body needs a sheltered location"
+   ]
+  },
+  {
+   "id": "B0DHZB565K",
+   "rank": 5,
+   "badge": "Best Prewired Manual Option",
+   "name": "Sekelo 63A Prewired Manual Transfer Switch with Three Breakers",
+   "amazonUrl": "https://www.amazon.com/dp/B0DHZB565K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418SrBjaDcL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "63A 120/240V",
+    "3 breakers",
+    "Copper wiring",
+    "Ground terminal"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "63 amp, 120/240V"
+    },
+    {
+     "label": "Breakers",
+     "value": "Three 63 amp breakers"
+    },
+    {
+     "label": "Sources",
+     "value": "Mains and generator, solar or temporary power"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pure copper connections, built-in ground terminal"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    }
+   ],
+   "description": "Sekelo describes a prewired manual switch with three breakers for overload protection, pure copper connections and a built-in grounding terminal. It switches between mains and standby sources including a generator, solar power or other temporary supplies.\n\nThat breadth makes it the simplest manual way to bring a solar inverter into the picture, because the switch does not care what the standby source is. The cost is attention: someone has to throw it, and the installer must confirm that the standby source's output is compatible.\n\nCompared with the Nature's Generator 30 amp panel, it offers more amperage but fewer selectable circuits. Compared with the automatic 50 amp panel, it skips automation. Because it is a generic seller product, ask the electrician to review the documentation and confirm the neutral and ground handling. A manual switch has an advantage in a solar house: you decide when the inverter takes over, so you can wait for the generator to settle before moving loads. Mark the lever or the breakers clearly and tell everyone in the house which order to use when the power drops.",
+   "bestFor": "Homes with a solar inverter or a generator who want a simple manual changeover.",
+   "pros": [
+    "Three breakers for overload protection",
+    "Prewired with copper connections",
+    "Built-in ground terminal",
+    "Source-agnostic manual operation"
+   ],
+   "cons": [
+    "Manual, so someone must be present",
+    "Generic seller documentation",
+    "Fewer selectable circuits"
+   ]
+  },
+  {
+   "id": "B0CNQR39RT",
+   "rank": 6,
+   "badge": "Best Manual Circuit Panel",
+   "name": "Nature's Generator 30A 12-Circuit Home Backup Panel",
+   "amazonUrl": "https://www.amazon.com/dp/B0CNQR39RT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51+5WGR3o0L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 120/240V",
+    "12 circuits",
+    "Lit rockers",
+    "Steel box"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 120/240V"
+    },
+    {
+     "label": "Circuits",
+     "value": "12"
+    },
+    {
+     "label": "Controls",
+     "value": "Illuminated rocker switches"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Steel"
+    },
+    {
+     "label": "Listing claim",
+     "value": "UL Approved in title; verify"
+    }
+   ],
+   "description": "This manual panel is the budget way to run chosen circuits from a generator or, with care, from an inverter that can supply 120/240 volts. Twelve illuminated rockers show which circuits are live.\n\nIt is not marketed for solar, and the listing does not discuss batteries. Treat it as a flexible panel that an electrician could connect to a compatible inverter output.\n\nAgainst the Sekelo, it offers more circuits and fewer amps. Against the Nature's Generator automatic panel, it trades automation for simplicity. Verify any listing marks on the label, and plan a permit. If you do connect an inverter, the inverter's output voltage, frequency and neutral arrangement must match what the panel expects, which is a question for the installer and the inverter manual, not a matter of luck. Keep the circuit map and the wiring diagram together in the panel door.",
+   "bestFor": "Budget builds that feed chosen circuits from a generator or a compatible inverter.",
+   "pros": [
+    "Twelve circuits with lit rockers",
+    "Manual panel with no electronics",
+    "Steel enclosure pre-wired",
+    "Source flexibility with an electrician's help"
+   ],
+   "cons": [
+    "Solar use is not described by the seller",
+    "Thirty amp ceiling",
+    "Manual only"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Which sources are in play",
+   "explanation": "A switch for a generator and the grid is one thing, and a switch that also arbitrates a solar inverter or a battery is another. The Nature's Generator automatic panel names generator, battery and solar. The Jackery and Anker products centre on batteries, and the Renogy relay centres on inverters. List the sources you own before you shop. Write down the inverter or station model numbers and the maximum output of each, then check that every product you consider names those models or a compatible class. A mismatch discovered after the wall is open is expensive, and a phone call to the manufacturer before ordering is cheap."
+  },
+  {
+   "criterion": "Grid-tie inverter behaviour",
+   "explanation": "A grid-tie solar inverter shuts down when the grid fails, as a safety rule. A transfer switch that creates a parallel power path, as the Nature's Generator panel describes, can give that inverter a reference so it keeps working. Not every inverter supports this, so match the manuals. Do not assume solar simply keeps running. Many homeowners expect the panels to power the house during an outage and discover on the first blackout that the array goes dark with the grid. Hybrid inverters with a backup port avoid that, and some switches are designed around them, so ask your installer which type you own."
+  },
+  {
+   "criterion": "Automatic versus manual",
+   "explanation": "The Nature's Generator 50 amp, Jackery and Renogy units switch automatically, in 20 milliseconds for the Jackery. The Sekelo and the 30 amp Nature's Generator panel are manual. Automatic suits unattended homes and sensitive loads. Manual is simpler and cheaper but needs someone present when the grid fails. Automatic units also add settings, firmware and sometimes an app, so someone in the household has to own that configuration. If nobody enjoys configuring electronics, the manual option is not a compromise, it is a reasonable choice."
+  },
+  {
+   "criterion": "Ecosystem lock-in",
+   "explanation": "The Jackery switch is built around the E5000 Plus stations, and the Anker kit around the S5000. They are tidy when matched and awkward when not. A brand-neutral panel gives you freedom to change batteries later. Weigh convenience against the freedom to swap equipment in five years. Battery prices and chemistries change quickly, and a switch that only talks to one maker's stations can become the reason you stay with them after something better appears. Ask whether the switch can be reconfigured for another brand later."
+  },
+  {
+   "criterion": "Power and storage ceilings",
+   "explanation": "The Jackery lists up to 14,400 watts and 60 kilowatt-hours with two stations. The Anker S5000 lists 4,500 watts rated and about five kilowatt-hours. A 63 amp switch like the Sekelo can pass roughly 15,000 watts at 240 volts. Size to your loads, not to the biggest number. A big battery with a small inverter behaves like a small system, and a big inverter on a small battery drains in an hour. Match the three figures, power, energy and switch rating, to a realistic load list."
+  },
+  {
+   "criterion": "Permits and utility rules",
+   "explanation": "Any system that can feed power into a house wiring or a grid connection raises extra rules. Utilities may need to approve inverters and switches, and an inspector will want to see labels. Listing claims such as UL 1008 are seller statements. Ask the local authority and an installer before purchase. Interconnection paperwork can take weeks, and a system installed without it may be ordered disconnected, so start the conversation early and keep every approval in writing."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Parallel power path",
+   "meaning": "A route that lets a grid-tie inverter see a stable reference during an outage.",
+   "watchFor": "Described for the Nature's Generator 50A automatic switch."
+  },
+  {
+   "spec": "20 millisecond transfer",
+   "meaning": "How fast the switch moves loads to backup. Fast enough to keep many electronics running.",
+   "watchFor": "Listed for the Jackery switch."
+  },
+  {
+   "spec": "63A bus bar",
+   "meaning": "The copper bar that carries current inside the panel. It sets the maximum continuous current.",
+   "watchFor": "Named for the Nature's Generator 50A automatic switch."
+  },
+  {
+   "spec": "Pure sine wave",
+   "meaning": "A clean AC waveform that suits sensitive electronics and motors.",
+   "watchFor": "The Renogy relay is aimed at pure sine inverters."
+  },
+  {
+   "spec": "LFP battery",
+   "meaning": "Lithium iron phosphate chemistry, known for long cycle life and thermal stability.",
+   "watchFor": "The Anker S5000 lists it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Source coverage",
+   "description": "We asked which sources each product names: generator, battery, solar, or just a grid and one backup. Coverage drove the ranking."
+  },
+  {
+   "title": "Automation and speed",
+   "description": "We compared automatic and manual designs and noted stated transfer times. Speed figures come from listings, not from measurement."
+  },
+  {
+   "title": "Ecosystem fit",
+   "description": "We flagged brand-locked products so readers do not buy a switch that fits only one battery line."
+  },
+  {
+   "title": "Capacity and storage",
+   "description": "We compared stated amp, watt and watt-hour figures, treating them as ceilings."
+  },
+  {
+   "title": "Claim handling",
+   "description": "We repeat listing statements about UL 1008 and inverter compatibility as claims and ask readers to verify with labels and manuals. Entries from battery makers were included because solar owners often shop for a switch and a battery as one purchase."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By System Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Generator plus solar and battery",
+      "Nature's Generator 50A Automatic Switch",
+      "Names all three sources"
+     ],
+     [
+      "Jackery E5000 Plus owners",
+      "Jackery Smart Transfer Switch",
+      "Matched ecosystem"
+     ],
+     [
+      "Inverter-only cabin or van",
+      "Renogy 30A Transfer Switch",
+      "Pure sine inverter relay"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "Sekelo 63A Prewired Manual Switch",
+      "Simple manual switch"
+     ],
+     [
+      "Middle tier",
+      "Nature's Generator 30A 12-Circuit Panel",
+      "Chosen circuits"
+     ],
+     [
+      "Higher tier",
+      "Anker SOLIX S5000 with Kit",
+      "Battery and switch bundle"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Automatic vs Manual",
+   "cards": [
+    {
+     "label": "Automatic",
+     "text": "The Nature's Generator 50A, Jackery and Renogy move loads on their own. Useful when nobody is home or loads are sensitive."
+    },
+    {
+     "label": "Manual",
+     "text": "The Sekelo and Nature's Generator 30A panel need a hand. Cheaper and simpler, with no electronics to fail."
+    }
+   ],
+   "note": "Choose automatic for unattended homes; choose manual if you will be present and want fewer parts."
+  },
+  {
+   "subheading": "By Capacity",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Up to 14,400W with batteries",
+      "Jackery Smart Transfer Switch",
+      "Two stations supported"
+     ],
+     [
+      "About 15,000W at 240V manual",
+      "Sekelo 63A Prewired Switch",
+      "63 amp rating"
+     ],
+     [
+      "Light loads on an inverter",
+      "Renogy 30A Relay",
+      "Single feed relay"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Grid-Tie Solar Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A parallel power path or equivalent inverter reference, and an inverter manual that allows it. Verify with the installer."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Only the Nature's Generator 50A automatic switch describes a parallel path for grid-tie inverters."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have solar and a battery and want an automatic panel, which points to the Nature's Generator 50A switch or a matched Jackery or Anker system."
+    },
+    {
+     "label": "Save if",
+     "text": "You will switch by hand during rare outages. The Sekelo or the 30A panel covers that."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test the transfer",
+   "interval": "Every 6 months",
+   "why": "Cut the grid with a modest load and watch the switch. A delay change signals a fault."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "As released",
+   "why": "App-controlled switches and battery stations improve with updates. Check the manufacturer's notes before applying them."
+  },
+  {
+   "task": "Re-torque terminals",
+   "interval": "Yearly",
+   "why": "Heat cycles loosen lugs. An electrician should tighten to label torque."
+  },
+  {
+   "task": "Check battery state",
+   "interval": "Quarterly",
+   "why": "A battery stored empty degrades. Keep it within the manufacturer's recommended range."
+  },
+  {
+   "task": "Review the circuit map",
+   "interval": "After any change",
+   "why": "Adding solar or batteries changes what is powered. Keep the labels current."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a transfer switch handle both a generator and solar?",
+   "a": "Some can. The Nature's Generator 50A automatic panel names generator, battery and solar, while others are manual and source-agnostic. Check the listing and the inverter manual."
+  },
+  {
+   "q": "Will my grid-tie solar keep working in an outage?",
+   "a": "Not by default. Grid-tie inverters shut down when the grid fails. A parallel path or a battery inverter is needed, and it depends on the equipment."
+  },
+  {
+   "q": "Is the Jackery switch useful without Jackery stations?",
+   "a": "Barely. It is built around the matching power stations and app. Buy it only as part of that system."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Almost certainly, and your utility may need to approve inverters. Ask before buying."
+  },
+  {
+   "q": "Is a manual switch acceptable with solar?",
+   "a": "Yes, if someone will be present. It is simpler and avoids electronics, but it leaves the house dark until you throw it."
+  },
+  {
+   "q": "Does UL 1008 in a title prove compliance?",
+   "a": "No. It is a seller statement. Read the label and ask the inspector."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41TxbJayYUL._SL500_.jpg"
+}

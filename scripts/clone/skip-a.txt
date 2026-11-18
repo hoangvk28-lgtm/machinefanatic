@@ -41,3 +41,13 @@ best-apc-generator-transfer-switch: only 2 APC products, both rack/IT ATS units
 best-bonded-neutral-generator-transfer-switch: no listing states bonded-neutral behavior; claims cannot be supported
 best-csa-approved-generator-transfer-switch: only the EZ Generator Switch states CSA approval
 best-diesel-generator-transfer-switch: only 1 diesel-specific switch; rest are generic
+best-generator-transfer-switch-4-circuit: only 2 true 4-circuit kits (Nature's Generator 15A and briidea 15A); rest of data are 6, 10 or 12 circuit or automatic units
+best-generator-transfer-switch-meter-socket: only 2 true meter-socket units (GenerLink 40A, Generac 150A integrated meter); third GenerLink-named item is a generic DIN-rail dual-power ATS
+best-generator-transfer-switch-scp-5k: keyword names a specific SCP 5K model or class with no matching products in the data; only generic transfer switches returned
+best-onan-4000-generator-transfer-switch: data holds Onan remote start/stop switches, an oil pressure switch and generic home switches; no RV transfer switch tied to the Onan 4000
+best-onan-5500-generator-transfer-switch: data holds Onan start/stop switch, fuel pump, oil switch and generic switches; no transfer switch tied to the Onan 5500
+best-predator-8750-generator-transfer-switch: data is Predator start/on-off switch replacements plus generic home switches; no transfer switch lists Predator 8750 compatibility
+best-predator-9000-generator-transfer-switch: data is Predator start/stop switches, a fuel valve and generic home switches; no transfer switch lists Predator 9000 compatibility
+best-tri-fuel-generator-transfer-switch: data is tri-fuel portable generators (not switches) plus generic switches that do not depend on fuel type; no tri-fuel-specific transfer switch exists in the data
+best-natural-gas-generator-transfer-switch: data is natural gas/tri-fuel generators and whole-home standby sets plus fuel-agnostic generic switches; no natural-gas-specific transfer switch in the data
+best-digital-label-printers: lineup of 3 was a strict subset of best-bluetooth-label-printers and best-iphone-label-printers in the same round; pool of 5 offered no distinct lineup

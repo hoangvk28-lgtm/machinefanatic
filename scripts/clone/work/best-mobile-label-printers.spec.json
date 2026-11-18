@@ -1,0 +1,569 @@
+{
+ "guideSlug": "best-mobile-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "mobile label printers",
+ "guideTitle": "Best Mobile Label Printers (2026)",
+ "metaTitle": "Best Mobile Label Printers in 2026",
+ "metaDescription": "Six mobile label printers for the field, from rugged Zebra 4-inch belt-clip units to pocket Bluetooth makers, compared on battery, ruggedness and radios.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "14 min",
+ "expertTake": "The Zebra ZQ630 is the pick for crews printing 4-inch labels on the move, because it pairs dual-band Wi-Fi and Bluetooth with a portable body built for field use. The Nelko P21 is the value-minded choice for small stickers from a phone. Anyone who only prints at a desk should skip a mobile printer and buy a desktop model.",
+ "introParagraphs": [
+  "A mobile label printer has to work where the job is: on a truck tailgate, in an aisle, on a stairwell landing. That changes what matters. Battery life beats speed, a belt clip beats a fancy screen, and a drop onto concrete is a normal event, not a warranty claim.",
+  "Two very different products share the name. Rugged industrial mobile printers print full-width labels and receipts for drivers and stock pickers, and pocket Bluetooth printers print small stickers from a phone. This guide compares both families and says clearly which one suits which kind of field work."
+ ],
+ "products": [
+  {
+   "id": "B083RDRZMB",
+   "badge": "Best Overall",
+   "name": "Zebra ZQ630 4-inch mobile printer with Wi-Fi and Bluetooth",
+   "specs": [
+    "4 in mobile",
+    "USB Bluetooth Wi-Fi",
+    "Dual-band 802.11ac",
+    "104 mm print width"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink or ribbon"
+    },
+    {
+     "label": "Print width",
+     "value": "104 mm, about 4 inches"
+    },
+    {
+     "label": "Wi-Fi",
+     "value": "Dual-band 802.11ac"
+    },
+    {
+     "label": "Bluetooth",
+     "value": "Version 4.x"
+    },
+    {
+     "label": "Wired",
+     "value": "USB"
+    }
+   ],
+   "description": "The ZQ630 is the sort of printer a delivery driver or a field service crew carries on a belt. The listing describes professional 4-inch wide printing in a portable body, with dual-band 802.11ac Wi-Fi, Bluetooth 4.x and USB. A print width of 104 millimeters covers shipping labels, work orders and receipts from a single unit.\n\nDual-band Wi-Fi matters because depot networks are crowded, and a printer that can use the less congested band holds its connection better. Bluetooth gives a direct link to a handheld terminal or phone when no network exists. Compared with the older ZQ520, it adds modern Wi-Fi, and compared with the QLn420, it is lighter and more recent.\n\nKeep spare batteries charged, clean the head with alcohol and check the belt clip before a shift. A printer carried all day should be inspected for cracks in the case, since dust and rain find them. Drivers often leave the printer in a vehicle overnight, and a freezing or sweltering cab shortens battery life and can warp the paper roll, so bring it indoors at the end of the route. A simple charging routine at the depot, with a labeled spare pack, prevents most dead-battery mornings.",
+   "bestFor": "Drivers and field crews who print 4-inch labels and receipts on the move.",
+   "pros": [
+    "Dual-band 802.11ac Wi-Fi plus Bluetooth 4.x",
+    "USB for cable connection",
+    "104 mm print width for 4-inch labels",
+    "Portable body built for field carry"
+   ],
+   "cons": [
+    "Direct thermal prints fade",
+    "Much more printer than casual use needs"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B083RDRZMB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21s4WklcOiL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B081B7DHX9",
+   "badge": "Best Rugged Warehouse Mobile",
+   "name": "Zebra QLn420 rugged 4-inch mobile label printer",
+   "specs": [
+    "Rugged 4 in",
+    "Bluetooth and Wi-Fi",
+    "802.11a/b/g/n",
+    "Direct thermal"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal"
+    },
+    {
+     "label": "Print width",
+     "value": "Up to 4 inches"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth and Wi-Fi 802.11a/b/g/n"
+    },
+    {
+     "label": "Build",
+     "value": "Rugged design for harsh environments"
+    },
+    {
+     "label": "Uses",
+     "value": "Barcodes, shipping labels and inventory tags"
+    }
+   ],
+   "description": "Zebra's QLn420 is the heavy-duty option. The listing says its rugged design is made for harsh environments such as warehouses, and it prints labels up to 4 inches wide for barcodes, shipping labels and inventory tags. Wireless covers Bluetooth and Wi-Fi in the 802.11a, b, g and n bands.\n\nIts Wi-Fi standards are older than the ZQ630's dual-band 802.11ac, which matters in a congested building, and it is a larger, heavier machine. In return it takes a harder beating and suits a forklift or a pick cart better than a pocket does. For a distribution center that scans and prints at the shelf, it earns its weight.\n\nCharge batteries on a rotation, wipe the head and check the clip and the case for wear. Because the wireless chip is older, ask your network team whether the site still supports the security setting the printer uses, since a newer, stricter Wi-Fi policy can lock it out. A short call before purchase can save a week of puzzling.",
+   "bestFor": "Warehouse pickers and stock handlers who print 4-inch labels at the shelf.",
+   "pros": [
+    "Rugged design for harsh environments",
+    "Prints labels up to 4 inches wide",
+    "Bluetooth and Wi-Fi",
+    "Suits barcodes and inventory tags"
+   ],
+   "cons": [
+    "Older Wi-Fi standards than the ZQ630",
+    "Larger and heavier than the ZQ630"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B081B7DHX9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41B0L9MQbPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07VGYV32F",
+   "badge": "Best Compact 4-Inch Bluetooth",
+   "name": "Zebra ZQ520 4-inch portable printer, Bluetooth 4.0, 203 dpi",
+   "specs": [
+    "4 in portable",
+    "Bluetooth 4.0",
+    "203 dpi",
+    "5 ips (127 mm/s)"
+   ],
+   "specList": [
+    {
+     "label": "Print width",
+     "value": "4 inch"
+    },
+    {
+     "label": "Resolution",
+     "value": "203 dpi, 8 dots per mm"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 5 inches or 127 mm per second"
+    },
+    {
+     "label": "Bluetooth",
+     "value": "Version 4.0"
+    },
+    {
+     "label": "Condition",
+     "value": "Renewed"
+    }
+   ],
+   "description": "The ZQ520 is the Bluetooth-only portable Zebra, with 203 dpi and a rated 5 inches or 127 millimeters per second. The listing names compatibility with Apple iOS, Android, Windows Mobile and BlackBerry devices, a roll call that shows its age. The renewed condition means it is a refurbished unit.\n\nFor a crew using a modern phone, the iOS and Android support is what matters, and the old platforms in the list are history. Next to the ZQ630, it lacks Wi-Fi, so a phone or terminal must pair directly. The benefit is a simple, lighter machine whose behavior is well understood.\n\nBecause it is renewed, test it with a full roll and read the warranty. Replace the battery if run time has dropped.",
+   "bestFor": "Crews who pair a phone directly and want a simple portable Zebra.",
+   "pros": [
+    "Prints 4-inch labels at 203 dpi",
+    "Up to 5 inches per second",
+    "Bluetooth 4.0 with iOS and Android support",
+    "Familiar Zebra platform"
+   ],
+   "cons": [
+    "No Wi-Fi",
+    "Renewed unit with seller-set warranty"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07VGYV32F?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415eukAipRL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DKS89T75",
+   "badge": "Best Pocket Keyboard Printer",
+   "name": "SUPVAN E11 keyboard and Bluetooth label maker",
+   "specs": [
+    "Keyboard and app",
+    "1200 mAh battery",
+    "0.2 in margins",
+    "4 tapes included"
+   ],
+   "specList": [
+    {
+     "label": "Input",
+     "value": "Keyboard or Bluetooth app"
+    },
+    {
+     "label": "Battery",
+     "value": "1200 mAh, up to about a month per charge"
+    },
+    {
+     "label": "Margins",
+     "value": "About 0.2 inch"
+    },
+    {
+     "label": "Fonts and symbols",
+     "value": "30+ fonts and 660+ symbols"
+    },
+    {
+     "label": "In the bundle",
+     "value": "Four tapes"
+    }
+   ],
+   "description": "For a technician who labels equipment in a van or a closet, the E11's keyboard is the feature that counts in the field. Type, print and cut, with no phone or network in sight. When a phone is handy, the Bluetooth app adds fonts and symbols.\n\nThe listing claims up to about a month of use per charge from the 1200 milliamp-hour battery, which suits a tool that rides in a bag between jobs. It prints with only about a 0.2 inch margin, a modest but real saving on small labels. It will not print 4-inch labels, so it complements a Zebra rather than replaces it.\n\nCharge it monthly and carry spare tapes in the same pouch. A habit that suits a technician is to label equipment before the repair starts, so the next visit begins with a readable tag. In cold garages, keep the printer in an inside pocket until needed, because adhesive and battery output both fall sharply in the cold.",
+   "bestFor": "Technicians who label equipment on site and want no dependence on a phone.",
+   "pros": [
+    "Keyboard prints with no phone",
+    "Battery claims up to a month per charge",
+    "Minimal 0.2 inch margins",
+    "Four tapes included"
+   ],
+   "cons": [
+    "Narrow label width",
+    "Tape costs more per inch"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DKS89T75?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418T-SRI08L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CKYMWV5X",
+   "badge": "Best Waterproof Small Labels",
+   "name": "SUPVAN T50M Pro Bluetooth label maker, 3/4 to 2 in",
+   "specs": [
+    "3/4 to 2 in wide",
+    "Waterproof labels",
+    "30+ fonts",
+    "App editing"
+   ],
+   "specList": [
+    {
+     "label": "Label width",
+     "value": "3/4 to 2 inch"
+    },
+    {
+     "label": "Label type",
+     "value": "Wide waterproof label"
+    },
+    {
+     "label": "Editing",
+     "value": "App on phone, tablet or PC"
+    },
+    {
+     "label": "Fonts",
+     "value": "30+ fonts and image import"
+    },
+    {
+     "label": "Connection",
+     "value": "Bluetooth"
+    }
+   ],
+   "description": "SUPVAN's T50M Pro suits mobile work where labels get wet. The listing describes wide waterproof labels from 3/4 to 2 inches, and an app that imports images and offers more than 30 fonts. A mobile technician can print a bin or tool label on the spot and stick it on a damp surface.\n\nIt is a small-label machine, so it does not replace a 4-inch Zebra for shipping. It also depends on a phone app and Bluetooth, which makes it fragile compared with the rugged Zebras. Against the SUPVAN E11, it lacks a keyboard and has a wider tape.\n\nCarry spare tape and a charging cable, and keep the app updated. Test the adhesive on a damp sample surface before labeling a whole job, because moisture and oil are the two things that make any label peel. If you work outdoors, a printed label under a clear cover or tape overlay lasts noticeably longer than one left bare.",
+   "bestFor": "Mobile teams that need wide waterproof stickers from a phone.",
+   "pros": [
+    "Wide labels up to 2 inches",
+    "Waterproof label material",
+    "Images and 30+ fonts in the app",
+    "Light enough for a tool bag"
+   ],
+   "cons": [
+    "No keyboard or standalone mode",
+    "Not for 4-inch labels"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CKYMWV5X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WSRxbOkkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C3L93F2Q",
+   "badge": "Best Lightweight Sticker Printer",
+   "name": "Nelko P21 handheld Bluetooth label printer",
+   "specs": [
+    "BPA-free thermal",
+    "iOS and Android",
+    "Half the weight",
+    "App templates"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "BPA-free direct thermal"
+    },
+    {
+     "label": "Phones",
+     "value": "iOS and Android through the Nelko app"
+    },
+    {
+     "label": "Weight",
+     "value": "About half the weight and size of traditional label makers"
+    },
+    {
+     "label": "Printing",
+     "value": "High-speed chips"
+    },
+    {
+     "label": "Templates",
+     "value": "Multiple app templates"
+    }
+   ],
+   "description": "Weight is the point of Nelko's P21: the listing says it is half the weight and size of traditional label makers. For someone who carries a printer all day, that difference adds up. It pairs with iOS and Android phones through the Nelko app and prints BPA-free direct thermal stickers.\n\nIt is a pocket tool for small labels, not a rugged field printer, so a drop on concrete is a real risk. It also depends entirely on its app. Next to the SUPVAN E11, it is lighter and cheaper, and lacks the keyboard fallback.\n\nKeep it in a pouch with a spare roll and the charging cable. If you rely on it for a market stall or a pop-up, print the day's labels at home and treat the printer as a backup for the unexpected. That habit cuts the risk of a dead battery or a lost Bluetooth link in front of a customer.",
+   "bestFor": "Light-duty mobile users who print small stickers from a phone.",
+   "pros": [
+    "About half the weight of traditional machines",
+    "BPA-free direct thermal",
+    "Works with iOS and Android",
+    "Many templates"
+   ],
+   "cons": [
+    "Not rugged",
+    "App is the only way to print"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0C3L93F2Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31jXroCi2EL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Ruggedness for the job",
+   "explanation": "A warehouse picker and a florist are both mobile, but they put different loads on a printer. The Zebra QLn420 lists a rugged design for harsh environments, the ZQ630 is a field-ready portable, and the pocket Bluetooth makers are not built for drops. Match the build to the worst day, not the average one. A cracked case in a rain shower ends the shift. Look for an ingress rating on the spec sheet if the work is outdoors, and treat a missing rating as a sign the maker has not claimed any water resistance. A rugged printer costs more up front and far less than replacing a printer every winter."
+  },
+  {
+   "criterion": "Wireless that fits the site",
+   "explanation": "The Zebra ZQ630 lists dual-band 802.11ac Wi-Fi plus Bluetooth 4.x, the QLn420 lists Bluetooth and 802.11a/b/g/n, and the ZQ520 lists Bluetooth 4.0 only. Depot Wi-Fi is often congested, so a newer dual-band radio helps. If the site has no network at all, a direct Bluetooth link is the dependable route. Many crews run both: Wi-Fi at the depot for bulk jobs and Bluetooth to a phone on the road. A printer that supports both radios, like the ZQ630, lets one device serve the whole route without reconfiguration."
+  },
+  {
+   "criterion": "Battery and swap",
+   "explanation": "A mobile printer's battery is its fuel tank. A full day of labels may need a spare, and swapping a battery in a printer takes seconds while charging takes hours. The SUPVAN E11's claim of up to a month per charge is for light use. Ask how many labels a charge really covers for your volume. Printing at full 4-inch width draws far more power than a narrow sticker, and heavy black coverage on a label drains it faster still. Time a real shift of printing with a fresh battery before deciding how many spares to buy."
+  },
+  {
+   "criterion": "Label width and media",
+   "explanation": "A 4-inch printer like the ZQ630 handles shipping labels and receipts. The SUPVAN and Nelko print small stickers. Choose the width for the output you need, and remember that wide media needs a bigger battery and a heavier body. Direct thermal stock also darkens in a hot vehicle."
+  },
+  {
+   "criterion": "Carrying and mounting",
+   "explanation": "A belt clip, a shoulder strap or a cradle on a cart changes how a printer is used. The Zebra ZQ630 listing mentions a belt clip. If a printer is awkward to carry, crews leave it in the truck and the label never gets printed. Test the clip with the printer fully loaded, since a loaded roll weighs more than an empty one. If your crew wears hi-vis vests or work belts, check that the clip actually fits a thick belt."
+  },
+  {
+   "criterion": "Renewed versus new",
+   "explanation": "The Zebra ZQ520 here is renewed, and a ZQ630 listing in the same family is also renewed. A refurbished printer can be a bargain with a long-established design, but its battery may be worn. Lithium cells lose capacity with age, so a unit that lasted a shift when new may only manage half of one after years of use, and a replacement pack is often a better first purchase than extra labels. Check the warranty, ask about the battery and test with a full roll."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Dual-band 802.11ac",
+   "meaning": "Wi-Fi that can use both the 2.4 and 5 GHz bands, which helps in a crowded building.",
+   "watchFor": "The Zebra ZQ630 lists it."
+  },
+  {
+   "spec": "Bluetooth 4.x",
+   "meaning": "A short-range radio version used to pair a printer with a phone or handheld terminal.",
+   "watchFor": "The ZQ630 lists 4.x and the ZQ520 lists 4.0."
+  },
+  {
+   "spec": "104 mm print width",
+   "meaning": "The widest printable area, about 4.1 inches, which fits a 4-inch label.",
+   "watchFor": "The ZQ630 lists it."
+  },
+  {
+   "spec": "Rugged design",
+   "meaning": "A body built to survive drops, dust and moisture in field work.",
+   "watchFor": "The QLn420 states it."
+  },
+  {
+   "spec": "Renewed",
+   "meaning": "A used unit refurbished and resold by a third party with varying warranty.",
+   "watchFor": "The ZQ520 here is renewed."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Field durability",
+   "description": "We looked for rugged claims and carry features. The Zebra QLn420 states a rugged build and the ZQ630 mentions a belt clip. The pocket printers scored lower for drops and water."
+  },
+  {
+   "title": "Radio fit",
+   "description": "We compared Wi-Fi and Bluetooth versions. The ZQ630's dual-band 802.11ac is the most current, and the ZQ520 is Bluetooth only. We weighed what each radio does in a crowded or empty site."
+  },
+  {
+   "title": "Output size and media",
+   "description": "Widths were sorted into 4-inch and small-sticker classes. We matched them to jobs such as delivery, picking and equipment labeling."
+  },
+  {
+   "title": "Power and uptime",
+   "description": "Battery claims and swap options were compared. The SUPVAN E11's month-long claim and Zebra's swappable batteries scored differently for different jobs."
+  },
+  {
+   "title": "Condition and risk",
+   "description": "Renewed units were marked down for warranty uncertainty and up for proven design. New pocket printers were judged on maker history."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Field Job",
+   "table": {
+    "headers": [
+     "Job",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Delivery labels and receipts",
+      "Zebra ZQ630",
+      "Dual-band Wi-Fi and Bluetooth."
+     ],
+     [
+      "Warehouse picking",
+      "Zebra QLn420",
+      "Rugged build."
+     ],
+     [
+      "Equipment labels on site",
+      "SUPVAN E11",
+      "Keyboard works with no phone."
+     ],
+     [
+      "Light sticker work from a phone",
+      "Nelko P21",
+      "Half the weight."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "Nelko P21",
+      "Pocket sticker printer."
+     ],
+     [
+      "Middle tier",
+      "Zebra ZQ520 (renewed)",
+      "Bluetooth 4-inch Zebra."
+     ],
+     [
+      "Higher tier",
+      "Zebra ZQ630",
+      "Dual-band Wi-Fi and Bluetooth."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rugged Zebra vs Pocket Printer",
+   "cards": [
+    {
+     "label": "Rugged Zebra",
+     "text": "The ZQ630, QLn420 and ZQ520 print 4-inch labels. They survive field use. They are heavier and costlier."
+    },
+    {
+     "label": "Pocket printer",
+     "text": "The SUPVAN and Nelko print small stickers. They are light. They are not built for drops."
+    }
+   ],
+   "note": "Choose Zebra for real field duty and pocket for light use."
+  },
+  {
+   "subheading": "By Connectivity",
+   "table": {
+    "headers": [
+     "Environment",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Crowded depot Wi-Fi",
+      "Zebra ZQ630",
+      "Dual-band 802.11ac."
+     ],
+     [
+      "No network, phone only",
+      "Zebra ZQ520",
+      "Bluetooth direct."
+     ],
+     [
+      "Mixed legacy network",
+      "Zebra QLn420",
+      "802.11a/b/g/n and Bluetooth."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Delivery Drivers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A belt clip, a 4-inch width and a battery that lasts a full route. Wi-Fi at the depot helps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Zebra ZQ630 lists a belt clip and a 104 mm width, so it suits route work."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "The printer rides on a forklift or a truck all day. The Zebra ZQ630 and QLn420 fit."
+    },
+    {
+     "label": "Save if",
+     "text": "You label a few items from a phone. The Nelko P21 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Charge and rotate batteries",
+   "interval": "Every shift",
+   "why": "A mobile printer lives on its battery. A spare on charge keeps work moving."
+  },
+  {
+   "task": "Clean the head",
+   "interval": "Weekly in dusty work",
+   "why": "Field dust builds on the head faster than office dust. Alcohol keeps prints dark."
+  },
+  {
+   "task": "Inspect the case and clip",
+   "interval": "Monthly",
+   "why": "Drops crack cases and loosen clips. Dust and rain follow."
+  },
+  {
+   "task": "Check the pairing or Wi-Fi profile",
+   "interval": "After system updates",
+   "why": "Updates can drop saved links. Verify before the shift."
+  },
+  {
+   "task": "Test renewed units fully",
+   "interval": "On arrival",
+   "why": "A full roll test reveals worn batteries and heads while a return is still possible."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is the best mobile printer for 4-inch labels?",
+   "a": "The Zebra ZQ630 for most crews, thanks to dual-band Wi-Fi and Bluetooth. The QLn420 suits harsher environments."
+  },
+  {
+   "q": "Can a pocket printer replace a rugged one?",
+   "a": "For small stickers, yes. For 4-inch labels and drops on concrete, no."
+  },
+  {
+   "q": "How long does a mobile printer battery last?",
+   "a": "It depends on labels printed. A full shift may need a spare. Check the label count per charge for your volume."
+  },
+  {
+   "q": "Is a renewed Zebra a good idea?",
+   "a": "It can be, but test it with a full roll and check the battery and warranty."
+  },
+  {
+   "q": "Do I need Wi-Fi on a mobile printer?",
+   "a": "Only if your system prints over a network. Bluetooth is enough for a phone or handheld."
+  },
+  {
+   "q": "Can mobile printers print receipts too?",
+   "a": "The 4-inch Zebras print both labels and receipts, which suits drivers who hand over paperwork. Check that the receipt layout is supported by your route software before buying, since printing a label and printing a receipt use different print commands. A quick trial with the actual app avoids a surprise on day one."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/21s4WklcOiL._SL500_.jpg"
+}

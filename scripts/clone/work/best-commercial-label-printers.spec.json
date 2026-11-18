@@ -1,0 +1,595 @@
+{
+ "guideSlug": "best-commercial-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "commercial label printers",
+ "guideTitle": "Best Commercial Label Printers (2026)",
+ "metaTitle": "Best Commercial Label Printers in 2026",
+ "metaDescription": "Six commercial label printers for shops, sellers and offices compared on speed, label size, connectivity and running cost, with clear picks for each workload.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41+ONy0DNTL._SL500_.jpg",
+ "expertTake": "The Rollo USB is the best commercial pick for most small businesses because it prints 4x6 labels at 150 mm per second with no ink, and works with the common shipping platforms. The Brother QL-820NWB is the value pick for an office that mostly makes address and file labels. Anyone shipping fewer than ten parcels a week should skip a commercial machine and use a basic desktop labeler.",
+ "introParagraphs": [
+  "Commercial label printers are the machines a business runs every day: shipping benches, retail stockrooms, small warehouses and busy offices. They trade the novelty features of consumer label makers for speed, steady output and a roll of labels that lasts all week.",
+  "The meaningful differences are label width, how the printer connects and what it costs to feed. A wide shipping printer and a narrow cable labeler are both commercial, yet they solve entirely different jobs, so the right choice starts with the label you actually print."
+ ],
+ "products": [
+  {
+   "id": "B01MA3EYC5",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Rollo USB 4x6 direct thermal shipping label printer",
+   "amazonUrl": "https://www.amazon.com/dp/B01MA3EYC5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41+ONy0DNTL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "4x6 labels",
+    "Direct thermal",
+    "USB",
+    "Windows + Mac"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 inch shipping labels"
+    },
+    {
+     "label": "Technology",
+     "value": "Direct thermal, no ink or toner"
+    },
+    {
+     "label": "Connection",
+     "value": "USB"
+    },
+    {
+     "label": "Compatibility",
+     "value": "Windows XP and newer, Mac 10.9 and newer"
+    },
+    {
+     "label": "Software",
+     "value": "Free shipping app included"
+    }
+   ],
+   "description": "Busy shipping benches are the reason this printer exists. It prints 4x6 labels with a direct thermal head, so there is no ink or toner to run out of, and it works with both Windows and Mac systems. A free shipping app lets you connect common marketplaces and carriers, which makes it a quick start for a new seller.\n\nThe printer's value is in reliability and low running cost, not features. A USB connection keeps it simple: plug it in, install the driver and print from a browser or shipping tool. Compared with the Rollo Wireless, you give up network printing but avoid the setup and the occasional Wi-Fi drop that a shared printer can bring.\n\nOwnership centers on the thermal head and the label roll. Wipe the head with alcohol every few rolls, use labels sized to the printer's guides and keep stock out of hot rooms, since direct thermal labels darken with heat. A fanfold stack and a roll both work, but a roll is easier to keep aligned on a busy bench. If the volume ever grows past a few hundred labels a day, a heavier industrial unit becomes the sensible next step.",
+   "bestFor": "Small online sellers who print a steady stream of 4x6 parcel labels.",
+   "pros": [
+    "No ink or toner to buy",
+    "Works on Windows and Mac",
+    "Free shipping app included",
+    "Simple USB setup"
+   ],
+   "cons": [
+    "USB only, no network port",
+    "Direct thermal labels fade in heat",
+    "Not built for 24/7 warehouse duty"
+   ]
+  },
+  {
+   "id": "B072N3S7LV",
+   "rank": 2,
+   "badge": "Best Platform Compatibility",
+   "name": "Arkscan 2054A shipping and barcode label printer",
+   "amazonUrl": "https://www.amazon.com/dp/B072N3S7LV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31z71o0R+AS._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "4x6 labels",
+    "Cross-platform",
+    "BarTender UltraLite",
+    "Barcode labels"
+   ],
+   "specList": [
+    {
+     "label": "Label types",
+     "value": "Shipping, product and barcode labels"
+    },
+    {
+     "label": "Platforms",
+     "value": "Windows, Mac, Chromebook, Android"
+    },
+    {
+     "label": "Marketplaces",
+     "value": "Amazon, eBay, Etsy, Shopify and others"
+    },
+    {
+     "label": "Software",
+     "value": "BarTender UltraLite (Windows only)"
+    },
+    {
+     "label": "Use",
+     "value": "FBA, FNSKU and shipping labels"
+    }
+   ],
+   "description": "Platform support is the headline of the 2054A. The listing names Windows, Mac, Chromebook and Android, plus a long list of selling and shipping platforms including Amazon merchant fulfillment, FBA and FNSKU labels, eBay, Etsy and others. If your workflow mixes devices, this printer reduces the number of drivers you have to fight.\n\nIt is a multi-purpose machine that handles product and barcode labels as well as shipping labels, which makes it more than a parcel printer. The free BarTender UltraLite design tool is for Windows only, so a Mac user does the design elsewhere. Compared with the Rollo USB, the 2054A is the one to choose when barcodes and FBA labels are as important as postage.\n\nPlan the same upkeep as any direct thermal printer: clean the head, keep the platen roller free of adhesive and match the roll width to the guides. Check your selling platform's supported printer list before ordering, because carriers update requirements over time. Spares such as platen rollers are worth stocking if the printer will run daily.",
+   "bestFor": "Sellers who mix FBA, barcode and shipping labels across several devices.",
+   "pros": [
+    "Works with Windows, Mac, Chromebook and Android",
+    "Handles FBA and FNSKU labels",
+    "Prints barcode and product labels",
+    "Free BarTender UltraLite on Windows"
+   ],
+   "cons": [
+    "Design software is Windows only",
+    "Direct thermal labels darken with heat",
+    "Fewer wireless options than newer models"
+   ]
+  },
+  {
+   "id": "B09VF4Z2WQ",
+   "rank": 3,
+   "badge": "Best Wireless",
+   "name": "Rollo Wireless Wi-Fi 4x6 direct thermal label printer",
+   "amazonUrl": "https://www.amazon.com/dp/B09VF4Z2WQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31zsmO4VVBL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Wi-Fi",
+    "AirPrint",
+    "150 mm/s",
+    "4x6 labels"
+   ],
+   "specList": [
+    {
+     "label": "Connection",
+     "value": "Wi-Fi with AirPrint"
+    },
+    {
+     "label": "Speed",
+     "value": "150 mm per second"
+    },
+    {
+     "label": "Label size",
+     "value": "4x6 inch"
+    },
+    {
+     "label": "Technology",
+     "value": "Direct thermal"
+    },
+    {
+     "label": "Software",
+     "value": "Rollo Ship Manager app"
+    }
+   ],
+   "description": "Cutting the cable is what the wireless Rollo adds. It uses AirPrint to print directly from an iPhone, iPad or Mac, so a packer can send a label from a tablet without installing a driver. That matters on a bench shared by several people.\n\nSpeed is listed at 150 mm per second, which is about 5.9 inches per second and matches the wired Rollo USB. A free Ship Manager app helps with postage. The extra cost over the USB model is the convenience of wireless, not a faster engine, so decide whether you really want to share it.\n\nWi-Fi printers need a stable network and a fixed address, or the printer can vanish from a device's list after a router restart. Keep the firmware current, wipe the head with alcohol and store labels dry. In year three, the wireless radio is the part most likely to cause support questions, so a wired fallback cable is a sensible backup.",
+   "bestFor": "Teams that print from iPads, iPhones and Macs on a shared Wi-Fi network.",
+   "pros": [
+    "AirPrint from iPhone, iPad and Mac",
+    "150 mm per second print speed",
+    "Free Ship Manager app included",
+    "No ink or toner needed"
+   ],
+   "cons": [
+    "Wi-Fi can drop after router changes",
+    "Costs more than the USB model",
+    "Heat-sensitive labels darken with age"
+   ]
+  },
+  {
+   "id": "B01MTYE0X6",
+   "rank": 4,
+   "badge": "Best for Address Labels",
+   "name": "Brother QL-820NWB network label printer, 300 dpi",
+   "amazonUrl": "https://www.amazon.com/dp/B01MTYE0X6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41FkQmLcfeL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "110 labels/min",
+    "300 dpi",
+    "Ethernet + Wi-Fi",
+    "USB host"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "Up to 110 address labels per minute"
+    },
+    {
+     "label": "Resolution",
+     "value": "300 dpi black text"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth, Ethernet, Wi-Fi, USB host"
+    },
+    {
+     "label": "USB host",
+     "value": "Supports a scanner peripheral"
+    },
+    {
+     "label": "Format",
+     "value": "Desktop roll printer"
+    }
+   ],
+   "description": "Where the Rollo models chase postage, the QL-820NWB chases address and office labels. It is rated at up to 110 standard address labels a minute at 300 dpi, with Bluetooth, Ethernet and Wi-Fi as connection options, so it fits a shared office network.\n\nA USB host port lets you attach a scanner, which turns it into a point-of-use label station: scan a barcode, print a label. That is a practical commercial feature that the Rollo printers do not advertise. Its label width is narrower than a 4x6 shipping printer, so it is not the right choice for full postage labels.\n\nYou buy Brother's DK rolls for it, and the cost per label depends on the roll you choose. Keep rolls out of warm spots, clear the cutter path when adhesive builds up and clean the head if text looks faint. For a mail room, a clinic or a front desk, it is the quieter, faster answer to constant small labels.",
+   "bestFor": "Offices and clinics printing hundreds of address, file and ID labels.",
+   "pros": [
+    "Up to 110 labels per minute at 300 dpi",
+    "Bluetooth, Ethernet and Wi-Fi",
+    "USB host for a barcode scanner",
+    "Standalone-friendly desktop design"
+   ],
+   "cons": [
+    "Too narrow for 4x6 postage labels",
+    "Requires DK-branded rolls",
+    "Direct thermal paper fades over time"
+   ]
+  },
+  {
+   "id": "B0GHN5JMLP",
+   "rank": 5,
+   "badge": "Best Portable Shipping",
+   "name": "Arrvel A42BT Bluetooth 4x6 thermal label printer with stand",
+   "amazonUrl": "https://www.amazon.com/dp/B0GHN5JMLP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gLGponXLL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Bluetooth",
+    "150 mm/s",
+    "72 labels/min",
+    "Stand included"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "150 mm per second, 72 labels per minute"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth with FlashLabel app"
+    },
+    {
+     "label": "Computers",
+     "value": "Windows 7+, macOS, ChromeOS, Linux"
+    },
+    {
+     "label": "Adapter",
+     "value": "USB-C adapter included for macOS"
+    },
+    {
+     "label": "Technology",
+     "value": "Direct thermal"
+    }
+   ],
+   "description": "The Arrvel A42BT targets people who print from a phone. A FlashLabel app on iOS and Android supports wireless printing, while a USB-C adapter covers macOS and other systems cover Windows, ChromeOS and Linux. The included stand holds a roll or fanfold stack so it sits tidily on a desk.\n\nThe listing quotes 150 mm per second or 72 labels per minute, the practical figure, which is lower than the headline speed would suggest. That distinction matters: labels per minute depends on label length and feed time, and 72 is a more honest planning number than a raw mm per second rating. Next to the Rollo Wireless, the Arrvel relies on Bluetooth and an app rather than AirPrint.\n\nBecause it is a newer brand, check the supply chain for labels and the app's update history before you commit a business to it. Keep the head clean, store labels away from heat and keep a USB cable on hand as a fallback for when the Bluetooth link misbehaves.",
+   "bestFor": "Mobile sellers printing 4x6 labels from a phone or tablet.",
+   "pros": [
+    "Bluetooth printing from a phone app",
+    "Works with macOS, Windows, ChromeOS and Linux",
+    "Stand holds roll or fanfold stock",
+    "72 labels per minute rating"
+   ],
+   "cons": [
+    "Bluetooth and app dependence",
+    "Newer brand with a shorter track record",
+    "Heat-sensitive labels darken with age"
+   ]
+  },
+  {
+   "id": "B0DSFD99T4",
+   "rank": 6,
+   "badge": "Best for Cable Labeling",
+   "name": "Makeid D50 2 inch thermal transfer label printer with cutter",
+   "amazonUrl": "https://www.amazon.com/dp/B0DSFD99T4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418MVQpzxgL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "2 inch head",
+    "Thermal transfer",
+    "Auto cutter",
+    "2600 mAh"
+   ],
+   "specList": [
+    {
+     "label": "Print head",
+     "value": "2 inches wide"
+    },
+    {
+     "label": "Technology",
+     "value": "Thermal transfer"
+    },
+    {
+     "label": "Cutting",
+     "value": "Automatic cutter"
+    },
+    {
+     "label": "Battery",
+     "value": "2600 mAh"
+    },
+    {
+     "label": "Uses",
+     "value": "Cable, data and telecom labeling"
+    }
+   ],
+   "description": "A 2 inch thermal transfer printer with an automatic cutter and its own battery is a different animal from the shipping printers. The D50 is built for cable labels and telecom jobs, where you need a label that survives years on a cable and a printer you can carry up a ladder.\n\nThermal transfer uses a ribbon to melt ink onto the label, which gives much better durability than direct thermal paper. The auto cutter makes bulk labeling quick, and a 2600 mAh battery means it works away from a socket. Compared with the QL-820NWB, the D50 is more rugged and narrower, aimed at installers instead of front desks.\n\nExpect ribbon and label cartridge costs as the running expense. Keep spare ribbon rolls, clean the head with alcohol and avoid dust in the cutter. If your commercial need is shipping, skip this and buy the Rollo or Arkscan, which are far better at 4x6.",
+   "bestFor": "Installers and technicians labeling cables, panels and equipment on site.",
+   "pros": [
+    "Thermal transfer for durable labels",
+    "Auto cutter for bulk work",
+    "2600 mAh battery for portable use",
+    "2 inch head for cable and data labels"
+   ],
+   "cons": [
+    "Cannot print 4x6 shipping labels",
+    "Ribbon and labels add running cost",
+    "Narrower than the shipping printers"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Label size you print daily",
+   "explanation": "A 4x6 shipping label needs a 4 inch printer such as the Rollo USB, Rollo Wireless, Arkscan 2054A or Arrvel A42BT. Address and file labels fit the narrower Brother QL-820NWB, and the 2 inch Makeid D50 is for cable work. Buying the wrong width is the one mistake that cannot be fixed by a setting. Hold a printed sample against the printer's stated maximum before ordering, because a label that is a quarter inch too wide will simply be cropped at the edge. Also check the core size of your roll against the printer's holder, since a printer built for fanfold stock and one built for rolls are not always interchangeable."
+  },
+  {
+   "criterion": "Direct thermal or transfer",
+   "explanation": "Direct thermal printers like the Rollos use heat-sensitive paper, with no ribbon. Labels last weeks to months and darken in heat and sun. The Makeid D50 uses thermal transfer, which needs a ribbon but produces labels that last years. For a shipping bench the choice is easy because a parcel label has a life of days, yet for a pallet tag or a freezer shelf label the ribbon cost is repaid quickly in fewer reprints."
+  },
+  {
+   "criterion": "Connection and sharing",
+   "explanation": "USB, as on the Rollo USB, suits one computer. Wi-Fi with AirPrint on the Rollo Wireless suits shared Apple devices, and Ethernet on the Brother QL-820NWB suits an office network. Bluetooth on the Arrvel A42BT suits phones, though pairing can be fussy. If several people share one printer, give it a fixed network address so it does not move around, and keep a wired option in reserve for the days when wireless misbehaves."
+  },
+  {
+   "criterion": "Speed in labels per minute",
+   "explanation": "The Rollo printers list 150 mm per second, and the Arrvel lists 72 labels per minute at that speed. The Brother QL-820NWB lists up to 110 short address labels per minute. These are not comparable numbers because label length changes everything."
+  },
+  {
+   "criterion": "Software and platform fit",
+   "explanation": "The Arkscan 2054A names Windows, Mac, Chromebook and Android and a long list of selling platforms. Check that your shipping tool lists your printer. A printer that your platform does not recognize still works through a generic driver, but with more setup."
+  },
+  {
+   "criterion": "Cost per label",
+   "explanation": "A thermal printer has no ink, so the cost is rolls. Brother's DK rolls and generic 4x6 rolls differ in price per label, and third-party 4x6 stock is usually cheaper. A transfer printer adds ribbon cost on top of labels."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "mm per second",
+   "meaning": "Linear print speed of the head. 150 mm per second is about 5.9 inches per second.",
+   "watchFor": "The Rollo printers and Arrvel list 150 mm per second, but real throughput depends on label length."
+  },
+  {
+   "spec": "Labels per minute",
+   "meaning": "A rate that depends on label size. Short address labels print far faster than 6 inch shipping labels.",
+   "watchFor": "The QL-820NWB lists up to 110 and the Arrvel lists 72, for different label sizes."
+  },
+  {
+   "spec": "AirPrint",
+   "meaning": "Apple's driverless printing protocol that lets iPhones, iPads and Macs print without installing software.",
+   "watchFor": "The Rollo Wireless uses it, while the Arrvel relies on its own app."
+  },
+  {
+   "spec": "Direct thermal",
+   "meaning": "Heat on special paper produces the image. There is no ribbon, but the print fades with heat and time.",
+   "watchFor": "All the shipping printers here use it; the Makeid D50 does not."
+  },
+  {
+   "spec": "Thermal transfer",
+   "meaning": "A ribbon melts onto the label under a heated head. It gives more durable prints than direct thermal.",
+   "watchFor": "The Makeid D50 uses it and needs ribbon rolls."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Label size fit",
+   "description": "We matched each printer to the labels it prints, from 4x6 on the Rollo and Arkscan to 2 inch on the Makeid. Width was judged against real commercial use. Size was the first filter."
+  },
+  {
+   "title": "Speed and workflow",
+   "description": "Rated mm per second and labels per minute were compared with the caveat that label length matters. The Rollo at 150 mm per second and the QL-820NWB at 110 labels per minute sit at the top. We treated headline speeds as ceilings."
+  },
+  {
+   "title": "Connectivity",
+   "description": "USB, Wi-Fi, Ethernet and Bluetooth support was checked. A shared bench needs more than a USB cable. AirPrint on the Rollo Wireless was weighted for Apple households."
+  },
+  {
+   "title": "Platform and software",
+   "description": "We reviewed supported operating systems and marketplace compatibility. The Arkscan 2054A's long platform list was noted. Windows-only software was marked as a limit."
+  },
+  {
+   "title": "Running cost and durability",
+   "description": "Based on owner feedback patterns, rolls and ribbons were treated as the main ongoing cost. Direct thermal fading and thermal transfer durability shaped the verdicts. We did not quote prices."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Label Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "4x6 parcel labels, one computer",
+      "Rollo USB",
+      "Simple USB, no ink, 150 mm per second"
+     ],
+     [
+      "4x6 labels from tablets",
+      "Rollo Wireless",
+      "AirPrint over Wi-Fi"
+     ],
+     [
+      "FBA, barcode and shipping labels",
+      "Arkscan 2054A",
+      "Wide platform and barcode support"
+     ],
+     [
+      "Address and file labels",
+      "Brother QL-820NWB",
+      "110 labels per minute, 300 dpi"
+     ],
+     [
+      "Cables and panels",
+      "Makeid D50",
+      "2 inch thermal transfer with cutter"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "Arrvel A42BT",
+      "Bluetooth 4x6 printer"
+     ],
+     [
+      "Entry commercial",
+      "Rollo USB",
+      "Simple, proven shipping printer"
+     ],
+     [
+      "Mid tier",
+      "Arkscan 2054A",
+      "Platform and barcode flexibility"
+     ],
+     [
+      "Upper tier",
+      "Rollo Wireless",
+      "Wi-Fi and AirPrint convenience"
+     ],
+     [
+      "Highest tier",
+      "Brother QL-820NWB",
+      "Network and scanner support"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Wired vs Wireless",
+   "cards": [
+    {
+     "label": "Wired",
+     "text": "The Rollo USB and Arkscan 2054A connect by cable. They avoid network problems and work on a single computer. The Brother QL-820NWB adds Ethernet for office sharing."
+    },
+    {
+     "label": "Wireless",
+     "text": "The Rollo Wireless uses AirPrint and the Arrvel A42BT uses Bluetooth. Both save a cable but depend on the network or the app."
+    }
+   ],
+   "note": "Choose wired for one bench; choose wireless for several people or a tablet workflow."
+  },
+  {
+   "subheading": "Shipping vs Office Labeling",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Parcel shipping",
+      "Rollo USB",
+      "4x6 direct thermal"
+     ],
+     [
+      "Mixed barcode work",
+      "Arkscan 2054A",
+      "Barcode and FBA support"
+     ],
+     [
+      "Mail room",
+      "Brother QL-820NWB",
+      "Fast address labels"
+     ],
+     [
+      "Field installation",
+      "Makeid D50",
+      "Battery and ribbon durability"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Marketplace Sellers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A 4x6 printer your shipping platform lists, a roll you can buy anywhere and a connection that suits how you work."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Rollo USB covers most sellers, the Arkscan 2054A handles FBA, and the Rollo Wireless suits tablet workflows."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You share the printer or need network and scanner features. The Brother QL-820NWB and Rollo Wireless justify it."
+    },
+    {
+     "label": "Save if",
+     "text": "You print under a hundred labels a week from one computer. The Rollo USB is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the print head",
+   "interval": "Every few rolls",
+   "why": "Adhesive and dust cause faint lines. Wipe it with isopropyl alcohol on a swab."
+  },
+  {
+   "task": "Wipe the platen roller",
+   "interval": "Monthly",
+   "why": "Label adhesive builds up and causes misfeeds. A clean roller keeps labels aligned."
+  },
+  {
+   "task": "Store labels dry and cool",
+   "interval": "Ongoing",
+   "why": "Heat-sensitive paper darkens when stored warm. Keep spare rolls in their bags."
+  },
+  {
+   "task": "Update drivers and firmware",
+   "interval": "Quarterly",
+   "why": "Wi-Fi and Bluetooth models rely on updates for stable connections. Old versions cause dropouts."
+  },
+  {
+   "task": "Keep ribbon rolls sealed",
+   "interval": "Ongoing",
+   "why": "Thermal transfer ribbon collects dust that shows as specks. Open it only when ready to use."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Rollo USB or Rollo Wireless?",
+   "a": "Choose the USB model for one computer and a simpler setup. Choose the Wireless if you print from tablets or share one printer between people."
+  },
+  {
+   "q": "Are thermal labels good enough for commercial use?",
+   "a": "Yes for shipping, where labels last weeks. They fade in heat and sun, so use thermal transfer for tags that must last years."
+  },
+  {
+   "q": "How fast are these really?",
+   "a": "Headline figures such as 150 mm per second are ceilings. A 4x6 label takes about as long to feed as it does to print, so expect lower sustained rates than the spec."
+  },
+  {
+   "q": "Can the Brother QL-820NWB print shipping labels?",
+   "a": "Not at 4x6, because its label width is narrower. It is better for addresses, file labels and ID tags."
+  },
+  {
+   "q": "Do I need special labels?",
+   "a": "The 4x6 printers use generic thermal rolls. The Brother uses DK rolls, and the Makeid needs matched labels and ribbon."
+  },
+  {
+   "q": "What breaks first on a commercial printer?",
+   "a": "The platen roller and the print head are the wear parts. Regular cleaning and clean label stock extend both."
+  }
+ ],
+ "relatedGuides": []
+}

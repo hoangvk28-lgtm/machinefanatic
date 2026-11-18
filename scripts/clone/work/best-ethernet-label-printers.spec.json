@@ -1,0 +1,569 @@
+{
+ "guideSlug": "best-ethernet-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "ethernet label printers",
+ "guideTitle": "Best Ethernet Label Printers (2026)",
+ "metaTitle": "Best Ethernet Label Printers in 2026",
+ "metaDescription": "Six label printers with a wired Ethernet port compared on network setup, fixed addressing, shared printing, label width and what each does beyond the jack.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "14 min",
+ "expertTake": "The Brother QL-820NWB is the pick for an office that wants a shared wired label printer, because Ethernet, Wi-Fi, Bluetooth and a USB host port cover almost any layout. The iDPRT iD880 is the value-minded choice for shipping labels over a cable. Anyone with a single computer should skip Ethernet and use USB.",
+ "introParagraphs": [
+  "An Ethernet jack on a label printer solves one problem well: many computers, one printer, no drama. A wired network link does not roam, sleep or drop when someone microwaves lunch, and it lets a printer live in the corner of a warehouse while every desk sends it jobs.",
+  "That convenience comes with small setup chores, such as giving the printer a fixed address and making sure the driver points at the right place. This guide compares six printers that offer a network jack, and separates the ones that are built for a shared office from the ones that merely list the port."
+ ],
+ "products": [
+  {
+   "id": "B01MTYE0X6",
+   "badge": "Best Overall",
+   "name": "Brother QL-820NWB multi-connectivity label printer",
+   "specs": [
+    "Ethernet Wi-Fi Bluetooth",
+    "USB host port",
+    "110 labels a minute",
+    "300 dpi"
+   ],
+   "specList": [
+    {
+     "label": "Connections",
+     "value": "Ethernet, Wi-Fi, Bluetooth and USB"
+    },
+    {
+     "label": "USB host",
+     "value": "Port for a peripheral such as a scanner"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 110 standard address labels per minute"
+    },
+    {
+     "label": "Resolution",
+     "value": "300 dpi black text"
+    },
+    {
+     "label": "Display",
+     "value": "Monochrome LCD for standalone use"
+    }
+   ],
+   "description": "Brother built the QL-820NWB to be the printer that fits whatever network an office has. It offers Ethernet, Wi-Fi and Bluetooth, plus a USB host port that accepts a peripheral such as a barcode scanner. That last feature allows a scan-and-print workflow without a computer, a rare trick in this class.\n\nThe listing says up to 110 standard address labels per minute at 300 dpi, the fastest quoted rate in this lineup, and it includes a monochrome LCD for standalone use. The limit is label width: it is a narrow-label machine using Brother DK rolls, so it prints addresses, file labels and name badges but not full 4x6 parcel labels.\n\nGive it a fixed address on the router, load genuine DK rolls and keep the head clean. In a shared office it earns its keep within a week. The scanner port deserves a trial: plug in a handheld scanner, scan a product code and print its label without touching a computer, which is handy at a returns table or a goods-in desk. Keep a spare DK roll of each size you use on the shelf beside it, because a shared printer that runs dry stops several people at once.",
+   "bestFor": "Offices that share one label printer across wired and wireless devices.",
+   "pros": [
+    "Ethernet, Wi-Fi, Bluetooth and USB in one body",
+    "USB host port for a scanner",
+    "Up to 110 address labels a minute",
+    "Monochrome LCD for standalone work"
+   ],
+   "cons": [
+    "Does not print 4x6 parcel labels",
+    "Tied to Brother DK rolls"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B01MTYE0X6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41FkQmLcfeL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FPR25SGQ",
+   "badge": "Best Wired Shipping Printer",
+   "name": "iDPRT iD880 4x6 industrial label printer, USB and Ethernet",
+   "specs": [
+    "4x6 direct thermal",
+    "USB and Ethernet",
+    "6 ips at 203 dpi",
+    "QR-code driver"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 shipping labels, wider than 4 inches possible"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 6 inches per second"
+    },
+    {
+     "label": "Resolution",
+     "value": "203 dpi"
+    },
+    {
+     "label": "Connections",
+     "value": "USB cable and Ethernet cord included"
+    }
+   ],
+   "description": "The iD880 is a commercial-grade direct thermal printer that brings a wired network jack to the 4x6 shipping class. The listing says to connect the included USB cable or Ethernet cord and download the driver via a QR code, so the cabling is in the box. It runs up to 6 inches per second at 203 dpi.\n\nFor a packing room that needs several benches to share a label printer, that wiring matters more than any app. Against the Brother QL-820NWB, it prints full shipping labels but has no Wi-Fi or Bluetooth listed. Against the Zebra options, it is a newer, less proven design with a faster listed speed.\n\nReserve its address on the router so benches never lose it, wipe the head and keep the stack square. If the printer sits near the router, a short patch cable is enough, and if it sits across the room, run the cable along the baseboard where chairs cannot snag it. A cable that is tugged loose three times a month is the commonest reason a wired printer gets a bad reputation.",
+   "bestFor": "Packing rooms where several benches share a wired 4x6 printer.",
+   "pros": [
+    "Ethernet and USB cables are included",
+    "6 inches per second at 203 dpi",
+    "Prints 4x6 shipping labels",
+    "Commercial-grade direct thermal build"
+   ],
+   "cons": [
+    "No wireless connection listed",
+    "Newer design with less history"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FPR25SGQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aIJSjXQFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BB7X73W4",
+   "badge": "Best Compact Zebra",
+   "name": "Zebra ZD411D 2.2-inch direct thermal printer, Ethernet and BLE",
+   "specs": [
+    "2.2 in print width",
+    "USB Ethernet BLE 5",
+    "6 ips at 203 dpi",
+    "USB host"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink or ribbon"
+    },
+    {
+     "label": "Print width",
+     "value": "2.2 inch"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 6 inches per second at 203 dpi"
+    },
+    {
+     "label": "Connections",
+     "value": "USB 2.0, USB host, Ethernet and Bluetooth Low Energy 5"
+    },
+    {
+     "label": "Output",
+     "value": "Barcodes, text and graphics"
+    }
+   ],
+   "description": "Zebra's ZD411D is the small desktop printer for product, shelf and small shipping labels, with a 2.2 inch print width and 203 dpi. It lists USB 2.0, a USB host port, Ethernet and Bluetooth Low Energy 5, so a wired network and a phone can both reach it. Speeds up to 6 inches per second are plenty for most label work.\n\nThe narrow width is the limit, as it cannot print a 4x6 parcel label. Its strength is the platform: Zebra drivers, parts and firmware are widely supported, and inventory software tends to list it. Against the Brother QL-820NWB, it is more industrial and less address-label focused.\n\nGive it a fixed address, set the media type and keep a spare roll beside it. Because it is compact, it fits on a shelf above a workbench, which keeps the labels near the products they describe. Print a test from each computer that will use it, and note which driver version each one runs, since mixed versions are a classic source of misaligned labels.",
+   "bestFor": "Shops printing product and shelf labels over a wired network.",
+   "pros": [
+    "Ethernet plus Bluetooth Low Energy 5",
+    "USB host port",
+    "6 ips at 203 dpi",
+    "Zebra driver and parts support"
+   ],
+   "cons": [
+    "2.2 inch width cannot print 4x6 labels",
+    "Direct thermal prints fade"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0BB7X73W4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SSUIRsFjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DKT936VH",
+   "badge": "Best for Roll and Folded Stock",
+   "name": "Omezizy D550 Pro 4x6 label printer with built-in paper bin",
+   "specs": [
+    "4x6 direct thermal",
+    "Bluetooth Ethernet USB",
+    "Roll and folded paper",
+    "Built-in bin"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 inch shipping labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Connections",
+     "value": "Bluetooth, Ethernet and USB"
+    },
+    {
+     "label": "Stock",
+     "value": "Built-in bin for roll and folded paper"
+    },
+    {
+     "label": "In the box",
+     "value": "Thirty starter labels"
+    }
+   ],
+   "description": "Omezizy's D550 Pro goes one better than most Ethernet printers by also offering Bluetooth and USB, so a wired bench and a phone can use the same machine. The listing says its design allows both roll and folded paper loading in a built-in bin, so a seller can buy whichever stock is cheaper.\n\nA starter pack of 30 labels is included. It is a lesser-known maker, so owner history is thin, and the listing offers no speed figure, unlike the iDPRT. Against the Brother, it prints full shipping labels but is a hobbyist-priced newcomer.\n\nWire it, reserve the address and test both stock types before relying on it. A seller who changes stock suppliers often will like the flexibility, but should still recalibrate whenever the stock type changes. Because the maker is new, keep the receipt and warranty details somewhere you can find them in six months, when you will have a better sense of how it ages.",
+   "bestFor": "Sellers who want Ethernet and Bluetooth in one 4x6 printer.",
+   "pros": [
+    "Bluetooth, Ethernet and USB connections",
+    "Built-in bin for roll or folded paper",
+    "Prints 4x6 labels",
+    "Starter labels included"
+   ],
+   "cons": [
+    "No speed figure listed",
+    "Thin owner history"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DKT936VH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dD31ze-9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07QKS1CYL",
+   "badge": "Best for Shared Marketplace Sellers",
+   "name": "Arkscan 2054A-LAN Ethernet 4x6 shipping label printer",
+   "specs": [
+    "4x6 direct thermal",
+    "Ethernet LAN",
+    "Windows Mac Chromebook",
+    "BarTender UltraLite"
+   ],
+   "specList": [
+    {
+     "label": "Label size",
+     "value": "4x6 shipping labels"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Network",
+     "value": "Ethernet LAN port"
+    },
+    {
+     "label": "Platforms named",
+     "value": "Amazon FBA, EasyPost, eBay, Etsy, Endicia and others"
+    },
+    {
+     "label": "Software",
+     "value": "BarTender UltraLite, Windows only"
+    }
+   ],
+   "description": "Arkscan's LAN model is the Ethernet version of a long-running shipping printer. The listing names a long roll call of platforms and postage services, and it prints product and barcode labels as well, so a shared bench can serve several sellers. Phones and tablets are mentioned in its title, which suggests network printing support through other devices.\n\nBarTender UltraLite is bundled for Windows only, which leaves Mac users to pick another design tool. Against the iDPRT it has a longer history, and against the Omezizy it lacks Bluetooth. The jack makes it a sensible fixture in a small office.\n\nAssign it a fixed address, keep the stack square and clean the head every few rolls. A small trick for multi-seller benches is to save one print profile per marketplace on each computer, so a label for one site does not inherit the page settings of another. The printer itself does not care, but the driver settings on each desk do.",
+   "bestFor": "Small offices with several marketplace sellers sharing one printer.",
+   "pros": [
+    "Ethernet LAN port for shared use",
+    "Names many platforms and postage tools",
+    "Prints product and barcode labels",
+    "Supports Windows, Mac and Chromebook"
+   ],
+   "cons": [
+    "Designer software is Windows only",
+    "No Bluetooth listed"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07QKS1CYL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Gi1Wq6EHL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GQ46NGQV",
+   "badge": "Best Legacy Network Zebra",
+   "name": "Zebra GX420d direct thermal printer, USB Ethernet serial",
+   "specs": [
+    "Direct thermal",
+    "USB Ethernet serial",
+    "Address and barcode",
+    "No ribbon"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ribbon, ink or toner"
+    },
+    {
+     "label": "Interfaces",
+     "value": "USB, Ethernet and serial"
+    },
+    {
+     "label": "Output",
+     "value": "Address, shipping and barcode labels"
+    },
+    {
+     "label": "Media",
+     "value": "Direct thermal label rolls"
+    },
+    {
+     "label": "Operation",
+     "value": "Rapid, energy-efficient printing"
+    }
+   ],
+   "description": "The GX420d has been a fixture of back offices for years, and its USB, Ethernet and serial interfaces explain why. It prints direct thermal with no ribbon and handles address, shipping and barcode labels. In a network it sits quietly at a fixed address and takes jobs from every desk.\n\nThe design is older than the iDPRT and the ZD411D, but the age brings a long list of driver and software support. Zebra's tools expect it, and inventory software often lists it. Where the newer models add wireless, this one stays with cables.\n\nSet the media type, keep the platen clean and reserve its address on the router. Because the platform is so widely used, replacement heads and platens are easy to source, and a technician who has worked on one can fix almost any other in the family. That, rather than its looks, is the reason these printers keep turning up in storerooms a decade after they were bought.",
+   "bestFor": "Back offices that want a long-standing Zebra on the network.",
+   "pros": [
+    "USB, Ethernet and serial interfaces",
+    "Long driver and software history",
+    "No ribbon, ink or toner",
+    "Rapid energy-efficient printing"
+   ],
+   "cons": [
+    "Older design with no wireless",
+    "Direct thermal prints fade"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQ46NGQV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41g2lBYNx7L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Fixed address and discovery",
+   "explanation": "A network printer that changes address every few days looks broken to every desk that used it. Reserve the printer's address on the router, or set a fixed one in its menu, and write it on the printer. The Brother QL-820NWB and iDPRT iD880 both accept this setup. Doing it once at installation saves a lot of troubleshooting. Many small offices skip this step because the printer works on day one, and then wonder why it vanishes after a power cut. Take five minutes to note the address, the router login and the driver version on a card taped inside the printer's lid."
+  },
+  {
+   "criterion": "Label width on the network",
+   "explanation": "The Brother QL-820NWB and Zebra ZD411D print narrow labels, while the iDPRT, Omezizy and Arkscan print 4x6 shipping labels. A shared printer must match the widest label anyone in the office needs. If the packing room and the front desk have different needs, two printers may beat one. A narrow-label printer and a 4x6 printer on the same network, each at its own fixed address, cost less than a single large machine forced to do both jobs badly. The cost of the second printer is often recovered in saved label stock within a year."
+  },
+  {
+   "criterion": "Beyond the jack",
+   "explanation": "Ethernet is rarely the only connection. The Brother adds Wi-Fi, Bluetooth and a USB host port for a scanner, the Zebra ZD411D adds Bluetooth Low Energy 5, and the Omezizy adds Bluetooth. A phone route is useful for walk-up printing. Check what else the printer offers so a cable failure does not stop work."
+  },
+  {
+   "criterion": "Speed against queue depth",
+   "explanation": "The Brother lists up to 110 address labels a minute, and the iDPRT and Zebra ZD411D list up to 6 inches per second. A shared printer can build a queue when several benches print at once, so a faster head shortens waits. Count peak simultaneous users, not total daily labels. Three people pressing print within the same ten seconds is the situation that exposes a slow printer, and it happens at every shift change. A quick test is to send thirty labels from two computers at once and see how long the second person waits."
+  },
+  {
+   "criterion": "Driver and software support",
+   "explanation": "Inventory and shipping software list supported printers, and Zebra and Brother appear often. Lesser-known makers rely on their own drivers. If your software has a supported printer list, check it before buying, since a missing driver is an expensive surprise."
+  },
+  {
+   "criterion": "Consumable lock-in",
+   "explanation": "The Brother uses genuine DK rolls, while the Zebra, iDPRT, Omezizy and Arkscan accept standard thermal rolls and stacks. In a shared office that prints all day, supply cost over a year matters more than the purchase price. Compare roll costs before you commit. A single locked roll costing slightly more adds up when a shared printer burns through a roll a day. Ask whether a second supplier exists for the size you need, and keep a few rolls of backup stock on the shelf."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Ethernet LAN",
+   "meaning": "A wired network connection that gives the printer an address on the office network.",
+   "watchFor": "All six printers list a network jack in some form."
+  },
+  {
+   "spec": "USB host",
+   "meaning": "A port that lets the printer accept a device such as a scanner, instead of acting as a device itself.",
+   "watchFor": "The Brother QL-820NWB and Zebra ZD411D list it."
+  },
+  {
+   "spec": "Bluetooth Low Energy 5",
+   "meaning": "A modern low-power Bluetooth version with better range and stability than older versions.",
+   "watchFor": "The Zebra ZD411D lists it."
+  },
+  {
+   "spec": "Fixed IP address",
+   "meaning": "A network address that stays the same, so every computer can find the printer.",
+   "watchFor": "Set it on the printer or reserve it on the router."
+  },
+  {
+   "spec": "Roll and folded stock",
+   "meaning": "Labels may come on a wound roll or a folded stack, and some printers take both.",
+   "watchFor": "The Omezizy D550 Pro takes both."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Network readiness",
+   "description": "We read each listing for Ethernet and extra connections. The Brother QL-820NWB leads with Ethernet, Wi-Fi, Bluetooth and a USB host port. The Zebra GX420d offers Ethernet and legacy ports."
+  },
+  {
+   "title": "Label width",
+   "description": "Widths were compared: narrow for the Brother and Zebra ZD411D, 4x6 for the iDPRT, Omezizy and Arkscan. We weighed width against the jobs a shared printer must handle."
+  },
+  {
+   "title": "Speed under shared load",
+   "description": "The Brother's 110 labels a minute and the 6 ips rating of the iDPRT and Zebra ZD411D were compared. Shared printers queue jobs, so speed counted for more than in single-user use."
+  },
+  {
+   "title": "Ecosystem and drivers",
+   "description": "Zebra and Brother scored high for software support. The newer brands scored lower. We weighed the risk of a missing driver."
+  },
+  {
+   "title": "Running costs",
+   "description": "Locked and open stock were compared. The Brother's DK rolls lock you in, and the others accept standard stock. We scored the yearly supply cost for a busy office."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Shared Job",
+   "table": {
+    "headers": [
+     "Job",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Address and file labels for an office",
+      "Brother QL-820NWB",
+      "Ethernet, Wi-Fi and Bluetooth."
+     ],
+     [
+      "Shipping labels at several benches",
+      "iDPRT iD880",
+      "4x6 with Ethernet and 6 ips."
+     ],
+     [
+      "Product and shelf labels",
+      "Zebra ZD411D",
+      "Compact Zebra with Ethernet."
+     ],
+     [
+      "Phone and wired bench together",
+      "Omezizy D550 Pro",
+      "Bluetooth, Ethernet and USB."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "Omezizy D550 Pro",
+      "Three connections in a newcomer."
+     ],
+     [
+      "Middle tier",
+      "iDPRT iD880",
+      "Wired shipping printer."
+     ],
+     [
+      "Higher tier",
+      "Zebra GX420d",
+      "Established industrial platform."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Wired vs Wi-Fi Network Printing",
+   "cards": [
+    {
+     "label": "Wired",
+     "text": "The iDPRT, Arkscan, Zebra GX420d and ZD411D use a cable. It is steady and ignores signal strength. It needs a cable run."
+    },
+    {
+     "label": "Wi-Fi",
+     "text": "The Brother QL-820NWB can also use Wi-Fi. It is easy to place. It drops when the signal is weak."
+    }
+   ],
+   "note": "Choose wired for a fixed bench and Wi-Fi for flexible placement."
+  },
+  {
+   "subheading": "By Label Width",
+   "table": {
+    "headers": [
+     "Width",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Narrow address labels",
+      "Brother QL-820NWB",
+      "DK rolls and 110 labels a minute."
+     ],
+     [
+      "Medium product labels",
+      "Zebra ZD411D",
+      "2.2 inch width."
+     ],
+     [
+      "Full 4x6 parcel labels",
+      "Arkscan 2054A-LAN",
+      "Names many platforms."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Packing Room Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A fixed address, a 4x6 width and a speed that keeps up with several benches. A bin or stack path helps keep the table tidy."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The iDPRT iD880 lists 6 ips and a bundled Ethernet cord, and the Omezizy D550 Pro adds a built-in bin."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Several benches print all day or your software expects Zebra or Brother. The ZD411D and QL-820NWB cover those."
+    },
+    {
+     "label": "Save if",
+     "text": "One bench shares a printer with a laptop. USB models are enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Reserve a fixed address",
+   "interval": "Once at installation",
+   "why": "A moving address makes a working printer look dead. Reserve it on the router."
+  },
+  {
+   "task": "Clean the head and platen",
+   "interval": "Every few rolls",
+   "why": "Shared printers run more labels, so dust and adhesive build faster."
+  },
+  {
+   "task": "Check the network cable",
+   "interval": "Quarterly",
+   "why": "A loose connector looks like a printer fault. Reseat both ends."
+  },
+  {
+   "task": "Update drivers on every desk",
+   "interval": "Yearly",
+   "why": "Old drivers can fail after system updates and cause mysterious jobs."
+  },
+  {
+   "task": "Keep spare stock near the printer",
+   "interval": "Ongoing",
+   "why": "A shared printer that runs out blocks everyone. A labeled spare shelf avoids it."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Why choose Ethernet over Wi-Fi for a label printer?",
+   "a": "A wired link does not roam or drop. It is the safer choice when several computers share the printer and the work cannot stop."
+  },
+  {
+   "q": "How do I set up a network label printer?",
+   "a": "Connect the cable, give the printer a fixed address and install the driver on each computer pointing at that address. Print a test label from every desk."
+  },
+  {
+   "q": "Do any of these print 4x6 labels over Ethernet?",
+   "a": "Yes. The iDPRT iD880, Omezizy D550 Pro and Arkscan 2054A-LAN print 4x6 labels. The Brother and Zebra ZD411D print narrower labels."
+  },
+  {
+   "q": "Can I also print from a phone?",
+   "a": "The Brother QL-820NWB, Omezizy D550 Pro and Zebra ZD411D add Bluetooth. The wired-only models need a computer."
+  },
+  {
+   "q": "What happens if the router changes?",
+   "a": "A printer with a fixed address on the old network may need reconfiguring. Keep the setup notes on a card beside it."
+  },
+  {
+   "q": "Is a Zebra worth it over cheaper brands?",
+   "a": "For driver support and long service life, often yes. For a single small bench, a cheaper model works well."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41FkQmLcfeL._SL500_.jpg"
+}

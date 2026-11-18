@@ -79,3 +79,7 @@ best-duromax-generator-transfer-switch: no DuroMax-brand transfer switch exists 
 best-firman-generator-transfer-switch: no Firman-brand transfer switch in the data; only a Westinghouse generator, a Firman/Champion rocker start switch (not a transfer switch) and generic other-brand switches
 best-ge-generator-transfer-switch: no GE-brand product in the data at all; only other-brand switches
 best-floating-neutral-generator-transfer-switch: no product data states floating or switched neutral behavior, so no lineup can be honestly matched to the topic
+best-laser-label-printers: only one real label printer in data (KNAON thermal 4x6, not laser); the rest are laser document printers and sticker sheets, not label printers
+best-inkjet-label-printers: no true inkjet label printer in the compact data (QL-800 and PixCut S1 are thermal, others are sticker sheets or a handheld coder); fewer than 3 on-topic machines
+best-nelko-label-printers: only 2 distinct Nelko machines (P21 and PM220); the rest are tape rolls
+best-polono-label-printers: only 2 distinct Polono machines (PM220S and a 4x6 shipping unit); the rest are other brands or label rolls

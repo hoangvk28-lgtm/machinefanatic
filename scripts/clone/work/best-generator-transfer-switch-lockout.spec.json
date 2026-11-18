@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-generator-transfer-switch-lockout",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "generator transfer switch lockout",
+ "guideTitle": "Best Generator Transfer Switch Lockout Options (2026)",
+ "metaTitle": "Best Generator Transfer Switch Lockout Options",
+ "metaDescription": "Lockout interlock plates and lockout-style transfer switches for generators compared, with panel fitment, double-throw boxes and small breaker inlets explained.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The LATING interlock for Square D QO and Homeline panels is the pick when your panel matches, because it solves lockout with a machined plate instead of a new enclosure. The Joinfworld 30 amp breaker box is the pick for a single circuit. Anyone who cannot confirm their panel's brand, orientation and breaker spacing should buy a self-contained double-throw switch instead of guessing at a plate.",
+ "introParagraphs": [
+  "Lockout is a safety principle behind every generator connection: utility feed and generator feed must never be live together. A lockout can be a metal plate in a panel, a lever with only two positions, or a breaker isolating a single circuit. Each method suits a different home.",
+  "This guide sorts options by how they achieve lockout and what each one asks of a house. A key question is not which product is best in general, but which one fits your panel and your load, and which one an electrician will agree to install and an inspector will accept."
+ ],
+ "products": [
+  {
+   "id": "B09QKHVXFC",
+   "rank": 1,
+   "badge": "Best Lockout Plate for QO and Homeline",
+   "name": "LATING Generator Interlock for Square D QO or Homeline 150/200A",
+   "amazonUrl": "https://www.amazon.com/dp/B09QKHVXFC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51pQ1yBce3L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Square D QO/Homeline",
+    "150 or 200A",
+    "1-3/8in spacing",
+    "Anodized aluminum"
+   ],
+   "specList": [
+    {
+     "label": "Fits",
+     "value": "Square D QO or Homeline 150/200 amp panels"
+    },
+    {
+     "label": "Spacing",
+     "value": "1-3/8 inches between main and generator breaker"
+    },
+    {
+     "label": "Material",
+     "value": "Aluminum alloy, anodized"
+    },
+    {
+     "label": "Function",
+     "value": "Lockout between main and generator breaker"
+    },
+    {
+     "label": "Finish",
+     "value": "Brushed nickel"
+    }
+   ],
+   "description": "Lockout is in the product's name and in its job. A machined aluminum plate rides under the panel cover and lets only one of two breakers be on, so the main and a dedicated generator breaker can never feed the panel together. The listing names Square D QO and Homeline panels at 150 or 200 amps, with 1-3/8 inch spacing between the main and the generator breaker.\n\nWhat you are buying is a fitment, not a gadget. If your panel is the right family and the spacing matches, the plate is cheap and unobtrusive, and it avoids placing a second box on your wall. If anything differs, it will not lock out correctly, so measure before ordering and photograph the panel label.\n\nThe plate leaves you with work: a spare breaker slot beside the main, a two-pole generator breaker, an inlet with a cord and a correct neutral and ground arrangement. A licensed electrician should do those, and many jurisdictions ask for a kit approved for that panel, so confirm with the inspector. Over years of ownership, the plate is nearly maintenance-free, with the main risk being a loosened mounting screw or a panel cover that no longer closes after other work. Check it whenever the cover is off.",
+   "bestFor": "Owners of a Square D QO or Homeline panel who want lockout through a machined plate.",
+   "pros": [
+    "Plate blocks main and generator breaker together",
+    "Targets QO and Homeline 150/200A panels",
+    "Anodized aluminum construction",
+    "No extra enclosure on the wall"
+   ],
+   "cons": [
+    "Useless on a different panel or spacing",
+    "Needs a spare slot, breaker and inlet",
+    "Approval depends on the inspector"
+   ]
+  },
+  {
+   "id": "B0DQ9MGLFY",
+   "rank": 2,
+   "badge": "Best Stand-Alone Lockout Box",
+   "name": "Tzechkii 200A Manual Double-Throw Switch, NEMA 3R Enclosure",
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ9MGLFY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A 120/240V",
+    "Double throw",
+    "NEMA 3R",
+    "48,000W listed"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240V"
+    },
+    {
+     "label": "Capacity",
+     "value": "48,000W as listed"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel, NEMA 3R"
+    },
+    {
+     "label": "Lockout method",
+     "value": "Two-position double-throw lever"
+    },
+    {
+     "label": "Mounting",
+     "value": "Outdoor, beside the service"
+    }
+   ],
+   "description": "A double-throw lever achieves lockout by geometry: it has one position for utility, one for the generator, and nothing that connects both. The Tzechkii puts that lever in a galvanized NEMA 3R box rated 200 amps, suitable for the whole service.\n\nIts selling point over a plate is independence. It does not care what brand or layout your panel has, which makes it the answer when no plate fits. The cost is a bigger install, a bigger enclosure and a service-level connection that must be done by a licensed electrician.\n\nBecause the listed 48,000 watts is a hardware ceiling, not a statement about your generator, size the generator to your real loads. Expect to ask the installer about padlocking the lever, since the listing does not describe a hasp. This box suits a house with a standby generator or a very large portable, because its capacity far exceeds ordinary portables. Whatever generator you pair with it, plan for the neutral and ground arrangement with the installer, since that is where service-level switches differ most from small kits.",
+   "bestFor": "Houses with no compatible interlock plate or a preference for an outdoor stand-alone box.",
+   "pros": [
+    "Lockout by lever geometry",
+    "Works with any panel brand",
+    "Rain-rated galvanized enclosure",
+    "200A service-level capacity"
+   ],
+   "cons": [
+    "Service entrance install, electrician only",
+    "Large and heavy compared with a plate",
+    "No padlock feature described"
+   ]
+  },
+  {
+   "id": "B0FGCNDNPW",
+   "rank": 3,
+   "badge": "Best Alternative Lever Switch",
+   "name": "LNEUIE 200A Manual Double-Throw Safety Switch, 48,000W",
+   "amazonUrl": "https://www.amazon.com/dp/B0FGCNDNPW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "200A 120/240V",
+    "Double throw",
+    "Aluminum lugs",
+    "48,000W listed"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240V"
+    },
+    {
+     "label": "Capacity",
+     "value": "48,000W as listed"
+    },
+    {
+     "label": "Connections",
+     "value": "Aluminum, no electronics"
+    },
+    {
+     "label": "Lockout method",
+     "value": "Double-throw safety switch"
+    },
+    {
+     "label": "Case",
+     "value": "Galvanized steel, protective coating"
+    }
+   ],
+   "description": "LNEUIE offers a second route to the same lever-based lockout, described as a double-throw safety switch with aluminum connections and a coated galvanized case. There are no electronics to fail and nothing to program, which is part of the appeal for people wary of automatic gear.\n\nThe practical difference from the Tzechkii is small. If your installer has worked with one before, that familiarity is worth more than any line on a listing. Aluminum lugs call for correct torque and anti-oxidant compound, so ask for a written torque value and re-check it after the first season.\n\nUse it where the service switch is part of the plan and a generator is large enough to justify it. For smaller needs, one of the little breaker boxes is a better match. Keep the cover closed, label the lever clearly and ask the electrician to show every household member how to read the position before the first storm of the season.",
+   "bestFor": "Whole-service lever lockout where the installer prefers this model.",
+   "pros": [
+    "Lever lockout without electronics",
+    "200A rating for full service",
+    "Coated galvanized case",
+    "Simple operation for the household"
+   ],
+   "cons": [
+    "Aluminum lugs need torque discipline",
+    "Service-level installation",
+    "Sparse brand documentation"
+   ]
+  },
+  {
+   "id": "B0H444TNC4",
+   "rank": 4,
+   "badge": "Best Single-Circuit Breaker Lockout",
+   "name": "Joinfworld 30A 125V L5-30P Manual Transfer Switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0H444TNC4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41tBfn8LYxL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 125V",
+    "L5-30P inlet",
+    "Internal breaker",
+    "Steel box"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 125 volt"
+    },
+    {
+     "label": "Inlet",
+     "value": "L5-30P"
+    },
+    {
+     "label": "Lockout method",
+     "value": "Manual switch with internal breaker"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Powder-coated steel, gasketed covers"
+    },
+    {
+     "label": "Terminals",
+     "value": "Labeled L, N and GND"
+    }
+   ],
+   "description": "For one circuit, lockout comes from a switch and a breaker in a single box instead of a panel modification. The Joinfworld offers an L5-30 inlet, an internal circuit breaker and a steel enclosure with gasketed covers. The listing says the receptacle and breaker are UL-listed components, which is not the same as a listing on the finished box.\n\nIt is a small, easy-to-understand device: line, neutral and ground terminals are engraved, so wiring errors are less likely. Compared with the LATING plate, it covers only one 120 volt circuit and does not need a panel with the right spacing.\n\nThat makes it ideal for a sump pump, a furnace or a freezer, and unsuitable for a whole-house plan. Treat the install as permit work, label the circuit and verify the nameplate. For ownership, the weak points are the cord and the generator outlet, not the box itself, so inspect both at the start of every season. A 30 amp locking connector that has been stepped on or left in the rain will arc before the breaker trips.",
+   "bestFor": "A single 120V circuit such as a furnace, pump or freezer.",
+   "pros": [
+    "Breaker and switch in one steel box",
+    "Engraved L, N and GND terminals",
+    "No panel compatibility concerns",
+    "Gasketed covers resist dust"
+   ],
+   "cons": [
+    "One 120V circuit only",
+    "Manual operation",
+    "Needs an L5-30 generator outlet"
+   ]
+  },
+  {
+   "id": "B0G3SXHY4X",
+   "rank": 5,
+   "badge": "Best Generic 50A Panel",
+   "name": "DSGSANO 50A 10-Circuit Manual Transfer Switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0G3SXHY4X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41IYuGBS88L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "50A 240V",
+    "10 circuits",
+    "Manual",
+    "Marked wires"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 240 volt"
+    },
+    {
+     "label": "Circuits",
+     "value": "Up to 10"
+    },
+    {
+     "label": "Lockout method",
+     "value": "Manual double-throw panel"
+    },
+    {
+     "label": "Wiring",
+     "value": "Marked or tagged wires"
+    },
+    {
+     "label": "Contacts",
+     "value": "Normally open per listing"
+    }
+   ],
+   "description": "This generic panel supports up to ten circuits at fifty amps and 240 volts, with tagged wires to speed identification. The listing is brief and advises that you need some basic electrical knowledge, which is a polite way of saying hire a professional.\n\nIts lockout comes from the switch design rather than a separate plate, so it can serve houses whose panels will not accept an interlock. Against the Tzechkii it is smaller and more circuit-focused, and against the LATING it is a complete panel instead of a plate.\n\nBecause documentation is thin, ask the electrician to review the instructions before ordering and to confirm that breaker sizes match the conductors. Tagged wires are a genuine help during rough-in, since a mislabelled conductor is a common source of mistakes in a ten-circuit panel. Plan a labelled schedule on the cover that says which circuit sits in which position, and keep a copy with your permit paperwork. A fifty amp feed also demands an inlet and cord of the same rating, which are not mentioned in the listing and must be bought separately.",
+   "bestFor": "Houses wanting a ten-circuit panel lockout when no plate fits.",
+   "pros": [
+    "Ten circuits at fifty amps",
+    "Tagged wires help identification",
+    "Self-contained lockout by design",
+    "Suits panels that cannot take a plate"
+   ],
+   "cons": [
+    "Very thin documentation",
+    "Generic brand and support",
+    "Install needs a professional"
+   ]
+  },
+  {
+   "id": "B00FADDE0A",
+   "rank": 6,
+   "badge": "Best Brand Heritage",
+   "name": "The Original EZ Generator Switch, Patented Manual Transfer",
+   "amazonUrl": "https://www.amazon.com/dp/B00FADDE0A?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/61dy3MzvZOL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Manual",
+    "Patented",
+    "Made in USA",
+    "Listing cites UL/CSA"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Manual transfer switch"
+    },
+    {
+     "label": "Origin",
+     "value": "Made and assembled in the USA"
+    },
+    {
+     "label": "Claim",
+     "value": "Original and patented design"
+    },
+    {
+     "label": "Listing note",
+     "value": "States UL/CSA/ETL approval; verify"
+    },
+    {
+     "label": "Support",
+     "value": "Veteran-employed maker"
+    }
+   ],
+   "description": "EZ Generator Switch calls itself the original and patented version, made and assembled in the United States. The listing cites UL, CSA and ETL approval, which should be confirmed on the label you receive.\n\nIts data is nearly silent about ratings and mechanics, so what you are buying is a brand with a long history and domestic support. The manual is the real specification sheet, and you should read it before planning the install.\n\nIt works best as a conversation with an electrician who knows the product, since lockout depends on how it is wired into your panel. Compared with the LATING plate, it is a complete switch rather than a part of one, and compared with the Joinfworld, it is aimed at a broader job than one circuit. Ask the maker how the switch is mounted, what size of inlet it expects and whether the instructions cover your panel type. A long record only helps if the product fits your situation, so confirm the details in writing and keep the answer with the permit file.",
+   "bestFor": "Buyers who prefer a long-established US-assembled switch and will verify details in the manual.",
+   "pros": [
+    "Original patented design",
+    "US assembly and customer support",
+    "Listing cites UL, CSA and ETL",
+    "Long track record in the category"
+   ],
+   "cons": [
+    "Almost no electrical detail in the listing",
+    "Mechanism must be confirmed in the manual",
+    "Fit with your panel is unknown"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Three ways to get lockout",
+   "explanation": "A plate such as the LATING locks the main breaker against the generator breaker. A double-throw lever, as on the Tzechkii and LNEUIE, has two positions and no overlap. A breaker box, as with the Joinfworld, isolates one circuit. Pick by the scale of the job and by what your panel allows, not by price alone. A common error is to buy a plate first and discover afterwards that the panel lacks a free slot next to the main, which forces either a sub-panel or a different method. Check for a spare space before anything else."
+  },
+  {
+   "criterion": "Panel brand and spacing",
+   "explanation": "The LATING QO and Homeline plate expects 1-3/8 inch spacing between the main and the generator breaker. A different spacing or brand means a different plate or a different method. Read the panel label, count the spaces and, if there is doubt, ask the panel maker or the electrician. A near-fit plate offers false comfort."
+  },
+  {
+   "criterion": "Single circuit or whole service",
+   "explanation": "The Joinfworld handles one circuit at thirty amps, the DSGSANO ten circuits at fifty, and the lever boxes a whole 200 amp service. Buying more than you need adds wire and permit scope, while buying less leaves the freezer unpowered. List the loads first."
+  },
+  {
+   "criterion": "Documentation depth",
+   "explanation": "A lockout device is only safe if installed as designed. The LATING and Joinfworld listings name their fitment and terminals, while the EZ and DSGSANO listings say little. Thin documentation does not make a product unsafe, but it increases reliance on the electrician and the manual, so read them before you buy. Ask whether the instructions are available as a download, because a product whose manual you cannot read in advance is a product whose installation you cannot plan. A clear diagram and a torque table are the two items to look for."
+  },
+  {
+   "criterion": "Enclosure and environment",
+   "explanation": "The Tzechkii is NEMA 3R, the Joinfworld has gasketed covers and the plate lives inside a panel. A box on an exterior wall needs a rain rating and a downward conduit entry. A plate needs the panel cover to close properly, so check clearance behind it. Outdoors, a downward-facing conduit hub keeps water from running along the cable into the box, and a drip loop on the cord does the same at the inlet."
+  },
+  {
+   "criterion": "Inspection and permits",
+   "explanation": "Most places require a permit for any generator tie-in, and some require a listed interlock kit approved for the panel. Listing marks in titles are seller statements, and this guide confirms none of them. Ask the inspector what is accepted before you spend money. Where the data only describes generic seller units, such as the DSGSANO, check that your electrician is willing to install it, since some will work only with brands they already trust."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "1-3/8 inch spacing",
+   "meaning": "The vertical gap between the main breaker and the generator breaker that a plate bridges.",
+   "watchFor": "The LATING QO plate is built around this distance."
+  },
+  {
+   "spec": "150 or 200A panel",
+   "meaning": "The panel's busbar and main breaker rating. The plate is matched to that class.",
+   "watchFor": "A 100 amp panel may need a different plate."
+  },
+  {
+   "spec": "Double throw",
+   "meaning": "A lever with a utility position and a generator position, never both.",
+   "watchFor": "Used by the Tzechkii and LNEUIE."
+  },
+  {
+   "spec": "L5-30P",
+   "meaning": "A 30 amp locking 125 volt inlet. The cord must have the matching connector.",
+   "watchFor": "The Joinfworld uses it, so check your generator outlet."
+  },
+  {
+   "spec": "Aluminum lugs",
+   "meaning": "Terminals that clamp aluminum conductors. They need compound and correct torque.",
+   "watchFor": "The LNEUIE lists aluminum connections."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Lockout method",
+   "description": "We grouped products by how they achieve lockout, since a plate, a lever and a breaker box solve different problems."
+  },
+  {
+   "title": "Fitment honesty",
+   "description": "We favoured listings that name a panel family and spacing. The LATING is clearest, and the EZ listing says least."
+  },
+  {
+   "title": "Scale of load",
+   "description": "A single 30 amp circuit, a ten-circuit panel and a 200 amp service were separated so a reader can match the tool to the job."
+  },
+  {
+   "title": "Install burden",
+   "description": "A plate is a modest panel job, a breaker box is quick, and a service switch is professional work. That burden shaped the order."
+  },
+  {
+   "title": "Claim caution",
+   "description": "We repeat listing claims only and send readers to labels and inspectors. No code compliance is confirmed for any product."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Panel Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Square D QO or Homeline 150/200A",
+      "LATING QO/Homeline Interlock",
+      "Matches 1-3/8 inch spacing"
+     ],
+     [
+      "Any panel, whole service",
+      "Tzechkii 200A Double-Throw",
+      "Independent of panel brand"
+     ],
+     [
+      "Panel that will not take a plate",
+      "DSGSANO 50A 10-Circuit Panel",
+      "Self-contained panel"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "LATING QO/Homeline Interlock",
+      "A plate and no enclosure"
+     ],
+     [
+      "Middle tier",
+      "Joinfworld 30A Breaker Box",
+      "One circuit, no panel work"
+     ],
+     [
+      "Higher tier",
+      "Tzechkii 200A Double-Throw",
+      "Service-level box"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Plate vs Lever Box",
+   "cards": [
+    {
+     "label": "Plate",
+     "text": "The LATING interlocks the main and generator breakers inside your own panel. Inexpensive, but fit-specific and needs a breaker and inlet."
+    },
+    {
+     "label": "Lever box",
+     "text": "The Tzechkii and LNEUIE sit beside the panel and work with any brand. Larger and a service-level job."
+    }
+   ],
+   "note": "Buy a plate if your panel matches exactly; buy a lever box if it does not or you are unsure."
+  },
+  {
+   "subheading": "By Scope of Power",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "One furnace or pump circuit",
+      "Joinfworld 30A Breaker Box",
+      "Single circuit at 30 amps"
+     ],
+     [
+      "Ten chosen circuits",
+      "DSGSANO 50A Panel",
+      "Ten positions"
+     ],
+     [
+      "Whole house",
+      "LNEUIE 200A Double-Throw",
+      "Full service lever"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Safety Verification Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Labels with a recognised mark, a manual that describes the lockout, a cover you can secure and an inspector who agrees. A product page is not a verification. Photograph the nameplate and the finished work and keep both, since an insurer may ask for them after a claim."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The EZ Generator Switch cites UL, CSA and ETL, and the Joinfworld cites UL-listed components. Verify both on the label."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cannot use a plate and need a full service lever such as the Tzechkii."
+    },
+    {
+     "label": "Save if",
+     "text": "Your panel matches the LATING plate, which is the least expensive lockout in the guide."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check the plate fit",
+   "interval": "Yearly",
+   "why": "Screws loosen and plates drift. Confirm the slot still blocks one breaker when the other is on."
+  },
+  {
+   "task": "Operate the lever",
+   "interval": "Every 6 months",
+   "why": "Stiff contacts are an early warning. Cycle the lever with the generator off."
+  },
+  {
+   "task": "Re-torque lugs",
+   "interval": "Yearly",
+   "why": "Aluminum loosens with heat cycles. An electrician should tighten to label torque."
+  },
+  {
+   "task": "Check the inlet",
+   "interval": "Before storm season",
+   "why": "Corroded pins overheat. Clean and replace cracked covers."
+  },
+  {
+   "task": "Rehearse the sequence",
+   "interval": "Yearly",
+   "why": "Main off, generator breaker on, in that order. A dry run keeps the habit alive."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What does lockout mean for a generator?",
+   "a": "It means the utility and generator sources can never be connected together. A plate, a double-throw lever or a breaker box can all provide it."
+  },
+  {
+   "q": "Will the LATING plate fit my panel?",
+   "a": "Only if you have a Square D QO or Homeline 150 or 200 amp panel with 1-3/8 inch spacing. Check the label and measure."
+  },
+  {
+   "q": "Is a lockout plate legal everywhere?",
+   "a": "Not always. Some jurisdictions require a listed kit approved for the panel. Ask the inspector first."
+  },
+  {
+   "q": "Which option is safest for a beginner?",
+   "a": "A self-contained double-throw switch installed by an electrician. A plate demands the right panel and careful sequence."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Most places require one for a generator tie-in. Ask your local authority before buying."
+  },
+  {
+   "q": "Can a small breaker box power my whole house?",
+   "a": "No. The Joinfworld handles one circuit. A whole service needs a 200 amp lever box and a large generator."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51pQ1yBce3L._SL500_.jpg"
+}

@@ -1,0 +1,569 @@
+{
+ "guideSlug": "best-barcode-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "barcode label printers",
+ "guideTitle": "Best Barcode Label Printers (2026)",
+ "metaTitle": "Best Barcode Label Printers in 2026",
+ "metaDescription": "Six barcode label printers compared on resolution, bar width, interfaces and consumable lock-in, from industrial Zebra desktops to Bluetooth sticker printers.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "14 min",
+ "expertTake": "The Zebra GX420d is the pick for a shop that scans labels all day, because 203 dpi, an industrial duty cycle and wired interfaces keep bars crisp and prints repeatable. The CLABEL CT320D is the value-minded choice for open-stock rolls and phone printing. Anyone printing a barcode now and then should skip an industrial printer and use a Bluetooth sticker machine.",
+ "introParagraphs": [
+  "A barcode is only as good as its worst scan. The bars must be dark, evenly spaced and wide enough for the scanner at the distance it will read from, and the label must be flat with a clear margin on both sides. Whether a printer can achieve that depends on its resolution, its head condition and its media.",
+  "Many buyers focus on the connection or the app and forget that a barcode is a measurement problem. This guide starts there: how fine the print grid is, how steadily the paper moves, and what the printer lets you do about it. Six printers are compared across the common barcode jobs."
+ ],
+ "products": [
+  {
+   "id": "B0GQ46NGQV",
+   "badge": "Best Overall",
+   "name": "Zebra GX420d direct thermal barcode printer, USB and Ethernet",
+   "specs": [
+    "Direct thermal",
+    "USB Ethernet serial",
+    "Address and barcode",
+    "No ribbon"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ribbon, ink or toner"
+    },
+    {
+     "label": "Interfaces",
+     "value": "USB, Ethernet and serial"
+    },
+    {
+     "label": "Output",
+     "value": "Address, shipping and barcode labels"
+    },
+    {
+     "label": "Media",
+     "value": "Direct thermal label rolls"
+    },
+    {
+     "label": "Duty",
+     "value": "Rapid printing and energy-efficient operation"
+    }
+   ],
+   "description": "The GX420d belongs to a family that barcode scanners were effectively designed around. It prints direct thermal with no ribbon, and the listing describes rapid, energy-efficient printing of address, shipping and barcode labels. Its interfaces include USB, serial and Ethernet, a trio that covers a modern laptop, a legacy station and a shared network.\n\nFor barcode work the advantages are repeatability and support. A printer in this class holds its darkness setting, feeds label after label to the same position and has drivers that nearly every inventory program lists. Against the CLABEL CT320D it gives up Bluetooth and open-stock pricing, and against the Brother QL-800 it gives up the drop-in simplicity.\n\nSet the darkness and speed for your label stock, clean the head with alcohol and keep a test label of your actual barcode in the drawer so you can compare after any stock change. A habit that pays off in a retail setting is to scan one printed label from each new roll at the till before the roll goes out on the shelf. If the scanner hesitates, raise the darkness a notch, and if it still hesitates, the stock is the problem, not the printer. Because the platform is so common, replacement heads and rollers are easy to find years later.",
+   "bestFor": "Shops that scan labels all day and need repeatable prints on a network.",
+   "pros": [
+    "Industrial desktop platform with wide driver support",
+    "USB, Ethernet and serial interfaces",
+    "Holds darkness and feed position label after label",
+    "Direct thermal avoids ribbon costs"
+   ],
+   "cons": [
+    "No Bluetooth for phone printing",
+    "Direct thermal prints fade over time"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQ46NGQV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41g2lBYNx7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HD6GP92S",
+   "badge": "Best Open-Stock Desktop",
+   "name": "CLABEL CT320D 2 to 3 inch barcode label printer",
+   "specs": [
+    "Direct thermal",
+    "USB and Bluetooth",
+    "Not stock locked",
+    "Clabel Trade app"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Width",
+     "value": "2 to 3 inch labels"
+    },
+    {
+     "label": "Connections",
+     "value": "USB and Bluetooth"
+    },
+    {
+     "label": "Media",
+     "value": "Not locked to proprietary consumables"
+    },
+    {
+     "label": "App",
+     "value": "Clabel Trade on a phone"
+    }
+   ],
+   "description": "CLABEL's CT320D is the printer for people who dislike being told which label to buy. The listing says it is not locked to proprietary consumables, so compatible thermal paper from different brands works, and that freedom matters when you print thousands of small barcode stickers. It connects by USB to a computer or by Bluetooth to a phone through the Clabel Trade app.\n\nThe label width of 2 to 3 inches fits product barcodes, shelf tags and small address labels. Next to the Zebra GX420d, it lacks the industrial track record and Ethernet, but it costs less to feed. Next to the Phomemo M110, it is a desktop machine with a larger width range.\n\nTest a few brands of roll early and keep notes on which one feeds and scans best. Wipe the head regularly, and avoid cheap rolls that shed adhesive. Open stock is a gift for a business that prints thousands of stickers, but it asks you to be the quality controller, since label brands differ in coating, adhesive and backing thickness. Keep one trusted brand as the default and treat every other brand as a trial until it passes a scan test at your own till.",
+   "bestFor": "Small retailers who print many product barcodes and want cheap open-stock rolls.",
+   "pros": [
+    "Not locked to proprietary consumables",
+    "USB for computers and Bluetooth for phones",
+    "2 to 3 inch label width",
+    "Desktop build for steady feeding"
+   ],
+   "cons": [
+    "Shorter track record than Zebra",
+    "No Ethernet listed"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0HD6GP92S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/313T2PGMo9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01N49R9KP",
+   "badge": "Best for Address and Mixed Labels",
+   "name": "Brother QL-800 plug and label printer, black and red",
+   "specs": [
+    "DK pre-sized rolls",
+    "Black and red print",
+    "Plug and label",
+    "Multi-system"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Media",
+     "value": "Brother DK pre-sized and continuous rolls"
+    },
+    {
+     "label": "Colors",
+     "value": "Black and red on DK paper"
+    },
+    {
+     "label": "Connection",
+     "value": "USB with plug and label mode"
+    },
+    {
+     "label": "Systems",
+     "value": "Multi-system compatible"
+    }
+   ],
+   "description": "Brother's QL-800 is a drop-in-roll printer that suits barcode jobs sharing a desk with address and file labels. Its pre-sized DK rolls come die-cut, so each barcode lands at a known position on the label, which makes scanning reliable. Black-and-red printing on the right DK paper lets a barcode label carry a red price or alert beside the code.\n\nPlug and label mode lets the printer present itself to a computer so a barcode can be printed without installing a driver, a convenience in a shared office. The limit is the roll family: it uses genuine DK media, and its maximum label width is narrower than a full parcel label.\n\nKeep spare DK rolls in the sizes you use and wipe the head occasionally. Because the die-cut labels sit at a known position, a template saved once prints the same way on every roll, which is exactly what a barcode needs. Red accents are best kept away from the code itself, since red bars on a pale background can be hard for a red-light scanner to read.",
+   "bestFor": "Offices that print barcodes alongside address and file labels.",
+   "pros": [
+    "Die-cut DK rolls keep barcodes at a known position",
+    "Black and red printing for accents",
+    "Plug and label needs no driver",
+    "Drop-in rolls with no threading"
+   ],
+   "cons": [
+    "Tied to Brother DK rolls",
+    "Not for 4x6 parcel labels"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B01N49R9KP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/317NSIhXtqL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08TLRL392",
+   "badge": "Best Automatic Roll Recognition",
+   "name": "DYMO LabelWriter 550 with automatic label recognition",
+   "specs": [
+    "Direct thermal",
+    "Auto label recognition",
+    "DYMO labels only",
+    "No ink"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink or toner"
+    },
+    {
+     "label": "Media",
+     "value": "Authentic DYMO LabelWriter labels only"
+    },
+    {
+     "label": "Recognition",
+     "value": "Automatic label size and count detection"
+    },
+    {
+     "label": "Waste",
+     "value": "Prints exact quantities"
+    },
+    {
+     "label": "Labels",
+     "value": "BPA-free DYMO paper labels"
+    }
+   ],
+   "description": "The LabelWriter 550 reads the roll you load, which keeps a barcode layout from printing on the wrong label size. For an office that prints inventory barcodes from a template, that automatic recognition removes a quiet source of misprints. The listing also stresses that it prints exact quantities rather than wasting sheet labels.\n\nThe catch is the lock: it works only with authentic DYMO labels, so your label supply is a single brand. Barcode quality is decent for typical 1D codes, but there is no industrial head or ribbon option. Against the Zebra GX420d it is an office tool; against the Brother QL-800 it trades red printing for recognition.\n\nKeep a spare roll, wipe the head and print a test barcode when you change label size. A misprinted barcode is expensive in a stock room, because mislabeled items turn up weeks later, so use the recognition feature as a safety net rather than a reason to skip the test. Offices that keep two label sizes on hand should mark each roll box so the wrong one is never loaded in a hurry.",
+   "bestFor": "Offices that print inventory barcodes from templates in a fixed label size.",
+   "pros": [
+    "Automatic label recognition reduces misprints",
+    "Prints exact quantities",
+    "No ink or toner",
+    "Familiar LabelWriter family"
+   ],
+   "cons": [
+    "Works only with authentic DYMO labels",
+    "No industrial duty rating"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B08TLRL392?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/4136vgjZ0+L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GQ4482BL",
+   "badge": "Best Legacy-Port Zebra",
+   "name": "Zebra ZP450 direct thermal barcode printer, 5 ips at 203 dpi",
+   "specs": [
+    "5 ips at 203 dpi",
+    "USB serial parallel",
+    "Direct thermal",
+    "Fixed media width"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no toner or ribbon"
+    },
+    {
+     "label": "Speed",
+     "value": "5 inches per second"
+    },
+    {
+     "label": "Resolution",
+     "value": "203 dpi"
+    },
+    {
+     "label": "Interfaces",
+     "value": "USB, serial and parallel"
+    },
+    {
+     "label": "Media",
+     "value": "Fixed media width noted on listing"
+    }
+   ],
+   "description": "The ZP450 is the older, simpler Zebra, with USB, serial and parallel ports and a rated 5 inches per second at 203 dpi. It is a barcode printer for low-volume stations, and the listing notes that the media width is fixed, so confirm that your labels match before buying.\n\nThe value of the serial and parallel ports is compatibility with point-of-sale and inventory systems that predate USB. If your software expects a legacy port, this is the cheaper way to get Zebra behavior. If you want Ethernet, look at the GX420d instead.\n\nClean the platen and head, check the media sensor after changing stock and keep a printed test sheet of your barcode. Legacy ports are a mild annoyance on a new laptop, since modern machines rarely have them, so most buyers will run the ZP450 over its USB port and treat the old ports as a bonus. If your inventory software is old, a USB-to-serial adapter can also bridge the gap with no change to the printer.",
+   "bestFor": "Low-volume stations whose software expects a Zebra and a legacy port.",
+   "pros": [
+    "5 ips at 203 dpi",
+    "USB, serial and parallel ports",
+    "Direct thermal with no ribbon",
+    "Zebra-family driver support"
+   ],
+   "cons": [
+    "Fixed media width limits label choice",
+    "No Ethernet or wireless"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQ4482BL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41OjukK-B9L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07XXB2MXN",
+   "badge": "Best Portable Barcode Maker",
+   "name": "Phomemo M110 Bluetooth thermal printer with display",
+   "specs": [
+    "Up to 2 in labels",
+    "Bluetooth 4.0",
+    "Display",
+    "Print Master app"
+   ],
+   "specList": [
+    {
+     "label": "Print method",
+     "value": "Direct thermal, no ink"
+    },
+    {
+     "label": "Width",
+     "value": "Up to 2 inch labels"
+    },
+    {
+     "label": "Bluetooth",
+     "value": "Version 4.0 with about 33 feet of range"
+    },
+    {
+     "label": "Display",
+     "value": "Screen on the printer"
+    },
+    {
+     "label": "App",
+     "value": "Print Master with templates"
+    }
+   ],
+   "description": "Phomemo's M110 is the portable answer to occasional barcode printing. It is a 2-inch thermal printer with a display, Bluetooth 4.0 with a stated range of about 33 feet, and the Print Master app with multiple label templates. The listing describes one-click connection and printing.\n\nFor a stall or a stock room, it prints a barcode or a QR code from a phone in seconds. It is not an industrial printer, so it will not match a Zebra's repeatability over thousands of labels, and direct thermal prints fade. Next to the CLABEL, it is lighter and cheaper.\n\nCharge before use, keep spare rolls in a drawer and scan a test label before printing a whole sheet. At a market stall, bright sunlight can make a phone screen hard to read, so build the label in the shade before you start. A printed label that scans on your own phone in poor light is the best test, since many customers will scan the same way.",
+   "bestFor": "Stall holders and stock rooms that print barcodes from a phone.",
+   "pros": [
+    "Prints from a phone with Bluetooth 4.0",
+    "Built-in display",
+    "Many templates in the app",
+    "Pocket-sized"
+   ],
+   "cons": [
+    "Not built for heavy volume",
+    "Direct thermal prints fade"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B07XXB2MXN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51q9IAWxDjL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Resolution against bar width",
+   "explanation": "At 203 dpi, one printed dot is about five thousandths of an inch, and a barcode needs bars at least two or three dots wide to scan reliably. The Zebra GX420d, ZP450 and most desktop machines in this list work at that grid. Dense codes with narrow bars call for a finer grid, and oversized codes work on any machine. Print your actual code and scan it at the distance it will be read. Warehouse scanners at arm's length forgive more than a till scanner at a counter, and a phone camera forgives less than either. If several devices read the same label, test the least forgiving one first."
+  },
+  {
+   "criterion": "Quiet zones and label size",
+   "explanation": "A barcode needs blank space on both sides, called the quiet zone, so the scanner knows where it starts. A label that is too narrow forces the designer to shrink the code or crop the margin, and scans start failing. The CLABEL CT320D accepts 2 to 3 inch labels and the Phomemo M110 tops out at 2 inches, so check the label size against the code length. A long product code on a one-inch label forces the bars to shrink, which is the most common reason a retail code scans slowly. When in doubt, shorten the data or move to a wider label."
+  },
+  {
+   "criterion": "Media position accuracy",
+   "explanation": "On a die-cut label, the printer must find the gap and place the code in the same spot every time. Die-cut DK rolls on the Brother QL-800 and a calibrated Zebra do this well. A drifting position slices bars off the label edge. If your printer is misaligning, recalibrate before blaming the software."
+  },
+  {
+   "criterion": "Consumable lock-in",
+   "explanation": "The DYMO LabelWriter 550 accepts only authentic DYMO labels and the Brother QL-800 prefers genuine DK rolls. The CLABEL CT320D is not locked, and the Zebras take standard direct thermal rolls. If you print thousands of barcodes a month, an open supply is a lower-cost route over the years."
+  },
+  {
+   "criterion": "Interfaces and integration",
+   "explanation": "Inventory programs talk to printers through drivers. The Zebra GX420d offers USB, serial and Ethernet, and the ZP450 offers USB, serial and parallel. Phone-based printers rely on an app. If your software lists a supported printer, buy that one rather than hoping a generic driver will do."
+  },
+  {
+   "criterion": "Label longevity",
+   "explanation": "Every printer here is direct thermal, so prints fade with heat and light. For a warehouse bin label that lives for years, thermal transfer is the right choice, and none of these printers offers it. For shelf tags and parcel codes it is fine. Match the label life to the method. A bin tag in a warm warehouse can go dark in months, so if you see labels yellowing or darkening, that is the sign to move to a thermal transfer printer for those tags and keep direct thermal for the short-lived ones."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "203 dpi",
+   "meaning": "Two hundred and three dots per inch, the usual resolution for shipping and barcode labels. Each dot is about 5 mils wide.",
+   "watchFor": "The Zebra ZP450 lists it, and most desktops in this class match."
+  },
+  {
+   "spec": "Quiet zone",
+   "meaning": "Blank margin on each side of a barcode so a scanner can find its edges.",
+   "watchFor": "Narrow labels leave little room, so check width against code length."
+  },
+  {
+   "spec": "Die-cut label",
+   "meaning": "A label cut to a fixed size on a liner, with a gap the printer senses.",
+   "watchFor": "Brother DK pre-sized rolls are die-cut."
+  },
+  {
+   "spec": "Serial and parallel",
+   "meaning": "Older computer ports still found on point-of-sale and inventory machines.",
+   "watchFor": "The Zebra ZP450 and GX420d list them."
+  },
+  {
+   "spec": "Locked consumables",
+   "meaning": "A printer that refuses stock not made or approved by its maker.",
+   "watchFor": "The DYMO LabelWriter 550 is locked, and the CLABEL CT320D states it is not."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Print grid and repeatability",
+   "description": "We looked at stated resolution and the pedigree of each head. The Zebra GX420d and ZP450 lead on repeatability. The consumer printers scored lower for heavy daily use."
+  },
+  {
+   "title": "Label size and layout",
+   "description": "Maximum label widths were compared: 2 to 3 inches for the CLABEL CT320D, 2 inches for the Phomemo M110 and wider for the Zebra. Width decides how long a code can be printed at a scannable size."
+  },
+  {
+   "title": "Integration",
+   "description": "Interfaces and driver reach were compared. The Zebra models list USB, Ethernet or legacy ports, and the others use USB or Bluetooth with apps. Established driver support scored higher."
+  },
+  {
+   "title": "Consumable cost",
+   "description": "We compared locked and open supply. The CLABEL CT320D scored well for open stock, and the DYMO scored lower for lock-in. Running cost over a year mattered more than purchase price."
+  },
+  {
+   "title": "Ownership",
+   "description": "Cleaning, calibration and app dependence were weighed. Industrial desktops scored well for longevity, and phone-driven printers scored lower for dependence on updates."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Barcode Job",
+   "table": {
+    "headers": [
+     "Job",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "All-day scanning in a shop",
+      "Zebra GX420d",
+      "Industrial repeatability and Ethernet."
+     ],
+     [
+      "Product stickers on open-stock rolls",
+      "CLABEL CT320D",
+      "Not stock locked."
+     ],
+     [
+      "Inventory barcodes from a template",
+      "DYMO LabelWriter 550",
+      "Automatic label recognition."
+     ],
+     [
+      "Barcodes from a phone at a stall",
+      "Phomemo M110",
+      "Bluetooth and a display."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower tier",
+      "Phomemo M110",
+      "Portable and simple."
+     ],
+     [
+      "Middle tier",
+      "CLABEL CT320D",
+      "Desktop with open stock."
+     ],
+     [
+      "Higher tier",
+      "Zebra GX420d",
+      "Industrial platform."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Open vs Locked Stock",
+   "cards": [
+    {
+     "label": "Open stock",
+     "text": "The CLABEL CT320D and the Zebras accept standard rolls. Costs fall over time. You must test brands."
+    },
+    {
+     "label": "Locked stock",
+     "text": "The DYMO LabelWriter 550 and Brother QL-800 favor their own rolls. Quality is consistent. Costs are higher."
+    }
+   ],
+   "note": "Choose open for volume and locked for consistency."
+  },
+  {
+   "subheading": "Wired vs Bluetooth",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Network sharing",
+      "Zebra GX420d",
+      "Ethernet."
+     ],
+     [
+      "Legacy point of sale",
+      "Zebra ZP450",
+      "Serial and parallel."
+     ],
+     [
+      "Phone printing",
+      "CLABEL CT320D",
+      "Bluetooth with an app."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Retail Shelf Labels Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Die-cut or gap-sensed labels at a size that leaves quiet zones, plus a stock you can buy cheaply."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The CLABEL CT320D is not stock locked and takes 2 to 3 inch labels, and the Brother QL-800 uses die-cut DK rolls."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your scanners read labels all day or your software expects a Zebra. The GX420d fits both."
+    },
+    {
+     "label": "Save if",
+     "text": "You print a few barcodes a week from a phone. The Phomemo M110 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Run a test barcode after stock changes",
+   "interval": "Each new roll type",
+   "why": "Different stock changes darkness and position. Scan the printed code before a batch."
+  },
+  {
+   "task": "Clean the head",
+   "interval": "Every roll or two",
+   "why": "Dirt causes white streaks across bars. Alcohol clears them."
+  },
+  {
+   "task": "Recalibrate the gap sensor",
+   "interval": "After a label change",
+   "why": "A stale gap setting shifts the code on the label."
+  },
+  {
+   "task": "Check darkness setting",
+   "interval": "Monthly",
+   "why": "Heads age, and a fading density makes bars hard to scan."
+  },
+  {
+   "task": "Update the driver",
+   "interval": "Yearly",
+   "why": "Inventory software updates can break old drivers."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What resolution do I need for barcodes?",
+   "a": "A 203 dpi printer handles most 1D codes at normal sizes. Very small or dense codes benefit from a finer grid. Always print and scan a test."
+  },
+  {
+   "q": "Why does my barcode fail to scan?",
+   "a": "Pale bars, a missing quiet zone or a curled label are the usual causes. Clean the head, raise the darkness a notch and keep the label flat."
+  },
+  {
+   "q": "Do I need thermal transfer for barcodes?",
+   "a": "Only if the label must last years or face chemicals. For shelf tags and parcels, direct thermal is fine. None of these printers does thermal transfer."
+  },
+  {
+   "q": "Which printer works with inventory software?",
+   "a": "A Zebra-family printer has the widest driver support. Check your software's supported list before buying."
+  },
+  {
+   "q": "Can I print barcodes from a phone?",
+   "a": "Yes with the CLABEL CT320D or Phomemo M110. Check the app supports the code type you need."
+  },
+  {
+   "q": "Is an open-stock printer reliable?",
+   "a": "Yes if you test your rolls. Quality varies by brand, so buy a small pack first and keep notes."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41g2lBYNx7L._SL500_.jpg"
+}

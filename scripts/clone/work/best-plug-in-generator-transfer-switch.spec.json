@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-plug-in-generator-transfer-switch",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "plug in generator transfer switch",
+ "guideTitle": "Best Plug-In Generator Transfer Switches (2026)",
+ "metaTitle": "Best Plug-In Generator Transfer Switches",
+ "metaDescription": "Six plug-in style generator transfer switches compared, from 15 and 20 amp inlet boxes with breakers to an inline automatic relay and a 30 amp steel box.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "12 min",
+ "expertTake": "The Xxamz 20 amp plug-in switch is the pick for owners who want an ON-OFF-ON manual changeover that also works with power stations and solar storage. The OPL5 20 amp box is the value pick for a plain breaker-and-inlet design. Anyone expecting a plug-in switch to run central air or a whole house should skip the category, because every product here serves one circuit.",
+ "introParagraphs": [
+  "A plug-in transfer switch is a small box that wires into one household circuit and offers an inlet where a generator cord connects. It is the least invasive way to keep a furnace, a freezer or a sump pump alive, because the main panel is never opened.",
+  "The convenience has limits. Each box handles a single circuit at household voltage, so capacity is measured in hundreds of watts per appliance, not thousands for a house. The entries below separate the true plug-in inlet boxes from an inline relay and a larger single-circuit box."
+ ],
+ "products": [
+  {
+   "id": "B0HKJCTDH7",
+   "rank": 1,
+   "badge": "Best Overall Plug-In Switch",
+   "name": "Xxamz 20A 125V Pre-Wired Plug-In Manual Transfer Switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0HKJCTDH7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jexHDO1TL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "20A 125V",
+    "ON-OFF-ON",
+    "Pre-wired",
+    "Plug-in"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "20 amp, 125 volt"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual ON-OFF-ON selection"
+    },
+    {
+     "label": "Construction",
+     "value": "Pre-wired, plug-in"
+    },
+    {
+     "label": "Sources",
+     "value": "Portable generators, power stations, solar"
+    },
+    {
+     "label": "Capacity",
+     "value": "About 2,400W at the limit"
+    }
+   ],
+   "description": "The ON-OFF-ON layout is the key idea here: a three-position handle with utility on one side, generator on the other and off in the middle, so the two sources cannot be connected together. The listing says it is pre-wired and plug-in, and that it works with portable generators, power stations and solar systems.\n\nThat range of sources is what sets it apart from a simple generator inlet. An owner with a battery power station can feed a furnace blower through the same box, with no wiring changes. At twenty amps and 125 volts the ceiling is about 2,400 watts, which suits a freezer, a gas furnace blower, a sump pump or a router and lights, but not several heavy loads at once.\n\nCompared with the Afurkuot, it relies on its handle rather than a breaker as the changeover, so ask the installer how the circuit is protected upstream. Label the handle positions and keep the cord short and heavy. When a power station feeds the box, remember that the station's inverter has its own limit, often lower than the box's, so check the station's continuous watts before assuming twenty amps are available. In daily ownership the handle is the only moving part, so a yearly cycle with the sources off keeps it free.",
+   "bestFor": "One circuit fed from a generator, power station or solar storage.",
+   "pros": [
+    "ON-OFF-ON handle separates the sources",
+    "Works with generators, power stations and solar",
+    "Pre-wired plug-in construction",
+    "Twenty amp capacity"
+   ],
+   "cons": [
+    "One circuit only",
+    "About 2,400W ceiling",
+    "Breaker arrangement not described in the listing"
+   ]
+  },
+  {
+   "id": "B0G1SS8RKH",
+   "rank": 2,
+   "badge": "Best Breaker and Reset Box",
+   "name": "Afurkuot 20A Transfer Switch with 5-20P Inlet Box and Breaker",
+   "amazonUrl": "https://www.amazon.com/dp/B0G1SS8RKH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wCrV71+QL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "20A 125V",
+    "5-20P inlet",
+    "Breaker",
+    "Reset button"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "20 amp, 125 volt"
+    },
+    {
+     "label": "Inlet",
+     "value": "NEMA 5-20P"
+    },
+    {
+     "label": "Protection",
+     "value": "Circuit breaker with reset button"
+    },
+    {
+     "label": "Install",
+     "value": "Prewired with pre-punched knockouts"
+    },
+    {
+     "label": "Use",
+     "value": "Single circuit backup"
+    }
+   ],
+   "description": "A built-in breaker and a reset button turn a plain inlet into a protected one. If the circuit overloads, the breaker trips in the box instead of heating the cord, and the button restores power without a trip to a panel. The knockouts are already punched, so conduit goes in without drilling.\n\nAgainst the Xxamz, this is the more conventional design, and the breaker is the visible protection. The 5-20P inlet matches household-style generator outlets, so a standard 20 amp cord connects directly.\n\nIt is a single-circuit box, so choose the circuit carefully, and label it. A furnace or a freezer is a good fit. Choose a spot for the box that is easy to reach in the dark, near the appliance it protects, and fit a small flashlight beside it. After the first test, write the date on the lid with a marker so the next maintenance interval is obvious. The reset button is a convenience, but a breaker that trips repeatedly is telling you the circuit is overloaded, so find the cause before pressing it again.",
+   "bestFor": "A furnace or freezer circuit with a breaker and reset in the same box.",
+   "pros": [
+    "Breaker protects the branch circuit",
+    "Reset button restores power",
+    "Pre-punched knockouts",
+    "Matches 5-20 generator outlets"
+   ],
+   "cons": [
+    "One 120V circuit only",
+    "About 2,400W maximum",
+    "Needs competent wiring"
+   ]
+  },
+  {
+   "id": "B0DSMV3TS4",
+   "rank": 3,
+   "badge": "Best Prewired Breaker Box",
+   "name": "OPL5 20A 125V Prewired Transfer Switch with 5-20P Inlet",
+   "amazonUrl": "https://www.amazon.com/dp/B0DSMV3TS4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31GhOSDGpiL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "20A 125V",
+    "5-20P inlet",
+    "2,500W max",
+    "Breaker"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "20 amp, 125 volt"
+    },
+    {
+     "label": "Stated maximum",
+     "value": "2,500 watts"
+    },
+    {
+     "label": "Inlet",
+     "value": "NEMA 5-20P"
+    },
+    {
+     "label": "Protection",
+     "value": "Circuit breaker"
+    },
+    {
+     "label": "Wiring",
+     "value": "Prewired"
+    }
+   ],
+   "description": "OPL5 states a 2,500 watt maximum and includes a breaker so overload cannot burn the load. The inlet is a 5-20P, and the box arrives prewired.\n\nThe stated maximum is helpful because it tells you what to plan around. Against the Afurkuot, the two are nearly identical in rating and layout, so choose on documentation, knockout position and which listing you trust.\n\nKeep a weatherproof cover on the inlet when it is not in use, and keep the cord rated for the full twenty amps. A thin extension cord will heat before the breaker reacts. Because the stated ceiling is easy to remember, use it as your planning figure: add up the running watts of everything on the circuit and stay at or below about eighty percent of it. A furnace blower and a few lights will fit, and a space heater will not.",
+   "bestFor": "Owners comparing 20 amp inlet boxes who want a stated wattage ceiling.",
+   "pros": [
+    "Stated 2,500W maximum",
+    "Breaker included",
+    "Prewired for a quick install",
+    "5-20P inlet fits household-style outlets"
+   ],
+   "cons": [
+    "No reset button mentioned",
+    "One circuit only",
+    "Little detail on enclosure rating"
+   ]
+  },
+  {
+   "id": "B0FX4G8Q9Z",
+   "rank": 4,
+   "badge": "Best Inline Automatic Relay",
+   "name": "YAURILO 15A 120V Automatic Transfer Switch (5-15P/R)",
+   "amazonUrl": "https://www.amazon.com/dp/B0FX4G8Q9Z?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41u+18gTFhL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "15A 120V",
+    "5-15P/R",
+    "Automatic",
+    "Inline"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "15 amp, 120 volt"
+    },
+    {
+     "label": "Connectors",
+     "value": "NEMA 5-15P plug and 5-15R receptacle"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic between two AC inputs"
+    },
+    {
+     "label": "Sources",
+     "value": "Utility or shore, inverter or generator"
+    },
+    {
+     "label": "Shell",
+     "value": "Plastic, indoor or outdoor"
+    }
+   ],
+   "description": "This is the truest plug-in product in the guide: a relay with a plug on one side and a receptacle on the other, which sits between a wall outlet, a generator and an appliance with no wiring at all. It switches automatically between two AC inputs.\n\nFifteen amps at 120 volts is about 1,800 watts, so it suits a single appliance such as a refrigerator, a modem and router or a small heater. Against the box designs above, nothing is wired into the house, so it works for renters.\n\nBecause it is automatic, it will switch when power returns without being touched, which is convenient and means you should not leave it in a place that gets wet. Because the plug is inline, the cable ratings on both sides matter, and a thin extension cord will limit it. Treat the relay as a consumable: after a few seasons the contacts wear, and one that clicks late or chatters should be replaced.",
+   "bestFor": "Renters and single appliances that need a cord-only changeover.",
+   "pros": [
+    "No wiring at all",
+    "Automatic switching",
+    "Plug and receptacle connectors",
+    "Plastic shell for indoor or outdoor use"
+   ],
+   "cons": [
+    "Only about 1,800W",
+    "No breaker in the box",
+    "Single appliance only"
+   ]
+  },
+  {
+   "id": "B0GKTRTTR8",
+   "rank": 5,
+   "badge": "Best Flexible 15-20A Box",
+   "name": "Generic 15-20A 120V Prewired Corrosion-Resistant Transfer Box",
+   "amazonUrl": "https://www.amazon.com/dp/B0GKTRTTR8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41cM2xyam7L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "15-20A 120V",
+    "Prewired copper",
+    "Metal housing",
+    "RV friendly"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "15 to 20 amp, 120 volt"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pre-wired copper"
+    },
+    {
+     "label": "Housing",
+     "value": "Corrosion-resistant metal"
+    },
+    {
+     "label": "Use",
+     "value": "Indoor, outdoor, RV camping"
+    },
+    {
+     "label": "Sources",
+     "value": "Generators and solar systems"
+    }
+   ],
+   "description": "An unbranded box with a pre-wired design and a corrosion-resistant metal housing, it claims suitability for any generator and compatibility with solar systems. The listing says it fits offset nipples for easy fishing of wire.\n\nThe 15-20 amp rating is the catch, because it does not say which applies. Confirm the breaker and the wire in the box before relying on it. Against the Afurkuot, it has less documentation and no reset button.\n\nIt makes most sense for an RV, a workshop or a temporary setup, where flexibility matters more than polish. Buy it with eyes open: the listing is generous with claims and light on numbers, so read the label, check the breaker rating and torque the terminals yourself. A spare cover and a few extra gaskets cost little and keep the box serviceable for years.",
+   "bestFor": "RVs, workshops and temporary setups where a flexible box is enough.",
+   "pros": [
+    "Pre-wired copper cuts install time",
+    "Corrosion-resistant metal housing",
+    "Works with generators and solar",
+    "Suits indoor, outdoor and RV use"
+   ],
+   "cons": [
+    "Unbranded with sparse documentation",
+    "Rating is a 15 to 20A range",
+    "No reset or indicator"
+   ]
+  },
+  {
+   "id": "B0H444TNC4",
+   "rank": 6,
+   "badge": "Best Higher-Capacity Single Circuit",
+   "name": "Joinfworld 30A 125V L5-30P Manual Transfer Switch",
+   "amazonUrl": "https://www.amazon.com/dp/B0H444TNC4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41tBfn8LYxL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "30A 125V",
+    "L5-30P inlet",
+    "Breaker",
+    "Steel box"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 125 volt"
+    },
+    {
+     "label": "Inlet",
+     "value": "L5-30P"
+    },
+    {
+     "label": "Protection",
+     "value": "Internal circuit breaker"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Powder-coated steel, gasketed covers"
+    },
+    {
+     "label": "Terminals",
+     "value": "Labeled L, N and GND"
+    }
+   ],
+   "description": "The biggest plug-in style box here uses an L5-30 inlet, an internal breaker and engraved terminals in a powder-coated steel enclosure. Thirty amps at 125 volts is about 3,750 watts on one circuit.\n\nThat is enough for a window air conditioner, a chest freezer with a start margin or a larger sump pump. Against the twenty amp boxes, it needs a generator with an L5-30 outlet, which is less common than a household outlet.\n\nIt is still a single-circuit device, so decide which appliance matters most and dedicate the box to it. The steel box and gasketed covers make it a better fit for a garage than the plastic relays, and the engraved terminals reduce wiring errors on the day. Ownership is light: keep the covers closed, look at the terminals each year and avoid leaving the cord plugged in between storms.",
+   "bestFor": "One heavy 120V appliance on a generator with an L5-30 outlet.",
+   "pros": [
+    "Thirty amp capacity on one circuit",
+    "Internal breaker",
+    "Engraved L, N and GND terminals",
+    "Gasketed steel enclosure"
+   ],
+   "cons": [
+    "Needs an L5-30 generator outlet",
+    "One circuit only",
+    "Manual operation"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "What plug-in really means",
+   "explanation": "Some products are boxes wired into a branch circuit with an inlet for a cord, like the Afurkuot and OPL5. Others are cord-only relays like the YAURILO, with no wiring at all. The first group needs an electrician or a competent owner and a permit in most places. The second needs only a wall outlet. Decide which approach your situation allows. A renter who cannot open walls has one answer, an owner with a handy electrician has another, and an owner who wants no paperwork may find the relay a sensible compromise. Whichever you pick, the generator and the cord are part of the system, so check them too."
+  },
+  {
+   "criterion": "One circuit, one appliance",
+   "explanation": "Every product here serves one circuit. Twenty amps at 125 volts is about 2,400 watts, fifteen is about 1,800 and thirty is about 3,750. Pick the single circuit that matters most, such as a furnace blower, a freezer or a sump pump, and size the box to it, leaving a margin for motor starting. A refrigerator compressor may draw three or four times its running current for a second, so a fifteen amp relay can trip on a start that a twenty amp box would ride through. Look at the appliance label for running amps and add a cushion."
+  },
+  {
+   "criterion": "Breaker and reset",
+   "explanation": "The Afurkuot and OPL5 include breakers, and the Afurkuot adds a reset button. A breaker means an overload trips in the box, not in the cord. The Xxamz relies on its handle, and the YAURILO has no breaker. Ask where overcurrent protection lives, and do not run a box with none on a circuit you cannot fuse upstream. A breaker that is larger than the wire protects nothing, so confirm that the breaker in the box, the wire to the appliance and the cord all share the same rating. If any one of them is smaller, it sets the limit."
+  },
+  {
+   "criterion": "Inlet type and cord",
+   "explanation": "A 5-20P inlet suits household-style generator outlets, and an L5-30P suits a thirty amp 120 volt locking outlet. A mismatch needs an adapter, which is where overloads begin. Check your generator's outlet, buy a cord of the right gauge and keep it short. Twelve gauge is a sensible minimum for twenty amps over modest lengths, and longer runs need heavier wire. Store the cord coiled loosely and dry, and replace it if the jacket cracks."
+  },
+  {
+   "criterion": "Automatic or manual",
+   "explanation": "The YAURILO switches by itself, and the others need a hand. Automatic suits a refrigerator that must not be forgotten. Manual suits a household that wants control. If you choose automatic, remember that it will also switch back when power returns, without warning."
+  },
+  {
+   "criterion": "Install, permit and renters",
+   "explanation": "Boxes wired into a circuit are regulated electrical work in most places. A cord-only relay is not, but it is limited to one appliance. Renters should look at the relay, and owners can choose a box. Ask your local authority first, and never use a homemade cord with two male plugs. Such a cord puts live voltage on bare prongs and can energise the utility line, which is how line workers are hurt. A proper transfer device exists precisely to avoid that, and it is worth the extra effort."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "ON-OFF-ON",
+   "meaning": "A three-position handle with off between two sources, so both cannot be connected together.",
+   "watchFor": "Named for the Xxamz."
+  },
+  {
+   "spec": "5-20P inlet",
+   "meaning": "A 20 amp plug receptacle that accepts a standard household-style generator cord.",
+   "watchFor": "Used by the Afurkuot and OPL5."
+  },
+  {
+   "spec": "5-15P/R",
+   "meaning": "A standard 15 amp plug and receptacle pair for cord-only use.",
+   "watchFor": "Used by the YAURILO relay."
+  },
+  {
+   "spec": "L5-30P",
+   "meaning": "A 30 amp locking 125 volt inlet.",
+   "watchFor": "Used by the Joinfworld."
+  },
+  {
+   "spec": "Knockouts",
+   "meaning": "Pre-punched openings in the box for conduit fittings.",
+   "watchFor": "Listed for the Afurkuot."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Plug-in meaning",
+   "description": "We kept single-circuit boxes and relays that connect with a cord, and left panels and levers to their own guides. Multi-circuit kits answer a different question from the one a plug-in buyer is asking, so keeping them out makes the comparison cleaner and the advice more honest about what a small box can do."
+  },
+  {
+   "title": "Protection",
+   "description": "We noted which listings state a breaker or reset, since overload protection is the safeguard at this scale."
+  },
+  {
+   "title": "Source flexibility",
+   "description": "The Xxamz and generic box mention power stations or solar. We weighed that for owners who may add storage later."
+  },
+  {
+   "title": "Capacity honesty",
+   "description": "We converted ratings to approximate watts so readers can compare a freezer against a furnace blower."
+  },
+  {
+   "title": "Claim caution",
+   "description": "We repeat listing statements about UL parts and enclosures as claims and urge readers to check labels."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Appliance",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Furnace blower or freezer",
+      "Afurkuot 20A Inlet Box with Breaker",
+      "Reset button and breaker"
+     ],
+     [
+      "Refrigerator for a renter",
+      "YAURILO 15A Automatic Relay",
+      "No wiring at all"
+     ],
+     [
+      "Window air conditioner",
+      "Joinfworld 30A L5-30P Switch",
+      "About 3,750W on one circuit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "YAURILO 15A Automatic Relay",
+      "Cord-only"
+     ],
+     [
+      "Low-mid tier",
+      "OPL5 20A Inlet Box",
+      "Breaker and inlet"
+     ],
+     [
+      "Mid tier",
+      "Joinfworld 30A L5-30P Switch",
+      "Steel box, larger capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Wired Box vs Cord-Only Relay",
+   "cards": [
+    {
+     "label": "Wired box",
+     "text": "The Afurkuot, OPL5 and Joinfworld connect to a circuit with conduit and need a competent installer."
+    },
+    {
+     "label": "Cord-only relay",
+     "text": "The YAURILO plugs between an outlet and an appliance. No wiring, but only fifteen amps and no breaker."
+    }
+   ],
+   "note": "Renters choose the relay; owners can choose a box for more capacity."
+  },
+  {
+   "subheading": "By Power Source",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Portable generator",
+      "Afurkuot 20A Inlet Box",
+      "5-20P inlet"
+     ],
+     [
+      "Power station or solar storage",
+      "Xxamz 20A Plug-In Switch",
+      "Sources named in the listing"
+     ],
+     [
+      "Inverter in an RV",
+      "YAURILO 15A Automatic Relay",
+      "Utility, shore or inverter inputs"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Furnaces and Freezers Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A box that matches the circuit's breaker size, an inlet that fits your cord and a plan to keep the freezer door shut during the outage."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Afurkuot and OPL5 suit a twenty amp furnace or freezer circuit, and the Xxamz suits one fed from a power station."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want breaker, reset and a documented layout, as with the Afurkuot, or a higher-capacity box like the Joinfworld."
+    },
+    {
+     "label": "Save if",
+     "text": "One small load is all that matters. The YAURILO relay or the OPL5 box covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test the changeover",
+   "interval": "Every 6 months",
+   "why": "Switch the circuit to the generator briefly and confirm the appliance runs. A stuck handle shows up on a calm day."
+  },
+  {
+   "task": "Inspect the inlet",
+   "interval": "Before storm season",
+   "why": "Corroded pins heat under load. Clean them with a dry brush and replace a cracked cover, since a damaged inlet is the weakest link in a small box."
+  },
+  {
+   "task": "Check the cord",
+   "interval": "Each use",
+   "why": "Look for cuts and bent prongs. A damaged cord defeats the box."
+  },
+  {
+   "task": "Re-check terminals",
+   "interval": "Yearly",
+   "why": "Heat cycles loosen screws. Tighten them with the power off."
+  },
+  {
+   "task": "Label the circuit",
+   "interval": "Once, then yearly",
+   "why": "A tag on the box and on the panel avoids confusion during an outage. Add the date of the last test and the breaker size so anyone can see the history at a glance."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a plug-in transfer switch run my house?",
+   "a": "No. Every product here serves one circuit. For several circuits you need a panel kit, and for a whole house a service switch."
+  },
+  {
+   "q": "Is a plug-in relay safe for a refrigerator?",
+   "a": "A 15 amp relay suits a typical refrigerator, but check the compressor's start surge and the generator's rating. Do not share the circuit with other loads. Keep the refrigerator door closed during the outage, since a full, closed unit stays cold for hours while a repeatedly opened one does not."
+  },
+  {
+   "q": "Do I need an electrician?",
+   "a": "For wired boxes, usually yes, and a permit in most places. The cord-only relay needs none."
+  },
+  {
+   "q": "Which is better, a breaker box or an ON-OFF-ON switch?",
+   "a": "A breaker box gives visible overload protection and a reset. An ON-OFF-ON handle gives a clear off position between sources. The best designs offer both."
+  },
+  {
+   "q": "Can I use an extension cord?",
+   "a": "Only a heavy one of the right gauge, kept short. Thin cords heat before the breaker reacts."
+  },
+  {
+   "q": "Does a listing claim prove approval?",
+   "a": "No. Read the label on the box and ask your inspector."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41jexHDO1TL._SL500_.jpg"
+}

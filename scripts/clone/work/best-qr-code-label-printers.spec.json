@@ -1,0 +1,586 @@
+{
+ "guideSlug": "best-qr-code-label-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "qr code label printers",
+ "guideTitle": "Best QR Code Label Printers (2026)",
+ "metaTitle": "Best QR Code Label Printers in 2026",
+ "metaDescription": "Six Bluetooth label printers compared on how reliably they print scannable QR codes for storage bins, tools and shipping, with resolution and media tips.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "13 min",
+ "expertTake": "The MakeID EP53 is the best QR code label printer here because its 300 dpi thermal transfer print keeps small codes crisp and fade-resistant. The Phomemo M110 is the value pick for a household that only needs scannable storage bin labels. Anyone who prints a handful of codes a year should skip a dedicated printer and use a sheet label printer already at home.",
+ "introParagraphs": [
+  "A QR code is only useful if a phone can read it from where you stand, and that depends less on the app than on the printer. The head resolution, the label material and the size of each tiny square decide whether a code scans first time or only on the third attempt under a good lamp.",
+  "Most buyers want one of three things: labels for storage bins and shelves, inventory or tool tags for a shop, or a shipping label with a code on it. This guide ranks portable Bluetooth printers on how well they handle that job, explains the print mechanics that matter, and warns about the app and media traps that undermine an otherwise scannable label."
+ ],
+ "products": [
+  {
+   "id": "B0FH41GKX8",
+   "badge": "Best Overall",
+   "name": "MakeID EP53 2 Inch 300 dpi Thermal Transfer Label Printer",
+   "specs": [
+    "300 dpi",
+    "Thermal transfer",
+    "2600mAh battery",
+    "0.4 to 2 inch"
+   ],
+   "specList": [
+    {
+     "label": "Resolution",
+     "value": "300 dpi"
+    },
+    {
+     "label": "Print method",
+     "value": "Thermal transfer"
+    },
+    {
+     "label": "Label width",
+     "value": "0.4 to 2 inches"
+    },
+    {
+     "label": "Battery",
+     "value": "2600mAh rechargeable"
+    },
+    {
+     "label": "Media types",
+     "value": "PET, nylon, self-laminating, flag labels"
+    }
+   ],
+   "description": "The EP53 is the only printer in this guide that pairs a 300 dpi head with thermal transfer printing. The higher resolution lets a small QR code keep clean square edges, and thermal transfer produces a fade-resistant, water-resistant mark on PET, nylon, self-laminating and flag labels. That combination is why it suits cable ends, tool tags and automotive labels as well as shelf codes.\n\nThe cost is complexity and price tier, since it sits near the top of the six. Compared with the Phomemo M110, you pay more for each cartridge and the machine, in exchange for labels that last years rather than months. Compared with the SUPVAN T50M Pro, the EP53 prints at a higher resolution and uses a ribbon-based process, but it needs a PC or the MakeID app to design codes, so a phone-only workflow is slightly more restricted.\n\nOwnership is steady. Cartridges carry their own ribbon, so you never swap one separately, and a 2600mAh battery keeps it portable between jobs. Store cartridges flat, wipe the head when streaks appear, and print a test QR on the smallest label size you plan to use before committing to a full run.",
+   "bestFor": "Shops and workshops that need long-lasting small QR codes on tools, cables and bins.",
+   "pros": [
+    "300 dpi keeps small QR codes sharp and scannable",
+    "Thermal transfer print resists fading and water",
+    "Supports PET, nylon, self-laminating and flag labels",
+    "2600mAh battery keeps it portable between jobs"
+   ],
+   "cons": [
+    "Higher price tier than the entry Bluetooth printers",
+    "Consumable cartridges cost more than plain thermal rolls",
+    "Best used with a PC or the maker app for code design"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FH41GKX8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SQXAb8BsL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07XXB2MXN",
+   "badge": "Best Value",
+   "name": "Phomemo M110 Portable Bluetooth Thermal Label Printer",
+   "specs": [
+    "Bluetooth 4.0",
+    "Display",
+    "Print Master app",
+    "Mini body"
+   ],
+   "specList": [
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth 4.0"
+    },
+    {
+     "label": "Range",
+     "value": "Up to 33 feet"
+    },
+    {
+     "label": "Print method",
+     "value": "Direct thermal"
+    },
+    {
+     "label": "Companion app",
+     "value": "Print Master"
+    },
+    {
+     "label": "Price tier",
+     "value": "Lower-middle of the six"
+    }
+   ],
+   "description": "The M110 is a mini direct thermal printer that pairs over Bluetooth 4.0 with the Print Master app and has a small display. It is built for sticker-style labels, including barcodes, and the app can generate a QR code from a link or text. Bluetooth range is quoted at up to 33 feet, so a phone on the other side of a garage workbench still prints.\n\nIts tradeoff is the direct thermal method. The labels darken with heat and sunlight, so a QR code on a storage bin in a hot attic can degrade over a few seasons. Compared with the MakeID EP53, the Phomemo is cheaper and easier but less durable. Compared with the Ponek M100, the Phomemo adds a display and a mature app, while the Ponek leans on a larger template library.\n\nUpkeep is minimal. Wipe the head, keep rolls away from heat, and update the app. If a code will live outdoors or in a warm space, laminate it or move to the thermal transfer EP53 instead.",
+   "bestFor": "Households labelling storage bins, shelves and drawers with scannable codes.",
+   "pros": [
+    "Bluetooth 4.0 with a quoted range of up to 33 feet",
+    "Small display helps confirm the job before printing",
+    "Print Master app can generate QR codes from text or links",
+    "Mini body fits in a drawer or a tool bag"
+   ],
+   "cons": [
+    "Direct thermal labels fade in heat and sunlight",
+    "Phone app is required for most design work"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B07XXB2MXN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51q9IAWxDjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CKYMWV5X",
+   "badge": "Best for Waterproof Labels",
+   "name": "SUPVAN T50M Pro Bluetooth Waterproof Label Maker",
+   "specs": [
+    "Bluetooth",
+    "3/4 to 2 inch",
+    "Waterproof tape",
+    "App editing"
+   ],
+   "specList": [
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Label width",
+     "value": "3/4 to 2 inches"
+    },
+    {
+     "label": "Media",
+     "value": "Waterproof label tape"
+    },
+    {
+     "label": "App",
+     "value": "Image and text editing on phone, tablet or PC"
+    },
+    {
+     "label": "Best use",
+     "value": "Home organisation and small business"
+    }
+   ],
+   "description": "The T50M Pro uses tape cartridges that print waterproof labels from 3/4 to 2 inches wide. Its app lets you add images from a phone, tablet or PC, and the maker describes improved image processing, which matters for QR codes because a clean threshold between black and white is what scanners look for. It targets home organisation such as bins, bottles and cables, plus small business labelling.\n\nThe tradeoff is that you buy the maker's tape. Compared with the Phomemo M110, the SUPVAN is more durable on wet or greasy surfaces but costs more per label. Compared with the MakeID EP53, it lacks 300 dpi thermal transfer, so very small codes need larger cells to stay scannable.\n\nUpkeep centers on tape management. Store cartridges flat, avoid pulling the tape by hand, and wipe the head occasionally. Print a code at the size you intend to use and scan it with two different phones before applying a full batch.",
+   "bestFor": "Kitchens, garages and cable runs where labels meet water or grease.",
+   "pros": [
+    "Waterproof tape suits wet and greasy surfaces",
+    "Supports 3/4 to 2 inch label widths",
+    "App editing handles images, text and QR codes",
+    "Works with phone, tablet or PC for design"
+   ],
+   "cons": [
+    "Uses the maker's tape cartridges, which raises running cost",
+    "Lower resolution than the 300 dpi MakeID EP53"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0CKYMWV5X?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WSRxbOkkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DQ735TW8",
+   "badge": "Best for Jobsites",
+   "name": "REEKON P1L Tagger Construction Label Printer and QR Maker",
+   "specs": [
+    "Bluetooth",
+    "BOLDR Pro app",
+    "Battery powered",
+    "Rugged body"
+   ],
+   "specList": [
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth to a phone"
+    },
+    {
+     "label": "App",
+     "value": "BOLDR Pro"
+    },
+    {
+     "label": "Power",
+     "value": "Battery powered"
+    },
+    {
+     "label": "Build",
+     "value": "Rugged jobsite body"
+    },
+    {
+     "label": "Price tier",
+     "value": "Upper end of the six"
+    }
+   ],
+   "description": "The P1L Tagger is a jobsite printer that connects to a phone over Bluetooth and runs the BOLDR Pro app. It is battery powered and built for rough handling, and it is aimed at construction crews who label tools, materials and equipment with codes that tie back to an inventory list. The idea is fast one-tap labels that reduce human error and wasted material.\n\nIts limit is focus. It is designed around the BOLDR workflow, so a user who wants a free-form label design tool will find it narrower than the Phomemo or SUPVAN apps. Compared with the MakeID EP53, the REEKON offers a jobsite-oriented app and a tougher body but less detail on resolution and media options. Compared with the KNAON, it targets tool tagging rather than parcels.\n\nOwnership is about battery and cleanliness. Charge it before a shift, keep the roll compartment free of dust and concrete grit, and wipe the head regularly. Confirm which labels the app and printer accept before you buy a large stock of media.",
+   "bestFor": "Construction and trade crews tagging tools and materials with scannable codes.",
+   "pros": [
+    "Rugged battery-powered body suits a jobsite",
+    "BOLDR Pro app makes tool and material tagging quick",
+    "Bluetooth link prints straight from a phone",
+    "One-tap labels reduce errors and wasted media"
+   ],
+   "cons": [
+    "Workflow is built around one app, so design freedom is limited",
+    "Upper price tier for a narrow use case",
+    "Less published detail on resolution than the MakeID EP53"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ735TW8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/416GeTn6QXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DHP8LQH7",
+   "badge": "Best Template Library",
+   "name": "Ponek M100 2 Inch Bluetooth Barcode Label Maker",
+   "specs": [
+    "Bluetooth",
+    "0.78 to 2 inch",
+    "6000+ templates",
+    "0.6 lb"
+   ],
+   "specList": [
+    {
+     "label": "Connectivity",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Label width",
+     "value": "0.78 to 2 inches"
+    },
+    {
+     "label": "Templates",
+     "value": "6000+ in the app"
+    },
+    {
+     "label": "Weight",
+     "value": "About 0.6 pounds"
+    },
+    {
+     "label": "Platforms",
+     "value": "Android, iOS and PC"
+    }
+   ],
+   "description": "The M100 is a lightweight Bluetooth printer that prints labels from 0.78 to 2 inches wide and weighs about 0.6 pounds. Its app lists more than 6000 templates, and it supports Android, iOS and PC, which makes it easy to design QR and barcode labels without hunting for a layout. It is portable enough to live in a bag.\n\nThe tradeoff is that a big template library does not improve scan quality. Compared with the MakeID EP53, the Ponek lacks 300 dpi thermal transfer, so small codes and long-life labels are weaker. Compared with the Phomemo M110, it has no display but a larger library, and the two share the same direct thermal durability limits.\n\nUpkeep is light. Wipe the head, keep rolls dry, and keep the app updated. Use a template with a clear quiet zone around the code and scan every first label before printing a run.",
+   "bestFor": "Casual users who want a big template library for QR and barcode labels.",
+   "pros": [
+    "Template library lists more than 6000 designs",
+    "Lightweight body of about 0.6 pounds",
+    "Supports Android, iOS and PC for design",
+    "Labels from 0.78 to 2 inches cover most home needs"
+   ],
+   "cons": [
+    "Direct thermal labels fade in heat and sunlight",
+    "No resolution advantage over the entry Bluetooth printers"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DHP8LQH7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41oeFB713JL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F7K15ST2",
+   "badge": "Best for Shipping Labels",
+   "name": "KNAON Y41BT 4 by 6 Bluetooth Shipping Label Printer",
+   "specs": [
+    "4 by 6 labels",
+    "Bluetooth",
+    "USB cable",
+    "Template app"
+   ],
+   "specList": [
+    {
+     "label": "Label format",
+     "value": "4 by 6 shipping labels"
+    },
+    {
+     "label": "Wireless link",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Wired link",
+     "value": "USB cable"
+    },
+    {
+     "label": "Platforms",
+     "value": "iOS, Android, macOS, Windows 7+, ChromeOS"
+    },
+    {
+     "label": "Price tier",
+     "value": "Upper-middle of the six"
+    }
+   ],
+   "description": "The Y41BT is the only 4 by 6 printer in this guide, so it suits labels that carry both a carrier barcode and a QR code for a returns or tracking page. It connects over Bluetooth for phones and USB for computers, and it supports iOS, Android, macOS, Windows 7 and later, and ChromeOS. A library of pre-designed templates helps with simple layouts.\n\nThe tradeoff is that large labels use more roll. Compared with the small printers it is bulkier, and compared with the MakeID EP53 it is a standard resolution direct thermal machine. At 4 by 6 the QR code can be large enough that a lower resolution is not a problem, which is the real strength of the format.\n\nUpkeep is simple. Use standard thermal rolls, wipe the head, and keep the USB cable as a fallback. Leave a generous quiet zone around any QR you add to a shipping label.",
+   "bestFor": "Sellers adding a QR code to a 4 by 6 shipping or returns label.",
+   "pros": [
+    "4 by 6 format has room for large, easily scanned codes",
+    "Bluetooth for phones and USB for computers",
+    "Broad platform support including macOS and ChromeOS",
+    "Standard thermal rolls avoid media lock-in"
+   ],
+   "cons": [
+    "Bulkier than the mini printers in this lineup",
+    "Direct thermal labels fade with heat and sunlight"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F7K15ST2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412GOWawq7L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Resolution versus code size",
+   "explanation": "A QR code is a grid of tiny squares, and each square must be at least a few printer dots wide. At 203 dpi a small code can still scan if the cell size is generous, but at 300 dpi, as on the MakeID EP53, the squares stay sharper at the same physical size. The mistake is shrinking a code to fit a narrow label until the squares blur together."
+  },
+  {
+   "criterion": "Label life and print method",
+   "explanation": "Direct thermal, used by the Phomemo M110, Ponek M100 and KNAON Y41BT, darkens heat-reactive paper and fades with heat and sunlight. Thermal transfer, used by the MakeID EP53, lasts far longer. Waterproof tape, as on the SUPVAN T50M Pro, protects against moisture. Pick by where the label will live, not by price alone."
+  },
+  {
+   "criterion": "Quiet zone and contrast",
+   "explanation": "Scanners need a blank border around the code and strong contrast between black and white. A glossy or curved label reflects light, and a code too close to an edge may not scan. Leave a margin of about four cells, and test with two phones. Any of the six printers can fail this test if the layout is cramped."
+  },
+  {
+   "criterion": "App quality and lock-in",
+   "explanation": "Most of these printers depend on a phone app to create the code. The REEKON P1L is built around BOLDR Pro, the Phomemo uses Print Master, and the SUPVAN and MakeID have their own apps. If an app is dropped, features go with it. Prefer a model that also offers PC software or a USB route."
+  },
+  {
+   "criterion": "Label width and format",
+   "explanation": "The Ponek and SUPVAN print 0.78 to 2 inches, the MakeID prints 0.4 to 2 inches, and the KNAON takes 4 by 6 labels. A small label limits how large the code can be, so choose a format that lets you print at least a half inch square. A tiny code on a thin strip is the usual failure."
+  },
+  {
+   "criterion": "Portability and power",
+   "explanation": "Battery powered printers such as the MakeID EP53 with its 2600mAh pack and the REEKON P1L can label on site, while the others need charging between jobs. Weight matters too, and the Ponek at about 0.6 pounds is easy to carry. Consider how often you will print away from a desk."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "300 dpi",
+   "meaning": "This is the number of dots per inch the head can place. Higher resolution preserves the edges of small squares in a QR code.",
+   "watchFor": "The MakeID EP53 is the only printer here that lists 300 dpi."
+  },
+  {
+   "spec": "Thermal transfer",
+   "meaning": "A ribbon transfers ink to the label with heat. The result resists fading, water and abrasion far better than direct thermal paper.",
+   "watchFor": "Only the MakeID EP53 uses thermal transfer in this lineup."
+  },
+  {
+   "spec": "Quiet zone",
+   "meaning": "The quiet zone is the blank margin around a QR code. Scanners need it to find the edges, and cramped layouts fail.",
+   "watchFor": "Narrow labels on the Ponek M100 or SUPVAN T50M Pro tempt you to shrink it."
+  },
+  {
+   "spec": "Bluetooth range",
+   "meaning": "Range is how far a phone can be from the printer. Walls and other devices shorten it.",
+   "watchFor": "The Phomemo M110 quotes up to 33 feet, but expect less in a cluttered workshop."
+  },
+  {
+   "spec": "Template library",
+   "meaning": "Templates speed up design but do not improve print quality. Scan quality depends on resolution, material and layout.",
+   "watchFor": "The Ponek M100 lists more than 6000 templates, which does not change its resolution."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Scan reliability",
+   "description": "We evaluated how well each printer can produce a code that scans, based on resolution, method and label size. The MakeID EP53 at 300 dpi scored highest, and the direct thermal printers scored lower for small codes."
+  },
+  {
+   "title": "Label durability",
+   "description": "We compared how long labels stay readable. Thermal transfer on the MakeID and waterproof tape on the SUPVAN scored well, while direct thermal output from the Phomemo, Ponek and KNAON scored lower."
+  },
+  {
+   "title": "App and workflow",
+   "description": "We looked at how each app creates a QR code and what happens if the app disappears. The REEKON's BOLDR Pro and Phomemo's Print Master were compared with the SUPVAN and MakeID apps and PC options."
+  },
+  {
+   "title": "Format coverage",
+   "description": "We compared label widths from 0.4 inch on the MakeID to 4 by 6 on the KNAON. A format that cannot hold a half-inch code scored poorly regardless of other strengths."
+  },
+  {
+   "title": "Portability and ownership",
+   "description": "We considered battery, weight and consumable cost from owner feedback patterns. The MakeID's 2600mAh battery and the Ponek's 0.6 pound body scored well for carrying."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Label Life",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Tools and cables for years",
+      "MakeID EP53",
+      "Thermal transfer at 300 dpi resists fading and water."
+     ],
+     [
+      "Wet or greasy surfaces",
+      "SUPVAN T50M Pro",
+      "Waterproof tape for kitchens and garages."
+     ],
+     [
+      "Indoor storage bins",
+      "Phomemo M110",
+      "Direct thermal is fine away from heat."
+     ],
+     [
+      "Jobsite tool tagging",
+      "REEKON P1L",
+      "Rugged body and the BOLDR Pro workflow."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lower",
+      "Ponek M100",
+      "Large template library and a light body."
+     ],
+     [
+      "Lower-middle",
+      "Phomemo M110",
+      "Display, app and good range for the price."
+     ],
+     [
+      "Middle",
+      "SUPVAN T50M Pro",
+      "Waterproof tape with image editing."
+     ],
+     [
+      "Upper-middle",
+      "KNAON Y41BT",
+      "4 by 6 labels for shipping and returns."
+     ],
+     [
+      "Upper",
+      "MakeID EP53",
+      "300 dpi and thermal transfer for long-lived codes."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Direct Thermal vs Thermal Transfer",
+   "cards": [
+    {
+     "label": "Direct thermal",
+     "text": "Used by the Phomemo M110, Ponek M100 and KNAON Y41BT. It needs no ribbon, so it is cheap and simple, but labels fade with heat and sunlight."
+    },
+    {
+     "label": "Thermal transfer",
+     "text": "Used by the MakeID EP53. It melts ink from a ribbon onto the label for fade-resistant output. It costs more to run but lasts years."
+    }
+   ],
+   "note": "Choose direct thermal for short-lived indoor labels and thermal transfer for anything you want to scan in three years."
+  },
+  {
+   "subheading": "Label Size",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Tiny cable and tool tags",
+      "MakeID EP53",
+      "Labels from 0.4 inch with 300 dpi."
+     ],
+     [
+      "General bins and shelves",
+      "Ponek M100",
+      "0.78 to 2 inch widths."
+     ],
+     [
+      "Mid-size waterproof labels",
+      "SUPVAN T50M Pro",
+      "3/4 to 2 inch tape."
+     ],
+     [
+      "Shipping with a QR code",
+      "KNAON Y41BT",
+      "4 by 6 labels with room for large codes."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Storage Bins Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A code at least half an inch square, a quiet zone and an app that lets you attach a description to each code. Direct thermal is acceptable indoors."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Phomemo M110 is the best value for bins, the Ponek M100 adds a big template library, and the SUPVAN T50M Pro covers garages and basements."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Codes must last years or be tiny, as on cables and tools. The MakeID EP53 delivers 300 dpi and thermal transfer, and the REEKON P1L adds a jobsite workflow."
+    },
+    {
+     "label": "Save if",
+     "text": "Labels live indoors and are replaced often. The Phomemo M110 and Ponek M100 are enough for bins and drawers."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Scan test after every new template",
+   "interval": "Every new design",
+   "why": "A code that looks fine can fail on a second phone. Test with two devices before printing a batch."
+  },
+  {
+   "task": "Clean the print head",
+   "interval": "Every few rolls",
+   "why": "Dust and adhesive blur the squares of a QR code. Wipe the head with isopropyl alcohol."
+  },
+  {
+   "task": "Charge the battery",
+   "interval": "Before a long session",
+   "why": "A low battery can print faint output. Charge fully before a big labelling job."
+  },
+  {
+   "task": "Update the app",
+   "interval": "Monthly",
+   "why": "Updates fix pairing bugs and add template changes. Check the changelog before updating mid-job."
+  },
+  {
+   "task": "Store media flat and cool",
+   "interval": "Ongoing",
+   "why": "Heat darkens direct thermal rolls and bends tape. Keep spares in a drawer away from sun."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What dpi do I need for a QR code?",
+   "a": "A 203 dpi printer can print a scannable QR code if the code is large enough. 300 dpi is better for small codes. The MakeID EP53 is the only 300 dpi printer here."
+  },
+  {
+   "q": "Which is the best value QR label printer?",
+   "a": "The Phomemo M110 is the best value for indoor labels. It has Bluetooth, a display and a good app. For long-lived codes, step up to the MakeID EP53."
+  },
+  {
+   "q": "How long do QR labels last?",
+   "a": "Direct thermal labels may fade within a year or two in heat or sunlight. Thermal transfer and waterproof tape last much longer. Choose by where the label will live."
+  },
+  {
+   "q": "Does a bigger template library improve scanning?",
+   "a": "No. A template library speeds up design, but scan quality depends on resolution, material and layout. The Ponek M100 lists more than 6000 templates without a resolution advantage."
+  },
+  {
+   "q": "Can I print a QR code on a shipping label?",
+   "a": "Yes. The KNAON Y41BT prints 4 by 6 labels with room for a large code. Leave a margin around the code and test it before shipping."
+  },
+  {
+   "q": "Why will my QR code not scan?",
+   "a": "The usual causes are a cramped quiet zone, a code that is too small or a faded label. Enlarge the code, add margin and test with another phone. If it still fails, clean the print head."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41SQXAb8BsL._SL500_.jpg"
+}
