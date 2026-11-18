@@ -1,0 +1,17 @@
+# Citrus juicers research notes
+- Electric reamer juicers spin a ribbed cone as you press the half fruit down; a motor of 20 to 160 W is typical; pressure-activated models start when you press and stop when you lift.
+- Manual reamers are a ribbed cone you twist the fruit on; cheapest, quietest, easiest to store, fine for a lemon or lime.
+- Manual lever presses squeeze a halved fruit in a cup; metal teeth crush pulp more aggressively than a dome and usually extract more; cast iron and aluminum models are heavy and durable.
+- Handheld squeezers (hinged bowls) work well for lemons and limes but are hard on small hands for grapefruit.
+- Match cone or cup size to the fruit: small cones fail on grapefruit and large navel oranges.
+- Pulp control (adjustable sieve or strainer) matters for cocktails and smooth juice; open-top strainers let more seeds and pulp through.
+- Seed handling: reamer cones leave seeds in the juice unless strained; presses hold seeds in the cup.
+- Fruit at room temperature or warmed briefly in a microwave for a few seconds yields more juice; rolling it first helps break membranes.
+- Acid corrodes uncoated aluminum over time; powder-coated or enameled aluminum resists it, cast iron with coating needs rinsing and drying.
+- Plastic reamers can crack or discolor; metal parts and BPA-free plastic last longer.
+- Dishwasher-safe removable parts speed cleanup; dried pulp is much harder to remove, so rinse promptly.
+- Electric units suit many fruits at once; keep an eye on motor duty cycles and let it rest during large batches.
+- Weight and handle length decide effort: long levers need less force from hands.
+- Fresh juice oxidizes and loses brightness; use citrus juice within a day for cocktails and keep it cold.
+- Wash exterior of electric bases with a damp cloth; never immerse the motor base.
+- Peel oil can be bitter if the cone presses too deep into the rind; light pressure gives cleaner juice.

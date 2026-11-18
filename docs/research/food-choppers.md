@@ -1,0 +1,18 @@
+# Electric food choppers research notes
+- A mini chopper is a motor base, a lidded bowl and a 2-blade (often bi-level) stainless blade; typical capacity is 1.5 to 4 cups, 3 to 4 cups most common.
+- Full food processors (8 to 14 cups) add slicing and shredding discs and a feed tube; choppers are for small side jobs.
+- Interlock: the motor will not run until bowl and lid are locked; a sticking lid is a sign of a misseated bowl.
+- Pulse in 2 to 3 second bursts; holding the button turns onions into mush and heats the motor. Avoid runs over about 60 seconds.
+- Cut food into pieces of about 2 cm or smaller before chopping; mixed sizes give uneven results.
+- Overfilling is the most common cause of jams and motor strain; fill no more than half to two thirds.
+- Do not chop ice, hard cheese chunks, peppercorns or bones; blades dull or chip.
+- Hot food splashes and builds pressure; cool soups before pureeing.
+- Never immerse the motor base; wipe it with a damp cloth. Bowl, lid and blade are usually dishwasher safe, check the manual.
+- Watts: 100 to 250 W is typical for mini choppers, 350 to 500 W for 8 cup units; USB cordless garlic choppers run roughly 30 to 60 W on a battery.
+- Glass bowls resist stains and odors from onion and garlic but are heavier and can crack if dropped; plastic is light and can stain.
+- Stainless bowls do not break and suit meat prep; they hide the contents.
+- Meat grinding: chill meat first, chop in pulses; fat smears if overworked; keep raw meat boards and bowls separate for food safety.
+- Cordless garlic mincers: small battery, 100 to 350 ml bowls, good for garlic, ginger, chilies and herbs, weak for dense carrots or meat.
+- USB chargers: check run time per charge and whether the unit can be used while charging.
+- Blades dull over time; two blade levels give a finer chop; replacements are rarely sold for unbranded units.
+- Noise is high with 200 W and up; short pulses help.

@@ -594,3 +594,22 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Repetition: one fix pass over 13 guides (Edit on spec.json + finish.mjs, no scripts). Top 4-word description opening = 5. No prose sentence in 3+ guides except one short maintenance line in 4.
 - Housekeeping: 9 round-38 vacuum sealer slugs stuck at inprogress with no work files were reset to todo; best-easy-to-use-air-fryers marked done.
 - Checks: audit ok (36/36), no 【, tsc ok, build ok (Compiled successfully + Finished TypeScript). Words 3,000 to 3,290.
+
+### Prefilter skips (2026-11-17)
+| Skipped slug | Reason |
+|---|---|
+| best-cuisinart-pressure-cookers | prefilter: only 2 distinct items match brand cuisinart after extra searches |
+| best-fagor-pressure-cookers | prefilter: only 1 distinct items match brand fagor after extra searches |
+| best-fissler-pressure-cookers | prefilter: only 2 distinct items match brand fissler after extra searches |
+| best-linkchef-electric-food-choppers | prefilter: only 2 distinct items match brand linkchef after extra searches |
+| best-ninja-electric-food-choppers | prefilter: only 1 distinct items match brand ninja after extra searches |
+
+## Rounds 42 and 43 (2026-11-17 to 2026-11-18): rice cookers, pressure cookers, electric food choppers, citrus juicers, 50 guides
+- Round 42 = rice cookers + pressure cookers (scripts/clone/work/r42.live.txt), round 43 = electric food choppers + citrus juicers (r43.live.txt). Combined list r4243.live.txt, 57 live slugs. Done list: scripts/clone/work/r4243.done.txt (50 slugs).
+- Writers: Sonnet only. The first continuous writer finished 17 rice cooker guides before its session ended; a second Sonnet writer took the remaining 40 from scripts/clone/work/left-r4243.txt and wrote 33.
+- Coordinator skips (12, marked before the writers): same intent as published = best-electric-rice-cookers (= best-rice-cookers), best-mini-rice-cookers (= best-small-rice-cookers), best-neuro-fuzzy-rice-cookers (= best-fuzzy-logic-rice-cookers), best-small-electric-food-choppers (= best-mini-electric-food-choppers). Prefilter brand = cuisinart/fagor/fissler pressure cookers, linkchef/ninja food choppers. Eyeball = best-ambiano-electric-food-choppers (0 Ambiano), best-tatung-rice-cookers (0 Tatung), best-farberware-pressure-cookers (valve accessory only). Reasons in scripts/clone/work/r4243.skip.txt.
+- Writer skips (7, marked at Finish): best-10-quart-pressure-cookers (2 real 10 qt cookers), best-breville-pressure-cookers (2 Breville), best-cosori-pressure-cookers (2 Cosori), best-ninja-pressure-cookers (1 Ninja pressure cooker), best-kitchenaid-electric-food-choppers (2 distinct KitchenAid), best-pressure-cooker-under-300 and best-electric-food-chopper-under-75 (lineups duplicate their under-150/200 and under-30/50 siblings). Reasons in scripts/clone/skip-a.txt.
+- Research: docs/research/rice-cookers.md and pressure-cookers.md reused without new searches; docs/research/food-choppers.md and citrus-juicers.md newly written from web searches.
+- Data note: two items (Hawkins Hss40 B002MPQH94, Prestige PRDA3 B00QWPY0PS) were copied from sibling compact files into best-induction-compatible-pressure-cookers.compact.json so finish.mjs could resolve them.
+- Repetition: the first pass was badly templated (top 4-word description openings 61x "The tradeoff is that", 41x "It suits cooks who", 38x "The listing says it"). One Sonnet fix pass rewrote about 190 sentences by hand in the spec.json files and rebuilt each guide. Top 4-word opening is now 5.
+- Checks: audit ok (50/50), no 【, no em/en dashes, tsc ok, build ok (Compiled successfully + Finished TypeScript) after a clean .next (the next/font/google fetch error is environmental and needs rm -rf .next).
