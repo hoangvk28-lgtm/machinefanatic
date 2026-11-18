@@ -75,3 +75,7 @@ best-simzlife-countertop-dishwashers: no Simzlife-brand items in Amazon data (0 
 best-edgestar-countertop-dishwashers: only 1 distinct EdgeStar countertop machine (DWP63, two listings of the same unit); other EdgeStar items are 18 inch built-ins
 best-hamilton-beach-countertop-dishwashers: only 2 Hamilton Beach countertop machines (HBDW3208, 6L no-hookup unit); the others are wheeled floor portables and a grill
 best-zulay-immersion-blenders: only 2 real Zulay immersion blenders (800W stick and 4-in-1 set); the third Zulay item is a handheld milk frother wand, not an immersion blender, and the other candidates are other brands
+best-duromax-generator-transfer-switch: no DuroMax-brand transfer switch exists in the data; the only DuroMax items are portable generators (wrong type), the rest are other brands
+best-firman-generator-transfer-switch: no Firman-brand transfer switch in the data; only a Westinghouse generator, a Firman/Champion rocker start switch (not a transfer switch) and generic other-brand switches
+best-ge-generator-transfer-switch: no GE-brand product in the data at all; only other-brand switches
+best-floating-neutral-generator-transfer-switch: no product data states floating or switched neutral behavior, so no lineup can be honestly matched to the topic

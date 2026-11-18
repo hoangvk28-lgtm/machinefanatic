@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-50-amp-rv-generator-transfer-switch",
+ "categorySlug": "generators",
+ "mainKeyword": "50 amp rv generator transfer switch",
+ "guideTitle": "Best 50 Amp RV Generator Transfer Switches (2026)",
+ "metaTitle": "Best 50 Amp RV Generator Transfer Switches",
+ "metaDescription": "Six 50 amp RV automatic transfer switches compared on time delay, interlock design, wiring and what each does when shore power and generator overlap.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "12 min",
+ "expertTake": "The Furrion 50 amp ATS is the best pick because its mechanical interlock between contactors and its stated time delay make the shore-to-generator handoff predictable. The Surge Guard is the value choice with plainly published delays. If your coach already has a built-in generator and transfer switch from the factory, skip the whole category.",
+ "introParagraphs": [
+  "An RV automatic transfer switch decides which source feeds the coach: campground shore power or the onboard generator. It senses a live generator, waits for the voltage to settle, swaps the load and makes sure both sources can never connect at once.",
+  "Most coaches already include one, so a replacement or retrofit is about reliability and how the unit behaves during the handoff. The details that matter are time delay, interlock design, who dominates when both are live and how you wire the thing in."
+ ],
+ "products": [
+  {
+   "id": "B00F84UNW8",
+   "badge": "Best Overall",
+   "name": "Furrion 50 Amp RV Automatic Transfer Switch",
+   "specs": [
+    "50A",
+    "Mech interlock",
+    "Time delay",
+    "Dual input"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 125/250 V AC"
+    },
+    {
+     "label": "Inputs",
+     "value": "Shore and generator"
+    },
+    {
+     "label": "Interlock",
+     "value": "Mechanical between contactors"
+    },
+    {
+     "label": "Delay",
+     "value": "Starts after generator sensed"
+    },
+    {
+     "label": "Use",
+     "value": "RV changeover"
+    }
+   ],
+   "description": "Furrion built its switch around a mechanical interlock between the two contactors, which is the right answer to the one failure that matters: both sources closed at the same time. Electronic logic can fail or be bypassed, while a physical link that stops one contactor from closing when the other is closed cannot be talked out of its job. On top of that, the listing describes a time delay that begins once generator power is sensed at the second input terminals.\n\nThat delay deserves respect. A generator that has just started sends unstable voltage and frequency for several seconds, and energizing a coach air conditioner or a converter in that window shortens their life. Furrion's behavior is more conservative than the minimal switches that simply follow the live input, and it carries a 125/250 volt rating that fits a 50 amp coach.\n\nExpect a retrofit to be a careful job. Shut off shore power and the generator, label every conductor, torque the terminals to the manufacturer's label and verify polarity before power-up. If the coach has a factory switch, confirm the mounting pattern before ordering. A neat install includes a clear label noting which input is shore and which is generator.",
+   "bestFor": "RV owners who want a conservative handoff and a physical interlock.",
+   "pros": [
+    "Mechanical interlock between contactors",
+    "Time delay before generator takes load",
+    "125/250 V rating for 50A coaches",
+    "Recognized RV brand"
+   ],
+   "cons": [
+    "Installation needs careful labeling",
+    "Mounting pattern may differ from your coach",
+    "Fixed delay cannot be tuned"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00F84UNW8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GXJYYj5pL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B00PVG2I3A",
+   "badge": "Best Value",
+   "name": "Surge Guard 50A Low Cost Transfer Switch",
+   "specs": [
+    "50A",
+    "30 sec delay",
+    "Generator priority",
+    "Permanent install"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Generator delay",
+     "value": "30 seconds"
+    },
+    {
+     "label": "Shore delay",
+     "value": "3 to 4 seconds"
+    },
+    {
+     "label": "Priority",
+     "value": "Generator dominates"
+    },
+    {
+     "label": "Extra",
+     "value": "Faulty park power protection"
+    }
+   ],
+   "description": "Surge Guard is better known for portable surge protectors, so this permanent transfer switch carries a useful pedigree for protecting against bad pedestal power. Its behavior is spelled out in numbers: it moves to the generator after a thirty second delay once the generator is energized, and when the generator shuts down, shore power returns after three to four seconds. When both sources are available, the generator takes priority after the thirty second delay.\n\nThose published timings are the main reason to pick it. You know how long the coach will wait, so you can run the generator without worrying about overlapping sources. The thirty second delay is longer than the twenty second figure on the PowerMax, which suits a larger or older generator that takes time to stabilize.\n\nIt mounts permanently in the RV, which means a real installation rather than a plug-in. Run the right gauge of wire for 50 amps, protect it with the proper breaker upstream and strain-relieve the cables so they cannot pull on the terminals as the coach flexes on the road. Check connections after the first trip, because vibration is the long-term enemy of RV electrical hardware.",
+   "bestFor": "Owners who want published timing and protection against bad park power.",
+   "pros": [
+    "Thirty second generator delay stated",
+    "Short shore-power return of three to four seconds",
+    "Protects from faulty park power",
+    "Permanent install design"
+   ],
+   "cons": [
+    "Generator priority may surprise some users",
+    "Needs correct wire gauge and breaker",
+    "Fixed delays cannot be changed"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B00PVG2I3A?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31q82Hn9n7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B07W5WSPJ4",
+   "badge": "Best Compact Panel Unit",
+   "name": "PowerMax PMTS-50 50 Amp RV ATS 120/240V",
+   "specs": [
+    "50A",
+    "20 sec delay",
+    "2 inputs",
+    "120/240V"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240 V AC"
+    },
+    {
+     "label": "Inputs",
+     "value": "2 x 110/220 V"
+    },
+    {
+     "label": "Delay",
+     "value": "20 seconds on and off"
+    },
+    {
+     "label": "Function",
+     "value": "Shore to generator"
+    },
+    {
+     "label": "Model",
+     "value": "PMTS-50"
+    }
+   ],
+   "description": "PowerMax is a converter brand, and this PMTS-50 is a clean two-input switch with a twenty second delay in both directions. The listing keeps it simple: two 110/220 volt inputs, one output, automatic selection and a delay on each transfer. That makes it the shortest-delay unit in this comparison apart from the one-way timing on the Furrion.\n\nTwenty seconds is a reasonable window for a modern inverter generator but tight for a larger, older machine that hunts as it warms up. If your generator is slow to stabilize, the Surge Guard's thirty seconds or the LINKCRO's twenty to forty five second range offers more margin. The PowerMax is also listed twice on the marketplace under slightly different titles, so confirm you are buying the same model that you read about.\n\nInstall it where you can reach the terminals and see the indicator, with the generator and shore cables entering through strain reliefs. Verify the polarity of both inputs before closing the cover, and test the handoff with a heavy load such as the air conditioner off first. A short test run of the generator while the coach sits plugged into shore power proves the sequence works.",
+   "bestFor": "Coaches with a modern, quick-settling generator that want a plain two-input unit.",
+   "pros": [
+    "Twenty second delay in both directions",
+    "Plain two-input design",
+    "120/240 V, 50 amp rating",
+    "Converter brand with RV focus"
+   ],
+   "cons": [
+    "Short delay for slow generators",
+    "Listed under two similar titles",
+    "Little detail on interlock design"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B07W5WSPJ4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41v3pSuXQ6L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DGKHV9GX",
+   "badge": "Best Adjustable Delay",
+   "name": "LINKCRO 50 Amp RV ATS with 20 to 45 Second Delay",
+   "specs": [
+    "50A",
+    "20-45s delay",
+    "Dual protection",
+    "120/240V"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240 V"
+    },
+    {
+     "label": "Delay",
+     "value": "20 to 45 seconds"
+    },
+    {
+     "label": "Protection",
+     "value": "Mechanical and control interlock"
+    },
+    {
+     "label": "Trigger",
+     "value": "Onboard generator sensed"
+    },
+    {
+     "label": "Model type",
+     "value": "PD52 style"
+    }
+   ],
+   "description": "LINKCRO describes a built-in delay of twenty to forty five seconds before the generator takes the load, so the exact figure depends on the unit and its conditions. The idea is to let generator voltage fully stabilize before the coach sees it, and a longer upper bound gives more margin than the PowerMax's fixed twenty seconds. The listing also names double protection, combining mechanical interlocks with the control circuit so two sources cannot enter the AC path together.\n\nThat wording echoes the Furrion, which also leans on a mechanical interlock, but LINKCRO offers less documented history. The variable delay is both a strength and a question mark, since you will want to know what the actual delay is on your unit. Ask the seller or watch it during your first test, and write the number on the panel label so you know what to expect.\n\nTreat the install like any 50 amp job. Use correctly sized conductors, a breaker upstream of each input and strain relief at every entry. Mount it away from engine heat and standing water, and run the generator once with a light load to verify transfer time. A loose terminal at 50 amps will overheat, so retorque after the first few hundred miles.",
+   "bestFor": "Owners with larger or slower-starting generators who want a longer delay window.",
+   "pros": [
+    "Delay range extends to 45 seconds",
+    "Mechanical interlock plus control circuit",
+    "50A at 120/240 V",
+    "Automatic once generator is sensed"
+   ],
+   "cons": [
+    "Exact delay is not a single stated figure",
+    "Limited track record",
+    "Needs a careful first test"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DGKHV9GX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41b1hAzJc2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FSKD5PGY",
+   "badge": "Best with Manual Override",
+   "name": "Nature's Generator RV 50A Automatic Transfer Switch",
+   "specs": [
+    "50A",
+    "Manual override",
+    "DIP switches",
+    "UL approval claimed"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Mode",
+     "value": "Automatic plus manual handle"
+    },
+    {
+     "label": "Adjustment",
+     "value": "DIP switch settings"
+    },
+    {
+     "label": "Sources",
+     "value": "Solar, battery, generator"
+    },
+    {
+     "label": "Listing note",
+     "value": "UL approval stated in title"
+    }
+   ],
+   "description": "This unit is aimed at a broader audience than a basic RV changeover, with compatibility claims for solar and battery energy storage systems as well as generators. It runs automatically but also has a manual override handle for emergencies, and DIP switches let you adjust behavior. It is the most configurable option in the roundup, which is attractive if your coach has an inverter or a solar bank.\n\nThe title also states UL approval, which is a point in its favor if true for your unit, since an approval mark simplifies insurance and inspection conversations. Verify the label on the product you receive before relying on it. The flexibility comes with complexity, because DIP switch settings should be confirmed against the manual rather than guessed.\n\nInstalling it demands careful reading. Set the DIP switches before powering up, confirm the delay and voltage thresholds and label the manual handle position. Keep the cover on, leave room around the case for heat and route cables with strain relief. Because it supports more source types, a quick written diagram of how your coach is wired will save troubleshooting later.",
+   "bestFor": "Coaches with solar, battery or inverter systems that want a manual override.",
+   "pros": [
+    "Manual override handle",
+    "DIP switches for adjustment",
+    "Works with solar and battery sources",
+    "UL approval stated in the title"
+   ],
+   "cons": [
+    "Settings need careful reading",
+    "Approval mark should be verified",
+    "More complex than a plain RV switch"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FSKD5PGY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31aCNYrISDL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CY1LLFJL",
+   "badge": "Best for Boats and RVs",
+   "name": "Nirakoka 50A RV ATS Rated 240VAC with 70A Neutral",
+   "specs": [
+    "50A",
+    "240VAC",
+    "70A neutral",
+    "Pre-wired"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 240 VAC"
+    },
+    {
+     "label": "Neutral",
+     "value": "70 amp stated"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pre-wired"
+    },
+    {
+     "label": "Use",
+     "value": "RVs, speedboats"
+    },
+    {
+     "label": "Switching",
+     "value": "Inverter, shore, generator"
+    }
+   ],
+   "description": "Nirakoka sells a pre-wired switch that works between inverter, shore and generator power, aimed at RVs and speedboats. The distinctive detail is the stated rating, 240 volts at 50 amps with a 70 amp neutral, a spec you rarely see called out. A neutral rated higher than the hot legs is useful where an inverter or unbalanced loads push current down the neutral conductor.\n\nCompared with the Furrion it publishes nothing about interlock design or a delay figure in the data we reviewed, so you are buying a rating more than a described behavior. For marine use the galvanized, corrosion-resistant coating language is welcome, though a boat install still belongs in a dry compartment. It is among the least documented picks here and should be treated as the budget end of the roundup.\n\nBecause it is pre-wired, installation looks easy, but it is not an invitation to skip the safety steps. Disconnect all sources, confirm which lead is which with a meter, protect it with the right breaker and keep conductors sized for 50 amps. Test the handoff with the generator running before you rely on it for a trip, and recheck the terminals after the first long drive.",
+   "bestFor": "Boat and RV owners wanting a pre-wired switch with a stated heavier neutral.",
+   "pros": [
+    "Pre-wired for simpler installation",
+    "70 amp neutral rating stated",
+    "Switches inverter, shore and generator",
+    "Suits RVs and speedboats"
+   ],
+   "cons": [
+    "No delay or interlock detail",
+    "Thin documentation overall",
+    "Pre-wired does not remove the need to test"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CY1LLFJL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BN9It7izL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Time delay before transfer",
+   "explanation": "A just-started generator needs seconds to settle its voltage and frequency. The PowerMax waits 20 seconds, the Surge Guard 30 seconds and the LINKCRO quotes 20 to 45 seconds. Match the delay to your generator, since a hunting engine under a coach air conditioner stresses the compressor. Longer is safer, but a very long delay leaves you without power."
+  },
+  {
+   "criterion": "Interlock design",
+   "explanation": "The real danger is both sources closing together, which can feed the generator from the pedestal or the pedestal from the generator. The Furrion uses a mechanical interlock between contactors, and the LINKCRO combines mechanical and control-circuit protection. Prefer a mechanical interlock over logic alone."
+  },
+  {
+   "criterion": "Source priority",
+   "explanation": "The Surge Guard states that the generator dominates after a 30 second delay when both are live, and returns to shore 3 to 4 seconds after the generator stops. Know which source your switch prefers so a neighbor's pedestal or your own plugged cable does not surprise you."
+  },
+  {
+   "criterion": "Neutral and voltage rating",
+   "explanation": "50 amp RV service is 120/240 volt split phase, so the switch must handle both legs and the neutral. The Nirakoka calls out a 70 amp neutral rating, which gives margin on unbalanced loads. Match the stated voltage rating to your coach, such as the Furrion's 125/250 volt rating."
+  },
+  {
+   "criterion": "Manual override and settings",
+   "explanation": "The Nature's Generator unit adds a manual override handle and DIP switches, which help when you want to force a source. More adjustment means more chances to set it wrong, so read the manual and record the settings. Fixed units like the Surge Guard offer less to misconfigure."
+  },
+  {
+   "criterion": "Listing marks and installation",
+   "explanation": "A safety listing helps with insurance and campground rules, and Nature's Generator states UL approval in its title. Verify any claim on the label you receive. A permanent 50 amp install should use correct wire gauge, an upstream breaker and strain relief, and you should consider a qualified RV electrician."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Transfer delay",
+   "meaning": "The wait between sensing a live generator and moving the load. It lets voltage and frequency stabilize.",
+   "watchFor": "The PowerMax lists 20 seconds, the Surge Guard 30 and the LINKCRO 20 to 45."
+  },
+  {
+   "spec": "Mechanical interlock",
+   "meaning": "A physical link ensuring only one contactor can be closed at a time. It prevents backfeed even if electronics fail.",
+   "watchFor": "The Furrion and LINKCRO describe this protection."
+  },
+  {
+   "spec": "120/240 V rating",
+   "meaning": "Two hot legs of 120 volts each give 240 volts between them. A 50 amp RV needs a switch that handles both legs.",
+   "watchFor": "The Nirakoka says 240 VAC with a 70 amp neutral."
+  },
+  {
+   "spec": "Priority source",
+   "meaning": "When two sources are live, the switch picks one. This is a design choice that affects how you plug in.",
+   "watchFor": "The Surge Guard gives the generator priority after the delay."
+  },
+  {
+   "spec": "Pre-wired",
+   "meaning": "The unit arrives with internal wiring done, so you only connect the inputs and output. It reduces internal errors but not external wiring risk.",
+   "watchFor": "The Nirakoka is pre-wired, so confirm lead labeling before connecting."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Handoff behavior",
+   "description": "We compared stated delays and priorities, including the Surge Guard's 30 seconds and the PowerMax's 20 seconds. Predictable timing ranked higher than a short delay. Units with no published delay were scored cautiously."
+  },
+  {
+   "title": "Protection design",
+   "description": "We looked for mechanical interlocks and control-circuit protections, which the Furrion and LINKCRO describe. A unit without a described interlock lost points. This is the core safety question."
+  },
+  {
+   "title": "Coach compatibility",
+   "description": "We checked voltage and current ratings against a 50 amp, 120/240 volt coach. The Nirakoka's neutral rating and the Furrion's 125/250 volt statement stood out. Odd voltage claims were flagged."
+  },
+  {
+   "title": "Flexibility and documentation",
+   "description": "We weighed the Nature's Generator's override and DIP switches against the simplicity of fixed units. Clear documentation earned credit. Missing data on delay or interlock counted against a listing."
+  },
+  {
+   "title": "Install and ownership",
+   "description": "We considered how each unit mounts, what it requires from the installer and what upkeep it needs. Opinions come from the listings and owner feedback patterns, not our own bench work."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Generator Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Modern inverter generator, fast settle",
+      "PowerMax PMTS-50",
+      "Twenty second delay is enough"
+     ],
+     [
+      "Older or larger portable generator",
+      "Surge Guard 50A",
+      "Thirty second delay gives more margin"
+     ],
+     [
+      "Generator that hunts for a long time",
+      "LINKCRO 50A",
+      "Delay window extends to 45 seconds"
+     ],
+     [
+      "Onboard generator with solar or batteries",
+      "Nature's Generator RV ATS",
+      "Handles multiple source types"
+     ],
+     [
+      "Strict about backfeed protection",
+      "Furrion 50A",
+      "Mechanical interlock between contactors"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "Nirakoka 50A",
+      "Pre-wired, basic documentation"
+     ],
+     [
+      "Low to mid",
+      "Surge Guard 50A",
+      "Published timings at a modest cost"
+     ],
+     [
+      "Mid tier",
+      "PowerMax PMTS-50",
+      "Simple and dependable layout"
+     ],
+     [
+      "Upper mid",
+      "LINKCRO 50A",
+      "Adds delay range and dual protection"
+     ],
+     [
+      "Premium",
+      "Furrion 50A",
+      "RV brand with mechanical interlock"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Fixed Delay vs Adjustable Settings",
+   "cards": [
+    {
+     "label": "Fixed delay",
+     "text": "The Surge Guard and PowerMax use set timings, which means less to configure and less to get wrong. You live with their numbers, 30 and 20 seconds."
+    },
+    {
+     "label": "Adjustable",
+     "text": "The Nature's Generator with DIP switches and the LINKCRO with its 20 to 45 second range let you tune behavior to your generator, at the cost of reading the manual carefully."
+    }
+   ],
+   "note": "Choose fixed timing for simplicity, and adjustable settings if your generator or battery system is unusual."
+  },
+  {
+   "subheading": "Priority and Return Behavior",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Generator wins when both are live",
+      "Surge Guard 50A",
+      "Generator dominates after 30 seconds"
+     ],
+     [
+      "Fast return to shore",
+      "Surge Guard 50A",
+      "Shore returns in 3 to 4 seconds"
+     ],
+     [
+      "Controlled handoff with interlock",
+      "Furrion 50A",
+      "Delay starts at generator sense"
+     ],
+     [
+      "Boat or inverter system",
+      "Nirakoka 50A",
+      "Switches inverter, shore and generator"
+     ],
+     [
+      "Manual force of a source",
+      "Nature's Generator RV ATS",
+      "Manual override handle"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Campground Use Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A switch that protects against faulty pedestal power, a clear delay and an interlock. Campground power can be unreliable, so protection matters as much as transfer."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Surge Guard 50A is built around protection from faulty park power, and the Furrion adds the mechanical interlock. Both fit a coach that moves between sites often."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You run a large generator, rely on the coach full time or want the strongest backfeed protection. The Furrion's interlock or the Nature's Generator's configurability justify the higher outlay."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp occasionally with a small inverter generator. The PowerMax or Nirakoka is enough, provided you test the handoff."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Retighten terminals",
+   "interval": "After the first trip, then yearly",
+   "why": "Road vibration loosens connections. A loose 50 amp lug overheats and can melt insulation."
+  },
+  {
+   "task": "Test the transfer",
+   "interval": "Before each season",
+   "why": "Run the generator with shore plugged in and watch the handoff. It proves delay and interlock still work."
+  },
+  {
+   "task": "Inspect wiring and strain relief",
+   "interval": "Twice a year",
+   "why": "Chafed insulation and pulled cables cause shorts. Replace damaged conductors immediately."
+  },
+  {
+   "task": "Clean the enclosure",
+   "interval": "Yearly",
+   "why": "Dust, insects and moisture ruin contacts. Wipe with the coach fully de-energized."
+  },
+  {
+   "task": "Verify settings",
+   "interval": "After any change to the power system",
+   "why": "DIP switches and delays should match the generator. Re-check after adding solar or batteries."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need to replace my factory RV transfer switch?",
+   "a": "Usually not. Replace it if it has failed, if you added a generator or inverter and need different behavior, or if you want a better interlock. A working factory unit is fine."
+  },
+  {
+   "q": "What is the best 50 amp RV transfer switch here?",
+   "a": "The Furrion, for its mechanical interlock and stated time delay. The Surge Guard is the best value because its timings are published plainly."
+  },
+  {
+   "q": "How long should the transfer delay be?",
+   "a": "Long enough for the generator to stabilize, which is typically 20 to 30 seconds or more for larger machines. Choose the delay that fits your generator, such as the Surge Guard's 30 seconds."
+  },
+  {
+   "q": "Can both sources connect at the same time?",
+   "a": "A properly designed switch prevents it with an interlock. Mechanical interlocks, as on the Furrion and LINKCRO, are the most reliable protection."
+  },
+  {
+   "q": "Can I install a 50 amp transfer switch myself?",
+   "a": "Many owners do the RV job, but at 50 amps correct wire gauge, breaker and torque are safety critical. Use a qualified RV electrician if you are unsure, and follow local rules."
+  },
+  {
+   "q": "Does a UL mention in the title guarantee approval?",
+   "a": "No. Check the label on the unit you receive and the paperwork. Titles on marketplace listings are not a substitute for the actual mark."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41GXJYYj5pL._SL500_.jpg"
+}

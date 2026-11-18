@@ -613,3 +613,37 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Data note: two items (Hawkins Hss40 B002MPQH94, Prestige PRDA3 B00QWPY0PS) were copied from sibling compact files into best-induction-compatible-pressure-cookers.compact.json so finish.mjs could resolve them.
 - Repetition: the first pass was badly templated (top 4-word description openings 61x "The tradeoff is that", 41x "It suits cooks who", 38x "The listing says it"). One Sonnet fix pass rewrote about 190 sentences by hand in the spec.json files and rebuilt each guide. Top 4-word opening is now 5.
 - Checks: audit ok (50/50), no 【, no em/en dashes, tsc ok, build ok (Compiled successfully + Finished TypeScript) after a clean .next (the next/font/google fetch error is environmental and needs rm -rf .next).
+
+### Prefilter skips (2026-11-18)
+| Skipped slug | Reason |
+|---|---|
+| best-60-kw-generator-transfer-switch | prefilter: only 1 distinct items match brand 60 after extra searches |
+| best-600-amp-generator-transfer-switch | prefilter: only 0 distinct items match brand 600 after extra searches |
+| best-600-amp-manual-transfer-switch-for-generator | prefilter: only 0 distinct items match brand 600 after extra searches |
+| best-6500-watt-generator-transfer-switch | prefilter: only 1 distinct items match brand 6500 after extra searches |
+| best-7-5-kw-generac-generator-with-transfer-switch-models-costs-and-buyer-notes | prefilter: only 1 distinct items match brand 7 after extra searches |
+| best-800-amp-generator-transfer-switch | prefilter: only 1 distinct items match brand 800 after extra searches |
+| best-8000-watt-generator-transfer-switch | prefilter: only 1 distinct items match brand 8000 after extra searches |
+| best-9000-watt-generator-transfer-switch | prefilter: only 0 distinct items match brand 9000 after extra searches |
+| best-briggs-and-stratton-generator-transfer-switch-models-costs-and-buyer-notes | prefilter: only 0 distinct items match brand briggs after extra searches |
+| best-champion-generator-transfer-switch-models-costs-and-buyer-notes | prefilter: only 0 distinct items match brand champion after extra searches |
+| best-cummins-generator-transfer-switch-models-costs-and-buyer-notes | prefilter: only 0 distinct items match brand cummins after extra searches |
+| best-eaton-generator-transfer-switch | prefilter: only 1 distinct items match brand eaton after extra searches |
+| best-ez-generator-transfer-switch | prefilter: only 1 distinct items match brand ez after extra searches |
+| best-firman-tri-fuel-generator-transfer-switch | prefilter: only 1 distinct items match brand firman after extra searches |
+| best-generac-generator-400-amp-transfer-switch-models-costs-and-buyer-notes | prefilter: only 0 distinct items match brand generac after extra searches |
+| best-generac-generator-transfer-switch-6854-models-costs-and-buyer-notes | prefilter: only 0 distinct items match brand generac after extra searches |
+| best-generac-generator-transfer-switch-models-costs-and-buyer-notes | prefilter: only 0 distinct items match brand generac after extra searches |
+
+## Round 44 (2026-11-18): vacuum sealers and generator transfer switches, 20 guides
+- Candidates: the 9 round-38 vacuum sealer slugs reset to todo, plus the first 60 generator transfer switch slugs. Live list scripts/clone/work/r44.live.txt (56), prefilter survivors r44.ok.txt (39), written r44.done.txt (21).
+- Writers: 2 Sonnet agents. A = r44a.txt (24 slugs, 10 written), B = r44b.txt (15 slugs, 11 written). Research docs/research/vacuum-sealers.md and transfer-switches.md both existed, so no web searches were run.
+- Coordinator skips (12, scripts/clone/work/r44.skip.txt): near-dups best-600a / best-8000-watt-...-kit / best-26kw-generac-400-amp / best-generac-home- and whole-house- transfer-switch; non-product topics best-cost-for-generator-transfer-switch, best-cost-for-electrician-to-install-..., best-adding-a-..., best-adding-...-to-house, best-build-your-own-..., best-diy-..., best-fpl-... (utility program).
+- Prefilter skips (17): size slugs 60-kw, 600-amp, 600-amp-manual, 6500-watt, 800-amp, 8000-watt, 9000-watt; brand slugs briggs-and-stratton (0), champion (0), cummins (0), eaton (1), ez (1), firman-tri-fuel (1), 7-5-kw-generac, and 3 Generac models-costs slugs (0 brand matches).
+- Writer skips (18, scripts/clone/skip-a.txt and skip-b.txt): the vacuum sealer cluster collapsed, 8 of 9 skipped (0 Ambiano, 0 Cabela's, 1 Mason Genie, 2 Potane, 2 Seal-a-Meal, 1 Silo, 2 same-product upright listings, sealer-pump results are clothing storage pumps). Transfer switch skips: 3-phase (1 true 3-phase unit, rest 3-pole single phase), 3-way (1 true 3-position switch), apc (2 rack ATS units), diesel (1 diesel-specific), duromax / firman / ge (no such brand switch in the data), bonded-neutral and floating-neutral and csa-approved (no listing states the property, so the topic cannot be written honestly).
+- Finding worth keeping: the vacuum sealer brand slugs are not viable from Amazon data and should not be retried.
+- Safety handling: no UL/CSA/ETL or code-compliance claim was written beyond what a listing states; guides tell the reader to verify the label, and generic 4-pole and dual-power units are flagged as component level rather than listed residential kits.
+- Repetition: writers were given a stricter anti-template rule up front (no 4-word opening more than 4 times, no fixed per-product skeleton). No fix pass was needed. Top 4-word opening = 4, one prose sentence shared by 3 guides.
+- Checks: audit ok (21/21), no 【, no em/en dashes, tsc ok, build ok (Compiled successfully + Finished TypeScript) after rm -rf .next.
+- Post-write duplicate audit (slug key + lineup overlap vs all 2,012 published slugs): best-50a-generator-transfer-switch was pulled after it was written and registered. It duplicates the published best-50-amp-generator-transfer-switch ("Best 50A ..." vs "Best 50 Amp ...", 5 of 6 products identical). The normalized slug key missed it because "50a" does not split into "50" + "amp". Add digit+unit splitting (50a -> 50 amp, 600a -> 600 amp) to the near-dup key before the next round.
+- Also noted, already published, no action taken: best-black-decker-electric-food-choppers shares 4 of 4 products with best-black-decker-food-processors, and best-hamilton-beach-electric-food-choppers shares 4 of 5 with best-hamilton-beach-food-processors. Different keywords and different prose, but identical lineups because Amazon returns the same machines for both searches.

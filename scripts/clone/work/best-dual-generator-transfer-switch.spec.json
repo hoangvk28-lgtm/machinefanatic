@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-dual-generator-transfer-switch",
+ "categorySlug": "generators",
+ "mainKeyword": "dual generator transfer switch",
+ "guideTitle": "Best Dual Power Generator Transfer Switches (2026)",
+ "metaTitle": "Best Dual Power Generator Transfer Switches",
+ "metaDescription": "Six dual-power automatic and manual transfer switches from 63A to 125A compared on enclosure, voltage, display and the limits of generic imported ATS units.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "12 min",
+ "expertTake": "The JINDOUZI 125A in a metal box is the most complete pick because it ships enclosed, lockable and clearly rated for 120/240 volts. The MARSTEK 63A with a live voltage display is the value pick for small circuits. If you need a listed residential automatic switch for a whole-house standby generator, skip this category and buy the one specified for your generator.",
+ "introParagraphs": [
+  "A dual-power transfer switch sits between two sources, usually the utility and a generator, and picks whichever is live. Some are automatic, some manual and many offer both through a selector, which is why they are popular for solar, batteries and small generators.",
+  "Most of the units sold under this name are generic modules from overseas makers, and the useful questions are voltage, current class, whether it arrives in an enclosure and how it behaves when power returns. Treat the ratings and the install as an electrician's call."
+ ],
+ "products": [
+  {
+   "id": "B0F2MTL5DX",
+   "badge": "Best Overall",
+   "name": "JINDOUZI 125A 3P Automatic Transfer Switch in Metal Box",
+   "specs": [
+    "125A",
+    "3P",
+    "120/240V",
+    "Lockable box"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "125 amp, 120/240 V"
+    },
+    {
+     "label": "Poles",
+     "value": "3P"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Metal electrical box"
+    },
+    {
+     "label": "Security",
+     "value": "Lockable keyhole"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic dual power"
+    }
+   ],
+   "description": "Arriving inside a metal electrical box is the feature that sets this one apart from the bare-module competition. The enclosure has a keyhole that locks, which blocks both accidental operation and casual tampering, and that matters more than it sounds in a garage or a shared building. The listing frames it as a 125 amp, three pole, 120/240 volt automatic changeover with multiple protection functions from insulation to overload.\n\nA three pole, 120/240 volt layout is the form that matches a North American split-phase supply, which is why it fits home projects better than the 110 volt mini modules below. At 125 amps it has real capacity for a sub-panel or a modest service, though it is not a whole-house standby switch. Compared with the JACEPFY, it carries the same rating with a clearer enclosure story.\n\nPlan the install around a dry, reachable wall, with an upstream breaker on each source and conduit entries sealed. Verify the sensing settings against the manual rather than assuming defaults, then test a full cycle with a load. Lock the box after commissioning, keep the key in a known spot and check the lugs for heat discoloration after the first week of real use.",
+   "bestFor": "Sub-panel backup where an enclosed, lockable 125A automatic unit is wanted.",
+   "pros": [
+    "Ships in a lockable metal box",
+    "3P 120/240 V layout for split phase",
+    "125A capacity for a sub-panel",
+    "Automatic dual-power operation"
+   ],
+   "cons": [
+    "Generic import, listing mark not named",
+    "Not a whole-house service ATS",
+    "Needs upstream breakers and installer"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0F2MTL5DX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Juc-nDM4L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G8VPDRMP",
+   "badge": "Best Selectable Modes",
+   "name": "JACEPFY 125A 3P Automatic Transfer Switch 120/240V",
+   "specs": [
+    "125A",
+    "3P",
+    "Auto or manual",
+    "Galvanized"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "125 amp, 120/240 V"
+    },
+    {
+     "label": "Poles",
+     "value": "3P"
+    },
+    {
+     "label": "Frequency",
+     "value": "50/60 Hz"
+    },
+    {
+     "label": "Modes",
+     "value": "Automatic or manual selectable"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel"
+    }
+   ],
+   "description": "Rated for 50 and 60 hertz, this unit lets you pick automatic or manual mode, which is a useful compromise for first-time installers. The galvanized steel enclosure resists rust, and the 125 amp three pole 120/240 volt design lines up with a US residential sub-panel. Choose manual during commissioning, confirm the generator is stable and then switch to automatic when you trust the setup.\n\nIt shares most specifications with the JINDOUZI and the phabcf, so the differences come down to details: JACEPFY highlights the selectable mode and the galvanized shell, while JINDOUZI highlights the lock and phabcf emphasizes monitoring. The 50/60 Hz statement means it is marketed worldwide, which is a reminder to verify the frequency and voltage behavior against your own supply.\n\nAs with all generic automatic switches, set it up so the generator reaches stable voltage before the transfer, and leave the retransfer delay long enough that a flickering utility does not toggle the load repeatedly. Mount it away from engine heat, torque the lugs to the label and operate the manual mode once a quarter. Keep the manual and the wiring diagram in a plastic sleeve inside the door.",
+   "bestFor": "First-time installers who want to commission in manual and graduate to automatic.",
+   "pros": [
+    "Selectable automatic or manual mode",
+    "Galvanized steel enclosure",
+    "125A 3P 120/240 V design",
+    "Rated for 50 and 60 Hz"
+   ],
+   "cons": [
+    "Settings need careful verification",
+    "No listing mark named in the data",
+    "Generic import with thin history"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0G8VPDRMP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31RG-48db7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FRM4FJWK",
+   "badge": "Best Monitoring",
+   "name": "phabcf 125A Dual Power Transfer Panel 3P 120/240V",
+   "specs": [
+    "125A",
+    "3P",
+    "Auto and manual",
+    "Monitoring"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "125 amp, 120/240 V"
+    },
+    {
+     "label": "Poles",
+     "value": "3P"
+    },
+    {
+     "label": "Operation",
+     "value": "Automatic and manual"
+    },
+    {
+     "label": "Monitoring",
+     "value": "Clear status display"
+    },
+    {
+     "label": "Packaging",
+     "value": "Pre-installed in an enclosure"
+    }
+   ],
+   "description": "This one comes pre-installed in an enclosure with a status display, so you can see what the switch thinks is happening. A readout is more than a convenience: it shows which source is live and lets you confirm the unit has transferred, rather than trusting the lights in the house. The listing describes both automatic and manual operation and a three pole 120/240 volt design rated at 125 amps.\n\nOne thing to double-check is the listing itself, because the same product family appears at both 100 and 125 amps on the marketplace, and the titles do not always agree. Confirm the amp rating on the label of the unit you receive before you size your breakers. Compared with the JINDOUZI, it trades the lockable keyhole for the monitoring display.\n\nInstall it with a clear view of the display, and place it where you will see it during an outage. Wire an upstream breaker on each source, keep conductors sized for the true rating and test the transfer with the generator running before any storm. Review the displayed voltages after a few weeks to spot a drifting source, and log the readings for your electrician.",
+   "bestFor": "Owners who want to see source status and keep both automatic and manual control.",
+   "pros": [
+    "Pre-installed in an enclosure",
+    "Status display shows the live source",
+    "Automatic and manual operation",
+    "125A 3P 120/240 V layout"
+   ],
+   "cons": [
+    "Marketplace titles mix 100A and 125A",
+    "No lock feature mentioned",
+    "Generic import with unclear listing"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FRM4FJWK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41dG7nRjLbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FKMX6VGB",
+   "badge": "Best 100A Single Phase",
+   "name": "Sezbaifles 100A 220V 2P Automatic/Manual ATS",
+   "specs": [
+    "100A",
+    "2P",
+    "220V",
+    "PC class"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "100 amp, 220 V AC"
+    },
+    {
+     "label": "Poles",
+     "value": "2P"
+    },
+    {
+     "label": "Class",
+     "value": "PC-class, low-frequency transfer"
+    },
+    {
+     "label": "Modes",
+     "value": "Automatic and manual"
+    },
+    {
+     "label": "Use",
+     "value": "Solar back-up"
+    }
+   ],
+   "description": "Sezbaifles describes this as a PC-class, low-frequency transfer switch, and that wording is the key to using it properly. PC class is the category for switching equipment that carries and transfers current but does not have its own overcurrent trip, so it relies on breakers upstream and downstream to protect the wiring. It is designed for infrequent switching, which suits a generator or solar back-up use but not an application that flips back and forth many times a day.\n\nThe two pole, 220 volt design matches a single-phase supply rather than a 120/240 split-phase service, so it is a poor fit for a typical American panel without an electrician's analysis. The listing says the automatic mode monitors power continuously and prioritizes a source, while manual mode is a simple flip when one source is off. It is the simplest unit in the lineup to understand.\n\nPlan the install around the breakers, because the switch will not protect the wire. Choose a breaker rating suited to the conductors, enclose the module, and label which terminals are line and load. Test the transfer a few times with a light load before connecting anything critical. Keep the manual selector in a known position, and write the mode on a label for the next person.",
+   "bestFor": "Solar or single-phase back-up projects where an installer will add protection.",
+   "pros": [
+    "Clear PC-class description",
+    "Automatic and manual modes",
+    "100A rating for sub-panel use",
+    "Simple two-pole layout"
+   ],
+   "cons": [
+    "220 V single phase, not split phase",
+    "No built-in overcurrent protection",
+    "Not suited to frequent switching"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FKMX6VGB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/313MrcEGgFL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F1S5DQQV",
+   "badge": "Best 110V Mini Module",
+   "name": "IGEYAPA 100A AC110V 2P Mini ATS W2R",
+   "specs": [
+    "100A",
+    "110V",
+    "2P",
+    "50/60Hz"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "100 amp, 110 V AC"
+    },
+    {
+     "label": "Poles",
+     "value": "2P"
+    },
+    {
+     "label": "Model",
+     "value": "W2R mini ATS"
+    },
+    {
+     "label": "Frequency",
+     "value": "50/60 Hz"
+    },
+    {
+     "label": "Class",
+     "value": "PC-level infrequent switching"
+    }
+   ],
+   "description": "The W2R is a compact module, not an enclosed panel, and its 110 volt two pole design suits single-leg circuits such as an inverter output or a small sub-panel. It has a selector for auto and manual, and the listing describes it as a PC-level switch for infrequent switching. The sibling G2R in the same brand family covers 63 amps, so the 100 amp W2R is the bigger of the two.\n\nBecause it is a module, the enclosure, the conductor sizes and the breakers are on you. That is a reasonable cost if you are building a solar or battery changeover and already have a cabinet. It is a poor choice if you expect a finished, labeled box. Compared with the MARSTEK, you get more current and no display or stated certification.\n\nMount it on a DIN rail inside a rated enclosure with a breaker on each input. Confirm the control supply voltage and the transfer delays in the manual. After installation, flip between sources manually a few times, then test automatic mode with a safe load, and leave a label explaining the selector. Revisit the terminal torque after the first month.",
+   "bestFor": "Single-leg 110 V changeover jobs inside a cabinet you are building.",
+   "pros": [
+    "100A on a compact module",
+    "Auto and manual selector",
+    "Suits 50 and 60 Hz",
+    "Small footprint for DIN rail mounting"
+   ],
+   "cons": [
+    "110 V only, not split phase",
+    "Enclosure and protection are extra",
+    "No display or stated certification"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0F1S5DQQV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/315blzJUWEL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DQYTSGYT",
+   "badge": "Best Value",
+   "name": "MARSTEK 63A 110V 2P ATS with LED Display",
+   "specs": [
+    "63A",
+    "110V",
+    "LED display",
+    "CE certified"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "63 amp, 110 V"
+    },
+    {
+     "label": "Poles",
+     "value": "2P"
+    },
+    {
+     "label": "Display",
+     "value": "LED voltage readout"
+    },
+    {
+     "label": "Protection",
+     "value": "Over, under voltage and over-current"
+    },
+    {
+     "label": "Mark",
+     "value": "CE stated in the title"
+    }
+   ],
+   "description": "The LED display shows real-time voltage and system operation, and the listing adds built-in over-voltage, under-voltage and over-current protection. Those protective functions are a notable step up from a bare changeover module, because they let the unit refuse a bad source instead of passing it through. The title also cites CE certification, which is a European conformity marking rather than a North American listing.\n\nThat distinction matters for a US install. A CE mark does not substitute for a UL or ETL listing, so an inspector or insurer in the United States may still require one. For a small bench, workshop or off-grid circuit where no inspection applies it is a reasonable choice, and its 63 amp rating fits a single 110 volt circuit with margin.\n\nUse it for smaller jobs such as a fridge, a freezer or a router and modem backup. Keep the module in an enclosure, protect each source with a breaker and read the voltage display during the first few transfers to confirm thresholds. Replace it rather than repair it if the display flickers, and record the settings so a replacement can be configured quickly.",
+   "bestFor": "Small 110 V circuits where a live voltage display and basic protection matter.",
+   "pros": [
+    "Live LED voltage display",
+    "Over and under voltage protection",
+    "Over-current protection stated",
+    "63A rating suits single circuits"
+   ],
+   "cons": [
+    "CE mark is not a US listing",
+    "110 V two pole only",
+    "Lower current than the 125A units"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQYTSGYT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41fdla3njKL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Voltage and pole layout",
+   "explanation": "A North American home uses a 120/240 volt split-phase supply, which calls for the three pole 120/240 volt layout of the JINDOUZI, JACEPFY and phabcf. The Sezbaifles is a 220 volt two pole unit and the IGEYAPA and MARSTEK are 110 volt two pole. A mismatch can leave a leg unswitched, so confirm the layout with an electrician."
+  },
+  {
+   "criterion": "Current rating and class",
+   "explanation": "The lineup spans 63 amps on the MARSTEK, 100 on the Sezbaifles and IGEYAPA and 125 on the three 3P units. The Sezbaifles and IGEYAPA describe PC-class, infrequent-switching designs, which carry current but do not protect wiring. Always add breakers sized for the conductors, and keep the loaded current well under the rating."
+  },
+  {
+   "criterion": "Enclosure and security",
+   "explanation": "The JINDOUZI ships in a metal box with a lockable keyhole, the phabcf is pre-installed in an enclosure and the JACEPFY has a galvanized shell. The IGEYAPA and MARSTEK are modules that need your own cabinet. A finished enclosure saves labor and protects against accidental contact."
+  },
+  {
+   "criterion": "Automatic and manual behavior",
+   "explanation": "Most of these units offer both modes, and the better practice is to commission in manual and move to automatic once the generator proves stable. Check the transfer delay and the retransfer delay, since a generator needs a few seconds to settle. A flickering utility without a retransfer delay can toggle the load repeatedly."
+  },
+  {
+   "criterion": "Certification reality",
+   "explanation": "The MARSTEK cites CE, which is not a North American listing, and the others name no mark in the data we reviewed. Generic dual-power modules are often rated for 220 volt single phase or 50 and 60 hertz and are not substitutes for a UL-listed residential ATS. Ask your inspector and insurer before you buy."
+  },
+  {
+   "criterion": "Install and protection",
+   "explanation": "None of these includes upstream breakers, and a PC-class unit will not trip on a short. An electrician should size breakers, conductors and the neutral treatment, and pull a permit where required. Treat the switch as one part of a system."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "3P vs 2P",
+   "meaning": "Three pole versus two pole describes how many conductors are switched. A split-phase home supply needs both hot legs switched, and often the neutral.",
+   "watchFor": "The JINDOUZI, JACEPFY and phabcf are 3P, and the Sezbaifles, IGEYAPA and MARSTEK are 2P."
+  },
+  {
+   "spec": "PC class",
+   "meaning": "A category for transfer switches that carry current and transfer between sources but have no overcurrent trip of their own. Wiring protection must come from breakers.",
+   "watchFor": "The Sezbaifles and IGEYAPA describe PC-level designs."
+  },
+  {
+   "spec": "110 V vs 220 V vs 120/240 V",
+   "meaning": "Different nominal systems. A 110 volt unit serves one leg, and 120/240 volt serves a split-phase panel.",
+   "watchFor": "The MARSTEK and IGEYAPA are 110 V, and the Sezbaifles is 220 V."
+  },
+  {
+   "spec": "CE mark",
+   "meaning": "A European conformity marking. It is not the same as a UL or ETL listing used in North America.",
+   "watchFor": "The MARSTEK title cites CE."
+  },
+  {
+   "spec": "Infrequent switching",
+   "meaning": "The design assumes the switch operates a few times, not repeatedly through the day. Frequent cycling wears the contacts.",
+   "watchFor": "The IGEYAPA calls itself a PC-level infrequent switching switch."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Layout match",
+   "description": "We compared voltage and pole layouts against a split-phase home supply. The 3P 120/240 volt units fit best, and the 110 volt modules suit single circuits. Mismatched layouts were marked down."
+  },
+  {
+   "title": "Completeness",
+   "description": "We checked which units arrive enclosed, such as the JINDOUZI and phabcf, and which are bare modules like the IGEYAPA. Finished enclosures reduce labor. The lockable keyhole earned extra credit."
+  },
+  {
+   "title": "Protection and monitoring",
+   "description": "We looked for displays and protections like the MARSTEK's voltage readout and the phabcf's status monitoring. Seeing the live source helps in an outage. Honest class labels, like PC class, also counted."
+  },
+  {
+   "title": "Certification honesty",
+   "description": "We noted which listings cite a mark and which do not, and flagged CE as distinct from a US listing. Generic imports were scored cautiously. Residential whole-house use calls for a listed unit."
+  },
+  {
+   "title": "Install demands",
+   "description": "We considered what an installer must add, from breakers to a cabinet. Opinions rest on the spec sheet and owner feedback patterns. A licensed electrician should verify the final plan."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Circuit Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Sub-panel on a split-phase supply",
+      "JINDOUZI 125A",
+      "3P 120/240 V in a lockable box"
+     ],
+     [
+      "Commission in manual first",
+      "JACEPFY 125A",
+      "Selectable automatic or manual mode"
+     ],
+     [
+      "Want to see the live source",
+      "phabcf 125A",
+      "Status display in an enclosure"
+     ],
+     [
+      "Solar back-up on single-phase 220 V",
+      "Sezbaifles 100A",
+      "PC-class 2P with automatic mode"
+     ],
+     [
+      "Single 110 V circuit like a freezer",
+      "MARSTEK 63A",
+      "63A with voltage display"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "MARSTEK 63A",
+      "Smallest unit with a display"
+     ],
+     [
+      "Low to mid",
+      "IGEYAPA 100A",
+      "Compact module with 100A"
+     ],
+     [
+      "Mid tier",
+      "Sezbaifles 100A",
+      "PC-class 2P for single phase"
+     ],
+     [
+      "Upper mid",
+      "JACEPFY 125A",
+      "Selectable modes with galvanized shell"
+     ],
+     [
+      "Highest outlay",
+      "JINDOUZI 125A",
+      "Enclosed, lockable and 3P"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Enclosed Unit vs Bare Module",
+   "cards": [
+    {
+     "label": "Enclosed unit",
+     "text": "The JINDOUZI, JACEPFY and phabcf arrive in a box and are closer to ready to wire. They cost more but save labor and protect the terminals."
+    },
+    {
+     "label": "Bare module",
+     "text": "The IGEYAPA and MARSTEK are DIN-style modules for a cabinet you provide. They are cheaper and flexible, but need an enclosure and careful protection."
+    }
+   ],
+   "note": "Pick an enclosed unit for a first install and a module only if you are building a proper cabinet."
+  },
+  {
+   "subheading": "Display and Protection Needs",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Voltage readout with protections",
+      "MARSTEK 63A",
+      "LED display and over/under voltage trips"
+     ],
+     [
+      "Status monitoring on a bigger unit",
+      "phabcf 125A",
+      "Clear monitoring in an enclosure"
+     ],
+     [
+      "Tamper resistance",
+      "JINDOUZI 125A",
+      "Lockable keyhole"
+     ],
+     [
+      "Plain mechanical simplicity",
+      "Sezbaifles 100A",
+      "Straightforward auto or manual"
+     ],
+     [
+      "Compact single-leg changeover",
+      "IGEYAPA 100A",
+      "Small mini ATS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Solar and Battery Back-Up Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A switch whose voltage matches the inverter output, clear PC-class labeling and breakers on each side. Frequent source swaps wear contacts, so prefer designs meant for occasional switching."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Sezbaifles 100A and IGEYAPA 100A target solar and back-up jobs, and the MARSTEK 63A suits a small inverter circuit with a display. Confirm voltage before wiring."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a finished enclosure with a lock, in which case the JINDOUZI is worth it. For a whole-house standby generator, spend on a listed switch from the generator maker instead."
+    },
+    {
+     "label": "Save if",
+     "text": "You are backing up a single small circuit and an electrician will protect it. The MARSTEK 63A covers that at the lowest outlay."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Retorque terminals",
+   "interval": "After first month, then yearly",
+   "why": "Heat cycling loosens lugs, and a loose lug at 100 amps runs hot. Retighten to the labeled torque."
+  },
+  {
+   "task": "Cycle manual mode",
+   "interval": "Quarterly",
+   "why": "Operating the mechanism keeps contacts free and proves the standby source. Do it with a light load."
+  },
+  {
+   "task": "Check displayed voltages",
+   "interval": "Monthly",
+   "why": "A drifting reading is an early warning about a source or a connection. Log what you see."
+  },
+  {
+   "task": "Inspect the enclosure",
+   "interval": "Twice a year",
+   "why": "Dust, moisture and insects wreck contacts. Wipe the interior with both sources isolated."
+  },
+  {
+   "task": "Verify delay settings",
+   "interval": "After any power event",
+   "why": "Settings can reset or drift. Compare them with the manual."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I use a dual power ATS as a whole-house transfer switch?",
+   "a": "Generally no. Generic modules may be built for different voltage or frequency standards and lack the listing a home installation requires. Use a listed switch matched to your generator for whole-house standby."
+  },
+  {
+   "q": "What is a PC-class transfer switch?",
+   "a": "It is a design that carries and transfers current but has no overcurrent trip of its own. You must protect the wiring with breakers, and the switch is meant for infrequent operation."
+  },
+  {
+   "q": "Which is best for a split-phase home?",
+   "a": "The three pole 120/240 volt units, the JINDOUZI, JACEPFY or phabcf, match a split-phase layout. The 110 volt and 220 volt two pole modules serve single circuits or single-phase systems."
+  },
+  {
+   "q": "Does CE certification count in the US?",
+   "a": "It is a European marking and does not replace a UL or ETL listing. Check with your inspector and insurer."
+  },
+  {
+   "q": "Should I use automatic or manual mode?",
+   "a": "Commission in manual to prove the generator, then move to automatic if you want hands-off transfers. Set sensible delays so the generator can stabilize."
+  },
+  {
+   "q": "Do I need an electrician?",
+   "a": "Yes for anything connected to a panel. Breaker sizing, neutral handling and permits are safety critical, and rules vary locally."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41Juc-nDM4L._SL500_.jpg"
+}

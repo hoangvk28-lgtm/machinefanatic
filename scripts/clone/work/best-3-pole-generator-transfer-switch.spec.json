@@ -1,0 +1,550 @@
+{
+ "guideSlug": "best-3-pole-generator-transfer-switch",
+ "categorySlug": "generators",
+ "mainKeyword": "3 pole generator transfer switch",
+ "guideTitle": "Best 3 Pole Generator Transfer Switches (2026)",
+ "metaTitle": "Best 3 Pole Generator Transfer Switches 2026",
+ "metaDescription": "Five 3 pole manual generator transfer switches from 100A to 400A compared, with what the watt ratings mean and why an electrician should install them.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "12 min",
+ "expertTake": "The Siemens 100A double-throw switch is the pick for a smaller service because it comes from an established electrical maker rather than a marketplace label. The Digowers 200A is the value choice for a standard 200 amp panel. Anyone without an electrician lined up, or whose generator tops out around 7,500 watts, should skip these heavy switches and buy a pre-wired circuit kit instead.",
+ "introParagraphs": [
+  "A three pole transfer switch is a service-level device. It sits between the utility meter and the main panel and swings the whole house from the grid to a generator through a mechanical lever, with a safe gap in between so the two sources never touch.",
+  "These are not plug-and-play boxes. They are wired into the service by a licensed electrician, usually under permit, so the useful questions are about amperage, enclosure, switching design and how closely the rating matches the generator you plan to run."
+ ],
+ "products": [
+  {
+   "id": "B00TEADJ0A",
+   "badge": "Best Overall",
+   "name": "Siemens DTGNF323R 100A 3-Pole Double-Throw Switch",
+   "specs": [
+    "100A",
+    "3 pole",
+    "Type 3R",
+    "Non-fused"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "100 amp, 240 volt"
+    },
+    {
+     "label": "Poles",
+     "value": "3 pole, 3 wire"
+    },
+    {
+     "label": "Fusing",
+     "value": "Non-fused general duty"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Type 3R outdoor"
+    },
+    {
+     "label": "Action",
+     "value": "Double throw, visible blade"
+    }
+   ],
+   "description": "Siemens makes this one the way an electrical manufacturer makes a disconnect, and that difference shows in the listing. The data sheet language is plain: 100 amp, 240 volt, three pole, three wire, non-fused general duty, double throw, Type 3R. It describes a quick-make, quick-break mechanism and a double-break visible blade design, which means you can see the contacts open when the lever is thrown.\n\nThe visible blade matters to the person servicing the house, because a lineman or electrician can confirm the source is isolated with their own eyes rather than trusting a label. Note that 100 amps at 240 volts is the ceiling, not a working number, so a 100 amp rating does not mean a generator that big will survive on it. This is also a smaller switch than the 200 amp boxes in this lineup, so it suits a smaller panel, a shop sub-panel or a house with a 100 amp service.\n\nInstallation is firmly electrician work. It has no integrated generator inlet, no breaker, no neutral kit in the listing, so those parts and the permit are separate lines on the job. Mount it where the enclosure can drain and be reached, torque the lugs to the label, and re-check them after the first heat cycle. Its simplicity is the asset here: there is no circuit board to fail in a storm.",
+   "bestFor": "Small services and shop panels that want a recognized electrical brand.",
+   "pros": [
+    "Established electrical manufacturer",
+    "Visible double-break blade contacts",
+    "Type 3R enclosure for outdoor mounting",
+    "No electronics to fail in a storm"
+   ],
+   "cons": [
+    "100A ceiling suits only small panels",
+    "No inlet, breaker or neutral kit included",
+    "Needs a licensed electrician and permit"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00TEADJ0A?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31CA16THmEL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DPPC62ML",
+   "badge": "Best Value",
+   "name": "Digowers 200A 3-Pole Manual Transfer Switch",
+   "specs": [
+    "200A",
+    "3 pole",
+    "48,000W max",
+    "Galvanized"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240 V"
+    },
+    {
+     "label": "Poles",
+     "value": "3 pole"
+    },
+    {
+     "label": "Quoted power",
+     "value": "48,000 W maximum"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel box"
+    },
+    {
+     "label": "Lugs",
+     "value": "Aluminum-copper connections"
+    }
+   ],
+   "description": "This is the plain-spoken 200 amp box in the group, a galvanized steel enclosure around a heavy-duty safety switch with aluminum-copper lugs. The listing stresses that there is no electronic component inside, so there is nothing to program, nothing to brown out and nothing to wear except the contacts. That mechanical simplicity is the same selling point as the Siemens, scaled up for a typical 200 amp residential service.\n\nThe 48,000 watt figure should be read for what it is. It is simply 200 amps multiplied by 240 volts, a ceiling on the hardware rather than the amount of power a home generator can deliver. A portable or standby unit in the 7,500 to 20,000 watt class will never approach it, so size the generator to your loads and use the switch rating as headroom. Against the CZDDGZQQ it matches the 200 amp rating but lacks the arc hood and thicker steel claim.\n\nExpect to buy the generator inlet, the generator feed breaker and the neutral handling separately, and to hire an electrician who will follow the manufacturer's manual for the neutral. Mount the box on a flat wall, seal conduit entries against water and recheck lug torque in the first season. A rain drip loop on the entering conduit costs nothing and avoids a corrosion headache in year three.",
+   "bestFor": "Standard 200 amp homes that want the lowest cost for a heavy-duty mechanical switch.",
+   "pros": [
+    "200A rating fits most home services",
+    "Galvanized steel enclosure",
+    "Purely mechanical, no electronics",
+    "Aluminum-copper lugs accept common cable"
+   ],
+   "cons": [
+    "48,000 W is a hardware ceiling, not a generator size",
+    "Brand has little documented track record",
+    "Inlet, breaker and install not included"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DPPC62ML?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41jSsPse9NL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FMXH589S",
+   "badge": "Best Build Details",
+   "name": "CZDDGZQQ 200A 3-Pole Double-Throw Safety Switch",
+   "specs": [
+    "200A",
+    "Arc hood",
+    "1.5mm steel",
+    "General duty"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240 V"
+    },
+    {
+     "label": "Poles",
+     "value": "3 pole manual"
+    },
+    {
+     "label": "Arc control",
+     "value": "Arc-quenching hood"
+    },
+    {
+     "label": "Enclosure",
+     "value": "1.5 mm galvanized steel"
+    },
+    {
+     "label": "Lugs",
+     "value": "Aluminum-to-copper"
+    }
+   ],
+   "description": "Two details separate this listing from the other 200 amp switches: an arc-quenching hood and an enclosure the seller specifies at 1.5 mm of galvanized steel. An arc hood is a shield that helps contain and extinguish the spark when contacts break under load, and on a manual lever switch that gets thrown under real current, it is a worthwhile feature. The thicker steel is a rigidity claim more than a rating, but a stiffer box resists the flex that loosens conduit seals.\n\nThat said, the listing has no named listing mark in the data we reviewed, so treat any approval claim as something to confirm before you buy. The local inspector decides whether an unlabeled switch is acceptable, and some jurisdictions or insurers insist on a listed device. Ask for the label or paperwork up front, because discovering this after wiring is expensive.\n\nIn practice this is a service-entrance job like the other 200 amp options. Plan on an electrician, a permit, a generator feed breaker and an outdoor inlet sized to your generator. After installation, exercise the lever twice a year with the main breaker off, check for discolored lugs and keep a printed label on the panel explaining the switch positions. The simple geometry of a three pole switch is forgiving, but only if the lugs are torqued correctly.",
+   "bestFor": "Buyers who want an arc hood and thicker steel on a 200 amp mechanical switch.",
+   "pros": [
+    "Arc-quenching hood on the contacts",
+    "1.5 mm galvanized steel enclosure",
+    "200A rating for standard services",
+    "Aluminum-to-copper connection design"
+   ],
+   "cons": [
+    "Listing mark must be verified locally",
+    "Unknown long-term service record",
+    "Inlet and breaker are separate purchases"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FMXH589S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41J3ZE4uzXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DQ9MGLFY",
+   "badge": "Best Outdoor-Rated Box",
+   "name": "Tzechkii 200A Manual Switch NEMA 3R Double-Throw",
+   "specs": [
+    "200A",
+    "NEMA 3R",
+    "Double throw",
+    "48,000W max"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "200 amp, 120/240 V"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R galvanized"
+    },
+    {
+     "label": "Action",
+     "value": "Manual lever, double throw"
+    },
+    {
+     "label": "Quoted power",
+     "value": "48,000 W maximum"
+    },
+    {
+     "label": "Use",
+     "value": "Utility to auxiliary source"
+    }
+   ],
+   "description": "Tzechkii leads with the enclosure, stating that the galvanized steel box meets NEMA 3R, the outdoor rating that covers rain, snow and ice on the outside of the box. That rating does not make it waterproof, since 3R boxes expect drainage and are not designed for submersion or hose spray, but it does mean the box is suited to a wall near the meter. The mechanism is a double-throw manual lever that swings the load between the utility and the auxiliary source, with a mechanical lockout so both cannot be closed at once.\n\nIt shares the 200 amp, 48,000 watt headline with the Digowers and the CZDDGZQQ, and the same caution applies. Those figures describe the contacts and bus, not any generator you will connect. Where it pulls ahead is the explicit NEMA 3R claim, which is exactly the kind of statement an inspector wants to read, while it gives up the arc hood language that the CZDDGZQQ advertises.\n\nTreat installation as a licensed trade job. A mis-landed neutral can put current on the ground path, and the generator inlet and feed breaker must be sized to your generator, not the switch. Seal the conduit hubs, keep the cover latched, and when the season starts flip the lever once with the main off to keep the contacts from stiffening. A weatherproof inlet on a nearby wall completes the system.",
+   "bestFor": "Exterior wall installs where a stated NEMA 3R enclosure is the first checkbox.",
+   "pros": [
+    "Explicit NEMA 3R outdoor enclosure",
+    "Manual lever with positive switching",
+    "Familiar 200A, 120/240 V rating",
+    "Mechanical design with no electronics"
+   ],
+   "cons": [
+    "No arc hood called out",
+    "Does not include inlet or generator breaker",
+    "3R is rain resistance, not hose-proof"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ9MGLFY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41EtQIRblvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FXM3Y6HY",
+   "badge": "Best for Large Services",
+   "name": "ZHWYBXS 400A 3-Pole Manual Transfer Switch",
+   "specs": [
+    "400A",
+    "3 pole",
+    "96,000W max",
+    "Galvanized"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "400 amp, 120/240 V"
+    },
+    {
+     "label": "Poles",
+     "value": "3 pole manual"
+    },
+    {
+     "label": "Quoted power",
+     "value": "96,000 W maximum"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Galvanized steel"
+    },
+    {
+     "label": "Sibling",
+     "value": "200A version exists"
+    }
+   ],
+   "description": "This is the oversized option, a 400 amp switch for large homes, small commercial buildings or properties with two panels fed from a 400 amp service. The 96,000 watt figure is again amperage times voltage, and it is a ceiling for the hardware. Nobody connects a 96 kW source to it in a house, which is what makes it relevant mostly to large estates and light commercial work.\n\nThe real reason to choose it is the service size, not the generator size. A 400 amp service demands a 400 amp transfer device regardless of how modest the generator is, and the 200 amp boxes above would simply be undersized for that panel. It is the same family as the 200 amp ZHWYBXS listing, so the construction language of galvanized steel and heavy-duty design repeats.\n\nHandling is the practical downside, because a switch this size is heavy and takes two people to mount, with lugs for large cable that must be torqued with a calibrated tool. Expect longer conduit runs, higher permit scrutiny and more cost for the cable than for the switch. An electrician should specify the generator feed breaker and verify the inlet matches the source, because oversizing the switch does nothing to protect an undersized generator circuit.",
+   "bestFor": "Large homes and small commercial services on a 400 amp panel.",
+   "pros": [
+    "400A rating matches large services",
+    "Galvanized steel enclosure",
+    "Same family as the 200A listing",
+    "Mechanical double-throw design"
+   ],
+   "cons": [
+    "Heavy and awkward to mount",
+    "Wasteful for a normal home service",
+    "Cable and install cost exceed the switch cost"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FXM3Y6HY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GE6bSfKvL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Match the service amperage",
+   "explanation": "A service-level transfer switch must be rated at or above the main breaker feeding the panel, otherwise you have created a weak link in the house. The Siemens at 100 amps suits a 100 amp service, the Digowers, CZDDGZQQ and Tzechkii at 200 amps suit a standard 200 amp service, and the ZHWYBXS at 400 amps is for large panels. Buying bigger than the service buys nothing. Buying smaller is unsafe."
+  },
+  {
+   "criterion": "Read watts as amps times volts",
+   "explanation": "The headline wattage on these boxes is arithmetic: 200 amps at 240 volts equals 48,000 watts, and 400 amps equals 96,000 watts. It describes the contact rating, not the power available from your generator. A typical portable or home standby generator delivers a small fraction of this, so choose the switch for the panel and size the generator separately."
+  },
+  {
+   "criterion": "Manual double throw",
+   "explanation": "A double-throw lever has two closed positions and cannot connect both sources at once, which is the mechanical guard against backfeed. It has no electronics, so a surge or a dead control board cannot strand it. The tradeoff versus an automatic unit is that you walk outside and throw the lever yourself."
+  },
+  {
+   "criterion": "Enclosure rating and material",
+   "explanation": "NEMA 3R, which the Tzechkii and the Siemens Type 3R both state, covers rain and ice on the outside of the box. The CZDDGZQQ adds a 1.5 mm steel claim for rigidity. Mount any of them where water drains away and the cover can latch fully. A box that holds water corrodes lugs in a few seasons."
+  },
+  {
+   "criterion": "Listing and inspection",
+   "explanation": "A listing mark from a recognized lab is what an inspector or insurer will ask to see, and it is not guaranteed on every marketplace box. The Siemens is a recognized electrical brand, while the others in this lineup should be confirmed before purchase. Check your jurisdiction's permit rules first, because unlisted gear can be rejected after installation."
+  },
+  {
+   "criterion": "Neutral and generator inlet",
+   "explanation": "A three pole switch leaves the neutral behavior to the installer, and getting it wrong can create a second neutral to ground connection. None of these listings ships the generator inlet or the feed breaker, so add them to the budget. Follow the manual and local code, and leave the decision to the electrician."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "3 pole",
+   "meaning": "Three switched conductors: two hot legs and, in these designs, a third pole used for the neutral or a solid neutral path depending on model. It is a service-level configuration, not a small circuit switch.",
+   "watchFor": "The Siemens lists 3 pole, 240 volt, 3 wire, so confirm how your installer will treat the neutral."
+  },
+  {
+   "spec": "Amp rating",
+   "meaning": "The current the contacts can carry continuously. It must meet or exceed the service main.",
+   "watchFor": "The lineup spans 100A for the Siemens up to 400A for the ZHWYBXS, so pick by panel."
+  },
+  {
+   "spec": "Wattage claim",
+   "meaning": "A simple multiplication of amps by volts. It is a ceiling on the hardware only.",
+   "watchFor": "48,000 W on the 200A boxes and 96,000 W on the 400A one do not describe a generator."
+  },
+  {
+   "spec": "Double throw",
+   "meaning": "Two closed positions, utility or generator, with a mechanical interlock between them. It prevents both sources feeding the house at once.",
+   "watchFor": "All five here are double-throw manual switches, so none will start a generator for you."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "An outdoor enclosure rating for rain, snow and ice on the outside. It is not a washdown or submersible rating.",
+   "watchFor": "The Tzechkii and Siemens state it directly, while others describe weatherproof steel."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Rating versus service",
+   "description": "We grouped each switch by amperage, from the 100A Siemens to the 400A ZHWYBXS, and checked how each one maps to common service sizes. A switch that is too small for the main breaker was marked down. Oversizing was not rewarded."
+  },
+  {
+   "title": "Mechanism and safety design",
+   "description": "We looked at whether the switch is a mechanical double-throw design and whether it offers an arc hood or a visible blade break. The Siemens visible blade and the CZDDGZQQ hood stood out. Electronics-free designs scored well for storm reliability."
+  },
+  {
+   "title": "Enclosure and install readiness",
+   "description": "We read the enclosure claims, including NEMA 3R, galvanized steel and the 1.5 mm gauge on the CZDDGZQQ. We also noted what is missing, since no listing ships an inlet or feed breaker. Install cost was part of the picture."
+  },
+  {
+   "title": "Listing and brand transparency",
+   "description": "We rewarded plain data-sheet language and recognized brands over inflated watt figures. The Siemens led here. Anything that cites 48,000 or 96,000 watts without context was treated cautiously."
+  },
+  {
+   "title": "Realistic fit",
+   "description": "We compared each switch against the generators typical homeowners actually own, which top out far below the headline watt claims. The best fit is the one matched to your panel, not to the biggest number. Opinions come from the listings and owner feedback patterns."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Service Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "100 amp service or shop panel",
+      "Siemens DTGNF323R",
+      "100A rating from an established electrical maker"
+     ],
+     [
+      "Standard 200 amp home",
+      "Digowers 200A",
+      "Right rating at the lowest cost"
+     ],
+     [
+      "200 amp home wanting arc control",
+      "CZDDGZQQ 200A",
+      "Arc-quenching hood on the contacts"
+     ],
+     [
+      "200 amp home on an exterior wall",
+      "Tzechkii 200A",
+      "States a NEMA 3R enclosure"
+     ],
+     [
+      "400 amp service",
+      "ZHWYBXS 400A",
+      "Only option here rated for 400A"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Most affordable 200A",
+      "Digowers 200A",
+      "Lowest cost for a mechanical 200A switch"
+     ],
+     [
+      "Mid tier",
+      "Tzechkii 200A",
+      "Adds explicit NEMA 3R language"
+     ],
+     [
+      "Mid to upper",
+      "CZDDGZQQ 200A",
+      "Arc hood and thicker steel for more outlay"
+     ],
+     [
+      "Brand premium",
+      "Siemens DTGNF323R",
+      "Recognized maker at a smaller rating"
+     ],
+     [
+      "Highest outlay",
+      "ZHWYBXS 400A",
+      "Large-service hardware costs the most"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Manual Switch vs Automatic Switch",
+   "cards": [
+    {
+     "label": "Manual 3 pole",
+     "text": "All five picks here are lever-operated. You walk to the box, shut off the main and throw the handle, which keeps the design simple and storm-proof. The Siemens and the Digowers show how little there is to fail."
+    },
+    {
+     "label": "Automatic ATS",
+     "text": "An automatic transfer switch senses the outage and starts the generator, which is better for standby units and for people who travel. It costs more, needs professional wiring and lives in a different product class than these."
+    }
+   ],
+   "note": "Pick a manual three pole if you will be home and own a portable or manual-start generator. Pick an automatic unit only for a standby generator."
+  },
+  {
+   "subheading": "Brand vs Generic Switch",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Recognized electrical brand",
+      "Siemens DTGNF323R",
+      "Manufacturer data-sheet language and design"
+     ],
+     [
+      "Marketplace value",
+      "Digowers 200A",
+      "Same 200A class at a lower outlay"
+     ],
+     [
+      "Feature-rich generic",
+      "CZDDGZQQ 200A",
+      "Arc hood and 1.5 mm steel claims"
+     ],
+     [
+      "Outdoor emphasis",
+      "Tzechkii 200A",
+      "NEMA 3R spelled out"
+     ],
+     [
+      "Need a bigger service",
+      "ZHWYBXS 400A",
+      "Brand choice is limited at 400A"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Whole-Home Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A switch rated at or above your service main, a rain-rated enclosure, and a generator large enough for the loads you will actually run. The watt claim on the box should be ignored when sizing the generator."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Digowers or Tzechkii at 200 amps fit a typical home panel. The Siemens fits only a 100 amp service, and the ZHWYBXS 400A is for oversized properties."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your inspector or insurer insists on a listed device, in which case the Siemens or a pre-wired kit is the safer choice. Also spend more when the service is large enough to demand the ZHWYBXS 400A."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a standard 200 amp panel and have confirmed the unit will pass local inspection. The Digowers delivers the same mechanical function at the lowest cost in this group."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Exercise the lever",
+   "interval": "Twice a year",
+   "why": "Throw the handle with the main breaker off so the contacts do not stiffen. A seized lever is a failure you only find in an outage."
+  },
+  {
+   "task": "Check lug torque",
+   "interval": "After the first season, then yearly",
+   "why": "Aluminum conductors creep and loosen with heat cycling. Loose lugs overheat and discolor, which a licensed electrician can spot."
+  },
+  {
+   "task": "Inspect the enclosure",
+   "interval": "Every spring",
+   "why": "Look for water marks, rust at the hinge and sealed conduit hubs. Moisture is the main enemy of an outdoor switch."
+  },
+  {
+   "task": "Label the panel",
+   "interval": "After installation",
+   "why": "A clear printed card explaining the lever positions keeps a family member from misusing it. Include the shutdown order."
+  },
+  {
+   "task": "Test the generator connection",
+   "interval": "Before storm season",
+   "why": "Run the generator under load through the system once. Fix any unseen problem on a calm day."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I install a 3 pole transfer switch myself?",
+   "a": "These switches connect to the utility service, so most jurisdictions require a licensed electrician and a permit. Treat professional installation as part of the cost. A mistake can backfeed the grid or create a shock hazard."
+  },
+  {
+   "q": "What does 48,000 watts on a 200 amp switch mean?",
+   "a": "It is 200 amps times 240 volts, a ceiling on the contacts. Your generator will provide far less, so size the generator to your loads."
+  },
+  {
+   "q": "Is the Siemens or the Digowers the better buy?",
+   "a": "The Siemens is a smaller 100 amp unit from a recognized maker, while the Digowers is a 200 amp switch at a lower cost. Choose by your service amperage first and brand second."
+  },
+  {
+   "q": "Do these include a generator inlet or breaker?",
+   "a": "None of these listings ship the inlet, the generator feed breaker or neutral hardware in the data we reviewed. Budget for those parts and the labor."
+  },
+  {
+   "q": "How long should a manual 3 pole switch last?",
+   "a": "A mechanical switch with a clean enclosure can last for many years. The usual failures are corroded lugs and a seized lever, both prevented by yearly checks."
+  },
+  {
+   "q": "Should I worry about unlisted switches?",
+   "a": "Yes, ask your building department and insurer. Many require a listed device, and an unlisted switch can fail inspection even if it works."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31CA16THmEL._SL500_.jpg"
+}

@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-50a-generator-transfer-switch",
+ "categorySlug": "generators",
+ "mainKeyword": "50a generator transfer switch",
+ "guideTitle": "Best 50A Generator Transfer Switches (2026)",
+ "metaTitle": "Best 50A Generator Transfer Switches in 2026",
+ "metaDescription": "Six 50 amp manual generator transfer switch kits compared by circuit count, inlet box, indoor or outdoor rating and listing, for 10,000 watt class generators.",
+ "lastUpdated": "2026-11-18",
+ "readTime": "12 min",
+ "expertTake": "The Reliance Controls A510A Pro/Tran2 is the pick for most buyers because it is a long-established pre-wired design that electricians already know how to install. The Champion indoor-rated kit is the value choice when you want a cord and UL 1008 language in the box. If your generator has no 50 amp outlet, or you only need to run a furnace and a fridge, skip the 50 amp class entirely.",
+ "introParagraphs": [
+  "A high-capacity manual transfer switch is a small sub-panel that sits beside your main panel. You move chosen circuits onto it, plug a generator into an inlet outside, and flip each circuit from utility to generator so power never flows backward to the street.",
+  "This class fits larger portable generators, and the useful differences are circuit count, what ships in the box, indoor or outdoor mounting and the safety listing. Wiring this into a panel is electrician work in most places, so these notes focus on what to ask for and what to verify."
+ ],
+ "products": [
+  {
+   "id": "B00YHMNAOK",
+   "badge": "Best Overall",
+   "name": "Reliance Controls A510A Pro/Tran2 50A 10-Circuit",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "Pro/Tran2",
+    "Pre-wired"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240 V"
+    },
+    {
+     "label": "Circuits",
+     "value": "10 switched"
+    },
+    {
+     "label": "Series",
+     "value": "Pro/Tran2"
+    },
+    {
+     "label": "Inlet",
+     "value": "Optional power inlet"
+    },
+    {
+     "label": "Warranty",
+     "value": "Manufacturer warranty included"
+    }
+   ],
+   "description": "Reliance Controls built its name on pre-wired switches, and the Pro/Tran2 series is the one most electricians reach for when a customer says they own a big portable. The A510A combines a 50 amp generator feed with ten switched circuits in one box, each with its own breaker and a three-position lever. The lever has positions for line, off and generator, which is the clearest way to keep a circuit from ever being fed by both sources.\n\nWhat you gain over a generic import is familiarity. The wiring layout, the labeling and the instruction manual are well documented, and a competent installer can wire one in a long afternoon. The inlet is optional, so budget for a matching 50 amp power inlet box and a correctly sized cord. Next to the Champion, which includes a cord, the Reliance asks you to assemble the kit around it.\n\nAs a sub-panel, it wants a dry interior wall near the main service, with working clearance in front. Label every circuit on the cover, keep the unused knockouts sealed and exercise each lever once a year. After installation, run the generator under load and confirm each circuit powers up with the others off, then start the heavy motor loads one at a time.",
+   "bestFor": "Homeowners with a larger portable generator who want a well-known, well-documented panel.",
+   "pros": [
+    "Established pre-wired switch family",
+    "Ten circuits from a 50A feed",
+    "Three-position levers per circuit",
+    "Full manufacturer warranty stated"
+   ],
+   "cons": [
+    "Inlet box is an optional extra",
+    "Indoor panel needs wall space",
+    "Install still needs an electrician"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00YHMNAOK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/517CoOYJ8KL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C9KKV5ZD",
+   "badge": "Best Value Kit",
+   "name": "Champion 50A Indoor-Rated Manual Switch with 30ft Cord",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "UL 1008",
+    "30ft cord"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Circuits",
+     "value": "10 available"
+    },
+    {
+     "label": "Mounting",
+     "value": "Indoor rated"
+    },
+    {
+     "label": "Standard",
+     "value": "UL 1008 certified (listing)"
+    },
+    {
+     "label": "Included",
+     "value": "30 ft generator cord"
+    }
+   ],
+   "description": "Champion sells generators, and this switch comes with the cord that connects to them, which removes the most common surprise at checkout. The listing describes a 50 amp panel with ten circuits, prewired with labeled wires, that is indoor rated and carries UL 1008 certification. UL 1008 is the standard that covers transfer switch equipment, so that mention is relevant, though you should still look for the mark on the unit itself.\n\nThe thirty foot cord is practical because it lets you run the generator at a safe distance from the house, far enough to keep exhaust away from windows. Compared with the Reliance, you give up some of the brand's installer familiarity and gain a more complete box. It is indoor rated, so it mounts inside a garage or utility room, not on an exterior wall.\n\nInstallation remains a wiring job for a licensed person. Label each prewired lead, keep the panel clear of water and set the generator on level ground outdoors, never inside the garage. Store the cord coiled loosely and inspect the plug for burned pins each season, because a worn plug is the failure that kills a night of backup power.",
+   "bestFor": "Buyers who want the cord included and an indoor-rated, certified-language panel.",
+   "pros": [
+    "Thirty foot cord included",
+    "UL 1008 language in the listing",
+    "Prewired with labeled wires",
+    "Ten circuits from a 50A feed"
+   ],
+   "cons": [
+    "Indoor rating only",
+    "Brand is better known for generators than switches",
+    "Cord length may not suit every layout"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0C9KKV5ZD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41p3Gd11lPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D9LG1QWY",
+   "badge": "Best Circuit Flexibility",
+   "name": "Nature's Generator 50A 12-Circuit Manual Switch Kit",
+   "specs": [
+    "50A",
+    "12 circuits",
+    "UL listed",
+    "Interchangeable breakers"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240 V"
+    },
+    {
+     "label": "Circuits",
+     "value": "12 at 120V or 6 at 240V"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed (listing)"
+    },
+    {
+     "label": "Type",
+     "value": "Manual, non-automatic"
+    },
+    {
+     "label": "Compatibility",
+     "value": "Most portable generators"
+    }
+   ],
+   "description": "Here the interesting part is the breaker arrangement. Interchangeable breakers let you configure the panel as twelve 120 volt circuits or six 240 volt circuits, or a mix, so the same box serves a house with a few big appliances or one with a lot of lighting and receptacle circuits. Twelve circuits is the highest count in this lineup and gives the most freedom to move kitchen, well pump and furnace loads onto the generator side.\n\nThe listing says UL listed and universally compatible with most generators on the market. Treat the compatibility claim as meaning it accepts a standard 50 amp inlet, not that any generator will run every circuit at once. The fifty amp feed at 240 volts is about 12,000 watts, which caps how much you can power regardless of circuit count, so keep a written load list and shed what you do not need.\n\nThe flexibility means more decisions at install. Settle which loads share legs and make sure the big 240 volt loads do not overload one leg of a smaller generator. Label the cover clearly, keep the interior dry and, before storm season, flip every lever to the generator position with the main off and verify each circuit.",
+   "bestFor": "Homes that want to back up many circuits with a choice of 120 and 240 volt breakers.",
+   "pros": [
+    "Twelve circuits, the highest here",
+    "Interchangeable 120 V and 240 V breakers",
+    "UL listing stated in the listing",
+    "Fits most portable generator inlets"
+   ],
+   "cons": [
+    "More circuits to plan and label",
+    "Still limited by the 50A feed",
+    "Setup decisions need an electrician"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D9LG1QWY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F1FLQK24",
+   "badge": "Best Outdoor-Ready Kit",
+   "name": "VEVOR 50A 10-Circuit Prewired Kit with CS6375 Inlet",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "NEMA 3R",
+    "CS6375 inlet"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R weatherproof"
+    },
+    {
+     "label": "Inlet",
+     "value": "CS6375 included"
+    },
+    {
+     "label": "Generator size",
+     "value": "Up to 12,500 W stated"
+    }
+   ],
+   "description": "VEVOR includes a CS6375 power inlet box in the kit, which is the 50 amp inlet used on most big portables, so the generator cord has a place to land. The enclosure is described as NEMA 3R weatherproof with a fully enclosed cover for indoor or outdoor use, and the listing states compatibility with generators up to 12,500 watts. That puts it close to the Champion in contents and ahead of the Reliance in what ships.\n\nIt is a manual, double-throw design with ten circuits, prewired for installation. The honest unknown is the safety mark, since the data we reviewed does not name a listing, so ask for the certification before buying and check your jurisdiction. Cheaper import kits may need the inspector's approval, and if it is rejected you have bought an expensive paperweight.\n\nMount it in a dry spot with clearance, seal the exterior inlet against rain and label the circuits. A weatherproof inlet should be installed with a drip loop and a short, protected conduit run to the panel. Test the whole system under load before relying on it, and plan to inspect the inlet pins annually for pitting or heat discoloration.",
+   "bestFor": "Buyers who want an inlet box in the kit and a weatherproof enclosure.",
+   "pros": [
+    "CS6375 inlet box included",
+    "NEMA 3R weatherproof enclosure",
+    "Prewired ten circuit design",
+    "Sized for up to 12,500 W generators"
+   ],
+   "cons": [
+    "Listing mark not named in the data",
+    "Newer brand with less service history",
+    "Inspector approval is not guaranteed"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F1FLQK24?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41nEz-SwlYL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F96FLY43",
+   "badge": "Best Brand Pedigree",
+   "name": "Connecticut Electric Series 2 50A 10-Circuit Kit",
+   "specs": [
+    "50A",
+    "10 circuits",
+    "25ft cord",
+    "CS6375 inlet"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Circuits",
+     "value": "10"
+    },
+    {
+     "label": "Cord",
+     "value": "25 ft included"
+    },
+    {
+     "label": "Inlet",
+     "value": "50 A outdoor inlet box"
+    },
+    {
+     "label": "Use",
+     "value": "Residential or small business"
+    }
+   ],
+   "description": "Connecticut Electric is an old name in panels and breakers, and its Series 2 kit packages a 50 amp ten circuit switch with a twenty five foot cord and an outdoor power inlet box with a weather-resistant cover. That complete bundle is why it is a strong pick: the switch, the cord and the inlet arrive together and match each other. The listing positions it for residential or small business use and mentions specialized switching for 240 volt applications.\n\nIt is the better-equipped choice against the Reliance, which sells the inlet separately, but the cord is five feet shorter than the Champion's. Twenty five feet is fine for a garage-side generator and tight if your inlet is on the far wall of a larger house. Measure the run from the generator spot to the inlet before ordering.\n\nOnce installed, treat it as a house system. Label the panel, keep a printed circuit list taped near the main, and exercise the levers each fall. Replace the cord at the first sign of cracked insulation, and store it coiled loosely off the floor. Because it is a panel kit, a licensed electrician should handle the connection to the main service.",
+   "bestFor": "Homeowners who want a complete, recognized-brand kit with inlet and cord.",
+   "pros": [
+    "Cord and inlet box both included",
+    "Long-established panel brand",
+    "Ten circuits from a 50A feed",
+    "Suits residential and small business use"
+   ],
+   "cons": [
+    "Cord is shorter than some rivals",
+    "Pro install still required",
+    "Fewer circuits than the 12-circuit option"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0F96FLY43?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BSlgV5EJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F6BYY7GN",
+   "badge": "Best Heavy-Duty Safety Switch",
+   "name": "GXELZK 50A 3-Pole Manual Switch 12000W",
+   "specs": [
+    "50A",
+    "3-pole",
+    "12,000W",
+    "Isolation switch"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240 V"
+    },
+    {
+     "label": "Capacity",
+     "value": "12,000 W stated"
+    },
+    {
+     "label": "Design",
+     "value": "3-pole safety switch"
+    },
+    {
+     "label": "Isolation",
+     "value": "Full source isolation"
+    },
+    {
+     "label": "Terminals",
+     "value": "Main, generator, load"
+    }
+   ],
+   "description": "Unlike the panel kits above, this is a single double-throw safety switch, not a ten circuit sub-panel. It moves one load feed between the utility and the generator, so it backs up whatever sits behind it, typically a dedicated panel for the circuits you want protected. The listing describes complete isolation of the utility and generator and a three pole design with terminals for main power, generator input and load.\n\nThat structure has advantages and costs. It is simpler hardware with fewer parts to fail, and you choose the downstream panel and breakers yourself, but nothing is prewired and no inlet or breakers are included. The 12,000 watt figure is the 50 amp at 240 volt ceiling, so it does not describe what your generator will deliver. It rewards an installer who wants to build a custom subpanel setup.\n\nBecause nothing is prewired, this is a job for an electrician, with correct wire gauge, a generator breaker and an inlet matched to the cord. Label the lever positions and write the shutdown order on the cover. Check lug torque after the first season, since aluminum or copper both relax with heat cycling.",
+   "bestFor": "Installers building a custom backup sub-panel around a single heavy-duty switch.",
+   "pros": [
+    "Full isolation of utility and generator",
+    "Simple mechanical three-pole design",
+    "Terminals for main, generator and load",
+    "Flexible for a custom sub-panel"
+   ],
+   "cons": [
+    "Nothing is prewired or included",
+    "No inlet, cord or breakers",
+    "Requires skilled installation"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F6BYY7GN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41kIKgD73FL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Circuit count versus feed",
+   "explanation": "More circuits do not mean more power. The Nature's Generator panel offers twelve circuits and the others offer ten, but all share one 50 amp feed worth about 12,000 watts at 240 volts. Pick a count that matches the loads you will actually run, and use a written load list to avoid overloading the generator."
+  },
+  {
+   "criterion": "What ships in the box",
+   "explanation": "The Champion includes a 30 foot cord, the Connecticut Electric ships a 25 foot cord and an inlet box, and the VEVOR includes the CS6375 inlet. The Reliance sells its inlet as an option, and the GXELZK ships no accessories. Compare complete cost, including cord and inlet, not only the panel."
+  },
+  {
+   "criterion": "Indoor or outdoor enclosure",
+   "explanation": "The Champion is indoor rated, so it belongs in a garage or utility room. The VEVOR cites a NEMA 3R enclosure for indoor or outdoor use. Choose where the panel will live first, since an indoor-only unit cannot go on an exterior wall."
+  },
+  {
+   "criterion": "Listing and certification",
+   "explanation": "UL 1008 is the standard for transfer switch equipment, and the Champion and Nature's Generator listings reference certification. Unlisted kits may be rejected by an inspector or an insurer. Ask for the label and check your local permit rules before you buy."
+  },
+  {
+   "criterion": "Inlet and cord match",
+   "explanation": "A 50 amp inlet and cord pair must match your generator's outlet, and a 50 amp cord on a 30 amp outlet is a dangerous mismatch. Buy the generator first and size the inlet to it. Do not connect a 50 amp inlet to a smaller generator without adapters designed for the purpose."
+  },
+  {
+   "criterion": "Prewired panel or bare switch",
+   "explanation": "Prewired kits like the Reliance, Champion and VEVOR cost less in labor. A bare switch like the GXELZK gives you control but needs a full sub-panel build. Either route requires a licensed installer and a permit in most areas."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "50A, 120/240 V",
+   "meaning": "The feed can carry 50 amps on each leg of a split-phase supply. At 240 volts that is around 12,000 watts maximum.",
+   "watchFor": "The GXELZK states 12,000 W and the VEVOR states generators up to 12,500 W."
+  },
+  {
+   "spec": "10 or 12 circuits",
+   "meaning": "The number of household circuits each lever can move to generator power. It is a count of breakers, not extra capacity.",
+   "watchFor": "Nature's Generator lists 12 at 120 V or 6 at 240 V, while the rest list 10."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "An enclosure rating for outdoor exposure to rain and ice. It does not mean the box is submersible.",
+   "watchFor": "The VEVOR states it, while the Champion is indoor rated."
+  },
+  {
+   "spec": "UL 1008",
+   "meaning": "The safety standard that covers transfer switch equipment. A listing mark means the unit was evaluated to it.",
+   "watchFor": "The Champion mentions UL 1008 and the Nature's Generator says UL listed, so check the label."
+  },
+  {
+   "spec": "CS6375 inlet",
+   "meaning": "A 50 amp, four-wire power inlet box used with matching cords. It must be the same configuration as the generator plug.",
+   "watchFor": "VEVOR and Connecticut Electric include one, while the Reliance lists it as optional."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Completeness of the kit",
+   "description": "We compared what each listing includes, from the Champion's 30 foot cord to the VEVOR's inlet box. A kit that arrives complete scores higher than one that needs parts. The GXELZK bare switch was judged as a different class."
+  },
+  {
+   "title": "Circuit design",
+   "description": "We looked at circuit count and breaker flexibility, including Nature's Generator's twelve circuit layout. More circuits earn credit only when the feed can support the loads. We kept the 50 amp ceiling in mind."
+  },
+  {
+   "title": "Enclosure and placement",
+   "description": "We checked indoor, outdoor and weatherproof claims, such as the Champion's indoor rating and the VEVOR's NEMA 3R. A mismatch between the box and its location is a common install mistake. Placement guidance was part of the scoring."
+  },
+  {
+   "title": "Listing and documentation",
+   "description": "We favored listings that mention UL 1008 or a clear manufacturer warranty, as on the Champion and Reliance. Missing marks cost points. Established brand history was a tiebreaker."
+  },
+  {
+   "title": "Installer friendliness",
+   "description": "We considered how clearly each is prewired, labeled and documented. Opinions are based on the spec sheet and owner feedback patterns. A licensed electrician should confirm any final choice."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Generator Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "10,000 to 12,500 W portable with a 50A outlet",
+      "Reliance A510A",
+      "Familiar 50A panel for this class"
+     ],
+     [
+      "Generator with a CS6375 style plug",
+      "VEVOR 50A kit",
+      "Inlet box included in the box"
+     ],
+     [
+      "Large home, many circuits to back up",
+      "Nature's Generator 12-circuit",
+      "Most circuits in the lineup"
+     ],
+     [
+      "Garage install, want the cord included",
+      "Champion 50A",
+      "30 foot cord in the kit"
+     ],
+     [
+      "Custom sub-panel build",
+      "GXELZK 50A",
+      "Single safety switch, no preset circuits"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Most affordable kit",
+      "VEVOR 50A",
+      "Inlet included at a modest cost"
+     ],
+     [
+      "Low to mid",
+      "Champion 50A",
+      "Cord and certification language in the box"
+     ],
+     [
+      "Mid tier",
+      "Connecticut Electric Series 2",
+      "Complete kit from an established brand"
+     ],
+     [
+      "Upper mid",
+      "Reliance A510A",
+      "Well-known panel, accessories extra"
+     ],
+     [
+      "Upper tier",
+      "Nature's Generator 12-circuit",
+      "Maximum circuits and flexible breakers"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Prewired Panel vs Bare Safety Switch",
+   "cards": [
+    {
+     "label": "Prewired panel",
+     "text": "The Reliance, Champion, VEVOR, Nature's Generator and Connecticut Electric arrive with circuit breakers and labeled wires. They cost less in labor and are easy for an installer to follow."
+    },
+    {
+     "label": "Bare safety switch",
+     "text": "The GXELZK moves a single feed between sources and lets you design the downstream panel. It offers flexibility but demands full design and more installer time."
+    }
+   ],
+   "note": "Pick a prewired panel for a typical home, and the bare switch only if an electrician is building a custom setup."
+  },
+  {
+   "subheading": "Where It Mounts",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Indoor garage wall",
+      "Champion 50A",
+      "Indoor-rated enclosure"
+     ],
+     [
+      "Exterior or open carport",
+      "VEVOR 50A",
+      "NEMA 3R weatherproof enclosure"
+     ],
+     [
+      "Utility room next to the main panel",
+      "Reliance A510A",
+      "Standard interior sub-panel form"
+     ],
+     [
+      "Panel plus separate inlet outside",
+      "Connecticut Electric Series 2",
+      "Inlet box with weather-resistant cover"
+     ],
+     [
+      "Large indoor mechanical room",
+      "Nature's Generator 12-circuit",
+      "More breaker positions for many loads"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Whole-House Essentials Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Enough circuits for the furnace blower, refrigerator, well pump, a few lights and the kitchen outlets, and a feed that matches your generator. A written load list beats guessing."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Nature's Generator 12-circuit and Reliance A510A cover the widest range of essentials. Both are limited by the same 50 amp feed, so shed loads before you start big motors."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a recognized brand and complete documentation, in which case the Reliance or Connecticut Electric kit makes sense. Spend more also when twelve circuits or a UL listing are required locally."
+    },
+    {
+     "label": "Save if",
+     "text": "Your inspector accepts the unit and you only back up a handful of essentials. The VEVOR or Champion delivers the function with a cord or inlet included."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Flip each lever to generator and back",
+   "interval": "Every fall",
+   "why": "Exercising the levers keeps contacts from stiffening. It also reveals a dead breaker before an outage."
+  },
+  {
+   "task": "Inspect inlet pins and cord",
+   "interval": "Each season",
+   "why": "Pitting and discoloration warn of a poor connection. Replace damaged cords immediately."
+  },
+  {
+   "task": "Check labels",
+   "interval": "After any panel change",
+   "why": "A wrong circuit list leads to overloaded legs. Keep a printed copy by the main."
+  },
+  {
+   "task": "Run the generator under load",
+   "interval": "Twice a year",
+   "why": "A full system test proves the wiring and the generator output. Fix problems on a calm day."
+  },
+  {
+   "task": "Retorque lugs",
+   "interval": "After the first year",
+   "why": "Heat cycling loosens connections. A licensed electrician should do the work."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a 50 amp transfer switch enough for my house?",
+   "a": "A 50 amp feed delivers about 12,000 watts at 240 volts, which covers essentials such as a furnace blower, refrigerator and a few circuits. It will not run a whole house with electric heat and cooking."
+  },
+  {
+   "q": "Which of these is the best overall?",
+   "a": "The Reliance A510A, because it is a mature, well-documented design. The Champion and Connecticut Electric kits are better if you want the cord included."
+  },
+  {
+   "q": "Can I use a 50 amp inlet on a 30 amp generator?",
+   "a": "Not without an approved adapter, and be careful. A 50 amp cord and inlet on a smaller generator can allow an overload without tripping the generator breaker."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "In many places, yes. Panel changes and inlet boxes usually need a permit and inspection, and many jurisdictions require a licensed electrician. Check locally first."
+  },
+  {
+   "q": "Are the cheaper kits safe?",
+   "a": "They can be if the listing mark is real and the installation is correct. Ask for the certification, and expect an inspector to check it."
+  },
+  {
+   "q": "Indoor-rated or NEMA 3R, which do I need?",
+   "a": "Indoor-rated panels such as the Champion belong inside, while NEMA 3R boxes like the VEVOR suit outdoor mounting. Choose by location, not by feature count."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/517CoOYJ8KL._SL500_.jpg"
+}

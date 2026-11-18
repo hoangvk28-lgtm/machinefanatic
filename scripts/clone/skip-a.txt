@@ -27,3 +27,17 @@ best-ninja-pressure-cookers: only 1 distinct Ninja pressure cooker (HyperHeat 6.
 best-pressure-cooker-under-300: lineup identical to under-150 and under-200 siblings (all items under cap overlap); only a canner unused, would duplicate published siblings
 best-electric-food-chopper-under-75: lineup identical to under-30 and under-50 siblings (only one new item, a 7-in-1 manual-style cutter); would duplicate siblings
 best-kitchenaid-electric-food-choppers: only 2 distinct KitchenAid choppers (KFC3516 in many colors, Go Cordless Top Down); rest is an unbranded 4 cup unit
+best-ambiano-vacuum-sealers: no Ambiano-brand product in the data (brand purity)
+best-cabela-s-vacuum-sealers: no Cabela's-brand product in the data (brand purity)
+best-mason-genie-vacuum-sealers: only 1 Mason Genie product; the rest are other brands
+best-potane-vacuum-sealers: only 2 Potane machines (third Potane item is a bag roll)
+best-seal-a-meal-vacuum-sealers: only 2 Seal-a-Meal machines
+best-silo-vacuum-sealers: only 1 distinct Silo machine (rest are container-count variants of it)
+best-upright-vacuum-sealers: only 2 verified upright sealers and those two listings look like the same InstaSeal product; rest are horizontal units or a Shark vacuum cleaner
+best-vacuum-sealer-pumps: results are clothing storage-bag pumps and a manual pump, not food vacuum sealer pumps; fewer than 3 on-topic machines
+best-3-phase-generator-transfer-switch: only 1 true three-phase unit; the other "3P" items are 3-pole single-phase switches
+best-3-way-generator-transfer-switch: only 1 true 3-position switch (Lizixny 30A shore/off/gen); rest not described as 3-way
+best-apc-generator-transfer-switch: only 2 APC products, both rack/IT ATS units
+best-bonded-neutral-generator-transfer-switch: no listing states bonded-neutral behavior; claims cannot be supported
+best-csa-approved-generator-transfer-switch: only the EZ Generator Switch states CSA approval
+best-diesel-generator-transfer-switch: only 1 diesel-specific switch; rest are generic
