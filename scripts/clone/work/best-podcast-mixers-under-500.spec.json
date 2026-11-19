@@ -1,0 +1,572 @@
+{
+ "guideSlug": "best-podcast-mixers-under-500",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "podcast mixers under $500",
+ "guideTitle": "Best Podcast Mixers Under $500 (2026)",
+ "metaTitle": "Best Podcast Mixers Under $500 (2026)",
+ "metaDescription": "Six podcast mixers and kits listed at or below $500, from a four person bundle to dual XLR kits and a four channel mixer, compared on what headroom buys.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "12 min",
+ "expertTake": "The SquarockTek M100 is the top pick for a four person show. The Kaschun is the value pick for a plain four channel mixer. Skip the G10 kits if you want real XLR inputs, since they rely on 3.5 mm mics.",
+ "introParagraphs": [
+  "At the top of this cap the listings in this range still sit well below it, so the budget is headroom rather than a limit. The useful question is how to spend it: more inputs, better mics or a sturdier mixer.",
+  "This guide focuses on the picks that give a show room to grow. We favour multi mic kits and a conventional mixer over cheap cards, and we say plainly where a bigger budget would need a different category. Prices move, so the $500 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0FPCH8NZD",
+   "badge": "Best Overall",
+   "name": "SquarockTek M100 podcast bundle for 4 with mixer and dynamic mics",
+   "price": "",
+   "specs": [
+    "For 4",
+    "Dynamic mics",
+    "M100"
+   ],
+   "specList": [
+    {
+     "label": "Mics",
+     "value": "Dynamic mics for four"
+    },
+    {
+     "label": "Mixer",
+     "value": "M100 audio mixer"
+    },
+    {
+     "label": "Noise",
+     "value": "Noise reduction"
+    },
+    {
+     "label": "Use",
+     "value": "Four person podcast"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle"
+    }
+   ],
+   "description": "The SquarockTek M100 is a four person bundle with an M100 audio mixer and dynamic mics. It lists noise reduction. It is built for a panel show.\n\nFour mics need four inputs, which is rare in this price class. Dynamic mics reject room noise. It covers four voices, more than any other kit here.\n\nKeep the mics close and set gain per voice. Tidy the cables. Before the first episode, record a two minute test with the SquarockTek M100 for 4 at your normal speaking distance and listen for hiss, because gain set too low and boosted later is the most common cause of noisy audio.",
+   "bestFor": "Four person panel shows",
+   "pros": [
+    "Four mics in one kit",
+    "Dynamic mics reject room noise",
+    "Noise reduction",
+    "Panel ready"
+   ],
+   "cons": [
+    "Basic mics",
+    "Cable clutter"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FPCH8NZD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51VBzIBY9kL._SL500_.jpg"
+  },
+  {
+   "id": "B0DYTN64DR",
+   "badge": "Best for Two Hosts",
+   "name": "MAONO E2 Gen2B podcast bundle for 2 with dual XLR condenser mics",
+   "price": "",
+   "specs": [
+    "For 2",
+    "Dual XLR",
+    "Loopback"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "Dual XLR combo"
+    },
+    {
+     "label": "Mics",
+     "value": "Two condenser mics"
+    },
+    {
+     "label": "Routing",
+     "value": "Loopback"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Use",
+     "value": "Two person podcast"
+    }
+   ],
+   "description": "The MAONO E2 Gen2B is the two person version of the E2 Gen2 with dual XLR condenser mics. It adds loopback, Bluetooth and noise reduction. It is a ready to record kit.\n\nIt trades the choice of mics for convenience. The mics are condensers that need phantom power. It pairs dual XLR with two condenser mics.\n\nUse a quiet room and set gain per voice. Treat the MAONO E2 Gen2B as a desk tool that wants a boom arm, a pop filter and a short balanced cable, since those cheap extras improve a recording more than any menu setting.",
+   "bestFor": "Two person shows that want everything included",
+   "pros": [
+    "Two XLR condenser mics",
+    "Loopback",
+    "Bluetooth",
+    "Noise reduction"
+   ],
+   "cons": [
+    "Mics are condensers that pick up room noise",
+    "Less flexible than an interface alone"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DYTN64DR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51X4JzQoOxL._SL500_.jpg"
+  },
+  {
+   "id": "B0FHJTRJSF",
+   "badge": "Best Plug and Play",
+   "name": "CryoSurf G10 podcast bundle with audio mixer and mic",
+   "price": "",
+   "specs": [
+    "G10",
+    "3.5 mm mic",
+    "Bundle"
+   ],
+   "specList": [
+    {
+     "label": "Mixer",
+     "value": "G10 sound card"
+    },
+    {
+     "label": "Mic",
+     "value": "3.5 mm condenser"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle"
+    },
+    {
+     "label": "Noise",
+     "value": "Noise reduction"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming and recording"
+    }
+   ],
+   "description": "The CryoSurf G10 bundle pairs a G10 mixer with a 3.5 mm condenser mic. It lists noise reduction and live sound card features. It is a plug and play starter kit.\n\nIt shares its design with other G10 bundles. The mic is a basic one. It is a G10 kit with a 3.5 mm mic, simpler than the M100.\n\nUse a pop filter and test your levels. If you plan to add a guest later, ask whether the CryoSurf G10 mixer can grow with you, because a second voice is where input counts and monitoring start to matter.",
+   "bestFor": "Beginners who want a plug and play kit",
+   "pros": [
+    "Plug and play",
+    "Noise reduction",
+    "Mic included",
+    "Simple"
+   ],
+   "cons": [
+    "Basic mic",
+    "Many near twin G10 listings"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FHJTRJSF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51mnVRCjX4L._SL500_.jpg"
+  },
+  {
+   "id": "B0FLD7FK7C",
+   "badge": "Best Creator Kit",
+   "name": "tenlamp G10 creator audio mixer bundle with microphone",
+   "price": "",
+   "specs": [
+    "G10",
+    "Noise reduction",
+    "Voice effects"
+   ],
+   "specList": [
+    {
+     "label": "Mixer",
+     "value": "G10 creator mixer"
+    },
+    {
+     "label": "Mic",
+     "value": "Included"
+    },
+    {
+     "label": "Noise",
+     "value": "Noise reduction"
+    },
+    {
+     "label": "Effects",
+     "value": "Voice effects"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming, recording"
+    }
+   ],
+   "description": "The tenlamp G10 Creator bundle includes a mixer, a mic, noise reduction and voice effects. It is sold as a complete audio solution for streaming and recording. It targets content creators.\n\nIt overlaps heavily with other G10 listings. The effects suit streamers. It adds noise reduction to the G10 family.\n\nTest your levels and use a pop filter. Keep a spare USB cable and the manual for the tenlamp G10 creator bundle, as drivers and routing options are the usual cause of a session that will not start.",
+   "bestFor": "Content creators who want a one box kit",
+   "pros": [
+    "Mic included",
+    "Noise reduction",
+    "Voice effects",
+    "Plug and play"
+   ],
+   "cons": [
+    "Basic mic",
+    "Many near twin G10 listings"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FLD7FK7C?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51FGFjz+3+L._SL500_.jpg"
+  },
+  {
+   "id": "B0CQ3HKDMX",
+   "badge": "Best Dynamic Mic Bundle",
+   "name": "FIFINE gaming equipment bundle with XLR mic and mixer",
+   "price": "",
+   "specs": [
+    "XLR dynamic mic",
+    "Mixer",
+    "Bundle"
+   ],
+   "specList": [
+    {
+     "label": "Mic",
+     "value": "XLR dynamic"
+    },
+    {
+     "label": "Mixer",
+     "value": "Gaming audio mixer"
+    },
+    {
+     "label": "Use",
+     "value": "Gaming, streaming, podcast"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle"
+    },
+    {
+     "label": "Mic type",
+     "value": "USB and XLR"
+    }
+   ],
+   "description": "The FIFINE bundle pairs an XLR dynamic mic with a gaming audio mixer. The mic also has a USB output. It suits gaming, streaming and podcast recording.\n\nA dynamic mic rejects room noise better than a small condenser. The mixer is a solo host box. Its dynamic XLR mic beats the G10 kit mics.\n\nPlace the mic close and set gain with a test recording. Keep it dust free. Look at where the FIFINE gaming bundle will sit on the desk, because knobs and faders that you cannot reach comfortably get ignored and levels drift during a long recording.",
+   "bestFor": "Solo hosts who want a dynamic mic and mixer",
+   "pros": [
+    "XLR dynamic mic included",
+    "Gaming mixer with faders",
+    "Mic also works over USB",
+    "Complete kit"
+   ],
+   "cons": [
+    "One mic only",
+    "Gaming styling"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQ3HKDMX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41h59zds3cL._SL500_.jpg"
+  },
+  {
+   "id": "B0DQ7C15FC",
+   "badge": "Best Value",
+   "name": "Kaschun 4 channel DJ audio mixer with 48 V phantom",
+   "price": "",
+   "specs": [
+    "4 channel",
+    "48 V",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "4"
+    },
+    {
+     "label": "Phantom",
+     "value": "48 V"
+    },
+    {
+     "label": "Inputs",
+     "value": "XLR and 6.35 mm"
+    },
+    {
+     "label": "Connection",
+     "value": "USB audio interface"
+    },
+    {
+     "label": "Extra",
+     "value": "Bluetooth and MP3"
+    }
+   ],
+   "description": "The Kaschun is a four channel mixer with XLR and 6.35 mm inputs, 48 V phantom power and a USB audio interface. It adds Bluetooth and MP3 playback. It is a more conventional mixer than the sound cards.\n\nFour channels allow two or three voices and a music source. It is bulky for a desktop. It is the plainest four channel mixer here.\n\nUse balanced cables and record a test. Keep the faders clean. Write down your gain and fader settings for the Kaschun 4 channel mixer once they sound right, so a reset or a new cable never costs you a session.",
+   "bestFor": "Small groups that want a conventional mixer",
+   "pros": [
+    "Four channels",
+    "XLR and 6.35 mm inputs",
+    "48 V phantom",
+    "Bluetooth and MP3"
+   ],
+   "cons": [
+    "Bulky desktop",
+    "Channel count is not mic count"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ7C15FC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51HZ3xAKnFL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Preamp gain for dynamic mics",
+   "explanation": "Broadcast dynamic mics are low output and want roughly 60 to 70 dB of clean gain. A weak preamp makes you turn the knob to the end, which adds hiss, or forces an inline booster. MAONO E2 Gen2B (dual XLR bundle for 2) and tenlamp G10 creator bundle (G10 creator bundle) sit at different points on that curve. Check the stated gain, and be wary of a listing that gives none."
+  },
+  {
+   "criterion": "USB loopback and routing",
+   "explanation": "Loopback lets you capture computer audio, such as a caller, music or game sound, alongside your mic without a feedback loop. Some mixers offer a full mix to USB, others give separate channels, and a few only a stereo pair. MAONO E2 Gen2B and tenlamp G10 creator bundle differ on this in the lineup. Choose the routing that matches how you edit: one mixed track is simple, separate tracks give room to fix mistakes."
+  },
+  {
+   "criterion": "Phantom power on every input",
+   "explanation": "Condenser mics need 48 V phantom power, and it travels only over XLR cables. Some budget boards put phantom on the first channel only, or supply a lower voltage than the standard, which leaves a condenser quiet and noisy. SquarockTek M100 for 4 and CryoSurf G10 mixer are the picks to read the phantom line for. Dynamic mics do not need phantom, and some older ribbons can be damaged by it."
+  },
+  {
+   "criterion": "Bundles and the microphone question",
+   "explanation": "Many mixers in this range are sold as bundles with a mic, a stand and cables. The bundled mic is usually a small condenser that picks up room noise, so a dynamic mic on an XLR input is the better upgrade. SquarockTek M100 for 4 and CryoSurf G10 mixer are the lineup examples of the bundle approach. Treat a bundle as a convenient start, not a final setup."
+  },
+  {
+   "criterion": "Mix minus and remote guests",
+   "explanation": "Mix minus sends a remote caller everything except their own voice, which stops the echo they would otherwise hear. Not every mixer has it, and some only fake it with a software route. If you take remote interviews, check this feature on SquarockTek M100 for 4 and CryoSurf G10 mixer before anything else. A mixer without it works for in person shows and solo streams."
+  },
+  {
+   "criterion": "Effects you will actually use",
+   "explanation": "Many live sound cards advertise voice changers, reverb and sound pads, which suit streamers but rarely help a podcast. A noise gate and a compressor are the effects that matter for speech. SquarockTek M100 for 4 and CryoSurf G10 mixer are the lineup examples to compare on extras. Do not pay for a long effects list you will switch off after the first week."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Sample rate and bit depth",
+   "meaning": "Most of these units record at 44.1 or 48 kHz and 16 or 24 bit, which is fine for speech. Higher numbers add file size, not clarity, for spoken word.",
+   "watchFor": "Note the stated rate for MAONO E2 Gen2B."
+  },
+  {
+   "spec": "Preamp gain in dB",
+   "meaning": "The amount of boost the mic preamp can apply. Low output dynamic mics want roughly 60 to 70 dB of clean gain.",
+   "watchFor": "See whether CryoSurf G10 mixer states its gain at all."
+  },
+  {
+   "spec": "Mix minus",
+   "meaning": "A feed that sends a remote caller everything except their own voice. It prevents echo on remote interviews.",
+   "watchFor": "Confirm that SquarockTek M100 for 4 offers it as a real output, not a software workaround."
+  },
+  {
+   "spec": "DSP effects",
+   "meaning": "Digital effects such as reverb, voice change and noise reduction built into the mixer. Useful ones for speech are the gate and the compressor.",
+   "watchFor": "Look at which effects SquarockTek M100 for 4 offers beyond the novelty ones."
+  },
+  {
+   "spec": "Bluetooth input",
+   "meaning": "A wireless input for taking phone calls or music, at lower quality than USB or analog. It is a convenience, not a recording path.",
+   "watchFor": "Check whether CryoSurf G10 mixer lets you mix a phone call into the stream."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Phantom power and gain",
+   "description": "We read the stated phantom power and preamp gain, flagging listings that gave none. We favoured units that state both. CryoSurf G10 mixer and tenlamp G10 creator bundle were the references for this comparison."
+  },
+  {
+   "title": "Controls and ergonomics",
+   "description": "We compared faders, knobs and any digital display, preferring controls you can reach without looking. MAONO E2 Gen2B and CryoSurf G10 mixer represent opposite approaches in the lineup."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We looked at what owners repeatedly report, not at any one summary figure. Repeated complaints about drivers, noise or build lowered a pick. This guide quotes no star figures or review totals, and no such number fed the ranking."
+  },
+  {
+   "title": "Real mic input count",
+   "description": "We counted XLR inputs separately from headline channel counts, since only XLR takes a proper microphone. We then compared that to how many voices a show needs. SquarockTek M100 for 4 at for four people and MAONO E2 Gen2B at dual XLR bundle for 2 were compared this way."
+  },
+  {
+   "title": "Noise and grounding",
+   "description": "We read owner patterns about hiss, hum and USB buzz and treated repeated complaints as a lowered score. No single noise number is quoted. tenlamp G10 creator bundle was the example for this check."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Show Format",
+   "intro": "Before reading the table, decide whether your show lives on a desk or on a computer. A mixer with faders suits live level riding, while a plain interface suits a set and forget recording. Also decide who talks at once, since that sets the input count. The rows below map common situations to the picks in this lineup, with SquarockTek M100 for 4 as one of the main reference points.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You host four people",
+      "SquarockTek M100 for 4",
+      "Four mics"
+     ],
+     [
+      "You host two and want mics included",
+      "MAONO E2 Gen2B",
+      "Two mics and interface"
+     ],
+     [
+      "You want plug and play",
+      "CryoSurf G10 mixer",
+      "Plug and play bundle"
+     ],
+     [
+      "You want a one box creator kit",
+      "tenlamp G10 creator bundle",
+      "Creator bundle"
+     ],
+     [
+      "You want a dynamic mic bundle",
+      "FIFINE gaming bundle",
+      "Dynamic mic and mixer"
+     ],
+     [
+      "You want a conventional small mixer",
+      "Kaschun 4 channel mixer",
+      "Four channels and phantom"
+     ]
+    ]
+   },
+   "note": "Remember that the microphone and the room usually matter more than the mixer, so leave budget for a pop filter, an arm and a few foam panels."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Every pick here is listed at or below the $500 cap, so the tiers below are relative to each other, not to the cap.",
+   "table": {
+    "headers": [
+     "Budget position",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Spending the least this lineup allows",
+      "Kaschun 4 channel mixer",
+      "Kaschun 4 channel mixer (4 channel, 48 V) costs the least in this lineup, so it suits a first show that needs the basics."
+     ],
+     [
+      "The middle of the lineup",
+      "CryoSurf G10 mixer",
+      "CryoSurf G10 mixer (G10 and 3.5 mm mic) sits mid lineup on cost, balancing inputs and extras."
+     ],
+     [
+      "The top of the lineup",
+      "SquarockTek M100 for 4",
+      "SquarockTek M100 for 4 (for four people) costs the most in this lineup, so it needs to earn that premium on inputs, routing or build."
+     ]
+    ]
+   },
+   "note": "Treat the budget tiers as relative: the cheapest pick suits a first show, and the top of the lineup suits a show that has already outgrown a basic box."
+  },
+  {
+   "subheading": "XLR Microphone Input vs 3.5 mm Bundle Mic",
+   "cards": [
+    {
+     "label": "XLR input and phantom power",
+     "text": "The group of SquarockTek M100 for 4, MAONO E2 Gen2B, FIFINE gaming bundle, and Kaschun 4 channel mixer offers an XLR input. It lets you use a real dynamic or condenser mic, which is the biggest quality step in the category. It suits hosts who plan to upgrade their mic."
+    },
+    {
+     "label": "3.5 mm or bundled mic",
+     "text": "The group of CryoSurf G10 mixer and tenlamp G10 creator bundle relies on a 3.5 mm input or a bundled mic. That is cheaper and simpler, but it limits mic choice and usually sounds thinner. It suits a first show or a phone based stream."
+    }
+   ],
+   "note": "Pick the XLR route if you care about voice quality and expect to add a guest. Pick the bundle route if you want the cheapest complete start."
+  },
+  {
+   "subheading": "By Mixer Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want mic, mixer and cables in one box",
+      "SquarockTek M100 for 4, MAONO E2 Gen2B, CryoSurf G10 mixer, tenlamp G10 creator bundle, and FIFINE gaming bundle",
+      "A bundle saves research and cables, but the included mic and stand are usually the weakest part, so plan to upgrade the mic first."
+     ],
+     [
+      "You want a classic analog desk with a USB stream out",
+      "Kaschun 4 channel mixer",
+      "An analog mixer gives direct, latency free monitoring and a simple signal path, at the cost of a bigger body and less automation."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Two Person Remote Shows Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for two real XLR inputs with phantom power, clean gain for a dynamic mic, USB loopback and, if you take remote callers, a mix minus route. A headphone output for each host is a bonus. Those features matter more than effects or lighting."
+    },
+    {
+     "label": "In this comparison",
+     "text": "SquarockTek M100 for 4 is the pick that best matches those points here, with for four people. MAONO E2 Gen2B and CryoSurf G10 mixer are the nearest alternatives if you want a different balance of inputs, controls and extras."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you record several people at once or take remote guests regularly. Stepping up to SquarockTek M100 for 4 (for four people) buys the inputs, routing or build that cheaper units lack."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you are a solo host starting out. Kaschun 4 channel mixer (4 channel, 48 V) covers the basics, and a small difference in features rarely justifies a larger premium."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Cover the mixer when not in use",
+   "interval": "After sessions",
+   "why": "Dust and spilled drinks are the main hazards on a desk. A simple cover protects the controls."
+  },
+  {
+   "task": "Clean the faders and knobs",
+   "interval": "Every few months",
+   "why": "Dust and skin oils make controls scratchy. A short burst of air and a dry cloth keep them smooth, and no liquid should be sprayed inside."
+  },
+  {
+   "task": "Use balanced XLR cables",
+   "interval": "When buying cables",
+   "why": "Balanced cables reject hum over a short run. A cheap unbalanced adapter is the usual source of noise."
+  },
+  {
+   "task": "Gain stage with a test recording",
+   "interval": "Each new setup",
+   "why": "Set gain so your loudest speech peaks well below the clip light, then record a short test. Doing it at the mixer beats boosting in software."
+  },
+  {
+   "task": "Check the USB cable and port",
+   "interval": "Each season",
+   "why": "A worn cable causes dropouts that sound like a fault in the mixer. Swap in a short, good cable before blaming the unit."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What is loopback and do I need it?",
+   "a": "Loopback sends computer audio back into your mix so you can record a caller, music or game sound with your voice. You need it for remote interviews and streaming, and not for a simple solo recording. Read how SquarockTek M100 for 4 handles it."
+  },
+  {
+   "q": "How many XLR inputs do I need?",
+   "a": "One for each person who speaks at the same time, plus extras only if you plan to grow. A solo host needs one, and a two person show needs two. Count the real XLR inputs on tenlamp G10 creator bundle, not the channel total."
+  },
+  {
+   "q": "Is a bundle mic good enough?",
+   "a": "Bundle mics are usually small condensers that pick up room noise, so a dynamic mic on XLR sounds cleaner in an untreated room. Use the bundle to start and upgrade the mic first. MAONO E2 Gen2B is a bundle style pick in this guide."
+  },
+  {
+   "q": "Can I use a mixer for streaming and podcasting?",
+   "a": "Yes, many units do both, with faders for game or chat and a USB mix for recording. The routing is the difference, so check loopback and separate tracks. CryoSurf G10 mixer is a lineup example that suits both uses."
+  },
+  {
+   "q": "What does mix minus do?",
+   "a": "It sends a remote caller everything except their own voice, which stops the echo that happens when their voice returns to them. Without it, a remote guest hears themselves a moment late. Check whether MAONO E2 Gen2B offers a real mix minus output."
+  },
+  {
+   "q": "Why does this guide stop at $500?",
+   "a": "The $500 cap is the search keyword shoppers use, and every pick here was listed at or below it when this guide was updated. Kaschun 4 channel mixer is the cheapest option in this lineup and SquarockTek M100 for 4 is the dearest, so the spread inside the cap is real. Prices move, so check the listing before you buy."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51VBzIBY9kL._SL500_.jpg"
+}

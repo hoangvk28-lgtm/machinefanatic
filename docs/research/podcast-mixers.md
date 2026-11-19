@@ -1,0 +1,18 @@
+# Podcast and streaming audio mixers (research notes)
+- Condenser mics need 48V phantom power, delivered only over XLR; some budget boards put phantom on only the first one or two channels, so check per channel.
+- Each host or guest needs their own XLR input; many cheap mixers have only 1 or 2 XLR inputs, which limits multi guest shows.
+- Dynamic mics such as an SM7B style mic are low output and want roughly 60 to 70 dB of clean preamp gain; weak preamps force an inline booster.
+- Mix-minus (a clean feed that sends a remote caller everything except their own voice) prevents echo on remote interviews; not every mixer has it.
+- USB loopback lets you capture computer audio (a caller, music, game sound) alongside your mic without a feedback loop; check which USB modes exist (full mix, loopback, separate channels).
+- A mixer with a USB audio interface appears to the computer as a sound card; class compliant devices need no driver on most systems.
+- Multitrack USB or SD recording gives each voice its own track for editing; a stereo only USB mix is fixed once recorded.
+- Analog mixers have no digital latency in the monitoring path; digital mixers add DSP (compression, EQ, gates) but have menus and a learning curve.
+- Channel count counts mono mic channels and stereo line channels differently; a "8 channel" mixer may have only 2 or 4 mic preamps.
+- Faders give tactile level control, which is the main reason to choose a mixer over a simple USB interface.
+- Headphone outputs: one per host is ideal; a single shared output forces a headphone amplifier.
+- Bluetooth input on a mixer is for taking phone calls or music, with lower quality than USB or analog.
+- Effects like reverb on a podcast mixer are rarely used; noise gates and compressors matter more.
+- Cheap USB mixers use small switch mode adapters that can add hiss or hum; ground loops are fixed with balanced cables.
+- Common mistakes: buying by channel count instead of XLR count, ignoring phantom on all channels, expecting mix-minus on every model, and running gain too low then boosting in software.
+- A pop filter and boom arm improve a recording more than a mixer upgrade does.
+- Plan 3 to 4 foot cable runs and balanced XLR cables to keep noise down.

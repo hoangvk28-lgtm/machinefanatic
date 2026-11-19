@@ -1,0 +1,23 @@
+# Mops / electric mops research
+- Two camps: spin or flat powered mops (lightweight, pad scrubs, no suction) and wet-dry vacuum floor washers (roller brush, suction, separate clean and dirty tanks).
+- Wet-dry floor washers weigh roughly 8 to 12 lb; powered spin mops about 5 to 8 lb; steam pocket mops under 5 lb.
+- Suction on floor washers is quoted 8,000 to 18,000 Pa; no common test standard, so brand numbers are not comparable. Motor type and roller design matter more.
+- Runtime typical 30 to 50 minutes on cordless floor washers; homes over about 1,200 sq ft want 35+ minutes or a large pack (4,000 mAh class).
+- Clean tank sizes: about 300 ml on spray spin mops, 600 to 900 ml on floor washers. Bigger tank means fewer refills but more weight.
+- Separate clean and dirty tanks keep dirty water from re-wetting the floor; single-tank spin mops carry dirt back with the pad.
+- Roller brushes: soft microfiber or nylon blend; they wipe, squeegee and lift. Scraper blades remove debris from the roller.
+- Self-cleaning cycles rinse the roller with clean water and then suction it out; some docks add hot-air drying. Undried rollers smell within days.
+- Lie-flat (about 180 degrees) designs reach under sofas and beds; ordinary upright floor washers do not.
+- Edge cleaning: exposed roller edge or side design lets the roller reach baseboards; center-mounted rollers leave a gap.
+- Hardwood: use low-moisture machines and wipe-dry fast; standing water on seams causes cupping. Laminate is even less tolerant; avoid soaking.
+- Tile and stone: tolerate water; grout lines need a roller with stiff fibers or a scrubbing pad. Natural stone needs pH-neutral cleaner, no vinegar.
+- Vinyl and LVP: safe with water-based cleaning, avoid hot steam on thin vinyl glue lines.
+- Steam mops heat water to roughly 200 F; a pad-based sanitizing option but not for unsealed wood or laminate.
+- Pet messes: dry debris and hair tangle rollers; look for tangle-resistant roller and a coarse filter; dried messes need a pre-soak.
+- Pads and rollers wear: replace rollers about every 6 to 12 months, filters every 3 to 6 months.
+- Use only manufacturer cleaner or plain water; wrong detergent foams and damages the pump and sensors.
+- Dirty-tank odors: empty and rinse after every session, leave the lid open to dry.
+- Manual mops: microfiber holds several times its weight in water and releases dirt when machine washed without fabric softener.
+- Self-wringing and spin buckets cut hand wringing; dust mops use static or treated microfiber for dry dirt only.
+- Battery care: do not store fully discharged for weeks; lithium cells lose capacity over 300 to 500 cycles.
+- Noise on floor washers is roughly 70 to 80 dB; the dirty tank filter and fan cause most of it.

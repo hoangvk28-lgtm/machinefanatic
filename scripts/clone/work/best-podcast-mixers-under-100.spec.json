@@ -1,0 +1,577 @@
+{
+ "guideSlug": "best-podcast-mixers-under-100",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "podcast mixers under $100",
+ "guideTitle": "Best Podcast Mixers Under $100 (2026)",
+ "metaTitle": "Best Podcast Mixers Under $100 (2026)",
+ "metaDescription": "Six podcast mixers and bundles listed at or below $100, from sound pad kits to a dynamic mic bundle, compared on inputs, mics and what the cap buys.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "12 min",
+ "expertTake": "The FIFINE bundle is the top pick because a dynamic XLR mic matters more than any effect at this cap. The Kaschun is the value pick for a conventional four channel mixer. Skip the voice changer kits if you want a clean podcast sound.",
+ "introParagraphs": [
+  "At this cap the extra money buys a better microphone, a more conventional mixer or a complete desk kit. It does not buy studio preamps.",
+  "This guide looks at what each pick spends the added budget on. We favour picks that include a dynamic XLR mic or real phantom power over those that add effects. Prices move, so the $100 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0CQ3HKDMX",
+   "badge": "Best Overall",
+   "name": "FIFINE gaming equipment bundle with XLR mic and mixer",
+   "price": "",
+   "specs": [
+    "XLR dynamic mic",
+    "Mixer",
+    "Bundle"
+   ],
+   "specList": [
+    {
+     "label": "Mic",
+     "value": "XLR dynamic"
+    },
+    {
+     "label": "Mixer",
+     "value": "Gaming audio mixer"
+    },
+    {
+     "label": "Use",
+     "value": "Gaming, streaming, podcast"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle"
+    },
+    {
+     "label": "Mic type",
+     "value": "USB and XLR"
+    }
+   ],
+   "description": "The FIFINE bundle pairs an XLR dynamic mic with a gaming audio mixer. The mic also has a USB output. It suits gaming, streaming and podcast recording.\n\nA dynamic mic rejects room noise better than a small condenser. The mixer is a solo host box. Its XLR dynamic mic beats the basic mics in the MAONO and OZMI kits.\n\nPlace the mic close and set gain with a test recording. Keep it dust free. Before the first episode, record a two minute test with the FIFINE gaming bundle at your normal speaking distance and listen for hiss, because gain set too low and boosted later is the most common cause of noisy audio.",
+   "bestFor": "Solo hosts who want a dynamic mic and mixer",
+   "pros": [
+    "XLR dynamic mic included",
+    "Gaming mixer with faders",
+    "Mic also works over USB",
+    "Complete kit"
+   ],
+   "cons": [
+    "One mic only",
+    "Gaming styling"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQ3HKDMX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41h59zds3cL._SL500_.jpg"
+  },
+  {
+   "id": "B08NPCY5P3",
+   "badge": "Best Sound Pad Kit",
+   "name": "MAONO podcast bundle with audio mixer and 3.5 mm mic",
+   "price": "",
+   "specs": [
+    "3.5 mm mic",
+    "Effects",
+    "Bundle"
+   ],
+   "specList": [
+    {
+     "label": "Mic",
+     "value": "3.5 mm"
+    },
+    {
+     "label": "Effects",
+     "value": "Four recordable, eight built in sound effects"
+    },
+    {
+     "label": "Form",
+     "value": "All in one mixer station"
+    },
+    {
+     "label": "Connection",
+     "value": "PC and phone"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming and podcast"
+    }
+   ],
+   "description": "The MAONO bundle is an all in one audio mixer station with a 3.5 mm mic. It offers four user recordable and eight built in sound effects. It works with PC and phones.\n\nIt is a streaming starter, with a mic that limits quality. Sound pads suit streamers. It adds recordable pads to a 3.5 mm mic mixer.\n\nUse a pop filter and test your levels. Keep it dust free. Treat the MAONO mixer bundle as a desk tool that wants a boom arm, a pop filter and a short balanced cable, since those cheap extras improve a recording more than any menu setting.",
+   "bestFor": "Streamers who want sound pads and a mic",
+   "pros": [
+    "PC and phone use",
+    "Recordable sound pads",
+    "All in one station",
+    "3.5 mm mic included"
+   ],
+   "cons": [
+    "Basic mic",
+    "Pads are a novelty for podcasts"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B08NPCY5P3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51GchBOqPuL._SL500_.jpg"
+  },
+  {
+   "id": "B0H6F6X8WG",
+   "badge": "Best Desk Kit",
+   "name": "OZMI podcast bundle with RGB mixer, mic, headphones and arm",
+   "price": "",
+   "specs": [
+    "RGB",
+    "Mic",
+    "Headphones"
+   ],
+   "specList": [
+    {
+     "label": "Mixer",
+     "value": "RGB audio mixer"
+    },
+    {
+     "label": "Mic",
+     "value": "Streaming mic"
+    },
+    {
+     "label": "Extras",
+     "value": "Headphones and boom arm"
+    },
+    {
+     "label": "Effects",
+     "value": "Voice changer"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast and streaming"
+    }
+   ],
+   "description": "The OZMI bundle combines an RGB audio mixer, a streaming mic, headphones and a boom arm. It lists a voice changer. The bundle gives you a complete desk setup in one box.\n\nA boom arm and headphones are what most starter kits leave out. The mic is a basic one. It adds headphones and a boom arm the FIFINE lacks.\n\nMount the arm and keep the mic close. Keep it dust free. If you plan to add a guest later, ask whether the OZMI RGB mixer bundle can grow with you, because a second voice is where input counts and monitoring start to matter.",
+   "bestFor": "Beginners who want a complete desk kit",
+   "pros": [
+    "Mixer, mic, headphones and arm",
+    "RGB lighting",
+    "Voice changer",
+    "Complete setup"
+   ],
+   "cons": [
+    "Bundled mic is basic",
+    "RGB is cosmetic"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0H6F6X8WG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51X6hP+Mk8L._SL500_.jpg"
+  },
+  {
+   "id": "B0HH8TQ6HD",
+   "badge": "Best Effects Mixer",
+   "name": "Ideanthro V200 podcast audio mixer with Bluetooth and effects",
+   "price": "",
+   "specs": [
+    "Bluetooth",
+    "Voice changer",
+    "Effects"
+   ],
+   "specList": [
+    {
+     "label": "Controls",
+     "value": "Independent monitor and mic controls"
+    },
+    {
+     "label": "Effects",
+     "value": "Autotune, voice changer"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Form",
+     "value": "All in one streaming mixer"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast and streaming"
+    }
+   ],
+   "description": "The Ideanthro V200 is an all in one streaming mixer with Bluetooth, a voice changer and autotune. It gives independent controls for monitor and mic. It leans on effects.\n\nAutotune and voice change suit entertainment streams more than serious podcasts. It is a cheap, flexible box. It leans on autotune and Bluetooth, more than the FIFINE.\n\nKeep the controls clean and test your levels. Keep a spare USB cable and the manual for the Ideanthro V200 mixer, as drivers and routing options are the usual cause of a session that will not start.",
+   "bestFor": "Entertainment streamers who want effects",
+   "pros": [
+    "Independent monitor and mic controls",
+    "Bluetooth input",
+    "Autotune and voice changer",
+    "Cheap"
+   ],
+   "cons": [
+    "Effects are mostly novelty",
+    "Basic mic input"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0HH8TQ6HD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51lj7wuUUdL._SL500_.jpg"
+  },
+  {
+   "id": "B0DD7JRWHP",
+   "badge": "Best Kit for Two",
+   "name": "Brvomussy podcast bundle for 2 with interface and condenser mics",
+   "price": "",
+   "specs": [
+    "For 2",
+    "2 condenser mics",
+    "Interface"
+   ],
+   "specList": [
+    {
+     "label": "Mics",
+     "value": "Two condenser mics"
+    },
+    {
+     "label": "Mixer",
+     "value": "Audio interface with voice changer"
+    },
+    {
+     "label": "Noise",
+     "value": "Intelligent noise reduction"
+    },
+    {
+     "label": "Pickup",
+     "value": "Cardioid"
+    },
+    {
+     "label": "Use",
+     "value": "Two person podcast"
+    }
+   ],
+   "description": "The Brvomussy is a bundle for two people with an audio interface, a voice changer and two condenser mics. It lists intelligent noise reduction and cardioid pickup. It is the cheapest way to start a two voice show.\n\nThe two mics are basic condensers, so room noise matters. The voice changer is a novelty. It includes two mics, where the others include one.\n\nPlace the mics close and use a quiet room. Keep the cables tidy. Look at where the Brvomussy bundle for 2 will sit on the desk, because knobs and faders that you cannot reach comfortably get ignored and levels drift during a long recording.",
+   "bestFor": "Two person shows on a tight budget",
+   "pros": [
+    "Two mics in one box",
+    "Noise reduction listed",
+    "Cardioid pickup",
+    "Complete starter set"
+   ],
+   "cons": [
+    "Mics are basic condensers",
+    "Voice changer is a novelty"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DD7JRWHP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51AN5OoWOoL._SL500_.jpg"
+  },
+  {
+   "id": "B0DQ7C15FC",
+   "badge": "Best Value",
+   "name": "Kaschun 4 channel DJ audio mixer with 48 V phantom",
+   "price": "",
+   "specs": [
+    "4 channel",
+    "48 V",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "4"
+    },
+    {
+     "label": "Phantom",
+     "value": "48 V"
+    },
+    {
+     "label": "Inputs",
+     "value": "XLR and 6.35 mm"
+    },
+    {
+     "label": "Connection",
+     "value": "USB audio interface"
+    },
+    {
+     "label": "Extra",
+     "value": "Bluetooth and MP3"
+    }
+   ],
+   "description": "The Kaschun is a four channel mixer with XLR and 6.35 mm inputs, 48 V phantom power and a USB audio interface. It adds Bluetooth and MP3 playback. It is a more conventional mixer than the sound cards.\n\nFour channels allow two or three voices and a music source. It is bulky for a desktop. It is a four channel mixer with phantom, plainer than the kits.\n\nUse balanced cables and record a test. Keep the faders clean. Write down your gain and fader settings for the Kaschun 4 channel mixer once they sound right, so a reset or a new cable never costs you a session.",
+   "bestFor": "Small groups that want a conventional mixer",
+   "pros": [
+    "Four channels",
+    "XLR and 6.35 mm inputs",
+    "48 V phantom",
+    "Bluetooth and MP3"
+   ],
+   "cons": [
+    "Bulky desktop",
+    "Channel count is not mic count"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ7C15FC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51HZ3xAKnFL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "USB loopback and routing",
+   "explanation": "Loopback lets you capture computer audio, such as a caller, music or game sound, alongside your mic without a feedback loop. Some mixers offer a full mix to USB, others give separate channels, and a few only a stereo pair. MAONO mixer bundle and Ideanthro V200 mixer differ on this in the lineup. Choose the routing that matches how you edit: one mixed track is simple, separate tracks give room to fix mistakes."
+  },
+  {
+   "criterion": "Bundles and the microphone question",
+   "explanation": "Many mixers in this range are sold as bundles with a mic, a stand and cables. The bundled mic is usually a small condenser that picks up room noise, so a dynamic mic on an XLR input is the better upgrade. FIFINE gaming bundle and OZMI RGB mixer bundle are the lineup examples of the bundle approach. Treat a bundle as a convenient start, not a final setup."
+  },
+  {
+   "criterion": "Headphone outputs and monitoring",
+   "explanation": "One headphone jack means one monitor, so a two host show needs an amplifier or a second output. Direct monitoring on an analog mixer has no delay, while monitoring through the computer can lag and make you talk oddly. MAONO mixer bundle (mixer and 3.5 mm mic) and Ideanthro V200 mixer (Bluetooth, autotune) are the picks to compare. Plan the monitoring chain before you buy."
+  },
+  {
+   "criterion": "Faders versus knobs",
+   "explanation": "Sliding faders give finer level control and a quick feel for the balance of voices, while rotary knobs are cheaper and take less room. A gaming or streaming mixer often has per source faders, while a basic sound card has knobs. FIFINE gaming bundle (XLR mic and mixer) and OZMI RGB mixer bundle (RGB mixer with mic and arm) show the two styles. If you ride levels during a live show, favour faders."
+  },
+  {
+   "criterion": "Preamp gain for dynamic mics",
+   "explanation": "Broadcast dynamic mics are low output and want roughly 60 to 70 dB of clean gain. A weak preamp makes you turn the knob to the end, which adds hiss, or forces an inline booster. MAONO mixer bundle (mixer and 3.5 mm mic) and Ideanthro V200 mixer (Bluetooth, autotune) sit at different points on that curve. Check the stated gain, and be wary of a listing that gives none."
+  },
+  {
+   "criterion": "Effects you will actually use",
+   "explanation": "Many live sound cards advertise voice changers, reverb and sound pads, which suit streamers but rarely help a podcast. A noise gate and a compressor are the effects that matter for speech. FIFINE gaming bundle and OZMI RGB mixer bundle are the lineup examples to compare on extras. Do not pay for a long effects list you will switch off after the first week."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Channel count",
+   "meaning": "The number of input strips, counting mono mic channels and stereo line channels differently. A larger number does not mean more microphones.",
+   "watchFor": "Count the XLR inputs on MAONO mixer bundle separately from the headline number."
+  },
+  {
+   "spec": "Bluetooth input",
+   "meaning": "A wireless input for taking phone calls or music, at lower quality than USB or analog. It is a convenience, not a recording path.",
+   "watchFor": "Check whether OZMI RGB mixer bundle lets you mix a phone call into the stream."
+  },
+  {
+   "spec": "Sample rate and bit depth",
+   "meaning": "Most of these units record at 44.1 or 48 kHz and 16 or 24 bit, which is fine for speech. Higher numbers add file size, not clarity, for spoken word.",
+   "watchFor": "Note the stated rate for MAONO mixer bundle."
+  },
+  {
+   "spec": "DSP effects",
+   "meaning": "Digital effects such as reverb, voice change and noise reduction built into the mixer. Useful ones for speech are the gate and the compressor.",
+   "watchFor": "Look at which effects FIFINE gaming bundle offers beyond the novelty ones."
+  },
+  {
+   "spec": "USB loopback",
+   "meaning": "A route that sends computer audio back into the mix without a feedback loop. It is how a caller, music or game audio reaches your recording.",
+   "watchFor": "Read how Ideanthro V200 mixer describes its USB modes."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Routing and loopback",
+   "description": "We looked at USB modes, loopback and any mix minus feature. A mixer that routes a remote guest cleanly earns more credit. FIFINE gaming bundle was set against the others on this point."
+  },
+  {
+   "title": "Controls and ergonomics",
+   "description": "We compared faders, knobs and any digital display, preferring controls you can reach without looking. MAONO mixer bundle and OZMI RGB mixer bundle represent opposite approaches in the lineup."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We read the pattern of owner comments rather than any single score. Repeated complaints about drivers, noise or build lowered a pick. No review count or rating is quoted here, and none was used as a ranking number."
+  },
+  {
+   "title": "Real mic input count",
+   "description": "We counted XLR inputs separately from headline channel counts, since only XLR takes a proper microphone. We then compared that to how many voices a show needs. FIFINE gaming bundle at XLR mic and mixer and MAONO mixer bundle at mixer and 3.5 mm mic were compared this way."
+  },
+  {
+   "title": "Value inside the lineup",
+   "description": "We ranked each mixer by what its inputs and features cost relative to the other picks. Kaschun 4 channel mixer is the cheapest option and FIFINE gaming bundle is the dearest, and we asked whether the premium buys a real upgrade."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Show Format",
+   "intro": "Before reading the table, decide whether your show lives on a desk or on a computer. A mixer with faders suits live level riding, while a plain interface suits a set and forget recording. Also decide who talks at once, since that sets the input count. The rows below map common situations to the picks in this lineup, with FIFINE gaming bundle as one of the main reference points.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want a dynamic mic bundle",
+      "FIFINE gaming bundle",
+      "Dynamic mic and mixer"
+     ],
+     [
+      "You want sound pads and a mic",
+      "MAONO mixer bundle",
+      "Sound pads and bundle"
+     ],
+     [
+      "You want a complete desk kit",
+      "OZMI RGB mixer bundle",
+      "Headphones and boom arm included"
+     ],
+     [
+      "You stream entertainment",
+      "Ideanthro V200 mixer",
+      "Effects and Bluetooth"
+     ],
+     [
+      "You host two people cheaply",
+      "Brvomussy bundle for 2",
+      "Two mics included"
+     ],
+     [
+      "You want a conventional small mixer",
+      "Kaschun 4 channel mixer",
+      "Four channels and phantom"
+     ]
+    ]
+   },
+   "note": "Whichever you choose, record a short test with your real microphone and your usual speaking distance before you commit to a full season of episodes."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Every pick here is listed at or below the $100 cap, so the tiers below are relative to each other, not to the cap.",
+   "table": {
+    "headers": [
+     "Budget position",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Spending the least this lineup allows",
+      "Kaschun 4 channel mixer",
+      "Kaschun 4 channel mixer (4 channel, 48 V) costs the least in this lineup, so it suits a first show that needs the basics."
+     ],
+     [
+      "The middle of the lineup",
+      "MAONO mixer bundle",
+      "MAONO mixer bundle (mixer and 3.5 mm mic) sits mid lineup on cost, balancing inputs and extras."
+     ],
+     [
+      "The top of the lineup",
+      "FIFINE gaming bundle",
+      "FIFINE gaming bundle (XLR mic and mixer) costs the most in this lineup, so it needs to earn that premium on inputs, routing or build."
+     ]
+    ]
+   },
+   "note": "A mid priced pick often gives the best balance, because the cheapest options trade away inputs and the dearest add features a small show may never use."
+  },
+  {
+   "subheading": "XLR Microphone Input vs 3.5 mm Bundle Mic",
+   "cards": [
+    {
+     "label": "XLR input and phantom power",
+     "text": "The group of FIFINE gaming bundle and Kaschun 4 channel mixer offers an XLR input. It lets you use a real dynamic or condenser mic, which is the biggest quality step in the category. It suits hosts who plan to upgrade their mic."
+    },
+    {
+     "label": "3.5 mm or bundled mic",
+     "text": "The group of MAONO mixer bundle, OZMI RGB mixer bundle, Ideanthro V200 mixer, and Brvomussy bundle for 2 relies on a 3.5 mm input or a bundled mic. That is cheaper and simpler, but it limits mic choice and usually sounds thinner. It suits a first show or a phone based stream."
+    }
+   ],
+   "note": "Pick the XLR route if you care about voice quality and expect to add a guest. Pick the bundle route if you want the cheapest complete start."
+  },
+  {
+   "subheading": "By Mixer Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want a cheap live sound card with effects for a solo show",
+      "Ideanthro V200 mixer",
+      "A live sound card is a small USB box with a 3.5 mm mic jack, effects and a few knobs, which is enough for one voice but not for a multi host table."
+     ],
+     [
+      "You want mic, mixer and cables in one box",
+      "FIFINE gaming bundle, MAONO mixer bundle, OZMI RGB mixer bundle, and Brvomussy bundle for 2",
+      "A bundle saves research and cables, but the included mic and stand are usually the weakest part, so plan to upgrade the mic first."
+     ],
+     [
+      "You want a classic analog desk with a USB stream out",
+      "Kaschun 4 channel mixer",
+      "An analog mixer gives direct, latency free monitoring and a simple signal path, at the cost of a bigger body and less automation."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Two Person Remote Shows Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for two real XLR inputs with phantom power, clean gain for a dynamic mic, USB loopback and, if you take remote callers, a mix minus route. A headphone output for each host is a bonus. Those features matter more than effects or lighting."
+    },
+    {
+     "label": "In this comparison",
+     "text": "FIFINE gaming bundle is the pick that best matches those points here, with XLR mic and mixer. MAONO mixer bundle and OZMI RGB mixer bundle are the nearest alternatives if you want a different balance of inputs, controls and extras."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you record several people at once or take remote guests regularly. Stepping up to FIFINE gaming bundle (XLR mic and mixer) buys the inputs, routing or build that cheaper units lack."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you are a solo host starting out. Kaschun 4 channel mixer (4 channel, 48 V) covers the basics, and a small difference in features rarely justifies a larger premium."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Use balanced XLR cables",
+   "interval": "When buying cables",
+   "why": "Balanced cables reject hum over a short run. A cheap unbalanced adapter is the usual source of noise."
+  },
+  {
+   "task": "Update drivers or firmware if offered",
+   "interval": "Twice a year",
+   "why": "Some mixers need a driver on certain systems and receive fixes from the maker. Check the support page before an important show."
+  },
+  {
+   "task": "Clean the faders and knobs",
+   "interval": "Every few months",
+   "why": "Dust and skin oils make controls scratchy. A short burst of air and a dry cloth keep them smooth, and no liquid should be sprayed inside."
+  },
+  {
+   "task": "Cover the mixer when not in use",
+   "interval": "After sessions",
+   "why": "Dust and spilled drinks are the main hazards on a desk. A simple cover protects the controls."
+  },
+  {
+   "task": "Gain stage with a test recording",
+   "interval": "Each new setup",
+   "why": "Set gain so your loudest speech peaks well below the clip light, then record a short test. Doing it at the mixer beats boosting in software."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does an XLR mic need phantom power?",
+   "a": "Condenser mics do, and dynamic mics do not. The mixer must supply 48 V on the input you use, which only some entry level units do on every channel. Check the listing for OZMI RGB mixer bundle before pairing a condenser."
+  },
+  {
+   "q": "What is loopback and do I need it?",
+   "a": "Loopback sends computer audio back into your mix so you can record a caller, music or game sound with your voice. You need it for remote interviews and streaming, and not for a simple solo recording. Read how FIFINE gaming bundle handles it."
+  },
+  {
+   "q": "What does mix minus do?",
+   "a": "It sends a remote caller everything except their own voice, which stops the echo that happens when their voice returns to them. Without it, a remote guest hears themselves a moment late. Check whether MAONO mixer bundle offers a real mix minus output."
+  },
+  {
+   "q": "Is a bundle mic good enough?",
+   "a": "Bundle mics are usually small condensers that pick up room noise, so a dynamic mic on XLR sounds cleaner in an untreated room. Use the bundle to start and upgrade the mic first. MAONO mixer bundle is a bundle style pick in this guide."
+  },
+  {
+   "q": "How many XLR inputs do I need?",
+   "a": "One for each person who speaks at the same time, plus extras only if you plan to grow. A solo host needs one, and a two person show needs two. Count the real XLR inputs on Ideanthro V200 mixer, not the channel total."
+  },
+  {
+   "q": "Why does this guide stop at $100?",
+   "a": "The $100 cap is the search keyword shoppers use, and every pick here was listed at or below it when this guide was updated. Kaschun 4 channel mixer is the cheapest option in this lineup and FIFINE gaming bundle is the dearest, so the spread inside the cap is real. Prices move, so check the listing before you buy."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41h59zds3cL._SL500_.jpg"
+}

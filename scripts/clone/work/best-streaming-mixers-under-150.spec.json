@@ -1,0 +1,577 @@
+{
+ "guideSlug": "best-streaming-mixers-under-150",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "streaming mixers under $150",
+ "guideTitle": "Best Streaming Mixers Under $150 (2026)",
+ "metaTitle": "Best Streaming Mixers Under $150 (2026)",
+ "metaDescription": "Six streaming mixers and kits listed at or below $150, from dual XLR interfaces to G9 and G10 bundles, compared on inputs, routing and extras.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "12 min",
+ "expertTake": "The MAONO E2 Gen2 is the top pick for dual XLR and loopback. The MAONO AME2 is the pick for a larger console. Skip the G9 and G10 bundles if you want a real XLR input.",
+ "introParagraphs": [
+  "The extra budget at this cap buys a second XLR input, loopback and larger consoles. It is the tier where a streamer can run a game, a mic and a guest.",
+  "This guide compares interfaces with plug and play bundles. We note where bundles are near twins of one another, and favour units that let you bring your own mic. Prices move, so the $150 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0DJ13Q47W",
+   "badge": "Best Overall",
+   "name": "MAONO E2 Gen2 podcast bundle audio interface mixer, dual XLR",
+   "price": "",
+   "specs": [
+    "Dual XLR",
+    "Loopback",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "Dual XLR combo"
+    },
+    {
+     "label": "Routing",
+     "value": "Loopback"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast, streaming, recording"
+    },
+    {
+     "label": "Form",
+     "value": "Interface mixer"
+    }
+   ],
+   "description": "The MAONO E2 Gen2 is an audio interface mixer with dual XLR combo inputs, loopback and Bluetooth. It is sold as an upgraded podcast equipment bundle. The two inputs suit a two person show.\n\nLoopback makes it usable for remote guests and streaming. It is the right size for a small desk. Its dual XLR and loopback beat the single input bundles.\n\nUse balanced cables and set gain with a test recording. Keep it dust free. Before the first episode, record a two minute test with the MAONO E2 Gen2 at your normal speaking distance and listen for hiss, because gain set too low and boosted later is the most common cause of noisy audio.",
+   "bestFor": "Two person shows that take remote guests",
+   "pros": [
+    "Dual XLR combo inputs",
+    "Loopback routing",
+    "Bluetooth input",
+    "Compact"
+   ],
+   "cons": [
+    "Fewer faders than a full mixer",
+    "Bundle mics are basic"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DJ13Q47W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51BTiZvf8PL._SL500_.jpg"
+  },
+  {
+   "id": "B0B1DJP9KW",
+   "badge": "Best Larger Console",
+   "name": "MAONO AME2 audio interface mixer with XLR, 48 V and Bluetooth",
+   "price": "",
+   "specs": [
+    "10 channel",
+    "48 V",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "10"
+    },
+    {
+     "label": "Phantom",
+     "value": "48 V"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Sounds",
+     "value": "11 custom sound effects"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast studio console"
+    }
+   ],
+   "description": "The MAONO AME2 is a 10 channel podcast mixer with XLR input, 48 V phantom power and Bluetooth. It offers 11 custom sound effects. It is a studio console in miniature.\n\nTen channels give room to grow. The listing counts line channels in that number. Its 10 channels exceed the G3's four faders.\n\nUse balanced cables and test levels. Treat the MAONO AME2 as a desk tool that wants a boom arm, a pop filter and a short balanced cable, since those cheap extras improve a recording more than any menu setting.",
+   "bestFor": "Podcasters who want room to grow",
+   "pros": [
+    "10 channels",
+    "48 V phantom",
+    "Bluetooth",
+    "Sound effects"
+   ],
+   "cons": [
+    "Real mic count is lower than ten",
+    "Large for a small desk"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0B1DJP9KW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51g27oMsnpL._SL500_.jpg"
+  },
+  {
+   "id": "B0GSQVBFXP",
+   "badge": "Best Per Source Faders",
+   "name": "MAONO G3 gaming audio mixer with 4 faders and 3 submixes",
+   "price": "",
+   "specs": [
+    "4 faders",
+    "3 submixes",
+    "Dual PC"
+   ],
+   "specList": [
+    {
+     "label": "Faders",
+     "value": "4"
+    },
+    {
+     "label": "Submixes",
+     "value": "3"
+    },
+    {
+     "label": "Routing",
+     "value": "Map any source"
+    },
+    {
+     "label": "Connection",
+     "value": "Dual PC"
+    },
+    {
+     "label": "Use",
+     "value": "PC streaming control"
+    }
+   ],
+   "description": "The MAONO G3 is a desktop mixer and XLR interface with four faders and three submixes. It maps any audio source to a fader. It supports dual PC streaming.\n\nPer source faders suit game, chat and music. It is aimed at Windows PC streamers. Its four faders map any source, unlike the AME2.\n\nInstall the software and set routing first. Keep it clean. If you plan to add a guest later, ask whether the MAONO G3 mixer can grow with you, because a second voice is where input counts and monitoring start to matter.",
+   "bestFor": "PC streamers who want per source faders",
+   "pros": [
+    "Four faders",
+    "Three submixes",
+    "Maps any source",
+    "Dual PC support"
+   ],
+   "cons": [
+    "Windows focused",
+    "Learning curve for routing"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GSQVBFXP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41QPVRLcByL._SL500_.jpg"
+  },
+  {
+   "id": "B0FHJTRJSF",
+   "badge": "Best Plug and Play",
+   "name": "CryoSurf G10 podcast bundle with audio mixer and mic",
+   "price": "",
+   "specs": [
+    "G10",
+    "3.5 mm mic",
+    "Bundle"
+   ],
+   "specList": [
+    {
+     "label": "Mixer",
+     "value": "G10 sound card"
+    },
+    {
+     "label": "Mic",
+     "value": "3.5 mm condenser"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle"
+    },
+    {
+     "label": "Noise",
+     "value": "Noise reduction"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming and recording"
+    }
+   ],
+   "description": "The CryoSurf G10 bundle pairs a G10 mixer with a 3.5 mm condenser mic. It lists noise reduction and live sound card features. It is a plug and play starter kit.\n\nIt shares its design with other G10 bundles. The mic is a basic one. It is a G10 kit with a 3.5 mm mic.\n\nUse a pop filter and test your levels. Keep a spare USB cable and the manual for the CryoSurf G10 mixer, as drivers and routing options are the usual cause of a session that will not start.",
+   "bestFor": "Beginners who want a plug and play kit",
+   "pros": [
+    "Plug and play",
+    "Noise reduction",
+    "Mic included",
+    "Simple"
+   ],
+   "cons": [
+    "Basic mic",
+    "Many near twin G10 listings"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FHJTRJSF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51mnVRCjX4L._SL500_.jpg"
+  },
+  {
+   "id": "B0G12T5KRN",
+   "badge": "Best Karaoke Kit",
+   "name": "tenlamp G9 audio mixer bundle with microphone for streaming",
+   "price": "",
+   "specs": [
+    "G9",
+    "3.5 mm mic",
+    "Karaoke"
+   ],
+   "specList": [
+    {
+     "label": "Mixer",
+     "value": "G9"
+    },
+    {
+     "label": "Mic",
+     "value": "3.5 mm condenser"
+    },
+    {
+     "label": "Noise",
+     "value": "Noise reduction"
+    },
+    {
+     "label": "Effects",
+     "value": "Voice effects"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming, karaoke"
+    }
+   ],
+   "description": "The tenlamp G9 bundle includes a mixer and a 3.5 mm condenser mic with noise reduction. It lists voice effects and karaoke use. It targets creators.\n\nIt overlaps with the G10 line. The mic is basic. It adds karaoke use to the G10 style.\n\nTest your levels and use a pop filter. Look at where the tenlamp G9 bundle will sit on the desk, because knobs and faders that you cannot reach comfortably get ignored and levels drift during a long recording.",
+   "bestFor": "Creators who also sing",
+   "pros": [
+    "Mic included",
+    "Noise reduction",
+    "Karaoke use",
+    "Plug and play"
+   ],
+   "cons": [
+    "Basic mic",
+    "Near twin listings"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0G12T5KRN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51mvoO8a73L._SL500_.jpg"
+  },
+  {
+   "id": "B0H6F6X8WG",
+   "badge": "Best Desk Kit",
+   "name": "OZMI podcast bundle with RGB mixer, mic, headphones and arm",
+   "price": "",
+   "specs": [
+    "RGB",
+    "Mic",
+    "Headphones"
+   ],
+   "specList": [
+    {
+     "label": "Mixer",
+     "value": "RGB audio mixer"
+    },
+    {
+     "label": "Mic",
+     "value": "Streaming mic"
+    },
+    {
+     "label": "Extras",
+     "value": "Headphones and boom arm"
+    },
+    {
+     "label": "Effects",
+     "value": "Voice changer"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast and streaming"
+    }
+   ],
+   "description": "The OZMI bundle combines an RGB audio mixer, a streaming mic, headphones and a boom arm. It lists a voice changer. The bundle gives you a complete desk setup in one box.\n\nA boom arm and headphones are what most starter kits leave out. The mic is a basic one. It adds headphones and a boom arm.\n\nMount the arm and keep the mic close. Keep it dust free. Write down your gain and fader settings for the OZMI RGB mixer bundle once they sound right, so a reset or a new cable never costs you a session.",
+   "bestFor": "Beginners who want a complete desk kit",
+   "pros": [
+    "Mixer, mic, headphones and arm",
+    "RGB lighting",
+    "Voice changer",
+    "Complete setup"
+   ],
+   "cons": [
+    "Bundled mic is basic",
+    "RGB is cosmetic"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0H6F6X8WG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51X6hP+Mk8L._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Preamp gain for dynamic mics",
+   "explanation": "Broadcast dynamic mics are low output and want roughly 60 to 70 dB of clean gain. A weak preamp makes you turn the knob to the end, which adds hiss, or forces an inline booster. MAONO AME2 (10 channel, 48 V) and CryoSurf G10 mixer (G10 and 3.5 mm mic) sit at different points on that curve. Check the stated gain, and be wary of a listing that gives none."
+  },
+  {
+   "criterion": "Mix minus and remote guests",
+   "explanation": "Mix minus sends a remote caller everything except their own voice, which stops the echo they would otherwise hear. Not every mixer has it, and some only fake it with a software route. If you take remote interviews, check this feature on MAONO E2 Gen2 and MAONO G3 mixer before anything else. A mixer without it works for in person shows and solo streams."
+  },
+  {
+   "criterion": "Phantom power on every input",
+   "explanation": "Condenser mics need 48 V phantom power, and it travels only over XLR cables. Some budget boards put phantom on the first channel only, or supply a lower voltage than the standard, which leaves a condenser quiet and noisy. MAONO E2 Gen2 and MAONO G3 mixer are the picks to read the phantom line for. Dynamic mics do not need phantom, and some older ribbons can be damaged by it."
+  },
+  {
+   "criterion": "Effects you will actually use",
+   "explanation": "Many live sound cards advertise voice changers, reverb and sound pads, which suit streamers but rarely help a podcast. A noise gate and a compressor are the effects that matter for speech. MAONO E2 Gen2 and MAONO G3 mixer are the lineup examples to compare on extras. Do not pay for a long effects list you will switch off after the first week."
+  },
+  {
+   "criterion": "Faders versus knobs",
+   "explanation": "Sliding faders give finer level control and a quick feel for the balance of voices, while rotary knobs are cheaper and take less room. A gaming or streaming mixer often has per source faders, while a basic sound card has knobs. MAONO E2 Gen2 (dual XLR, loopback) and MAONO G3 mixer (4 faders, 3 submixes) show the two styles. If you ride levels during a live show, favour faders."
+  },
+  {
+   "criterion": "Headphone outputs and monitoring",
+   "explanation": "One headphone jack means one monitor, so a two host show needs an amplifier or a second output. Direct monitoring on an analog mixer has no delay, while monitoring through the computer can lag and make you talk oddly. MAONO AME2 (10 channel, 48 V) and CryoSurf G10 mixer (G10 and 3.5 mm mic) are the picks to compare. Plan the monitoring chain before you buy."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Channel count",
+   "meaning": "The number of input strips, counting mono mic channels and stereo line channels differently. A larger number does not mean more microphones.",
+   "watchFor": "Count the XLR inputs on MAONO AME2 separately from the headline number."
+  },
+  {
+   "spec": "Bluetooth input",
+   "meaning": "A wireless input for taking phone calls or music, at lower quality than USB or analog. It is a convenience, not a recording path.",
+   "watchFor": "Check whether MAONO G3 mixer lets you mix a phone call into the stream."
+  },
+  {
+   "spec": "USB loopback",
+   "meaning": "A route that sends computer audio back into the mix without a feedback loop. It is how a caller, music or game audio reaches your recording.",
+   "watchFor": "Read how CryoSurf G10 mixer describes its USB modes."
+  },
+  {
+   "spec": "DSP effects",
+   "meaning": "Digital effects such as reverb, voice change and noise reduction built into the mixer. Useful ones for speech are the gate and the compressor.",
+   "watchFor": "Look at which effects MAONO E2 Gen2 offers beyond the novelty ones."
+  },
+  {
+   "spec": "Mix minus",
+   "meaning": "A feed that sends a remote caller everything except their own voice. It prevents echo on remote interviews.",
+   "watchFor": "Confirm that MAONO E2 Gen2 offers it as a real output, not a software workaround."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Phantom power and gain",
+   "description": "We read the stated phantom power and preamp gain, flagging listings that gave none. We favoured units that state both. MAONO G3 mixer and CryoSurf G10 mixer were the references for this comparison."
+  },
+  {
+   "title": "Controls and ergonomics",
+   "description": "We compared faders, knobs and any digital display, preferring controls you can reach without looking. MAONO AME2 and MAONO G3 mixer represent opposite approaches in the lineup."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "Recurring themes in owner feedback mattered to us, not a single headline number. Repeated complaints about drivers, noise or build lowered a pick. Ratings and review tallies are deliberately absent, and they played no part in the order here."
+  },
+  {
+   "title": "Value inside the lineup",
+   "description": "We ranked each mixer by what its inputs and features cost relative to the other picks. MAONO G3 mixer is the cheapest option and CryoSurf G10 mixer is the dearest, and we asked whether the premium buys a real upgrade."
+  },
+  {
+   "title": "Routing and loopback",
+   "description": "We looked at USB modes, loopback and any mix minus feature. A mixer that routes a remote guest cleanly earns more credit. MAONO E2 Gen2 was set against the others on this point."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Show Format",
+   "intro": "Before reading the table, decide whether your show lives on a desk or on a computer. A mixer with faders suits live level riding, while a plain interface suits a set and forget recording. Also decide who talks at once, since that sets the input count. The rows below map common situations to the picks in this lineup, with MAONO E2 Gen2 as one of the main reference points.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You host two with a remote guest",
+      "MAONO E2 Gen2",
+      "Two XLR and loopback"
+     ],
+     [
+      "You want a larger console",
+      "MAONO AME2",
+      "10 channels and phantom"
+     ],
+     [
+      "You stream from a PC",
+      "MAONO G3 mixer",
+      "Faders and submixes"
+     ],
+     [
+      "You want plug and play",
+      "CryoSurf G10 mixer",
+      "Plug and play bundle"
+     ],
+     [
+      "You stream and sing",
+      "tenlamp G9 bundle",
+      "Mic and effects"
+     ],
+     [
+      "You want a complete desk kit",
+      "OZMI RGB mixer bundle",
+      "Headphones and boom arm included"
+     ]
+    ]
+   },
+   "note": "Remember that the microphone and the room usually matter more than the mixer, so leave budget for a pop filter, an arm and a few foam panels."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Every pick here is listed at or below the $150 cap, so the tiers below are relative to each other, not to the cap.",
+   "table": {
+    "headers": [
+     "Budget position",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Spending the least this lineup allows",
+      "MAONO G3 mixer",
+      "MAONO G3 mixer (4 faders, 3 submixes) costs the least in this lineup, so it suits a first show that needs the basics."
+     ],
+     [
+      "The middle of the lineup",
+      "MAONO E2 Gen2",
+      "MAONO E2 Gen2 (dual XLR, loopback) sits mid lineup on cost, balancing inputs and extras."
+     ],
+     [
+      "The top of the lineup",
+      "CryoSurf G10 mixer",
+      "CryoSurf G10 mixer (G10 and 3.5 mm mic) costs the most in this lineup, so it needs to earn that premium on inputs, routing or build."
+     ]
+    ]
+   },
+   "note": "A mid priced pick often gives the best balance, because the cheapest options trade away inputs and the dearest add features a small show may never use."
+  },
+  {
+   "subheading": "XLR Microphone Input vs 3.5 mm Bundle Mic",
+   "cards": [
+    {
+     "label": "XLR input and phantom power",
+     "text": "The group of MAONO E2 Gen2, MAONO AME2, and MAONO G3 mixer offers an XLR input. It lets you use a real dynamic or condenser mic, which is the biggest quality step in the category. It suits hosts who plan to upgrade their mic."
+    },
+    {
+     "label": "3.5 mm or bundled mic",
+     "text": "The group of CryoSurf G10 mixer, tenlamp G9 bundle, and OZMI RGB mixer bundle relies on a 3.5 mm input or a bundled mic. That is cheaper and simpler, but it limits mic choice and usually sounds thinner. It suits a first show or a phone based stream."
+    }
+   ],
+   "note": "Pick the XLR route if you care about voice quality and expect to add a guest. Pick the bundle route if you want the cheapest complete start."
+  },
+  {
+   "subheading": "By Mixer Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want mic, mixer and cables in one box",
+      "CryoSurf G10 mixer, tenlamp G9 bundle, and OZMI RGB mixer bundle",
+      "A bundle saves research and cables, but the included mic and stand are usually the weakest part, so plan to upgrade the mic first."
+     ],
+     [
+      "You have an XLR mic and want phantom power and faders",
+      "MAONO E2 Gen2 and MAONO AME2",
+      "An XLR capable mixer lets you use a real dynamic or condenser mic, which is the single biggest quality step in this category."
+     ],
+     [
+      "You stream and want routing and faders for each source",
+      "MAONO G3 mixer",
+      "A broadcast mixer with software routing gives per source faders for game, chat and music, at the cost of a driver and a learning curve."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Two Person Remote Shows Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for two real XLR inputs with phantom power, clean gain for a dynamic mic, USB loopback and, if you take remote callers, a mix minus route. A headphone output for each host is a bonus. Those features matter more than effects or lighting."
+    },
+    {
+     "label": "In this comparison",
+     "text": "MAONO E2 Gen2 is the pick that best matches those points here, with dual XLR, loopback. MAONO AME2 and MAONO G3 mixer are the nearest alternatives if you want a different balance of inputs, controls and extras."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you record several people at once or take remote guests regularly. Stepping up to CryoSurf G10 mixer (G10 and 3.5 mm mic) buys the inputs, routing or build that cheaper units lack."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you are a solo host starting out. MAONO G3 mixer (4 faders, 3 submixes) covers the basics, and a small difference in features rarely justifies a larger premium."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Cover the mixer when not in use",
+   "interval": "After sessions",
+   "why": "Dust and spilled drinks are the main hazards on a desk. A simple cover protects the controls."
+  },
+  {
+   "task": "Clean the faders and knobs",
+   "interval": "Every few months",
+   "why": "Dust and skin oils make controls scratchy. A short burst of air and a dry cloth keep them smooth, and no liquid should be sprayed inside."
+  },
+  {
+   "task": "Update drivers or firmware if offered",
+   "interval": "Twice a year",
+   "why": "Some mixers need a driver on certain systems and receive fixes from the maker. Check the support page before an important show."
+  },
+  {
+   "task": "Gain stage with a test recording",
+   "interval": "Each new setup",
+   "why": "Set gain so your loudest speech peaks well below the clip light, then record a short test. Doing it at the mixer beats boosting in software."
+  },
+  {
+   "task": "Use balanced XLR cables",
+   "interval": "When buying cables",
+   "why": "Balanced cables reject hum over a short run. A cheap unbalanced adapter is the usual source of noise."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Why do I hear hiss from my mixer?",
+   "a": "Hiss usually comes from too little gain at the mixer and too much in software, or from a noisy power adapter. Turn the gain up at the preamp, keep levels sensible and use balanced cables. A weak preamp, such as the one on a very cheap card, makes it worse."
+  },
+  {
+   "q": "How many XLR inputs do I need?",
+   "a": "One for each person who speaks at the same time, plus extras only if you plan to grow. A solo host needs one, and a two person show needs two. Count the real XLR inputs on CryoSurf G10 mixer, not the channel total."
+  },
+  {
+   "q": "Does an XLR mic need phantom power?",
+   "a": "Condenser mics do, and dynamic mics do not. The mixer must supply 48 V on the input you use, which only some entry level units do on every channel. Check the listing for MAONO G3 mixer before pairing a condenser."
+  },
+  {
+   "q": "Is a bundle mic good enough?",
+   "a": "Bundle mics are usually small condensers that pick up room noise, so a dynamic mic on XLR sounds cleaner in an untreated room. Use the bundle to start and upgrade the mic first. MAONO AME2 is a bundle style pick in this guide."
+  },
+  {
+   "q": "Can I use a mixer for streaming and podcasting?",
+   "a": "Yes, many units do both, with faders for game or chat and a USB mix for recording. The routing is the difference, so check loopback and separate tracks. MAONO G3 mixer is a lineup example that suits both uses."
+  },
+  {
+   "q": "Why does this guide stop at $150?",
+   "a": "The $150 cap is the search keyword shoppers use, and every pick here was listed at or below it when this guide was updated. MAONO G3 mixer is the cheapest option in this lineup and CryoSurf G10 mixer is the dearest, so the spread inside the cap is real. Prices move, so check the listing before you buy."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51BTiZvf8PL._SL500_.jpg"
+}

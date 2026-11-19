@@ -1,0 +1,582 @@
+{
+ "guideSlug": "best-streaming-mixers-under-100",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "streaming mixers under $100",
+ "guideTitle": "Best Streaming Mixers Under $100 (2026)",
+ "metaTitle": "Best Streaming Mixers Under $100 (2026)",
+ "metaDescription": "Six streaming mixers listed at or below $100, from an analog desk to faders per source, compared on inputs, routing and what the cap buys.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "12 min",
+ "expertTake": "The Behringer 802S is the top pick for an analog desk with a USB stream out. The MAONO G3 is the pick for per source faders on a PC. Skip the Pyle if you want a streaming focused interface.",
+ "introParagraphs": [
+  "At this cap you can buy either an analog desk or a streaming mixer with software routing. The choice depends on whether you want hands on faders or per source control.",
+  "This guide compares both styles. An analog desk gives direct monitoring and simple wiring, while a streaming mixer maps game, chat and music to separate faders. Prices move, so the $100 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0C2BTT3DX",
+   "badge": "Best Overall",
+   "name": "Behringer XENYX 802S analog 8 input mixer with USB streaming",
+   "price": "",
+   "specs": [
+    "8 input",
+    "Analog",
+    "USB"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "8"
+    },
+    {
+     "label": "Form",
+     "value": "Analog mixer"
+    },
+    {
+     "label": "USB",
+     "value": "Streaming interface"
+    },
+    {
+     "label": "Routing",
+     "value": "PC and game audio mixed"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming, podcast, recording"
+    }
+   ],
+   "description": "The Behringer XENYX 802S is an analog eight input mixer with a USB streaming interface. It mixes PC and gaming sound directly into the output. It uses ultra low noise analog circuitry.\n\nAn analog desk gives direct, latency free monitoring. It is simple and sturdy. Its analog path and USB output are simpler than the G3's software.\n\nKeep the faders clean and use balanced cables. Before the first episode, record a two minute test with the Behringer 802S at your normal speaking distance and listen for hiss, because gain set too low and boosted later is the most common cause of noisy audio.",
+   "bestFor": "Podcasters and streamers who want an analog desk",
+   "pros": [
+    "Analog signal path",
+    "USB streaming interface",
+    "Eight inputs",
+    "Low noise design"
+   ],
+   "cons": [
+    "Larger than a sound card",
+    "Analog has no built in effects"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0C2BTT3DX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51FzRhDebOL._SL500_.jpg"
+  },
+  {
+   "id": "B0GSQVBFXP",
+   "badge": "Best Per Source Faders",
+   "name": "MAONO G3 gaming audio mixer with 4 faders and 3 submixes",
+   "price": "",
+   "specs": [
+    "4 faders",
+    "3 submixes",
+    "Dual PC"
+   ],
+   "specList": [
+    {
+     "label": "Faders",
+     "value": "4"
+    },
+    {
+     "label": "Submixes",
+     "value": "3"
+    },
+    {
+     "label": "Routing",
+     "value": "Map any source"
+    },
+    {
+     "label": "Connection",
+     "value": "Dual PC"
+    },
+    {
+     "label": "Use",
+     "value": "PC streaming control"
+    }
+   ],
+   "description": "The MAONO G3 is a desktop mixer and XLR interface with four faders and three submixes. It maps any audio source to a fader. It supports dual PC streaming.\n\nPer source faders suit game, chat and music. It is aimed at Windows PC streamers. Its four faders map any source, unlike the Behringer.\n\nInstall the software and set routing first. Keep it clean. Treat the MAONO G3 mixer as a desk tool that wants a boom arm, a pop filter and a short balanced cable, since those cheap extras improve a recording more than any menu setting.",
+   "bestFor": "PC streamers who want per source faders",
+   "pros": [
+    "Four faders",
+    "Three submixes",
+    "Maps any source",
+    "Dual PC support"
+   ],
+   "cons": [
+    "Windows focused",
+    "Learning curve for routing"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GSQVBFXP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41QPVRLcByL._SL500_.jpg"
+  },
+  {
+   "id": "B0B1DJP9KW",
+   "badge": "Best Larger Console",
+   "name": "MAONO AME2 audio interface mixer with XLR, 48 V and Bluetooth",
+   "price": "",
+   "specs": [
+    "10 channel",
+    "48 V",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "10"
+    },
+    {
+     "label": "Phantom",
+     "value": "48 V"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Sounds",
+     "value": "11 custom sound effects"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast studio console"
+    }
+   ],
+   "description": "The MAONO AME2 is a 10 channel podcast mixer with XLR input, 48 V phantom power and Bluetooth. It offers 11 custom sound effects. It is a studio console in miniature.\n\nTen channels give room to grow. The listing counts line channels in that number. It has ten channels and 48 V, more than the Aveek.\n\nUse balanced cables and test levels. If you plan to add a guest later, ask whether the MAONO AME2 can grow with you, because a second voice is where input counts and monitoring start to matter.",
+   "bestFor": "Podcasters who want room to grow",
+   "pros": [
+    "10 channels",
+    "48 V phantom",
+    "Bluetooth",
+    "Sound effects"
+   ],
+   "cons": [
+    "Real mic count is lower than ten",
+    "Large for a small desk"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0B1DJP9KW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51g27oMsnpL._SL500_.jpg"
+  },
+  {
+   "id": "B0BZYHBJPJ",
+   "badge": "Best Three XLR",
+   "name": "Aveek 5 channel audio mixer with 3 XLR inputs and 48 V",
+   "price": "",
+   "specs": [
+    "5 channel",
+    "3 XLR",
+    "48 V"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "5"
+    },
+    {
+     "label": "Mic inputs",
+     "value": "3 XLR"
+    },
+    {
+     "label": "Phantom",
+     "value": "48 V"
+    },
+    {
+     "label": "Connection",
+     "value": "Recording interface, Bluetooth, USB"
+    },
+    {
+     "label": "Use",
+     "value": "Multi device"
+    }
+   ],
+   "description": "The Aveek is a five channel mixer with three XLR line inputs, 48 V phantom power and a built in PC recording interface. It adds Bluetooth and USB playback. It is a mini mixing console.\n\nThree XLR inputs is a rare figure at this price. It is the right choice for a small panel. It has three XLR inputs, rare at this cap.\n\nUse balanced cables and test levels. Keep a spare USB cable and the manual for the Aveek 5 channel mixer, as drivers and routing options are the usual cause of a session that will not start.",
+   "bestFor": "Three person shows",
+   "pros": [
+    "Three XLR inputs",
+    "48 V phantom",
+    "PC recording interface",
+    "Bluetooth and USB playback"
+   ],
+   "cons": [
+    "Cheap preamps",
+    "Small controls"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0BZYHBJPJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51pbrcLgRsL._SL500_.jpg"
+  },
+  {
+   "id": "B07Y8L4CK8",
+   "badge": "Best Value",
+   "name": "Pyle 4 channel digital USB Bluetooth MP3 audio mixer",
+   "price": "",
+   "specs": [
+    "4 channel",
+    "USB",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "4"
+    },
+    {
+     "label": "Connection",
+     "value": "USB, flash reader, Bluetooth"
+    },
+    {
+     "label": "Playback",
+     "value": "MP3"
+    },
+    {
+     "label": "Form",
+     "value": "Mixer console"
+    },
+    {
+     "label": "Use",
+     "value": "Computer input"
+    }
+   ],
+   "description": "The Pyle is a four channel mixer with USB, a flash reader and Bluetooth music streaming. It plays MP3 files. It targets general audio use.\n\nIt is a general purpose mixer more than a podcast tool. It is simple and cheap. It is a plain four channel mixer with Bluetooth.\n\nKeep controls clean and test levels. Look at where the Pyle 4 channel mixer will sit on the desk, because knobs and faders that you cannot reach comfortably get ignored and levels drift during a long recording.",
+   "bestFor": "General audio users who want Bluetooth playback",
+   "pros": [
+    "Four channels",
+    "Bluetooth streaming",
+    "USB and flash playback",
+    "Cheap"
+   ],
+   "cons": [
+    "General purpose, not podcast focused",
+    "Basic mic preamp"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B07Y8L4CK8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41bX9-Z1m1L._SL500_.jpg"
+  },
+  {
+   "id": "B0CQ3HKDMX",
+   "badge": "Best Mic Bundle",
+   "name": "FIFINE gaming equipment bundle with XLR mic and mixer",
+   "price": "",
+   "specs": [
+    "XLR dynamic mic",
+    "Mixer",
+    "Bundle"
+   ],
+   "specList": [
+    {
+     "label": "Mic",
+     "value": "XLR dynamic"
+    },
+    {
+     "label": "Mixer",
+     "value": "Gaming audio mixer"
+    },
+    {
+     "label": "Use",
+     "value": "Gaming, streaming, podcast"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle"
+    },
+    {
+     "label": "Mic type",
+     "value": "USB and XLR"
+    }
+   ],
+   "description": "The FIFINE bundle pairs an XLR dynamic mic with a gaming audio mixer. The mic also has a USB output. It suits gaming, streaming and podcast recording.\n\nA dynamic mic rejects room noise better than a small condenser. The mixer is a solo host box. It includes an XLR dynamic mic, unlike the mixers alone.\n\nPlace the mic close and set gain with a test recording. Keep it dust free. Write down your gain and fader settings for the FIFINE gaming bundle once they sound right, so a reset or a new cable never costs you a session.",
+   "bestFor": "Solo hosts who want a dynamic mic and mixer",
+   "pros": [
+    "XLR dynamic mic included",
+    "Gaming mixer with faders",
+    "Mic also works over USB",
+    "Complete kit"
+   ],
+   "cons": [
+    "One mic only",
+    "Gaming styling"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CQ3HKDMX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41h59zds3cL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Preamp gain for dynamic mics",
+   "explanation": "Broadcast dynamic mics are low output and want roughly 60 to 70 dB of clean gain. A weak preamp makes you turn the knob to the end, which adds hiss, or forces an inline booster. MAONO G3 mixer (4 faders, 3 submixes) and Aveek 5 channel mixer (5 channel, 3 XLR) sit at different points on that curve. Check the stated gain, and be wary of a listing that gives none."
+  },
+  {
+   "criterion": "Mix minus and remote guests",
+   "explanation": "Mix minus sends a remote caller everything except their own voice, which stops the echo they would otherwise hear. Not every mixer has it, and some only fake it with a software route. If you take remote interviews, check this feature on Behringer 802S and MAONO AME2 before anything else. A mixer without it works for in person shows and solo streams."
+  },
+  {
+   "criterion": "Phantom power on every input",
+   "explanation": "Condenser mics need 48 V phantom power, and it travels only over XLR cables. Some budget boards put phantom on the first channel only, or supply a lower voltage than the standard, which leaves a condenser quiet and noisy. Behringer 802S and MAONO AME2 are the picks to read the phantom line for. Dynamic mics do not need phantom, and some older ribbons can be damaged by it."
+  },
+  {
+   "criterion": "Bundles and the microphone question",
+   "explanation": "Many mixers in this range are sold as bundles with a mic, a stand and cables. The bundled mic is usually a small condenser that picks up room noise, so a dynamic mic on an XLR input is the better upgrade. Behringer 802S and MAONO AME2 are the lineup examples of the bundle approach. Treat a bundle as a convenient start, not a final setup."
+  },
+  {
+   "criterion": "Effects you will actually use",
+   "explanation": "Many live sound cards advertise voice changers, reverb and sound pads, which suit streamers but rarely help a podcast. A noise gate and a compressor are the effects that matter for speech. Behringer 802S and MAONO AME2 are the lineup examples to compare on extras. Do not pay for a long effects list you will switch off after the first week."
+  },
+  {
+   "criterion": "USB loopback and routing",
+   "explanation": "Loopback lets you capture computer audio, such as a caller, music or game sound, alongside your mic without a feedback loop. Some mixers offer a full mix to USB, others give separate channels, and a few only a stereo pair. MAONO G3 mixer and Aveek 5 channel mixer differ on this in the lineup. Choose the routing that matches how you edit: one mixed track is simple, separate tracks give room to fix mistakes."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Preamp gain in dB",
+   "meaning": "The amount of boost the mic preamp can apply. Low output dynamic mics want roughly 60 to 70 dB of clean gain.",
+   "watchFor": "See whether MAONO AME2 states its gain at all."
+  },
+  {
+   "spec": "Sample rate and bit depth",
+   "meaning": "Most of these units record at 44.1 or 48 kHz and 16 or 24 bit, which is fine for speech. Higher numbers add file size, not clarity, for spoken word.",
+   "watchFor": "Note the stated rate for MAONO G3 mixer."
+  },
+  {
+   "spec": "Bluetooth input",
+   "meaning": "A wireless input for taking phone calls or music, at lower quality than USB or analog. It is a convenience, not a recording path.",
+   "watchFor": "Check whether MAONO AME2 lets you mix a phone call into the stream."
+  },
+  {
+   "spec": "DSP effects",
+   "meaning": "Digital effects such as reverb, voice change and noise reduction built into the mixer. Useful ones for speech are the gate and the compressor.",
+   "watchFor": "Look at which effects Behringer 802S offers beyond the novelty ones."
+  },
+  {
+   "spec": "Mix minus",
+   "meaning": "A feed that sends a remote caller everything except their own voice. It prevents echo on remote interviews.",
+   "watchFor": "Confirm that Behringer 802S offers it as a real output, not a software workaround."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Value inside the lineup",
+   "description": "We ranked each mixer by what its inputs and features cost relative to the other picks. Aveek 5 channel mixer is the cheapest option and FIFINE gaming bundle is the dearest, and we asked whether the premium buys a real upgrade."
+  },
+  {
+   "title": "Controls and ergonomics",
+   "description": "We compared faders, knobs and any digital display, preferring controls you can reach without looking. MAONO G3 mixer and MAONO AME2 represent opposite approaches in the lineup."
+  },
+  {
+   "title": "Noise and grounding",
+   "description": "We read owner patterns about hiss, hum and USB buzz and treated repeated complaints as a lowered score. No single noise number is quoted. Aveek 5 channel mixer was the example for this check."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We read the pattern of owner comments rather than any single score. Repeated complaints about drivers, noise or build lowered a pick. No review count or rating is quoted here, and none was used as a ranking number."
+  },
+  {
+   "title": "Routing and loopback",
+   "description": "We looked at USB modes, loopback and any mix minus feature. A mixer that routes a remote guest cleanly earns more credit. Behringer 802S was set against the others on this point."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Show Format",
+   "intro": "Before reading the table, decide whether your show lives on a desk or on a computer. A mixer with faders suits live level riding, while a plain interface suits a set and forget recording. Also decide who talks at once, since that sets the input count. The rows below map common situations to the picks in this lineup, with Behringer 802S as one of the main reference points.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want an analog desk",
+      "Behringer 802S",
+      "Analog and USB"
+     ],
+     [
+      "You stream from a PC",
+      "MAONO G3 mixer",
+      "Faders and submixes"
+     ],
+     [
+      "You want a larger console",
+      "MAONO AME2",
+      "10 channels and phantom"
+     ],
+     [
+      "You host three",
+      "Aveek 5 channel mixer",
+      "Three XLR"
+     ],
+     [
+      "You want general audio mixing",
+      "Pyle 4 channel mixer",
+      "Four channels and Bluetooth"
+     ],
+     [
+      "You want a dynamic mic bundle",
+      "FIFINE gaming bundle",
+      "Dynamic mic and mixer"
+     ]
+    ]
+   },
+   "note": "Remember that the microphone and the room usually matter more than the mixer, so leave budget for a pop filter, an arm and a few foam panels."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Every pick here is listed at or below the $100 cap, so the tiers below are relative to each other, not to the cap.",
+   "table": {
+    "headers": [
+     "Budget position",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Spending the least this lineup allows",
+      "Aveek 5 channel mixer",
+      "Aveek 5 channel mixer (5 channel, 3 XLR) costs the least in this lineup, so it suits a first show that needs the basics."
+     ],
+     [
+      "The middle of the lineup",
+      "MAONO AME2",
+      "MAONO AME2 (10 channel, 48 V) sits mid lineup on cost, balancing inputs and extras."
+     ],
+     [
+      "The top of the lineup",
+      "FIFINE gaming bundle",
+      "FIFINE gaming bundle (XLR mic and mixer) costs the most in this lineup, so it needs to earn that premium on inputs, routing or build."
+     ]
+    ]
+   },
+   "note": "A mid priced pick often gives the best balance, because the cheapest options trade away inputs and the dearest add features a small show may never use."
+  },
+  {
+   "subheading": "XLR Microphone Input vs 3.5 mm Bundle Mic",
+   "cards": [
+    {
+     "label": "XLR input and phantom power",
+     "text": "The group of Behringer 802S, MAONO G3 mixer, MAONO AME2, Aveek 5 channel mixer, and FIFINE gaming bundle offers an XLR input. It lets you use a real dynamic or condenser mic, which is the biggest quality step in the category. It suits hosts who plan to upgrade their mic."
+    },
+    {
+     "label": "3.5 mm or bundled mic",
+     "text": "The group of Pyle 4 channel mixer relies on a 3.5 mm input or a bundled mic. That is cheaper and simpler, but it limits mic choice and usually sounds thinner. It suits a first show or a phone based stream."
+    }
+   ],
+   "note": "Pick the XLR route if you care about voice quality and expect to add a guest. Pick the bundle route if you want the cheapest complete start."
+  },
+  {
+   "subheading": "By Mixer Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want mic, mixer and cables in one box",
+      "FIFINE gaming bundle",
+      "A bundle saves research and cables, but the included mic and stand are usually the weakest part, so plan to upgrade the mic first."
+     ],
+     [
+      "You have an XLR mic and want phantom power and faders",
+      "MAONO AME2 and Aveek 5 channel mixer",
+      "An XLR capable mixer lets you use a real dynamic or condenser mic, which is the single biggest quality step in this category."
+     ],
+     [
+      "You want a classic analog desk with a USB stream out",
+      "Behringer 802S and Pyle 4 channel mixer",
+      "An analog mixer gives direct, latency free monitoring and a simple signal path, at the cost of a bigger body and less automation."
+     ],
+     [
+      "You stream and want routing and faders for each source",
+      "MAONO G3 mixer",
+      "A broadcast mixer with software routing gives per source faders for game, chat and music, at the cost of a driver and a learning curve."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Two Person Remote Shows Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for two real XLR inputs with phantom power, clean gain for a dynamic mic, USB loopback and, if you take remote callers, a mix minus route. A headphone output for each host is a bonus. Those features matter more than effects or lighting."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Behringer 802S is the pick that best matches those points here, with 8 input analog, USB. MAONO G3 mixer and MAONO AME2 are the nearest alternatives if you want a different balance of inputs, controls and extras."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you record several people at once or take remote guests regularly. Stepping up to FIFINE gaming bundle (XLR mic and mixer) buys the inputs, routing or build that cheaper units lack."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you are a solo host starting out. Aveek 5 channel mixer (5 channel, 3 XLR) covers the basics, and a small difference in features rarely justifies a larger premium."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Use balanced XLR cables",
+   "interval": "When buying cables",
+   "why": "Balanced cables reject hum over a short run. A cheap unbalanced adapter is the usual source of noise."
+  },
+  {
+   "task": "Clean the faders and knobs",
+   "interval": "Every few months",
+   "why": "Dust and skin oils make controls scratchy. A short burst of air and a dry cloth keep them smooth, and no liquid should be sprayed inside."
+  },
+  {
+   "task": "Update drivers or firmware if offered",
+   "interval": "Twice a year",
+   "why": "Some mixers need a driver on certain systems and receive fixes from the maker. Check the support page before an important show."
+  },
+  {
+   "task": "Cover the mixer when not in use",
+   "interval": "After sessions",
+   "why": "Dust and spilled drinks are the main hazards on a desk. A simple cover protects the controls."
+  },
+  {
+   "task": "Gain stage with a test recording",
+   "interval": "Each new setup",
+   "why": "Set gain so your loudest speech peaks well below the clip light, then record a short test. Doing it at the mixer beats boosting in software."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does an XLR mic need phantom power?",
+   "a": "Condenser mics do, and dynamic mics do not. The mixer must supply 48 V on the input you use, which only some entry level units do on every channel. Check the listing for MAONO AME2 before pairing a condenser."
+  },
+  {
+   "q": "Why do I hear hiss from my mixer?",
+   "a": "Hiss usually comes from too little gain at the mixer and too much in software, or from a noisy power adapter. Turn the gain up at the preamp, keep levels sensible and use balanced cables. A weak preamp, such as the one on a very cheap card, makes it worse."
+  },
+  {
+   "q": "What does mix minus do?",
+   "a": "It sends a remote caller everything except their own voice, which stops the echo that happens when their voice returns to them. Without it, a remote guest hears themselves a moment late. Check whether MAONO G3 mixer offers a real mix minus output."
+  },
+  {
+   "q": "What is loopback and do I need it?",
+   "a": "Loopback sends computer audio back into your mix so you can record a caller, music or game sound with your voice. You need it for remote interviews and streaming, and not for a simple solo recording. Read how Behringer 802S handles it."
+  },
+  {
+   "q": "Is a bundle mic good enough?",
+   "a": "Bundle mics are usually small condensers that pick up room noise, so a dynamic mic on XLR sounds cleaner in an untreated room. Use the bundle to start and upgrade the mic first. MAONO G3 mixer is a bundle style pick in this guide."
+  },
+  {
+   "q": "Why does this guide stop at $100?",
+   "a": "The $100 cap is the search keyword shoppers use, and every pick here was listed at or below it when this guide was updated. Aveek 5 channel mixer is the cheapest option in this lineup and FIFINE gaming bundle is the dearest, so the spread inside the cap is real. Prices move, so check the listing before you buy."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51FzRhDebOL._SL500_.jpg"
+}

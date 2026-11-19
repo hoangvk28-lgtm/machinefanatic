@@ -1,0 +1,582 @@
+{
+ "guideSlug": "best-podcast-mixers-under-50",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "podcast mixers under $50",
+ "guideTitle": "Best Podcast Mixers Under $50 (2026)",
+ "metaTitle": "Best Podcast Mixers Under $50 (2026)",
+ "metaDescription": "Six podcast mixers and starter kits listed at or below $50, from live sound cards to a four channel mixer, compared on inputs, phantom power and noise.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "12 min",
+ "expertTake": "The Kaschun four channel is the top pick because it is the only conventional mixer with 48 V phantom and XLR here. The Facmogu F998 is the value pick for a solo host. Skip the effects heavy cards if you want a clean podcast sound.",
+ "introParagraphs": [
+  "Under this cap you can buy a working mixer, but not a good microphone setup. The weak points are the preamps and the included mic, and the sensible spend is on inputs, not effects.",
+  "This guide compares what the cheapest options offer: the number of real mic inputs, phantom power and controls. A live sound card with many effects is not the same as a mixer. Prices move, so the $50 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0DQ7C15FC",
+   "badge": "Best Overall",
+   "name": "Kaschun 4 channel DJ audio mixer with 48 V phantom",
+   "price": "",
+   "specs": [
+    "4 channel",
+    "48 V",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "4"
+    },
+    {
+     "label": "Phantom",
+     "value": "48 V"
+    },
+    {
+     "label": "Inputs",
+     "value": "XLR and 6.35 mm"
+    },
+    {
+     "label": "Connection",
+     "value": "USB audio interface"
+    },
+    {
+     "label": "Extra",
+     "value": "Bluetooth and MP3"
+    }
+   ],
+   "description": "The Kaschun is a four channel mixer with XLR and 6.35 mm inputs, 48 V phantom power and a USB audio interface. It adds Bluetooth and MP3 playback. It is a more conventional mixer than the sound cards.\n\nFour channels allow two or three voices and a music source. It is bulky for a desktop. As a four channel mixer with phantom it is a step above the Facmogu card.\n\nUse balanced cables and record a test. Keep the faders clean. Before the first episode, record a two minute test with the Kaschun 4 channel mixer at your normal speaking distance and listen for hiss, because gain set too low and boosted later is the most common cause of noisy audio.",
+   "bestFor": "Small groups that want a conventional mixer",
+   "pros": [
+    "Four channels",
+    "XLR and 6.35 mm inputs",
+    "48 V phantom",
+    "Bluetooth and MP3"
+   ],
+   "cons": [
+    "Bulky desktop",
+    "Channel count is not mic count"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DQ7C15FC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51HZ3xAKnFL._SL500_.jpg"
+  },
+  {
+   "id": "B0CZDPKPX5",
+   "badge": "Best Preamp",
+   "name": "MAONO MAONOCASTER G1 NEO gaming audio mixer, 48 V",
+   "price": "",
+   "specs": [
+    "48 V",
+    "Pro preamp",
+    "RGB"
+   ],
+   "specList": [
+    {
+     "label": "Preamp",
+     "value": "Pro preamp"
+    },
+    {
+     "label": "Phantom",
+     "value": "48 V"
+    },
+    {
+     "label": "Connection",
+     "value": "USB audio interface"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Look",
+     "value": "RGB lighting"
+    }
+   ],
+   "description": "The MAONO G1 NEO is a gaming audio mixer with a pro preamp and 48 V phantom power. It adds Bluetooth and RGB lighting. It is a streaming interface with a few faders.\n\nPhantom power makes it usable with condenser mics. It is a solo host box. Its pro preamp and 48 V beat the plain F988 card.\n\nUse balanced XLR cables and record a test. Keep it dust free. Treat the MAONO G1 NEO as a desk tool that wants a boom arm, a pop filter and a short balanced cable, since those cheap extras improve a recording more than any menu setting.",
+   "bestFor": "Streamers who want phantom power on a budget",
+   "pros": [
+    "48 V phantom power",
+    "Pro preamp",
+    "Bluetooth input",
+    "USB interface"
+   ],
+   "cons": [
+    "One mic channel",
+    "RGB is cosmetic"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CZDPKPX5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41swvHU6SaL._SL500_.jpg"
+  },
+  {
+   "id": "B09JWH7MV9",
+   "badge": "Best Value",
+   "name": "Facmogu F998 live sound card audio mixer",
+   "price": "",
+   "specs": [
+    "7 knobs",
+    "2 faders",
+    "DSP"
+   ],
+   "specList": [
+    {
+     "label": "Controls",
+     "value": "7 volume knobs, 2 faders"
+    },
+    {
+     "label": "Processing",
+     "value": "Digital DSP"
+    },
+    {
+     "label": "Form",
+     "value": "Live sound card"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming and podcast"
+    },
+    {
+     "label": "Extras",
+     "value": "DJ style effects"
+    }
+   ],
+   "description": "The Facmogu F998 is a live sound card with seven independent volume knobs and two faders. It uses digital DSP for effects and noise handling. It aims at streamers and podcasters on a tight budget.\n\nIt is the cheapest style of mixer in the lineup. Its effects list is long and its mic input is basic. Its seven knobs and two faders are the cheapest controls here.\n\nKeep the knobs clean and record a test before a show. Use a short USB cable. If you plan to add a guest later, ask whether the Facmogu F998 mixer can grow with you, because a second voice is where input counts and monitoring start to matter.",
+   "bestFor": "Streamers who want knobs and effects cheaply",
+   "pros": [
+    "Seven knobs and two faders",
+    "Digital DSP effects",
+    "Cheap to buy",
+    "Simple desktop size"
+   ],
+   "cons": [
+    "Basic mic input",
+    "Effects are mostly novelty"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B09JWH7MV9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51aJX0vvl7L._SL500_.jpg"
+  },
+  {
+   "id": "B09MHKS9XV",
+   "badge": "Best Bluetooth Card",
+   "name": "SINWE F988 live sound card audio mixer with DSP",
+   "price": "",
+   "specs": [
+    "F988",
+    "DSP",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Processing",
+     "value": "Imported dual chip DSP"
+    },
+    {
+     "label": "Connection",
+     "value": "Bluetooth and USB"
+    },
+    {
+     "label": "Form",
+     "value": "Live sound card"
+    },
+    {
+     "label": "Effects",
+     "value": "DJ style effects"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast and streaming"
+    }
+   ],
+   "description": "The SINWE F988 is a live sound card with a dual chip DSP, Bluetooth and DJ style effects. It is aimed at podcast production and streaming. It leans on its processing and sound pads.\n\nIt sits close to the Facmogu F998 on features. Its Bluetooth lets you mix a phone call in. It adds Bluetooth to a DSP card like the Facmogu.\n\nKeep the knobs clean and record a test before a show. Keep a spare USB cable and the manual for the SINWE F988 card, as drivers and routing options are the usual cause of a session that will not start.",
+   "bestFor": "Streamers who want Bluetooth and effects",
+   "pros": [
+    "Bluetooth input",
+    "Dual chip DSP",
+    "DJ style effects",
+    "Very cheap"
+   ],
+   "cons": [
+    "Basic mic input",
+    "Effects are mostly novelty"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B09MHKS9XV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51aWDqgV53L._SL500_.jpg"
+  },
+  {
+   "id": "B0F3J5XX4W",
+   "badge": "Best Starter Kit",
+   "name": "ALSO GO podcast bundle with F998 mixer and BM800 mic",
+   "price": "",
+   "specs": [
+    "F998",
+    "BM800 mic",
+    "Bundle"
+   ],
+   "specList": [
+    {
+     "label": "Mixer",
+     "value": "F998 sound card"
+    },
+    {
+     "label": "Mic",
+     "value": "BM800 cardioid condenser"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle with accessories"
+    },
+    {
+     "label": "Effects",
+     "value": "Voice effects"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast and streaming"
+    }
+   ],
+   "description": "The ALSO GO bundle combines an F998 audio mixer with a BM800 cardioid condenser mic. It is an all in one starter kit for podcast and streaming use. The F998 offers effects and independent knobs.\n\nThe bundle saves you from matching parts. The mic is a small condenser that picks up room noise. It bundles a mic with an F998 style mixer.\n\nPlace the mic close and use a pop filter. Keep the knobs clean. Look at where the ALSO GO F998 bundle will sit on the desk, because knobs and faders that you cannot reach comfortably get ignored and levels drift during a long recording.",
+   "bestFor": "Beginners who want one box with a mic",
+   "pros": [
+    "Mixer and mic in one purchase",
+    "Cardioid pickup limits room noise",
+    "Voice effects included",
+    "Simple setup"
+   ],
+   "cons": [
+    "Bundled mic is basic",
+    "Effects are mostly novelty"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3J5XX4W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51PB4RDwYDL._SL500_.jpg"
+  },
+  {
+   "id": "B0F3HRW2XY",
+   "badge": "Best Cheap Kit",
+   "name": "ALSO GO podcast bundle with V8s sound card and BM-800 mic",
+   "price": "",
+   "specs": [
+    "V8s",
+    "BM-800",
+    "Voice changer"
+   ],
+   "specList": [
+    {
+     "label": "Card",
+     "value": "V8s sound card"
+    },
+    {
+     "label": "Mic",
+     "value": "BM-800 condenser"
+    },
+    {
+     "label": "Effects",
+     "value": "Voice changer and sound effects"
+    },
+    {
+     "label": "Form",
+     "value": "Bundle"
+    },
+    {
+     "label": "Use",
+     "value": "Podcast and live"
+    }
+   ],
+   "description": "The ALSO GO V8s bundle pairs a V8s sound card with a BM-800 condenser mic. It lists a voice changer and sound effects. It is a beginner kit for live and podcast use.\n\nThe sound card is small and cheap. The mic is a basic condenser. Its V8s card and mic are the simplest bundle here.\n\nUse a pop filter and set gain with a test recording. Write down your gain and fader settings for the ALSO GO V8s bundle once they sound right, so a reset or a new cable never costs you a session.",
+   "bestFor": "Beginners who want a very cheap kit",
+   "pros": [
+    "Card and mic in one purchase",
+    "Voice changer included",
+    "Sound effects",
+    "Simple setup"
+   ],
+   "cons": [
+    "Basic mic",
+    "Effects are mostly novelty"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F3HRW2XY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51eLB1737mL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Phantom power on every input",
+   "explanation": "Condenser mics need 48 V phantom power, and it travels only over XLR cables. Some budget boards put phantom on the first channel only, or supply a lower voltage than the standard, which leaves a condenser quiet and noisy. Kaschun 4 channel mixer and Facmogu F998 mixer are the picks to read the phantom line for. Dynamic mics do not need phantom, and some older ribbons can be damaged by it."
+  },
+  {
+   "criterion": "Bundles and the microphone question",
+   "explanation": "Many mixers in this range are sold as bundles with a mic, a stand and cables. The bundled mic is usually a small condenser that picks up room noise, so a dynamic mic on an XLR input is the better upgrade. Kaschun 4 channel mixer and Facmogu F998 mixer are the lineup examples of the bundle approach. Treat a bundle as a convenient start, not a final setup."
+  },
+  {
+   "criterion": "Faders versus knobs",
+   "explanation": "Sliding faders give finer level control and a quick feel for the balance of voices, while rotary knobs are cheaper and take less room. A gaming or streaming mixer often has per source faders, while a basic sound card has knobs. Kaschun 4 channel mixer (4 channel, 48 V) and Facmogu F998 mixer (7 knobs, 2 faders) show the two styles. If you ride levels during a live show, favour faders."
+  },
+  {
+   "criterion": "Effects you will actually use",
+   "explanation": "Many live sound cards advertise voice changers, reverb and sound pads, which suit streamers but rarely help a podcast. A noise gate and a compressor are the effects that matter for speech. Kaschun 4 channel mixer and Facmogu F998 mixer are the lineup examples to compare on extras. Do not pay for a long effects list you will switch off after the first week."
+  },
+  {
+   "criterion": "Mix minus and remote guests",
+   "explanation": "Mix minus sends a remote caller everything except their own voice, which stops the echo they would otherwise hear. Not every mixer has it, and some only fake it with a software route. If you take remote interviews, check this feature on Kaschun 4 channel mixer and Facmogu F998 mixer before anything else. A mixer without it works for in person shows and solo streams."
+  },
+  {
+   "criterion": "Headphone outputs and monitoring",
+   "explanation": "One headphone jack means one monitor, so a two host show needs an amplifier or a second output. Direct monitoring on an analog mixer has no delay, while monitoring through the computer can lag and make you talk oddly. MAONO G1 NEO (48 V phantom, RGB) and SINWE F988 card (DSP dual chip) are the picks to compare. Plan the monitoring chain before you buy."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Channel count",
+   "meaning": "The number of input strips, counting mono mic channels and stereo line channels differently. A larger number does not mean more microphones.",
+   "watchFor": "Count the XLR inputs on MAONO G1 NEO separately from the headline number."
+  },
+  {
+   "spec": "USB loopback",
+   "meaning": "A route that sends computer audio back into the mix without a feedback loop. It is how a caller, music or game audio reaches your recording.",
+   "watchFor": "Read how SINWE F988 card describes its USB modes."
+  },
+  {
+   "spec": "Mix minus",
+   "meaning": "A feed that sends a remote caller everything except their own voice. It prevents echo on remote interviews.",
+   "watchFor": "Confirm that Kaschun 4 channel mixer offers it as a real output, not a software workaround."
+  },
+  {
+   "spec": "Sample rate and bit depth",
+   "meaning": "Most of these units record at 44.1 or 48 kHz and 16 or 24 bit, which is fine for speech. Higher numbers add file size, not clarity, for spoken word.",
+   "watchFor": "Note the stated rate for MAONO G1 NEO."
+  },
+  {
+   "spec": "Preamp gain in dB",
+   "meaning": "The amount of boost the mic preamp can apply. Low output dynamic mics want roughly 60 to 70 dB of clean gain.",
+   "watchFor": "See whether Facmogu F998 mixer states its gain at all."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Routing and loopback",
+   "description": "We looked at USB modes, loopback and any mix minus feature. A mixer that routes a remote guest cleanly earns more credit. Kaschun 4 channel mixer was set against the others on this point."
+  },
+  {
+   "title": "Controls and ergonomics",
+   "description": "We compared faders, knobs and any digital display, preferring controls you can reach without looking. MAONO G1 NEO and Facmogu F998 mixer represent opposite approaches in the lineup."
+  },
+  {
+   "title": "Owner feedback patterns",
+   "description": "We read the pattern of owner comments rather than any single score. Repeated complaints about drivers, noise or build lowered a pick. No review count or rating is quoted here, and none was used as a ranking number."
+  },
+  {
+   "title": "Value inside the lineup",
+   "description": "We ranked each mixer by what its inputs and features cost relative to the other picks. Facmogu F998 mixer is the cheapest option and Kaschun 4 channel mixer is the dearest, and we asked whether the premium buys a real upgrade."
+  },
+  {
+   "title": "Phantom power and gain",
+   "description": "We read the stated phantom power and preamp gain, flagging listings that gave none. We favoured units that state both. Facmogu F998 mixer and SINWE F988 card were the references for this comparison."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Show Format",
+   "intro": "Before reading the table, decide whether your show lives on a desk or on a computer. A mixer with faders suits live level riding, while a plain interface suits a set and forget recording. Also decide who talks at once, since that sets the input count. The rows below map common situations to the picks in this lineup, with Kaschun 4 channel mixer as one of the main reference points.",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want a conventional small mixer",
+      "Kaschun 4 channel mixer",
+      "Four channels and phantom"
+     ],
+     [
+      "You stream solo with a condenser",
+      "MAONO G1 NEO",
+      "Phantom and preamp"
+     ],
+     [
+      "You want the cheapest mixer",
+      "Facmogu F998 mixer",
+      "Knobs, faders and DSP"
+     ],
+     [
+      "You want Bluetooth in a cheap card",
+      "SINWE F988 card",
+      "Bluetooth and DSP"
+     ],
+     [
+      "You want a complete starter kit",
+      "ALSO GO F998 bundle",
+      "Mixer and mic together"
+     ],
+     [
+      "You want the simplest kit",
+      "ALSO GO V8s bundle",
+      "Sound card and mic"
+     ]
+    ]
+   },
+   "note": "Whichever you choose, record a short test with your real microphone and your usual speaking distance before you commit to a full season of episodes."
+  },
+  {
+   "subheading": "By Budget",
+   "intro": "Every pick here is listed at or below the $50 cap, so the tiers below are relative to each other, not to the cap.",
+   "table": {
+    "headers": [
+     "Budget position",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Spending the least this lineup allows",
+      "Facmogu F998 mixer",
+      "Facmogu F998 mixer (7 knobs, 2 faders) costs the least in this lineup, so it suits a first show that needs the basics."
+     ],
+     [
+      "The middle of the lineup",
+      "ALSO GO F998 bundle",
+      "ALSO GO F998 bundle (F998 mixer and BM800 mic) sits mid lineup on cost, balancing inputs and extras."
+     ],
+     [
+      "The top of the lineup",
+      "Kaschun 4 channel mixer",
+      "Kaschun 4 channel mixer (4 channel, 48 V) costs the most in this lineup, so it needs to earn that premium on inputs, routing or build."
+     ]
+    ]
+   },
+   "note": "Treat the budget tiers as relative: the cheapest pick suits a first show, and the top of the lineup suits a show that has already outgrown a basic box."
+  },
+  {
+   "subheading": "XLR Microphone Input vs 3.5 mm Bundle Mic",
+   "cards": [
+    {
+     "label": "XLR input and phantom power",
+     "text": "The group of Kaschun 4 channel mixer, MAONO G1 NEO, and ALSO GO F998 bundle offers an XLR input. It lets you use a real dynamic or condenser mic, which is the biggest quality step in the category. It suits hosts who plan to upgrade their mic."
+    },
+    {
+     "label": "3.5 mm or bundled mic",
+     "text": "The group of Facmogu F998 mixer, SINWE F988 card, and ALSO GO V8s bundle relies on a 3.5 mm input or a bundled mic. That is cheaper and simpler, but it limits mic choice and usually sounds thinner. It suits a first show or a phone based stream."
+    }
+   ],
+   "note": "Pick the XLR route if you care about voice quality and expect to add a guest. Pick the bundle route if you want the cheapest complete start."
+  },
+  {
+   "subheading": "By Mixer Style",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You want a cheap live sound card with effects for a solo show",
+      "Facmogu F998 mixer and SINWE F988 card",
+      "A live sound card is a small USB box with a 3.5 mm mic jack, effects and a few knobs, which is enough for one voice but not for a multi host table."
+     ],
+     [
+      "You want mic, mixer and cables in one box",
+      "ALSO GO F998 bundle and ALSO GO V8s bundle",
+      "A bundle saves research and cables, but the included mic and stand are usually the weakest part, so plan to upgrade the mic first."
+     ],
+     [
+      "You want a classic analog desk with a USB stream out",
+      "Kaschun 4 channel mixer",
+      "An analog mixer gives direct, latency free monitoring and a simple signal path, at the cost of a bigger body and less automation."
+     ],
+     [
+      "You stream games and want per source volume knobs",
+      "MAONO G1 NEO",
+      "A gaming mixer focuses on faders for game, chat and music, with usually one XLR input for a single host."
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Two Person Remote Shows Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for two real XLR inputs with phantom power, clean gain for a dynamic mic, USB loopback and, if you take remote callers, a mix minus route. A headphone output for each host is a bonus. Those features matter more than effects or lighting."
+    },
+    {
+     "label": "In this comparison",
+     "text": "Kaschun 4 channel mixer is the pick that best matches those points here, with 4 channel, 48 V. MAONO G1 NEO and Facmogu F998 mixer are the nearest alternatives if you want a different balance of inputs, controls and extras."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you record several people at once or take remote guests regularly. Stepping up to Kaschun 4 channel mixer (4 channel, 48 V) buys the inputs, routing or build that cheaper units lack."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you are a solo host starting out. Facmogu F998 mixer (7 knobs, 2 faders) covers the basics, and a small difference in features rarely justifies a larger premium."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Use balanced XLR cables",
+   "interval": "When buying cables",
+   "why": "Balanced cables reject hum over a short run. A cheap unbalanced adapter is the usual source of noise."
+  },
+  {
+   "task": "Clean the faders and knobs",
+   "interval": "Every few months",
+   "why": "Dust and skin oils make controls scratchy. A short burst of air and a dry cloth keep them smooth, and no liquid should be sprayed inside."
+  },
+  {
+   "task": "Update drivers or firmware if offered",
+   "interval": "Twice a year",
+   "why": "Some mixers need a driver on certain systems and receive fixes from the maker. Check the support page before an important show."
+  },
+  {
+   "task": "Gain stage with a test recording",
+   "interval": "Each new setup",
+   "why": "Set gain so your loudest speech peaks well below the clip light, then record a short test. Doing it at the mixer beats boosting in software."
+  },
+  {
+   "task": "Cover the mixer when not in use",
+   "interval": "After sessions",
+   "why": "Dust and spilled drinks are the main hazards on a desk. A simple cover protects the controls."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How long will a budget mixer last?",
+   "a": "Faders and knobs wear first, usually within a few years of heavy use, and a good cover and clean desk help. Electronics tend to outlast controls. A sturdier unit like Kaschun 4 channel mixer gives more headroom."
+  },
+  {
+   "q": "How many XLR inputs do I need?",
+   "a": "One for each person who speaks at the same time, plus extras only if you plan to grow. A solo host needs one, and a two person show needs two. Count the real XLR inputs on SINWE F988 card, not the channel total."
+  },
+  {
+   "q": "Do I need a driver for a USB mixer?",
+   "a": "Many class compliant units work without one on common systems, while broadcast mixers often ask for a driver. Check the support page for your system before buying. A driver can also add control software."
+  },
+  {
+   "q": "What is loopback and do I need it?",
+   "a": "Loopback sends computer audio back into your mix so you can record a caller, music or game sound with your voice. You need it for remote interviews and streaming, and not for a simple solo recording. Read how Kaschun 4 channel mixer handles it."
+  },
+  {
+   "q": "Is a bundle mic good enough?",
+   "a": "Bundle mics are usually small condensers that pick up room noise, so a dynamic mic on XLR sounds cleaner in an untreated room. Use the bundle to start and upgrade the mic first. MAONO G1 NEO is a bundle style pick in this guide."
+  },
+  {
+   "q": "Why does this guide stop at $50?",
+   "a": "The $50 cap is the search keyword shoppers use, and every pick here was listed at or below it when this guide was updated. Facmogu F998 mixer is the cheapest option in this lineup and Kaschun 4 channel mixer is the dearest, so the spread inside the cap is real. Prices move, so check the listing before you buy."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51HZ3xAKnFL._SL500_.jpg"
+}
