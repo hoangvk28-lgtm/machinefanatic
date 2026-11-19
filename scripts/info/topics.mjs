@@ -5,7 +5,7 @@ import { readFileSync, readdirSync } from "node:fs";
 
 const guides = readdirSync("data/guides").filter(f => f.endsWith(".ts")).map(f => f.slice(0, -3));
 const rows = readFileSync("docs/info-topics.tsv", "utf8").trim().split("\n").slice(1)
-  .map(l => l.split("\t")).map(([slug, kw, round, cluster, pats]) => ({ slug, kw, round, cluster, pats: pats.split("|") }));
+  .map(l => l.split("\t")).map(([slug, kw, round, cluster, pats]) => ({ slug, kw, round, cluster, pats: pats.trim().split("|") }));
 
 const want = process.argv[2];
 let bad = 0;

@@ -93,5 +93,15 @@ export const legacyLoaders: Record<string, () => Promise<Record<string, unknown>
   "what-size-snow-blower-do-i-need": () => import("./legacy/what-size-snow-blower-do-i-need"),
   "when-to-till-and-how-deep": () => import("./legacy/when-to-till-and-how-deep"),
   "wood-chipper-capacity-and-reduction-ratio": () => import("./legacy/wood-chipper-capacity-and-reduction-ratio"),
+  "40v-vs-60v-vs-80v-cordless-ope": () => import("./legacy/40v-vs-60v-vs-80v-cordless-ope"),
+  "bump-feed-vs-automatic-vs-fixed-line-heads": () => import("./legacy/bump-feed-vs-automatic-vs-fixed-line-heads"),
+  "how-loud-is-too-loud-ope-noise-explained": () => import("./legacy/how-loud-is-too-loud-ope-noise-explained"),
+  "hedge-trimmer-blade-gap-and-cutting-capacity": () => import("./legacy/hedge-trimmer-blade-gap-and-cutting-capacity"),
+  "2-stroke-vs-4-stroke-engine": () => import("./legacy/2-stroke-vs-4-stroke-engine"),
+  "how-to-mix-2-stroke-fuel": () => import("./legacy/how-to-mix-2-stroke-fuel"),
+  "why-small-engines-wont-start": () => import("./legacy/why-small-engines-wont-start"),
+  "how-to-clean-a-small-engine-carburetor": () => import("./legacy/how-to-clean-a-small-engine-carburetor"),
+  "ethanol-fuel-and-small-engine-damage": () => import("./legacy/ethanol-fuel-and-small-engine-damage"),
+  "how-to-store-outdoor-power-equipment-for-winter": () => import("./legacy/how-to-store-outdoor-power-equipment-for-winter"),
 };
 export const legacySlugs = Object.keys(legacyLoaders);

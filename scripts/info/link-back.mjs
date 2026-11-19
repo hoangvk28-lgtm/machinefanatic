@@ -18,7 +18,7 @@ if (!existsSync(file)) { console.error(`${file} does not exist yet`); process.ex
 const title = readFileSync(file, "utf8").match(/\btitle:\s*"((?:[^"\\]|\\.)*)"/)?.[1];
 if (!title) { console.error(`no title found in ${file}`); process.exit(1); }
 
-const hubs = [...new Set(row[4].split("|").flatMap(p => guides.filter(g => g.includes(p))))]
+const hubs = [...new Set(row[4].trim().split("|").flatMap(p => guides.filter(g => g.includes(p))))]
   .sort((a, b) => a.length - b.length || a.localeCompare(b)).slice(0, 4);
 
 for (const hub of hubs) {
