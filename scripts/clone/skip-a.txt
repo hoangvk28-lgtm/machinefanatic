@@ -51,3 +51,6 @@ best-predator-9000-generator-transfer-switch: data is Predator start/stop switch
 best-tri-fuel-generator-transfer-switch: data is tri-fuel portable generators (not switches) plus generic switches that do not depend on fuel type; no tri-fuel-specific transfer switch exists in the data
 best-natural-gas-generator-transfer-switch: data is natural gas/tri-fuel generators and whole-home standby sets plus fuel-agnostic generic switches; no natural-gas-specific transfer switch in the data
 best-digital-label-printers: lineup of 3 was a strict subset of best-bluetooth-label-printers and best-iphone-label-printers in the same round; pool of 5 offered no distinct lineup
+best-heat-pump-washer-dryer-combos: no heat-pump washer dryer in the data (condensing and vented combos, standard pairs, repair parts only), claims would be unsupported
+best-compact-washer-under-700: lineup identical to the written under-500 sibling (same items under the cap), would duplicate it
+best-compact-washer-under-1000: same pool as under-500 and under-700 plus one extra COMFEE 2.4 cu ft, would duplicate written siblings

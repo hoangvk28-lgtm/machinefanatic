@@ -688,3 +688,19 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Known weak spots the writers reported and I did not fix: "About this pick" runs 6 to 10 sentences rather than 8 to 9; several `electric-mops-for-*` lineups include a steam mop because the compact data was thin; `mini-vacuum-cleaners-for-home` is corded compact sticks; `wet-and-dry-mini-vacuum-cleaners` is small shop vacs; the mini-vacuum under-N guides reuse products across caps because few items carry underCap at the low caps. Writer B hedged some mixer bundle capability claims (whether a kit mic is XLR) that were inferred from titles.
 - Note: scripts/register-new-guides.mjs imports .ts and must be run with `npx tsx`, not bare `node`; bare node fails with ERR_UNKNOWN_FILE_EXTENSION and silently registers nothing.
 - Build: tsc clean, next build green (Compiled successfully and the TypeScript pass). Registered in both data/guides.ts and data/dynamic-guides-registry.ts (2,197 total).
+
+### Prefilter skips (2026-11-19)
+| Skipped slug | Reason |
+|---|---|
+| best-bosch-compact-washer-and-dryer-sets | prefilter: only 0 distinct items match brand bosch after extra searches |
+| best-ge-washer-dryer-combos | prefilter: only 2 distinct items match brand ge after extra searches |
+| best-lg-compact-washer-and-dryer-sets | prefilter: only 0 distinct items match brand lg after extra searches |
+| best-lg-washer-dryer-combos | prefilter: only 0 distinct items match brand lg after extra searches |
+| best-midea-washer-dryer-combos | prefilter: only 1 distinct items match brand midea after extra searches |
+| best-miele-compact-washer-and-dryer-sets | prefilter: only 0 distinct items match brand miele after extra searches |
+| best-samsung-bespoke-washer-dryer-combos | prefilter: only 2 distinct items match brand samsung after extra searches |
+| best-samsung-washer-dryer-combos | prefilter: only 0 distinct items match brand samsung after extra searches |
+| best-whirlpool-compact-washers | prefilter: only 0 distinct items match brand whirlpool after extra searches |
+
+## Round 48 (2026-11-19): washers, washer-dryer combos, RV water pumps, RV ACs, ice makers, 74 guides
+- 78 handed to 2 Sonnet writers, 74 written; 33 skips total (reasons in scripts/clone/work/r48.skip.txt and skip-a/b.txt). Audit 0 fails, 0 dashes, 0 【, neardup 0 at Finish, no lineup overlap. Repetition fix agent was still running at push; next build not run before push (user asked to push at session limit).
