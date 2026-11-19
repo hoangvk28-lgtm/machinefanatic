@@ -668,3 +668,11 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Checks on all 71: audit ok, selfcheck ok, 0 em/en dashes, 0 【, 0 star ratings or review counts, no "we tested"/"hands-on"; the only dollar figures are the four under-N caps, each in its own guide; metaTitle + 12 <= 60 and metaDescription 120-160 on all 71; every lineup has 3 to 7 products.
 - Repetition: no sentence of 70 characters or more appears in 3 or more guides.
 - Build: tsc clean, next build green (Compiled successfully and the TypeScript pass), registered in both data/guides.ts and data/dynamic-guides-registry.ts (2,050 total).
+
+## Round 46 (2026-11-19): home printers and paper shredders, 24 guides
+- Scope: printer and paper shredder cluster. 24 topics written, all registered in data/guides.ts and data/dynamic-guides-registry.ts.
+- Writers: 2 Sonnet agents, each writing its whole batch in one continuous run (A: 9 shredder guides, B: 15 printer guides). Research written once into docs/research/home-printers.md and reused by both.
+- Near-duplicate check: neardup.mjs run on the round list before Stage A and again at Finish against all 2,074 published slugs, 0 hits. Lineup overlap check within the round: no two guides share an identical product set.
+- Checks on all 24: selfcheck ok, audit ok (no intro brand or spec violations), 0 em/en dashes, 0 bracket labels, no "we tested"/"hands-on", metaTitle + 12 <= 60 and metaDescription 120-160 on all 24, every lineup has 3 to 7 products. The only dollar figures are the under-N caps (under-50, under-100, under-200), each in its own guide.
+- Repetition: no sentence of 70 characters or more appears in 3 or more guides.
+- Build: tsc clean, next build green (Compiled successfully and Finished TypeScript).

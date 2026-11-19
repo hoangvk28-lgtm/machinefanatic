@@ -1,0 +1,605 @@
+{
+ "guideSlug": "best-quiet-printers-for-home-offices",
+ "categorySlug": "home-machines",
+ "mainKeyword": "quiet printers for home offices",
+ "guideTitle": "Best Quiet Printers for Home Offices (2026)",
+ "metaTitle": "Best Quiet Printers for Home Offices",
+ "metaDescription": "Six quieter printers for home offices compared by how they make noise: tank inkjets, cartridge inkjets and compact lasers, with tips for calls and shared rooms.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "13 min",
+ "expertTake": "The Epson EcoTank ET-2800 is the best quiet pick because a slow tank inkjet has no fuser or warm-up fan to announce itself. The Brother HL-L2405W is the value pick for people who want a laser that is brief rather than silent. Anyone who needs true silence for recording should place the printer in another room, since no printer is quiet.",
+ "introParagraphs": [
+  "Printer noise comes from a few distinct sources: the paper pickup, the carriage or drum motor, the warm-up of a heated fuser and the cooling fan. A home office worker on a call hears the first seconds of a job most, when pickup and warm-up happen together.",
+  "Quiet is relative and rarely documented well in a listing, so this guide ranks by mechanism and by the controls that reduce noise, and it names the trade each choice carries. Always compare the maker's sound figure on the spec sheet before buying if silence matters."
+ ],
+ "products": [
+  {
+   "id": "B096N8DN2H",
+   "badge": "Best Overall",
+   "name": "Epson EcoTank ET-2800 Wireless Ink Tank All-in-One",
+   "specs": [
+    "Ink tank",
+    "Heat-free head",
+    "Compact",
+    "Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Refillable ink tank all-in-one"
+    },
+    {
+     "label": "Print method",
+     "value": "Inkjet, no fuser"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy"
+    },
+    {
+     "label": "Wireless",
+     "value": "Wi-Fi"
+    },
+    {
+     "label": "Class",
+     "value": "Entry EcoTank"
+    }
+   ],
+   "description": "An inkjet makes noise mainly from its carriage and paper feed, and it has no heated fuser or large cooling fan, so there is no warm-up roar when a job starts. The ET-2800 is a compact tank inkjet that prints at a modest pace, which keeps the carriage sound low and brief.\n\nThe downside is that slow printing means a longer job, so a long document keeps making its steady sound for minutes. Against a laser, the sound is lower in pitch but lasts longer. It has no feeder or duplex in the listing, which also removes the motors those parts would add.\n\nOwnership is about placement and habit. Put the printer on a stable surface so vibration does not amplify the noise, use draft or quiet modes if the menu offers them and print weekly to keep the head clear. For a home office that prints a few pages between calls, this is the quietest sensible choice. Queue jobs from your phone or laptop and let them print while you are on mute, then collect the pages afterward. The front tank window also saves you from opening menus that beep.",
+   "bestFor": "Home offices that print a few pages between calls.",
+   "pros": [
+    "No fuser, so no warm-up noise",
+    "Modest pace keeps the carriage sound low",
+    "No feeder or duplex motors to add noise",
+    "Compact body for a desk"
+   ],
+   "cons": [
+    "Long jobs keep making sound for minutes",
+    "Slower than a laser",
+    "Needs weekly use to avoid clogs"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B096N8DN2H?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09P45LR5T",
+   "badge": "Best Quiet Tank With Feeder",
+   "name": "Epson EcoTank ET-4800 Wireless Supertank All-in-One",
+   "specs": [
+    "Ink tank",
+    "15.5 ppm black",
+    "Feeder",
+    "Fax"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Ink tank multifunction"
+    },
+    {
+     "label": "Speed",
+     "value": "15.5 black / 8.5 color ppm"
+    },
+    {
+     "label": "Head",
+     "value": "Micro Piezo heat-free"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy, fax"
+    },
+    {
+     "label": "Resolution",
+     "value": "4800 x 1200"
+    }
+   ],
+   "description": "The ET-4800 uses Epson's Micro Piezo heat-free head and prints at 15.5 pages per minute in black, a pace that avoids the high-speed motor noise of a fast laser. It adds a feeder and fax to the tank design, so it covers office needs while staying in the quiet class.\n\nA drawback here is that a feeder adds motor and roller noise when you scan stacks. The color speed of 8.5 pages per minute means long color jobs run for a while. If you scan rarely, the Epson ET-2800 is the simpler and quieter machine.\n\nOwnership favors weekly printing and a level surface. Keep the tray guides snug so paper does not rattle, run quiet modes where available and give the machine a shelf rather than a hollow desk. That placement suits an office where the printer sits in the same room as the worker. Avoid running the feeder during a meeting, and scan stacks in one batch when the room is empty.",
+   "bestFor": "Home offices that need a feeder without a loud laser.",
+   "pros": [
+    "Heat-free head without a fuser",
+    "Relaxed 15.5 ppm pace in black",
+    "Feeder and fax for office tasks",
+    "Cartridge-free tank design"
+   ],
+   "cons": [
+    "Feeder adds noise when scanning stacks",
+    "Color speed of 8.5 ppm is slow",
+    "Larger body than the ET-2800"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B09P45LR5T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FGC43YCL",
+   "badge": "Best Duplex Inkjet",
+   "name": "Brother Work Smart 1360 Wireless Duplex Inkjet",
+   "specs": [
+    "Inkjet",
+    "Auto duplex",
+    "20-sheet ADF",
+    "Cloud apps"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Cartridge inkjet multifunction"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic two-sided"
+    },
+    {
+     "label": "Feeder",
+     "value": "20-sheet automatic feeder"
+    },
+    {
+     "label": "Cloud",
+     "value": "Google Drive and Dropbox links"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy"
+    }
+   ],
+   "description": "Brother's Work Smart 1360 is an inkjet, so it avoids the warm-up heat and fan of a laser, and it adds duplex and a 20-sheet feeder. The motors for those features add some sound, but they run briefly rather than continuously.\n\nIts weak point is that duplex and feeder motors make this the busiest-sounding inkjet in the lineup, with a reversing pass for each two-sided sheet. Against the Epson ET-2800, it is a bit louder in exchange for more features. It is also a cartridge printer, so running cost is higher than a tank.\n\nDaily life follows the inkjet routine of weekly printing and a spare cartridge set. For a quieter duplex job, print a long document in one batch rather than many short ones so the machine warms and sleeps less often. Cloud scanning is useful for sending a form without opening a laptop. If you share the room with a sleeping child or a roommate, schedule long jobs for the daytime and keep short ones for the evening.",
+   "bestFor": "Offices that want duplex and a feeder without a laser's fan.",
+   "pros": [
+    "No fuser or large cooling fan",
+    "Automatic duplex and a 20-sheet feeder",
+    "Cloud scan and print from the unit",
+    "Straightforward Brother drivers"
+   ],
+   "cons": [
+    "Duplex and feeder motors add sound",
+    "Cartridge ink costs more per page",
+    "Louder than the simpler Epson tanks"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FGC43YCL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09CDXKNB9",
+   "badge": "Best Standby",
+   "name": "Canon PIXMA TR4720 4-in-1 Wireless Inkjet with ADF",
+   "specs": [
+    "Inkjet",
+    "0.8 W standby",
+    "Feeder",
+    "Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Cartridge inkjet multifunction"
+    },
+    {
+     "label": "Power",
+     "value": "7 W active, 0.8 W standby"
+    },
+    {
+     "label": "Feeder",
+     "value": "Automatic document feeder"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, copy, scan, fax"
+    },
+    {
+     "label": "Setup",
+     "value": "Canon PRINT app"
+    }
+   ],
+   "description": "The TR4720 draws just 7 watts in use and 0.8 watts in standby, and low power usually pairs with low heat and no fan noise. As a cartridge inkjet it has no fuser, so the main sound is the carriage and paper feed.\n\nA real limit is that the feeder motor makes noise on stack scans, and the printer has no quiet-mode switch in the listing. Against the Epson ET-2800 it is similar in sound but adds a feeder. Ink cost is the weak point for frequent printers.\n\nOwnership is tidy habits and a stable shelf. Put a rubber mat under the feet to reduce vibration, print weekly and keep paper sealed. For a home worker who scans occasionally and wants a modest machine that stays quiet while idle, it is a reasonable pick. Check the paper tray for loose sheets that buzz against the guide, since a rattling tray often sounds louder than the mechanism itself.",
+   "bestFor": "Home workers who want a low-power machine that stays quiet when idle.",
+   "pros": [
+    "0.8 W standby means no idle hum",
+    "No fuser or cooling fan",
+    "Feeder for stack scanning",
+    "Light body fits a shelf"
+   ],
+   "cons": [
+    "Feeder motor is audible on stack scans",
+    "No quiet-mode switch in the listing",
+    "Cartridge ink adds running cost"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B09CDXKNB9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CPL7HRQN",
+   "badge": "Best Quiet Laser",
+   "name": "Brother HL-L2405W Compact Wireless Mono Laser",
+   "specs": [
+    "Mono laser",
+    "Compact",
+    "Wi-Fi",
+    "Mobile app"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Monochrome laser, print only"
+    },
+    {
+     "label": "Wireless",
+     "value": "Wi-Fi with Brother Mobile Connect"
+    },
+    {
+     "label": "Duplex",
+     "value": "Manual only"
+    },
+    {
+     "label": "Wired",
+     "value": "USB"
+    },
+    {
+     "label": "Use",
+     "value": "Short document jobs"
+    }
+   ],
+   "description": "A laser's noise is concentrated: a short burst at warm-up and a steady whir while the fuser runs. The HL-L2405W is a compact laser with no scanner and no duplex motor, which keeps the burst brief, and a one-page job finishes before the sound becomes a nuisance.\n\nOne limit to weigh is that the warm-up is audible and the fuser needs time, so a call that overlaps the first page will hear it. Against the tank inkjets it is faster to finish, so total noise time is shorter. It prints black only.\n\nOwnership is easy: toner survives idle weeks, so the printer can sit silent until needed. Place it away from your microphone, print in batches and use the Brother Mobile Connect app to send jobs without sitting at the desk. For short documents it is the quietest laser option here. The absence of a scanner means no glass lid to rattle or feeder to whine, and the plastic body is light, so put it on a solid surface to stop it buzzing against a table.",
+   "bestFor": "People who print short black jobs and want the sound over quickly.",
+   "pros": [
+    "Short burst of noise then silence",
+    "No duplex or scanner motors",
+    "Toner survives idle weeks",
+    "Mobile app sends jobs from a phone"
+   ],
+   "cons": [
+    "Warm-up is audible on the first page",
+    "Black and white only",
+    "Manual duplex only"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CPL7HRQN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CPLFTPCV",
+   "badge": "Best Fast Laser",
+   "name": "Brother DCP-L2640DW Duplex Mono Laser All-in-One",
+   "specs": [
+    "Mono laser",
+    "36 ppm",
+    "Auto duplex",
+    "Print scan copy"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Monochrome laser multifunction"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 36 pages per minute"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic two-sided"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy"
+    },
+    {
+     "label": "Wireless",
+     "value": "Wi-Fi with mobile printing"
+    }
+   ],
+   "description": "The DCP-L2640DW is a laser, so it has a fuser and fan, but at up to 36 pages per minute it finishes a job fast, which shrinks the time the noise lasts. Fast printing reduces total exposure for a long document compared with a slow tank.\n\nThe main concession is that it is the loudest machine here during a job, with fuser and duplex sounds. Against the Brother HL-L2405W it adds duplex and scanning, both of which add motors. For an office where the printer can sit in the next room, speed beats quiet.\n\nOwnership favors placement. Put it in a hallway or a closet shelf with ventilation, use the wireless link to send jobs and print in batches. If it must stay on your desk, expect noise bursts and plan calls around them. Because toner is dry, the printer can sit powered off between jobs, which means no idle sound at all while you work.",
+   "bestFor": "Offices where the printer can sit away from calls.",
+   "pros": [
+    "36 pages per minute shortens noise time",
+    "Automatic duplex built in",
+    "Scan and copy included",
+    "Toner survives idle weeks"
+   ],
+   "cons": [
+    "Loudest machine here during a job",
+    "Fuser and duplex add sound",
+    "Needs ventilated placement"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CPLFTPCV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Noise source and duration",
+   "explanation": "Noise comes from pickup, motors, the carriage and, on lasers, the fuser and fan. Tank inkjets like the Epson ET-2800 are quiet but slow, so the sound lasts longer. A laser like the Brother DCP-L2640DW is louder but finishes sooner."
+  },
+  {
+   "criterion": "Spec sheet sound figure",
+   "explanation": "Makers publish a sound power or pressure level in decibels, but listings often omit it. If silence matters, find the figure on the manufacturer's spec sheet and compare like with like, because pressure and power figures differ. Do not trust a quiet claim without a number."
+  },
+  {
+   "criterion": "Quiet mode trade",
+   "explanation": "Many printers offer a quiet or low-noise mode that slows the mechanism to cut sound. The cost is slower printing, so a long job takes longer. Enable it for evenings and call hours."
+  },
+  {
+   "criterion": "Placement and vibration",
+   "explanation": "A printer on a hollow desk amplifies its own noise. A stable shelf, a rubber mat or a closet with ventilation can cut perceived sound more than any model change. Heat needs airflow, so do not enclose a laser."
+  },
+  {
+   "criterion": "Duplex and feeder motors",
+   "explanation": "Each extra motor adds noise. The Brother Work Smart 1360 and DCP-L2640DW have duplex, while the Epson ET-2800 has no duplex or feeder. Pay for these features only if you use them."
+  },
+  {
+   "criterion": "Print length",
+   "explanation": "A short job finishes before it bothers you, while a long job in a quiet printer can last longer than a loud, fast one. Match the printer to your job length, not only to a sound figure."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Sound level in dB",
+   "meaning": "Decibels measure sound pressure or power. Power and pressure figures are not interchangeable.",
+   "watchFor": "The listings here do not give a figure, so check each maker's spec sheet."
+  },
+  {
+   "spec": "Pages per minute",
+   "meaning": "Faster printing shortens the time noise lasts. Slower printing is often quieter but longer.",
+   "watchFor": "The Epson ET-4800 lists 15.5 black, the Brother DCP-L2640DW lists up to 36."
+  },
+  {
+   "spec": "Heat-free head",
+   "meaning": "A heat-free inkjet head uses piezo pressure instead of heat. It avoids thermal parts but still has a carriage motor.",
+   "watchFor": "Epson lists a Micro Piezo heat-free head on the ET-4800."
+  },
+  {
+   "spec": "Standby power",
+   "meaning": "Low standby watts suggest the printer idles without a fan or heater running.",
+   "watchFor": "The Canon TR4720 lists 0.8 watts in standby."
+  },
+  {
+   "spec": "Duplex",
+   "meaning": "Duplex adds a reversing path and motor that add sound on two-sided jobs.",
+   "watchFor": "The Brother Work Smart 1360 and DCP-L2640DW have automatic duplex."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Mechanism noise",
+   "description": "We looked at how each machine makes noise, from the fuserless Epson ET-2800 to the fused Brother lasers. The presence of fans and fusers set the baseline. No sound figures were invented."
+  },
+  {
+   "title": "Job length",
+   "description": "We weighed speed against noise duration, from the Epson ET-4800's 15.5 pages per minute to the Brother DCP-L2640DW's 36. Short and long jobs were treated separately. Total noise time mattered."
+  },
+  {
+   "title": "Extra motors",
+   "description": "We counted duplex and feeder motors, since each adds sound. The Epson ET-2800 has neither, the Brother Work Smart 1360 has both. Needs were matched to features."
+  },
+  {
+   "title": "Idle behavior",
+   "description": "We considered standby noise and power, with the Canon TR4720's 0.8 watts as a benchmark. Quiet idle matters in a shared room. Wake-up behavior was noted."
+  },
+  {
+   "title": "Placement flexibility",
+   "description": "We weighed wireless printing, since a printer in another room solves noise. Mobile apps and cloud features counted. Ventilation needs of lasers were flagged."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Situation",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Calls with the printer on the desk",
+      "Epson EcoTank ET-2800",
+      "No fuser or warm-up noise"
+     ],
+     [
+      "Quiet office with a feeder",
+      "Epson EcoTank ET-4800",
+      "Relaxed pace, heat-free head"
+     ],
+     [
+      "Duplex and feeder, inkjet",
+      "Brother Work Smart 1360",
+      "No fuser, adds features"
+     ],
+     [
+      "Low-power idle room",
+      "Canon PIXMA TR4720",
+      "0.8 W standby"
+     ],
+     [
+      "Short black jobs",
+      "Brother HL-L2405W",
+      "Brief noise burst"
+     ],
+     [
+      "Printer in another room",
+      "Brother DCP-L2640DW",
+      "Fast laser with duplex"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Epson EcoTank ET-2800",
+      "Cheapest quiet pick"
+     ],
+     [
+      "Low tier",
+      "Brother HL-L2405W",
+      "Compact laser"
+     ],
+     [
+      "Lower mid tier",
+      "Canon PIXMA TR4720",
+      "Adds a feeder"
+     ],
+     [
+      "Mid tier",
+      "Epson EcoTank ET-4800",
+      "Adds a tank feeder and fax"
+     ],
+     [
+      "Upper mid tier",
+      "Brother Work Smart 1360",
+      "Adds duplex"
+     ],
+     [
+      "Top tier",
+      "Brother DCP-L2640DW",
+      "Fast laser with scanning"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Laser vs Inkjet Noise",
+   "cards": [
+    {
+     "label": "Laser",
+     "text": "A laser like the Brother HL-L2405W makes a short warm-up burst and a steady fuser whir. The fast ones such as the DCP-L2640DW finish sooner, which cuts total exposure."
+    },
+    {
+     "label": "Inkjet or tank",
+     "text": "An inkjet like the Epson ET-2800 has no fuser and a lower-pitched carriage sound, but it prints slowly so the noise lasts longer."
+    }
+   ],
+   "note": "Pick an inkjet if you want a low sound during calls; pick a fast laser and put it in another room if you want jobs done quickly."
+  },
+  {
+   "subheading": "Placement",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "On the desk",
+      "Epson EcoTank ET-2800",
+      "Quiet mechanism"
+     ],
+     [
+      "On a shelf",
+      "Canon PIXMA TR4720",
+      "Low standby noise"
+     ],
+     [
+      "In a closet with airflow",
+      "Brother DCP-L2640DW",
+      "Fast laser away from you"
+     ],
+     [
+      "Hallway printer",
+      "Brother HL-L2405W",
+      "Compact laser"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Video Calls Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for no fuser, a slow gentle carriage, a quiet mode and a way to print from another room. Schedule jobs between calls."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Epson ET-2800 and ET-4800 fit best, one as the simplest and one with a feeder. The Brother DCP-L2640DW works if it can live in another room."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you need duplex and a feeder, where the Brother Work Smart 1360 or Epson ET-4800 adds features, or if you want laser speed from the Brother DCP-L2640DW."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you print a few pages between calls, where the Epson ET-2800 or Brother HL-L2405W does the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Level the printer",
+   "interval": "Once",
+   "why": "A rocking printer rattles and amplifies noise. Use a flat shelf or a rubber mat."
+  },
+  {
+   "task": "Keep paper guides snug",
+   "interval": "Every load",
+   "why": "Loose paper rattles in the tray. Press guides lightly against the stack."
+  },
+  {
+   "task": "Clean pickup rollers",
+   "interval": "Every six months",
+   "why": "Glazed rollers slip and grind. Wipe with a damp lint-free cloth."
+  },
+  {
+   "task": "Dust the vents",
+   "interval": "Quarterly",
+   "why": "Dust makes fans work harder and louder. A soft brush clears vents."
+  },
+  {
+   "task": "Print weekly on inkjets",
+   "interval": "Weekly",
+   "why": "Dry heads cause cleaning cycles that make noise. A short page keeps nozzles wet."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is any printer truly silent?",
+   "a": "No. Every printer has motors and a paper path that make sound. Place it away from where you take calls if silence matters, or choose a wireless model so you can send jobs from another room. A closed door and a shelf of books between you and the machine does more than most spec changes."
+  },
+  {
+   "q": "Are inkjets quieter than lasers?",
+   "a": "Usually in pitch and in the lack of a fuser, but they print slower so the noise lasts longer. A laser is louder but finishes sooner, so for a long document the laser may expose you to less total noise. The right answer depends on whether short bursts or long hums bother you more."
+  },
+  {
+   "q": "Does a quiet mode really help?",
+   "a": "It slows the mechanism, which lowers noise at the cost of speed. Use it at night or during calls, and switch it off for rush jobs. The reduction varies by model, so treat it as a modest gain, not a silent mode."
+  },
+  {
+   "q": "How do I find a printer's noise level?",
+   "a": "Check the maker's spec sheet for a decibel figure and see whether it is sound power or pressure. Listings often omit it."
+  },
+  {
+   "q": "Does placement change noise?",
+   "a": "Yes. A printer on a hollow desk vibrates and sounds louder. A stable shelf or a closet with airflow cuts perceived noise."
+  },
+  {
+   "q": "Does duplex make a printer louder?",
+   "a": "Yes, because the sheet reverses and re-enters with extra motors. Skip duplex if you do not use it, and note that the reversing pass adds a second sound burst for every two-sided sheet. For long reports, the paper savings may be worth the extra noise."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg"
+}

@@ -1,0 +1,21 @@
+# Home and office printers research (cluster: home-printers)
+- Cost per page = consumable price divided by ISO page yield, rated at 5% page coverage; dense pages cost more than the rating implies.
+- Mono laser is the cheapest per black page and fastest for text; toner does not dry out between infrequent jobs.
+- Cartridge inkjet is cheap to buy and expensive to run; suits light, occasional printing. Cartridges and printheads can dry out when idle.
+- Ink tank (bottle-refill) printers have the lowest color cost per page and very high yields per bottle set; slower first page and per-page speed than laser.
+- Rough break-even: above about 200 pages a month, laser or ink tank running costs offset the higher hardware price.
+- Color laser: four toner cartridges, fast, smudge and water resistant text; weaker for photo gradation; drums/imaging units are extra wear parts on many models.
+- Duplex jams: sheet must reverse and re-enter the path; curled, damp, thin or heavy paper, overloaded trays cause most jams.
+- Glossy photo paper, labels and heavy specialty media should be printed single-sided; wet first side smears in duplex.
+- Check the ADF sheet limit; overfilling the document feeder is a common jam cause.
+- Dye inks give vivid photo color on glossy paper; pigment inks resist fading and water better, ideal for text and documents.
+- Dedicated photo printers use extra color channels (gray, photo black, red) for smoother gradients and print borderless to 13x19 or 4x6.
+- Starter cartridges or setup toner often hold far less than full-size ones; check yield of the replacement, not the one in the box.
+- Subscription ink programs bundle ink by page count but can lock the printer to the plan; read the terms.
+- Third-party chip-locked firmware can reject non-OEM cartridges after updates on some brands.
+- Wireless: 2.4 GHz only radios are common; look for dual band Wi-Fi, Ethernet or USB fallback; AirPrint and Mopria avoid driver installs.
+- Noise: laser fusers and ink tank carriage movement both make sound; quiet modes slow the print speed.
+- Paper path: straight-through rear paths jam less on thick stock; curved paths are fine for plain paper.
+- Duty cycle is a ceiling, not a target; monthly recommended volume is the honest number.
+- Maintenance: dust the paper path, clean pickup rollers with a damp lint-free cloth, store paper flat and sealed, run a nozzle check on inkjets.
+- Print a few pages weekly on inkjets to keep nozzles from clogging.

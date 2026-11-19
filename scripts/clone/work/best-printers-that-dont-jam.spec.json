@@ -1,0 +1,605 @@
+{
+ "guideSlug": "best-printers-that-dont-jam",
+ "categorySlug": "home-machines",
+ "mainKeyword": "printers that dont jam",
+ "guideTitle": "Best Printers That Don't Jam (2026)",
+ "metaTitle": "Best Printers That Don't Jam in 2026",
+ "metaDescription": "No printer is jam-proof, but six models with simple paper paths and big trays jam less. Compare laser, tank and inkjet picks and the habits that matter.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "13 min",
+ "expertTake": "The Brother DCP-L2640DW is the best pick for avoiding jams because a simple laser paper path and a roomy tray remove most causes. The Epson EcoTank ET-2800 is the value pick for a household that wants a short, forgiving path at a lower tier. Anyone whose jams come from damp paper or overfilled trays should fix those habits before buying anything.",
+ "introParagraphs": [
+  "No printer is jam-proof, and any guide that promises one is selling something. What a buyer can control is the design of the paper path, the size of the tray, the way the machine handles two-sided pages and, most important, the paper and habits that go into it.",
+  "Jams cluster around a few causes: curled or damp paper, overfilled trays, worn pickup rollers and special media forced through a path built for plain sheets. The picks below were chosen for features that reduce those risks, not for a claim no maker can honestly make."
+ ],
+ "products": [
+  {
+   "id": "B0CPLFTPCV",
+   "badge": "Best Overall",
+   "name": "Brother DCP-L2640DW Duplex Mono Laser All-in-One",
+   "specs": [
+    "Mono laser",
+    "36 ppm",
+    "Auto duplex",
+    "Print scan copy"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Monochrome laser multifunction"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 36 pages per minute"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic two-sided"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy"
+    },
+    {
+     "label": "Wireless",
+     "value": "Wi-Fi with mobile printing"
+    }
+   ],
+   "description": "A laser draws paper through a short, fixed path: pickup roller, drum, fuser and out. With few turns and no wet ink to smear, there are fewer places for a sheet to stall, and the Brother DCP-L2640DW is the cleanest example in this lineup. Rated at up to 36 pages per minute with automatic duplex, it also handles two-sided jobs through a defined reversing channel.\n\nOne limit to weigh is that duplex is a second trip through the machine, and that is where many jams happen on any printer. Use fresh flat paper in the stated weight range and the risk falls. The scanner is a flatbed rather than a feeder, so it avoids feeder jams entirely, but it is slower for stacks.\n\nOwnership favors prevention. Keep paper in its wrapper until you load it, do not overfill the tray and clean the pickup rollers with a damp lint-free cloth twice a year. A jam on this class of machine is almost always a paper or tray problem rather than a mechanical one, which makes it a forgiving machine to own. If a jam does happen, the rear and front covers open wide enough to reach the path, so clearing it takes a minute rather than a service call.",
+   "bestFor": "Anyone who wants the simplest, most forgiving paper path.",
+   "pros": [
+    "Short laser paper path with few turns",
+    "Automatic duplex with a defined reversing channel",
+    "Flatbed scanner avoids feeder jams",
+    "Toner path has no wet ink to smear"
+   ],
+   "cons": [
+    "Black and white only",
+    "Duplex still adds a second pass that can jam",
+    "Flatbed is slow for stack scanning"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CPLFTPCV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CFCYYZLM",
+   "badge": "Best Color Laser Tray",
+   "name": "Brother Wireless Duplex Color Laser Printer, 19 ppm",
+   "specs": [
+    "Color laser",
+    "250-sheet tray",
+    "Auto duplex",
+    "19 ppm"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Color laser, print only"
+    },
+    {
+     "label": "Input tray",
+     "value": "250 sheets"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic two-sided"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 19 pages per minute"
+    },
+    {
+     "label": "Wireless",
+     "value": "Wi-Fi with mobile printing"
+    }
+   ],
+   "description": "This Brother color laser pairs the laser's short paper path with a 250-sheet tray, which cuts the single most common jam cause: overfilling a small tray and mashing the stack. A bigger tray lets you load a ream without crowding the edge guides.\n\nThe main concession is that color lasers carry more parts than mono machines, including a belt and four toner stages, and a duplex unit adds a second pass. The 19 pages per minute rating is relaxed, which is gentle on paper but slow for long jobs. It is a print-only model, so scanner jams are out of the picture.\n\nOwnership centers on tray discipline. Keep the guides snug against the stack, fan the ream before loading and store paper flat. Replace worn rollers when the pickup starts to double-feed rather than fighting it with settings, and choose high-yield toner so the printer is not repeatedly opened for cartridge swaps.",
+   "bestFor": "Offices that want color with a large tray and a laser path.",
+   "pros": [
+    "250-sheet tray avoids overfilling",
+    "Laser paper path with few turns",
+    "Automatic duplex built in",
+    "Print-only body has no scanner jams"
+   ],
+   "cons": [
+    "Color lasers have more internal parts than mono",
+    "19 pages per minute is slow for long jobs",
+    "Higher tier than inkjets"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CFCYYZLM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GTN9ZGRS",
+   "badge": "Best Feeder Design",
+   "name": "Brother INKvestment 5010 Wireless Duplex All-in-One",
+   "specs": [
+    "Inkjet",
+    "250-sheet tray",
+    "50-page duplex ADF",
+    "PerfectPrint"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Color inkjet all-in-one with tank system"
+    },
+    {
+     "label": "Input tray",
+     "value": "250 sheets"
+    },
+    {
+     "label": "Feeder",
+     "value": "50-page single-pass duplex ADF"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic print, copy and scan"
+    },
+    {
+     "label": "Feature",
+     "value": "PerfectPrint Auto Detection"
+    }
+   ],
+   "description": "Brother's INKvestment 5010 has a 250-sheet tray and a 50-page single-pass duplex feeder, and the listing highlights its PerfectPrint Auto Detection System as a way to help ensure reliable output. A single-pass duplex scanner reads both sides in one trip, avoiding the flip-and-rescan routine that makes feeder jams common.\n\nThe tradeoff is complexity. It has more rollers and a longer path than a basic laser, and a stack of curled originals in the feeder can still jam. It is the biggest and priciest machine here, and the Brother DCP-L2640DW's simpler path is the safer choice for plain printing.\n\nOwnership is the inkjet routine plus feeder care. Load originals flat and unstapled, wipe the feeder rollers every few months and print weekly to keep the head wet. Use the paper settings that match your stock, and let the detection system warn you before a job fails.",
+   "bestFor": "Offices that scan stacks and want a feeder built for volume.",
+   "pros": [
+    "50-page single-pass duplex feeder",
+    "250-sheet tray reduces overfilling",
+    "Auto detection aimed at reliable output",
+    "Tank-style ink lowers cost per page"
+   ],
+   "cons": [
+    "Longest and most complex paper path here",
+    "Largest body and highest tier",
+    "Feeder jams if originals are curled or stapled"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GTN9ZGRS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09P45LR5T",
+   "badge": "Best Tank for Plain Paper",
+   "name": "Epson EcoTank ET-4800 Wireless Supertank All-in-One",
+   "specs": [
+    "Ink tank",
+    "15.5 ppm black",
+    "8.5 ppm color",
+    "4800x1200"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Ink tank multifunction"
+    },
+    {
+     "label": "Speed",
+     "value": "15.5 black / 8.5 color ppm"
+    },
+    {
+     "label": "Resolution",
+     "value": "4800 x 1200"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy, fax"
+    },
+    {
+     "label": "Head",
+     "value": "Micro Piezo heat-free"
+    }
+   ],
+   "description": "Epson's ET-4800 prints at a relaxed 15.5 pages per minute in black and 8.5 in color, and a slower pace is gentle on paper because the sheet is not yanked through the path. It uses a heat-free Micro Piezo head, and the listing stresses the cartridge-free tank design that avoids the small-cartridge swaps where mishandling can occur.\n\nThe price of this design is that wet ink and plain paper are a pairing that can curl sheets in humid rooms, and curl is a jam cause. Pigment black ink dries quickly, but heavy color coverage can warp thin paper. It also carries a feeder for scanning, which adds a path that can jam on creased originals.\n\nOwnership rewards a dry, flat paper stash and weekly printing. Use paper of the stated weight, avoid heavy ink coverage on thin stock and keep the paper tray guides snug. Since the machine prints slowly, give it time and never pull a sheet against the feed direction. If you print on thin stock, switch to a heavier plain paper so ink does not warp it, and run a nozzle check when streaks appear.",
+   "bestFor": "Households printing plain documents at a relaxed pace.",
+   "pros": [
+    "Relaxed speed is gentle on the sheet",
+    "Cartridge-free tanks avoid swap handling",
+    "Heat-free head built for reliability",
+    "Scan, copy and fax included"
+   ],
+   "cons": [
+    "Heavy color on thin paper can curl sheets",
+    "Slow at 8.5 pages per minute in color",
+    "Feeder adds a scanning path that can jam"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B09P45LR5T?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B096N8DN2H",
+   "badge": "Best Value",
+   "name": "Epson EcoTank ET-2800 Wireless Ink Tank All-in-One",
+   "specs": [
+    "Ink tank",
+    "Wi-Fi",
+    "Print scan copy",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Refillable ink tank all-in-one"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy"
+    },
+    {
+     "label": "Wireless",
+     "value": "Wi-Fi"
+    },
+    {
+     "label": "Refill",
+     "value": "Cartridge-free bottles"
+    },
+    {
+     "label": "Class",
+     "value": "Entry EcoTank"
+    }
+   ],
+   "description": "The ET-2800 is the simplest machine in this guide: a small tank printer with a flatbed scanner and no feeder, which removes the feeder as a jam source. The paper path is short and the tank design uses no tiny cartridges to seat.\n\nBe aware that it has no duplex in the listing, so there is no reversing channel to fail. It also has a small tray, which makes overfilling tempting. Against the Brother DCP-L2640DW, it is slower but equally uncomplicated.\n\nOwnership is about restraint: do not overload the tray, store paper flat and print weekly. The compact body sits easily on a desk, and the front tank window shows ink levels without a menu. For a family that wants the fewest moving parts at a low tier, this is a sound pick. If you ever need to scan a stack, take it to a feeder-equipped machine rather than forcing the flatbed to do the job, and keep a small stock of good paper beside the printer.",
+   "bestFor": "Households that want the fewest moving parts at a low tier.",
+   "pros": [
+    "No feeder, no duplex means fewer jam paths",
+    "Short paper path in a compact body",
+    "Cartridge-free tank design",
+    "Front window shows ink level"
+   ],
+   "cons": [
+    "No duplex or feeder in the listing",
+    "Small tray invites overfilling",
+    "Slower than a laser"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B096N8DN2H?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31eKmxnpbkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B09CDXKNB9",
+   "badge": "Best Cartridge Inkjet",
+   "name": "Canon PIXMA TR4720 4-in-1 Wireless Inkjet with ADF",
+   "specs": [
+    "Inkjet",
+    "4-in-1",
+    "Feeder",
+    "Wi-Fi"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Cartridge inkjet multifunction"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, copy, scan, fax"
+    },
+    {
+     "label": "Feeder",
+     "value": "Automatic document feeder"
+    },
+    {
+     "label": "Power",
+     "value": "0.8 W standby"
+    },
+    {
+     "label": "Setup",
+     "value": "Canon PRINT app"
+    }
+   ],
+   "description": "Canon's TR4720 is a compact inkjet with a feeder and easy cartridge installation, a design that keeps the print path simple. It has no automatic duplex in the listing, so two-sided printing is manual, but a manual flip happens outside the machine where you can see the sheet.\n\nThe catch is that cartridge inkjets have more consumable handling and a head that needs steady use. A dried head causes poor prints, not usually jams, but wet-ink curl on thin paper can. The feeder is the one path to watch, and it can jam if originals are creased.\n\nOwnership favors tidy habits. Use the feeder only with flat originals, print weekly and keep paper stored sealed. For a home user who wants a modest machine with a feeder and no duplex complexity, it is a reasonable middle path. Straighten any curled original under a book before loading it, and never staple pages that will go through the feeder.",
+   "bestFor": "Home users who want a feeder without duplex complexity.",
+   "pros": [
+    "No duplex unit means one less jam path",
+    "Feeder for stack scanning",
+    "Easy cartridge installation",
+    "Low standby power draw"
+   ],
+   "cons": [
+    "Feeder can jam on creased originals",
+    "Manual duplex only",
+    "Cartridge ink adds running cost"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B09CDXKNB9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415PuxvZ1wL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Paper path length and turns",
+   "explanation": "Every turn in the path is a chance for a sheet to catch. A laser like the Brother DCP-L2640DW has a short, mostly straight path, while a printer with a feeder and a duplex unit adds more turns. Fewer turns means fewer jam chances."
+  },
+  {
+   "criterion": "Tray size and overfilling",
+   "explanation": "The most common home jam cause is a stuffed tray. A 250-sheet tray, as on the Brother color laser and INKvestment 5010, lets you load a ream without crowding the guides. A small tray invites overfilling."
+  },
+  {
+   "criterion": "Duplex design",
+   "explanation": "Duplex sends the sheet through a second pass, and that reversal is where many jams happen. The Brother DCP-L2640DW and INKvestment 5010 have it, while the Epson ET-2800 and Canon TR4720 do not. If you rarely print two-sided, skipping duplex removes a jam path."
+  },
+  {
+   "criterion": "Paper quality and storage",
+   "explanation": "Damp, curled or cheap thin paper causes more jams than any mechanical fault. Store reams sealed and flat, and fan them before loading. Match the paper weight to the printer's stated range."
+  },
+  {
+   "criterion": "Special media",
+   "explanation": "Labels, glossy photo paper and envelopes can jam on a path built for plain paper. Use the rear or manual slot when the printer offers one and check the printer's limits. Printing labels through a duplex path is asking for trouble."
+  },
+  {
+   "criterion": "Feeder condition",
+   "explanation": "A scanner feeder jams on curled, stapled or creased originals. The Brother INKvestment 5010 and Canon TR4720 have feeders, while the Epson ET-2800 uses a flatbed only. If you rarely scan stacks, a flatbed removes the problem."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Input tray sheets",
+   "meaning": "Tray capacity is the number of sheets loaded at once. Bigger trays allow looser, safer loading.",
+   "watchFor": "The Brother color laser and INKvestment 5010 list 250 sheets."
+  },
+  {
+   "spec": "Single-pass duplex ADF",
+   "meaning": "The feeder scans both sides in one trip, avoiding the flip that causes feeder jams.",
+   "watchFor": "The Brother INKvestment 5010 lists a 50-page single-pass duplex feeder."
+  },
+  {
+   "spec": "Pages per minute",
+   "meaning": "A slower speed is gentler on the sheet. Speed matters little for jams in itself.",
+   "watchFor": "The Epson ET-4800 lists 15.5 black and 8.5 color, the Brother DCP-L2640DW lists up to 36."
+  },
+  {
+   "spec": "Duplex",
+   "meaning": "Automatic duplex reverses the sheet inside the printer. Manual duplex does it outside.",
+   "watchFor": "The Brother DCP-L2640DW has automatic duplex, the Canon TR4720 does not."
+  },
+  {
+   "spec": "Auto detection",
+   "meaning": "Some printers sense paper type or problems before a job fails. The benefit depends on the implementation.",
+   "watchFor": "The Brother INKvestment 5010 lists PerfectPrint Auto Detection."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Paper path design",
+   "description": "We considered path length, turns and the presence of a duplex unit or feeder. The Brother DCP-L2640DW's short laser path scored well. Models with more parts were judged on their safeguards."
+  },
+  {
+   "title": "Tray and handling",
+   "description": "We looked at tray size, from the 250-sheet Brother models to smaller entry trays. Overfilling is the top cause of jams, so big trays earned credit. Guides and fit were noted."
+  },
+  {
+   "title": "Duplex and feeder risk",
+   "description": "We separated automatic duplex from manual and flagged feeder paths. The Epson ET-2800's lack of both counted as fewer jam paths. Scanning needs were weighed."
+  },
+  {
+   "title": "Media tolerance",
+   "description": "We checked what each machine says about special media and paper weight. Plain paper in range is safe, while labels and gloss need care. Wet-ink curl was flagged for inkjets."
+  },
+  {
+   "title": "Ownership habits",
+   "description": "We weighed how much prevention each machine asks of the owner, from roller cleaning to weekly printing. Honest advice beats a no-jam claim. The Brother DCP-L2640DW asks the least."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Jam Cause",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Overfilled trays",
+      "Brother Color Laser 19 ppm",
+      "250-sheet tray gives room"
+     ],
+     [
+      "Duplex re-feed jams",
+      "Epson EcoTank ET-2800",
+      "No duplex unit to fail"
+     ],
+     [
+      "Feeder jams on stacks",
+      "Brother INKvestment 5010",
+      "Single-pass duplex feeder"
+     ],
+     [
+      "Wet ink curling paper",
+      "Brother DCP-L2640DW",
+      "Toner path stays dry"
+     ],
+     [
+      "Plain paper at slow pace",
+      "Epson EcoTank ET-4800",
+      "Relaxed 15.5 ppm speed"
+     ],
+     [
+      "Manual duplex, simple feeder",
+      "Canon PIXMA TR4720",
+      "No duplex unit, easy cartridges"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Epson EcoTank ET-2800",
+      "Simplest path at a low price"
+     ],
+     [
+      "Low tier",
+      "Canon PIXMA TR4720",
+      "Feeder without duplex"
+     ],
+     [
+      "Lower mid tier",
+      "Epson EcoTank ET-4800",
+      "Tank with a feeder and fax"
+     ],
+     [
+      "Mid tier",
+      "Brother DCP-L2640DW",
+      "Laser with duplex"
+     ],
+     [
+      "Upper tier",
+      "Brother INKvestment 5010",
+      "Single-pass duplex feeder"
+     ],
+     [
+      "Top tier",
+      "Brother Color Laser 19 ppm",
+      "Color laser with a big tray"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Laser vs Inkjet for Jams",
+   "cards": [
+    {
+     "label": "Laser",
+     "text": "A laser's dry toner and short path reduce curl and smear, so the Brother DCP-L2640DW and color laser handle plain paper reliably. Their fusers add heat, and a stray label can melt inside."
+    },
+    {
+     "label": "Inkjet or tank",
+     "text": "An inkjet path is gentle but wet ink can curl thin paper. The Epson ET-2800 and ET-4800 run cooler, but humid rooms and heavy coverage cause curl."
+    }
+   ],
+   "note": "Pick a laser if your jams come from curl and humidity; pick a tank if you want a cool, gentle path."
+  },
+  {
+   "subheading": "Feeder vs Flatbed",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Feeder for stacks",
+      "Brother INKvestment 5010",
+      "50-page duplex feeder"
+     ],
+     [
+      "Feeder, simple",
+      "Canon PIXMA TR4720",
+      "Basic automatic feeder"
+     ],
+     [
+      "Flatbed only",
+      "Epson EcoTank ET-2800",
+      "No feeder to jam"
+     ],
+     [
+      "Flatbed laser",
+      "Brother DCP-L2640DW",
+      "Simple scan and copy"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Fixing the Cause Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for the real cause before buying. Curled paper, a stuffed tray and worn rollers cause most jams, and a new printer does not fix them."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Brother DCP-L2640DW suits those who want fewer failure points. The Brother color laser suits those whose problem is tray size."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you scan stacks daily, where the Brother INKvestment 5010 earns its tier, or if you want color with a large tray."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you print plain pages and scan occasionally, where the Epson ET-2800 or Canon TR4720 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Store paper flat and sealed",
+   "interval": "Always",
+   "why": "Damp or curled sheets cause most jams. Keep the ream in its wrapper."
+  },
+  {
+   "task": "Fan the ream before loading",
+   "interval": "Every load",
+   "why": "Separating sheets stops two from feeding together. Do not overfill."
+  },
+  {
+   "task": "Clean pickup rollers",
+   "interval": "Every six months",
+   "why": "Glazed rubber slips and misfeeds. Wipe with a damp lint-free cloth."
+  },
+  {
+   "task": "Clear jams along the feed path",
+   "interval": "When they occur",
+   "why": "Pulling against the feed damages rollers. Open the covers and pull gently with the path."
+  },
+  {
+   "task": "Keep guides snug",
+   "interval": "Every load",
+   "why": "Loose guides let paper skew. Press them lightly against the stack."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is there a printer that never jams?",
+   "a": "No. Any machine can jam on damp paper, an overfilled tray or special media. A simple path and a big tray reduce the risk, but habits matter most."
+  },
+  {
+   "q": "Do lasers jam less than inkjets?",
+   "a": "Often, because toner is dry and the path is short, but heat and special media bring their own risks. Both can jam on bad paper."
+  },
+  {
+   "q": "Why does my printer jam on duplex?",
+   "a": "The sheet must reverse and re-enter, and curled, damp or heavy paper fails at that step. Print heavy or glossy media single-sided, and if a particular document keeps jamming, lower the ink coverage or print it as separate single-sided jobs. Keep the duplex path clean by clearing every scrap of torn paper after a jam."
+  },
+  {
+   "q": "Does paper quality matter?",
+   "a": "Yes. Cheap thin paper and paper stored in a humid room curl and cause jams. Use paper in the stated weight and keep it sealed."
+  },
+  {
+   "q": "How often should I clean the rollers?",
+   "a": "About every six months, or sooner if the printer starts double-feeding. Use a damp lint-free cloth and let the rollers dry."
+  },
+  {
+   "q": "Will a bigger tray reduce jams?",
+   "a": "It helps, because you can load without cramming the stack against the guides. Overfilling is a common cause of jams."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg"
+}
