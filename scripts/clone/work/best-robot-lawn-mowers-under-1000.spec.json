@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-robot-lawn-mowers-under-1000",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "robot lawn mowers under 1000",
+ "guideTitle": "Best Robot Lawn Mowers Under $1000 (2026)",
+ "metaTitle": "Best Robot Lawn Mowers Under $1000 (2026)",
+ "metaDescription": "Six wire-free robot lawn mowers that list for under $1000, compared on navigation, slope limits, coverage claims and the ownership chores they replace.",
+ "lastUpdated": "2026-11-25",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41CV9jy+TuL._SL500_.jpg",
+ "expertTake": "The ANTHBOT M5 is the best overall pick because it pairs dual vision with RTK navigation and a stated 45 percent slope rating on a small lawn. The LEBOSBO V3 is the value pick for a simple yard that only needs magnetic no-go strips. Anyone with a large, tree-covered or very steep property should skip this tier and look at pricier wire-based or all-terrain machines.",
+ "introParagraphs": [
+  "A robot mower trades one big weekly mowing job for a small daily one. It cuts a little each day, leaves tiny clippings to feed the turf and parks itself on a charging station when the battery runs low. The attraction is not speed but the end of the chore.",
+  "At this budget most models skip the old buried boundary wire and navigate by satellite, cameras or both. That makes setup quicker but adds new ways to fail, such as poor sky view or glare on a camera. We ranked by how honestly each listing describes lawn size, slope limits and navigation. Prices move, and the $1000 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0GJ5983M1",
+   "badge": "Best Overall",
+   "name": "ANTHBOT M5 wire-free robot mower, dual vision and RTK",
+   "price": "",
+   "specs": [
+    "1/8 acre",
+    "Dual vision + RTK",
+    "45% slopes",
+    "No wire"
+   ],
+   "specList": [
+    {
+     "label": "Lawn size",
+     "value": "About one eighth acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "Dual AI vision with network RTK"
+    },
+    {
+     "label": "Slope",
+     "value": "Up to 45 percent gradient"
+    },
+    {
+     "label": "Setup",
+     "value": "No perimeter wire"
+    },
+    {
+     "label": "Control",
+     "value": "App"
+    }
+   ],
+   "description": "ANTHBOT's M5 combines two cameras with network RTK positioning, so it can mow without a buried wire and still keep a tight boundary. RTK is a satellite correction technique that narrows a normal GPS error of several feet down to centimeters, and cameras fill the gaps when a tree or wall blocks the sky. The listing describes it for roughly an eighth of an acre and for slopes up to a 45 percent gradient.\n\nThat 45 percent figure is a ceiling on dry grass, equal to about 24 degrees, and wet turf lowers traction well below it. Against the LOPKIN in this list, the ANTHBOT covers a much smaller area but is built around a compact, tidy layout, so it suits a small suburban lawn rather than an orchard. The dual vision also gives it better odds of avoiding toys and hoses than a single-camera model.\n\nIn ownership terms, a robot mower needs a clear patch of sky for the RTK antenna and a level charging spot near a weatherproof outlet. The blades are small and wear quickly, so budget for a replacement set every few months of daily mowing. Trim the edges along fences by hand, since robots leave a thin uncut strip.",
+   "bestFor": "Small and medium suburban lawns with some slope and a clear sky view.",
+   "pros": [
+    "Dual cameras plus RTK reduce lost positions",
+    "Wire-free setup saves a weekend of digging",
+    "Stated 45 percent slope capability",
+    "App control for zones and schedules"
+   ],
+   "cons": [
+    "Coverage is limited to a small lawn",
+    "Needs open sky for best RTK accuracy"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0GJ5983M1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41CV9jy+TuL._SL500_.jpg"
+  },
+  {
+   "id": "B0HCZJ628F",
+   "badge": "Best Value",
+   "name": "LEBOSBO V3 AI vision robot mower, 1600 sq ft",
+   "price": "",
+   "specs": [
+    "1600 sq ft",
+    "AI vision",
+    "Magnetic strip",
+    "App control"
+   ],
+   "specList": [
+    {
+     "label": "Lawn size",
+     "value": "About 1,600 square feet"
+    },
+    {
+     "label": "Navigation",
+     "value": "AI vision obstacle avoidance"
+    },
+    {
+     "label": "No-go zones",
+     "value": "32 foot magnetic strip included"
+    },
+    {
+     "label": "Control",
+     "value": "Smart app"
+    },
+    {
+     "label": "Setup",
+     "value": "Wire-free"
+    }
+   ],
+   "description": "The LEBOSBO V3 is aimed at a small yard of about 1,600 square feet, roughly a twentieth of an acre. It uses AI vision for obstacle avoidance, and an included 32 foot magnetic strip lets you set up no-go zones around flower beds or a pond without drawing them in an app. That tactile approach is simple for a first-time owner.\n\nThe app lets you manage schedules from anywhere. The listing does not stress satellite navigation, so it appears to rely more on vision and the physical boundary than on RTK, which makes it less dependent on sky view but also less precise on complex layouts. Compared with the ANTHBOT, it covers a smaller area and lacks the RTK sophistication, and that is why it sits at the budget end of the list.\n\nOwnership is light for a small lawn: keep the cameras clean, check the strip is still in place after mowing and replace the blades regularly. A small robot like this is best for a patch of grass behind a townhouse, not a rolling yard.",
+   "bestFor": "Small, simple yards where magnetic strips are enough to keep it out of beds.",
+   "pros": [
+    "Magnetic strip sets no-go zones simply",
+    "AI vision avoids toys and hoses",
+    "App scheduling from anywhere",
+    "Smallest coverage keeps the machine light"
+   ],
+   "cons": [
+    "Only about 1,600 square feet of coverage",
+    "Less precise on complex garden layouts"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0HCZJ628F?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/416Jlyl1nfL._SL500_.jpg"
+  },
+  {
+   "id": "B0DRG2HMD2",
+   "badge": "Best Edge Cutting",
+   "name": "ECOVACS GOAT O1000 RTK wire-free robot mower, 1/4 acre",
+   "price": "",
+   "specs": [
+    "1/4 acre",
+    "RTK + vision",
+    "3D avoidance",
+    "TruEdge"
+   ],
+   "specList": [
+    {
+     "label": "Lawn size",
+     "value": "Up to about a quarter acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "RTK with AIVI 3D avoidance"
+    },
+    {
+     "label": "Edge mowing",
+     "value": "TruEdge consistent edge mode"
+    },
+    {
+     "label": "Setup",
+     "value": "Perimeter wire free"
+    },
+    {
+     "label": "Control",
+     "value": "App"
+    }
+   ],
+   "description": "ECOVACS targets a lawn of up to about a quarter acre with the GOAT O1000. It uses RTK positioning with AIVI 3D obstacle avoidance and an edge mode the brand calls TruEdge, which is meant to hug borders and cut fewer missed strips. Edge quality is the biggest complaint about robot mowers, so a feature aimed at it is worth attention.\n\nThe 3D avoidance is meant to spot pets and property rather than simply bump into them. Next to the ANTHBOT, it covers about twice the area, but the listing quotes no steep-slope figure, so a hilly lawn should be treated with caution. A stable RTK fix still needs clear sky, so check your tree cover.\n\nExpect the usual robot chores: hose the deck lightly, never pressure wash it, replace the blade set regularly and keep the charging base level. A boundary trim with a string trimmer will still be needed at fence lines and tight corners. If your lawn has a long, narrow side yard, check that the passage is wide enough for the mower to turn, since many robots need a minimum corridor width.",
+   "bestFor": "Quarter-acre lawns where tidy edges matter.",
+   "pros": [
+    "Quarter-acre coverage claim",
+    "Edge mode targets the border strip",
+    "3D obstacle avoidance for pets and toys",
+    "Wire-free RTK setup"
+   ],
+   "cons": [
+    "No stated steep-slope rating",
+    "Needs good sky view for RTK"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DRG2HMD2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31tmOKOs0VL._SL500_.jpg"
+  },
+  {
+   "id": "B0G814F6Z4",
+   "badge": "Best All-Wheel Drive",
+   "name": "Segway Navimow i206 AWD wire-free robot mower, 0.15 acre",
+   "price": "",
+   "specs": [
+    "0.15 acre",
+    "AWD",
+    "45% slopes",
+    "NRTK + vision"
+   ],
+   "specList": [
+    {
+     "label": "Lawn size",
+     "value": "About 0.15 acre"
+    },
+    {
+     "label": "Drive",
+     "value": "All-wheel drive"
+    },
+    {
+     "label": "Slope",
+     "value": "Up to 45 percent"
+    },
+    {
+     "label": "Navigation",
+     "value": "Network RTK with vision"
+    },
+    {
+     "label": "Setup",
+     "value": "No perimeter wire"
+    }
+   ],
+   "description": "Segway's Navimow i206 adds all-wheel drive to a wire-free RTK design. Four driven wheels hold traction on bumps, wet grass and slopes where a two-wheel-drive robot spins and digs, and the listing quotes up to a 45 percent slope. The approach is built for uneven ground rather than a billiard-table lawn.\n\nPrecision steering is claimed to protect the turf, which matters because robot mowers can scuff soft ground when they pivot. The listing also describes an intelligent power mode that trades speed for battery use depending on the grass, and it covers about 0.15 acre. Set beside the ANTHBOT it adds drive traction while keeping a similar area.\n\nIn ownership, check the wheels for grass buildup and clean the treads after wet mowing, since clogged treads lose grip. Keep the charging station on solid, level ground and replace the blades on schedule. Because four driven wheels pivot less gently on soft soil, avoid sharp turns in the schedule after heavy rain.",
+   "bestFor": "Bumpy or sloped small lawns where traction decides success.",
+   "pros": [
+    "All-wheel drive grips slopes and bumps",
+    "Stated 45 percent slope capability",
+    "RTK with vision for wire-free setup",
+    "Steering designed to protect turf"
+   ],
+   "cons": [
+    "Coverage is modest at about 0.15 acre",
+    "Wheel treads need cleaning after wet runs"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0G814F6Z4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31+YvYLMXPL._SL500_.jpg"
+  },
+  {
+   "id": "B0H9RM3V44",
+   "badge": "Best Large Lawn",
+   "name": "LOPKIN L2500-NEO robot mower, 0.9 acre, NetRTK and AI vision",
+   "price": "",
+   "specs": [
+    "0.9 acre",
+    "NetRTK + AI",
+    "57% slopes",
+    "Wi-Fi HaLow"
+   ],
+   "specList": [
+    {
+     "label": "Lawn size",
+     "value": "About 0.9 acre"
+    },
+    {
+     "label": "Navigation",
+     "value": "NetRTK, AI vision, GNSS/INS fusion"
+    },
+    {
+     "label": "Slope",
+     "value": "Up to 57 percent"
+    },
+    {
+     "label": "Link",
+     "value": "Wi-Fi HaLow long range"
+    },
+    {
+     "label": "Setup",
+     "value": "Wire-free"
+    }
+   ],
+   "description": "The LOPKIN L2500-NEO is the big-lawn option, with a stated 0.9 acre coverage and a 57 percent slope capability. It fuses NetRTK, AI vision and an inertial sensor with GNSS, so when a satellite fix drops under trees the inertial data keeps it on track for a short while. That layered navigation is more robust than RTK alone.\n\nIt also uses a Wi-Fi HaLow long-range link through a dedicated auto-pairing unit, which helps connectivity across a large property where ordinary Wi-Fi fades. Measured against the other mowers in this list, it is the one that claims real acreage, but coverage figures assume simple, open grass, and a complex layout will stretch the daily schedule.\n\nIn ownership, a lawn this size needs patience with the first mapping and a long enough daily window. Keep the blades fresh, the charging base level and the antenna placement clear. Expect to finish edges manually.",
+   "bestFor": "Large, mostly open lawns that are too big for the small robots.",
+   "pros": [
+    "Largest stated coverage at 0.9 acre",
+    "Fused navigation holds under tree cover",
+    "Highest stated slope rating at 57 percent",
+    "Long-range Wi-Fi HaLow link"
+   ],
+   "cons": [
+    "Claimed acreage assumes simple open turf",
+    "More setup time than small models"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H9RM3V44?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WAFhYxI9L._SL500_.jpg"
+  },
+  {
+   "id": "B0GRVYN12B",
+   "badge": "Best Mapping Choice",
+   "name": "Roborock RockNeo Q110H wire-free robot mower, RTK and VSLAM",
+   "price": "",
+   "specs": [
+    "Full-band RTK",
+    "VSLAM",
+    "Stereo vision",
+    "Dual mapping"
+   ],
+   "specList": [
+    {
+     "label": "Navigation",
+     "value": "Full-band RTK with VSLAM"
+    },
+    {
+     "label": "Avoidance",
+     "value": "Dual-camera stereo vision"
+    },
+    {
+     "label": "Mapping",
+     "value": "Two mapping modes"
+    },
+    {
+     "label": "Setup",
+     "value": "No buried wire"
+    },
+    {
+     "label": "Control",
+     "value": "App"
+    }
+   ],
+   "description": "Roborock's RockNeo Q110H uses full-band RTK together with VSLAM, a camera-based method that builds a map from visual features. Full-band reception uses multiple satellite frequencies, which helps hold a fix near trees and buildings. Two mapping modes give you a choice between driving the border yourself and letting the mower map it.\n\nA dual-camera stereo system provides depth for obstacle avoidance, so it can judge distance to a toy or a hose, not just detect it. Against the ECOVACS, it offers similar navigation, but the listing is less specific about lawn size, so you should check the stated area before buying.\n\nOwnership follows the robot-mower pattern: keep the cameras clean, calibrate the map after any landscaping change and replace the blade discs regularly. Lighting matters for vision, so test a dusk schedule before relying on it. Because the system builds its own map, anything that changes the look of the garden, like a new shed or a cut-down tree, calls for a quick remap. Keep the firmware current so navigation fixes arrive.",
+   "bestFor": "Owners who want flexible mapping and strong satellite plus vision navigation.",
+   "pros": [
+    "Full-band RTK holds under partial cover",
+    "Stereo cameras judge obstacle distance",
+    "Two mapping modes suit different lawns",
+    "Wire-free setup"
+   ],
+   "cons": [
+    "Listing is vague on lawn size",
+    "Vision weakens in low light and glare"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GRVYN12B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/313sI7BfCPL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Navigation method",
+   "explanation": "RTK navigation uses satellite corrections to reach centimeter accuracy, but it needs a clear view of the sky. Vision navigation builds a map from camera images and works under trees but struggles in low light. The best models in this list fuse both, like the LOPKIN's NetRTK plus AI plus inertial sensors. If your lawn sits under tall trees or beside tall walls, prefer fused navigation. If it is open, either works well. A quick test is to stand in the middle of the lawn on a clear day and look up: if you can see a wide arc of open sky, RTK will lock quickly. Walls and tall hedges also bounce signals, which can shift the fix by a foot or more near the boundary."
+  },
+  {
+   "criterion": "Lawn size against real coverage",
+   "explanation": "Area ratings are written for simple, open lawns, such as the LOPKIN's 0.9 acre or the LEBOSBO's 1,600 square feet. A lawn with narrow gaps, many beds or steep sections takes longer per square foot. Treat the rating as a ceiling and buy one tier up if your yard is complicated. Also remember the mower runs a few hours a day at most, so a larger lawn means more days between full passes. If the grass grows fast in spring, a small robot on a big lawn will never catch up."
+  },
+  {
+   "criterion": "Slope rating and traction",
+   "explanation": "Slope is stated as a percent grade, with the ANTHBOT and Segway at 45 percent and the LOPKIN at 57. Those figures are for dry grass, and wet turf cuts traction a lot. All-wheel drive, as on the Segway, holds better on bumps and wet ground than two-wheel drive. Ruts matter too: a robot that follows the same path every day can wear grooves into soft turf, so look for a randomised or offset path option. Check the app for a setting that changes the mowing angle between runs."
+  },
+  {
+   "criterion": "Obstacle avoidance",
+   "explanation": "Camera-based avoidance handles toys, hoses and pets, but it depends on light and a clean lens. Stereo systems, like the Roborock's dual cameras, judge distance better than a single lens. No camera replaces a physical no-go zone around a pond or a drop. Before the first run, walk the lawn and pick up anything small, because a dog toy or a garden hose can still tangle the blades. Over time you will learn which objects the camera misses and can adjust your habits."
+  },
+  {
+   "criterion": "No-go zones and edges",
+   "explanation": "Flower beds, ponds and gravel strips need exclusion zones. The LEBOSBO includes a 32 foot magnetic strip, while the others draw zones in an app. Edge quality varies, and the ECOVACS edge mode targets the strip along borders. Even then, plan a quick string-trimmer pass at fences."
+  },
+  {
+   "criterion": "Connectivity and security",
+   "explanation": "A mower that loses its app link cannot take new schedules. The LOPKIN's Wi-Fi HaLow link is designed for range on large properties. Look for a PIN and lift alarm too, since a robot left outside overnight is a theft target. Keep the app account secured with a strong password, because the same app that sets schedules can also unlock the mower."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "RTK",
+   "meaning": "A satellite correction that cuts position error to centimeters. It needs open sky.",
+   "watchFor": "Most mowers here use RTK or network RTK."
+  },
+  {
+   "spec": "VSLAM",
+   "meaning": "A camera-based mapping method. It builds a map from visual features.",
+   "watchFor": "The Roborock lists it, and low light weakens it."
+  },
+  {
+   "spec": "Slope percent",
+   "meaning": "Rise over run times 100. A 45 percent slope is about 24 degrees.",
+   "watchFor": "The LOPKIN states 57, the ANTHBOT and Segway state 45."
+  },
+  {
+   "spec": "Coverage area",
+   "meaning": "The lawn size the maker recommends. It assumes simple, open grass.",
+   "watchFor": "Ranges from 1,600 square feet on the LEBOSBO to 0.9 acre on the LOPKIN."
+  },
+  {
+   "spec": "Drive type",
+   "meaning": "How many wheels drive the machine. All-wheel drive grips bumps and slopes better.",
+   "watchFor": "The Segway lists AWD."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Navigation robustness",
+   "description": "We compared RTK, vision and fused navigation. The LOPKIN's fusion and the Roborock's full-band RTK scored highest. Single-method systems scored lower on shaded lawns."
+  },
+  {
+   "title": "Size and slope claims",
+   "description": "Coverage and slope figures were treated as best-case ceilings. The LOPKIN at 0.9 acre and 57 percent leads, the LEBOSBO is the smallest. Models with no stated slope were scored cautiously."
+  },
+  {
+   "title": "Traction and drive",
+   "description": "Drive type and steering design were weighed. The Segway's all-wheel drive earned credit for bumpy lawns. Two-wheel-drive models were judged on flat ground."
+  },
+  {
+   "title": "Setup effort",
+   "description": "We considered how much work first mapping takes. Magnetic strips, app zones and full-band RTK each have different effort. All were wire-free."
+  },
+  {
+   "title": "Cap compliance",
+   "description": "Every robot was verified under the $1000 cap at the time of writing. Notes rely on the spec sheet and owner feedback patterns. Items with no wire-free navigation were not considered."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Lawn Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Tiny yard under 2,000 sq ft",
+      "LEBOSBO V3",
+      "Small coverage, magnetic strip"
+     ],
+     [
+      "Small suburban lawn",
+      "ANTHBOT M5",
+      "Dual vision with RTK"
+     ],
+     [
+      "Quarter acre",
+      "ECOVACS GOAT O1000",
+      "Stated quarter-acre coverage"
+     ],
+     [
+      "Nearly an acre",
+      "LOPKIN L2500-NEO",
+      "0.9 acre claim"
+     ],
+     [
+      "Bumpy small lawn",
+      "Segway Navimow i206",
+      "All-wheel drive"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in this list",
+      "LEBOSBO V3",
+      "Basic vision robot"
+     ],
+     [
+      "Lower middle",
+      "Segway Navimow i206",
+      "AWD at a mid tier"
+     ],
+     [
+      "Middle",
+      "ANTHBOT M5",
+      "RTK with dual vision"
+     ],
+     [
+      "Upper middle",
+      "Roborock RockNeo Q110H",
+      "Full-band RTK and VSLAM"
+     ],
+     [
+      "Top of the cap",
+      "LOPKIN L2500-NEO",
+      "Largest coverage"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "RTK vs Vision",
+   "cards": [
+    {
+     "label": "RTK-led (ECOVACS, ANTHBOT)",
+     "text": "Very accurate in open sky and good at holding straight lines. Accuracy falls near tall trees and walls."
+    },
+    {
+     "label": "Vision-led (LEBOSBO, Roborock)",
+     "text": "Works under cover and adds obstacle avoidance. It weakens in low light, glare and rain."
+    }
+   ],
+   "note": "Choose RTK for open lawns and fused or vision systems for tree cover."
+  },
+  {
+   "subheading": "Terrain",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Steep sections",
+      "LOPKIN L2500-NEO",
+      "57 percent slope rating"
+     ],
+     [
+      "Bumps and wet grass",
+      "Segway Navimow i206",
+      "All-wheel drive"
+     ],
+     [
+      "Gentle slopes",
+      "ANTHBOT M5",
+      "45 percent rating"
+     ],
+     [
+      "Flat lawn",
+      "LEBOSBO V3",
+      "Simple and light"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Pet Owners Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Strong obstacle avoidance, a lift alarm and a way to set no-go zones. Pets leave toys and waste on the lawn, so a camera that can tell them apart helps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ECOVACS GOAT O1000 and the Roborock's stereo cameras are the best fits. Still pick up waste before mowing."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your lawn is over an acre, heavily wooded or very steep. Wire-based or tracked robots handle that better."
+    },
+    {
+     "label": "Save if",
+     "text": "Your lawn is tiny and flat. The LEBOSBO covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean cameras and sensors",
+   "interval": "Weekly",
+   "why": "Dust and grass film blind the vision system. Cleaning restores avoidance."
+  },
+  {
+   "task": "Replace blade discs",
+   "interval": "Every few months",
+   "why": "Robot blades are thin and wear quickly. Dull blades tear grass."
+  },
+  {
+   "task": "Hose off the deck lightly",
+   "interval": "Monthly",
+   "why": "Clippings clog the cutting area. Never pressure wash the motor area."
+  },
+  {
+   "task": "Check charging base",
+   "interval": "Monthly",
+   "why": "A tilted or dirty base causes missed docking. Keep it level and clear."
+  },
+  {
+   "task": "Winter storage",
+   "interval": "End of season",
+   "why": "Batteries dislike cold and a full charge. Clean it and store it indoors."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I still need a string trimmer?",
+   "a": "Yes. Robots leave a thin strip at fences and walls. A quick trim keeps edges tidy."
+  },
+  {
+   "q": "Is wire-free navigation reliable?",
+   "a": "In open yards, yes. Under heavy tree cover RTK can lose its fix, so fused navigation helps. If the mower stops mid-lawn with a navigation error, check for a new tree canopy or a recent change in leaf cover."
+  },
+  {
+   "q": "How steep a slope can they handle?",
+   "a": "Stated ratings run from 45 to 57 percent on dry grass. Wet grass lowers that, and all-wheel drive helps."
+  },
+  {
+   "q": "What happens to clippings?",
+   "a": "They are tiny and drop into the turf as mulch. Frequent short cuts feed the lawn."
+  },
+  {
+   "q": "Can they be stolen?",
+   "a": "They can. Use a PIN and a lift alarm, and bring it inside if it is out for the winter."
+  },
+  {
+   "q": "Does the $1000 cap change?",
+   "a": "Listing prices move. The cap reflects prices when this guide was updated, so check the live listing."
+  }
+ ],
+ "relatedGuides": []
+}

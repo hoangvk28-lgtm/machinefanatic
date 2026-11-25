@@ -1,0 +1,17 @@
+# Robot lawn mowers research notes (established engineering knowledge, no sources)
+- Navigation types: buried perimeter wire, RTK satellite (centimeter GNSS correction), vision (VSLAM), or fused. Wire-free models need clear sky for RTK; tree cover and tall walls degrade the fix.
+- RTK needs a reference station or network correction; a base antenna should sit with open sky and stable power.
+- Vision obstacle avoidance helps with toys, pets and hoses; it is weaker in low light, rain and glare.
+- Area rating (square feet or acre) is a recommendation for simple, open lawns; complex layouts, slopes and narrow passages lower real coverage per day.
+- Slope rating is stated as percent grade (45 percent is about 24 degrees); wet grass lowers traction well below the label.
+- Cutting height is usually a range set by app; the blades are small razor discs that mulch tiny clippings back into the lawn.
+- Frequent mowing means clippings are short and drop into the turf; no bagging, no raking.
+- Blades are thin and dull quickly; replace the blade set every few months of use (a cheap, regular chore).
+- Rain sensors and weather schedules pause mowing; check the ingress rating for hose-off cleaning.
+- Charging station placement: level ground, near an outdoor outlet with a weatherproof cover, with a straight approach.
+- No-go zones are drawn in the app or marked with magnetic strips; flower beds and ponds need them.
+- Anti-theft features include a PIN and GPS; lifting the unit triggers alarms.
+- All-wheel drive models handle bumps and slopes better; tires with studs grip but can mark soft turf.
+- Winter storage: clean, charge partly and store indoors; the station stays unplugged.
+- Edge trimming: robots leave a thin strip near fences and walls that a string trimmer must finish.
+- Update firmware and keep the app account secure; connectivity drops lower the usefulness of schedules.

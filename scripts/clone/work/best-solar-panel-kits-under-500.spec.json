@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-solar-panel-kits-under-500",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "solar panel kits under 500",
+ "guideTitle": "Best Solar Panel Kits Under $500 (2026)",
+ "metaTitle": "Best Solar Panel Kits Under $500 (2026)",
+ "metaDescription": "Five solar panel kits that list for under $500, spanning MPPT rigid kits, folding portables and flexible panels, with notes on real output and wiring.",
+ "lastUpdated": "2026-11-25",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/517ilNJp-wL._SL500_.jpg",
+ "expertTake": "The ECO-WORTHY 400 watt premium kit is the best overall pick because it pairs four rigid panels with a 40 amp MPPT controller and Bluetooth monitoring. The CTOLITY 400 watt foldable is the value pick for power-station owners. Anyone buying a flexible kit on the strength of a very large label wattage should read the cell and controller details before trusting it.",
+ "introParagraphs": [
+  "The jump from an entry kit to a mid-range one is mostly about the controller and the panel count. MPPT tracking squeezes more energy from the same panels, and a larger array lifts the daily energy budget from a few lights to a fridge and a laptop.",
+  "This tier also contains the first flexible and large-label kits, where the headline wattage and the real hardware can diverge. We ranked by controller type, cell tech and how clearly the listing states what is in the box. Prices move, and the $500 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0BPY72B9R",
+   "badge": "Best Overall",
+   "name": "ECO-WORTHY 400W kit, 4x100W panels, 40A MPPT, Bluetooth",
+   "price": "",
+   "specs": [
+    "400W total",
+    "4 x 100W",
+    "40A MPPT",
+    "Bluetooth"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "400 watts"
+    },
+    {
+     "label": "Panels",
+     "value": "Four 100 watt monocrystalline"
+    },
+    {
+     "label": "Controller",
+     "value": "40A MPPT with Bluetooth"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "About 25 percent"
+    },
+    {
+     "label": "Daily output",
+     "value": "About 1.6 kWh in good sun"
+    }
+   ],
+   "description": "ECO-WORTHY packages four 100 watt panels with a 40 amp MPPT controller and a Bluetooth module, which is the most complete system under the cap. The listing quotes an average of about 1.6 kilowatt-hours per day depending on sun, and about 25 percent cell efficiency. The MPPT tracking is described at up to 99 percent tracking efficiency, which is the figure that matters for squeezing output from cool or hazy days.\n\nFour small panels can be wired in series, parallel or a combination, and that choice is not trivial. Series wiring raises voltage and lets you use thinner wire and handles shade better, but it needs the controller's input voltage to be respected. Parallel wiring adds current and suits small systems, though shade on one panel drags the others and each string needs fusing.\n\nMeasured against the cheaper rigid kits it brings monitoring through the app, which lets you see charge state without a meter. In ownership, keep the panels clean, check the connectors each season and match the controller profile to the battery. The 100 watt panel size is also easier to fit on a van roof than one big panel. If one small panel is damaged, the system keeps working at reduced output, which is more forgiving than losing a single large panel. Label every cable at install time so a later fault is quick to trace.",
+   "bestFor": "RV and cabin systems that want MPPT efficiency and monitoring.",
+   "pros": [
+    "MPPT controller recovers extra energy",
+    "Bluetooth monitoring of charge state",
+    "Four small panels fit awkward roofs",
+    "High stated cell efficiency"
+   ],
+   "cons": [
+    "More connections to wire and fuse",
+    "Controller input limits shape the wiring plan"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BPY72B9R?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/517ilNJp-wL._SL500_.jpg"
+  },
+  {
+   "id": "B0H2HYSQG1",
+   "badge": "Best Value",
+   "name": "CTOLITY 400W foldable solar panel for power stations",
+   "price": "",
+   "specs": [
+    "400W",
+    "23.4% cells",
+    "IP65",
+    "MC4 connectors"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "400 watts"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "About 23.4 percent"
+    },
+    {
+     "label": "Protection",
+     "value": "IP65 waterproof"
+    },
+    {
+     "label": "Output",
+     "value": "MC4 connectors"
+    },
+    {
+     "label": "Stand",
+     "value": "Adjustable kickstands"
+    }
+   ],
+   "description": "CTOLITY sells this as a foldable charger for a portable power station, with MC4 connectors, adjustable kickstands and an IP65 rating. The monocrystalline cells are quoted at about 23.4 percent efficiency. A foldable format gives you a large collecting area that packs down to a carry size, so you can set it where the sun is and keep the station in the shade.\n\nIt does not include a separate controller, because it relies on the power station's built-in solar input. That is the main thing to verify: the station must accept the panel's voltage and wattage, and the MC4 output needs an adapter for stations that use another plug. Set beside the ECO-WORTHY, you give up fixed-roof efficiency and monitoring but gain mobility.\n\nOwnership follows the usual portable-panel routine. Prop it at an angle, keep it clear of shade and wipe it clean. Store it folded in its case, protect the connectors from dust and check the kickstands for wear after a few seasons of use. Because the panel is large, wind is the main hazard; peg or weigh it down before leaving it unattended. Never fold it while the cells are very hot, since stress on the laminate is higher then.",
+   "bestFor": "Power-station owners who need a large folding charger.",
+   "pros": [
+    "Four hundred watts in a folding format",
+    "IP65 rating handles rain and dust",
+    "Adjustable kickstands for sun angle",
+    "MC4 outputs suit common adapters"
+   ],
+   "cons": [
+    "No controller for bare batteries",
+    "Station input limits cap usable power"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H2HYSQG1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41x1YNv6SFL._SL500_.jpg"
+  },
+  {
+   "id": "B0GYRSFZTP",
+   "badge": "Best Connector Variety",
+   "name": "LVYUAN 500W foldable solar panel, IP65, adapter bundle",
+   "price": "",
+   "specs": [
+    "500W",
+    "23.5% cells",
+    "IP65",
+    "Adapter bundle"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "500 watts"
+    },
+    {
+     "label": "Cell efficiency",
+     "value": "About 23.5 percent"
+    },
+    {
+     "label": "Protection",
+     "value": "IP65"
+    },
+    {
+     "label": "Fold",
+     "value": "Inward-folding design"
+    },
+    {
+     "label": "Adapters",
+     "value": "MC4 plus XT60, DC5521, DC5525, DC7909"
+    }
+   ],
+   "description": "LVYUAN's 500 watt panel uses an inward-folding design that protects the cell surface when packed, and it ships with an MC4 cable plus a bundle of adapters for XT60, DC5521, DC5525 and DC7909 connectors. That adapter set is the practical edge: connector mismatch is the most common frustration when pairing a folding panel with a power station.\n\nThe monocrystalline cells are quoted at about 23.5 percent efficiency, and the IP65 rating handles dust and rain. At 500 watts, it is also larger than the CTOLITY, so it needs a bigger flat area and a heavier carry. Always confirm your station's maximum solar input in watts and volts, because an oversized panel does not help beyond the station's limit.\n\nIn year three the folds and the connectors are the wear points. Avoid sharp creases, cap unused connectors and wipe the surface with water. Store it flat or loosely rolled. Check that the weight of the panel suits how you carry it, since a half-hundredweight of glass and frame is a real chore up a flight of stairs. If the output ever drops below what you saw in the first month, inspect for hairline cracks by eye in low light.",
+   "bestFor": "Owners of several different power stations who want an adapter bundle.",
+   "pros": [
+    "Five connector styles in the box",
+    "Inward fold protects the cells",
+    "IP65 rated for outdoor use",
+    "Largest portable panel in this list"
+   ],
+   "cons": [
+    "Bulky to carry and stow",
+    "Station input limit caps the benefit"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GYRSFZTP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413QytXUusL._SL500_.jpg"
+  },
+  {
+   "id": "B0HC37DSX6",
+   "badge": "Best Flexible Kit",
+   "name": "500W flexible solar kit, 2x250W panels, 40A controller",
+   "price": "",
+   "specs": [
+    "500W total",
+    "2 x 250W",
+    "Flexible",
+    "40A controller"
+   ],
+   "specList": [
+    {
+     "label": "Total power",
+     "value": "500 watts"
+    },
+    {
+     "label": "Panels",
+     "value": "Two 250 watt flexible"
+    },
+    {
+     "label": "Cells",
+     "value": "Monocrystalline silicon"
+    },
+    {
+     "label": "Controller",
+     "value": "40 amp"
+    },
+    {
+     "label": "Use",
+     "value": "Curved roofs, boats, RVs"
+    }
+   ],
+   "description": "This kit uses two flexible monocrystalline panels with a 40 amp controller. Flexible panels bend to fit a curved roof, a boat cabin or a van with weight limits, which rigid glass panels cannot do. The listing targets RVs, sailboats and yachts and describes the cells as high-efficiency monocrystalline silicon.\n\nFlexible panels come with trade-offs. They are lighter, but they are usually glued to the surface, and heat trapped behind them speeds ageing, so they typically age faster than a framed panel with an air gap. Marine-grade adhesive and a small standoff help. The controller type is not clearly stated, so confirm whether it is PWM or MPPT before wiring.\n\nAgainst the ECO-WORTHY rigid kit, you gain weight savings and curved-surface fit but lose longevity and monitoring. Use it where weight or shape rules out rigid panels, and check the adhesive and cable seals each year. Lay the panels out and test them before gluing anything down, because a dead panel is hard to remove once bonded. Leave a drip loop in each cable where it enters the cabin so rain cannot track along the wire.",
+   "bestFor": "Curved roofs and boats where rigid panels will not fit.",
+   "pros": [
+    "Bends to curved surfaces",
+    "Light weight for weight-limited roofs",
+    "Two 250 watt panels and a controller",
+    "Suitable for marine and RV use"
+   ],
+   "cons": [
+    "Flexible panels age faster in heat",
+    "Controller type is not clearly stated"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0HC37DSX6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41REm0IbdqL._SL500_.jpg"
+  },
+  {
+   "id": "B0GQLFJ2M8",
+   "badge": "Best Large Label Flexible",
+   "name": "1000W flexible solar kit, 2x500W panels, 40A controller",
+   "price": "",
+   "specs": [
+    "1000W label",
+    "2 x 500W",
+    "Flexible",
+    "40A controller"
+   ],
+   "specList": [
+    {
+     "label": "Label power",
+     "value": "1000 watts"
+    },
+    {
+     "label": "Panels",
+     "value": "Two 500 watt flexible"
+    },
+    {
+     "label": "Cells",
+     "value": "Monocrystalline"
+    },
+    {
+     "label": "Controller",
+     "value": "40 amp"
+    },
+    {
+     "label": "Use",
+     "value": "RV, camping, boat, off-grid"
+    }
+   ],
+   "description": "This kit lists two 500 watt flexible panels and a 40 amp controller for a combined 1,000 watt label. The listing describes monocrystalline cells and a lightweight, compact design compared with traditional rigid panels. It is the largest label in the tier, so it deserves a careful read.\n\nThe arithmetic is the issue: a 40 amp controller on a 12 volt battery handles roughly 500 watts of panel power, because watts equal amps times volts. At 24 volts it handles about 1,000, so this kit only delivers its full label on a 24 volt system. Panel watts are also rated at standard test conditions, and real output is often 60 to 80 percent of the label.\n\nNext to the smaller 500 watt kit, you get more area but need a bigger battery bank and a matching voltage. Use it only if you have a 24 volt system or plan to use one panel on a 12 volt setup. Check the wiring and the adhesive each season. Size the cable for the higher current of a big array and fuse it close to the battery. A system this large deserves a proper battery monitor, so you can see whether the panels are really delivering.",
+   "bestFor": "24 volt off-grid systems with space for large flexible panels.",
+   "pros": [
+    "Largest panel area in this tier",
+    "Flexible and light for its size",
+    "Controller included in the kit",
+    "Suits boats and curved roofs"
+   ],
+   "cons": [
+    "Controller limits a 12 volt system to about half",
+    "Flexible panels age faster with trapped heat"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQLFJ2M8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/517bACOBWIL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "MPPT or PWM",
+   "explanation": "MPPT harvests roughly 20 to 30 percent more energy than PWM, most noticeably in cold weather or low light. The ECO-WORTHY kit includes MPPT, while the flexible kits do not clearly say. Vendor guidance is to avoid PWM above about 150 watts of panels. At 400 watts and up, MPPT usually pays for itself in saved panels. Another advantage is voltage headroom: an MPPT controller accepts a higher panel voltage than the battery, so you can wire panels in series and run thinner cable for the same loss. That matters on a van or boat where every metre of heavy cable adds weight and cost."
+  },
+  {
+   "criterion": "Controller amps versus panel watts",
+   "explanation": "A controller's amp rating times the battery voltage gives the most panel power it can use. A 40 amp controller on 12 volts handles about 500 watts, but a 1,000 watt label will exceed that. Check this arithmetic before buying a big array. Extra panel watts beyond the controller's limit are simply wasted. Some controllers clip quietly, so the only sign is that the battery charges more slowly than the label suggests. If your array is larger than the controller can use, either add a second controller or choose a higher amp rating."
+  },
+  {
+   "criterion": "Series or parallel wiring",
+   "explanation": "Series wiring raises voltage, allows thinner wire and handles partial shade better, but it needs an MPPT controller sized for the input voltage. Parallel wiring adds current and suits small PWM systems, but shade on one panel drags the others and each string needs fusing. The ECO-WORTHY's four panels let you choose, so read the controller's maximum input voltage. Cold weather raises panel voltage, so leave a margin below the limit rather than wiring right up to it. Fuse each parallel branch, because a fault in one panel can be fed by the others."
+  },
+  {
+   "criterion": "Rigid, flexible or foldable",
+   "explanation": "Rigid panels cost less per watt and run cooler. Flexible panels fit curved roofs and save weight, but they age faster when heat is trapped behind them. Foldable panels suit power stations. Pick by where the panels will live. Rigid panels with an air gap behind them run cooler, and a cooler panel holds more of its rated output on a hot afternoon. Flexible panels glued flat to a roof have no gap, so they run hotter and need the best adhesive you can get."
+  },
+  {
+   "criterion": "Connector fit for power stations",
+   "explanation": "Foldable panels use MC4, XT60, DC5521, DC5525, DC7909 and Anderson plugs. The LVYUAN ships with a bundle of adapters, while the CTOLITY relies on MC4. Check the station's input style, its maximum watts and its voltage window. A panel whose open-circuit voltage exceeds the station's limit can trip the input or damage it, so look up both numbers. When an adapter is needed, buy one rated for the current, since thin adapters overheat."
+  },
+  {
+   "criterion": "Label watts and field output",
+   "explanation": "Panel watts are rated at standard test conditions. Real output is often 60 to 80 percent of the label, lower in winter or on a hot roof. Size the system from your daily watt-hours divided by four to five sun hours and about 0.7 for losses. For example, a fridge and lights using 800 watt-hours a day need roughly 230 watts of panels at four sun hours, before you add any margin. Add a cushion for cloudy days and for winter, when sun hours may drop well below four."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Tracking efficiency",
+   "meaning": "How closely an MPPT controller follows the panel's best operating point. Higher is better.",
+   "watchFor": "The ECO-WORTHY lists up to 99 percent."
+  },
+  {
+   "spec": "Controller amps",
+   "meaning": "The current the controller can pass to the battery. It caps usable panel power.",
+   "watchFor": "A 40 amp unit on 12 volts caps near 500 watts."
+  },
+  {
+   "spec": "Cell efficiency",
+   "meaning": "The share of light converted to power. Higher means more watts per square foot.",
+   "watchFor": "The ECO-WORTHY quotes about 25 percent, the LVYUAN about 23.5."
+  },
+  {
+   "spec": "IP rating",
+   "meaning": "Dust and water protection. IP65 resists jets of water and dust.",
+   "watchFor": "The CTOLITY and LVYUAN both list IP65."
+  },
+  {
+   "spec": "Label wattage",
+   "meaning": "Peak output under lab sunlight. Real output is lower.",
+   "watchFor": "The 1,000 watt flexible kit needs 24 volts to use its label."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Controller and arithmetic",
+   "description": "We compared controller type and amp rating against each kit's total watts. The ECO-WORTHY MPPT scored best. The 1,000 watt flexible kit lost points for a mismatch between label and controller on 12 volts."
+  },
+  {
+   "title": "Panel type and ageing",
+   "description": "Rigid, flexible and foldable designs were compared on heat behaviour and fit. Rigid panels lead on lifespan. Flexible ones lead on shape and weight."
+  },
+  {
+   "title": "Connector and compatibility",
+   "description": "Connector styles and adapter bundles were checked. The LVYUAN's five connector types earned credit. Listings with a single MC4 output scored as needing an adapter."
+  },
+  {
+   "title": "Monitoring and protection",
+   "description": "Bluetooth, IP ratings and similar features were weighed. The ECO-WORTHY's app and the IP65 portables stood out. Kits with no stated protection scored lower."
+  },
+  {
+   "title": "Cap compliance",
+   "description": "Each kit was verified under the $500 cap at the time of writing. Notes rely on the spec sheet and owner feedback patterns. This guide reuses at most two kits from its lower-cap sibling."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Use Case",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Fixed RV roof with monitoring",
+      "ECO-WORTHY 400W",
+      "MPPT and Bluetooth"
+     ],
+     [
+      "Portable power station",
+      "CTOLITY 400W foldable",
+      "IP65 and kickstands"
+     ],
+     [
+      "Multiple station brands",
+      "LVYUAN 500W foldable",
+      "Five connector styles"
+     ],
+     [
+      "Curved roof or boat",
+      "500W flexible kit",
+      "Bends to fit"
+     ],
+     [
+      "24 volt large array",
+      "1000W flexible kit",
+      "Controller matches at 24 volts"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in this list",
+      "ECO-WORTHY 400W",
+      "Best value rigid MPPT kit"
+     ],
+     [
+      "Lower middle",
+      "500W flexible kit",
+      "Two flexible panels"
+     ],
+     [
+      "Middle",
+      "1000W flexible kit",
+      "Largest label"
+     ],
+     [
+      "Upper middle",
+      "CTOLITY 400W foldable",
+      "Folding with IP65"
+     ],
+     [
+      "Top of the cap",
+      "LVYUAN 500W foldable",
+      "Largest portable with adapters"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Rigid vs Flexible",
+   "cards": [
+    {
+     "label": "Rigid (ECO-WORTHY)",
+     "text": "Runs cooler, lasts longer and costs less per watt. It needs a mounting frame and a roof with room."
+    },
+    {
+     "label": "Flexible (500W and 1000W kits)",
+     "text": "Light and curve-friendly, but heat trapped behind the panel speeds ageing."
+    }
+   ],
+   "note": "Choose rigid for longevity and flexible when weight or shape forces it."
+  },
+  {
+   "subheading": "System Voltage",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "12 volt battery bank",
+      "ECO-WORTHY 400W",
+      "40 amp MPPT fits"
+     ],
+     [
+      "24 volt battery bank",
+      "1000W flexible kit",
+      "40 amp reaches 1,000 watts"
+     ],
+     [
+      "Power station input",
+      "CTOLITY 400W foldable",
+      "Station handles the regulation"
+     ],
+     [
+      "Mixed station fleet",
+      "LVYUAN 500W foldable",
+      "Adapters for each plug"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Van Builds Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Panels that fit the roof, a controller with monitoring and wiring that can be fused. Roof space and weight decide the format."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ECO-WORTHY suits a flat roof, and the 500W flexible kit suits a curved one. Skip the large flexible kit unless you run 24 volts."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You need a pure-sine inverter and battery included, or panels from a bigger brand with a longer warranty. Those come above this cap."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need to top up a station. The CTOLITY covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the panels",
+   "interval": "Monthly",
+   "why": "Dust, pollen and bird droppings cut output. A soft cloth and water suffice."
+  },
+  {
+   "task": "Check wiring and fuses",
+   "interval": "Each season",
+   "why": "Heat and vibration loosen terminals. Loose terminals waste power and create hot spots."
+  },
+  {
+   "task": "Inspect adhesive and sealant",
+   "interval": "Annually",
+   "why": "Flexible panels rely on adhesive. Roof penetrations rely on sealant, and both can crack."
+  },
+  {
+   "task": "Verify controller settings",
+   "interval": "When changing batteries",
+   "why": "The wrong profile under or overcharges. Lithium needs its own setting."
+  },
+  {
+   "task": "Inspect folds and connectors",
+   "interval": "Every trip",
+   "why": "Creases and dirty plugs shorten portable panel life. A quick look avoids a failed charge."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is MPPT worth it at this level?",
+   "a": "Yes for 400 watts and up. MPPT harvests roughly 20 to 30 percent more, most noticeably in cold or low light. That extra output often covers the cost of the controller. The gain is smallest on a hot, bright day with a nearly full battery and largest on a cold morning with a depleted bank."
+  },
+  {
+   "q": "Why is the label on the 1000W kit misleading?",
+   "a": "A 40 amp controller on a 12 volt battery handles about 500 watts. The kit reaches its label only on a 24 volt system. Check the battery voltage first."
+  },
+  {
+   "q": "Are flexible panels as good as rigid ones?",
+   "a": "They are lighter and fit curves, but they age faster because heat gets trapped behind them. Rigid panels with an air gap last longer. If weight or curvature forces you to go flexible, expect to replace the panels sooner and budget for that."
+  },
+  {
+   "q": "Can I connect these to a power station?",
+   "a": "The foldable panels are designed for that, but you must match connector, voltage and watt limits. The LVYUAN bundles adapters for common plugs."
+  },
+  {
+   "q": "How much will I actually get?",
+   "a": "Real output is usually 60 to 80 percent of the label. Plan your system from watt-hours per day, not from peak watts."
+  },
+  {
+   "q": "Does the $500 cap change?",
+   "a": "Listing prices move. The cap reflects prices when this guide was updated, so check the live listing."
+  }
+ ],
+ "relatedGuides": []
+}

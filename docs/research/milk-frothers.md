@@ -1,0 +1,15 @@
+# Milk frothers research
+- Electric frothers either spin a whisk in a pitcher (induction-heated jug) or use a handheld whisk motor; the jug type heats and froths hands-free.
+- Heated jug frothers warm milk to about 140 to 160F and run 2 to 4 modes: hot foam, cold foam, hot milk, sometimes chocolate.
+- Capacity usually lists max (liquid) and a lower foam fill line; foam volume is about double, so fill only to the foam line.
+- Whisk disk choice: a coil whisk makes dense latte foam; a disk with a ring makes lighter cappuccino foam; some units ship both.
+- Non-stick coating on the jug interior wears; stainless steel interiors cost more and clean easier but can scorch if left on.
+- Dairy milk froths best because of protein and fat; oat and almond froth worse and often need barista blends.
+- Handheld whisk frothers (battery) make thin foam, require a pitcher, and suit cold drinks and matcha.
+- Steam wands on espresso machines are different tools; a standalone frother does not create microfoam.
+- Never immerse the base; the heating plate and electronics are in it.
+- Wash the jug and whisk right after use; dried milk protein is hard to remove.
+- Magnetic whisk pins wear and can drop off; spares are cheap.
+- Keep the max fill line respected or milk boils over.
+- Noise is 55 to 65 dB for jug units; quiet enough for mornings.
+- Descale not needed; no water path.

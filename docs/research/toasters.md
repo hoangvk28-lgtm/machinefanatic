@@ -1,0 +1,15 @@
+# Toasters research
+- Toasters use nichrome wire elements at 1100 to 1800W; wattage mostly affects toast time, not evenness.
+- Slot count (2 or 4) and slot width matter: long slots take bread and bagels, wide slots handle thick artisan slices.
+- A bagel setting turns off the outer element so the cut side toasts while the crust warms.
+- Shade dials run 1 to 7 or 1 to 6; accuracy varies by unit and room temperature, and a second batch toasts faster because the elements are hot.
+- Self-centering carriage keeps slices equidistant from the elements; cheap units sag and toast one side darker.
+- Lift lift (high-lift lever) lets you pull small items such as English muffins without burning fingers.
+- Crumb tray should slide out; a stuck tray hides burnt crumbs, a fire cause.
+- Cool-touch exteriors on double-wall stainless; chrome bodies get hot.
+- Retro and brushed stainless finishes show fingerprints; plastic shells yellow.
+- Defrost, reheat and cancel buttons are standard; extras are digital countdowns and bun-warming racks.
+- Toaster pastries and thin items can jam; never use metal tools to dislodge them while plugged in.
+- Lever mechanism and timer thermistor are failure points; most toasters last 3 to 6 years.
+- Wide-slot 2-slice toasters occupy about 11 inches of counter; 4-slice models need roughly 15 to 17 inches.
+- Unplug before cleaning; wipe outside with a damp cloth, never submerge.

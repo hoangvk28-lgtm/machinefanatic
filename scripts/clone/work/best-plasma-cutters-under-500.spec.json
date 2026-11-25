@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-plasma-cutters-under-500",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "plasma cutters under 500",
+ "guideTitle": "Best Plasma Cutters Under $500 (2026)",
+ "metaTitle": "Best Plasma Cutters Under $500 (2026)",
+ "metaDescription": "Five 50 to 65 amp pilot arc plasma cutters that list for under $500, including one with a built-in compressor, ranked on air control and real clean-cut limits.",
+ "lastUpdated": "2026-11-25",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/518tSaMhjSL._SL500_.jpg",
+ "expertTake": "The HITBOX with a built-in air compressor is the best overall pick because it removes the single biggest hidden cost of plasma cutting. The Bestarc BTC500 Pro is the value pick for owners who want pressure monitoring and remote control. Anyone who already owns a good compressor and a 240 volt circuit should look at the 65 amp VEVOR instead.",
+ "introParagraphs": [
+  "The step up from entry plasma cutters is not simply more amperage. It is pilot arc starting as standard, better air handling and features that protect the torch, so the machine copes with the rusty, painted and uneven steel that real projects involve.",
+  "The biggest practical difference is whether the machine needs an outside air supply. A cutter without one needs a compressor that can feed it, and that is a larger expense than many buyers expect. We ranked the options on air handling, amperage honesty and controls. Prices move, and the $500 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B0DSFQ44CB",
+   "badge": "Best Overall",
+   "name": "HITBOX HBC8000II 50A plasma cutter with built-in air compressor",
+   "price": "",
+   "specs": [
+    "50A",
+    "Built-in compressor",
+    "Pilot arc",
+    "220V"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "50 amps"
+    },
+    {
+     "label": "Input",
+     "value": "220 volt"
+    },
+    {
+     "label": "Start",
+     "value": "High-frequency non-touch pilot arc"
+    },
+    {
+     "label": "Air",
+     "value": "Built-in air compressor"
+    },
+    {
+     "label": "Protection",
+     "value": "Air switch"
+    }
+   ],
+   "description": "The HITBOX is the only unit in this list that carries its own air compressor. A plasma cutter needs a steady supply of clean, dry air, roughly 4 to 6 CFM at 60 to 75 PSI, and a small shop compressor often cannot supply that. Building the compressor into the machine removes the biggest hidden cost and the biggest source of sputtering cuts, since the supply is sized to the cutter.\n\nIt uses a 50 amp inverter with a high-frequency non-touch pilot arc, so it starts the arc without contact and cuts through paint and light rust. An air switch is used instead of a simple rocker switch, a comprehensive protection feature that cuts the circuit when the air supply fails. It runs on 220 volts, which limits where you can plug it in but allows the full rated output.\n\nAgainst the VEVOR 65 amp, it has lower amperage but needs no extra equipment. A built-in compressor adds weight, noise and one more thing to service, so drain moisture and keep the intake clean. Add an inline filter anyway, and keep spare consumables. Because the compressor is inside the case, make sure the machine has clearance around the intake and exhaust, and do not cut in a dusty corner where grit will be drawn in. A wheeled cart makes the extra weight manageable.",
+   "bestFor": "Buyers with no compressor who want a self-contained cutting setup.",
+   "pros": [
+    "Built-in compressor removes the air problem",
+    "Pilot arc cuts through rust and paint",
+    "Air switch adds protection",
+    "Fifty amps for half inch work"
+   ],
+   "cons": [
+    "Needs a 220 volt circuit",
+    "Heavier and louder than a bare cutter"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DSFQ44CB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/518tSaMhjSL._SL500_.jpg"
+  },
+  {
+   "id": "B0H35WB5ML",
+   "badge": "Best Value",
+   "name": "Bestarc BTC500 Pro 50A plasma cutter, Bluetooth app, air sensor",
+   "price": "",
+   "specs": [
+    "50A",
+    "Bluetooth app",
+    "Air sensor",
+    "110/220V"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "50 amps"
+    },
+    {
+     "label": "Input",
+     "value": "110 or 220 volt"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Maximum cut",
+     "value": "3/4 inch"
+    },
+    {
+     "label": "Control",
+     "value": "Bluetooth app up to 98 feet"
+    }
+   ],
+   "description": "Bestarc's BTC500 Pro adds two features rarely seen at this level: a Bluetooth app that adjusts cutting current from up to 98 feet away, and a built-in air sensor that warns when air pressure is too low or too high. Wrong air pressure is a leading cause of poor cuts and short consumable life, and a sensor that tells you is more useful than another LED.\n\nIt is a 50 amp IGBT inverter with dual voltage input, a 1/2 inch clean cut and a 3/4 inch maximum cut. The clean figure is the practical rating, while the maximum is a ragged severance limit. Remote control is a gimmick for some, but on a long cutting bench it saves walking back to the machine.\n\nNext to the HITBOX, it needs an outside compressor, but it runs on either 110 or 220 volts. Match it with a compressor that delivers real airflow, add a water trap and keep spare tips and electrodes. If the app disconnects, you can still set everything on the panel. Because the sensor reports pressure, use it every session to confirm your regulator setting before the first cut. That habit alone protects the consumables better than most extra features.",
+   "bestFor": "Cutting benches where remote current adjustment and air alerts save time.",
+   "pros": [
+    "Built-in air pressure sensor",
+    "Bluetooth current control from 98 feet",
+    "Runs on 110 or 220 volts",
+    "Clean and maximum cut both listed"
+   ],
+   "cons": [
+    "Needs a separate compressor",
+    "App adds a feature that some owners never use"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H35WB5ML?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51LgUiIGGAL._SL500_.jpg"
+  },
+  {
+   "id": "B0D1TP5TTR",
+   "badge": "Best Duty Cycle",
+   "name": "ARCCAPTAIN 55A plasma cutter, HF pilot arc, 60% duty",
+   "price": "",
+   "specs": [
+    "55A",
+    "HF pilot arc",
+    "60% duty",
+    "2T/4T"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "55 amps"
+    },
+    {
+     "label": "Start",
+     "value": "High-frequency pilot arc"
+    },
+    {
+     "label": "Duty cycle",
+     "value": "About 60 percent"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/2 inch (3/4 inch max)"
+    },
+    {
+     "label": "Safety",
+     "value": "Internal air pressure sensor"
+    }
+   ],
+   "description": "ARCCAPTAIN's 55 amp unit pushes a little higher than the common 50 amp rating and lists a 60 percent duty cycle, 50 and 60 hertz compatibility and dual voltage input. The clean cut is 1/2 inch with a 3/4 inch maximum, which is the same pairing as the 50 amp competitors, so the extra current mostly buys speed and a margin when cutting near the limit.\n\nIt has an internal air pressure sensor so you can set pressure with the regulator, and 2T and 4T trigger modes. The high-frequency pilot arc starts the cut without touching the metal, with the usual caveat that high-frequency starts can disturb nearby electronics.\n\nSet beside the VEVOR 50 amp, it offers slightly more current and a clear duty cycle. Set beside the Bestarc, it has no app but offers a stated 60 percent figure. Keep the air clean, check the ground clamp and respect the cooling intervals, because the duty cycle assumes a ten minute window. A machine that stops mid-cut and restarts after a few minutes is simply protecting itself, so do not treat it as a fault. Plan long sheet cuts in sections to avoid the stop.",
+   "bestFor": "Daily garage cutting where a stated duty cycle matters.",
+   "pros": [
+    "Fifty-five amps with stated 60% duty",
+    "Internal air pressure sensor",
+    "2T and 4T trigger modes",
+    "Dual voltage input"
+   ],
+   "cons": [
+    "High-frequency start can disturb electronics",
+    "No remote control or built-in compressor"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D1TP5TTR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51qPRvquqwL._SL500_.jpg"
+  },
+  {
+   "id": "B0FNKHNHBV",
+   "badge": "Best High Amperage",
+   "name": "VEVOR 65A plasma cutter, pilot arc, 110V/220V, 2T/4T display",
+   "price": "",
+   "specs": [
+    "65A",
+    "Pilot arc",
+    "PT/PA timing",
+    "110/220V"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "65 amps"
+    },
+    {
+     "label": "Start",
+     "value": "Non-touch pilot arc"
+    },
+    {
+     "label": "Input",
+     "value": "110 or 220 volt"
+    },
+    {
+     "label": "Timing",
+     "value": "PT 1 to 6 s, PA 0.1 to 3 s adjustable"
+    },
+    {
+     "label": "Display",
+     "value": "Digital, 2T/4T"
+    }
+   ],
+   "description": "VEVOR's 65 amp unit is the highest rated in the list and carries a non-touch pilot arc, dual voltage input and a digital display. The adjustable pilot arc and post-flow times, PT from 1 to 6 seconds and PA from 0.1 to 3 seconds, let you tune the arc to extend consumable life, which is a useful feature on a machine used for many short cuts.\n\nAmperage is a ceiling, not a guarantee. A 65 amp rating usually applies on a 240 volt circuit, and on a 120 volt outlet the machine delivers far less. If you only have 120 volts, the extra amps are wasted and the 50 amp class machines are equivalent.\n\nMeasured against the 50 amp VEVOR below, it is the one to buy if you plan to cut thicker plate on 240 volts. As always, the compressor must keep up with the air demand, and you should keep spare tips and electrodes on hand. The timing controls reward a little experimenting: write down the settings that give the cleanest result on each thickness. A thicker plate also needs a slower, steadier hand and a torch held square to the work.",
+   "bestFor": "240 volt shops that cut thicker plate and want tunable arc timing.",
+   "pros": [
+    "Sixty-five amps at the top of the range",
+    "Adjustable pilot and post-flow timing",
+    "Non-touch pilot arc",
+    "Dual voltage input"
+   ],
+   "cons": [
+    "Full amperage needs 240 volts",
+    "Needs a compressor with plenty of delivered air"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FNKHNHBV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51c0+vOSmBL._SL500_.jpg"
+  },
+  {
+   "id": "B0FND4JRFX",
+   "badge": "Best Simple Pilot Arc",
+   "name": "VEVOR 50A plasma cutter, pilot arc, 110V/220V, 2T/4T display",
+   "price": "",
+   "specs": [
+    "50A",
+    "Pilot arc",
+    "PT/PA timing",
+    "110/220V"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "50 amps"
+    },
+    {
+     "label": "Start",
+     "value": "Non-touch pilot arc"
+    },
+    {
+     "label": "Input",
+     "value": "110 or 220 volt"
+    },
+    {
+     "label": "Timing",
+     "value": "Adjustable PT and PA times"
+    },
+    {
+     "label": "Display",
+     "value": "Digital, 2T/4T"
+    }
+   ],
+   "description": "This VEVOR is the 50 amp sibling of the 65 amp model, with the same non-touch pilot arc, adjustable timing and digital display. According to the listing, it cuts through rough and rusty surfaces without direct contact, which is the main reason to buy pilot arc over touch start.\n\nFifty amps is the sweet spot for half inch clean cuts in mild steel. It runs on 110 or 220 volts, with the usual caveat that the 110 volt output is lower. Measured against the ARCCAPTAIN, it offers similar amperage and a longer list of timing controls but fewer published duty cycle details.\n\nOwnership is routine: keep the air dry, replace the tip when the cut gets ragged and keep the ground clamp on bare metal. If the machine stops, check for overheating and let it cool. Team it with a plasma-rated regulator and a drain-equipped filter at the machine, which is cheaper than replacing wet consumables every week. For practice, use scrap in the thickness you cut most so the settings are ready when the real part arrives.",
+   "bestFor": "A straightforward 50 amp pilot arc machine for a home shop.",
+   "pros": [
+    "Non-touch pilot arc for rust and paint",
+    "Adjustable pilot and post-flow timing",
+    "Dual voltage input",
+    "Digital display with 2T and 4T"
+   ],
+   "cons": [
+    "Duty cycle details are thin",
+    "Needs an external compressor"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FND4JRFX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wpJkL-+vL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Built-in or external air",
+   "explanation": "A plasma cutter's biggest hidden cost is the compressor. It needs roughly 4 to 6 CFM at 60 to 75 PSI of clean, dry air. A small pancake cannot supply that for long, and the arc sputters when air runs short. The HITBOX bundles a compressor, so the supply is matched to the machine. If you already own a good compressor, an external-air unit is cheaper and lighter. Think through where the machine will live: a built-in compressor makes sense on a rolling cart in a small garage, while a bare cutter fits better next to a stationary shop compressor with a dryer. Also consider noise, since a built-in pump runs whenever you cut and is noticeably louder than the inverter alone."
+  },
+  {
+   "criterion": "Pressure monitoring",
+   "explanation": "Wrong air pressure shortens consumable life and ruins cuts. The Bestarc BTC500 Pro and ARCCAPTAIN both have internal air sensors that tell you when pressure is off. A sensor turns a guess into a reading, and it is a cheap way to protect tips and electrodes. If you buy a cutter without one, add an inline pressure gauge at the machine. Set the pressure while air is flowing, not when the system is static, because the flowing pressure is lower than the standing pressure. If the reading drops sharply when you start cutting, the compressor or the hose is too small for the job."
+  },
+  {
+   "criterion": "Amperage versus input voltage",
+   "explanation": "A 65 amp rating, like the VEVOR's, is available only on a 240 volt circuit. On 120 volts the machine delivers a fraction of that. The Bestarc and VEVOR 50 amp units run on both voltages, but the 120 volt output is much lower. If you only have 120 volts, you are buying a 30 to 40 amp machine, whatever the label says. Many shops put in a dedicated 240 volt outlet for this reason, which costs far less than the time lost to a machine that cannot do the work. Check your breaker size and wire gauge before you plug in, since a plasma cutter draws heavy current while it cuts."
+  },
+  {
+   "criterion": "Clean cut and maximum cut",
+   "explanation": "The clean cut is the practical thickness, 1/2 inch for the 50 and 55 amp machines. The maximum cut, 3/4 inch, is a ragged severance limit. Plan around the clean figure. If you regularly cut 5/8 inch or more, step up to a higher-rated machine on 240 volts. Thickness also affects speed: a 1/2 inch cut on a 50 amp machine is slow and uses consumables quickly, while the same cut on a 65 amp machine moves along more comfortably. Aluminum and stainless need extra care, and results vary with the alloy."
+  },
+  {
+   "criterion": "Pilot arc and arc timing",
+   "explanation": "Pilot arc starts without touching the work, so it cuts rusty and painted steel and expanded mesh. The VEVOR units let you adjust pilot and post-flow timing, which extends consumable life. A high-frequency start can disturb electronics, so keep computers and phones away from the torch. Adjustable timing is a small feature that helps in practice: a longer post-flow cools the torch and consumables after each cut, and a shorter pilot time avoids wearing the tip when you are not cutting. If you make many short cuts, those settings matter more than a few extra amps."
+  },
+  {
+   "criterion": "Duty cycle and cooling",
+   "explanation": "Duty cycle is the cutting time in a ten minute window at a stated current. The ARCCAPTAIN lists about 60 percent. A higher number means you can cut longer before the machine rests. On a thin sheet job this rarely matters, but on a long run of cuts it decides whether you wait. Hot garages shorten the usable cycle, since the inverter sheds heat more slowly in a warm room. Keep the vents clear and give the machine space on all sides."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Built-in compressor",
+   "meaning": "An air compressor inside the cutter. It removes the need for an outside air supply.",
+   "watchFor": "Only the HITBOX lists one."
+  },
+  {
+   "spec": "Air sensor",
+   "meaning": "A sensor that reports air pressure and alerts you when it is wrong.",
+   "watchFor": "The Bestarc and ARCCAPTAIN list one."
+  },
+  {
+   "spec": "PT and PA time",
+   "meaning": "Post-flow and pilot arc timing. They protect the torch and consumables.",
+   "watchFor": "The VEVOR units list adjustable PT and PA."
+  },
+  {
+   "spec": "Clean and max cut",
+   "meaning": "Clean is the practical thickness, max is a ragged limit.",
+   "watchFor": "The Bestarc lists 1/2 inch clean and 3/4 inch maximum."
+  },
+  {
+   "spec": "Duty cycle",
+   "meaning": "Cutting time in a ten minute window at a stated current.",
+   "watchFor": "The ARCCAPTAIN lists about 60 percent."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Air handling",
+   "description": "We compared built-in compressors, air sensors and regulators. The HITBOX's compressor and the Bestarc's sensor earned the most credit. Units with no air features scored lower."
+  },
+  {
+   "title": "Amperage honesty",
+   "description": "We checked how each listing states output by voltage. Higher ratings were treated as 240 volt figures. A 65 amp label on a 110 volt outlet was not taken at face value. We also looked for listings that give a cut rating at each voltage, since that is the information a buyer needs."
+  },
+  {
+   "title": "Start and arc control",
+   "description": "Pilot arc, timing controls and trigger modes were reviewed. The VEVOR timing options stood out. Units with a stated start type scored higher. We treated high-frequency starts as a neutral trait and flagged them only for electronics risk."
+  },
+  {
+   "title": "Cooling and duty",
+   "description": "Duty cycle claims were read as ten minute window figures. The ARCCAPTAIN's stated 60 percent led. Missing figures lost points."
+  },
+  {
+   "title": "Cap compliance",
+   "description": "Every machine was verified under the $500 cap at the time of writing. Notes rely on the spec sheet and owner feedback patterns. The list shares no models with the lower-cap sibling."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Air Supply",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No compressor at all",
+      "HITBOX HBC8000II",
+      "Built-in air compressor"
+     ],
+     [
+      "Good compressor, want monitoring",
+      "Bestarc BTC500 Pro",
+      "Air sensor and app"
+     ],
+     [
+      "Good compressor, want duty cycle",
+      "ARCCAPTAIN 55A",
+      "Stated 60 percent"
+     ],
+     [
+      "Thick plate on 240V",
+      "VEVOR 65A",
+      "Highest amperage"
+     ],
+     [
+      "Simple 50 amp unit",
+      "VEVOR 50A",
+      "Pilot arc and timing controls"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in this list",
+      "VEVOR 50A",
+      "Basic pilot arc"
+     ],
+     [
+      "Lower middle",
+      "Bestarc BTC500 Pro",
+      "App and air sensor"
+     ],
+     [
+      "Middle",
+      "ARCCAPTAIN 55A",
+      "Stated duty cycle"
+     ],
+     [
+      "Upper middle",
+      "VEVOR 65A",
+      "Highest amperage"
+     ],
+     [
+      "Top of the cap",
+      "HITBOX HBC8000II",
+      "Built-in compressor"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Built-in Air vs External Air",
+   "cards": [
+    {
+     "label": "Built-in (HITBOX)",
+     "text": "No compressor to buy and the supply matches the cutter. It adds weight and noise and needs 220 volts."
+    },
+    {
+     "label": "External (all others)",
+     "text": "Lighter and often dual voltage. You must own a compressor with real delivered airflow."
+    }
+   ],
+   "note": "Choose built-in if you have no compressor and external if you already own a good one."
+  },
+  {
+   "subheading": "Voltage Availability",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Only 120V",
+      "Bestarc BTC500 Pro",
+      "Dual voltage with app"
+     ],
+     [
+      "240V only",
+      "HITBOX HBC8000II",
+      "Full rating on 220 volts"
+     ],
+     [
+      "Either",
+      "VEVOR 50A",
+      "110 or 220 volt input"
+     ],
+     [
+      "240V for thick work",
+      "VEVOR 65A",
+      "Sixty-five amps"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Fabrication Shops Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Pilot arc, a stated duty cycle and tunable timing. A shop cuts many parts, so consumable life and cooling matter."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The ARCCAPTAIN and VEVOR 65A fit best. The Bestarc adds air alerts that protect consumables."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cut over 3/4 inch plate or run a CNC table. That calls for a higher-rated machine with a machine torch."
+    },
+    {
+     "label": "Save if",
+     "text": "You cut sheet and light plate now and then. A lower-cap unit is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace tips and electrodes",
+   "interval": "When the cut degrades",
+   "why": "Worn consumables cause dross and ragged cuts. Fresh ones restore the arc."
+  },
+  {
+   "task": "Drain the air filter and trap",
+   "interval": "Every session",
+   "why": "Wet air destroys consumables. A dry supply keeps the arc stable."
+  },
+  {
+   "task": "Inspect the torch and cable",
+   "interval": "Monthly",
+   "why": "Damaged insulation causes arcing. Replace worn parts."
+  },
+  {
+   "task": "Clean the vents",
+   "interval": "Every few months",
+   "why": "Dust blocks airflow and heats the inverter. A blast of dry air clears it."
+  },
+  {
+   "task": "Check the built-in compressor intake",
+   "interval": "Monthly",
+   "why": "A clogged intake starves the cutter of air. Clean the filter element."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a compressor?",
+   "a": "Yes, unless the cutter has one built in. Plan on 4 to 6 CFM at 60 to 75 PSI of clean, dry air. Check the delivered airflow of your compressor at that pressure, not its peak rating."
+  },
+  {
+   "q": "Is a 65 amp cutter always better?",
+   "a": "Only on 240 volts and for thicker plate. On a 120 volt outlet the output is far lower."
+  },
+  {
+   "q": "What does pilot arc add?",
+   "a": "It starts the arc without touching the work, so it cuts rust, paint and mesh. It uses a high-frequency start that can disturb electronics."
+  },
+  {
+   "q": "Why does my cut leave dross?",
+   "a": "Common causes are a worn tip, wet air or the wrong travel speed. Check consumables and air first. Dross that peels off easily points to speed, while hard dross that sticks points to low current or a worn tip."
+  },
+  {
+   "q": "Can I cut aluminum?",
+   "a": "Yes with most units, but you need clean air and more current. Expect a thinner clean cut than on steel."
+  },
+  {
+   "q": "Does the $500 cap change?",
+   "a": "Listing prices move. The cap reflects prices when this guide was updated, so check the live listing."
+  }
+ ],
+ "relatedGuides": []
+}

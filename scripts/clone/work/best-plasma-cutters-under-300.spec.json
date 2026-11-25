@@ -1,0 +1,540 @@
+{
+ "guideSlug": "best-plasma-cutters-under-300",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "plasma cutters under 300",
+ "guideTitle": "Best Plasma Cutters Under $300 (2026)",
+ "metaTitle": "Best Plasma Cutters Under $300 (2026)",
+ "metaDescription": "Five dual-voltage plasma cutters that list for under $300, from 40A touch start to a 60A lightweight, with honest notes on clean cut, duty cycle and air.",
+ "lastUpdated": "2026-11-25",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41qwozmkhDL._SL500_.jpg",
+ "expertTake": "The Amico CUT-40 is the best overall pick because it publishes a high duty cycle and a wide input range from a name with a long record in imported inverter tools. The SSimder CUT50 is the value pick for a garage that wants a plain touch-start 40 amp unit with an honest thickness rating. Anyone who plans to cut thick plate daily should skip this tier and buy a 240 volt machine with a higher rating.",
+ "introParagraphs": [
+  "A plasma cutter forces compressed air through a tiny nozzle while an electric arc heats it into a jet hot enough to melt through steel. The result is a fast, clean cut in sheet and plate that a grinder or a torch cannot match in speed, and the machines have become small enough to carry.",
+  "Under the lowest cap, nearly all units are compact inverter designs with dual-voltage input. The differences lie in rated amperage, how the arc starts, the duty cycle and the hidden cost of the air supply. We ranked them on those points and on how honestly each listing describes its thickness limits. Prices move, and the $300 cap reflects listing prices when this guide was updated."
+ ],
+ "products": [
+  {
+   "id": "B092C5BJK4",
+   "badge": "Best Overall",
+   "name": "Amico CUT-40 40A plasma cutter, 100-250V, 80% duty cycle",
+   "price": "",
+   "specs": [
+    "40A",
+    "100-250V input",
+    "80% duty",
+    "1/2 in clean cut"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "40 amps"
+    },
+    {
+     "label": "Input",
+     "value": "100 to 250 volt, auto-detect"
+    },
+    {
+     "label": "Duty cycle",
+     "value": "80 percent"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Technology",
+     "value": "IGBT inverter"
+    }
+   ],
+   "description": "The Amico CUT-40 pairs a 40 amp IGBT inverter with automatic detection of the input voltage across a 100 to 250 volt range. That auto-selection is a real convenience: you plug it into a garage outlet or a shop circuit and it adjusts, so you do not set a switch wrong. The listing states a 1/2 inch clean cut and an 80 percent duty cycle, which is a high figure and one worth reading carefully.\n\nDuty cycle is quoted at a specific current and input voltage, so an 80 percent rating at 40 amps on 240 volts does not carry over to 120 volts, where the usable current is lower. At 120 volts expect a thinner clean cut and shorter run times. Set beside the 50 amp BILT HARD in this list, the Amico offers less raw amperage but a better stated duty cycle.\n\nIn ownership, the hidden cost is air. A plasma cutter needs clean, dry compressed air, roughly 4 to 6 CFM at 60 to 75 PSI, so a small pancake compressor is often not enough. Add a water trap and a filter, keep a few spare tips and electrodes, and keep the torch tip a steady distance above the work. Always ground close to the cut, on bare metal, and keep the ground clamp clear of paint and rust. Wear a welding-grade face shield, gloves and long sleeves, because plasma throws sparks and gives off bright light.",
+   "bestFor": "Garage fabricators who want a high stated duty cycle and automatic voltage handling.",
+   "pros": [
+    "Accepts 100 to 250 volt input automatically",
+    "Stated 80 percent duty cycle",
+    "Half inch clean cut rating",
+    "IGBT inverter for arc stability"
+   ],
+   "cons": [
+    "Thinner cuts on 120 volt power",
+    "Needs a compressor that supplies enough air"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B092C5BJK4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qwozmkhDL._SL500_.jpg"
+  },
+  {
+   "id": "B0B35XZ58K",
+   "badge": "Best Value",
+   "name": "SSimder CUT50 40A plasma cutter, no HF touch start, 6.5 CFM",
+   "price": "",
+   "specs": [
+    "40A",
+    "Touch start",
+    "3/8 in clean cut",
+    "6.5 CFM"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "40 amps"
+    },
+    {
+     "label": "Start",
+     "value": "Touch start, no high frequency"
+    },
+    {
+     "label": "Clean cut",
+     "value": "3/8 inch (10 mm)"
+    },
+    {
+     "label": "Severance",
+     "value": "1/2 inch"
+    },
+    {
+     "label": "Air need",
+     "value": "About 6.5 CFM"
+    }
+   ],
+   "description": "SSimder's CUT50 is the honest one: it states a 3/8 inch clean cut on mild steel at 40 amps and a 1/2 inch severance cut, the point where the cut no longer has to look good. Many listings quote only the larger number, so a plain statement of both is useful. It starts the arc by touching the tip to bare metal, which means it carries no high-frequency generator that could interfere with electronics.\n\nTouch start has a drawback: it needs bare, clean metal, so rust and paint make starting harder, and the tip wears faster. A pilot arc machine, like the BILT HARD below, starts without contact and cuts through light rust and paint. For clean sheet and plate in a home shop, though, touch start is simple and cheap.\n\nThe listing quotes 6.5 CFM of airflow, a reminder of how hungry plasma is for air. Check the compressor's delivery at 90 PSI before buying, since a small pancake will run out and the arc will sputter. Keep consumables on hand, drain the compressor and cut with steady, moderate speed. A straightedge or a clamped angle guide gives straight cuts without a lot of practice. Because the machine is simple, learning on scrap sheet first costs little and saves ruined parts.",
+   "bestFor": "Clean sheet and plate cutting where a simple touch-start machine is enough.",
+   "pros": [
+    "Honest clean cut and severance figures",
+    "No high-frequency start to disturb electronics",
+    "Dual voltage input",
+    "Simple controls"
+   ],
+   "cons": [
+    "Touch start struggles on rust and paint",
+    "Needs about 6.5 CFM of air"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0B35XZ58K?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41G4-OUFgFL._SL500_.jpg"
+  },
+  {
+   "id": "B0DP66Y5VN",
+   "badge": "Best Pilot Arc",
+   "name": "BILT HARD 50A plasma cutter, non-touch pilot arc, 60% duty",
+   "price": "",
+   "specs": [
+    "50A",
+    "Pilot arc",
+    "60% duty",
+    "2T/4T"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "50 amps"
+    },
+    {
+     "label": "Start",
+     "value": "Non-touch pilot arc"
+    },
+    {
+     "label": "Duty cycle",
+     "value": "About 60 percent"
+    },
+    {
+     "label": "Input",
+     "value": "110 or 220 volt"
+    },
+    {
+     "label": "Controls",
+     "value": "Digital display, 2T/4T/PA/PT"
+    }
+   ],
+   "description": "The BILT HARD adds a non-touch pilot arc to a 50 amp inverter. A pilot arc starts a small arc inside the torch before it touches the work, so the machine can start and keep cutting over rust, paint and expanded mesh. That makes it far more forgiving on real-world metal than a touch-start machine.\n\nThe digital display lets you select 2T or 4T trigger modes and set pilot and post-flow times, which help extend consumable life. In 2T mode you hold the trigger while cutting, and in 4T mode you tap it to start and stop, which saves your finger on long cuts. The listing states about a 60 percent duty cycle with dual voltage input.\n\nAgainst the Amico, you get a higher amperage and pilot arc start, but a lower stated duty cycle and less clarity on voltage handling. A pilot arc generally uses a high-frequency start, so keep it away from sensitive electronics. As always, plan the compressor and filter, and keep spare tips and electrodes. Digital displays make it easy to repeat a setting, so write down the current and speed that worked for each thickness. A small notebook on the bench pays off quickly.",
+   "bestFor": "Cutting rusty, painted or mesh stock where touch start fails.",
+   "pros": [
+    "Non-touch pilot arc starts over rust and paint",
+    "Fifty amps for thicker cuts",
+    "2T and 4T trigger modes",
+    "Digital display for settings"
+   ],
+   "cons": [
+    "High-frequency start can disturb electronics",
+    "Lower stated duty cycle than the Amico"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DP66Y5VN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41RRco73PDL._SL500_.jpg"
+  },
+  {
+   "id": "B0DTHVYQ48",
+   "badge": "Best Lightweight",
+   "name": "Reboot 60A plasma cutter, 120V/240V, 8.69 lb",
+   "price": "",
+   "specs": [
+    "60A at 240V",
+    "120V/240V",
+    "8.69 lb",
+    "1/2 in at 120V"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "35 amps at 120V, 60 amps at 240V"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/2 inch at 120V, 5/8 inch at 240V"
+    },
+    {
+     "label": "Weight",
+     "value": "8.69 pounds"
+    },
+    {
+     "label": "Technology",
+     "value": "IGBT inverter"
+    },
+    {
+     "label": "Target",
+     "value": "Garage and garden portability"
+    }
+   ],
+   "description": "Reboot publishes its numbers by input voltage: a 1/2 inch cut at 120 volts and 35 amps, and 5/8 inch at 240 volts and 60 amps. That is the most useful way to state it, because a plasma cutter's reach depends on the circuit you plug into. At 8.69 pounds it is light enough to carry to the work, which is rare for a unit with a 60 amp ceiling.\n\nThe highest amperage in this list matters only on a 240 volt circuit, where it widens the range of steel it can sever and speeds up cuts on thick plate. On a 120 volt outlet it behaves like a 35 amp machine. Measured against the SSimder, it cuts thicker on 240 volts and weighs less, though the listing is less specific about duty cycle.\n\nPlan for the air supply, since the machine is only as good as the compressor behind it. Use a regulator and a filter, keep spare tips and electrodes and let the machine cool between long cuts. A lightweight inverter is easy to move and easy to overheat, so respect the rest periods. Because it is light, clamp the ground lead and secure the air hose so the machine does not slide when you pull on the torch. If you use it on a roof or in a field, a short generator-safe extension is a better plan than a long thin cord.",
+   "bestFor": "People who carry the machine between jobs and have access to a 240 volt outlet.",
+   "pros": [
+    "Voltage-specific cut ratings",
+    "Only 8.69 pounds",
+    "Sixty amps at 240 volts",
+    "Dual voltage input"
+   ],
+   "cons": [
+    "Duty cycle is less clearly stated",
+    "Behaves like a 35 amp unit on 120 volts"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DTHVYQ48?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51N3mS3siLL._SL500_.jpg"
+  },
+  {
+   "id": "B0FNRBSBV9",
+   "badge": "Best Post-Flow Control",
+   "name": "40A dual-voltage plasma cutter, LED display, adjustable post-flow",
+   "price": "",
+   "specs": [
+    "40A",
+    "110/220V",
+    "Post-flow 5-15 s",
+    "2T/4T"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "40 amps"
+    },
+    {
+     "label": "Input",
+     "value": "110 or 220 volt"
+    },
+    {
+     "label": "Clean cut",
+     "value": "1/2 inch on steel"
+    },
+    {
+     "label": "Post-flow",
+     "value": "5 to 15 seconds adjustable"
+    },
+    {
+     "label": "Trigger modes",
+     "value": "2T and 4T"
+    }
+   ],
+   "description": "This 40 amp machine lists a 1/2 inch clean cut on steel and aluminum, an LED display that shows voltage and current and adjustable post-flow cooling from 5 to 15 seconds. Post-flow keeps air blowing through the torch after the arc stops, which cools the tip and electrode. A longer post-flow extends consumable life, so adjustable control is a useful feature.\n\nTrigger modes switch between 2T and 4T, giving you the choice of holding the trigger or tapping it. The listing mentions a dual-voltage design and portability but offers less detail than some competitors on duty cycle or start type, so confirm both before ordering.\n\nNext to the Amico, it has a similar amperage and cut rating but fewer published specs. It suits a buyer who wants basic features and a clear display. Use clean dry air, keep spare consumables and follow the rest periods.",
+   "bestFor": "Hobbyists who want adjustable post-flow and a simple display.",
+   "pros": [
+    "Adjustable post-flow cooling",
+    "LED display shows voltage and current",
+    "2T and 4T trigger modes",
+    "Cuts steel and aluminum"
+   ],
+   "cons": [
+    "Thin detail on duty cycle",
+    "Start type is not clearly stated"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FNRBSBV9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41UGlWttAkL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Clean cut versus severance",
+   "explanation": "A 40 amp plasma cutter typically makes a clean cut through about 3/8 to 1/2 inch of mild steel, and the severance limit is a ragged, slow cut that barely separates the metal. The SSimder lists both, 3/8 clean and 1/2 severance. A listing that quotes only the big number is selling you the ragged limit. Buy for the clean-cut figure that matches your thickest regular job. A good rule is to choose a machine whose clean cut is about a third thicker than the steel you cut most often, because a machine run at its limit cuts slowly and wears consumables fast. Cut speed also matters: too fast and the arc trails and fails to pierce, too slow and dross builds up on the underside."
+  },
+  {
+   "criterion": "Start type",
+   "explanation": "Touch start strikes the arc when the tip touches bare metal, so it needs clean, bare steel. Pilot arc starts an arc inside the torch, so it cuts through rust, paint and mesh. Pilot arc usually uses a high-frequency start, which can interfere with nearby electronics. If your steel is clean, touch start is fine. If it is dirty, pilot arc is worth the step up. Many shops get by with a wire brush or a flap disc to expose bare metal at the start point, which makes touch start usable on lightly rusty plate. Pilot arc also lets you drag the torch across a joint or a gap without losing the arc, which makes it better for cutting expanded mesh or grating."
+  },
+  {
+   "criterion": "Duty cycle at your voltage",
+   "explanation": "Duty cycle is quoted at a specific current and input voltage. The Amico lists 80 percent and the BILT HARD about 60 percent, but those numbers may apply at the top current on 240 volts. On a 120 volt outlet the usable current is lower and so is the clean cut. Read the table before comparing. A ten minute window is the usual basis, so a 60 percent rating means six minutes of cutting and four of cooling at the stated current. In practice, cuts are short, but a long run of cutting out a sheet can trip the thermal protection, and the machine will refuse to fire until it cools."
+  },
+  {
+   "criterion": "Input voltage and circuit",
+   "explanation": "Dual voltage is the norm at this budget. A 120 volt 20 amp circuit limits a plasma cutter to roughly 30 to 40 amps of output, while 240 volts allows the full rating. The Reboot publishes both figures. If you have a 240 volt outlet, buy for that, and if you do not, count on the lower number."
+  },
+  {
+   "criterion": "Air supply cost",
+   "explanation": "A plasma cutter needs clean, dry air at roughly 4 to 6 CFM at 60 to 75 PSI, and the SSimder lists about 6.5 CFM. A small pancake compressor often cannot keep up, so budget for a compressor with real delivered airflow, a regulator, a water trap and a filter. Wet air ruins consumables and causes ragged cuts. A moisture trap near the machine and a second near the compressor give the best protection, and a desiccant filter helps in humid climates. If you hear sputtering at the start of a cut, suspect water first."
+  },
+  {
+   "criterion": "Consumables and torch",
+   "explanation": "Tips and electrodes wear with every cut and are the main running cost. Compatible torches such as PT31 are common and parts are cheap. Check that spare consumables are sold for your machine before you buy, and learn to read the tip: a flared or oval hole means it is time to change. Buy a spare set when you buy the machine, since downtime in the middle of a project is annoying. Drag shields and cutting guides are cheap add-ons that help hold a steady standoff."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Output amps",
+   "meaning": "The maximum cutting current. More amps cut thicker steel.",
+   "watchFor": "The Reboot lists 35 amps at 120V and 60 at 240V; the others list 40 or 50."
+  },
+  {
+   "spec": "Duty cycle",
+   "meaning": "How long you can cut in a ten-minute window at a stated current.",
+   "watchFor": "The Amico lists 80 percent and the BILT HARD about 60."
+  },
+  {
+   "spec": "Clean cut",
+   "meaning": "The thickness cut without a ragged edge. It is the practical rating.",
+   "watchFor": "The SSimder lists 3/8 inch, the Amico 1/2 inch."
+  },
+  {
+   "spec": "Pilot arc",
+   "meaning": "An arc started inside the torch without touching the work. It cuts through rust and paint.",
+   "watchFor": "The BILT HARD lists non-touch pilot arc."
+  },
+  {
+   "spec": "Post-flow",
+   "meaning": "Air that keeps flowing after the arc stops to cool the torch.",
+   "watchFor": "The 40 amp unit lists 5 to 15 seconds adjustable."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Rating transparency",
+   "description": "We compared how clearly each listing states clean cut, severance, duty cycle and input voltage. The SSimder and Reboot lead on transparency. Listings with only a headline thickness lost points."
+  },
+  {
+   "title": "Start and usability",
+   "description": "Touch start and pilot arc machines were compared on the metal they handle. The BILT HARD's pilot arc suits rust and paint. The touch start units suit clean steel."
+  },
+  {
+   "title": "Air and power needs",
+   "description": "We noted CFM, pressure and circuit demands. The SSimder's 6.5 CFM and the dual-voltage input drove the notes. Any plasma cutter's real cost includes the compressor."
+  },
+  {
+   "title": "Portability and build",
+   "description": "Weight and cooling features were reviewed. The Reboot at 8.69 pounds led. Adjustable post-flow earned credit for consumable life."
+  },
+  {
+   "title": "Cap compliance",
+   "description": "Every machine was verified under the $300 cap at the time of writing. We left out torches, circle guides and stencils that are accessories. Notes rely on the spec sheet and owner feedback patterns."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Metal Condition",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Clean sheet and plate",
+      "SSimder CUT50",
+      "Simple touch start, honest ratings"
+     ],
+     [
+      "Rusty or painted steel",
+      "BILT HARD 50A",
+      "Non-touch pilot arc"
+     ],
+     [
+      "Mixed shop work on 240V",
+      "Amico CUT-40",
+      "Auto voltage and 80% duty"
+     ],
+     [
+      "Carry to the job",
+      "Reboot 60A",
+      "8.69 pounds"
+     ],
+     [
+      "Long cuts that heat the torch",
+      "40A post-flow unit",
+      "Adjustable post-flow cooling"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in this list",
+      "SSimder CUT50",
+      "Basic touch start"
+     ],
+     [
+      "Lower middle",
+      "40A post-flow unit",
+      "Display and post-flow control"
+     ],
+     [
+      "Middle",
+      "Amico CUT-40",
+      "High duty cycle"
+     ],
+     [
+      "Upper middle",
+      "BILT HARD 50A",
+      "Pilot arc"
+     ],
+     [
+      "Top of the cap",
+      "Reboot 60A",
+      "Highest amperage at 240V"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Touch Start vs Pilot Arc",
+   "cards": [
+    {
+     "label": "Touch start (SSimder)",
+     "text": "Simple and free of high-frequency interference. It needs bare clean metal and wears the tip faster."
+    },
+    {
+     "label": "Pilot arc (BILT HARD)",
+     "text": "Starts over rust, paint and mesh without touching. It uses a high-frequency start that can disturb electronics."
+    }
+   ],
+   "note": "Choose touch start for clean sheet and pilot arc for anything dirty."
+  },
+  {
+   "subheading": "Power Supply",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Only a 120V outlet",
+      "Amico CUT-40",
+      "Accepts 100 to 250 volt input"
+     ],
+     [
+      "240V available",
+      "Reboot 60A",
+      "60 amps and 5/8 inch clean cut"
+     ],
+     [
+      "Either voltage, simple",
+      "SSimder CUT50",
+      "Dual voltage touch start"
+     ],
+     [
+      "Generator power",
+      "BILT HARD 50A",
+      "Check the generator surge rating first"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Auto Body and Sheet Metal Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A lower amperage, pilot arc for painted panels and a light torch. Thin sheet warps with too much heat."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The BILT HARD's pilot arc and the 40 amp units with 2T and 4T modes fit best. Turn the current down for thin panels."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You cut thick plate daily, need an air compressor built in or want a 240 volt only unit with a higher rating. Those cost more."
+    },
+    {
+     "label": "Save if",
+     "text": "You cut sheet and light plate on weekends. The SSimder is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Replace tips and electrodes",
+   "interval": "When the cut degrades",
+   "why": "A worn tip gives ragged cuts and heavy dross. Fresh consumables restore the arc."
+  },
+  {
+   "task": "Drain the air filter and water trap",
+   "interval": "Every session",
+   "why": "Wet air shortens consumable life. A dry supply keeps the arc stable."
+  },
+  {
+   "task": "Inspect the torch and cable",
+   "interval": "Monthly",
+   "why": "Cracked insulation and loose fittings cause arcing. Replace damaged parts."
+  },
+  {
+   "task": "Clean the machine vents",
+   "interval": "Every few months",
+   "why": "Dust blocks cooling and heats the inverter. A blast of dry air clears it."
+  },
+  {
+   "task": "Check the ground clamp",
+   "interval": "Every session",
+   "why": "A poor ground weakens the arc. Clean the contact point to bare metal."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What air supply does a plasma cutter need?",
+   "a": "Clean, dry air at roughly 4 to 6 CFM at 60 to 75 PSI. A small pancake compressor often falls short, so check delivered airflow."
+  },
+  {
+   "q": "Can I cut aluminum?",
+   "a": "Yes, on units that list it, though aluminum needs more current and cleaner air. Expect a thinner clean cut than on steel."
+  },
+  {
+   "q": "Why is my cut ragged?",
+   "a": "Common causes are a worn tip, wet air, too fast or too slow a travel speed, or too much torch height. Fix the consumables and air first."
+  },
+  {
+   "q": "Do I need a 240 volt outlet?",
+   "a": "Not necessarily, but a 120 volt circuit limits output to roughly 30 to 40 amps. 240 volts gives the full rating."
+  },
+  {
+   "q": "Is a plasma cutter safe indoors?",
+   "a": "Only with ventilation, eye protection with the right shade, gloves and a fire plan. Remove flammables and never cut near fuel or sealed containers."
+  },
+  {
+   "q": "Does the $300 cap change?",
+   "a": "Listing prices move. The cap reflects prices when this guide was updated, so check the live listing."
+  }
+ ],
+ "relatedGuides": []
+}

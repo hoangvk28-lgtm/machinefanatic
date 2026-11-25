@@ -1,0 +1,16 @@
+# Steam irons and travel steamers research
+- A steam iron heats a soleplate to 250 to 400F and boils a small water reservoir; wattage (1000 to 1800) sets heat-up time and how fast steam recovers between bursts.
+- Full-size irons at 1500 to 1800W hold steam through a pass of linen; sub-1100W travel irons manage light cotton and synthetics only.
+- Soleplate types: nonstick (light, wears off), stainless steel (durable, glides well), ceramic coated (smooth, can chip). Scratches from zippers and rivets cause snagging.
+- Steam burst and vertical steam help with hanging garments; vertical steam is a pressure-less mist on most budget units, not boiler steam.
+- Anti-drip stops spitting at low temperature; leaks usually mean scale or an overfilled tank.
+- Auto shutoff (3-way: face down, face up, sideways) is a safety feature and a common cause of "it stopped working" complaints when users pause.
+- Hard water leaves scale in the steam vents; distilled or half-and-half water slows it. Self-clean buttons flush loose scale only.
+- Handheld travel steamers use 1000 to 1500W, 100 to 150 mL tanks, and give 5 to 10 minutes of steam; they do not flatten collars or pleats like a pressed soleplate.
+- Dual voltage (100 to 240V) matters for overseas travel; a single-voltage iron on a 220V outlet burns out.
+- Retractable cord reels add a spring mechanism that is a wear point but solves cord tangles.
+- Tank capacity 200 to 400 mL on full-size irons; a bigger tank means fewer refills and a heavier iron.
+- Always empty the tank and let the iron cool upright before storing to prevent drips and mineral crust.
+- Fabric dial guide: synthetic low, silk/wool medium, cotton higher, linen highest; test hidden hems.
+- Weight of 2 to 3 pounds is the sweet spot; heavier presses better but tires wrists.
+- Replacement parts are rare on cheap irons; treat them as 2 to 4 year appliances.

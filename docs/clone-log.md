@@ -710,3 +710,9 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - neardup.mjs 0 hits before Stage A and at Finish; same-intent skips: rechargeable/heavy-duty/lithium camping fans, rechargeable tent fans, camping-fans-for-tent-camping, electric-rv-water-heater (= 120v), propane-tankless-rv-water-heater, dual-nozzle (= dual-extruder), multicolor (= with-ams) 3D printers.
 - Skips: nylon filaments + ventilated enclosures (0 items), idex-3d-printers (no real IDEX), dual-extruder-3d-printers (1 true dual-nozzle unit, rest padding), anode-rod-for-rv-water-heater (consumable part).
 - Fixes: camping-shower-with-heater intro spec numbers removed; opener rotation ("It is a good" 11, "The tradeoff is that" 10, "Ownership is ..." 15). No lineup pair >= 80% shared.
+
+## Round 50 (2026-11-26): 75 under-N budget guides
+- Source: 90 budget topics added 2026-11-25 (docs/rounds/under-budget-topics.txt). neardup 0 hits before and after.
+- Skips (15): <3 underCap machines at Stage A: finish-nailers-under-100/150, welders-under-200, juicers-under-100, spin-mops-under-30, pellet-grills-under-300, sump-pumps-under-100, battery-chargers-under-50, robot-lawn-mowers-under-500. Writer skips: spin-mops-under-50 (manual mops), pressure-cookers-under-50 (2 electric), rv-tankless-water-heaters-under-300/500 (1-2 true RV units), lawn-aerators-under-50 (manual tools), pool-pumps-under-300 (same lineup as under-200).
+- Lineup overlap: budget guides share 3 of 4 picks with some parent guides (window AC, nugget ice, espresso, wet-dry vac); accepted as a different keyword intent. Sibling caps share at most 2 products.
+- Opener rotation pass ("The listing says it" 13, "Empty the crumb tray", "If you plan to", "Against the"); top opener now 6. tsc + build green.

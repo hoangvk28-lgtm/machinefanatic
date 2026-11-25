@@ -1,0 +1,15 @@
+# Juicers (centrifugal and masticating) research
+- Centrifugal juicers shred produce on a spinning basket at 6,000 to 18,000 RPM; fast, loud, more foam, and some heat and oxidation.
+- Masticating (slow, cold press) juicers crush with an auger at 40 to 100 RPM; lower noise, drier pulp, better yield on leafy greens.
+- Feed chute width (3 inches vs 1 inch) decides how much chopping you do; a wide chute handles whole apples.
+- Pulp ejection vs internal pulp bin: continuous ejection runs longer, internal bins need stopping.
+- Motor wattage 300 to 1000W for centrifugal; torque matters more than wattage for slow juicers.
+- Juice screen/strainer mesh wears and clogs; a stiff brush is needed every use.
+- Cleanup time is the main reason juicers end up in cupboards; fewer parts and dishwasher-safe pieces help.
+- Citrus juicers (reamers) and slow juicers are separate: citrus attachment designs press halves.
+- Yield: a slow juicer yields about 10 to 30 percent more juice from greens than a centrifugal.
+- Foam separators and froth jugs clean cheap spills.
+- Safety lock: lid must be latched to run; sensors fail over time.
+- Duty cycle: budget centrifugal units are meant for 1 to 2 minutes of continuous run per batch.
+- Warranty 1 to 2 years typical; auger and screen are replaceable on better brands.
+- Store and juice soon; centrifugal juice oxidizes in hours, slow juice lasts a day or so refrigerated.

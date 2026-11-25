@@ -1,0 +1,17 @@
+# Battery chargers research notes (established knowledge, no sources)
+- A charger restores charge; a maintainer holds a full battery at float without overcharging. Smart units do both in stages: bulk, absorption, float.
+- Charge current in amps decides time: a rule of thumb is amp-hours divided by charger amps, plus about 20 percent for losses. A 50 Ah battery at 6 A takes roughly 10 hours from flat.
+- Slow charging (2 to 6 A) is gentler and better for battery life; high-amp boost is for emergencies and shortens life if used routinely.
+- Engine start (a 100 A figure) is a short boost assist for a flat battery in a vehicle, not a substitute for a jump starter, and only works if the battery can accept some charge.
+- Battery chemistries: flooded lead-acid, AGM, gel and LiFePO4 want different voltages; a charger needs the correct mode. Using a lead-acid profile on lithium can undercharge it.
+- 6 V and 12 V support matters for classic cars and some motorcycles and lawn tractors.
+- Safety features: reverse polarity protection, spark-proof connection, thermal protection and short-circuit protection.
+- Temperature compensation adjusts charge voltage for cold and hot conditions; useful in a garage that swings in temperature.
+- Desulfation or repair modes may recover mildly sulfated batteries but cannot revive a dead cell.
+- A battery that will not hold charge after a full cycle is failing; testing under load is the real diagnostic.
+- Connect clamps to the battery first (red positive, black negative) with the charger unplugged, and unplug before disconnecting; charge in a ventilated space, since flooded batteries vent hydrogen.
+- For a car battery, charge on the vehicle or remove the battery if the maker advises; disconnect electronics if the manual says so.
+- Maintainers are best for vehicles stored for weeks: boats, motorcycles, classic cars and mowers.
+- Cable length and clamp quality matter; weak clamps waste current as heat.
+- Display and mode selection: simple LED indicators suffice; an LCD adds voltage readout.
+- Long-term storage: charge fully, keep cool and use a maintainer to avoid sulfation.

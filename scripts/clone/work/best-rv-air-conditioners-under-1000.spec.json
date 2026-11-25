@@ -1,0 +1,590 @@
+{
+ "guideSlug": "best-rv-air-conditioners-under-1000",
+ "categorySlug": "home-machines",
+ "mainKeyword": "rv air conditioners under 1000",
+ "guideTitle": "Best RV Air Conditioners Under $1000 (2026)",
+ "metaTitle": "Best RV Air Conditioners Under $1000 (2026)",
+ "metaDescription": "Six RV air conditioners at or under $1,000, from TOSOT 16,000 BTU and VEVOR rooftops to TURBRO, EROMMY and Countrymod 12V units, with honest battery math.",
+ "lastUpdated": "2026-11-25",
+ "readTime": "17 min",
+ "expertTake": "The TOSOT 16,000 BTU rooftop heat pump is the pick at this cap because 43 dB operation, a 12,500 BTU heat pump mode and a unit big enough for a full-size trailer address the three common complaints about rooftop RV air conditioners. The TURBRO 12V 12,000 BTU inverter is the value choice for off-grid rigs with a serious battery bank. Anyone planning to run a 12V unit all night from a single small battery should read the amp-hour math first.",
+ "introParagraphs": [
+  "An RV air conditioner is judged by two numbers that home units hide: how much power it draws and how much noise it makes in a metal box a few feet above your head. The choice between a traditional 120 volt rooftop and a 12 volt DC unit is really a choice between shore power and a battery bank.",
+  "Prices move, and the $1000 cap used here reflects live listing prices when this guide was updated. The lineup mixes conventional rooftops, an under-bench design and several 12 volt DC units, so the guide spends its words on the amp-hour arithmetic, roof and ceiling fit and generator sizing that decide whether a unit actually works in a given rig."
+ ],
+ "products": [
+  {
+   "id": "B0BTRV37RN",
+   "badge": "Best Overall",
+   "name": "TOSOT 16,000 BTU RV Rooftop Heat Pump Air Conditioner, 43 dB",
+   "specs": [
+    "16,000 BTU",
+    "12,500 BTU heat",
+    "43 dB",
+    "Heat pump"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "16,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "12,500 BTU heat pump"
+    },
+    {
+     "label": "Noise",
+     "value": "43 dB claimed"
+    },
+    {
+     "label": "Type",
+     "value": "Rooftop, heat pump"
+    },
+    {
+     "label": "Supply",
+     "value": "120V AC"
+    }
+   ],
+   "description": "The TOSOT is a 16,000 BTU rooftop air conditioner with a 12,500 BTU heat pump, a claimed noise level of 43 dB and a claim that it is 32 percent quieter than standard RV units. The heat pump adds electric warmth in spring and fall, so you do not need to fire the furnace on a cool morning. It is the largest unit in this guide and suits a full-size trailer or fifth wheel.\n\nThe cooling capacity is the point, since a 15,000 BTU class unit covers roughly 700 square feet and under and a 16,000 BTU unit leaves headroom in hot weather. Next to the VEVOR 13,500 BTU, it has more capacity, a heat pump and a lower noise claim. Set beside the 12 volt units, it needs shore power or a generator, and its running draw is in the 12 to 16 amp range.\n\nA conventional 120 volt unit has a high starting surge, so a soft start capacitor is the main lever for generator sizing, and a 2,200 to 3,000 watt inverter generator can often start one unit with it while you should plan for 3,500 watts or more without. Heat pumps lose output as the outdoor temperature approaches freezing. Clean the filter and the condenser coil every season, and reseal the roof gasket each year.",
+   "bestFor": "Full-size trailers on shore power or a capable generator that want quiet cooling and heat.",
+   "pros": [
+    "16,000 BTU cooling with a 12,500 BTU heat pump",
+    "43 dB noise claim",
+    "Quieter than standard units per the maker",
+    "Works with common 14 inch roof openings"
+   ],
+   "cons": [
+    "Needs shore power or a large generator",
+    "Heat pump weakens near freezing",
+    "Heavy for one-person roof installs"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ciNH8rGbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H4Q5R8NC",
+   "badge": "Best Off-Grid Pick",
+   "name": "TURBRO 12V DC 12,000 BTU RV Air Conditioner with Inverter Compressor",
+   "specs": [
+    "12,000 BTU",
+    "12V DC",
+    "Inverter",
+    "4 AWG cable"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "12,000 BTU"
+    },
+    {
+     "label": "Supply",
+     "value": "12V DC"
+    },
+    {
+     "label": "Compressor",
+     "value": "Twin rotary inverter"
+    },
+    {
+     "label": "Cable",
+     "value": "4 AWG UL-certified power cable"
+    },
+    {
+     "label": "Control",
+     "value": "App, remote and panel"
+    }
+   ],
+   "description": "The TURBRO 12V is a 12,000 BTU rooftop unit that runs directly from a 12 volt battery bank, with a twin rotary inverter compressor, a 4 AWG UL-certified power cable and control by app, remote or panel. A Turbo LO mode runs at full load for rapid cooling. It is a non-ducted, ultra-low profile unit.\n\nThe arithmetic is the honest part of any DC unit. A 12 volt unit drawing 300 watts pulls 25 amps, and at 900 watts it pulls 75, so a 100 amp-hour lithium battery gives about four hours at the low end and barely an hour at the top. Measured against the EROMMY and Countrymod 10,000 BTU units, it has more capacity and a larger cable. Against the TOSOT, it trades heat and size for battery independence.\n\nUse a battery management system with a low-voltage cutoff so the unit cannot drain the bank, and fuse and breaker the heavy cable properly. Real runtime depends on insulation, window covers and setpoint, so treat vendor claims of many hours as optimistic. Seal the roof gasket and clean the coil yearly.",
+   "bestFor": "Off-grid rigs with a large lithium bank and a need to cool without shore power.",
+   "pros": [
+    "12V DC direct battery connection",
+    "Inverter compressor modulates power",
+    "4 AWG UL-certified cable included",
+    "App, remote and panel control"
+   ],
+   "cons": [
+    "High DC amp draw",
+    "Needs a large battery bank",
+    "12,000 BTU limits trailer size"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H4Q5R8NC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41j1UlGVTyL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DYJFMQBH",
+   "badge": "Best Conventional Value",
+   "name": "VEVOR 13,500 BTU Non-Ducted RV Rooftop Air Conditioner, 65 dB",
+   "specs": [
+    "13,500 BTU",
+    "Non-ducted",
+    "65 dB",
+    "3 modes"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "13,500 BTU"
+    },
+    {
+     "label": "Type",
+     "value": "Non-ducted rooftop"
+    },
+    {
+     "label": "Noise",
+     "value": "65 dB claimed"
+    },
+    {
+     "label": "Modes",
+     "value": "Auto, cooling, 3-speed fan"
+    },
+    {
+     "label": "Included",
+     "value": "Air distribution box"
+    }
+   ],
+   "description": "The VEVOR is a conventional 13,500 BTU non-ducted rooftop unit with an air distribution box, three modes, auto, cooling and a three-speed fan, and a noise claim of 65 dB. It is a ductless design that fits the standard roof opening. The auto mode switches between cooling and fan to hold the setpoint.\n\nThe 65 dB figure is louder than the TOSOT's 43 and is a reminder of how much noise a rooftop can make inside a small space. Next to the TOSOT, it has less capacity, no heat pump and a louder claim, but it costs less. Set beside the DC units, it uses 120 volts, so it is a shore-power or generator machine.\n\nA 13,500 BTU unit draws roughly 12 to 16 amps running and several times that at startup without a soft start. On a 30 amp RV service, one air conditioner plus a few small loads is the realistic limit, and running a microwave with the unit on trips the breaker. Check that your ceiling assembly matches a non-ducted unit before you buy.",
+   "bestFor": "Buyers with shore power who want a conventional unit at the lowest cost.",
+   "pros": [
+    "13,500 BTU rooftop capacity",
+    "Air distribution box included",
+    "Three modes with auto",
+    "Standard roof fit"
+   ],
+   "cons": [
+    "65 dB claim is loud",
+    "No heat pump",
+    "High startup surge without soft start"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LdKJ+FnNL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G252N4J3",
+   "badge": "Best Roof-Saving Design",
+   "name": "TURBRO Inverter Under-Bench RV Air Conditioner with Heat Pump, 115V",
+   "specs": [
+    "Inverter",
+    "Under bench",
+    "Heat pump",
+    "115V"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Under-bench, hidden"
+    },
+    {
+     "label": "Compressor",
+     "value": "Inverter"
+    },
+    {
+     "label": "Heat",
+     "value": "Heat pump for all seasons"
+    },
+    {
+     "label": "Supply",
+     "value": "115V AC"
+    },
+    {
+     "label": "Control",
+     "value": "Wall pad thermostat"
+    }
+   ],
+   "description": "The TURBRO under-bench unit sits inside the rig beneath a bench and keeps the roof free for solar panels or storage. It uses an inverter compressor, a heat pump for year-round use, a 115 volt supply and a wall pad thermostat. The maker states the inverter reduces energy use by a large percentage compared with a conventional unit, which is a comparison and not a measurement.\n\nRemoving the unit from the roof also removes the roof-opening leaks and the weight up high, and it lowers the roof height for low bridges. Measured against the TOSOT, it frees roof space but has a lower capacity and a more demanding install. Against the VEVOR, it adds an inverter and a heat pump.\n\nAn under-bench installation needs a ducted path to outdoors and a floor-level condensate drain. Plan the duct runs and the cutouts before you commit. Clean the filter and the outdoor coil each season.",
+   "bestFor": "Rigs with limited roof space that want an inverter heat pump inside.",
+   "pros": [
+    "Frees roof space for solar",
+    "Inverter compressor",
+    "Heat pump for all seasons",
+    "Wall pad thermostat"
+   ],
+   "cons": [
+    "Complex install with ducting",
+    "Less capacity than big rooftops",
+    "Needs space under a bench"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0G252N4J3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415EypiEm4L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HJYWMHSX",
+   "badge": "Best Low-Power 12V",
+   "name": "EROMMY 12V DC 10,000 BTU RV Air Conditioner with Auto Swing, 49 dB",
+   "specs": [
+    "10,000 BTU",
+    "12V DC",
+    "49 dB",
+    "Brushless"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "10,000 BTU"
+    },
+    {
+     "label": "Supply",
+     "value": "12V DC"
+    },
+    {
+     "label": "Noise",
+     "value": "49 dB indoor claimed"
+    },
+    {
+     "label": "Build",
+     "value": "Brushless fan and blower, rotary compressor"
+    },
+    {
+     "label": "Features",
+     "value": "LED light and auto swing airflow"
+    }
+   ],
+   "description": "The EROMMY is a 12 volt DC rooftop unit with 10,000 BTU of cooling, an indoor noise claim of 49 dB, a brushless fan and blower, a rotary compressor, a built-in LED light and auto swing airflow. The brushless parts are meant to save energy and reduce wear. It is aimed at off-grid campers and vans.\n\nA 10,000 BTU DC unit cools a van, a truck camper or a small travel trailer, and it does not cool a full-size rig. Next to the TURBRO 12V, it has less capacity and a lower price tier. Set beside the Countrymod, it lists a firm noise number and a brushless build, but no app.\n\nUse heavy cable and a proper fuse, and mount a low-voltage cutoff on the battery. Cover windows and add insulation to extend runtime. Clean the coil and reseal the roof gasket yearly.",
+   "bestFor": "Vans and small campers with a battery bank and modest cooling needs.",
+   "pros": [
+    "12V DC operation",
+    "49 dB indoor claim",
+    "Brushless fan and blower",
+    "Built-in LED light"
+   ],
+   "cons": [
+    "10,000 BTU limits space",
+    "High DC amp draw",
+    "No app listed"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0HJYWMHSX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51gMsSl60iL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DW3TYSNR",
+   "badge": "Best App Control",
+   "name": "Countrymod 12V DC 10,000 BTU RV Air Conditioner with App, 300-900W Inverter",
+   "specs": [
+    "10,000 BTU",
+    "12V DC",
+    "300-900W",
+    "App control"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "10,000 BTU"
+    },
+    {
+     "label": "Power",
+     "value": "300 to 900W variable inverter"
+    },
+    {
+     "label": "Efficiency claim",
+     "value": "0.3 kWh per hour"
+    },
+    {
+     "label": "Noise",
+     "value": "45 to 55 dB"
+    },
+    {
+     "label": "Control",
+     "value": "App control"
+    }
+   ],
+   "description": "The Countrymod is a 12 volt DC rooftop unit with 10,000 BTU of cooling, a variable inverter drawing 300 to 900 watts, a claimed consumption of 0.3 kilowatt-hours per hour and a noise claim of 45 to 55 dB. App control lets you adjust settings from your phone. The efficiency claim compares it with a standard air conditioner and depends on conditions.\n\nThe 300 to 900 watt range is the honest number: at 12 volts that is 25 to 75 amps, so the 0.3 kWh per hour figure applies only to the low end of the range. Measured against the EROMMY, it adds an app and a wider stated power range. Against the TURBRO 12V, it has less capacity and a similar battery demand.\n\nSize the battery bank for the high end of the range, not the low. Wire it with heavy cable and fuse it close to the battery. Clean the coil and check the roof seal each year.",
+   "bestFor": "Off-grid owners who want app control and a stated power range.",
+   "pros": [
+    "Variable 300 to 900W inverter",
+    "App control",
+    "45 to 55 dB claim",
+    "12V DC operation"
+   ],
+   "cons": [
+    "Efficiency claim applies at low power",
+    "10,000 BTU limits space",
+    "High DC current at full load"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DW3TYSNR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/315QFvY-wAL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Shore power or battery",
+   "explanation": "A 120 volt rooftop draws roughly 12 to 16 amps running and surges to several times that at startup, so it needs shore power or a generator. A 12 volt DC unit runs from the battery bank and draws about 22 to 55 amps at 12 volts depending on fan speed, and more at full load. The right choice depends on how you camp. Mixing the two means buying a larger generator or a larger battery."
+  },
+  {
+   "criterion": "Amp-hour arithmetic",
+   "explanation": "A 300 watt load at 12 volts is 25 amps, and a 900 watt load is 75. A 100 amp-hour lithium battery stores about 1,200 watt-hours, so it runs a 300 watt unit about four hours and a 900 watt unit barely an hour. Vendor claims of eight hours on a 300 amp-hour bank assume the low end of the power range. Real runtime also depends on insulation, window covers and setpoint."
+  },
+  {
+   "criterion": "Capacity and rig size",
+   "explanation": "A 15,000 BTU class unit covers roughly 700 square feet and under, which suits a full-size trailer. A 10,000 to 12,000 BTU DC unit cools a van, a truck camper or a small travel trailer. Oversizing is less of a risk than undersizing in a metal box in the sun. Insulation and shade make a bigger difference than a few thousand BTU."
+  },
+  {
+   "criterion": "Soft start and generator sizing",
+   "explanation": "A conventional unit starts with a surge that can be several times its running draw. A soft start capacitor sharply reduces the starting watts and is the main lever for generator sizing. With soft start, a 2,200 to 3,000 watt inverter generator can often start one unit, while without it you should plan for 3,500 watts or more. Check whether a unit includes one."
+  },
+  {
+   "criterion": "Heat pump limits",
+   "explanation": "The TOSOT and the TURBRO under-bench unit include heat pump modes, which add electric warmth in spring and fall. Heat pumps lose output as the outdoor temperature drops toward freezing, so they are not a winter heating plan. A furnace remains the backup. Check the temperature range the maker states."
+  },
+  {
+   "criterion": "Roof, ceiling and install",
+   "explanation": "Most rooftop units fit a 14 inch by 14 inch roof opening with a gasket and four bolts, and weigh 70 to 110 pounds. Ducted units feed a ceiling plenum, while non-ducted units blow from a single assembly, so match what your rig has. Seal the gasket and clean the condenser coil yearly. An under-bench design needs ducting and a drain."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "16,000 BTU with 12,500 BTU heat pump",
+   "meaning": "The cooling and heating capacities of a rooftop heat pump. Heat output falls in cold weather.",
+   "watchFor": "The TOSOT lists both."
+  },
+  {
+   "spec": "300 to 900W variable",
+   "meaning": "The power range of an inverter compressor. At 12 volts it is 25 to 75 amps.",
+   "watchFor": "The Countrymod lists it, and the efficiency claim applies at the low end."
+  },
+  {
+   "spec": "4 AWG cable",
+   "meaning": "A heavy wire gauge suited to the high currents of a 12V air conditioner.",
+   "watchFor": "The TURBRO 12V includes one, so fuse it correctly."
+  },
+  {
+   "spec": "43 dB and 65 dB",
+   "meaning": "The claimed noise levels of two rooftops. A 22 dB gap is a very large difference in perceived loudness.",
+   "watchFor": "The TOSOT claims 43 and the VEVOR claims 65."
+  },
+  {
+   "spec": "Non-ducted",
+   "meaning": "A unit that blows from a single ceiling assembly instead of feeding ducts.",
+   "watchFor": "The VEVOR and the TURBRO 12V are non-ducted, so match your ceiling."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Power source and math",
+   "description": "We separated 120 volt rooftops from 12 volt DC units and checked amp-hour claims against stated power ranges. The Countrymod's 300 to 900 watt figure was used to temper the 0.3 kWh claim."
+  },
+  {
+   "title": "Capacity and fit",
+   "description": "Capacities from 10,000 to 16,000 BTU were compared with rig sizes. Heat pump and under-bench designs were weighed for extra function."
+  },
+  {
+   "title": "Noise claims",
+   "description": "Claimed noise from 43 dB on the TOSOT to 65 dB on the VEVOR was compared. Claims were treated as minimums."
+  },
+  {
+   "title": "Install and electrical needs",
+   "description": "Roof openings, ducting, cable gauge and soft start were considered. Units that include heavy cable scored higher for install readiness."
+  },
+  {
+   "title": "Fit at the cap",
+   "description": "Every item is at or under the cap on its live listing. We favored honest power numbers over bold runtime claims."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Power Source",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Full-size trailer on shore power",
+      "TOSOT 16,000 BTU Heat Pump",
+      "Capacity, heat and 43 dB"
+     ],
+     [
+      "Shore power, lowest cost",
+      "VEVOR 13,500 BTU Rooftop",
+      "Conventional and cheap"
+     ],
+     [
+      "Big lithium bank, off grid",
+      "TURBRO 12V DC 12,000 BTU",
+      "Inverter and 4 AWG cable"
+     ],
+     [
+      "Van or small camper",
+      "EROMMY 12V 10,000 BTU",
+      "49 dB and brushless build"
+     ],
+     [
+      "App control on DC",
+      "Countrymod 12V 10,000 BTU",
+      "300 to 900W inverter and app"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest in the lineup",
+      "EROMMY 12V 10,000 BTU",
+      "Cheapest DC unit"
+     ],
+     [
+      "Lower middle",
+      "Countrymod 12V 10,000 BTU",
+      "App and range"
+     ],
+     [
+      "Middle",
+      "VEVOR 13,500 BTU Rooftop",
+      "Shore power rooftop"
+     ],
+     [
+      "Upper middle",
+      "TURBRO 12V DC 12,000 BTU",
+      "Larger DC inverter"
+     ],
+     [
+      "Top of the cap",
+      "TOSOT 16,000 BTU Heat Pump",
+      "Capacity and heat"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "12V DC vs 120V Rooftop",
+   "cards": [
+    {
+     "label": "12V DC (TURBRO, EROMMY, Countrymod)",
+     "text": "Runs from the battery for off-grid use, but draws 25 to 75 amps and cools smaller spaces."
+    },
+    {
+     "label": "120V rooftop (TOSOT, VEVOR)",
+     "text": "Cools larger rigs with less current but needs shore power or a generator."
+    }
+   ],
+   "note": "Pick DC for dry camping with a big bank, and 120V for campgrounds and larger rigs."
+  },
+  {
+   "subheading": "Roof vs Under-Bench",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Standard roof opening",
+      "VEVOR 13,500 BTU Rooftop",
+      "Common 14 inch fit"
+     ],
+     [
+      "Free the roof for solar",
+      "TURBRO Under-Bench Heat Pump",
+      "Hidden unit"
+     ],
+     [
+      "Rooftop with heat",
+      "TOSOT 16,000 BTU Heat Pump",
+      "12,500 BTU heat pump"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Off-Grid Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A DC unit with a stated power range, a low-voltage cutoff and heavy cable. Size the battery bank for the high end of the power range."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The TURBRO 12V has the most capacity, and the Countrymod has the clearest power range."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You want a ducted dual-zone system, a larger DC unit or a branded heat pump with dealer service. Higher tiers add dependable warranty support."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp in mild weather with shore power, in which case a basic rooftop is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the filter",
+   "interval": "Every month in season",
+   "why": "A clogged filter cuts airflow and cooling. Wash and dry it."
+  },
+  {
+   "task": "Clean the condenser coil",
+   "interval": "Yearly",
+   "why": "Dust and pollen cut efficiency. Rinse gently."
+  },
+  {
+   "task": "Reseal the roof gasket",
+   "interval": "Yearly",
+   "why": "Leaks damage the roof. Inspect and reseal it."
+  },
+  {
+   "task": "Check DC cables and fuses",
+   "interval": "Each season",
+   "why": "High currents heat loose lugs. Tighten and inspect them."
+  },
+  {
+   "task": "Test the battery cutoff",
+   "interval": "Each season",
+   "why": "A working cutoff protects the bank from over-draining."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I run an RV air conditioner from a battery?",
+   "a": "A 12V DC unit can, drawing 25 to 75 amps. A 120V unit would need a large inverter and drains a bank very quickly."
+  },
+  {
+   "q": "What does the $1000 cap buy?",
+   "a": "It buys rooftop and DC units from 8,500 to 16,000 BTU. The cap reflects listing prices when this guide was updated."
+  },
+  {
+   "q": "What generator do I need?",
+   "a": "With a soft start, 2,200 to 3,000 watts can often start one unit. Without one, plan for 3,500 watts or more."
+  },
+  {
+   "q": "Can I run a microwave and the air conditioner on 30 amps?",
+   "a": "Usually not. One air conditioner plus a few small loads is the realistic limit."
+  },
+  {
+   "q": "How long does the battery last?",
+   "a": "About four hours at 300 watts on 100 amp-hours of lithium, and about one hour at 900 watts."
+  },
+  {
+   "q": "Do heat pumps work in winter?",
+   "a": "Only in mild cold. Output drops toward freezing, so keep a furnace."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41ciNH8rGbL._SL500_.jpg"
+}

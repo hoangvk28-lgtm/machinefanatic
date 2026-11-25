@@ -1,0 +1,16 @@
+# Coffee grinders research notes (established knowledge, no sources)
+- Blade grinders chop beans with a spinning propeller; particle size varies widely and is set only by grinding time. Fine for drip and French press at a pinch, weak for espresso and pour-over.
+- Burr grinders crush beans between two burrs at a set gap; grind size is set by the gap and is far more uniform. Conical burrs run cooler and quieter; flat burrs give sharp particle distribution.
+- Ceramic burrs stay cool and resist rust; steel burrs cut faster and last long. Both are fine at home volumes.
+- Gear-reduction motors turn burrs slowly, cutting heat, noise and static compared with a fast direct-drive motor.
+- Step count is not the same as range: 15 steps with micro-adjustments can cover more than 40 clicks that cluster at coarse sizes. Espresso needs fine, stepless or tiny steps; drip and French press tolerate coarse steps.
+- Retention: ground coffee stays in the chute and burr chamber; stale grounds taint the next dose. A small brush and weekly cleaning fix it.
+- Static makes grounds cling; a drop of water on the beans (spritz) or a metal-lined bin cuts it.
+- Manual grinders are quiet, portable and cheap per grind quality; they cost effort (about a minute for 20 to 30 g) and suit one or two cups.
+- Capacity: hopper size versus bin size; many small grinders hold 25 to 30 g in the bin, enough for two cups.
+- Noise: blade 80+ dB, small burr 65 to 80 dB, quiet claims near 60 to 65 dB; manual near silent.
+- Heat degrades aroma; slow grinders protect volatile aromatics, which matters for light roasts.
+- Clean burrs with a stiff brush; avoid water on the burrs; rice cleaning tablets are optional.
+- Grind fresh, just before brewing; whole beans keep flavor far longer than pre-ground.
+- Safety: unplug before opening the hopper; keep fingers away from blades and burrs.
+- Spice use: blade grinders can double for spices but retain odors; keep a dedicated unit for coffee.
