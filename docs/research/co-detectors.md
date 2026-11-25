@@ -1,0 +1,18 @@
+# Carbon monoxide detectors for generator safety research
+- Generator exhaust contains very high carbon monoxide (CO); it is odorless, colorless and kills quickly in garages, basements, tents and near windows. Running a generator indoors or in an attached garage is the main cause of generator CO deaths.
+- Standard safety advice: run generators outdoors at least 20 feet from the house with the exhaust pointing away from windows, doors and vents; never in a garage, even with the door open.
+- A CO alarm is a backup, not permission to run a generator close to the house. It does not replace distance.
+- Residential CO alarms follow the UL 2034 standard; they are designed not to alarm at very low levels (below about 30 ppm) and to alarm sooner at higher levels (roughly 60 to 240 minutes at 70 ppm, 10 to 50 minutes at 150 ppm, 4 to 15 minutes at 400 ppm).
+- Electrochemical sensors are the common type; they have a limited life, typically 5 to 10 years, and many alarms signal end of life with a chirp.
+- Plug-in alarms need a battery backup to work during an outage, which is exactly when generators run; battery-only units keep working but need battery changes.
+- Install an alarm on every level and outside sleeping areas; follow the maker's placement guidance; avoid placing directly beside fuel-burning appliances or in very humid spots.
+- Digital display models show current CO in ppm and often peak level, which helps notice a low-level leak that does not trigger the alarm.
+- CO alarms are not smoke alarms; combination units cover both but have a single end-of-life date for the shorter-lived sensor.
+- Gas (explosive) detectors for natural gas or propane sense methane or propane, not CO; propane-fueled RV generators and cooking appliances make a combined CO and gas alarm useful.
+- Portable or handheld CO monitors are spot tools; some are rechargeable with vibration alarms for workers; they are not substitutes for a fixed alarm that stays on all night.
+- Test alarms monthly with the test button; replace batteries on schedule; replace the whole alarm at the end-of-life date.
+- Symptoms of CO poisoning include headache, dizziness, nausea and confusion; if the alarm sounds, get everyone outside to fresh air and call emergency services.
+- Some generators have built-in CO shutoff sensors; they are an additional layer but still do not replace a household alarm.
+- Camping and RV use: a battery CO alarm inside the tent, trailer or RV matters even with a generator outside.
+- Do not rely on a phone app; use a listed, dedicated alarm.
+- Temperature extremes and dust reduce sensor life; keep alarms clean with a soft brush or vacuum, no sprays.

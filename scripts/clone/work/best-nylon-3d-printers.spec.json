@@ -1,0 +1,550 @@
+{
+ "guideSlug": "best-nylon-3d-printers",
+ "categorySlug": "home-machines",
+ "mainKeyword": "nylon 3d printers",
+ "guideTitle": "Best Nylon 3D Printers (2026)",
+ "metaTitle": "Best Nylon 3D Printers in 2026",
+ "metaDescription": "Nylon needs hot nozzles, a warm chamber and dry filament. Five FDM printers compared on temperature ceiling, enclosure and the upkeep nylon really demands.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "14 min",
+ "expertTake": "The QIDI Plus4 is the pick because it pairs a 370 degree nozzle with an actively heated chamber, which is what nylon actually needs. The Flashforge Adventurer 5M is the value pick for people who print nylon only occasionally and accept its limits. Anyone who does not want to dry filament and fight warping should skip nylon and print PETG instead.",
+ "introParagraphs": [
+  "Nylon is a tough, slightly flexible engineering plastic that makes gears, hinges and wear parts, but it is one of the most demanding filaments to print. It shrinks as it cools, drinks moisture from the air and wants a hotter nozzle than hobby plastics.",
+  "A printer for nylon needs three things in the right order: a hotend that reaches the melt temperature, an enclosure that stops drafts and ideally holds heat, and a filament-handling routine that keeps spools dry. Speed and multicolor tricks come well after those basics."
+ ],
+ "products": [
+  {
+   "id": "B0DBQ8MZX6",
+   "badge": "Best Overall",
+   "name": "QIDI Plus4 CoreXY, 65C chamber, 370C nozzle, 12 in cube",
+   "specs": [
+    "370C nozzle",
+    "65C active chamber",
+    "12x12x11 in",
+    "600 mm/s"
+   ],
+   "specList": [
+    {
+     "label": "Nozzle",
+     "value": "Integrated, up to 370C"
+    },
+    {
+     "label": "Chamber",
+     "value": "Active heating, 65C"
+    },
+    {
+     "label": "Build size",
+     "value": "12 x 12 x 11 inches"
+    },
+    {
+     "label": "Top speed",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Leveling",
+     "value": "Fully automatic"
+    }
+   ],
+   "description": "The Plus4 is built for engineering filaments, and nylon is the reason that matters. Its integrated nozzle reaches 370 degrees, driven by an upgraded 80 watt heater, which gives enough headroom for nylon blends and higher-temperature plastics. The second-generation chamber heater warms the enclosure to about 65 degrees, so a large nylon part sees a steady, warm environment instead of a cold draft.\n\nThat chamber is the feature that separates the Plus4 from the other printers in this guide. Nylon shrinks as it cools, and an actively warmed chamber slows that shrink so corners stay flat and layers stay bonded. The 12 by 12 by 11 inch build volume is big enough for functional parts, and the 600 mm/s ceiling is a travel figure, so expect nylon prints at a fraction of that. Compared with the Elegoo Centauri Carbon 2 Combo, it trades multicolor for warmth and size.\n\nOwnership is about heat and moisture. A hot chamber is hard on spools left inside, so dry filament in a separate box and feed it through a tube. The integrated nozzle also means a swap is a bigger job than on a quick-change hotend, so keep a spare and learn the procedure before you need it. Clean the build plate with isopropyl alcohol and use the adhesive that suits nylon, since the material grips poorly to bare plates.",
+   "bestFor": "Buyers who print nylon and other engineering filaments regularly and want a heated chamber.",
+   "pros": [
+    "370C nozzle reaches nylon and higher-temperature plastics",
+    "Active 65C chamber keeps large parts flat",
+    "Large 12 x 12 x 11 inch build volume",
+    "Fully automatic leveling saves setup time"
+   ],
+   "cons": [
+    "Integrated nozzle makes a swap a bigger job",
+    "Hot chamber cooks spools stored inside",
+    "No multicolor system in the base machine"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DBQ8MZX6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41tDUzuq+1L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H8SC45DX",
+   "badge": "Best for Industrial Use",
+   "name": "Flashforge Creator 5 Pro Industrial, 65C chamber, HEPA13",
+   "specs": [
+    "65C active chamber",
+    "HEPA13 filter",
+    "4 extruders",
+    "Enclosed"
+   ],
+   "specList": [
+    {
+     "label": "Chamber",
+     "value": "Active heated, 65C"
+    },
+    {
+     "label": "Air filtration",
+     "value": "HEPA13 with outside-in airflow"
+    },
+    {
+     "label": "Toolheads",
+     "value": "4 independent extruders"
+    },
+    {
+     "label": "Frame",
+     "value": "Enclosed CoreXY"
+    },
+    {
+     "label": "Target use",
+     "value": "Engineering filaments and multicolor"
+    }
+   ],
+   "description": "The Creator 5 Pro Industrial pairs a heated chamber with a filtered air system, which suits nylon more than most people expect. Nylon can release fumes while it prints, and the HEPA13 filtering with an outside-in airflow pattern keeps the air cleaner around the machine. The active chamber holds about 65 degrees, the same warmth as the QIDI Plus4.\n\nWhat sets it apart is the four-nozzle toolchanger. Each material has its own head, so you can print a nylon structural body next to a support material or a soft grip without swapping filament through one nozzle. That is helpful on mixed-material parts, but it also means four hotends to maintain, and a nylon job that jams one head can stop the whole print. For a single-material nylon part, the Plus4 is simpler and cheaper.\n\nThe upkeep list is longer here. Replace the filter on its schedule, because a clogged filter reduces the very benefit you paid for. Check nozzles one at a time and recalibrate head alignment after any change. Keep spare nozzles, heater cartridges and thermistors for each head, and expect the highest cost tier among these machines, which only pays off for a shop printing mixed engineering parts every week.",
+   "bestFor": "Shops printing mixed-material engineering parts that value filtered air and a heated chamber.",
+   "pros": [
+    "Active 65C heated chamber for nylon parts",
+    "HEPA13 filtered, outside-in airflow design",
+    "Four independent toolheads for mixed materials",
+    "Fully enclosed frame holds steady conditions"
+   ],
+   "cons": [
+    "Four hotends multiply upkeep and failure points",
+    "Highest cost tier among these five printers",
+    "Filter replacement is an ongoing expense"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H8SC45DX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Wya4PaRBL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0G4TPZPZM",
+   "badge": "Best Multicolor Engineering Pick",
+   "name": "Elegoo Centauri Carbon 2 Combo, CANVAS 4-color, 500 mm/s",
+   "specs": [
+    "CANVAS 4-color",
+    "500 mm/s",
+    "Engineering-grade ready",
+    "Auto calibration"
+   ],
+   "specList": [
+    {
+     "label": "Color system",
+     "value": "CANVAS, 4 spools"
+    },
+    {
+     "label": "Top speed",
+     "value": "500 mm/s"
+    },
+    {
+     "label": "Materials",
+     "value": "Basic to engineering-grade"
+    },
+    {
+     "label": "Calibration",
+     "value": "Fully automated"
+    },
+    {
+     "label": "Frame",
+     "value": "Enclosed CoreXY"
+    }
+   ],
+   "description": "The Centauri Carbon 2 Combo says it prints across basic to engineering-grade materials, and it adds a four-spool CANVAS system for multicolor. The enclosed CoreXY body stabilizes the air around a nylon part, and the fully automated calibration and monitoring lowers the number of failures that waste an expensive spool.\n\nThe catch for nylon is the chamber. This model uses a passive enclosure rather than an active heater, so a large flat nylon part is likely to curl at the corners, and small, compact parts are the safer choice. The multicolor system is also a risk for nylon, because a moist spool in a long feed path will bubble in the nozzle. Run nylon from a dry spool and feed it directly when you can, and use the CANVAS for plain PLA colors.\n\nCompared with the QIDI Plus4, the Elegoo is quicker to start, lighter on setup and more flexible with color, while giving up chamber heat and some top-end temperature. In ownership terms, keep spools in a dry box, replace PTFE sections when they wear and keep spare nozzles. For hobbyists who print small nylon parts and a lot of colorful PLA, it is a balanced machine.",
+   "bestFor": "Hobbyists who print small nylon parts alongside colorful PLA and want a lower-maintenance machine.",
+   "pros": [
+    "Enclosed CoreXY stabilizes air around nylon parts",
+    "CANVAS system adds four-color printing",
+    "Fully automated calibration and monitoring",
+    "Rated for basic to engineering-grade materials"
+   ],
+   "cons": [
+    "No active chamber heating for big nylon parts",
+    "Multi-spool feed path can pick up moisture",
+    "Less temperature headroom than the QIDI Plus4"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0G4TPZPZM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/414SyCcr3BL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DN68QV3B",
+   "badge": "Best Mid-Range Pick",
+   "name": "Flashforge AD5X, 4-color IFS, 300C, CoreXY",
+   "specs": [
+    "300C nozzle",
+    "4-color IFS",
+    "600 mm/s",
+    "1-click leveling"
+   ],
+   "specList": [
+    {
+     "label": "Nozzle",
+     "value": "Up to 300C"
+    },
+    {
+     "label": "Color system",
+     "value": "Built-in 4-color IFS"
+    },
+    {
+     "label": "Top travel",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Leveling",
+     "value": "One-click automatic"
+    },
+    {
+     "label": "Frame",
+     "value": "CoreXY"
+    }
+   ],
+   "description": "The AD5X reaches 300 degrees at the nozzle, which is enough for many nylon blends that melt in the low to mid 250s up to the high 280s. It has a four-color indexed feed system and one-click leveling, so it is an easy machine to run. For short, simple nylon parts such as clips and brackets, it is capable and quick.\n\nThe limits are clear. There is no active chamber, so tall or wide nylon parts will warp, and the colour system adds a moisture risk. Nylon is hygroscopic, which means even a short wait in a humid room causes bubbles and weak layers. Treat the AD5X as a nylon machine for small parts and keep a dryer next to it.\n\nAgainst the Adventurer 5M, the AD5X offers a higher temperature ceiling and multicolor capability for a higher cost tier. In long-term use, keep the nozzle clean, rotate nozzles and keep spare PTFE. It makes sense if you want one printer for everyday colourful prints and the occasional nylon part.",
+   "bestFor": "Owners who mostly print colorful PLA and occasionally want a small nylon part.",
+   "pros": [
+    "300C nozzle reaches many nylon blends",
+    "Built-in four-color IFS needs no add-ons",
+    "One-click leveling lowers setup effort",
+    "Fast CoreXY frame for short jobs"
+   ],
+   "cons": [
+    "No active chamber, so large nylon parts warp",
+    "Multi-spool path invites moisture trouble",
+    "Ceiling is below the QIDI Plus4"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DN68QV3B?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41-I7mYKWlL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CH4NYL6J",
+   "badge": "Best Value",
+   "name": "Flashforge Adventurer 5M, CoreXY, 280C, 32 mm3/s",
+   "specs": [
+    "280C nozzle",
+    "32 mm3/s flow",
+    "3-second nozzle swap",
+    "Auto leveling"
+   ],
+   "specList": [
+    {
+     "label": "Nozzle",
+     "value": "Up to 280C"
+    },
+    {
+     "label": "Flow rate",
+     "value": "32 mm3/s"
+    },
+    {
+     "label": "Top travel",
+     "value": "600 mm/s"
+    },
+    {
+     "label": "Warm-up",
+     "value": "About 35 seconds"
+    },
+    {
+     "label": "Nozzle swap",
+     "value": "3 seconds, tool-free"
+    }
+   ],
+   "description": "The Adventurer 5M is the cheapest way to try nylon, and it is a good one if you set realistic goals. Its nozzle reaches 280 degrees, which covers common nylon types, and the quick-swap design lets you change a nozzle in three seconds. A 32 mm3/s high-flow nozzle and a 35 second warm-up make short jobs painless.\n\nThe honest limit is the absence of chamber control. Nylon wants a warm, still environment, and the 5M offers only its enclosure style and bed heat. Small, thick nylon parts such as clips and gear teeth print acceptably with a brim and careful drying. Long, flat parts will lift at the corners no matter how well you tune.\n\nIn year three, keep a dryer for the filament, a spare nozzle in the drawer and a steady supply of the right adhesive. If you find yourself printing nylon every week, step up to the QIDI Plus4 or the Elegoo Centauri Carbon 2 Combo. Until then, the 5M is the lowest-cost way to learn what nylon needs.",
+   "bestFor": "Budget buyers who want to try small nylon parts without a big investment.",
+   "pros": [
+    "Lowest cost tier of the five printers",
+    "280C nozzle covers common nylon types",
+    "Tool-free three-second nozzle swap",
+    "High-flow 32 mm3/s nozzle for short jobs"
+   ],
+   "cons": [
+    "No chamber control for tall or wide parts",
+    "Lowest temperature ceiling of the group",
+    "No multicolor system in the base model"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CH4NYL6J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Xr+81AvpL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Nozzle temperature ceiling",
+   "explanation": "Nylon melts in a broad range, with common PA6 and PA12 grades printing roughly between 240 and 270 degrees and carbon or glass-filled blends needing more. A 280 degree hotend like the Flashforge Adventurer 5M covers the basics, while the AD5X reaches 300 and the QIDI Plus4 reaches 370 degrees. Headroom matters because filled blends flow worse and need heat to bond layers."
+  },
+  {
+   "criterion": "Chamber heat and enclosure",
+   "explanation": "Nylon shrinks as it cools, so cold drafts cause corner lift and layer splits. A passive enclosure helps; an active chamber heater, such as the 65 degrees on the QIDI Plus4 and Flashforge Creator 5 Pro Industrial, helps far more on parts larger than your hand. Buyers who ignore this and print big flat nylon on an open machine usually pay with failed overnight jobs."
+  },
+  {
+   "criterion": "Filament drying workflow",
+   "explanation": "Nylon absorbs moisture within hours, and wet filament steams in the nozzle, leaving bubbles and weak, stringy layers. A filament dryer at roughly 70 to 80 degrees for several hours fixes it, and printing straight from the dryer keeps it fixed. Machines with long multi-spool paths, like the Elegoo Centauri Carbon 2 Combo or the AD5X, make this harder."
+  },
+  {
+   "criterion": "Build plate adhesion",
+   "explanation": "Nylon sticks poorly to bare smooth plates and strongly to some textured ones. Most owners use a nylon-friendly adhesive or a dedicated plate surface. Check what each printer ships with, because the wrong surface leaves the first layer peeling in hours."
+  },
+  {
+   "criterion": "Fume and air handling",
+   "explanation": "Heated nylon releases odors and fine particles, and a hot chamber increases them. A filtered enclosure, as on the Creator 5 Pro Industrial with HEPA13, reduces what you breathe. Keep any nylon-printing machine in a ventilated room, not in a bedroom."
+  },
+  {
+   "criterion": "Extruder and feed path",
+   "explanation": "Nylon is flexible and can buckle in a long Bowden path or a sharp bend. A short, direct feed to a metal-geared extruder is best. Fewer switching points in the path also reduce the places moisture can enter."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Max nozzle temperature",
+   "meaning": "This is the hottest setting the heater and thermistor support. Engineering filaments need more than the 200 to 230 degrees PLA uses.",
+   "watchFor": "The 5M lists 280C, the AD5X 300C and the Plus4 370C."
+  },
+  {
+   "spec": "Chamber temperature",
+   "meaning": "An actively heated chamber keeps the air around the part warm. That slows cooling and reduces warping in nylon.",
+   "watchFor": "The Plus4 and Creator 5 Pro Industrial list 65C; the others rely on passive enclosures."
+  },
+  {
+   "spec": "Volumetric flow",
+   "meaning": "How much plastic the hotend can melt per second, in cubic millimeters. Nylon and filled blends need generous flow to avoid under-extrusion.",
+   "watchFor": "The Adventurer 5M lists 32 mm3/s for its high-flow nozzle."
+  },
+  {
+   "spec": "Build volume",
+   "meaning": "The largest part the printer can make. Large nylon parts need chamber heat as well as size.",
+   "watchFor": "The Plus4 lists 12 by 12 by 11 inches, more than the smaller Flashforge machines."
+  },
+  {
+   "spec": "Air filtration",
+   "meaning": "A filter in the chamber loop catches fine particles from hot plastic. HEPA13 filters capture very small particles.",
+   "watchFor": "Only the Creator 5 Pro Industrial lists HEPA13 here."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Temperature headroom",
+   "description": "We compared hotend ceilings with nylon print ranges. The QIDI Plus4 at 370C and the AD5X at 300C scored well, while the Adventurer 5M at 280C sat at the lower edge. Headroom allows filled blends."
+  },
+  {
+   "title": "Chamber control",
+   "description": "We scored active heating above passive enclosure. The Plus4 and the Creator 5 Pro Industrial list 65C chambers. The others rely on enclosure style alone."
+  },
+  {
+   "title": "Moisture management",
+   "description": "We looked at feed path length and how easily a machine prints straight from a dry spool. Direct, short paths scored higher. Multi-spool systems carry more risk."
+  },
+  {
+   "title": "Safety and air quality",
+   "description": "We checked for filtration and sealed enclosures. The HEPA13 system on the Creator 5 Pro Industrial earned the top score. Others depend on room ventilation."
+  },
+  {
+   "title": "Value and ownership",
+   "description": "We weighed capability against cost tier and upkeep. The Adventurer 5M is the lowest cost tier, the Creator 5 Pro Industrial the highest. A cheap printer that fails on nylon is not a bargain."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Nylon Part Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large flat nylon parts",
+      "QIDI Plus4",
+      "65C chamber and 12 inch bed"
+     ],
+     [
+      "Small clips and brackets",
+      "Flashforge Adventurer 5M",
+      "280C covers common nylon"
+     ],
+     [
+      "Mixed nylon and colors",
+      "Elegoo Centauri Carbon 2 Combo",
+      "CANVAS plus enclosed frame"
+     ],
+     [
+      "Multi-material functional parts",
+      "Flashforge Creator 5 Pro Industrial",
+      "Four toolheads and heated chamber"
+     ],
+     [
+      "Occasional nylon with colors",
+      "Flashforge AD5X",
+      "300C and IFS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost tier",
+      "Flashforge Adventurer 5M",
+      "Cheapest way to try nylon"
+     ],
+     [
+      "Low to middle tier",
+      "Flashforge AD5X",
+      "More heat and color"
+     ],
+     [
+      "Middle tier",
+      "Elegoo Centauri Carbon 2 Combo",
+      "Balanced hobby pick"
+     ],
+     [
+      "Upper tier",
+      "QIDI Plus4",
+      "Best nylon capability"
+     ],
+     [
+      "Highest tier",
+      "Flashforge Creator 5 Pro Industrial",
+      "Toolchanger and filtration"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Heated Chamber vs Passive Enclosure",
+   "cards": [
+    {
+     "label": "Heated chamber",
+     "text": "The QIDI Plus4 and Creator 5 Pro Industrial hold about 65 degrees, which slows shrinkage and keeps big nylon parts flat. They cost more and are more complex."
+    },
+    {
+     "label": "Passive enclosure",
+     "text": "The Elegoo Centauri Carbon 2 Combo, AD5X and Adventurer 5M rely on bed heat and the enclosure. That works for small parts but struggles on large ones."
+    }
+   ],
+   "note": "Pick a heated chamber if your nylon parts are larger than your hand."
+  },
+  {
+   "subheading": "Single Material vs Multicolor",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Pure nylon parts",
+      "QIDI Plus4",
+      "Direct path, strong heat"
+     ],
+     [
+      "Nylon plus colored PLA",
+      "Elegoo Centauri Carbon 2 Combo",
+      "CANVAS handles colors"
+     ],
+     [
+      "Nylon with soluble supports",
+      "Flashforge Creator 5 Pro Industrial",
+      "Independent heads"
+     ],
+     [
+      "Quick color prints",
+      "Flashforge AD5X",
+      "Built-in IFS"
+     ],
+     [
+      "No color needs",
+      "Flashforge Adventurer 5M",
+      "Simplest hardware"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Functional Gears Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Gears need strong layer bonding, dimensional accuracy and a dry spool. A hot nozzle, a warm chamber and slow outer walls all help, as does printing the gear flat on the plate."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The QIDI Plus4 is the best fit because of its 370C nozzle and 65C chamber. A small gear can work on the Adventurer 5M if the spool is dry."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You print nylon weekly or sell parts. The QIDI Plus4 and Creator 5 Pro Industrial cut failed prints through chamber heat and filtration, which saves filament."
+    },
+    {
+     "label": "Save if",
+     "text": "You print small nylon parts now and then. The Flashforge Adventurer 5M handles that at the lowest outlay, and you can step up later."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dry nylon spools",
+   "interval": "Before every print",
+   "why": "Moisture causes bubbles and weak layers. Hold spools at about 70 degrees for several hours, then print from the dryer."
+  },
+  {
+   "task": "Clean the build plate",
+   "interval": "Every print",
+   "why": "Nylon needs a clean surface and the right adhesive. Wash with isopropyl alcohol and reapply glue for each job."
+  },
+  {
+   "task": "Replace nozzles",
+   "interval": "Every 3 to 6 months",
+   "why": "Nylon blends with fibers wear nozzles. Replace one that shows rough extrusion."
+  },
+  {
+   "task": "Replace filters",
+   "interval": "Per the maker's schedule",
+   "why": "A clogged filter stops cleaning the air. This applies to HEPA systems like the Creator 5 Pro Industrial."
+  },
+  {
+   "task": "Check PTFE tubes",
+   "interval": "Every 6 months",
+   "why": "Moisture and heat degrade tubes. Replace any section that looks scored or discolored."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I print nylon on a basic enclosed printer?",
+   "a": "Yes, small parts print acceptably on enclosed machines with a 280 to 300 degree nozzle. Large flat parts warp without an active chamber, so size matters."
+  },
+  {
+   "q": "Is nylon worth the trouble over PETG?",
+   "a": "Nylon is tougher and wears better, which suits gears and hinges. PETG is much easier to print, so choose nylon only if the strength and wear matter."
+  },
+  {
+   "q": "How dry does nylon have to be?",
+   "a": "Dry enough that it does not steam in the nozzle. Hold it at about 70 to 80 degrees for several hours, then print from a dry box. Re-dry after a few hours in open air."
+  },
+  {
+   "q": "Do I need a hardened nozzle for nylon?",
+   "a": "Plain nylon does not wear brass quickly, but carbon or glass-filled blends do. Use a hardened nozzle for filled types."
+  },
+  {
+   "q": "Is nylon printing safe in a home?",
+   "a": "Heated nylon releases odors and fine particles. Print in a ventilated room, use an enclosure and consider a filtered machine."
+  },
+  {
+   "q": "Why does my nylon print warp?",
+   "a": "Nylon shrinks as it cools, so drafts and a cold chamber cause corners to lift. A warmer chamber, a brim and a clean plate with adhesive reduce the problem."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41tDUzuq+1L._SL500_.jpg"
+}

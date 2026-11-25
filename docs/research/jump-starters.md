@@ -1,0 +1,17 @@
+# Power bank jump starters research
+- Peak amps on the box are a short-burst figure, often measured briefly into a very low resistance; real starting ability depends on battery cell quality, clamp cable gauge and the engine's size and temperature. Treat a 1000A to 2000A rating as enough for most cars, and bigger numbers mostly as marketing.
+- Match engine size: listings state limits such as up to 8.0L gas or 6.0L diesel; diesels need more current than gasoline engines of the same displacement.
+- Lithium jump packs are small but weaken in freezing cold; keep them warm and avoid leaving them in a hot trunk, since heat shortens life and raises risk.
+- Spark-proof and reverse-polarity protection prevent sparks and damage when clamps are connected wrong; a pack without them needs more care and is riskier around batteries that vent hydrogen.
+- Force start or boost button lets a pack try a battery that reads very low (even near 0V); it bypasses some safety checks, so use it only with correct clamp polarity.
+- Capacity (mAh or Wh) decides how many jumps per charge and how many phone charges; 100Wh is the common airline limit for carry-on power banks; mAh times about 3.7V divided by 1000 estimates Wh.
+- Built-in air compressors add useful tire inflation but add weight, bulk and heat; inflation draws heavily on the same battery.
+- Self-discharge: lithium packs lose charge slowly; top up every few months, and always charge before a long trip or winter.
+- Clamps and cable: thicker cable and clean copper jaws deliver more current; check for cracked insulation.
+- Jump procedure: connect red to positive, black to bare metal ground away from the battery, then start the car; remove the pack after the engine runs; never connect clamps with the pack switched on if the manual says otherwise.
+- Do not jump a frozen or visibly damaged battery; a swollen or leaking car battery needs replacement, not a jump.
+- A jump starter works for 12V vehicles only; 24V trucks and lithium vehicle batteries have different needs.
+- Use the pack as a power bank carefully: draining it to zero leaves nothing for a jump; keep a reserve.
+- Storage in a hot car in summer is a bad habit; many makers specify temperature limits.
+- USB-C PD ports allow fast charging for phones and laptops; check output wattage.
+- LED flashlight modes (steady, strobe, SOS) are useful roadside, but they drain the battery too.

@@ -704,3 +704,9 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 
 ## Round 48 (2026-11-19): washers, washer-dryer combos, RV water pumps, RV ACs, ice makers, 74 guides
 - 78 handed to 2 Sonnet writers, 74 written; 33 skips total (reasons in scripts/clone/work/r48.skip.txt and skip-a/b.txt). Audit 0 fails, 0 dashes, 0 【, neardup 0 at Finish, no lineup overlap. Repetition fix agent was still running at push; next build not run before push (user asked to push at session limit).
+
+## Round 49 (2026-11-25): RV water heaters/vent fans/RV gear, niche 3D printers, MOPA lasers, stove-jack tents, solar/generator gear, 38 guides
+- Niche long-tail picks only; generic high-volume 3D printer slugs skipped (resin, FDM, PLA, enclosed, high-speed).
+- neardup.mjs 0 hits before Stage A and at Finish; same-intent skips: rechargeable/heavy-duty/lithium camping fans, rechargeable tent fans, camping-fans-for-tent-camping, electric-rv-water-heater (= 120v), propane-tankless-rv-water-heater, dual-nozzle (= dual-extruder), multicolor (= with-ams) 3D printers.
+- Skips: nylon filaments + ventilated enclosures (0 items), idex-3d-printers (no real IDEX), dual-extruder-3d-printers (1 true dual-nozzle unit, rest padding), anode-rod-for-rv-water-heater (consumable part).
+- Fixes: camping-shower-with-heater intro spec numbers removed; opener rotation ("It is a good" 11, "The tradeoff is that" 10, "Ownership is ..." 15). No lineup pair >= 80% shared.

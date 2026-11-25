@@ -1,0 +1,535 @@
+{
+ "guideSlug": "best-gas-electric-rv-water-heater",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best gas electric rv water heater",
+ "guideTitle": "Best Gas-Electric RV Water Heaters (2026)",
+ "metaTitle": "Best Gas-Electric RV Water Heaters 2026",
+ "metaDescription": "Five dual-fuel RV tank heaters ranked by recovery, relay control and cabinet fit, from 6 gallon aluminum units to the 12 gallon Suburban with 12V relay.",
+ "lastUpdated": "2026-11-25",
+ "readTime": "13 min",
+ "expertTake": "The Suburban SW12DEL is the top pick because its 12V relay lets you switch the electric element from inside while the 12 gallon tank covers a household. The CAMPLUX 6 gallon hybrid is the value pick for small cabinets. Anyone who camps only on propane gains little from the electric element and should buy a gas-only heater.",
+ "introParagraphs": [
+  "A dual-fuel tank heater gives an RV two ways to make hot water: a propane burner for the road and an electric element for campgrounds and generator days. The appeal is flexibility, because you never lose hot water when one source runs out.",
+  "That flexibility has a catch. The electric side only helps when 120V is available, the gas side needs a working ignition circuit, and the two together draw on different parts of the rig. What follows ranks five dual-fuel tanks on recovery, controls, tank material and ownership."
+ ],
+ "products": [
+  {
+   "id": "B06Y1BNKDD",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Suburban SW12DEL 12-gallon DSI with 12V relay",
+   "amazonUrl": "https://www.amazon.com/dp/B06Y1BNKDD?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/513+sasZ9XL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "12 gallon steel tank",
+    "DSI plus relay",
+    "Incoloy element",
+    "Anode rod"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "12 gallon porcelain-lined steel"
+    },
+    {
+     "label": "Ignition",
+     "value": "Direct spark"
+    },
+    {
+     "label": "Control",
+     "value": "12V DC relay for the element"
+    },
+    {
+     "label": "Element",
+     "value": "Incoloy, 120V"
+    },
+    {
+     "label": "Model code",
+     "value": "5248A"
+    }
+   ],
+   "description": "The SW12DEL adds a 12V DC relay to the usual Suburban dual-fuel design, so the electric element can be switched from an inside panel instead of a switch on the heater itself. The tank is porcelain-lined steel with a replaceable anode and an Incoloy element, which resists scale better than plain copper. For a household that likes to pick gas or electric from the couch, this is the most convenient layout here.\n\nThe larger 12 gallon volume is a real advantage on a long weekend with several showers, but it takes longer to heat from cold than any 6 gallon unit in this guide. The relay also means one more electrical component to troubleshoot, and a bad coach battery will still stop ignition. Next to the SW12DE it is the better choice if you have an inside switch plan and the plain model is the better choice if you do not.\n\nOwnership follows the steel-tank routine: anode inspection each year, a sediment flush, a clean burner tube, and the heater bypassed before antifreeze goes through the plumbing. Because replacement parts for this family are stocked widely, a technician can usually fix it with parts on the shelf.",
+   "bestFor": "Families who want a big tank and inside control of the electric element.",
+   "pros": [
+    "12V relay allows inside control of the element",
+    "Twelve gallons covers several short showers",
+    "Incoloy element is a durable choice",
+    "Replaceable anode extends steel tank life"
+   ],
+   "cons": [
+    "Relay adds one more circuit that can fail",
+    "Slower to heat from cold than a 6 gallon tank",
+    "Heavy and large for compact cabinets"
+   ]
+  },
+  {
+   "id": "B01NCVAEJG",
+   "rank": 2,
+   "badge": "Best Plain 12 Gallon",
+   "name": "Suburban SW12DE 12-gallon DSI and electric heater",
+   "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GajgK4B8L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "12 gallon steel tank",
+    "DSI plus electric",
+    "Anode rod",
+    "Code 5247A"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "12 gallon porcelain-lined steel"
+    },
+    {
+     "label": "Ignition",
+     "value": "Direct spark"
+    },
+    {
+     "label": "Energy",
+     "value": "LP gas and 120V element"
+    },
+    {
+     "label": "Control",
+     "value": "Switch on the heater"
+    },
+    {
+     "label": "Model code",
+     "value": "5247A"
+    }
+   ],
+   "description": "This is the same 12 gallon tank as the SW12DEL, minus the 12V relay. You flip the electric element on at the heater itself, which is simple, cheap to maintain and one less thing to go wrong. The tank, anode and direct spark ignition behave the same way, and the listing confirms the optional electric element for campsite or generator power.\n\nThe tradeoff against the SW12DEL is convenience, not capability. If the heater sits behind an exterior door and you rarely change between gas and electric, the plain DE version avoids paying for features you will not use. In winter use at a hookup, you can run both energy sources together to shorten recovery on a cold fill.\n\nUpkeep is the same as any Suburban steel tank. Check the anode yearly, flush the tank to move sediment, and keep an eye on the burner tube for spiders. When a retrofit needs a 12 gallon replacement and the cabinet already matches, this model is the straightforward parts-swap choice.",
+   "bestFor": "Owners replacing a failed 12 gallon Suburban with no inside switch.",
+   "pros": [
+    "Same large tank as the relay model with fewer parts",
+    "Direct spark ignition with electric backup",
+    "Serviceable anode and steel construction",
+    "Simple switch on the heater itself"
+   ],
+   "cons": [
+    "Element switch is outside, not inside the coach",
+    "Needs 12V DC for the burner",
+    "Takes longer to warm a cold tank than smaller units"
+   ]
+  },
+  {
+   "id": "B0FZTSVTYX",
+   "rank": 3,
+   "badge": "Best Value 6 Gallon",
+   "name": "CAMPLUX 6-gallon propane and electric hybrid heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hx4ZhVW8L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6 gallon tank",
+    "12,000 BTU burner",
+    "1440W element",
+    "3 heating modes"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "6 gallon porcelain-lined"
+    },
+    {
+     "label": "Burner",
+     "value": "12,000 BTU"
+    },
+    {
+     "label": "Element",
+     "value": "1440W"
+    },
+    {
+     "label": "Controls",
+     "value": "Interior panel, 3 modes"
+    },
+    {
+     "label": "Fit",
+     "value": "Replaces 4 to 6 gallon units"
+    }
+   ],
+   "description": "CAMPLUX sells a 6 gallon hybrid with a 12,000 BTU burner and a 1440W element, plus an interior control panel with three heating modes. It is positioned as a direct replacement for Suburban and Dometic units in the 4 to 6 gallon range, which makes it useful when a cabinet will not accept anything larger. The higher burner rating is a quick-recovery claim, not a measured result.\n\nThe tradeoff is track record. Suburban and Dometic heaters have decades of parts supply and shop familiarity, while this newer brand is harder to service on the road. The 6 gallon volume also keeps showers short, so compare it to the SW12DE if you have a family. On the plus side, the interior panel puts mode selection inside the coach, which the plain Suburban models do not offer.\n\nPlan for the usual chores: flush the porcelain-lined tank each spring, check the anode, and bypass the unit before winterizing. Keep the paperwork, because a warranty claim on a lesser-known brand goes smoother with the purchase record and serial number in hand. Confirm the existing opening and flue dimensions before ordering, since replacement claims depend on matching the old door.",
+   "bestFor": "Small-cabinet trailers that want inside controls and a quick-recovery claim.",
+   "pros": [
+    "Interior panel with three heating modes",
+    "12,000 BTU burner and a 1440W element",
+    "Replaces common 4 to 6 gallon cutouts",
+    "Both energy sources in a compact tank"
+   ],
+   "cons": [
+    "Shorter parts and service network than Suburban",
+    "Six gallons limits back-to-back showers",
+    "Replacement fit depends on matching the old door"
+   ]
+  },
+  {
+   "id": "B0FCV1ZDJK",
+   "rank": 4,
+   "badge": "Best Aluminum 6 Gallon",
+   "name": "WH-6GEA 6-gallon aluminum gas and electric heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0FCV1ZDJK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51rdk+UwrcL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6 gallon aluminum",
+    "12 volt control",
+    "No anode rod",
+    "16x16x14 inch"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "6 gallon aluminum"
+    },
+    {
+     "label": "Energy",
+     "value": "Gas and electric"
+    },
+    {
+     "label": "Voltage",
+     "value": "12 volt"
+    },
+    {
+     "label": "Anode",
+     "value": "Not required"
+    },
+    {
+     "label": "Size",
+     "value": "16x16x14 inch"
+    }
+   ],
+   "description": "The WH-6GEA is a compact 6 gallon aluminum-tank heater that runs on gas and electric with a 12 volt control system. The listing stresses that no anode rod is required, which removes the most commonly skipped maintenance task. At 16 by 16 by 14 inches it suits vans and small trailers where a deep tank will not fit.\n\nThe price of that is that aluminum is not repairable by anode swapping, and a bad tank means replacing the whole unit. Heaters in this class also take cabinets only when the old unit matches; consult the existing label. Set beside the CAMPLUX hybrid, you give up the interior mode panel, and compared with the SW12DE you give up volume.\n\nFlush the tank each spring, test the relief valve and drain everything before cold weather. Keep antifreeze out of the tank, because the cure for aluminum corrosion is prevention, not repair. In a van the compartment is often closed and warm, so also check that the exhaust screen stays clear of road grit and insects, and that the propane line has a tight, leak-checked fitting after every service.",
+   "bestFor": "Vans and compact trailers that want a dual-fuel tank without anode upkeep.",
+   "pros": [
+    "Aluminum tank does not need an anode rod",
+    "Compact 16x16x14 inch footprint",
+    "Gas and electric heating in a small tank",
+    "12 volt control for ignition"
+   ],
+   "cons": [
+    "Tank cannot be life-extended by a rod swap",
+    "Only six gallons of capacity",
+    "Door and flue fit must match the old unit"
+   ]
+  },
+  {
+   "id": "B0BVBZ8HZC",
+   "rank": 5,
+   "badge": "Best Aluminum 10 Gallon",
+   "name": "Dometic WH-10GEA 10-gallon gas and electric heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0BVBZ8HZC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Klheb3ecL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "10 gallon aluminum",
+    "10,000 BTU burner",
+    "Electronic ignition",
+    "No anode"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "10 gallon aluminum"
+    },
+    {
+     "label": "Burner",
+     "value": "10,000 BTU"
+    },
+    {
+     "label": "Ignition",
+     "value": "Electronic"
+    },
+    {
+     "label": "Anode",
+     "value": "Not required"
+    },
+    {
+     "label": "Capacity claim",
+     "value": "66 percent over a standard tank"
+    }
+   ],
+   "description": "Dometic makes the WH-10GEA with a lightweight aluminum tank that needs no anode, an electronic-ignition burner at 10,000 BTU, and the ability to run on gas or electricity. The maker positions its 10 gallon tank as 66 percent larger than a standard 6 gallon, which is the practical benefit for a family of four.\n\nThe tradeoff is door compatibility: Dometic and Suburban cabinets are not interchangeable, so a mismatch means modification. It also costs a long-run option, since an aluminum tank cannot be saved with a new rod once corroded. Against the SW12DEL it gives up inside element switching and two gallons of capacity.\n\nTreat water quality as the long-term variable. Use a sediment filter, flush each spring and avoid leaving antifreeze in the tank. If your cabinet is Dometic, this is the least disruptive replacement here.",
+   "bestFor": "Existing Dometic or Atwood cabinets that need a 10 gallon dual-fuel tank.",
+   "pros": [
+    "No anode rod to monitor",
+    "10,000 BTU burner with electronic ignition",
+    "Large 10 gallon capacity for the weight",
+    "Gas or electric operation"
+   ],
+   "cons": [
+    "Cabinet must match Dometic dimensions",
+    "Tank cannot be refreshed with a new rod",
+    "No inside relay switch"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Which source runs the show",
+   "explanation": "On a campground hookup the 1440W-class element is the efficient choice, while propane is the road and boondock choice. Running both together shortens recovery on a cold fill. The CAMPLUX 6 gallon lists a 12,000 BTU burner alongside its 1440W element, while the Dometic WH-10GEA lists 10,000 BTU. Decide how many nights a year you are on 120V before paying for the element."
+  },
+  {
+   "criterion": "Relay versus manual switch",
+   "explanation": "The Suburban SW12DEL uses a 12V relay so the element can be switched from inside the coach, while the SW12DE uses a switch at the heater. If the heater sits behind an exterior door in winter, the relay saves a trip outside in cold weather. It is one more component, so confirm you have a place for the inside switch before paying for the L version."
+  },
+  {
+   "criterion": "Tank volume versus recovery",
+   "explanation": "Twelve gallons holds enough for a family of four's short showers, but a 12 gallon steel tank takes longer to reach temperature than the 6 gallon CAMPLUX or WH-6GEA. A short heat-up matters on cold mornings; a large reserve matters when everyone showers back to back. Match the tank to your peak demand, not average demand."
+  },
+  {
+   "criterion": "Steel versus aluminum",
+   "explanation": "The Suburban SW12DE and SW12DEL use porcelain-lined steel and rely on a replaceable anode rod. The Dometic WH-10GEA and WH-6GEA use aluminum and skip the rod entirely. Steel can be extended with a fresh anode; aluminum cannot be rescued once a pit forms. Owners who do not inspect parts yearly tend to be happier with aluminum, while owners who flush and inspect get more life out of steel."
+  },
+  {
+   "criterion": "Direct spark needs battery",
+   "explanation": "Every unit here relies on 12V DC for ignition or control, so a weak house battery means no gas hot water even with a full propane tank. Below about 10.5 volts, many controllers fail to light. If you boondock with a small battery bank, check the voltage drop when the fan and igniter run before assuming the heater is faulty."
+  },
+  {
+   "criterion": "Door and flue compatibility",
+   "explanation": "Suburban, Dometic and newer brands like CAMPLUX do not share door and flue dimensions. The CAMPLUX 6 gallon claims to replace 4 to 6 gallon models, and the WH-6GEA measures 16 by 16 by 14 inches. Compare those with the old unit's label and cutout, and do not buy on gallon size alone."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "DE suffix",
+   "meaning": "On Suburban heaters, D indicates direct spark ignition and E means an electric element is included. A plain D model is gas only.",
+   "watchFor": "The SW12DE and SW12DEL both carry E, so both include the element."
+  },
+  {
+   "spec": "L suffix",
+   "meaning": "The L on the SW12DEL denotes the 12V DC relay for inside control of the electric element. It does not change tank size.",
+   "watchFor": "Confirm your coach has a place to wire the inside switch."
+  },
+  {
+   "spec": "Element wattage",
+   "meaning": "A 1440W element draws about 12 amps at 120V, which is a large share of a 30 amp service. It heats slowly compared with a gas burner.",
+   "watchFor": "The CAMPLUX lists a 1440W element, so do not run it with an air conditioner on a 30 amp pedestal."
+  },
+  {
+   "spec": "BTU burner",
+   "meaning": "Burner output in BTU sets how fast the tank rises in temperature on propane. Higher is quicker but does not change the tank volume.",
+   "watchFor": "The CAMPLUX claims 12,000 BTU while the Dometic WH-10GEA lists 10,000 BTU."
+  },
+  {
+   "spec": "Anode-free",
+   "meaning": "Aluminum tanks skip the sacrificial rod. That removes a maintenance step but also removes a way to extend tank life.",
+   "watchFor": "WH-6GEA and WH-10GEA both advertise no anode."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Dual-fuel utility",
+   "description": "We checked how clearly each heater supports both gas and 120V and how the element is controlled. The relay on the SW12DEL and the interior panel on the CAMPLUX earned points. Units with only an on-heater switch scored a little lower."
+  },
+  {
+   "title": "Tank capacity and heat-up",
+   "description": "We compared 6, 10 and 12 gallon volumes against burner BTU. Larger tanks served families better but heated more slowly from cold. Maker recovery claims were treated as claims."
+  },
+  {
+   "title": "Material and corrosion plan",
+   "description": "Porcelain-lined steel needs a rod and inspection, while aluminum needs neither but cannot be rescued. We weighed which path suits typical owners, and noted the Dometic WH-10GEA and WH-6GEA as the low-chore options."
+  },
+  {
+   "title": "Cabinet and door fit",
+   "description": "We looked at whether each listing names replacement fits, such as 4 to 6 gallon models for the CAMPLUX and 16x16x14 inch dimensions for the WH-6GEA. A fit that requires carpentry loses points."
+  },
+  {
+   "title": "Service and parts reach",
+   "description": "We weighed brand history and parts supply from owner feedback patterns. Suburban and Dometic heaters are widely stocked; newer brands are harder to source on the road."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Tank Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Van or small trailer cabinet",
+      "WH-6GEA",
+      "16x16x14 inch aluminum footprint"
+     ],
+     [
+      "Couple wanting inside mode control",
+      "CAMPLUX 6 gallon",
+      "Interior panel with three modes"
+     ],
+     [
+      "Family of four",
+      "Suburban SW12DEL",
+      "Twelve gallons plus inside element control"
+     ],
+     [
+      "Existing Dometic 10 gallon cabinet",
+      "Dometic WH-10GEA",
+      "Drops into matching door and flue"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "WH-6GEA",
+      "Simple aluminum 6 gallon unit"
+     ],
+     [
+      "Value",
+      "CAMPLUX 6 gallon",
+      "Extra controls for the money"
+     ],
+     [
+      "Mid range",
+      "Suburban SW12DE",
+      "Large steel tank with basic switch"
+     ],
+     [
+      "Highest",
+      "Suburban SW12DEL",
+      "Relay convenience plus 12 gallons"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Steel vs Aluminum",
+   "cards": [
+    {
+     "label": "Steel",
+     "text": "The SW12DEL and SW12DE protect a porcelain-lined tank with a replaceable anode. They reward owners who inspect yearly and can be kept going by a rod swap."
+    },
+    {
+     "label": "Aluminum",
+     "text": "The WH-6GEA and WH-10GEA skip the anode entirely, which suits forgetful owners. They cannot be rescued once corrosion starts."
+    }
+   ],
+   "note": "Choose steel if you will inspect; choose aluminum if maintenance is the weak link."
+  },
+  {
+   "subheading": "Electric Control Axis",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Switch element inside",
+      "Suburban SW12DEL",
+      "12V relay"
+     ],
+     [
+      "Choose modes from a panel",
+      "CAMPLUX 6 gallon",
+      "Interior panel, 3 modes"
+     ],
+     [
+      "Simple on-heater switch",
+      "Suburban SW12DE",
+      "Fewer parts"
+     ],
+     [
+      "Electronic ignition only",
+      "Dometic WH-10GEA",
+      "10,000 BTU burner"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Campground Hookups Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "An element you can control without going outside and a tank big enough to ride out a cold morning. Watch the 120V load against your pedestal amperage."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Suburban SW12DEL gives inside control of its element, while the CAMPLUX 6 gallon offers a panel with three modes for smaller cabinets."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You live in the rig or camp in cold weather. The SW12DEL's volume and relay control reduce daily friction, and its service network is deep."
+    },
+    {
+     "label": "Save if",
+     "text": "You travel occasionally and shower briefly. The WH-6GEA or the CAMPLUX gives hot water without a full-size tank."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Check the anode rod",
+   "interval": "Every year",
+   "why": "Applies to the steel Suburban tanks. Replace at about three quarters used to keep the lining protected."
+  },
+  {
+   "task": "Flush sediment",
+   "interval": "Every spring",
+   "why": "Mineral build-up insulates the element and burner area and slows recovery. A full drain and rinse restores performance."
+  },
+  {
+   "task": "Inspect the electric element",
+   "interval": "Every two years",
+   "why": "Scale and a failed seal show up as tripped breakers or lukewarm water. Replace a swollen or cracked element."
+  },
+  {
+   "task": "Clear burner and vent",
+   "interval": "Every year",
+   "why": "Webs and nests restrict air and cause yellow flames. Clean the burner tube and exterior screen."
+  },
+  {
+   "task": "Winterize correctly",
+   "interval": "Before freezing weather",
+   "why": "Bypass the heater, drain the tank and avoid antifreeze inside it. Frozen water in the tank splits the shell."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is a gas-electric heater better than gas only?",
+   "a": "It is better if you spend nights at hookups or run a generator, because the element reduces propane use and gives a second source. If you only camp off-grid, the extra element goes unused. Match the heater to your camping pattern, and count honest nights on a pedestal before paying for hardware that stays idle. A rig that spends most weekends in state parks with no hookups gets little from a 1440W element, while a seasonal site with included power gets a lot."
+  },
+  {
+   "q": "Can I run gas and electric at the same time?",
+   "a": "Yes, on dual-fuel tanks both can run together to shorten recovery after a long draw. Watch the 120V load, since a 1440W element takes a large share of a 30 amp supply."
+  },
+  {
+   "q": "Which is cheaper to run, propane or electric?",
+   "a": "That depends on local propane and electricity costs and whether the campground bills for power. Many campers use the element when power is included and switch to propane when it is not."
+  },
+  {
+   "q": "Do aluminum tanks last longer than steel?",
+   "a": "Not necessarily. Aluminum skips anode upkeep, but it cannot be extended once pitted. A steel tank with a fresh anode each year can outlast a neglected aluminum one."
+  },
+  {
+   "q": "Why does my heater trip the breaker?",
+   "a": "A scaled or failing element can draw high current, as can sharing a 30 amp circuit with an air conditioner. Test the element and keep high loads from stacking."
+  },
+  {
+   "q": "Is a 12V relay worth it?",
+   "a": "If your heater sits behind an exterior door, yes: you can turn the element on from inside without stepping out. If you never use the element, skip it."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/513+sasZ9XL._SL500_.jpg"
+}

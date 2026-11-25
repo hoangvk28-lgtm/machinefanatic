@@ -1,0 +1,535 @@
+{
+ "guideSlug": "best-rv-water-heater",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best rv water heater",
+ "guideTitle": "Best RV Water Heaters (2026)",
+ "metaTitle": "Best RV Water Heaters in 2026",
+ "metaDescription": "Five RV water heaters compared: 10 gallon gas-electric tanks, a 6 gallon DSI unit and two propane tankless swaps, with fit and ownership notes for each.",
+ "lastUpdated": "2026-11-25",
+ "readTime": "13 min",
+ "expertTake": "The Suburban SW10DE is the safest all-round replacement because it fits the standard cutout, runs on propane or 120V and has a serviceable anode. The VEVOR 42000 BTU tankless is the value experiment for owners who accept a retrofit. Anyone who only showers twice a week should skip tankless and keep the simplest tank that matches the existing door.",
+ "introParagraphs": [
+  "An RV water heater is a small appliance with a hard job: it sits in a thin-walled cabinet, rides over rough roads, and has to make hot water from propane, shore power or both. Most failures are not exotic. They come from a wrong cutout, a dead battery, sediment or an ignored winterizing step.",
+  "The real choice is between a stored-tank heater and an on-demand tankless unit. Tanks are forgiving and cheap to repair, tankless units save cabinet volume but demand clean power, decent water flow and a careful retrofit. This guide sorts five realistic options by what they ask of the owner."
+ ],
+ "products": [
+  {
+   "id": "B01NH4Z1TK",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Suburban SW10DE 10-gallon gas and electric RV heater",
+   "amazonUrl": "https://www.amazon.com/dp/B01NH4Z1TK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Rn+9WaBML._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "10 gallon tank",
+    "DSI plus electric",
+    "Porcelain-lined steel",
+    "Anode rod"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "10 gallon porcelain-lined steel"
+    },
+    {
+     "label": "Ignition",
+     "value": "Direct spark (12V DC)"
+    },
+    {
+     "label": "Energy",
+     "value": "LP gas with electric element"
+    },
+    {
+     "label": "Corrosion guard",
+     "value": "Replaceable anode rod"
+    },
+    {
+     "label": "Typical fit",
+     "value": "Standard 10 gallon cutout"
+    }
+   ],
+   "description": "The SW10DE is a conventional steel-tank heater with the two features that matter most in daily use: direct spark ignition and a second heat source. The porcelain lining protects the steel, a replaceable anode rod does the sacrificial work, and the burner lights on demand instead of keeping a standing pilot. That makes it a plug-in match for the large installed base of 10 gallon Suburban cabinets.\n\nThe tradeoff is weight and water volume. Ten gallons takes noticeably longer to heat from cold on propane alone than the 6 gallon SW6D in this lineup, though the electric element shortens that when you have a hookup. It is also tied to 12V DC for ignition, so a weak house battery can leave you with a heater that clicks and never lights.\n\nOwnership is routine and cheap. Pull the anode rod yearly, flush the tank to move sediment, and keep the bypass valves in the right position after winter. Next to the 12 gallon Suburban models, this one trades a little reserve for easier mounting in tighter cabinets, and compared with the Dometic aluminum tank it asks for more anode attention but returns steel that most RV shops know how to service.",
+   "bestFor": "Owners replacing a failed 10 gallon heater who want the least surprising swap.",
+   "pros": [
+    "Direct spark ignition avoids a standing pilot flame",
+    "Electric element speeds recovery at a campground hookup",
+    "Replaceable anode rod extends the steel tank life",
+    "Widely stocked parts and easy shop service"
+   ],
+   "cons": [
+    "Needs working 12V DC or it will not light",
+    "Steel tank needs yearly anode inspection and flushing",
+    "Heavier and slower to heat cold water than a 6 gallon unit"
+   ]
+  },
+  {
+   "id": "B0BVBZ8HZC",
+   "rank": 2,
+   "badge": "Best No-Anode Tank",
+   "name": "Dometic WH-10GEA 10-gallon aluminum gas-electric heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0BVBZ8HZC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Klheb3ecL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "10 gallon tank",
+    "Aluminum, no anode",
+    "10,000 BTU burner",
+    "Gas plus electric"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "10 gallon aluminum"
+    },
+    {
+     "label": "Burner",
+     "value": "10,000 BTU electronic ignition"
+    },
+    {
+     "label": "Energy",
+     "value": "LP gas with electric option"
+    },
+    {
+     "label": "Anode",
+     "value": "Not required"
+    },
+    {
+     "label": "Tank size claim",
+     "value": "66 percent over a standard 6 gallon"
+    }
+   ],
+   "description": "Dometic builds this heater around an aluminum tank, which is why the spec sheet says no anode rod is needed. The burner is rated at 10,000 BTU with electronic ignition, and the unit supports both gas and electric heating. For owners who never remember to check an anode, taking that job off the maintenance list is the whole attraction.\n\nA fair warning is that an aluminum tank does not forgive neglect in other ways. Hard or aggressive water, antifreeze left sitting inside, or a failed relief valve can still end its life, and you cannot extend it by swapping a rod the way you can on the Suburban SW10DE. Ownership also depends on your cutout: Dometic and Suburban doors and flue boxes are not interchangeable, so confirm the existing model before ordering.\n\nIn practice it behaves like the Suburban at the same capacity, with similar recovery from the 10,000 BTU burner. It is a better long-term bet on dry-camping rigs that see ordinary municipal water than on rigs that regularly fill from well or untreated sources. Flush it each spring and keep the relief valve free to move.",
+   "bestFor": "Owners with an existing Dometic or Atwood style cutout who want to skip anode care.",
+   "pros": [
+    "No anode rod to monitor or replace",
+    "Rated 10,000 BTU burner with electronic ignition",
+    "Gas and electric heating in one tank",
+    "Lighter aluminum shell is easier to lift into a cabinet"
+   ],
+   "cons": [
+    "Cannot be extended in life by changing an anode",
+    "Door and flue differ from Suburban cabinets",
+    "Aggressive water or leftover antifreeze can still damage aluminum"
+   ]
+  },
+  {
+   "id": "B01NBTVDBC",
+   "rank": 3,
+   "badge": "Best Compact Tank",
+   "name": "Suburban SW6D 6-gallon direct spark RV water heater",
+   "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/514TLfNQdfL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "6 gallon tank",
+    "Direct spark",
+    "Porcelain-lined",
+    "Anode rod"
+   ],
+   "specList": [
+    {
+     "label": "Tank",
+     "value": "6 gallon porcelain-lined steel"
+    },
+    {
+     "label": "Ignition",
+     "value": "Direct spark"
+    },
+    {
+     "label": "Model code",
+     "value": "5238A"
+    },
+    {
+     "label": "Corrosion guard",
+     "value": "Replaceable anode rod"
+    },
+    {
+     "label": "Electric",
+     "value": "Optional element per listing"
+    }
+   ],
+   "description": "The SW6D is the small-cabinet answer: a six gallon porcelain-lined tank with direct spark ignition and a replaceable anode. Since the tank is small, it reaches temperature faster than the 10 gallon units here, so a couple on a weekend trip gets usable water sooner. The listing notes an optional electric element, which is worth checking against the suffix, since the D in the name denotes the gas-only direct spark version.\n\nThe cost of the small volume is stretch. Two short showers can drain a 6 gallon tank, and the SW10DE or a tankless unit will keep up with a family far better. It also matters that this heater, like every tank here, needs 12V DC for ignition, so a depleted battery bank is a real failure mode on long dry stays.\n\nUpkeep is the standard Suburban routine: yearly anode inspection, a flush with the drain plug removed, and a quick look at the burner tube for spider webs that cause weak or yellow flames. The compact footprint also makes it a common replacement in older trailers and vans where the cabinet cannot take anything bigger.",
+   "bestFor": "Couples and small trailers where a six gallon cutout is already in place.",
+   "pros": [
+    "Heats a small tank quickly from cold",
+    "Direct spark ignition with no standing pilot",
+    "Porcelain lining plus replaceable anode",
+    "Compact enough for small cabinets"
+   ],
+   "cons": [
+    "Six gallons runs short for back-to-back showers",
+    "Electric element may be absent on the D version",
+    "Depends on 12V DC to light the burner"
+   ]
+  },
+  {
+   "id": "B0BML288XM",
+   "rank": 4,
+   "badge": "Best Drop-In Tankless",
+   "name": "FOGATTI InstaShower 7 propane tankless RV heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Vwida+QtL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Propane tankless",
+    "Up to 2.5 GPM",
+    "3 door sizes",
+    "12V DC ignition"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Propane on-demand tankless"
+    },
+    {
+     "label": "Flow",
+     "value": "Up to 2.5 GPM"
+    },
+    {
+     "label": "Door sizes",
+     "value": "15x15, 15x18, 18x18 inch"
+    },
+    {
+     "label": "Combustion",
+     "value": "Adaptive staged"
+    },
+    {
+     "label": "Fit",
+     "value": "Drop-in replacement for tank openings"
+    }
+   ],
+   "description": "This FOGATTI model is a propane tankless heater designed to occupy the same opening as a tank unit, with three door sizes offered so the cutout does not need to be enlarged. It heats only while a tap is open and advertises up to 2.5 GPM, which is enough for a single shower but modest next to the 3.9 GPM class heaters you will see in the tankless guides.\n\nTankless trades endless hot water for conditions. You need a strong enough flow to trigger the burner, a 12V supply for ignition and fan, and an understanding that very low flow rates can produce a cold sandwich when you open a faucet briefly. Next to the SW10DE, you give up the stored reserve and the electric backup, and you gain the cabinet space a tank would occupy.\n\nUpkeep mostly comes down to winterizing and cleanliness. Drain the heat exchanger completely before freezing weather, keep the exhaust vent clear of nests, and keep the propane regulator and lines in good order. A retrofit also means checking that your existing exterior door and any flue spacing match the door size you choose.",
+   "bestFor": "Owners who want endless hot water without a major cabinet rework.",
+   "pros": [
+    "Three door sizes reduce cutout surgery",
+    "No stored tank to heat, drain or sanitize",
+    "Adaptive staged combustion for steadier temperature",
+    "Frees cabinet volume compared with a tank"
+   ],
+   "cons": [
+    "Needs adequate flow and 12V DC to run",
+    "Only up to 2.5 GPM, lower than newer 3.9 GPM units",
+    "No electric option when propane runs out"
+   ]
+  },
+  {
+   "id": "B0DNYSZ81Q",
+   "rank": 5,
+   "badge": "Best Value Tankless",
+   "name": "VEVOR 42000 BTU propane tankless RV heater",
+   "amazonUrl": "https://www.amazon.com/dp/B0DNYSZ81Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/313yVnLW94L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "42,000 BTU",
+    "Propane tankless",
+    "15x15 door",
+    "LED touch panel"
+   ],
+   "specList": [
+    {
+     "label": "Heat output",
+     "value": "42,000 BTU"
+    },
+    {
+     "label": "Fuel",
+     "value": "Propane"
+    },
+    {
+     "label": "Door",
+     "value": "15x15 inch, white"
+    },
+    {
+     "label": "Control",
+     "value": "LED display, touch buttons"
+    },
+    {
+     "label": "Combustion",
+     "value": "Segmented, season-adjusting"
+    }
+   ],
+   "description": "VEVOR packages a 42,000 BTU propane tankless heater with a 15 by 15 inch white door and a touch panel. Segmented combustion adjusts burner output to inlet water temperature, which is how it tries to keep the shower from swinging between seasons. At 42,000 BTU it is a smaller burner than the 65,000 BTU class, so winter inlet water will produce a lower temperature rise.\n\nThat output sets the limit. Where a 10,000 BTU tank heater uses time to build reserve, this unit has to heat every drop live, so cold water and a high flow rate quickly outrun the burner. It suits a mild-climate trailer with one shower more than a family rig with winter trips, and it is the cheapest way here to move to on-demand heating.\n\nIt shares the usual tankless homework: a correct cutout, adequate exhaust venting, a drained heat exchanger over winter and a decent supply of 12V power. Since the brand also sells larger models, make sure you are buying the 42,000 BTU version that matches your needs.",
+   "bestFor": "Warm-climate solo or couple travelers trying tankless on a limited budget.",
+   "pros": [
+    "Lowest entry cost among the tankless options here",
+    "Segmented combustion adapts to water temperature",
+    "Touch panel and LED display for setpoint",
+    "Compact 15x15 inch door fits common cutouts"
+   ],
+   "cons": [
+    "42,000 BTU limits temperature rise in cold weather",
+    "Less proven service network than Suburban or Dometic",
+    "No stored volume to cover brief propane or flow interruptions"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Tank versus tankless trade",
+   "explanation": "A tank heater stores 6 to 12 gallons and reheats between showers, while a tankless unit heats live and needs enough flow to ignite. A tank forgives low pressure and short draws; tankless forgives long, back-to-back use. In this lineup the Suburban SW10DE holds ten gallons for a household, while the FOGATTI InstaShower 7 delivers up to 2.5 GPM without storage. Buy for how you shower, not for how the box looks."
+  },
+  {
+   "criterion": "Ignition and 12V dependence",
+   "explanation": "Direct spark ignition lights only when 12V DC is available, so a depleted house battery can leave you with no hot water. Pilot-style heaters avoid that but need relighting and must be shut off for fueling. Every heater in this guide except the Dometic gives a clear 12V path in its listing, so check your battery health before blaming the heater. Below roughly 10.5 volts many controllers lock out."
+  },
+  {
+   "criterion": "Energy source flexibility",
+   "explanation": "Gas-only heaters stop when propane runs out, while gas-electric tanks keep working from a 120V hookup or generator. The SW10DE and the Dometic WH-10GEA both offer that second path, and it speeds recovery when both run together. Boondockers lean on propane, campground users lean on the element. Match the heater to where you actually camp, not to a brochure scenario."
+  },
+  {
+   "criterion": "Cutout and door compatibility",
+   "explanation": "The exterior door, flue box and mounting flange differ between Suburban, Dometic and tankless makers. FOGATTI lists 15x15, 15x18 and 18x18 inch doors precisely because cutouts vary, and VEVOR's 42,000 BTU unit ships with a 15x15 inch door. Measure the opening before ordering, and note the existing brand and gallon size. A swap that needs a bigger hole is a carpentry job, not a bolt-in."
+  },
+  {
+   "criterion": "Tank material and corrosion",
+   "explanation": "Porcelain-lined steel needs a working anode rod; aluminum tanks like the Dometic WH-10GEA skip the anode but cannot be revived with one. Hard water, iron and antifreeze left in the tank shorten either. Inspect an anode once a year and replace it at about three quarters consumed. A steel tank without an anode can rust through in a few seasons."
+  },
+  {
+   "criterion": "Recovery and real capacity",
+   "explanation": "Two short showers use roughly 10 to 12 gallons of hot water, which is why 6 gallons feels tight and 10 or 12 feels comfortable. The SW6D heats its small volume faster, while the SW10DE holds more but needs more time. A tankless unit sidesteps capacity but is limited by burner output, as VEVOR's 42,000 BTU rating shows. Think in showers per hour, not just gallons."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Gallons",
+   "meaning": "Tank volume is the amount of hot water you can draw before the temperature drops. A 10 gallon tank, with some cold water mixed at the tap, stretches to more than 10 gallons of usable shower water.",
+   "watchFor": "The SW6D at 6 gallons runs out fast with more than two people."
+  },
+  {
+   "spec": "BTU rating",
+   "meaning": "BTU describes burner heat output. The Dometic WH-10GEA lists 10,000 BTU for stored heating, whereas tankless units use 42,000 BTU and up because they heat live.",
+   "watchFor": "Do not compare a tank BTU figure to a tankless one; they work differently."
+  },
+  {
+   "spec": "DSI",
+   "meaning": "Direct spark ignition lights the burner electronically on demand, with no standing pilot to relight. It needs 12V DC from the coach battery.",
+   "watchFor": "A weak battery makes the SW10DE and SW6D click without lighting."
+  },
+  {
+   "spec": "GPM",
+   "meaning": "Gallons per minute is the flow a tankless heater can heat at its rated temperature rise. FOGATTI states up to 2.5 GPM for the InstaShower 7.",
+   "watchFor": "Rated GPM drops sharply with cold inlet water."
+  },
+  {
+   "spec": "Anode rod",
+   "meaning": "A magnesium or aluminum rod that corrodes first so the tank does not. Steel tanks depend on it; aluminum tanks do not.",
+   "watchFor": "The Dometic WH-10GEA is the only tank here that skips it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Cutout and fit",
+   "description": "We checked each listing for gallon size, door options and replacement language. A heater that cannot fit the common cabinet earns fewer points, however good the burner. The FOGATTI door options counted in its favor."
+  },
+  {
+   "title": "Ownership burden",
+   "description": "We looked at anode needs, flushing, winterizing and parts availability based on the spec sheets. Fewer recurring chores and easier service raised a pick. The Dometic without an anode scored well here."
+  },
+  {
+   "title": "Energy flexibility",
+   "description": "We considered whether the heater runs on propane only or on both propane and shore power. Gas-electric tanks like the SW10DE keep running when one source fails. Propane-only tankless units scored lower on redundancy."
+  },
+  {
+   "title": "Capacity and output",
+   "description": "We compared tank gallons against tankless BTU and GPM, such as 6 gallons for the SW6D versus 42,000 BTU for the VEVOR. A heater has to match the household, not only the cabinet. Output claims were treated as maker figures."
+  },
+  {
+   "title": "Risk of failure modes",
+   "description": "We weighed what goes wrong most often: dead battery, sediment, forgotten bypass and freeze damage. Heaters that expose those risks clearly in their listings and are simple to drain scored better."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Household Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Solo traveler or weekend couple",
+      "Suburban SW6D",
+      "Six gallons heats quickly and fits small cabinets"
+     ],
+     [
+      "Family of three or four",
+      "Suburban SW10DE",
+      "Ten gallons covers back-to-back showers"
+     ],
+     [
+      "Tankless curious, warm climate",
+      "VEVOR 42000 BTU",
+      "Lowest cost way to try on-demand heat"
+     ],
+     [
+      "Full-timer who wants endless water",
+      "FOGATTI InstaShower 7",
+      "No tank volume to run out"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "VEVOR 42000 BTU",
+      "Cheapest tankless in the set"
+     ],
+     [
+      "Mid range",
+      "Suburban SW6D",
+      "Simple small tank, wide parts supply"
+     ],
+     [
+      "Upper mid",
+      "Suburban SW10DE",
+      "Gas-electric with proven service path"
+     ],
+     [
+      "Highest",
+      "Dometic WH-10GEA",
+      "Aluminum tank with no anode upkeep"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Tank vs Tankless",
+   "cards": [
+    {
+     "label": "Tank",
+     "text": "The SW10DE, SW6D and WH-10GEA store hot water, tolerate low flow and are simple for a shop to repair. They reheat slowly between showers and take cabinet space."
+    },
+    {
+     "label": "Tankless",
+     "text": "The InstaShower 7 and VEVOR 42000 BTU heat live and never run out, but need 12V, good flow and careful winterizing. A drained heat exchanger is essential."
+    }
+   ],
+   "note": "Pick a tank for simplicity and low-flow forgiveness; pick tankless for unlimited volume and cabinet space."
+  },
+  {
+   "subheading": "Tank Material Axis",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Skip anode checks",
+      "Dometic WH-10GEA",
+      "Aluminum tank needs no anode"
+     ],
+     [
+      "Serviceable steel and rod",
+      "Suburban SW10DE",
+      "Anode swap extends life"
+     ],
+     [
+      "Small steel tank",
+      "Suburban SW6D",
+      "Same anode path, less volume"
+     ],
+     [
+      "No tank at all",
+      "FOGATTI InstaShower 7",
+      "Nothing to corrode inside"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Dry Camping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A heater that sips 12V power and does not waste water on a cold-line purge. Check ignition power, tank volume and whether propane is the only fuel."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Suburban SW10DE keeps a ten gallon reserve and lights on propane alone, while the FOGATTI InstaShower 7 saves tank volume and uses only on-demand propane."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You keep the rig for years, camp year-round, or hate maintenance. The Dometic WH-10GEA and the Suburban SW10DE reward that with easier service and a second heat source."
+    },
+    {
+     "label": "Save if",
+     "text": "You are in a warm climate and camp occasionally. The VEVOR 42000 BTU or the SW6D delivers hot water without extra features you will not use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect anode rod",
+   "interval": "Every year",
+   "why": "A consumed rod leaves the steel tank exposed. Replace at about three quarters used; this applies to the SW10DE and SW6D but not the Dometic aluminum tank."
+  },
+  {
+   "task": "Flush the tank",
+   "interval": "Every spring",
+   "why": "Sediment lowers recovery and causes rumbling. Drain through the plug, flush with clean water and refill."
+  },
+  {
+   "task": "Clear the burner tube",
+   "interval": "Every year",
+   "why": "Spider webs and debris cause yellow flames and failed ignition. A pipe cleaner and brush restore a blue flame."
+  },
+  {
+   "task": "Winterize and bypass",
+   "interval": "Before freezing weather",
+   "why": "Drain the tank and keep antifreeze out of it. For tankless units like the InstaShower 7, drain the heat exchanger completely."
+  },
+  {
+   "task": "Test relief valve",
+   "interval": "Every year",
+   "why": "Lift the lever briefly to confirm water flows and the valve reseats. A stuck valve is a safety risk and a leak waiting to happen."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Should I buy a tank or tankless RV water heater?",
+   "a": "A tank is simpler, forgiving at low flow and easier to service, so it suits most owners. Tankless saves cabinet volume and never runs out, but needs 12V power, enough flow and a careful winter drain. If you have never owned tankless, start with a tank."
+  },
+  {
+   "q": "How much hot water does a 10 gallon heater really give me?",
+   "a": "Because you mix cold at the tap, a 10 gallon tank usually covers about two short showers. Recovery time then decides whether a third is comfortable. Running gas and electric together helps when a hookup is available."
+  },
+  {
+   "q": "Do I need an anode rod in every RV water heater?",
+   "a": "Porcelain-lined steel tanks like the Suburban SW10DE and SW6D do, and it should be inspected yearly. Aluminum tanks such as the Dometic WH-10GEA do not use one. Never run a steel tank without it."
+  },
+  {
+   "q": "Why does my heater click but not light?",
+   "a": "The most common cause is low 12V supply, which locks out direct spark ignition below about 10.5 volts. Check the battery, then the gas valve and burner tube for webs. Run the propane supply up to pressure before retrying."
+  },
+  {
+   "q": "Can I put antifreeze through the heater when winterizing?",
+   "a": "No. Bypass the heater and drain it fully, because antifreeze is hard on anode rods and wastes a lot of fluid. This applies to tank units and tankless alike."
+  },
+  {
+   "q": "Will a bigger heater fit my old cabinet?",
+   "a": "Not always. Suburban, Dometic and tankless doors differ, and the cutout limits gallon size. Check the existing label, measure the opening and compare it with the door sizes listed, such as the 15x15, 15x18 and 18x18 inch options for FOGATTI."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41Rn+9WaBML._SL500_.jpg"
+}

@@ -1,0 +1,20 @@
+# Hot tents with stove jacks research
+- A stove jack is a fire-resistant fabric panel (usually silicone-coated fiberglass) sewn into the tent with a round or square port so a stove pipe can exit. It is not a fireproof tent: the rest of the shell still melts or burns.
+- Polyester and nylon shells (especially silicone-coated) melt from a single ember; cotton or poly-cotton (TC) canvas tolerates sparks better and breathes, but weighs far more and needs drying to prevent mildew.
+- A spark arrestor cap on the chimney matters on any fabric tent; hot sparks are the usual cause of burn holes. Keep pipe sections tight and use a stove with a damper.
+- Stove clearance: follow the stove maker's minimum distance to the wall (commonly 12 to 18 inches for canvas); the jack only protects the pipe exit.
+- Port size: stove jack openings are commonly 3 to 5 inches; match the pipe diameter and check the jack is rated for your stove pipe.
+- Carbon monoxide is the main fatal risk; wood stoves burn oxygen and produce CO in smoldering or poorly drafting conditions. Use a battery CO alarm, vent at the top and bottom, never sleep with the stove burning fully loaded, and never leave it unattended.
+- Floors: floorless tipi-style hot tents (single pole) are light and let the stove sit on ground; floored tents need a fireproof stove mat or board under the stove.
+- Snow skirts and valances let you weigh the edge down with snow and stop wind and drafts; a ground cover under the tent protects the floor.
+- Tent shapes: bell tents use a central pole and have tall center height; tipis are light and shed snow; dome and cabin tents have more vertical wall and floor space; inflatable tents are heavy and bulky but fast to pitch.
+- Condensation: a stove dries the air, but a cold, humid night still creates condensation inside single-wall tents; TC canvas roofs breathe better.
+- Wind and snow load: steep walls and a strong pole structure matter; guy lines, snow stakes and a way to shake snow off are standard practice.
+- Weights: backpackable hot tents run roughly 5 to 12 pounds for the tent alone, plus a stove, pipe and wood; a canvas bell tent for four to six people can weigh several times that and needs a car.
+- Stove size should match the tent: a small stove heats a small tent quickly; an oversized stove overheats and burns more wood than needed.
+- Waterproof ratings (millimeters) describe hydrostatic head; 2000 to 3000 mm is typical for light tents; canvas relies on cotton swelling plus finish and needs seasoning.
+- Seasoning a canvas tent: wet it down and let it dry before first use so the cotton swells and seams close.
+- Keep fuel and fire safety: a bucket of water or snow nearby, a fire-resistant stove mat, and no flammable liquids in the tent.
+- Packing a wet canvas tent causes mildew; dry it before storage.
+- Wood-burning in a tent is regulated or banned in some parks and in fire-restriction periods; check local rules.
+- Count how many people sleep: a stove and wood need floor area, so an advertised 4 person tent is often comfortable for 2 plus a stove.

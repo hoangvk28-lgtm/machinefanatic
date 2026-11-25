@@ -84,3 +84,5 @@ best-inkjet-label-printers: no true inkjet label printer in the compact data (QL
 best-nelko-label-printers: only 2 distinct Nelko machines (P21 and PM220); the rest are tape rolls
 best-polono-label-printers: only 2 distinct Polono machines (PM220S and a 4x6 shipping unit); the rest are other brands or label rolls
 best-rv-air-conditioner-with-soft-start: every item is a soft start capacitor kit or accessory (EasyStart, SoftStartUp, SoftStartRV, generic kits, one home HVAC unit), not an RV air conditioner; no 3 real machines
+best-idex-3d-printers: no real IDEX (independent dual carriage) machine in the compact data; only single-nozzle multi-spool, toolchanger and belt printers, so fewer than 3 on-topic
+best-dual-extruder-3d-printers: only 1 true two-nozzle machine, rest padded (coordinator)

@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-solar-charge-controller-with-generator-input",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "best solar charge controller with generator input",
+ "guideTitle": "Best Solar Charge Controllers With Generator Input (2026)",
+ "metaTitle": "Best Solar Controllers With Generator Input",
+ "metaDescription": "A plain MPPT controller cannot take generator power. These six hybrid inverter chargers add an AC input so a generator tops up the battery on cloudy days.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "15 min",
+ "expertTake": "The VariForma 5000W 48V split-phase hybrid is the pick because it pairs a 120A MPPT with a 50A AC input and clear generator and utility charge modes. The Ampinvt 1200W 12V is the value pick for small systems that need a generator backup with an adjustable charge current. Anyone who wants a standalone MPPT controller should know that it has no generator input at all, and should buy a separate AC battery charger.",
+ "introParagraphs": [
+  "A plain solar charge controller only talks to panels. It has no way to accept power from a generator, so the phrase usually means a hybrid unit that combines the MPPT controller with an inverter and an AC battery charger fed by the generator.",
+  "The AC input side deserves as much scrutiny as the solar side. Its current limit, how it prioritizes sources, how it tolerates a generator's voltage and frequency, and how much charge current you can set decide whether a small generator can run the system without tripping."
+ ],
+ "products": [
+  {
+   "id": "B0H6BB9XRT",
+   "badge": "Best Overall",
+   "name": "VariForma 5000W 48V split-phase hybrid, 120A MPPT, 50A AC input",
+   "specs": [
+    "5000W split phase",
+    "120A MPPT",
+    "50A AC input",
+    "3 charge modes"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "5000W, 110V/240V split phase"
+    },
+    {
+     "label": "MPPT controller",
+     "value": "120A, 60-150V window"
+    },
+    {
+     "label": "Max PV input",
+     "value": "6400W at 150V"
+    },
+    {
+     "label": "AC input",
+     "value": "Up to 50A"
+    },
+    {
+     "label": "Charge modes",
+     "value": "Solar only, utility priority, solar priority"
+    }
+   ],
+   "description": "The VariForma is a 48 volt split-phase hybrid with a 120 amp MPPT controller and a maximum AC input of 50 amps. That input rating tells you how much generator or grid current the unit can pass through, and it is the number to compare with the output of your generator. It accepts up to 6400 watts of panels, with an MPPT voltage window from 60 to 150 volts.\n\nThree charging modes cover the generator workflow. Solar only keeps the generator out, utility priority charges from the AC input first, and solar priority uses panels first and the generator to fill gaps. The split-phase output gives 110 and 240 volts, so it can run a well pump or a shop compressor. Against the Aninerel 4200W, it has a larger bus voltage and more output, and it costs more.\n\nGenerator pairing needs thought. A 5000 watt hybrid can ask for several kilowatts of AC when the charger and loads run together, so a small generator may overload. Set the AC charge current to match your generator, and test with a modest load first. In ownership, check breaker and wiring ratings, and keep firmware settings documented.",
+   "bestFor": "Off-grid homes and shops that need split-phase power and a generator that can back up cloudy weeks.",
+   "pros": [
+    "50A AC input passes generator or grid power through",
+    "120A MPPT with up to 6400W of panels",
+    "Three charge modes control generator use",
+    "Split-phase output feeds 240V loads"
+   ],
+   "cons": [
+    "Needs a generator sized for loads plus charger",
+    "Split-phase wiring is more complex",
+    "Higher cost tier than 24V single-phase units"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0H6BB9XRT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/21Cp2fSzErL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FBRH9928",
+   "badge": "Best Small System",
+   "name": "Ampinvt 1200W 12V pure sine inverter charger, 40A MPPT",
+   "specs": [
+    "1200W, 12V",
+    "40A MPPT",
+    "0-15A AC charge",
+    "Pure sine wave"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "1200W pure sine wave"
+    },
+    {
+     "label": "Battery voltage",
+     "value": "12V DC"
+    },
+    {
+     "label": "MPPT controller",
+     "value": "40A built in"
+    },
+    {
+     "label": "AC charger",
+     "value": "Adjustable 0 to 15A"
+    },
+    {
+     "label": "Protections",
+     "value": "Low and high voltage, over temperature, overload"
+    }
+   ],
+   "description": "The Ampinvt 1200W is a compact 12 volt unit that combines an inverter, an AC battery charger and a 40 amp MPPT controller. The standout feature for generator use is the adjustable AC charge current from 0 to 15 amps, and setting it to zero turns the AC charger off. That control lets a small generator share its output between loads and charging without tripping.\n\nA 1200 watt rating is modest, so this is a system for a shed, a small camper or a backup for lights, a laptop and a small fridge. The 12 volt bus is the best match for a small bank and short cable runs. The listing gives protections including low and high battery voltage alarms, over temperature and overload, which is helpful for a basic system. Compared with the Innisle 3600W, it is much smaller and lower in cost tier.\n\nIn ownership, expect basic documentation and a simple display. Confirm the battery profile, size the cable for the full load, and use an inline fuse near the battery. For a modest backup system with a small inverter generator, it is a sensible choice.",
+   "bestFor": "Sheds, small cabins and campers that need a generator-capable 12V charger and inverter in one.",
+   "pros": [
+    "Adjustable 0-15A AC charge fits small generators",
+    "Setting 0A switches the AC charger off",
+    "40A MPPT and inverter in one case",
+    "Alarms for low and high battery voltage"
+   ],
+   "cons": [
+    "1200W caps appliance use",
+    "Small controller limits panel size",
+    "Basic documentation and display"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FBRH9928?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31KVl8uvTML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0HM6MK46J",
+   "badge": "Best 24V With High PV",
+   "name": "Aninerel 4200W 24V hybrid inverter, 120A MPPT, 8.4 kW surge",
+   "specs": [
+    "4200W, 24V",
+    "120A MPPT",
+    "8.4 kW surge",
+    "Up to 6200W PV"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "4.2 kW continuous, 8.4 kW surge"
+    },
+    {
+     "label": "Battery voltage",
+     "value": "24V DC"
+    },
+    {
+     "label": "MPPT controller",
+     "value": "120A, supports up to 6200W PV"
+    },
+    {
+     "label": "PV voltage limit",
+     "value": "500V DC"
+    },
+    {
+     "label": "Battery option",
+     "value": "Operates without a battery"
+    }
+   ],
+   "description": "The Aninerel 4200W is a 24 volt hybrid that stands out for its panel capacity. The listing says the 120 amp MPPT controller supports arrays up to 6200 watts and 500 volts DC, which is a wide window and lets you wire long series strings. Output is rated at 4.2 kilowatts continuous with an 8.4 kilowatt surge.\n\nGenerator input arrives through the AC side of the hybrid, which charges the battery or passes power to loads. A unit that can run without a battery, as the listing says, helps in a simple grid-or-generator setup but needs a minimum PV voltage and gives less stable output. Compared with the VariForma, the Aninerel is single phase and runs on 24 volts, so it draws about 175 amps at full load and needs thicker cable.\n\nOwnership requires careful design: check the PV voltage margin in cold weather, set the AC charge current to suit the generator and use a battery with strong discharge capacity. Treat it as a good fit for a mid-sized system that needs a big array on a 24 volt bank.",
+   "bestFor": "Builders who want a large array and a generator backup on a 24V battery bank.",
+   "pros": [
+    "Supports up to 6200W of PV at 500V DC",
+    "4.2 kW continuous and 8.4 kW surge",
+    "120A MPPT handles big arrays",
+    "Can operate without a battery in some setups"
+   ],
+   "cons": [
+    "24V full load draws about 175 A",
+    "Battery-free operation has voltage conditions",
+    "Documentation depends on the seller"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0HM6MK46J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/418aZ+Q5E7L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F66YMYBQ",
+   "badge": "Best High Power",
+   "name": "SUNGOLDPOWER 10000W 48V UL1741 split-phase, 2 MPPT, 200A charge",
+   "specs": [
+    "10000W, 48V",
+    "2 MPPT controllers",
+    "200A charge max",
+    "UL1741 listed"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "10000W, 20000W peak"
+    },
+    {
+     "label": "Motor capacity",
+     "value": "6 HP loaded motors"
+    },
+    {
+     "label": "MPPT",
+     "value": "2 built-in controllers"
+    },
+    {
+     "label": "Battery charging",
+     "value": "Up to 200A"
+    },
+    {
+     "label": "Modes",
+     "value": "Hybrid, utility priority, solar priority, solar only"
+    }
+   ],
+   "description": "The SUNGOLDPOWER 10000W is the largest unit in this guide. It has two built-in MPPT controllers, a maximum battery charge of 200 amps and a listing to UL1741, which matters when an inspector or insurer asks about equipment. Rated output is 10 kilowatts with a 20 kilowatt peak and the listing quotes loaded motor capacity of 6 horsepower.\n\nGenerator input needs the most care here. A 200 amp charge at 48 volts is nearly 10 kilowatts of DC power, so a generator large enough to feed it must be a big machine. Use the adjustable charge current to cap draw to the generator's rating. Four modes, including utility priority and solar priority, let you control when the generator runs, and two MPPT controllers allow separate arrays or orientations.\n\nOwnership belongs to serious systems. Expect to need an electrician for the AC side, large breakers and heavy battery cable. Against the VoolexGo 10000W, the SUNGOLDPOWER's UL1741 listing and published motor figures are advantages. It suits a whole-home off-grid build.",
+   "bestFor": "Whole-home off-grid builds that need 10 kW, dual MPPT inputs and listed equipment.",
+   "pros": [
+    "10 kW output with 20 kW peak",
+    "Two MPPT controllers for separate arrays",
+    "UL1741 listing helps with inspections",
+    "Four modes control generator charging"
+   ],
+   "cons": [
+    "200A charge needs a very large generator or a lower setting",
+    "Heavy and expensive, top cost tier",
+    "Installation needs professional wiring"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0F66YMYBQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31BsOHNmuQL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GQZ1XR6H",
+   "badge": "Best Dual-Voltage Output",
+   "name": "VoolexGo 10000W 48V hybrid, 110V/220V, 120A MPPT",
+   "specs": [
+    "10000W, 48V",
+    "110V and 220V",
+    "120A MPPT",
+    "50A AC input"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "10000W, 110V/220V"
+    },
+    {
+     "label": "MPPT controller",
+     "value": "120A, 60-150V window"
+    },
+    {
+     "label": "Max PV input",
+     "value": "6400W at 150V"
+    },
+    {
+     "label": "AC input",
+     "value": "Up to 50A"
+    },
+    {
+     "label": "Design",
+     "value": "High-load handling"
+    }
+   ],
+   "description": "The VoolexGo 10000W is a 48 volt hybrid that now supports both 110 and 220 volt output, an upgrade from a model that offered only 110. It has a 120 amp MPPT controller with a 60 to 150 volt window, a 6400 watt maximum PV input and a 50 amp maximum AC input. The listing also stresses its ability to handle high loads.\n\nThe AC input limit is the key number for generator planning. A 50 amp input on a 10 kilowatt inverter means that the inverter's output can exceed what the AC input alone can supply, so the battery and solar must carry peaks. That is normal for hybrid systems, but it changes how you size the generator. Compared with the SUNGOLDPOWER, the VoolexGo has a single MPPT and fewer published certifications.\n\nIn ownership, plan the wiring and breakers, test the generator under load and keep detailed settings. It is a high-capacity alternative for people who want 10 kilowatts with split voltages at a lower cost tier than the top models.",
+   "bestFor": "Large off-grid homes that need 110V and 220V output and a generator input.",
+   "pros": [
+    "110V and 220V output at 10 kW",
+    "120A MPPT with up to 6400W of PV",
+    "50A AC input for generator or grid",
+    "Handles high loads per the listing"
+   ],
+   "cons": [
+    "Single MPPT limits array layout flexibility",
+    "Fewer published certifications",
+    "Needs professional installation"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GQZ1XR6H?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31S9gF7ofgL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DSVK1WH2",
+   "badge": "Best Mid-Range 24V",
+   "name": "Innisle 3600W 24V hybrid inverter, 120A MPPT, 4200W PV",
+   "specs": [
+    "3600W, 24V",
+    "120A MPPT",
+    "4200W max PV",
+    "LCD and LEDs"
+   ],
+   "specList": [
+    {
+     "label": "Output",
+     "value": "3600W rated"
+    },
+    {
+     "label": "Battery voltage",
+     "value": "24V DC"
+    },
+    {
+     "label": "MPPT controller",
+     "value": "120A built in"
+    },
+    {
+     "label": "Max PV input",
+     "value": "4200W"
+    },
+    {
+     "label": "Display",
+     "value": "LCD with 3 LED indicators"
+    }
+   ],
+   "description": "The Innisle 3600W is a mid-range 24 volt hybrid with an integrated 120 amp MPPT controller and a maximum PV input of 4200 watts. An LCD and three LED indicators show system data, which makes it easier to see when the generator charger is active. Rated output is 3600 watts.\n\nFor generator use, it follows the common hybrid design: the AC input can charge the battery or pass through to loads. A 3600 watt unit pairs well with a 3000 to 4000 watt inverter generator, as long as you cap the charge current so the generator is not overloaded. Against the Aninerel 4200W, it is a smaller and lower-cost unit with a lower PV limit.\n\nOwnership is simple for a hybrid. Set the battery profile, tune the charge current, label the breakers and log the settings. It is a sensible middle choice for a workshop or small cabin with a moderate generator.",
+   "bestFor": "Workshops and small cabins that want a mid-range 24V hybrid with a generator backup.",
+   "pros": [
+    "120A MPPT with up to 4200W of PV",
+    "LCD and LED indicators show charging source",
+    "Pairs well with a 3 to 4 kW generator",
+    "Mid-range cost tier for a 24V hybrid"
+   ],
+   "cons": [
+    "Lower PV limit than the Aninerel",
+    "24V full load draws about 150 A",
+    "Documentation varies by seller"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0DSVK1WH2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/314JT9cKYWL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Why standalone controllers lack generator input",
+   "explanation": "A pure MPPT controller sits between panels and battery and has no AC side at all. If you want a generator to charge the bank, you need a hybrid inverter charger, or a separate AC charger on the battery. Check the spec for an AC input current rating, such as the 50 amps on the VariForma."
+  },
+  {
+   "criterion": "AC input current limit",
+   "explanation": "This number caps how much generator or grid power can pass through. The VariForma and VoolexGo list 50 amps. A 10 kW inverter with a 50 amp input relies on the battery for peaks, so size the generator for the charger plus the loads you run at the same time."
+  },
+  {
+   "criterion": "Adjustable AC charge current",
+   "explanation": "A small generator can stall if the charger takes everything. The Ampinvt lets you set 0 to 15 amps, and larger units offer more range. Lowering the charge current keeps the generator in its sweet spot at roughly 50 to 70 percent load."
+  },
+  {
+   "criterion": "Charge priority modes",
+   "explanation": "Modes like solar only, utility priority and solar priority decide when the generator runs. Solar priority uses panels first and the generator to fill gaps, which saves fuel. Utility priority charges from the AC input first, which suits a generator you want to run and finish."
+  },
+  {
+   "criterion": "Generator compatibility",
+   "explanation": "Hybrid chargers need clean-enough AC to lock on. Inverter generators with low distortion work best, while cheap open-frame units may cause drop-outs. Look for a wide AC input window and a generator mode in the settings."
+  },
+  {
+   "criterion": "MPPT capacity and PV voltage",
+   "explanation": "The solar side still matters. The Aninerel supports up to 6200 watts of PV and 500 volts DC, while the Innisle supports 4200 watts. Cold weather raises panel voltage, so leave margin below the controller's maximum."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "AC input current",
+   "meaning": "The maximum amps the unit accepts from a generator or grid. It sets how much power can pass through to loads and charger.",
+   "watchFor": "The VariForma and VoolexGo list 50A."
+  },
+  {
+   "spec": "AC charge current",
+   "meaning": "How many amps the charger delivers to the battery from the AC input. Adjustable settings protect small generators.",
+   "watchFor": "The Ampinvt lets you set 0 to 15A."
+  },
+  {
+   "spec": "MPPT voltage window",
+   "meaning": "The range of panel voltages the controller can track. Strings must stay inside it in all weather.",
+   "watchFor": "The VariForma and VoolexGo list 60 to 150V."
+  },
+  {
+   "spec": "Max PV power",
+   "meaning": "The largest array the controller can use. More panel watts than the limit are wasted.",
+   "watchFor": "The Aninerel lists 6200W and the Innisle 4200W."
+  },
+  {
+   "spec": "Battery charge current",
+   "meaning": "The top rate at which the unit can charge the battery from all sources.",
+   "watchFor": "The SUNGOLDPOWER lists up to 200A."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Generator input design",
+   "description": "We compared AC input current ratings and charge current adjustment. The VariForma and VoolexGo list 50A and the Ampinvt offers a 0 to 15A range."
+  },
+  {
+   "title": "Charge priority control",
+   "description": "We checked how clearly each unit lets you choose between solar, utility and generator. The SUNGOLDPOWER lists four modes and the VariForma three."
+  },
+  {
+   "title": "Solar side capability",
+   "description": "We looked at MPPT amps and PV voltage. The Aninerel's 6200W and 500V led the field."
+  },
+  {
+   "title": "Power and expandability",
+   "description": "We compared output from 1200W to 10000W, plus split-phase options. Larger units scored higher for whole-home use."
+  },
+  {
+   "title": "Support and listing",
+   "description": "We weighed certifications and documentation. The SUNGOLDPOWER's UL1741 listing gave it an edge."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Generator Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Small 1000-2000W generator",
+      "Ampinvt 1200W 12V",
+      "0 to 15A AC charge"
+     ],
+     [
+      "3000-4000W generator",
+      "Innisle 3600W 24V",
+      "Matched output"
+     ],
+     [
+      "4000-5000W generator",
+      "Aninerel 4200W 24V",
+      "Large PV and surge"
+     ],
+     [
+      "Large 7500W generator",
+      "VariForma 5000W 48V",
+      "50A AC input"
+     ],
+     [
+      "Whole-home generator",
+      "SUNGOLDPOWER 10000W 48V",
+      "Up to 200A charge"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost tier",
+      "Ampinvt 1200W 12V",
+      "Small and simple"
+     ],
+     [
+      "Low to middle tier",
+      "Innisle 3600W 24V",
+      "Mid-range hybrid"
+     ],
+     [
+      "Middle tier",
+      "Aninerel 4200W 24V",
+      "Big array support"
+     ],
+     [
+      "Upper tier",
+      "VariForma 5000W 48V",
+      "Split phase"
+     ],
+     [
+      "Highest tier",
+      "SUNGOLDPOWER 10000W 48V",
+      "UL1741, dual MPPT"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Hybrid Inverter vs Separate AC Charger",
+   "cards": [
+    {
+     "label": "Hybrid inverter charger",
+     "text": "The six units here combine solar, inverter and AC charging in one box. That reduces wiring and gives integrated priority modes, but one failure takes everything down."
+    },
+    {
+     "label": "Separate AC charger",
+     "text": "A standalone MPPT controller plus a battery charger gives modular repairs and more brands, but needs more wiring and its own generator relay."
+    }
+   ],
+   "note": "Choose a hybrid for simplicity; choose separate parts for flexibility."
+  },
+  {
+   "subheading": "Single Phase vs Split Phase",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "120V loads only",
+      "Innisle 3600W 24V",
+      "Simple single phase"
+     ],
+     [
+      "Small 12V backup",
+      "Ampinvt 1200W 12V",
+      "Low voltage"
+     ],
+     [
+      "240V well pump",
+      "VariForma 5000W 48V",
+      "Split phase"
+     ],
+     [
+      "220V shop loads",
+      "VoolexGo 10000W 48V",
+      "110V and 220V"
+     ],
+     [
+      "Large home panel",
+      "SUNGOLDPOWER 10000W 48V",
+      "Split phase, 10 kW"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Cloudy-Week Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Solar priority mode, an adjustable charge current and a generator that can run at moderate load. The system should use the sun first and the generator only to fill gaps."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The VariForma's three charge modes and 50A AC input handle this best, while the Ampinvt serves a small system."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You run motors or heavy shop loads. The SUNGOLDPOWER and VariForma offer power, split phase and listings."
+    },
+    {
+     "label": "Save if",
+     "text": "You run lights and electronics. The Ampinvt or Innisle covers modest loads at a lower cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test generator pairing",
+   "interval": "Before each season",
+   "why": "A weak generator can cause drop-outs. Run it under load and confirm the inverter accepts the input."
+  },
+  {
+   "task": "Set AC charge current",
+   "interval": "When you change generators",
+   "why": "A too-high setting overloads a small generator. Lower it until the generator runs smoothly."
+  },
+  {
+   "task": "Check breakers and lugs",
+   "interval": "Yearly",
+   "why": "Heat loosens connections. Retorque and inspect for discoloration."
+  },
+  {
+   "task": "Clean fans and vents",
+   "interval": "Every 6 months",
+   "why": "Dust raises temperatures and shortens life."
+  },
+  {
+   "task": "Review settings log",
+   "interval": "After any change",
+   "why": "Charge modes and thresholds are easy to forget. A logged record speeds troubleshooting."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a solar charge controller take generator power?",
+   "a": "A standalone MPPT controller cannot. You need a hybrid inverter charger with an AC input, or a separate AC battery charger fed by the generator."
+  },
+  {
+   "q": "What size generator should I pair with a hybrid?",
+   "a": "Size it for your loads plus the charger. Cap the AC charge current so the generator runs near 50 to 70 percent load, and prefer an inverter generator for clean power."
+  },
+  {
+   "q": "Will the generator and solar charge at the same time?",
+   "a": "Depending on the mode, yes. Solar priority charges from panels first and uses the generator to fill the gap, while utility priority puts the AC input first."
+  },
+  {
+   "q": "Do I need a transfer switch?",
+   "a": "Many hybrids include an internal transfer function, but you still need proper wiring and breakers. Check the manual and local code."
+  },
+  {
+   "q": "Why does my inverter reject the generator?",
+   "a": "Often the generator's voltage or frequency is unstable, especially at light load. Use a generator mode in the settings or choose a cleaner generator."
+  },
+  {
+   "q": "Is a 12V hybrid enough for a backup system?",
+   "a": "For small loads, yes. For anything above about 1500 watts, a 24 or 48 volt bank is easier to wire."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/21Cp2fSzErL._SL500_.jpg"
+}
