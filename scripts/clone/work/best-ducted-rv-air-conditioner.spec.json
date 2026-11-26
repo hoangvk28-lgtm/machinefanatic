@@ -1,0 +1,530 @@
+{
+ "guideSlug": "best-ducted-rv-air-conditioner",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best ducted rv air conditioner",
+ "guideTitle": "Best Ducted RV Air Conditioners (2026)",
+ "metaTitle": "Best Ducted RV Air Conditioners (2026)",
+ "metaDescription": "Five ducted rooftop RV air conditioners compared on compressor type, airflow into the ceiling plenum, noise claims and 12V control power for ducted rigs.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "12 min",
+ "expertTake": "The Furrion Chill Cube 18K ducted is the pick for a big rig that needs real capacity without a huge startup spike. The RecPro 13.5K ducted is the sensible replacement for a tired unit in a mid-size trailer. If your coach has no ceiling duct at all, do not shop here, because forcing a ducted unit onto a non-ducted ceiling is a remodel, not a swap.",
+ "introParagraphs": [
+  "A ducted rooftop air conditioner pushes cold air into a plenum in the ceiling, and from there it travels through a duct network to vents spread down the length of the coach. That layout evens out temperature in a long rig, but it also means the replacement has to match the plumbing already behind your ceiling panels.",
+  "Most of the buying risk sits in details that never make the headline: whether the control board matches your wall thermostat, whether the unit needs a separate 12V supply, and how much the compressor strains a generator on startup. We sort the field by those mechanics instead of by the biggest BTU figure."
+ ],
+ "products": [
+  {
+   "id": "B0DM6X2LGY",
+   "badge": "Best Overall",
+   "name": "Furrion Chill Cube 18K ducted, variable-speed compressor",
+   "specs": [
+    "18,000 BTU",
+    "Ducted",
+    "Variable speed",
+    "115V"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "18,000 BTU"
+    },
+    {
+     "label": "Duct type",
+     "value": "Ducted ceiling"
+    },
+    {
+     "label": "Compressor",
+     "value": "Variable speed"
+    },
+    {
+     "label": "Refrigerant",
+     "value": "Not listed"
+    },
+    {
+     "label": "Colorway",
+     "value": "Black shroud"
+    }
+   ],
+   "description": "The Chill Cube 18K is built around a variable-speed compressor, which is the one design choice that changes how a ducted RV air conditioner behaves on a generator. Instead of slamming on at full speed and dropping off, the compressor ramps its output to match the load, so the startup draw is gentler and the cabin temperature wanders less.\n\nThe cost of that sophistication is that it is the most expensive-feeling unit in the group, and it is built for rigs that actually need 18,000 BTU. A small trailer will short-cycle the cooling it does not need. Against the RecPro 13.5K ducted unit it moves noticeably more air capacity, which matters in a long fifth wheel with a duct run to the back bedroom.\n\nOwnership comes down to the ceiling assembly. Because the unit is a bolt-on installation with the ducted plenum underneath, you should confirm your existing duct outlet matches before ordering. Rinse the condenser fins from the roof once a season, and keep the return-air filter clean, since a ducted system pulls from a single return and starves quickly when that filter clogs.",
+   "bestFor": "Large ducted trailers and fifth wheels that want capacity with a softer startup.",
+   "pros": [
+    "Variable-speed compressor eases startup load on a generator",
+    "High 18,000 BTU capacity reaches the far end of a long duct run",
+    "Simple bolt-on mounting on a standard roof opening",
+    "Black or white shroud choices to suit the roofline"
+   ],
+   "cons": [
+    "More capacity than a small trailer can use efficiently",
+    "Premium purchase for what is still a cooling-only duct unit"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DM6X2LGY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31wLozU45ZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GSQKC7T7",
+   "badge": "Best for Smart Control",
+   "name": "FOGATTI 18K BTU ducted, WiFi and Alexa control",
+   "specs": [
+    "18,000 BTU",
+    "Ducted",
+    "Cooling only",
+    "WiFi control"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "18,000 BTU"
+    },
+    {
+     "label": "Duct type",
+     "value": "Ducted"
+    },
+    {
+     "label": "Heating",
+     "value": "Cooling only"
+    },
+    {
+     "label": "Control",
+     "value": "Remote, app, ADB panel, Alexa"
+    },
+    {
+     "label": "Power",
+     "value": "115V AC plus 12V DC"
+    }
+   ],
+   "description": "FOGATTI pitches this ducted 18K around control rather than compressor tricks: a remote, a phone app, the wall panel and Alexa voice commands all reach the same unit. For a big coach where the thermostat is far from the bed, being able to start cooling from your phone on the drive back to camp is a real convenience.\n\nThe rule that catches buyers is that it needs both 115V AC and a 12V DC feed to run, because the control board and fans take their low-voltage power from the coach battery. A rig with a weak house battery or a disconnect switch left off will see it fail to start. It also cools only, so winter mornings still belong to your furnace.\n\nSet beside the 16K FOGATTI below it, you pay for the extra capacity and carry slightly more weight on the roof. Keep the shroud screws snug, since vibration over a long haul loosens them, and inspect the lap sealant at the rooftop perimeter each spring.",
+   "bestFor": "Big ducted coaches where app and voice control matter.",
+   "pros": [
+    "App, remote, wall panel and voice control on one unit",
+    "18,000 BTU covers long, high-ceiling floorplans",
+    "Ducted layout feeds an existing ceiling plenum",
+    "Cooling only keeps the design simple"
+   ],
+   "cons": [
+    "Needs a healthy 12V DC supply as well as shore power",
+    "No heat pump, so a furnace is still required"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0GSQKC7T7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41qX4IwZh2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08QSMT6RV",
+   "badge": "Best Value",
+   "name": "RecPro 13.5K ducted, cooling only, low amp draw",
+   "specs": [
+    "13,500 BTU",
+    "Ducted",
+    "59.7 dB claim",
+    "Cooling only"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "13,500 BTU"
+    },
+    {
+     "label": "Duct type",
+     "value": "Ducted"
+    },
+    {
+     "label": "Noise claim",
+     "value": "59.7 dB"
+    },
+    {
+     "label": "Heating",
+     "value": "Cooling only"
+    },
+    {
+     "label": "Shroud",
+     "value": "UV-resistant plastic, black"
+    }
+   ],
+   "description": "This is the straightforward answer for the most common situation in the ducted world: a mid-size trailer whose old 13.5K unit has quit. It matches the standard capacity most ducted ceilings were designed around, so the plenum, ceiling opening and thermostat conventions should line up without drama.\n\nThe quoted 59.7 dB is a maker claim for sound level, and it is louder than the heat pump RecPro units that quote 55.4 dB. If you sleep in the bedroom nearest the unit, that gap is audible. There is no heat pump either, so you are buying simple cooling hardware at the lowest cost of entry in this lineup.\n\nThe plain mechanics make it a friendly machine to live with. A single-speed style compressor means higher startup draw than the Furrion, so pair it with a soft start if your generator is marginal. Keep the evaporator filter washed monthly and clear the roof leaves before a trip.",
+   "bestFor": "Replacing a worn 13.5K ducted unit on a tight budget.",
+   "pros": [
+    "Standard 13,500 BTU size suits most ducted ceilings",
+    "Low amp draw helps on a 30 amp service",
+    "Simple cooling-only hardware is easy to service",
+    "UV-resistant shroud stands up to roof sun"
+   ],
+   "cons": [
+    "Louder claim than the heat pump RecPro models",
+    "Single-stage startup surge may need a soft start"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B08QSMT6RV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41PpZvl+hkL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H711HXWG",
+   "badge": "Best Efficient Mid-Size",
+   "name": "FOGATTI 16,000 BTU ducted, R32 refrigerant",
+   "specs": [
+    "16,000 BTU",
+    "Ducted",
+    "R32",
+    "Cooling only"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "16,000 BTU"
+    },
+    {
+     "label": "Duct type",
+     "value": "Ducted"
+    },
+    {
+     "label": "Refrigerant",
+     "value": "R32"
+    },
+    {
+     "label": "Heating",
+     "value": "Cooling only"
+    },
+    {
+     "label": "Power",
+     "value": "115V AC plus 12V DC"
+    }
+   ],
+   "description": "Sitting between the standard 13.5K and the big 18K class, this FOGATTI unit uses R32 refrigerant, which carries heat well and needs a smaller charge by weight than older R410A designs. The result is a mid-capacity ducted unit aimed at buyers who found 13.5K a little thin in summer but do not need the biggest compressor on the roof.\n\nLike its 18K sibling it expects both 115V AC and 12V DC, so budget a quick check of the house battery wiring. It is cooling only, and the white finish blends into lighter roofs. Servicing the refrigerant side needs a certified technician, which is true for every sealed system here.\n\nThe 16K size is the sweet spot for a 28 to 32 foot ducted trailer with an extra slide. Treat the condenser coil gently when cleaning, since bent fins cost airflow, and re-seat the ceiling gasket if you ever pull the unit.",
+   "bestFor": "Mid-size ducted trailers that outgrow a 13.5K unit.",
+   "pros": [
+    "R32 refrigerant keeps the charge smaller by weight",
+    "16,000 BTU fills the gap between 13.5K and 18K",
+    "White shroud suits light roofs",
+    "Ducted fit works with an existing plenum"
+   ],
+   "cons": [
+    "Needs a 12V DC supply alongside shore power",
+    "Cooling only; no built-in heat"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H711HXWG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gb8cJLdEL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08LZX88JM",
+   "badge": "Best Heat Pump Option",
+   "name": "RecPro 15K heat pump, ducted or non-ducted fit",
+   "specs": [
+    "15,000 BTU",
+    "Heat pump",
+    "55.4 dB claim",
+    "Dual fit"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "15,000 BTU"
+    },
+    {
+     "label": "Duct type",
+     "value": "Ducted or non-ducted"
+    },
+    {
+     "label": "Heating",
+     "value": "Built-in heat pump"
+    },
+    {
+     "label": "Noise claim",
+     "value": "55.4 dB"
+    },
+    {
+     "label": "Voltage",
+     "value": "110 to 120V"
+    }
+   ],
+   "description": "The unusual selling point here is flexibility: RecPro lists this 15,000 BTU unit as ducted or non-ducted, so one model can serve a ducted rig now and a different ceiling later. It also adds a built-in heat pump, which gives spring and fall warmth without lighting the furnace.\n\nThe heat pump is a mild-weather feature, not a replacement for propane, since heat pump output falls as outdoor temperature approaches freezing. Its 55.4 dB sound figure is a maker claim and sits quieter than the cooling-only 13.5K, so it is the one to look at for bedroom-side placement. Against the Furrion it lacks variable-speed smoothing.\n\nFlexible mounting makes it a decent backup if you are unsure what the previous owner installed. Check that your thermostat or ADB panel is compatible before ordering, wipe the evaporator filter monthly, and lubricate nothing on the sealed compressor side.",
+   "bestFor": "Buyers who want a heat pump and a ceiling fit that is not locked in.",
+   "pros": [
+    "Heat pump adds shoulder-season warmth",
+    "Dual ducted or non-ducted application",
+    "Quieter sound claim than the cooling-only RecPro",
+    "15,000 BTU is a good all-round size"
+   ],
+   "cons": [
+    "Heat pump output drops near freezing",
+    "Fixed-speed compressor means a harder startup"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B08LZX88JM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41D6ubi4FPL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Match the ceiling plenum",
+   "explanation": "A ducted unit hands cold air to a plenum in the roof opening and relies on your existing duct network from there. If your coach has a single center ceiling assembly instead, a ducted unit cannot be dropped in. Look at the ceiling from inside before shopping: ducted rigs have a rectangular air-distribution box with branching trunks. The Furrion Chill Cube 18K and the RecPro 13.5K both fit this layout, while the RecPro 15K dual model is the one that serves both."
+  },
+  {
+   "criterion": "Capacity versus coach length",
+   "explanation": "More BTU is not automatically better, because an oversized unit short-cycles and leaves the air clammy. A 13,500 BTU unit like the RecPro cools most 25 to 30 foot trailers, 15,000 to 16,000 BTU such as the FOGATTI 16K suits a longer coach with a slide, and 18,000 BTU is for the largest rigs. Pick based on the sun load and how many slides you carry, not on the biggest number."
+  },
+  {
+   "criterion": "Compressor startup behavior",
+   "explanation": "The compressor start is the heaviest electrical moment, which decides whether your generator survives. A variable-speed compressor like the Furrion ramps up gradually. The single-stage RecPro and FOGATTI units draw a bigger surge. If your generator is marginal, a soft start capacitor is the cheapest fix and often worth buying alongside the unit."
+  },
+  {
+   "criterion": "Control board and 12V needs",
+   "explanation": "The FOGATTI 16K and 18K need both 115V AC and 12V DC, because the control board takes its low-voltage power from the coach battery. A drained house battery stops the air conditioner from starting even with shore power connected. Confirm your wall thermostat or ADB panel works with the unit you pick, since mismatched control boards are the commonest ducted installation snag."
+  },
+  {
+   "criterion": "Heat pump or cooling only",
+   "explanation": "Cooling-only units like the FOGATTI 18K are simple and cost less, but you need another heat source. A heat pump such as the RecPro 15K adds mild-weather warmth at a fraction of an electric heater's draw. Plan around the limitation: heat pump output declines as it approaches freezing, so your furnace stays relevant for cold camps."
+  },
+  {
+   "criterion": "Noise claims in context",
+   "explanation": "Maker claims such as 55.4 dB and 59.7 dB are measured under their own conditions and do not translate directly to your bedroom. A 4 dB gap is audible as roughly a step in loudness. Ducted layouts spread the sound through the ceiling vents, so the unit's fan speed and duct length matter as much as the number."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "BTU rating",
+   "meaning": "BTU describes the rated cooling capacity under a standard test, not what your coach will actually feel. Sun load, insulation and slides change the real result.",
+   "watchFor": "Do not step up to 18K just because the RecPro 13.5K seems modest; short-cycling hurts comfort."
+  },
+  {
+   "spec": "Ducted versus non-ducted",
+   "meaning": "Ducted units feed a ceiling plenum and duct runs, while non-ducted units use a single ceiling assembly. The mounting and the interior parts differ.",
+   "watchFor": "The RecPro 15K lists both fits, but the other four here are ducted only."
+  },
+  {
+   "spec": "Variable-speed compressor",
+   "meaning": "A variable-speed compressor changes its output instead of cycling on and off, which cuts startup surge and holds temperature steadier. It adds electronics and cost.",
+   "watchFor": "Only the Furrion Chill Cube carries this feature in the lineup."
+  },
+  {
+   "spec": "Noise in dB",
+   "meaning": "Decibels are logarithmic, so a few dB is a noticeable change. Maker claims follow no shared standard.",
+   "watchFor": "The 59.7 dB RecPro versus the 55.4 dB RecPro is the clearest gap in this group."
+  },
+  {
+   "spec": "Refrigerant",
+   "meaning": "R32 and R410A are common RV refrigerants. R32 carries heat efficiently and needs a smaller charge by weight.",
+   "watchFor": "The FOGATTI 16K calls out R32; the others do not list it, so check before purchase."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Duct compatibility",
+   "description": "We checked that each unit is a true ducted design or lists a ducted fit, since a mismatch means a ceiling rebuild. Only the RecPro 15K dual model offers both. We discounted listings that did not make the ducted application clear."
+  },
+  {
+   "title": "Startup load",
+   "description": "We looked at compressor design as the main driver of generator strain, placing the variable-speed Furrion ahead of the single-stage RecPro units. Capacity from 13,500 to 18,000 BTU shaped how much startup help each needs. We noted where a soft start is the sensible add-on."
+  },
+  {
+   "title": "Control and power requirements",
+   "description": "We read the spec sheets for 12V DC needs, wall panel compatibility and app control. The FOGATTI units need both 115V AC and 12V DC. We favored products whose control story is clear."
+  },
+  {
+   "title": "Noise claims",
+   "description": "We compared the stated sound levels, 55.4 dB against 59.7 dB, as maker claims rather than measurements. Duct length and fan speed shift the real noise, so we treated the claims as a rough guide. Bedroom proximity was the tiebreaker."
+  },
+  {
+   "title": "Year-three ownership",
+   "description": "We considered filter access, condenser cleaning and refrigerant servicing, since sealed-system repair needs a certified technician. Simple cooling-only hardware scored for repair simplicity. Heat pump units scored for usefulness in mild weather."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Coach Length",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Under 28 ft ducted trailer",
+      "RecPro 13.5K ducted",
+      "Standard size matches most ducted ceilings"
+     ],
+     [
+      "28 to 32 ft with one slide",
+      "FOGATTI 16K ducted",
+      "R32 mid-capacity fills the gap"
+     ],
+     [
+      "Long fifth wheel, big sun load",
+      "Furrion Chill Cube 18K",
+      "Variable speed covers the distance"
+     ],
+     [
+      "Large coach with app control wanted",
+      "FOGATTI 18K ducted",
+      "App and Alexa on a big unit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest entry",
+      "RecPro 13.5K ducted",
+      "Plain cooling-only hardware"
+     ],
+     [
+      "Mid tier",
+      "FOGATTI 16K ducted",
+      "More capacity, R32 refrigerant"
+     ],
+     [
+      "Heat pump on a moderate budget",
+      "RecPro 15K heat pump",
+      "Adds mild-weather heat"
+     ],
+     [
+      "Premium",
+      "Furrion Chill Cube 18K",
+      "Variable-speed compressor"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Variable Speed vs Single Stage",
+   "cards": [
+    {
+     "label": "Variable speed",
+     "text": "The Furrion Chill Cube ramps output to the load, reducing startup surge and temperature swing. It costs more and uses more electronics."
+    },
+    {
+     "label": "Single stage",
+     "text": "The RecPro 13.5K and both FOGATTI units run at one speed and cycle on and off. They are simpler and cheaper but surge harder on startup."
+    }
+   ],
+   "note": "Pick variable speed if you run on a generator often; single stage if you camp on shore power. In a coach with a long duct run to the rear bedroom, the steadier airflow of a variable-speed unit also means fewer hot and cold swings between the front and the back."
+  },
+  {
+   "subheading": "Heat Pump vs Cooling Only",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Shoulder-season warmth",
+      "RecPro 15K heat pump",
+      "Built-in reverse cycle"
+     ],
+     [
+      "Hot climate only",
+      "RecPro 13.5K ducted",
+      "No heat needed"
+     ],
+     [
+      "Large rig, furnace already good",
+      "FOGATTI 18K ducted",
+      "Cooling only keeps it simple"
+     ],
+     [
+      "Frequent winter camping",
+      "Neither; use the furnace",
+      "Heat pumps fade near freezing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Replacing an Old Ducted Unit Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Confirm the old unit is ducted by inspecting the ceiling box, then match capacity and control board. Check whether the new unit needs a 12V DC supply."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The RecPro 13.5K is the closest like-for-like swap. The Furrion 18K is the upgrade if the coach always felt warm."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You run a generator often or have a long duct run. The Furrion Chill Cube earns its price through the softer startup and steadier cooling."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp on shore power in a mid-size rig. The RecPro 13.5K does the job without the premium."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash return-air filter",
+   "interval": "Every 4 weeks in season",
+   "why": "A ducted system pulls through one return. A clogged filter freezes the coil and weakens airflow."
+  },
+  {
+   "task": "Rinse condenser fins",
+   "interval": "Each spring",
+   "why": "Roof dust and pollen block heat rejection. Use low-pressure water and never bend the fins."
+  },
+  {
+   "task": "Check ceiling gasket",
+   "interval": "Each spring",
+   "why": "A compressed gasket leaks cold air and roof water into the duct plenum."
+  },
+  {
+   "task": "Tighten shroud and mounting bolts",
+   "interval": "Twice a year",
+   "why": "Road vibration loosens hardware. Snug bolts keep the seal even and quiet."
+  },
+  {
+   "task": "Inspect 12V control wiring",
+   "interval": "Yearly",
+   "why": "FOGATTI units need 12V DC. A corroded connection prevents startup."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I put a non-ducted unit on a ducted ceiling?",
+   "a": "Not without rework. A non-ducted unit uses a single ceiling assembly, while a ducted one feeds a plenum and duct network. Replacement parts and ceiling openings differ."
+  },
+  {
+   "q": "How big a ducted unit do I need?",
+   "a": "Most 25 to 30 foot ducted trailers do well with 13,500 BTU, longer coaches with slides suit 15,000 to 16,000, and the largest rigs use 18,000. Oversizing causes short cycling."
+  },
+  {
+   "q": "Is a variable-speed compressor worth it?",
+   "a": "On a generator it often is, because startup load is lower and temperature holds more steadily. On shore power the benefit is mostly comfort."
+  },
+  {
+   "q": "Do 12V DC requirements matter?",
+   "a": "Yes for the FOGATTI units. They need a 12V DC feed for the control board, so a drained house battery stops them even with shore power."
+  },
+  {
+   "q": "How loud is too loud for bedroom use?",
+   "a": "A few dB makes an audible difference, and the 55.4 dB RecPro is the quieter claim here than the 59.7 dB model. Duct length and fan speed change real noise, and a unit that runs longer at low speed is usually less irritating than one that cycles loudly on and off through the night."
+  },
+  {
+   "q": "Can a ducted unit with a heat pump replace my furnace?",
+   "a": "No. Heat pump output falls as the outside temperature approaches freezing, so it complements propane heat rather than replacing it. Plan on the furnace for any night forecast near freezing, and treat the heat pump as the quiet, cheap way to take the chill off."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/31wLozU45ZL._SL500_.jpg"
+}

@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-non-ducted-rv-air-conditioner",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best non ducted rv air conditioner",
+ "guideTitle": "Best Non-Ducted RV Air Conditioners (2026)",
+ "metaTitle": "Best Non-Ducted RV Air Conditioners (2026)",
+ "metaDescription": "Six non-ducted rooftop RV air conditioners compared on ceiling assembly, heat pump versus electric heat, noise claims and generator startup demands.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "13 min",
+ "expertTake": "The TOSOT 16,000 BTU heat pump is the best all-round non-ducted unit for a rig that sleeps light and camps in shoulder seasons. The RecPro 13.5K is the cheap swap for a worn unit in a mid-size trailer. Skip any of these if your ceiling has a duct plenum with branches to several vents, because these units cool through one ceiling assembly and will not feed that network.",
+ "introParagraphs": [
+  "A non-ducted rooftop air conditioner blows its air through a single ceiling assembly in the middle of the coach, with no hidden duct network. That makes the unit simpler and the interior parts cheaper, and it explains why it is the default on most travel trailers and smaller motorhomes built in the last couple of decades.",
+  "Most of the real decisions come from what sits inside that ceiling assembly and what the unit does to your electrical system. We compare how each machine heats, how loudly it claims to run, whether the interior parts come in the box and how hard its compressor hits a generator at startup."
+ ],
+ "products": [
+  {
+   "id": "B0BTRV37RN",
+   "badge": "Best Overall",
+   "name": "TOSOT 16,000 BTU RV AC heat pump, 43 dB claim, white",
+   "specs": [
+    "16,000 BTU",
+    "12,500 BTU heat",
+    "43 dB claim",
+    "Heat pump"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "16,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "12,500 BTU heat pump"
+    },
+    {
+     "label": "Noise claim",
+     "value": "43 dB"
+    },
+    {
+     "label": "Mounting",
+     "value": "Standard roof opening"
+    },
+    {
+     "label": "Shroud",
+     "value": "White"
+    }
+   ],
+   "description": "TOSOT leads with sound: a 43 dB claim that the maker says is 32 percent quieter than a standard RV unit. Pair that with 16,000 BTU of cooling and a 12,500 BTU heat pump and you get a machine aimed at people who sleep under the air conditioner and camp outside the hottest months.\n\nThe heat pump is quoted at a generous 12,500 BTU, which is enough to take the chill off in spring and fall without lighting the furnace. It does lose output as outdoor temperature falls, so it complements propane heat rather than replacing it. Against the 13.5K RecPro it brings more capacity and a quieter claim for a higher entry cost.\n\nA 16,000 BTU fixed-speed compressor is a heavy generator load, so a soft start is worth budgeting. Wash the filter often in dusty camps and check the roof gasket each spring.",
+   "bestFor": "Light sleepers who want cooling and heat in one quiet unit.",
+   "pros": [
+    "43 dB claim is the quietest sound figure here",
+    "12,500 BTU heat pump covers shoulder-season heating",
+    "16,000 BTU cooling for large coaches",
+    "Standard non-ducted roof fit"
+   ],
+   "cons": [
+    "Heat pump output falls as it nears freezing",
+    "Large fixed-speed compressor demands generator headroom"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BTRV37RN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41ciNH8rGbL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0B237WDG3",
+   "badge": "Best Value Swap",
+   "name": "RecPro 13.5K non-ducted RV AC, cooling only, black",
+   "specs": [
+    "13,500 BTU",
+    "Cooling only",
+    "59.7 dB claim",
+    "UV shroud"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "13,500 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "Cooling only"
+    },
+    {
+     "label": "Noise claim",
+     "value": "59.7 dB"
+    },
+    {
+     "label": "Shroud",
+     "value": "UV-resistant plastic"
+    },
+    {
+     "label": "Control",
+     "value": "Remote included"
+    }
+   ],
+   "description": "The RecPro is the practical swap for a failed unit on a mid-size trailer: 13,500 BTU is the capacity most non-ducted ceilings were designed around, and the interior assembly generally lines up with the existing hole. It cools only, which keeps the hardware simple and the price low.\n\nThe maker claims a low amp draw that helps on a 30 amp service, and a 59.7 dB sound level that is louder than the 43 dB TOSOT. In a bedroom directly under the unit that gap is audible. A cooling-only unit also means your furnace is still the winter plan.\n\nThe straightforward construction makes this one easy for any technician to service. A single-stage compressor surges at startup, so pair it with a soft start on a small generator. Keep the roof shroud clear of debris and wash the filter monthly.",
+   "bestFor": "Replacing a worn unit on a mid-size trailer without fuss.",
+   "pros": [
+    "Standard 13,500 BTU size fits many ceilings",
+    "Low amp draw suits a 30 amp service",
+    "Remote control and simple hardware",
+    "UV-resistant shroud material"
+   ],
+   "cons": [
+    "Louder claim than heat pump rivals",
+    "Single-stage compressor surges at startup"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0B237WDG3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41VST+roAZL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D73GJ6ZW",
+   "badge": "Best Smart Controls",
+   "name": "TURBRO 15,000 BTU non-ducted with 1,500W electric heat",
+   "specs": [
+    "15,000 BTU",
+    "1,500W heat",
+    "52 dB claim",
+    "App control"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "15,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "1,500W electric element"
+    },
+    {
+     "label": "Noise claim",
+     "value": "As low as 52 dB"
+    },
+    {
+     "label": "Control",
+     "value": "Remote and smart app"
+    },
+    {
+     "label": "Handling",
+     "value": "Lift handles"
+    }
+   ],
+   "description": "Where the TOSOT uses a heat pump, TURBRO's 15,000 BTU unit adds a 1,500 watt electric heating element. That is simpler, works in colder air than a heat pump and gives fast warmth, but it draws roughly the same current as a space heater, so it eats much of a 30 amp supply.\n\nThe maker lists noise as low as 52 dB and includes lift handles on the unit, a thoughtful touch given how heavy these things are on a roof. The ceiling assembly has an ambient light feature, and control comes through a remote or a smart app. Compared with the RecPro it gives you heat and app control for a higher purchase cost.\n\nBecause the heat is resistive, it is the better winter-edge machine in a mild climate with decent shore power. Keep the filter clean and inspect the heating element area for dust before the first cold night.",
+   "bestFor": "Cool-morning heating in shore-power rigs with app control.",
+   "pros": [
+    "1,500W element heats at lower outdoor temperatures",
+    "Lift handles ease roof installation",
+    "Remote and smart app control",
+    "15,000 BTU suits larger trailers"
+   ],
+   "cons": [
+    "Electric heat takes a large share of a 30 amp supply",
+    "Fixed-speed startup draw is heavy"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41NUyHPn7HL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DYJFMQBH",
+   "badge": "Best Complete Kit",
+   "name": "VEVOR 13,500 BTU non-ducted RV AC with distribution box",
+   "specs": [
+    "13,500 BTU",
+    "ADB included",
+    "65 dB claim",
+    "3 modes"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "13,500 BTU"
+    },
+    {
+     "label": "Interior parts",
+     "value": "Air distribution box included"
+    },
+    {
+     "label": "Noise claim",
+     "value": "65 dB"
+    },
+    {
+     "label": "Modes",
+     "value": "Auto, cool, 3-speed fan"
+    },
+    {
+     "label": "Roof opening",
+     "value": "14.25 in square"
+    }
+   ],
+   "description": "VEVOR ships this 13,500 BTU unit with the air distribution box, the ceiling assembly that many rooftop units sell separately. For a buyer starting from a bare hole or a damaged interior, that makes the box a complete installation package, which is where some of the value comes from.\n\nIt offers three modes, auto, cooling and a three-speed fan, and it fits the standard 14.25 inch roof opening. The trade is sound: the maker quotes 65 dB, the highest claim in this group and clearly louder than the 43 dB TOSOT. It is cooling only, so there is no heat pump to offset that noise.\n\nIt makes the most sense as a budget package for a seasonal rig or a first rebuild. Expect to spend time confirming the wiring and thermostat compatibility, wash the filter monthly and recheck the mounting bolts after the first trip.",
+   "bestFor": "Budget rebuilds that need the ceiling assembly in the box.",
+   "pros": [
+    "Air distribution box included in the package",
+    "Fits the standard 14.25 in roof opening",
+    "Auto, cool and three-speed fan modes",
+    "13,500 BTU is the common mid-size capacity"
+   ],
+   "cons": [
+    "65 dB claim is the loudest in this guide",
+    "Cooling only with no heat option"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LdKJ+FnNL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DM6XX7BJ",
+   "badge": "Best Variable Speed",
+   "name": "Furrion Chill Cube 18K non-ducted, variable-speed compressor",
+   "specs": [
+    "18,000 BTU",
+    "Variable speed",
+    "Non-ducted",
+    "Black"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "18,000 BTU"
+    },
+    {
+     "label": "Compressor",
+     "value": "Variable speed"
+    },
+    {
+     "label": "Duct type",
+     "value": "Non-ducted"
+    },
+    {
+     "label": "Install",
+     "value": "Bolt-on with instructions"
+    },
+    {
+     "label": "Shroud",
+     "value": "Black"
+    }
+   ],
+   "description": "The Chill Cube is the only unit here built around a variable-speed compressor, which varies its output instead of cycling between full and off. That produces a gentler startup, steadier temperature and less wear on a generator, and it is the reason this 18,000 BTU machine can be justified despite its price.\n\nThe maker positions it as higher capacity and more efficient than standard units, and installation is a bolt-on job with a clear guide. At 18,000 BTU it suits large coaches and sun-baked roofs, and it is overkill for a small trailer, where a smaller fixed-speed unit like the RecPro costs less.\n\nThe electronics on a variable-speed unit want stable power, so a clean pedestal or inverter generator is the ideal pairing. Rinse the condenser from the roof once a season and replace the filter when it frays.",
+   "bestFor": "Large coaches that want steady cooling and soft starts.",
+   "pros": [
+    "Variable-speed compressor eases startup",
+    "18,000 BTU for big coaches in hot climates",
+    "Bolt-on installation with a clear guide",
+    "Steadier indoor temperature than cycling units"
+   ],
+   "cons": [
+    "Capacity is wasted on small trailers",
+    "Premium cost over standard units"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DM6XX7BJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31WqI6q+x3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GS61QXSK",
+   "badge": "Best Large Heat Pump Value",
+   "name": "LAOFINA 18,000 BTU non-ducted heat pump, 50 dB claim",
+   "specs": [
+    "18,000 BTU",
+    "Heat pump",
+    "50 dB claim",
+    "115V plus 12V"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "18,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "Heat pump"
+    },
+    {
+     "label": "Noise claim",
+     "value": "50 dB"
+    },
+    {
+     "label": "Power",
+     "value": "115V AC plus 12V DC"
+    },
+    {
+     "label": "Duct type",
+     "value": "Non-ducted"
+    }
+   ],
+   "description": "LAOFINA offers 18,000 BTU with a heat pump and a quoted 50 dB, making it the biggest heat pump unit in the lineup. For a large trailer or a Class A that needs capacity and shoulder-season heat, it covers both without the electric-element draw of the TURBRO.\n\nThe key condition is power: it requires both a 115V AC connection and a 12V DC feed, so the house battery must be in good shape and the disconnect switched on. The 50 dB claim sits between the TOSOT's 43 and the VEVOR's 65, so noise is mid-pack.\n\nCompared with the Furrion it offers heat and a lower expected cost, but not variable-speed smoothing. A large fixed-speed compressor wants a soft start on a generator. Check the DC feed after any battery work and wash the filter regularly.",
+   "bestFor": "Large coaches wanting capacity plus heat pump warmth.",
+   "pros": [
+    "18,000 BTU with a heat pump included",
+    "50 dB claim is mid-pack quiet",
+    "Non-ducted roof fit for standard coaches",
+    "Heat pump avoids heavy electric heat draw"
+   ],
+   "cons": [
+    "Needs both 115V AC and 12V DC to run",
+    "Large fixed-speed compressor surges at startup"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GS61QXSK?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3173SQFMDaL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Ceiling assembly and fit",
+   "explanation": "Non-ducted units cool through one center ceiling assembly, and many sell the interior parts separately. The VEVOR includes its distribution box, while the TOSOT and RecPro units rely on compatible interior hardware. Standard roof openings are about 14 by 14 inches, but the interior panel must also match, and a panel from a different brand often misses on bolt pattern, thermostat wiring or ceiling thickness. Inspect the ceiling before ordering and confirm whether the box is in the package."
+  },
+  {
+   "criterion": "Heat pump versus electric element",
+   "explanation": "A heat pump such as the TOSOT's 12,500 BTU system moves heat and sips power in mild weather, but it weakens near freezing. An electric element like the TURBRO's 1,500 watt heater works in colder air but uses a big part of a 30 amp supply. Decide whether you need efficiency in mild weather or raw heat in cold air."
+  },
+  {
+   "criterion": "Generator startup demand",
+   "explanation": "A single-stage 13,500 BTU compressor such as the RecPro's can need a bigger generator than the running watts suggest. The variable-speed Furrion avoids that surge. A 16,000 or 18,000 BTU fixed-speed unit like the LAOFINA is the toughest start of all, and a soft start is the inexpensive remedy."
+  },
+  {
+   "criterion": "Noise claims and bedroom position",
+   "explanation": "Claims run from 43 dB on the TOSOT to 59.7 dB on the RecPro and 65 dB on the VEVOR. The ceiling assembly is directly above wherever you sleep or sit, so a 15 dB gap is a real difference. A quieter unit usually costs more, and maker figures follow no common standard."
+  },
+  {
+   "criterion": "12V control power",
+   "explanation": "The LAOFINA needs both 115V AC and 12V DC, so a dead house battery stops it. Other units draw low-voltage control power from the same coach system. Check the battery and the disconnect before blaming the air conditioner, and never plan a lithium conversion without confirming the control board still gets 12V."
+  },
+  {
+   "criterion": "Weight and roof handling at install",
+   "explanation": "Rooftop units typically weigh between 70 and 110 pounds, and lifting one safely takes two people. The TURBRO adds lift handles for that reason. Confirm that your roof structure and ladder arrangement can handle the weight, since a dropped unit damages both the unit and the roof membrane. Lift it with straps or a pulley from the ground rather than carrying it up a ladder, and wait for a dry, calm day so wind cannot catch the shroud like a sail."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Heat pump BTU",
+   "meaning": "The heating capacity of a reverse-cycle system, measured at mild outdoor temperatures. It falls as the outdoor air gets colder.",
+   "watchFor": "The TOSOT quotes 12,500 BTU, but expect far less near freezing."
+  },
+  {
+   "spec": "Electric element watts",
+   "meaning": "A resistive heater is rated in watts, and 1,500 watts equals about 12.5 amps at 120 volts. It heats in any weather.",
+   "watchFor": "The TURBRO's element can take a big share of a 30 amp service."
+  },
+  {
+   "spec": "Air distribution box",
+   "meaning": "The ceiling assembly that diffuses air into the cabin and holds the controls. Some units sell it separately.",
+   "watchFor": "Only the VEVOR here includes it in the package."
+  },
+  {
+   "spec": "Variable-speed compressor",
+   "meaning": "A compressor that changes speed to match the load instead of cycling on and off. It starts gently.",
+   "watchFor": "The Furrion Chill Cube is the only one in this group, so everything else here starts at full speed and benefits from a soft start capacitor on a modest generator."
+  },
+  {
+   "spec": "dB claim",
+   "meaning": "A maker-stated sound level, usually at the lowest fan speed. It is not a shared standard.",
+   "watchFor": "The 22 dB gap between the TOSOT and VEVOR is the widest in the group."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Ceiling assembly",
+   "description": "We checked whether each unit lists a non-ducted application and whether the interior assembly is included. The VEVOR scored highest for completeness. We discounted listings that did not make the interior parts clear."
+  },
+  {
+   "title": "Heating method",
+   "description": "We compared heat pump systems with the electric element of the TURBRO. We weighed efficiency in mild weather against capability in the cold. Cooling-only units were marked for simplicity."
+  },
+  {
+   "title": "Startup load",
+   "description": "We looked at compressor type and capacity, from 13,500 BTU single-stage to 18,000 BTU variable-speed. The Furrion scored for gentle starts. Large fixed-speed units were flagged for soft start planning."
+  },
+  {
+   "title": "Noise claims",
+   "description": "We compared stated levels from 43 dB to 65 dB as maker figures. Claims were not treated as measurements. Bedroom proximity decided the weighting."
+  },
+  {
+   "title": "Power requirements",
+   "description": "We noted 12V DC requirements and amp draw claims. The LAOFINA was flagged for its dual-power needs. Units that run on shore power alone were simpler."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Coach Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Mid-size trailer swap",
+      "RecPro 13.5K",
+      "Standard capacity"
+     ],
+     [
+      "Large trailer, light sleeper",
+      "TOSOT 16K",
+      "Quiet with heat pump"
+     ],
+     [
+      "Large coach, shore power",
+      "TURBRO 15K",
+      "Electric heat and app"
+     ],
+     [
+      "Big coach on generator",
+      "Furrion Chill Cube 18K",
+      "Variable-speed start"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay with parts",
+      "VEVOR 13.5K",
+      "Includes ceiling box"
+     ],
+     [
+      "Low outlay, plain cooling",
+      "RecPro 13.5K",
+      "Simple cooling-only"
+     ],
+     [
+      "Mid-range heat pump",
+      "LAOFINA 18K",
+      "Large capacity with heat pump"
+     ],
+     [
+      "Premium",
+      "Furrion Chill Cube 18K",
+      "Variable-speed compressor"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Heat Pump vs Electric Heat",
+   "cards": [
+    {
+     "label": "Heat pump",
+     "text": "The TOSOT and LAOFINA move heat efficiently in mild weather and draw modest power, but lose output near freezing."
+    },
+    {
+     "label": "Electric element",
+     "text": "The TURBRO's 1,500 watt element heats in cold air but consumes a large share of a 30 amp supply."
+    }
+   ],
+   "note": "Heat pump for shoulder seasons; element for a quick warm-up on strong shore power. Either way, plan on the furnace for the coldest nights, because neither system is meant to carry a winter camp on its own."
+  },
+  {
+   "subheading": "Quiet Priority",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Quietest claim",
+      "TOSOT 16K",
+      "43 dB"
+     ],
+     [
+      "Quiet with big capacity",
+      "LAOFINA 18K",
+      "50 dB"
+     ],
+     [
+      "Quiet with app control",
+      "TURBRO 15K",
+      "52 dB"
+     ],
+     [
+      "Noise less important",
+      "VEVOR 13.5K",
+      "65 dB, includes parts"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Replacing a Failed Unit Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "The same ceiling type, the same capacity and a compatible control board. Confirm whether the box is included and whether 12V DC is needed."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The RecPro 13.5K is the closest like-for-like swap. The VEVOR is the pick when the interior parts also need replacing."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You sleep under the unit or run a generator often. The TOSOT and Furrion earn their cost in noise and startup."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp occasionally on shore power. The RecPro or VEVOR is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash filter",
+   "interval": "Monthly in season",
+   "why": "A single ceiling assembly pulls through one filter. A clogged filter ices the coil."
+  },
+  {
+   "task": "Check roof gasket",
+   "interval": "Each spring",
+   "why": "A compressed gasket leaks cold air and water. Replace it if it has flattened. Pinch a corner with your fingers: a healthy foam gasket springs back, while a tired one stays creased and lets air and water slip past the bolts."
+  },
+  {
+   "task": "Clean condenser",
+   "interval": "Twice a year",
+   "why": "Pollen and dust reduce heat rejection. Use low-pressure water. Lift the shroud when you can, and rinse from the inside out so debris leaves the way it came in rather than packing deeper into the fins."
+  },
+  {
+   "task": "Tighten mounting bolts",
+   "interval": "Twice a year",
+   "why": "Vibration loosens hardware. Even compression keeps the seal tight."
+  },
+  {
+   "task": "Inspect 12V feed",
+   "interval": "Yearly",
+   "why": "The LAOFINA needs 12V DC. A corroded connection stops it from starting."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I know my RV is non-ducted?",
+   "a": "Look at the ceiling. A single large vent assembly in the middle means non-ducted. Branching vents spread along the ceiling indicate a ducted system."
+  },
+  {
+   "q": "Is 13,500 BTU enough?",
+   "a": "For most mid-size trailers, yes. Large coaches or sunny roofs may want 15,000 BTU or more. The deciding factors are sun exposure, the number of slides and how well the roof is insulated, so a dark roof in a southern state asks more of the machine than the same trailer parked under trees in the north."
+  },
+  {
+   "q": "Will a heat pump replace my furnace?",
+   "a": "No. Heat pump output falls as it nears freezing, so keep the furnace for cold nights."
+  },
+  {
+   "q": "Do I need a soft start?",
+   "a": "On a small generator, usually. Fixed-speed compressors surge at startup, while the Furrion's variable-speed design does not."
+  },
+  {
+   "q": "Why does the LAOFINA need 12V DC?",
+   "a": "Its control board and fans take low-voltage power from the coach battery. A dead battery or an open disconnect stops it."
+  },
+  {
+   "q": "Are maker noise claims reliable?",
+   "a": "They are a rough guide only, since each maker uses its own method. A 43 dB claim versus a 65 dB claim does indicate a real difference. If quiet matters most, favor the unit with the lowest claim and the heat pump, since a machine that cycles less often is also less intrusive."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41ciNH8rGbL._SL500_.jpg"
+}

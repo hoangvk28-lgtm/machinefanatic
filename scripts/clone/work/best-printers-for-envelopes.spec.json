@@ -1,0 +1,600 @@
+{
+ "guideSlug": "best-printers-for-envelopes",
+ "categorySlug": "home-machines",
+ "mainKeyword": "printers for envelopes",
+ "guideTitle": "Best Printers for Envelopes (2026)",
+ "metaTitle": "Best Printers for Envelopes in 2026",
+ "metaDescription": "Six printers that handle envelopes well, from compact Brother lasers to ink tank and pigment inkjet models, with paper path and jam advice for mailers.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg",
+ "expertTake": "The Brother HL-L2405W is the best overall pick because a mono laser with a simple paper path treats envelopes gently and never dries out between mailings. The Canon imageCLASS LBP6030w is the value pick for the occasional mailer. If you only address a few envelopes a year, hand writing or a label sheet beats buying anything.",
+ "introParagraphs": [
+  "Envelopes are the awkward guests of the printer world. They are thick at the folded edges, thin at the flap, glued in places, and they have to bend through a paper path built for flat sheets, so the printer you buy decides whether mailing day is quick or a string of jams.",
+  "Most home and small office users do not need a special envelope machine. They need a printer with a forgiving paper path, a rear or manual feed that avoids tight curves, and the right ink or toner for the job, because heat, moisture and smearing behave differently on envelope stock."
+ ],
+ "products": [
+  {
+   "id": "B0CPL7HRQN",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Brother HL-L2405W Wireless Compact Monochrome Laser Printer",
+   "price": "",
+   "specs": [
+    "Mono laser",
+    "Wireless",
+    "Compact",
+    "Mobile app"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Monochrome laser"
+    },
+    {
+     "label": "Wireless",
+     "value": "Yes"
+    },
+    {
+     "label": "Functions",
+     "value": "Print only"
+    },
+    {
+     "label": "Mobile",
+     "value": "Brother Mobile Connect"
+    },
+    {
+     "label": "Best use",
+     "value": "Home office mailing"
+    }
+   ],
+   "description": "The HL-L2405W is a small monochrome laser that fuses toner onto paper with heat and pressure, which gives sharp black text on an envelope address block and no smearing risk from damp ink. Because it is single function and compact, the paper path is short and uncomplicated, which helps when you feed a stiff envelope.\n\nThe compromise is that it only prints black, so a colored return logo needs another route. Against the DCP-L2640DW, you lose the scanner, copier and duplex, which suits an envelope buyer who only needs clean addresses and a few letters.\n\nIn ownership, laser toner does not dry out between mailings, a real advantage for people who print envelopes in bursts around holidays or tax season. Keep envelopes flat and stored in a sealed box, and hand feed one at a time rather than stacking a heap, because lasers fuse with heat and a cheap envelope with a glue-heavy flap can seal itself during the pass.",
+   "bestFor": "A home office that prints black text addresses and letters in bursts.",
+   "pros": [
+    "Dry toner avoids smearing on envelope stock",
+    "Short paper path suits stiff media",
+    "Compact and quick to set up",
+    "No dried ink between infrequent jobs"
+   ],
+   "cons": [
+    "Black and white only",
+    "No scanner or copier",
+    "Hot fuser can seal cheap glue flaps"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CPL7HRQN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31n0Y8gzpfL._SL500_.jpg"
+  },
+  {
+   "id": "B0CPLFTPCV",
+   "rank": 2,
+   "badge": "Best All-in-One Laser",
+   "name": "Brother DCP-L2640DW Wireless Monochrome Multifunction Laser",
+   "price": "",
+   "specs": [
+    "Mono laser",
+    "Up to 36 ppm",
+    "Duplex",
+    "Scan and copy"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Monochrome laser MFP"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 36 ppm"
+    },
+    {
+     "label": "Duplex",
+     "value": "Yes"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, copy, scan"
+    },
+    {
+     "label": "Best use",
+     "value": "Small business mailings"
+    }
+   ],
+   "description": "The DCP-L2640DW adds a scanner, copier and duplex to the same Brother laser idea and rates its printing up to 36 pages per minute. For a small business that prints invoices, then envelopes for the same mailing, the single machine saves desk space and a second device.\n\nThe tradeoff is size and cost versus the HL-L2405W, since the scanner module adds bulk and the heavier body takes more shelf. Duplex is irrelevant for envelopes, so the extra money is spent on features you use for paperwork rather than the mailing itself.\n\nOwners should keep in mind that duplex paths and scanner glass collect dust, so clean the rollers when you notice skewed feeds. Use the manual feed path for envelopes where the model provides it and keep the tray for plain paper, which separates the two jobs and cuts the jam risk of mixing media in a single tray.",
+   "bestFor": "Small businesses that mail invoices and need a scanner and copier too.",
+   "pros": [
+    "Up to 36 ppm for letters and statements",
+    "Scanner, copier and duplex included",
+    "Wireless and mobile printing",
+    "Dry toner for crisp address blocks"
+   ],
+   "cons": [
+    "Bulkier than the single function sibling",
+    "Black and white only",
+    "Duplex adds nothing for envelopes"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CPLFTPCV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg"
+  },
+  {
+   "id": "B00K5UZO0Q",
+   "rank": 3,
+   "badge": "Best Value",
+   "name": "Canon imageCLASS LBP6030w Wireless Monochrome Laser",
+   "price": "",
+   "specs": [
+    "Mono laser",
+    "19 ppm",
+    "Wireless",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Monochrome laser"
+    },
+    {
+     "label": "Speed",
+     "value": "Up to 19 ppm"
+    },
+    {
+     "label": "Wireless",
+     "value": "Yes"
+    },
+    {
+     "label": "Warranty",
+     "value": "1 year limited"
+    },
+    {
+     "label": "Best use",
+     "value": "Light mailings"
+    }
+   ],
+   "description": "The LBP6030w is a single function laser rated up to 19 pages per minute, with a compact body made for a home, school or small office desk. It has been a long-running budget laser, and its simple design means fewer parts that can jam on an irregular envelope.\n\nCompared with the Brother HL-L2405W, it is older and has a plainer feature set, so the mobile and setup experience is less polished. If a few envelopes a month are all you do, that difference is small and the lower cost matters more.\n\nIt is straightforward to own because it has no scanner or duplex to maintain. Check that Canon still supplies the toner cartridge you need, keep envelopes in their box until use, and feed them with the flap side facing the way the manual says, since reversing them is the most common cause of crumpled corners.",
+   "bestFor": "Occasional mailers who want the lowest cost laser.",
+   "pros": [
+    "Low cost entry laser",
+    "Up to 19 ppm is enough for addresses",
+    "Compact footprint",
+    "Simple mechanism with few parts"
+   ],
+   "cons": [
+    "Older, plainer feature set",
+    "Black and white only",
+    "Setup less polished than newer models"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00K5UZO0Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41GFXE7NdOL._SL500_.jpg"
+  },
+  {
+   "id": "B0H6NK9NF2",
+   "rank": 4,
+   "badge": "Best Pigment Inkjet",
+   "name": "Epson Workforce Pro WF-4935 Wireless All-in-One 50-Page ADF",
+   "price": "",
+   "specs": [
+    "Pigment inkjet",
+    "Duplex",
+    "50-page ADF",
+    "Fax"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Color inkjet MFP"
+    },
+    {
+     "label": "Ink",
+     "value": "DURABrite pigment"
+    },
+    {
+     "label": "ADF",
+     "value": "50 pages"
+    },
+    {
+     "label": "Duplex",
+     "value": "Auto 2-sided"
+    },
+    {
+     "label": "Best use",
+     "value": "Color business mailings"
+    }
+   ],
+   "description": "The WF-4935 uses heat-free PrecisionCore printing with pigment ink, which is the property that matters for envelopes because pigment sits on the surface and resists smearing and water. It also adds a 50 page document feeder, duplex, scan, copy and fax for a full small office.\n\nThe tradeoff against a laser is idle behavior and per-page cost: inkjets need regular use to keep nozzles open, and the machine is larger than the Brothers. Against the Canon MegaTank G3270, the Epson is aimed at office workloads rather than lowest ink cost.\n\nPlan for the inkjet routine: print a page every week or two, feed envelopes one at a time, and let the ink dry for a few moments before stacking. Color logos on envelopes look better here than on any laser in this list, so a business with a branded return address gets real value.",
+   "bestFor": "Offices that want color logos on envelopes and a full feature set.",
+   "pros": [
+    "Pigment ink resists smear and water",
+    "Color return addresses and logos",
+    "50 page feeder and duplex",
+    "Fax and scan for a full office"
+   ],
+   "cons": [
+    "Needs regular use to avoid clogs",
+    "Larger and pricier than the compact lasers",
+    "Per page cost varies by ink"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0H6NK9NF2?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31TWm0u+81L._SL500_.jpg"
+  },
+  {
+   "id": "B0BSMSYM9N",
+   "rank": 5,
+   "badge": "Best Ink Tank",
+   "name": "Canon MegaTank G3270 Wireless All-in-One Refillable Tank",
+   "price": "",
+   "specs": [
+    "Ink tank",
+    "Wireless",
+    "Print/copy/scan",
+    "Low ink cost"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Refillable ink tank"
+    },
+    {
+     "label": "Yield",
+     "value": "6,000 black / 7,700 color"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, copy, scan"
+    },
+    {
+     "label": "Wireless",
+     "value": "Yes"
+    },
+    {
+     "label": "Best use",
+     "value": "High volume mailers at low cost"
+    }
+   ],
+   "description": "The G3270 uses refillable ink tanks instead of cartridges, and Canon rates one set of inks at up to 6,000 black and 7,700 color pages. For a mailer who prints lots of envelopes and letters, that yield pushes running cost far below a cartridge inkjet.\n\nThe tradeoff is speed and a slower first page compared with a laser, plus a larger body to house the tanks. Next to the Epson WF-4935, it lacks the office feeder and duplex, so it fits home mailing rather than a busy office.\n\nOwnership means filling tanks carefully from bottles and keeping the machine used, because dye ink in a tank still dries if ignored for months. Feed envelopes singly and check the manual for the recommended envelope sizes, since ink tank printers are strict about the thickness they accept.",
+   "bestFor": "A home mailer with high volume who wants the lowest running cost.",
+   "pros": [
+    "Very large rated ink yield per set",
+    "Low cost per page for letters and envelopes",
+    "Print, copy and scan in one body",
+    "Wireless for phone and laptop"
+   ],
+   "cons": [
+    "Slower than a laser",
+    "No duplex feeder at this level",
+    "Refilling can be messy"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0BSMSYM9N?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31jPKfRqWSL._SL500_.jpg"
+  },
+  {
+   "id": "B0CKWNT1CC",
+   "rank": 6,
+   "badge": "Best for Heavy Mailing",
+   "name": "Brother HL-L5210DWT Business Laser Dual Trays Gigabit",
+   "price": "",
+   "specs": [
+    "Mono laser",
+    "Dual trays",
+    "Gigabit",
+    "Duplex"
+   ],
+   "specList": [
+    {
+     "label": "Type",
+     "value": "Business mono laser"
+    },
+    {
+     "label": "Trays",
+     "value": "Dual"
+    },
+    {
+     "label": "Network",
+     "value": "Gigabit Ethernet and wireless"
+    },
+    {
+     "label": "Duplex",
+     "value": "Yes"
+    },
+    {
+     "label": "Best use",
+     "value": "Busy small office"
+    }
+   ],
+   "description": "The HL-L5210DWT is a business-class laser with two paper trays, gigabit networking and wireless. For a mailing operation, the second tray is the useful part, since one tray holds letters and the other can hold a different stock without swapping paper mid job.\n\nIt is the largest and most expensive machine here, and it prints black only. Compared with the HL-L2405W, you pay for capacity and network control, which only matters if several people share the printer or you run long jobs.\n\nOwnership is more demanding, because a business laser has bigger consumables and a bigger footprint. Give it a fixed network address, keep spare toner, and use the manual feed or the tray the manual recommends for envelopes. If you mail only occasionally, this model is excess for the task.",
+   "bestFor": "A busy small office that shares one laser across several people.",
+   "pros": [
+    "Dual trays for mixed stock",
+    "Gigabit and wireless connectivity",
+    "Duplex for statements",
+    "Business-class build"
+   ],
+   "cons": [
+    "Largest and costliest here",
+    "Black and white only",
+    "Excess for occasional mailing"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CKWNT1CC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31lV-kCbfcL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Straight versus curved paper path",
+   "explanation": "Envelopes jam when forced through a tight bend, because the folded flap and glued seams are stiff. A short, simple path such as the single function Brother HL-L2405W treats them better than a duplex-heavy body. Look for a manual or rear feed and avoid stacking envelopes in the main tray when the manual advises against it."
+  },
+  {
+   "criterion": "Laser heat versus inkjet moisture",
+   "explanation": "Lasers fuse toner with heat, which can seal a glue flap or wrinkle a thin envelope, while inkjets add moisture that can curl paper. The Epson WF-4935 uses pigment ink that resists smear, and the Brother DCP-L2640DW fuses toner dry. Choose by envelope type: cheap glue flaps do best on inkjets, and heavy stock suits lasers."
+  },
+  {
+   "criterion": "Mono versus color output",
+   "explanation": "A black address block is all most mailers need, which makes a laser like the Canon imageCLASS LBP6030w at up to 19 ppm perfectly adequate. If your return address carries a logo, the Epson WF-4935 or Canon MegaTank G3270 gives color. Do not pay for color you will not use on an envelope."
+  },
+  {
+   "criterion": "Cost per page and idle behavior",
+   "explanation": "Ink tank models such as the Canon MegaTank G3270, rated up to 6,000 black pages per set, have the lowest running cost for heavy mailers. Lasers keep toner stable through long idle gaps, which suits seasonal mailers. Cartridge inkjets are cheap to buy and costly to run for mailing."
+  },
+  {
+   "criterion": "Feed capacity and tray options",
+   "explanation": "If you mail in batches, you want to feed more than one envelope without babysitting. The Brother HL-L5210DWT offers dual trays, while compact models take envelopes one at a time. Match the tray to your largest batch and keep envelopes in one orientation."
+  },
+  {
+   "criterion": "Envelope size and thickness limits",
+   "explanation": "Every printer lists the envelope sizes it accepts, and exceeding thickness limits causes jams and creases. Number 10 business envelopes are the usual standard, but padded or window styles are riskier. Check your envelope style against the printer's manual before buying a box of stock."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Pages per minute (ppm)",
+   "meaning": "The rated speed for plain letter pages, not envelopes. Envelopes feed slower because they are hand fed.",
+   "watchFor": "The DCP-L2640DW is rated up to 36 ppm and the LBP6030w up to 19 ppm, but envelope speed will be far lower for both."
+  },
+  {
+   "spec": "Pigment versus dye ink",
+   "meaning": "Pigment ink sits on the surface and resists water and smear. Dye ink soaks in and gives richer color but is less water resistant.",
+   "watchFor": "The WF-4935 uses pigment ink, which is the better match for envelopes that may get wet in the mail."
+  },
+  {
+   "spec": "Page yield",
+   "meaning": "The number of pages a set of ink or toner prints at standard coverage. It sets your cost per page.",
+   "watchFor": "The MegaTank G3270 is rated up to 6,000 black and 7,700 color pages, so compare yield rather than cartridge price."
+  },
+  {
+   "spec": "Duplex",
+   "meaning": "Automatic two-sided printing. It adds a second paper path.",
+   "watchFor": "The DCP-L2640DW and HL-L5210DWT include duplex, but it does nothing for envelopes and adds a path that can collect dust."
+  },
+  {
+   "spec": "Tray configuration",
+   "meaning": "The number and size of paper trays. Extra trays let you load different stocks.",
+   "watchFor": "The HL-L5210DWT has dual trays, while the HL-L2405W relies on a single feed."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Paper path suitability",
+   "description": "We evaluated how each design is likely to handle stiff, folded media, based on body type and available feed options. Compact single function lasers scored well and duplex heavy bodies lower. We cross-checked against owner feedback patterns about envelope jams."
+  },
+  {
+   "title": "Smear and moisture behavior",
+   "description": "We compared laser toner with pigment and dye inks on how they behave on envelope surfaces. The Epson WF-4935 with pigment ink scored well for water resistance, and lasers scored well for smear. This ranking follows the spec sheet and established printing knowledge."
+  },
+  {
+   "title": "Running cost",
+   "description": "We weighed yield and idle behavior across the lineup. The MegaTank G3270 at up to 6,000 black pages led on cost, and lasers led on idle tolerance. Cartridge inkjets scored lowest for heavy mailing."
+  },
+  {
+   "title": "Feature fit",
+   "description": "We considered whether extra features serve a mailer. A scanner, duplex and a 50 page feeder help an office but do little for envelopes. The Brother HL-L2405W earns a high rank because it does the job without paying for unused features."
+  },
+  {
+   "title": "Ownership effort",
+   "description": "We weighed how much upkeep each machine asks. Lasers need little, inkjets need regular use, and ink tank units need careful refilling. Easier upkeep scored higher for occasional users."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Mailing Volume",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "A few envelopes a month",
+      "Canon imageCLASS LBP6030w",
+      "Low cost laser, dry toner"
+     ],
+     [
+      "Weekly address runs",
+      "Brother HL-L2405W",
+      "Reliable compact laser"
+     ],
+     [
+      "Invoices plus envelopes",
+      "Brother DCP-L2640DW",
+      "Scanner and duplex included"
+     ],
+     [
+      "Large seasonal mailings",
+      "Canon MegaTank G3270",
+      "Lowest ink cost per page"
+     ],
+     [
+      "Shared busy office",
+      "Brother HL-L5210DWT",
+      "Dual trays and gigabit"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "Canon imageCLASS LBP6030w",
+      "Cheapest laser here"
+     ],
+     [
+      "Low",
+      "Brother HL-L2405W",
+      "Modern compact laser"
+     ],
+     [
+      "Middle",
+      "Canon MegaTank G3270",
+      "Ink tank economy"
+     ],
+     [
+      "Upper middle",
+      "Brother DCP-L2640DW",
+      "All-in-one laser"
+     ],
+     [
+      "High",
+      "Epson Workforce Pro WF-4935",
+      "Office inkjet features"
+     ],
+     [
+      "Highest",
+      "Brother HL-L5210DWT",
+      "Business laser capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Laser vs Inkjet for Envelopes",
+   "cards": [
+    {
+     "label": "Laser",
+     "text": "The Brother HL-L2405W, DCP-L2640DW, Canon LBP6030w and HL-L5210DWT fuse dry toner, which stays crisp and never dries out. Heat can seal a cheap glue flap, so use quality stock."
+    },
+    {
+     "label": "Inkjet",
+     "text": "The Epson WF-4935 and Canon MegaTank G3270 add color and avoid the heat issue. They need regular use, and fresh ink can smear if the envelope is stacked too soon."
+    }
+   ],
+   "note": "Mono address blocks go to a laser, and color logos go to an inkjet."
+  },
+  {
+   "subheading": "Color vs Black Only",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Black addresses only",
+      "Brother HL-L2405W",
+      "No cost for color"
+     ],
+     [
+      "Color return logo",
+      "Epson Workforce Pro WF-4935",
+      "Pigment color ink"
+     ],
+     [
+      "Color at low ink cost",
+      "Canon MegaTank G3270",
+      "Tank yield"
+     ],
+     [
+      "Office black plus scanning",
+      "Brother DCP-L2640DW",
+      "Mono with scanner"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Small Mailings Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a simple paper path, a manual or rear feed, a laser engine that tolerates idle weeks and low upkeep. Avoid a machine whose size and features you will not use."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Canon imageCLASS LBP6030w and Brother HL-L2405W both fit, with the Brother newer and easier to set up. Either handles a stack of addresses in minutes."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Pay extra if you share the printer, mail weekly or need color, which points to the Brother HL-L5210DWT or the Epson WF-4935."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you mail occasionally, since the Canon LBP6030w covers the task at a lower cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean pickup rollers",
+   "interval": "Every few months",
+   "why": "Dust and paper fibers reduce grip on stiff envelopes. A damp lint-free cloth restores feeding."
+  },
+  {
+   "task": "Store envelopes flat",
+   "interval": "Always",
+   "why": "Humid or curled envelopes jam more often. Keep them in a sealed box and fan them before loading."
+  },
+  {
+   "task": "Run a nozzle check",
+   "interval": "Every two weeks on inkjets",
+   "why": "Idle nozzles dry out and streak the address. A quick check or short print keeps them clear."
+  },
+  {
+   "task": "Replace toner or ink",
+   "interval": "On low warnings",
+   "why": "Running very low causes faded address blocks, which is risky for mail. Keep a spare on hand."
+  },
+  {
+   "task": "Clear paper dust",
+   "interval": "Twice a year",
+   "why": "Envelope adhesive dust builds up along the path. Gentle cleaning stops repeated jams."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Should I buy a laser or inkjet for envelopes?",
+   "a": "A laser such as the Brother HL-L2405W handles black addresses cleanly and never dries out. An inkjet such as the Epson WF-4935 adds color and avoids the heat that can seal cheap glue flaps."
+  },
+  {
+   "q": "How much should I spend?",
+   "a": "The Canon imageCLASS LBP6030w shows that a basic laser is enough for occasional mailing. Spend more only for color, duplex, a feeder or dual trays that you will actually use."
+  },
+  {
+   "q": "Do envelopes damage printers?",
+   "a": "Not if you use the recommended size and thickness and feed them as the manual says. Jams and creases come from stiff stock forced through tight paper paths."
+  },
+  {
+   "q": "Does a higher ppm help with envelopes?",
+   "a": "Barely. The DCP-L2640DW rates up to 36 ppm, but envelopes are fed one at a time, so the real speed is limited by you."
+  },
+  {
+   "q": "Are ink tank printers good for mailing?",
+   "a": "Yes for high volume. The Canon MegaTank G3270 is rated up to 6,000 black pages per set, which makes it cheap to run, though it is slower and needs regular use."
+  },
+  {
+   "q": "Which orientation should envelopes face?",
+   "a": "It varies by model, so follow the manual. Putting the flap the wrong way is a common cause of crumpled corners and jams. Run one test envelope on cheap stock first, because alignment of the address block differs between the Brother lasers and the Epson inkjet, and a misprinted premium envelope is a wasted purchase. Labels are another route for return addresses, and they should go through a laser only if they are rated for fuser heat, since weak adhesive can melt and gum up the path."
+  }
+ ],
+ "relatedGuides": []
+}

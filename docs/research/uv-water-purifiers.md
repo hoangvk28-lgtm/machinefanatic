@@ -1,0 +1,17 @@
+# UV water purifiers research
+- UV-C light damages microbe DNA so bacteria, viruses and protozoa cannot reproduce; it does not remove chemicals, metals, salt or sediment.
+- UV needs clear water: cloudy or tannin-stained water shades microbes, so pre-filter turbid water first.
+- Dose is measured in mJ/cm2; 40 mJ/cm2 is the common drinking-water design target (NSF/ANSI 55 Class A).
+- Dose depends on flow rate and contact time; a unit sized for a lower flow than your demand under-doses.
+- Pen-style units treat 1 liter in about 90 seconds and need stirring or swirling so all water passes the lamp.
+- Pens need a charged battery and a working lamp; lamp life is counted in treatments, and a dead lamp gives no warning without an indicator.
+- Pens do nothing about taste, odor or chemicals; wide-mouth bottle compatibility matters.
+- Whole-house UV sits after a sediment filter and carbon filter so the lamp sees clear water.
+- Mercury lamps typically need replacement about yearly; LED lamps claim much longer life.
+- Quartz sleeve fouls with scale; clean it or use a softener ahead of the unit.
+- UV leaves no residual disinfectant, so stored water can regrow microbes.
+- Flow sensors and shutoff delays protect against under-dosing when flow is too high.
+- Power loss stops disinfection; a solenoid or alarm is a useful safety.
+- Test well water for bacteria yearly; UV is not a cure for chemical contamination.
+- Pen travel kits: carry a spare battery or a backup tablet method.
+- Never look at an operating UV lamp; it can injure eyes and skin.

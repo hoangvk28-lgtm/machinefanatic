@@ -1,0 +1,670 @@
+{
+ "guideSlug": "best-receipt-printers-for-small-businesses",
+ "categorySlug": "home-machines",
+ "mainKeyword": "receipt printers for small businesses",
+ "guideTitle": "Best Receipt Printers for Small Businesses (2026)",
+ "metaTitle": "Best Receipt Printers for Small Business 2026",
+ "metaDescription": "80mm thermal and impact receipt printers for shops, cafes and kitchens compared on speed, ports, cutter, POS compatibility and what each cannot connect to.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "15 min",
+ "heroImage": "https://m.media-amazon.com/images/I/318ksHDb48L._SL500_.jpg",
+ "expertTake": "The Epson TM-T20IV is the pick for most small shops because it prints at up to 310 millimeters per second, offers USB, serial and Ethernet, and works with Windows, Android and iOS through Epson ePOS. The Rongta 80mm printer is the value pick for a counter that runs a Windows or Linux POS. Skip the budget wired printers if your POS is a tablet app such as Square, because several of them list that connection as unsupported.",
+ "introParagraphs": [
+  "A receipt printer is the workhorse behind a till. It turns a sale into paper in a second or two, and when it jams or refuses to talk to the point-of-sale software, the whole counter slows down. Most small shops buy an 80 millimeter thermal printer with an auto cutter and a cash drawer port.",
+  "The risks are mostly about connection, not speed. Many cheap models speak only USB or Ethernet, and some are explicit that they do not work with certain tablet POS apps. Paper width, cutter reliability, ports and software drivers decide whether a printer disappears into the background or becomes a daily headache."
+ ],
+ "products": [
+  {
+   "id": "B0FW3H4NYL",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "Epson TM-T20IV thermal receipt printer, 80 mm, 310 mm/s",
+   "amazonUrl": "https://www.amazon.com/dp/B0FW3H4NYL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318ksHDb48L._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "310 mm/s",
+    "USB, serial, Ethernet",
+    "Auto cutter",
+    "ePOS support"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "Up to 310 mm/s"
+    },
+    {
+     "label": "Ports",
+     "value": "USB, RS-232 serial, Ethernet"
+    },
+    {
+     "label": "Paper",
+     "value": "80 mm"
+    },
+    {
+     "label": "Cutter",
+     "value": "Auto cutter"
+    },
+    {
+     "label": "Platforms",
+     "value": "Windows, Android, iOS via ePOS"
+    }
+   ],
+   "description": "The TM-T20IV prints receipts at up to 310 millimeters per second on 80 millimeter paper and has an auto cutter. It offers USB, serial (RS-232) and Ethernet ports, which cover almost any POS hardware from a modern PC to an older cash register. Epson ePOS technology lets Windows, Android and iOS devices print directly, which removes the driver headaches that plague generic units.\n\nThe tradeoff is cost. It is one of the more expensive printers in this lineup, and you pay for brand support and wider software compatibility. Against the Rongta models, it offers a stronger driver ecosystem and more established service channels, though the print engine is the same direct thermal technology.\n\nOwnership is easy. Thermal paper is cheap and widely available, the cutter lasts for hundreds of thousands of cuts and drivers are stable for years. Keep the head clean with isopropyl alcohol and use paper rated for 80 millimeter thermal receipts to avoid jams. For a busy counter that cannot afford downtime, the reliability premium is worth paying.",
+   "bestFor": "Busy counters that need wide software compatibility and fast receipts.",
+   "pros": [
+    "Up to 310 mm/s print speed",
+    "USB, serial and Ethernet ports",
+    "ePOS support for Windows, Android and iOS",
+    "Strong driver and service record"
+   ],
+   "cons": [
+    "Higher cost than generic printers",
+    "No built-in Wi-Fi or Bluetooth in this model",
+    "Thermal receipts fade over time"
+   ]
+  },
+  {
+   "id": "B08V4H7T47",
+   "rank": 2,
+   "badge": "Best Value",
+   "name": "Rongta 80 mm USB thermal receipt printer, 250 mm/s, wall mountable",
+   "amazonUrl": "https://www.amazon.com/dp/B08V4H7T47?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31ZmM7etUEL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "250 mm/s",
+    "Auto cutter",
+    "Wall mount holes",
+    "USB"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "250 mm/s"
+    },
+    {
+     "label": "Cutter",
+     "value": "Auto cutter"
+    },
+    {
+     "label": "Mounting",
+     "value": "Desktop or wall hanging"
+    },
+    {
+     "label": "Interface",
+     "value": "USB"
+    },
+    {
+     "label": "Use",
+     "value": "Retail and restaurant kitchens"
+    }
+   ],
+   "description": "This Rongta printer prints at 250 millimeters per second on 80 millimeter paper and includes an auto cutter. Two hanging holes on the bottom let you mount it on a wall, which saves counter space in a kitchen or a small shop. Paper installation is easy, and it is a straightforward USB printer for a PC-based POS.\n\nThe tradeoff is compatibility. It is aimed at Windows and similar setups and does not claim support for the tablet POS apps that the Epson ePOS system covers. Against the TM-T20IV, it is slower and has a thinner support network, but it costs far less.\n\nOwnership centers on drivers and paper. Install the driver from the maker's disk or website, set the paper width and test a receipt before opening. Keep the platen clean, and keep a spare roll under the counter so a rush never meets an empty printer.",
+   "bestFor": "Small shops running a Windows or Linux POS at a low cost.",
+   "pros": [
+    "250 mm/s print speed",
+    "Wall-mountable design saves counter space",
+    "Auto cutter for clean receipts",
+    "Easy paper loading"
+   ],
+   "cons": [
+    "Not for tablet POS apps",
+    "Thinner driver and support network",
+    "USB only in this model"
+   ]
+  },
+  {
+   "id": "B0CNT2F4Q5",
+   "rank": 3,
+   "badge": "Best Kitchen Printer",
+   "name": "Rongta 80 mm thermal POS printer, USB serial Ethernet, cash drawer",
+   "amazonUrl": "https://www.amazon.com/dp/B0CNT2F4Q5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31WP4JM4puL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "USB, serial, Ethernet",
+    "ESC/POS",
+    "Cash drawer port",
+    "Wall mount"
+   ],
+   "specList": [
+    {
+     "label": "Ports",
+     "value": "USB, serial, Ethernet"
+    },
+    {
+     "label": "Command set",
+     "value": "ESC/POS"
+    },
+    {
+     "label": "Cash drawer",
+     "value": "One-button open support"
+    },
+    {
+     "label": "Cutter",
+     "value": "Auto cutter"
+    },
+    {
+     "label": "Mounting",
+     "value": "Wall hanging holes"
+    }
+   ],
+   "description": "This Rongta model supports the standard ESC/POS command set, which is the language most POS software speaks. It offers USB, serial and Ethernet connections, a cash drawer port with one-button open and an auto cutter. Wall hanging holes make it suitable for a kitchen order printer as well as a counter receipt printer.\n\nThe tradeoff is the same as other budget wired printers: no Wi-Fi or Bluetooth, and software support depends on drivers you install yourself. Against the cheaper USB-only Rongta, it adds Ethernet and serial, which helps in shops with several terminals sharing one printer.\n\nOwnership is simple. Assign a fixed IP address if you use Ethernet, so the POS always finds the printer, and keep drivers saved on a drive. A kitchen setting adds grease and steam, so wipe the head and keep the printer away from the fryer.",
+   "bestFor": "Cafes that want a kitchen order printer over Ethernet.",
+   "pros": [
+    "USB, serial and Ethernet connectivity",
+    "ESC/POS support for broad compatibility",
+    "Cash drawer port and wall mounting",
+    "Auto cutter for fast kitchen tickets"
+   ],
+   "cons": [
+    "No wireless connection",
+    "Manual driver installation",
+    "Less service support than Epson"
+   ]
+  },
+  {
+   "id": "B0H6PZNT93",
+   "rank": 4,
+   "badge": "Best Alerts",
+   "name": "Tatouhom P80E thermal receipt printer, USB, Ethernet, RJ11, alerts",
+   "amazonUrl": "https://www.amazon.com/dp/B0H6PZNT93?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31BnB+UIzqL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "203 dpi",
+    "USB, Ethernet, RJ11",
+    "RGB status lights",
+    "Buzzer"
+   ],
+   "specList": [
+    {
+     "label": "Resolution",
+     "value": "203 dpi"
+    },
+    {
+     "label": "Connections",
+     "value": "USB, Ethernet, RJ11"
+    },
+    {
+     "label": "Alerts",
+     "value": "RGB lights and loud buzzer"
+    },
+    {
+     "label": "Wireless",
+     "value": "None"
+    },
+    {
+     "label": "Cutter",
+     "value": "Auto cutter"
+    }
+   ],
+   "description": "The P80E is a wired 80 millimeter thermal receipt printer with USB, Ethernet and RJ11 connections, a cash drawer interface and an auto cutter. It prints at 203 dpi and adds RGB status lights and a loud buzzer that signal standby, working and order alerts in color, which suits a noisy kitchen where staff cannot watch a screen. It supports Windows and similar setups.\n\nThe tradeoff is that it has no Wi-Fi or Bluetooth, so tablet POS apps are out. Against the Rongta Ethernet printer, it adds visual and audible alerts, but the brand is newer and the support network thinner.\n\nOwnership is easy. Set the buzzer volume to suit the room and keep the paper path clear. For a restaurant that prints kitchen tickets, the alerts reduce missed orders more than a faster print engine would.",
+   "bestFor": "Restaurant kitchens that need visual and audible order alerts.",
+   "pros": [
+    "RGB lights and buzzer signal new orders",
+    "USB, Ethernet and RJ11 connections",
+    "203 dpi gives crisp text",
+    "Auto cutter for kitchen tickets"
+   ],
+   "cons": [
+    "No wireless connection",
+    "Newer brand with thinner support",
+    "Not for tablet POS apps"
+   ]
+  },
+  {
+   "id": "B0GY93MPXG",
+   "rank": 5,
+   "badge": "Best Bluetooth",
+   "name": "Netum NT-861 Bluetooth thermal receipt printer, 80 mm, 260 mm/s",
+   "amazonUrl": "https://www.amazon.com/dp/B0GY93MPXG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31eglzmBTuL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "260 mm/s",
+    "Bluetooth",
+    "USB and LAN",
+    "Auto cutter"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "260 mm/s"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Wired",
+     "value": "USB and LAN"
+    },
+    {
+     "label": "Paper",
+     "value": "80 mm"
+    },
+    {
+     "label": "Cutter",
+     "value": "Auto cutter"
+    }
+   ],
+   "description": "The NT-861 adds Bluetooth to an 80 millimeter thermal receipt printer, along with USB and LAN ports, a 260 millimeter per second speed and an auto cutter. Bluetooth makes it an option for shops that print from a phone or tablet app without running a cable across the counter. The wired ports give a fallback if the wireless link drops.\n\nThe tradeoff is software compatibility. Whether a given POS app supports a generic Bluetooth printer depends on the app, so confirm support before buying. Against the Epson TM-T20IV, it offers wireless but lacks the vendor-backed ePOS ecosystem.\n\nOwnership is about pairing. Keep the printer close to the device, avoid pairing too many phones and use the LAN port for the main till. Replace paper with the correct 80 millimeter thermal roll to avoid cutter jams.",
+   "bestFor": "Shops that print from a phone or tablet over Bluetooth.",
+   "pros": [
+    "Bluetooth plus USB and LAN ports",
+    "260 mm/s print speed",
+    "Auto cutter",
+    "Wired fallback if wireless drops"
+   ],
+   "cons": [
+    "POS app compatibility must be checked",
+    "No vendor ePOS ecosystem",
+    "Bluetooth pairing can be fiddly"
+   ]
+  },
+  {
+   "id": "B0D2Q1PHP4",
+   "rank": 6,
+   "badge": "Best Budget Desktop",
+   "name": "NetumScan USB 80 mm POS receipt printer, 300 mm/s, cash drawer",
+   "amazonUrl": "https://www.amazon.com/dp/B0D2Q1PHP4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31boGQCEFZL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "300 mm/s",
+    "USB",
+    "Cash drawer port",
+    "Wall mount"
+   ],
+   "specList": [
+    {
+     "label": "Speed",
+     "value": "300 mm/s"
+    },
+    {
+     "label": "Interface",
+     "value": "USB"
+    },
+    {
+     "label": "Cash drawer",
+     "value": "Supported"
+    },
+    {
+     "label": "Cutter",
+     "value": "Auto cutter"
+    },
+    {
+     "label": "Compatibility",
+     "value": "Not for Square, Clover, Shopify or phones"
+    }
+   ],
+   "description": "The NetumScan prints at 300 millimeters per second on 80 millimeter paper, with an auto cutter, a cash drawer port and wall hanging holes. The listing is explicit that it is not compatible with several tablet POS systems or with phones and tablets, so it is aimed at PC-based setups. That honesty helps buyers avoid a common purchase mistake.\n\nThe tradeoff is limited reach. It is a USB printer for a computer, and if your POS runs on a tablet, it will not work. Against the Rongta 250 mm/s unit, it is slightly faster, with a similar feature set.\n\nOwnership is minimal. Install the driver, test a receipt and keep spare paper. Because it cannot connect to many modern POS apps, confirm compatibility with your software before you buy.",
+   "bestFor": "PC-based tills that need a fast, low-cost printer.",
+   "pros": [
+    "300 mm/s print speed",
+    "Cash drawer port and wall mounting",
+    "Auto cutter",
+    "Low cost for PC-based setups"
+   ],
+   "cons": [
+    "Not compatible with many tablet POS apps",
+    "USB only",
+    "Support network is thin"
+   ]
+  },
+  {
+   "id": "B009I2ZVW8",
+   "rank": 7,
+   "badge": "Best Impact Printer",
+   "name": "Epson TM-U220B impact POS receipt printer",
+   "amazonUrl": "https://www.amazon.com/dp/B009I2ZVW8?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Yxlfq2rpL._SL500_.jpg",
+   "price": "",
+   "specs": [
+    "Impact printing",
+    "Dot matrix",
+    "Kitchen use",
+    "POS receipt"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Impact dot matrix"
+    },
+    {
+     "label": "Use",
+     "value": "Kitchen and receipts"
+    },
+    {
+     "label": "Paper",
+     "value": "Plain paper roll"
+    },
+    {
+     "label": "Strength",
+     "value": "Heat resistant"
+    },
+    {
+     "label": "Brand",
+     "value": "Epson"
+    }
+   ],
+   "description": "The TM-U220B is an impact printer, which means it strikes a ribbon through the paper rather than heating thermal paper. That matters in a hot kitchen, where thermal paper darkens from the heat of the line. Impact prints are also durable and can print through multiple layers, which suits kitchen tickets and carbon copy receipts.\n\nThe tradeoff is noise and speed. Impact printers are louder and slower than thermal models, and the text is coarser. Against the TM-T20IV, it is the better kitchen tool but a worse counter printer.\n\nOwnership centers on ribbons. Replace the ribbon when text fades, use plain paper rolls and keep the printer clear of grease. It is a niche pick for kitchens that run hot, and most counters are better served by thermal.",
+   "bestFor": "Hot kitchens where thermal paper darkens.",
+   "pros": [
+    "Impact printing resists kitchen heat",
+    "Plain paper and ribbon, no thermal fade",
+    "Durable prints for kitchen tickets",
+    "Trusted Epson build"
+   ],
+   "cons": [
+    "Louder and slower than thermal printers",
+    "Coarser text quality",
+    "Ribbon is a recurring cost"
+   ]
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "POS software compatibility",
+   "explanation": "A receipt printer must speak the language of your POS. The Epson TM-T20IV supports ePOS for Windows, Android and iOS, so it works with many tablet apps. Several budget printers list that they do not work with Square, Clover, Shopify or phones. Always check your POS vendor's compatible printer list before buying, because a printer that cannot connect is a paperweight."
+  },
+  {
+   "criterion": "Ports and connection type",
+   "explanation": "USB suits a single PC, Ethernet shares one printer between terminals and Bluetooth suits tablets. The Epson TM-T20IV, Rongta Ethernet model and Tatouhom P80E offer Ethernet, the Netum NT-861 adds Bluetooth. Cash drawer ports let the printer open a drawer when a sale completes. Pick the connection that matches your counter layout."
+  },
+  {
+   "criterion": "Print speed in context",
+   "explanation": "Rated speeds run from 250 millimeters per second on the Rongta unit to 310 on the Epson. A typical receipt is only a few inches long, so the difference is a fraction of a second. Speed matters in a high-volume kitchen with long tickets. For a boutique, any of these is fast enough."
+  },
+  {
+   "criterion": "Cutter reliability",
+   "explanation": "An auto cutter that jams stops the line. Check the rated cutter life and whether the printer clears paper dust easily. The Epson TM-T20IV is built for long cutter life, while budget printers vary. Keep the cutter area clean and avoid cheap paper that sheds dust."
+  },
+  {
+   "criterion": "Thermal versus impact",
+   "explanation": "Thermal printers use no ink and are quiet, but their paper darkens in heat and fades with time. Impact printers like the TM-U220B use a ribbon and survive hot kitchens. Most counters should use thermal, while a line near a fryer may need impact."
+  },
+  {
+   "criterion": "Support and drivers",
+   "explanation": "A printer's driver quality decides how painful setup is. Epson provides current drivers and long-term support, while generic brands rely on a disk or a website. Save your drivers on a drive, because the website may vanish. Support matters for a till that cannot go down."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "80 mm paper",
+   "meaning": "The standard receipt roll width. It gives about 72 mm of printing area.",
+   "watchFor": "All the printers here use 80 mm rolls."
+  },
+  {
+   "spec": "ESC/POS",
+   "meaning": "A command language most POS software uses. It makes printers interchangeable.",
+   "watchFor": "The Rongta models list ESC/POS support."
+  },
+  {
+   "spec": "mm/s",
+   "meaning": "Print speed in millimeters of paper per second. Higher is faster but only matters for long receipts.",
+   "watchFor": "The Epson lists 310 mm/s and the NetumScan 300 mm/s."
+  },
+  {
+   "spec": "Cash drawer port",
+   "meaning": "A connector that triggers a cash drawer to open when a sale completes.",
+   "watchFor": "Several models include one, so check the drawer type."
+  },
+  {
+   "spec": "Impact printing",
+   "meaning": "Printing by striking a ribbon against paper, as in dot matrix. It does not fade from heat.",
+   "watchFor": "The TM-U220B uses it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Compatibility",
+   "description": "We looked at the platforms each printer supports and what it explicitly does not. The Epson's ePOS support stood out, and the budget models list limits. We weighed compatibility above speed."
+  },
+  {
+   "title": "Connections",
+   "description": "We compared ports and wireless options. The Epson, Rongta Ethernet model and Tatouhom P80E offer Ethernet, and the Netum NT-861 adds Bluetooth. Single-port printers scored lower."
+  },
+  {
+   "title": "Speed and cutter",
+   "description": "We compared rated speeds and cutter claims. The Epson at 310 mm/s led, with the Netum at 300 and 260. We treated speeds as ceilings."
+  },
+  {
+   "title": "Kitchen suitability",
+   "description": "We considered wall mounting, alerts and impact printing. The Tatouhom's alerts and the TM-U220B's impact method helped in hot kitchens. Counter-only designs scored lower for kitchens."
+  },
+  {
+   "title": "Support and cost",
+   "description": "We weighed price against drivers and service. Epson scored high on support, while generic brands scored high on price. Value depends on how much downtime costs you."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Business Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Boutique or counter with tablet POS",
+      "Epson TM-T20IV",
+      "ePOS for Windows, Android and iOS"
+     ],
+     [
+      "PC-based till on a budget",
+      "Rongta 80 mm USB printer",
+      "250 mm/s with auto cutter"
+     ],
+     [
+      "Kitchen order printing",
+      "Rongta USB serial Ethernet printer",
+      "Ethernet and wall mount"
+     ],
+     [
+      "Noisy kitchen",
+      "Tatouhom P80E",
+      "RGB lights and buzzer"
+     ],
+     [
+      "Phone or tablet printing",
+      "Netum NT-861",
+      "Bluetooth"
+     ],
+     [
+      "Hot kitchen near a fryer",
+      "Epson TM-U220B",
+      "Impact printing"
+     ],
+     [
+      "Fast low-cost PC printer",
+      "NetumScan 80 mm printer",
+      "300 mm/s USB"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest cost",
+      "NetumScan 80 mm printer",
+      "USB budget model"
+     ],
+     [
+      "Low",
+      "Rongta 80 mm USB printer",
+      "Simple USB printer"
+     ],
+     [
+      "Low to mid",
+      "Netum NT-861",
+      "Bluetooth plus wired ports"
+     ],
+     [
+      "Mid",
+      "Rongta USB serial Ethernet printer",
+      "Three ports"
+     ],
+     [
+      "Mid to upper",
+      "Tatouhom P80E",
+      "Alerts and Ethernet"
+     ],
+     [
+      "Upper",
+      "Epson TM-U220B",
+      "Impact printer"
+     ],
+     [
+      "Highest",
+      "Epson TM-T20IV",
+      "Brand support and ePOS"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Wired vs Bluetooth",
+   "cards": [
+    {
+     "label": "Wired (USB, Ethernet)",
+     "text": "The Epson TM-T20IV, Rongta models, Tatouhom P80E and NetumScan connect by cable. They are reliable and fast, but they tie you to a counter and some do not work with tablets."
+    },
+    {
+     "label": "Bluetooth",
+     "text": "The Netum NT-861 adds Bluetooth for phone and tablet printing. It is convenient but depends on POS app support and pairing stability."
+    }
+   ],
+   "note": "Wired for the main till, Bluetooth for mobile selling."
+  },
+  {
+   "subheading": "Thermal vs Impact",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Quiet counter printing",
+      "Epson TM-T20IV",
+      "Fast thermal"
+     ],
+     [
+      "Cheap thermal",
+      "Rongta 80 mm USB printer",
+      "Low cost"
+     ],
+     [
+      "Heat resistant tickets",
+      "Epson TM-U220B",
+      "Impact printing"
+     ],
+     [
+      "Kitchen alerts",
+      "Tatouhom P80E",
+      "Visual and audible signals"
+     ],
+     [
+      "Mobile receipts",
+      "Netum NT-861",
+      "Bluetooth thermal"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Cafes Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A customer receipt printer at the till and a kitchen printer that survives steam and noise. Ethernet lets both share one network."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Epson TM-T20IV suits the till, and the Tatouhom P80E or Rongta Ethernet model suits the kitchen."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Your POS is a tablet app or downtime is costly. The Epson TM-T20IV justifies its cost with support and compatibility."
+    },
+    {
+     "label": "Save if",
+     "text": "You run a PC-based POS. The Rongta or NetumScan USB printers cover that need at low cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the print head",
+   "interval": "Every few rolls",
+   "why": "Paper dust and adhesive cause faded lines. Wipe with isopropyl alcohol on a swab."
+  },
+  {
+   "task": "Clean the cutter area",
+   "interval": "Monthly",
+   "why": "Paper dust causes jams. Blow out the area with compressed air."
+  },
+  {
+   "task": "Keep spare paper",
+   "interval": "Always",
+   "why": "A printer that runs out in a rush stalls the line. Stock several rolls."
+  },
+  {
+   "task": "Back up drivers",
+   "interval": "After setup",
+   "why": "Vendor sites change. Keep the driver on a drive for reinstalls."
+  },
+  {
+   "task": "Replace the ribbon",
+   "interval": "As needed on impact units",
+   "why": "Faded ribbon produces pale text. Swap it when print weakens."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Will these printers work with Square or my tablet POS?",
+   "a": "Only the Epson TM-T20IV lists ePOS support for Android and iOS. Several budget printers explicitly list that they do not work with Square, Clover, Shopify or phones. Check your POS compatibility list first."
+  },
+  {
+   "q": "How much should I budget for a receipt printer?",
+   "a": "The printer is a small expense compared with downtime. Add paper rolls, a cash drawer and spare parts. Budget printers cost less but may need more setup time."
+  },
+  {
+   "q": "How long do thermal receipts last?",
+   "a": "Thermal receipts fade over months or years, especially in heat and light. For records that must last, scan or save digital copies. Impact printing resists fade."
+  },
+  {
+   "q": "What paper do I need?",
+   "a": "These printers use 80 millimeter thermal paper rolls, except the impact TM-U220B which uses plain paper and a ribbon. Check the core and diameter limits in the manual."
+  },
+  {
+   "q": "Can one printer serve the kitchen and the till?",
+   "a": "Ethernet printers can be shared across a network, but each printer prints one job at a time. Many cafes use two printers, one at the till and one in the kitchen."
+  },
+  {
+   "q": "Do I need a cash drawer port?",
+   "a": "Only if you use a cash drawer. Most 80 millimeter printers include an RJ11 port. Check the drawer's voltage and connector type."
+  }
+ ],
+ "relatedGuides": []
+}

@@ -716,3 +716,33 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Skips (15): <3 underCap machines at Stage A: finish-nailers-under-100/150, welders-under-200, juicers-under-100, spin-mops-under-30, pellet-grills-under-300, sump-pumps-under-100, battery-chargers-under-50, robot-lawn-mowers-under-500. Writer skips: spin-mops-under-50 (manual mops), pressure-cookers-under-50 (2 electric), rv-tankless-water-heaters-under-300/500 (1-2 true RV units), lawn-aerators-under-50 (manual tools), pool-pumps-under-300 (same lineup as under-200).
 - Lineup overlap: budget guides share 3 of 4 picks with some parent guides (window AC, nugget ice, espresso, wet-dry vac); accepted as a different keyword intent. Sibling caps share at most 2 products.
 - Opener rotation pass ("The listing says it" 13, "Empty the crumb tray", "If you plan to", "Against the"); top opener now 6. tsc + build green.
+
+### Prefilter skips (2026-11-26)
+| Skipped slug | Reason |
+|---|---|
+| best-dyson-electric-mops | prefilter: only 1 distinct items match brand dyson after extra searches |
+| best-geeetech-3d-printers | prefilter: only 1 distinct items match brand geeetech after extra searches |
+| best-monoprice-3d-printers | prefilter: only 2 distinct items match brand monoprice after extra searches |
+| best-toybox-3d-printers | prefilter: only 0 distinct items match brand toybox after extra searches |
+| best-600-watt-microwaves | prefilter: only 0 distinct items match brand 600 after extra searches |
+
+### Prefilter skips (2026-11-26)
+| Skipped slug | Reason |
+|---|---|
+| best-dyson-electric-mops | prefilter: only 1 distinct items match brand dyson after extra searches |
+| best-geeetech-3d-printers | prefilter: only 1 distinct items match brand geeetech after extra searches |
+| best-monoprice-3d-printers | prefilter: only 2 distinct items match brand monoprice after extra searches |
+| best-toybox-3d-printers | prefilter: only 0 distinct items match brand toybox after extra searches |
+| best-600-watt-microwaves | prefilter: only 0 distinct items match brand 600 after extra searches |
+
+### Prefilter skips (2026-11-26)
+| Skipped slug | Reason |
+|---|---|
+| best-printers-without-ink-subscription-under-250 | prefilter: only 1 distinct items match price <= 250 after extra searches |
+
+## Round 51 (2026-11-26): 70 niche microwave, label printer, 3D printer, home printer, wet-dry vac, mop and misc guides
+- Picked low-competition long-tail slugs from the todo backlog per user request; deferred high-volume ones back to todo: label-printers, over-the-range-microwaves, robot-pool-vacuums, bambu-lab/creality/prusa/elegoo/anycubic 3d printers, water-purifiers-for-backpacking.
+- neardup.mjs 0 hits before Stage A and at Finish. Same-intent skips (16): see scripts/clone/work/r51.dup.txt.
+- Prefilter skips: dyson-electric-mops, geeetech/monoprice/toybox 3d printers, 600-watt-microwaves, printers-without-ink-subscription-under-250.
+- Writer skips (17, in skip-a/b.txt): microwaves-under-30/50; cd/foil/ghs/uv label printers; chocolate/dlp/dremel/easythreed/formlabs/jgaurora/makerbot/metal/snapmaker/ultimaker/voxelab 3d printers.
+- Lineup overlap: no pair >= 2/3 shared (max 3/5 among label printers). Opener pass: 18 repeated openers cut to <= 5; top remaining opener 9 ("What is the difference", FAQ phrasing). Audit 70/70 ok, tsc + build green.

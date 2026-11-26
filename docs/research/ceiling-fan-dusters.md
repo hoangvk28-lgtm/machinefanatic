@@ -1,0 +1,15 @@
+# Ceiling fan dusters research
+- Key traits: reach, washable head, a design that traps dust instead of scattering it.
+- Sleeve or pillowcase style heads wrap the blade and wipe both sides at once; flat or brush heads often leave dust loose.
+- Microfiber holds fine dust by static and fiber surface; chenille fibers are fluffier and good for cobwebs and ledges.
+- Match pole length to ceiling height: a 5 to 6 ft pole suits 8 to 9 ft ceilings for most adults; vaulted ceilings need 10 ft or more.
+- Telescoping poles with twist locks can slip; check lock quality and pole stiffness at full length.
+- Longer poles flex and are heavier at the tip, which tires the arms and reduces control.
+- Bendable or swivel heads reach angled blades and cobwebs in corners.
+- Turn the fan off and let it stop before dusting; wipe along the blade length from the center out.
+- Wash the head in cool to warm water, air dry, and skip fabric softener which clogs microfiber.
+- Shake or vacuum the head outside before washing to avoid dumping dust in the sink.
+- Dust drifts down; cover furniture or take dust to a trash bag with a sleeve style head.
+- Cheap aluminum poles are light but can dent; steel poles are heavier.
+- Replacement heads are often sold separately; check availability.
+- Dusting also works on high shelves, light fixtures, and vents, so a multi-use kit adds value.

@@ -1,0 +1,579 @@
+{
+ "guideSlug": "best-rv-air-conditioner-for-class-c-motorhome",
+ "categorySlug": "home-machines",
+ "mainKeyword": "best rv air conditioner for class c motorhome",
+ "guideTitle": "Best RV Air Conditioners for Class C Motorhomes (2026)",
+ "metaTitle": "Best RV Air Conditioners for Class C Motorhomes",
+ "metaDescription": "Six air conditioners for Class C motorhomes compared on weight over the cab-over, onboard generator limits, single-unit capacity and a 12V bunk-room option.",
+ "lastUpdated": "2026-11-19",
+ "readTime": "14 min",
+ "expertTake": "The Dometic FreshJet 3 13.5K black cooling-only unit is the practical Class C pick, with a lightest-version weight claim of about 64 pounds and parts you can find anywhere. The Renogy 15K is the one to buy when the bedroom is the problem and quiet is the priority. Skip the 18,000 BTU units unless your onboard generator is big enough to start them, because most Class C generators are not.",
+ "introParagraphs": [
+  "A Class C motorhome is the awkward middle child of RV cooling. It has a house body with a rooftop air conditioner, a cab-over bunk that traps heat, and an onboard generator that is smaller than the one in a Class A. The roof is shorter and the chassis is less forgiving about weight.",
+  "Most buyers should treat the generator and the roof as the limits and the BTU number as a result. A unit that cannot start on your generator is useless in a campground without hookups, and one that is too heavy strains a roof built around a lighter original. We rank picks against those two limits."
+ ],
+ "products": [
+  {
+   "id": "B0BGYWF8XS",
+   "badge": "Best Overall",
+   "name": "Dometic FreshJet 3 Series 13.5K cooling-only rooftop AC, black",
+   "specs": [
+    "13,500 BTU",
+    "About 64 lb",
+    "4 dB quieter",
+    "Cool only"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "13,500 BTU"
+    },
+    {
+     "label": "Weight claim",
+     "value": "About 64 lb, lightest version"
+    },
+    {
+     "label": "Noise claim",
+     "value": "4 dB reduction versus prior model"
+    },
+    {
+     "label": "Mode",
+     "value": "Cool only"
+    },
+    {
+     "label": "Controls",
+     "value": "None pre-installed"
+    }
+   ],
+   "description": "The cooling-only FreshJet 3 in black is Dometic's lightest design, at a claimed weight near 64 pounds, which is 14 percent lighter than its previous lightest unit. On a Class C roof that was built for a lighter original, those pounds matter, and the maker also claims a 4 dB noise reduction against earlier models.\n\nNo controls are pre-installed, so the unit relies on an existing ceiling assembly and thermostat, which makes it a swap-in for an owner replacing a failed Dometic. The 13,500 BTU capacity is the traditional Class C size and matches the generator most of these coaches carry.\n\nIt is fixed speed, so the compressor starts with a surge and a soft start capacitor is a sensible addition on an onboard generator. Against the 15K sibling it gives up capacity for lower weight and a gentler generator demand. Wash the filter often and check the gasket each spring.",
+   "bestFor": "Class C owners replacing a unit who want light weight and easy parts.",
+   "pros": [
+    "Lightest Dometic design at about 64 lb",
+    "Claimed 4 dB quieter than the previous generation",
+    "13,500 BTU matches onboard generator limits",
+    "Excellent parts and technician support"
+   ],
+   "cons": [
+    "No controls included, so it needs a compatible panel",
+    "Fixed-speed start benefits from a soft start"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0BGYWF8XS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319xnGt-yxL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H2YJDSSS",
+   "badge": "Best Quiet Heat Pump",
+   "name": "Renogy 3-in-1 RV AC with heat pump, 15,000 BTU, 43 dB",
+   "specs": [
+    "15,000 BTU",
+    "Heat pump",
+    "43 dB claim",
+    "350 CFM"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "15,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "Heat pump"
+    },
+    {
+     "label": "Noise claim",
+     "value": "43 dB"
+    },
+    {
+     "label": "Airflow",
+     "value": "350 CFM"
+    },
+    {
+     "label": "Fans",
+     "value": "Dual-motor, dual-fan"
+    }
+   ],
+   "description": "The cab-over bunk and the bedroom sit close to the roof unit in a Class C, which makes noise a real concern, and the Renogy answers with a claimed 43 dB and a dual-motor, dual-fan layout that moves 350 CFM. A heat pump adds mild-weather warmth that saves furnace runtime.\n\nAt 15,000 BTU it suits the larger Class C coaches, those 28 feet and up, with a bigger generator or reliable shore power. On a small generator the surge is the limit, so check your generator's rating before buying. Heat pump output still falls as the outdoor air approaches freezing.\n\nSet against the Dometic it gives more capacity, a quieter claim and heat in exchange for weight and cost. Wash the filter monthly, check the roof gasket every spring and confirm the control board suits your ceiling assembly.",
+   "bestFor": "Larger Class C coaches where sleeping close to the unit matters.",
+   "pros": [
+    "43 dB claim suits a bunk or bedroom near the unit",
+    "Heat pump covers mild mornings",
+    "Dual-motor, dual-fan 350 CFM airflow",
+    "15,000 BTU for larger Class C coaches"
+   ],
+   "cons": [
+    "Surge can exceed a small onboard generator",
+    "Heat pump fades near freezing"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318W06BfE3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D73GJ6ZW",
+   "badge": "Best for Cold Mornings",
+   "name": "TURBRO 15,000 BTU non-ducted with 1,500W heat, lift handles",
+   "specs": [
+    "15,000 BTU",
+    "1,500W heat",
+    "52 dB claim",
+    "Lift handles"
+   ],
+   "specList": [
+    {
+     "label": "Cooling",
+     "value": "15,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "1,500W element"
+    },
+    {
+     "label": "Noise claim",
+     "value": "As low as 52 dB"
+    },
+    {
+     "label": "Control",
+     "value": "Remote and smart app"
+    },
+    {
+     "label": "Handling",
+     "value": "Lift handles"
+    }
+   ],
+   "description": "A Class C often camps in spring and fall when the nights run cold, and TURBRO's 1,500 watt electric heating element handles that without a heat pump's weakness near freezing. It pairs with 15,000 BTU of cooling and a noise level quoted as low as 52 dB.\n\nLift handles are a real help on a Class C roof, which is lower than a Class A but still awkward to work on alone. Remote and smart-app control let you manage the cabin from the cab or the bed. The catch is amps: a 1,500 watt element draws about 12.5 amps, a heavy load on a 30 amp service or a small generator.\n\nAgainst the Renogy it heats better in the cold and costs more to run. Check your supply before relying on the element, keep the filter clean and inspect the element area for dust before the first cold night.",
+   "bestFor": "Shoulder-season campers on shore power who want reliable heat.",
+   "pros": [
+    "1,500W element heats at low outdoor temperatures",
+    "Lift handles ease roof installation",
+    "Remote and smart app control",
+    "52 dB quoted at 15,000 BTU"
+   ],
+   "cons": [
+    "Element draws about 12.5 amps",
+    "Fixed-speed start loads a small generator"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41NUyHPn7HL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DYJFMQBH",
+   "badge": "Best Complete Budget Kit",
+   "name": "VEVOR 13,500 BTU non-ducted RV AC with distribution box",
+   "specs": [
+    "13,500 BTU",
+    "ADB included",
+    "65 dB claim",
+    "3 modes"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "13,500 BTU"
+    },
+    {
+     "label": "Interior parts",
+     "value": "Air distribution box included"
+    },
+    {
+     "label": "Noise claim",
+     "value": "65 dB"
+    },
+    {
+     "label": "Modes",
+     "value": "Auto, cool, 3-speed fan"
+    },
+    {
+     "label": "Roof opening",
+     "value": "14.25 in square"
+    }
+   ],
+   "description": "A Class C that needs both a roof unit and a ceiling assembly can save money with VEVOR, which includes the air distribution box in the package. It is a standard 13,500 BTU non-ducted unit that fits the 14.25 inch roof opening and offers auto, cooling and three-speed fan modes.\n\nThe 65 dB sound claim is the loudest in this guide, and in a Class C where the unit sits over the dinette and the bunk, you will hear it. The unit is cooling only, so heating stays with the furnace. For an older coach with a tired interior assembly, the package approach is attractive.\n\nCompared with the Dometic it costs less and includes the box, but its brand support is far thinner. Fit a soft start, wash the filter and check mounting bolts after the first trip.",
+   "bestFor": "Older Class C coaches that need the interior parts too.",
+   "pros": [
+    "Air distribution box included",
+    "Standard 13,500 BTU capacity",
+    "Fits the 14.25 in roof opening",
+    "Auto, cool and fan modes"
+   ],
+   "cons": [
+    "65 dB claim is the loudest here",
+    "Thin parts and service network"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LdKJ+FnNL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H6HXTLRH",
+   "badge": "Best Large Smart Unit",
+   "name": "JULIBA 18K BTU RV AC with heat pump, WiFi and remote",
+   "specs": [
+    "18,000 BTU",
+    "Heat pump",
+    "WiFi and app",
+    "115V plus 12V"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "18,000 BTU"
+    },
+    {
+     "label": "Heating",
+     "value": "Heat pump"
+    },
+    {
+     "label": "Control",
+     "value": "Remote, app, ADB panel"
+    },
+    {
+     "label": "Power",
+     "value": "115V AC plus 12V DC"
+    },
+    {
+     "label": "Duct type",
+     "value": "Non-ducted"
+    }
+   ],
+   "description": "At 18,000 BTU, JULIBA's unit is the largest in this guide and is aimed at the biggest Class C coaches, those 30 feet and more with slides and a lot of glass. It adds a heat pump and WiFi, remote and panel control.\n\nThat capacity is also the warning. A big fixed-speed compressor demands a lot to start, and many Class C onboard generators will not manage it without a soft start. It also needs both 115V AC and 12V DC, so a weak house battery can stop it.\n\nCompared with the Renogy it offers 3,000 BTU more capacity but has no stated noise figure in the listing. Confirm your generator's rating first, then fit a soft start, wash the filter monthly and recheck the DC feed after any battery work.",
+   "bestFor": "The largest Class C coaches with strong generators.",
+   "pros": [
+    "18,000 BTU for big coaches with slides",
+    "Heat pump included",
+    "Remote, app and panel control",
+    "Non-ducted standard roof fit"
+   ],
+   "cons": [
+    "Large start may exceed a typical onboard generator",
+    "Needs 115V AC and 12V DC together"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H6HXTLRH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415ET2eiX2L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GWGP3D2G",
+   "badge": "Best Bunk Supplement",
+   "name": "Gidrox 10,000 BTU 12V DC RV AC with PTC heater",
+   "specs": [
+    "10,000 BTU",
+    "12V DC",
+    "350W average claim",
+    "40 dB sleep"
+   ],
+   "specList": [
+    {
+     "label": "Capacity",
+     "value": "10,000 BTU"
+    },
+    {
+     "label": "Voltage",
+     "value": "12V DC"
+    },
+    {
+     "label": "Average draw claim",
+     "value": "About 350W"
+    },
+    {
+     "label": "Sleep mode claim",
+     "value": "40 dB"
+    },
+    {
+     "label": "Heater",
+     "value": "PTC element"
+    }
+   ],
+   "description": "A 12V unit does not replace the main air conditioner on a Class C, but it can serve a bunk or a small bedroom when the generator is off. The Gidrox runs directly on battery power, and its maker quotes an average draw near 350 watts and a 40 dB sleep mode.\n\nThat gives a Class C owner a way to cool the cab-over without starting the generator at night. The 10,000 BTU capacity is small for a whole coach, so think of it as an auxiliary. A PTC heater adds warmth for cold mornings.\n\nIt asks for solid wiring and a large battery bank. Compared with the full-size rooftop picks it cools far less, but it is the only one that works without the generator. Size the cable generously, add a fuse and a low-voltage cutoff, and recheck terminals every season.",
+   "bestFor": "Quiet overnight cooling of a bunk without running the generator.",
+   "pros": [
+    "Runs on 12V with no generator",
+    "Quoted average draw near 350 watts",
+    "40 dB sleep mode claim",
+    "PTC heater for cold mornings"
+   ],
+   "cons": [
+    "10,000 BTU only suits a bunk or small room",
+    "Needs heavy wiring and a big battery bank"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GWGP3D2G?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Onboard generator rating",
+   "explanation": "The generator is the real ceiling on a Class C. Many coaches carry a unit around 3,000 to 4,000 watts, which can start one 13,500 BTU air conditioner but may struggle with a 15,000 or 18,000 BTU unit and a microwave. Check the generator's rated and surge watts, then choose capacity to match. A soft start often decides whether a larger unit works at all."
+  },
+  {
+   "criterion": "Roof weight and strength",
+   "explanation": "A rooftop unit weighs 70 to 110 pounds, and a Class C roof is lighter than a Class A's. The Dometic 13.5K lists about 64 pounds for its lightest version. Check the roof near the opening for soft spots and plan reinforcement if needed, since a heavy unit on a weak roof sags and leaks. Press on the ceiling panel and the roof deck around the curb; any give or crunch means water has already been in."
+  },
+  {
+   "criterion": "Cab-over heat soak",
+   "explanation": "The cab-over bunk sits above the engine and under the sun, and it is often the hottest spot in a Class C. A single roof unit cools the main cabin better than the bunk. A 12V auxiliary unit like the Gidrox or a bunk fan can solve that without a second roof opening."
+  },
+  {
+   "criterion": "Single-unit versus two-unit coach",
+   "explanation": "Most Class C coaches carry one rooftop unit, and bigger ones carry two. A single unit should be sized to the whole coach, 13,500 BTU for under 28 feet and 15,000 BTU beyond. A second unit can be smaller. Check your ceiling for a second opening before planning a pair."
+  },
+  {
+   "criterion": "Noise near the bed",
+   "explanation": "In a Class C the roof unit often sits over the dinette and the cab-over bunk, so noise reaches the sleepers. The Renogy claims 43 dB, the TURBRO 52 dB and the VEVOR 65 dB. A 20 dB gap is a large difference. Fit a snug ceiling panel and check gaskets for rattles."
+  },
+  {
+   "criterion": "Parts support on the road",
+   "explanation": "A Class C often travels farther from home than a trailer sits. An established design such as the Dometic FreshJet 3 has wide parts stocking, while a newer brand may need ordering and shipping. Weigh the price against downtime, and carry a spare capacitor and filter either way. A failed run capacitor is the most common cause of a unit that hums but does not start, and it is a cheap part to stock."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Generator rated and surge watts",
+   "meaning": "Rated watts are the continuous output, while surge watts are a brief peak used for starting motors.",
+   "watchFor": "A 15,000 BTU compressor surge may exceed a small Class C generator's surge rating."
+  },
+  {
+   "spec": "Weight",
+   "meaning": "The total mass on the roof. A heavier unit stresses a lightweight Class C roof.",
+   "watchFor": "Only the Dometic lists a weight, about 64 lb for its lightest version."
+  },
+  {
+   "spec": "Controls not included",
+   "meaning": "Some units ship without a ceiling panel or thermostat and need your existing parts.",
+   "watchFor": "The Dometic 13.5K black has no pre-installed controls."
+  },
+  {
+   "spec": "PTC heater",
+   "meaning": "A positive-temperature-coefficient element that gives quick electric warmth with simple control.",
+   "watchFor": "The Gidrox includes one; it still draws from the battery."
+  },
+  {
+   "spec": "dB claim",
+   "meaning": "A maker figure for the quietest mode. Class C roof units sit near the beds.",
+   "watchFor": "The 43 dB Renogy and the 65 dB VEVOR sit 22 dB apart."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Generator fit",
+   "description": "We matched capacity from 10,000 to 18,000 BTU to what a typical Class C generator can start. The 13,500 BTU units scored best for generator fit. Larger units were flagged as needing a soft start."
+  },
+  {
+   "title": "Roof weight",
+   "description": "We looked at the Dometic's roughly 64 lb claim against typical 70 to 110 lb units. Lighter units earned credit on a roof built for less. Lift handles on the TURBRO were noted."
+  },
+  {
+   "title": "Sleeping zone noise",
+   "description": "We compared the 43 dB Renogy with the 52 dB TURBRO and the 65 dB VEVOR. The bunk and dinette sit close to the roof unit. We treated claims as guides rather than measurements."
+  },
+  {
+   "title": "Heating options",
+   "description": "We compared heat pumps with the TURBRO's 1,500 watt element and the Gidrox's PTC heater. Climate and supply decide which is useful. Cooling-only units scored for simplicity."
+  },
+  {
+   "title": "Support and parts",
+   "description": "We considered brand parts stock and technician familiarity, favoring the Dometic. A Class C travels far, so downtime matters. Thinner support lowered the ranking of newer marques."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Coach Length",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Under 26 ft Class C",
+      "Dometic FreshJet 3 13.5K",
+      "Light weight, generator friendly"
+     ],
+     [
+      "26 to 30 ft",
+      "Renogy 15K",
+      "Quiet heat pump"
+     ],
+     [
+      "30 ft and over with strong generator",
+      "JULIBA 18K",
+      "Largest capacity"
+     ],
+     [
+      "Cab-over bunk needs extra cooling",
+      "Gidrox 10,000 BTU",
+      "12V auxiliary"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay with parts",
+      "VEVOR 13.5K",
+      "Includes ceiling box"
+     ],
+     [
+      "Mid-range, trusted",
+      "Dometic FreshJet 3 13.5K",
+      "Light and supported"
+     ],
+     [
+      "Mid-range, heat",
+      "TURBRO 15K",
+      "1,500W element"
+     ],
+     [
+      "Premium quiet",
+      "Renogy 15K",
+      "43 dB claim"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Generator vs Shore Power",
+   "cards": [
+    {
+     "label": "Generator camping",
+     "text": "The Dometic 13.5K and VEVOR 13.5K draw the least to start and suit a typical onboard generator. Add a soft start for safety."
+    },
+    {
+     "label": "Shore power",
+     "text": "The TURBRO, Renogy and JULIBA use more power but run fine on 30 or 50 amp service."
+    }
+   ],
+   "note": "Generator campers should stay at 13,500 BTU; shore-power campers can go larger."
+  },
+  {
+   "subheading": "Heat Source",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Efficient mild-weather heat",
+      "Renogy 15K",
+      "Heat pump"
+     ],
+     [
+      "Cold-weather heat on shore power",
+      "TURBRO 15K",
+      "1,500W element"
+     ],
+     [
+      "Heat plus large capacity",
+      "JULIBA 18K",
+      "Heat pump"
+     ],
+     [
+      "Bunk heat on batteries",
+      "Gidrox 10,000 BTU",
+      "PTC heater"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Cab-Over Comfort Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A bunk fan, a window cover over the cab-over and possibly a small auxiliary unit. Remember that the cab-over faces the sun and the engine."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Gidrox runs on 12V and claims 40 dB in sleep mode. A roof unit like the Renogy cools the main cabin and the bunk less."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You camp year-round or sleep near the unit. The Renogy and TURBRO repay in noise and heat."
+    },
+    {
+     "label": "Save if",
+     "text": "You camp occasionally in summer. The Dometic 13.5K or VEVOR does the job."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Wash filter",
+   "interval": "Monthly in season",
+   "why": "A Class C interior is small, so a clogged filter ices the coil fast. A quick wash prevents it."
+  },
+  {
+   "task": "Test generator under load",
+   "interval": "Before each season",
+   "why": "A generator that cannot carry the air conditioner will fail at the worst time. Exercise it with a load for an hour, and change the oil and air filter on schedule, because a generator that is neglected between trips is the usual reason an air conditioner will not start."
+  },
+  {
+   "task": "Check roof gasket and sealant",
+   "interval": "Each spring",
+   "why": "A Class C roof flexes on the road. Cracked sealant leaks into the cab-over or bedroom."
+  },
+  {
+   "task": "Tighten mounting bolts",
+   "interval": "Twice a year",
+   "why": "Vibration loosens the four bolts and shifts the gasket. Even torque keeps the seal."
+  },
+  {
+   "task": "Inspect 12V feed on dual-power units",
+   "interval": "Yearly",
+   "why": "The JULIBA needs 12V DC. A corroded terminal stops it from starting."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What size air conditioner does a Class C need?",
+   "a": "Most Class C coaches under 28 feet cool well with 13,500 BTU. Larger coaches with slides suit 15,000 BTU. The onboard generator often limits the choice before the cooling does."
+  },
+  {
+   "q": "Can my Class C generator start a 15,000 BTU unit?",
+   "a": "Possibly, with a soft start. A typical 3,000 to 4,000 watt generator may struggle with the surge of a fixed-speed 15,000 BTU compressor. Check the generator's surge rating, and test it by starting the unit with the usual refrigerator and converter loads already running, since the real startup happens in company, not in a lab."
+  },
+  {
+   "q": "Why is my cab-over so hot?",
+   "a": "It sits above the engine and under the sun, with thin insulation. A bunk fan, a window cover and an auxiliary unit help more than a bigger roof unit. Parking with the cab facing away from the afternoon sun is free and often drops the bunk temperature by several degrees."
+  },
+  {
+   "q": "Do I need a soft start?",
+   "a": "On a generator, usually. Fixed-speed compressors surge at startup, and a soft start reduces it sharply for a small cost."
+  },
+  {
+   "q": "Is a 12V unit enough for a Class C?",
+   "a": "Not as the main unit. A 10,000 BTU 12V unit suits a bunk or small bedroom, but a full coach needs a rooftop unit."
+  },
+  {
+   "q": "Can I add a second roof unit?",
+   "a": "Only if the roof has a second opening or can be cut and reinforced. Check the ceiling and the electrical supply first. A second unit also doubles the generator demand, so it makes the most sense for coaches that spend their time on shore power rather than dry camping."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/319xnGt-yxL._SL500_.jpg"
+}

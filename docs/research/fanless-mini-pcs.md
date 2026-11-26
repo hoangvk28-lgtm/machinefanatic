@@ -1,0 +1,16 @@
+# Fanless mini PCs research
+- Intel N100/N150 chips have a 6 W base TDP and typically sustain 10 to 15 W in mini PC chassis; that fits passive cooling.
+- Fanless suits browsing, Office, email, streaming, 1 to 2 video calls, and 24/7 light server duty.
+- Sustained heavy CPU loads are where passive boxes throttle: the chip slows itself to shed heat.
+- The metal case is the heatsink; finned or thick aluminum shells shed heat better than thin plastic or small sticks.
+- Warm rooms and enclosed cabinets hurt passive performance; leave airflow around the unit and do not stack things on top.
+- N150 is a modest step over N100 (up to 3.6 GHz vs 3.4 GHz boost); real-world performance is close.
+- i3-N300 is an 8-core Gracemont part; more multi-thread headroom but more heat to shed.
+- Older Celeron J4105 and N5100 sticks are slow; fine for signage, thin client use, light office only.
+- Industrial fanless PCs (older Core i5/i7 U-series) are heavy and bulky but have large heatsink shells and wide I/O.
+- No fan means no dust ingestion and no fan bearing failure; silence is complete except for possible coil whine.
+- Single-channel or soldered RAM and eMMC storage limit speed; NVMe SSD slots matter for responsiveness.
+- Check port count, dual HDMI or USB-C video, 2.5 GbE vs 1 GbE, Wi-Fi generation, and whether RAM and SSD are upgradeable.
+- Many ship with Windows 11 Pro preinstalled; verify activation and run updates first.
+- Active-cooled boxes hold performance better under long loads; fanless is for quiet, light, always-on use.
+- Manufacturer no-throttle claims are not independent measurements.
