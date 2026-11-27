@@ -5,7 +5,6 @@ import { buildMetadata } from "@/lib/seo";
 import { getPublicGuides } from "@/lib/public-guides";
 import { categories } from "@/data/categories";
 
-export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
   title: "All Buying Guides",

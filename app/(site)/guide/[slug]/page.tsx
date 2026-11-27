@@ -27,22 +27,18 @@ import { dynamicGuideSlugs, dynamicGuideLoaders } from "@/data/dynamic-guides-re
 import { RichGuidePage, type RichGuideModule } from "@/components/guide/RichGuidePage";
 import { InfoGuidePage, type InfoGuideModule } from "@/components/guide/InfoGuidePage";
 
-export const revalidate = 604800;
 
 type Props = { params: Promise<{ slug: string }> };
 
 // ─── Static generation ────────────────────────────────────────────────────────
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const [guideSlugs] = await Promise.all([getPublicGuideSlugs()]);
   const categorySlugs = categories.map((c) => c.slug);
-  // dynamicGuideSlugs (4000+ rich data-file guides) are intentionally NOT prerendered:
-  // they render on first request and are ISR-cached from then on. Prerendering them
-  // put ~5000 HTML pages (~3GB) into every deployment, blowing through Vercel Hobby's
-  // Deployment Storage and ISR Writes quotas on each push.
-  const all = [...new Set([...guideSlugs, ...categorySlugs])].filter(
-    (slug) => !dynamicGuideSlugs.includes(slug)
-  );
+  // Cloudflare Pages static export: every guide, including the rich data-file guides, is prerendered.
+  const all = [...new Set([...guideSlugs, ...categorySlugs, ...dynamicGuideSlugs])];
   return all.map((slug) => ({ slug }));
 }
 

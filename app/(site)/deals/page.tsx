@@ -16,7 +16,6 @@ const exploreChips = [
   { label: "Outdoor Power", key: "outdoor-power" },
 ];
 
-export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = buildMetadata({
   title: "Amazon Finds - Budget-Friendly Easy-to-Use Picks",

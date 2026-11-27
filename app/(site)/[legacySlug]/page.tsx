@@ -4,7 +4,6 @@ import { legacyLoaders, legacySlugs } from "@/data/legacy-registry";
 import { LegacyArticlePage, type LegacyArticleModule } from "@/components/guide/LegacyArticlePage";
 import { buildMetadata } from "@/lib/seo";
 
-export const revalidate = 86400;
 export const dynamicParams = false;
 
 type Props = { params: Promise<{ legacySlug: string }> };

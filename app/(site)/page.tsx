@@ -7,7 +7,6 @@ import { getPublicGuides } from "@/lib/public-guides";
 import { RATING_CRITERIA } from "@/lib/brand";
 import { buildMetadata } from "@/lib/seo";
 
-export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
   title: "Expert Machine and Power Tool Buying Guides",

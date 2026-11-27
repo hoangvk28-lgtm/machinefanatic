@@ -22,3 +22,4 @@ export default function OgImage() {
     { ...size }
   );
 }
+export const dynamic = "force-static";

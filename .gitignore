@@ -16,3 +16,6 @@ npm-debug.log*
 scripts/clone/work/*
 !scripts/clone/work/*.spec.json
 build.log
+
+# Cloudflare Pages static export
+/out

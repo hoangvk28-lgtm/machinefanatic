@@ -8,7 +8,6 @@ import { categories } from "@/data/categories";
 import { getPublicGuides } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 
-export const revalidate = 604800;
 
 type Props = { params: Promise<{ slug: string }> };
 

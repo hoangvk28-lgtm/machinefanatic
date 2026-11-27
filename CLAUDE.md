@@ -766,8 +766,8 @@ Before committing any change that touches routes, metadata, or schema:
 ## 15. Deployment & Environment
 
 ### Platform
-- **Vercel** (inferred from `vercel.svg` in `public/` and standard Next.js deployment)
-- The `next.config.ts` domain redirect handles non-www → www at the application layer (works on Vercel)
+- **Cloudflare Pages static export** (since 2026-11-27): build `npm run build`, output `out`. No ISR, proxy, API routes, admin or next.config headers/redirects; redirects go in `cloudflare/redirects.txt`. See `docs/cloudflare-pages.md`. Keep the export under 20,000 files.
+- non-www → www is a Cloudflare Redirect Rule (dashboard), not app code
 
 ### Required Environment Variables
 

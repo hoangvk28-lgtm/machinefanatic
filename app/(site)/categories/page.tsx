@@ -7,7 +7,6 @@ import { categories } from "@/data/categories";
 import { getPublicGuidesByCategory } from "@/lib/public-guides";
 import { getPublicProductsForCategoryHub } from "@/lib/public-products";
 
-export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
   title: "All Categories | MachineFanatic",

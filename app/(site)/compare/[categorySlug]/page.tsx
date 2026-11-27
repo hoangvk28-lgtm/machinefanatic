@@ -9,7 +9,6 @@ import { categories } from "@/data/categories";
 import { getCategoryBySlug } from "@/lib/helpers";
 import { getPublicProductsForCategoryHub } from "@/lib/public-products";
 
-export const revalidate = false;
 
 // ─── Static params ────────────────────────────────────────────────────────────
 

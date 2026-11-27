@@ -8,7 +8,6 @@ import { scoreToColor } from "@/lib/utils";
 import { getPublicProducts } from "@/lib/public-products";
 import { categories } from "@/data/categories";
 
-export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
   title: "Product Reviews - Easier-to-Use Home Products",
