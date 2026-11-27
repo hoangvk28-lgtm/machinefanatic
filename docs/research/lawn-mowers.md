@@ -17,3 +17,12 @@
 - Dual-battery mowers let you swap mid job; single big pack mowers are simpler but a dead pack ends the job.
 - Riding and robot mowers are different machines with different buying logic; do not mix them with walk-behind picks.
 - True all-wheel-drive mowing is mostly found on robot mowers and a few remote slope mowers; walk-behinds with "AWD" are rare and mostly gas.
+
+# Reel mowers (added)
+- Most reel mowers cut about 0.75 to 4 in.; the lower the cut, the more blades you need.
+- Five blades suit standard residential turf; seven help thicker grass or longer mowing intervals.
+- More blades need faster pushing to keep momentum and mean more edges to maintain.
+- Reel mowers suit flat, fine, frequently mowed lawns; practical limit around 5,000 sq ft.
+- Maintenance is light: sharpen every 1 to 2 years, adjust reel-to-bedknife contact, lubricate, no oil or fuel.
+- Tall weeds, sticks and uneven ground defeat reel mowers.
+- Grass catcher adds width and weight and can reduce maneuverability; some models mulch only.

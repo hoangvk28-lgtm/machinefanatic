@@ -1,0 +1,12 @@
+# Waffle makers research
+- Belgian waffles are thick with deep pockets (an inch or more); classic waffles are thin with shallow grooves.
+- Rotating (flip) models spread batter evenly and are usually Belgian-style; rotating is a separate choice from style.
+- Nonstick plates are common; cast iron has long life but needs seasoning.
+- Removable plates simplify cleaning; hand wash is safer for nonstick.
+- Temperature control ranges from on/off to browning dials and digital.
+- Preheat light signals when to pour; overfilling leaks batter around the rim.
+- Mini waffle makers (about 4 inch) suit one person and heat quickly.
+- Wattage influences heat-up and recovery between waffles.
+- Overflow moat catches excess batter on better designs.
+- Sugary batter browns faster; lower the dial.
+- Steam escaping is normal; opening early tears the waffle.

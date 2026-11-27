@@ -1,0 +1,17 @@
+# Tile saws research
+- Wet tile saws cool a diamond blade with a water flow from a reservoir pump; water also suppresses silica dust, which is a respiratory hazard in dry cutting.
+- 10-inch saws are the standard for contractors; 7-inch saws are limited in rip capacity and suit small tile and light DIY. The right blade size is the one your saw is rated for.
+- Rip capacity is the longest straight cut across the table; large-format tile (24 inch and up) needs 24 to 37 inch rip capacity. Plunge cuts add a few inches.
+- A 10-inch DeWalt D24000S class saw has about 24 inch standard rip capacity; the D36000S class reaches 37 inches (41 with plunge) and weighs far more.
+- Motors are listed in horsepower, amps or watts; compare like with like. Direct-drive induction motors run quieter than universal motors.
+- Table travel on rails or a sliding tray matters for cut accuracy; a cutting-line indicator helps alignment.
+- Bevel cuts at 22.5 and 45 degrees need a tilting head or table.
+- Blade rim: continuous rim blades give chip-free cuts on porcelain and glass tile; segmented rims cut faster but chip more.
+- Stands add stability; a saw on a low bench vibrates and wanders.
+- Keep the reservoir clean; sludge clogs the pump and the pump will burn out if run dry.
+- Dry-cutting a wet saw overheats the blade and fills the air with silica dust; wear eye, ear and respiratory protection.
+- Change water frequently; slurry cuts blade life.
+- Diamond blades glaze when cut too slowly; dress with an abrasive block to restore cutting.
+- Never force tile into the blade; let the blade do the work and feed steadily.
+- Check the arbor size (commonly 5/8 inch) and blade thickness when buying replacement blades.
+- GFCI protection is essential around water and electric tools.

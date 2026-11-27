@@ -16,3 +16,12 @@
 - Maintenance: clean tines, wipe soil, check carbon brushes on brushed motors, store dry, check cord insulation.
 - Do not till within reach of buried irrigation lines or utilities; remove stones and roots first.
 - Always unplug or remove the battery before clearing tangled roots from the tines.
+
+# Cultivators (added)
+- A cultivator maintains loosened soil and weeds between plants; a tiller breaks hard or new ground.
+- Cultivators come gas, corded electric and cordless; cordless units are lightest (around 14 lb vs 25 to 29 lb corded).
+- Mini cultivators about 10 in. wide and 5 in. deep; corded electric about 16 to 18 in. wide, 8 to 9 in. deep.
+- Adjustable width via removable tines is common; high-carbon steel tines last longer.
+- Front-tine units are lighter work; rear-tine for dense soil.
+- Gas cultivators have more power but need fuel, oil mixing or oil changes, and storage care.
+- Tines jam on roots and stones; clear with the power off and battery removed.

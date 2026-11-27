@@ -1,0 +1,12 @@
+# Ice cream, soft serve and slush machines research
+- Freezer-bowl models are cheaper and compact but the bowl needs 16 to 24 hours in the freezer; a second bowl allows back-to-back batches.
+- Compressor models have built-in refrigeration, run on demand, but are heavier, louder, costlier.
+- Standard capacity is 1.5 to 2 quarts; many include gelato or sorbet settings.
+- Chill the base in the fridge before churning for better texture.
+- Paddle (dasher) design affects overrun and texture.
+- Soft serve machines freeze mix in a cylinder and dispense through a handle; need regular sanitising.
+- Slushie machines keep mix cold in a tank with a rotating auger so it does not freeze solid; sugar content (roughly 10 to 14 percent) is key.
+- Too little sugar freezes hard and can stall the auger.
+- Hand-wash churn parts; dishwasher safety varies.
+- Compressor units should stand upright and level for hours after shipping before first use.
+- Add-ins go in near the end of the cycle.

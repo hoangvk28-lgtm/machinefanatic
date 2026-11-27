@@ -1,0 +1,19 @@
+# Heat presses, vinyl cutters, laminators research
+- Clamshell presses open like a mouth: cheap, small footprint, fast, but platen pressure can be uneven on thick items and the heating plate swings close to the operator's hands.
+- Swing-away presses move the heated platen aside: better clearance, more even pressure and safer for thick or bulky items, but need more floor room.
+- Combo presses swap a flat platen for mug, hat and plate attachments; versatile, tedious to reassemble often. Hat and mug platens are more often engineered for swing-away frames.
+- Heat press work typically spans about 200 to 400 degrees F; check the range for the process (HTV, sublimation, transfers).
+- Pressure uniformity and a platen larger than the design matter more than a digital screen.
+- A Teflon sheet or protective paper is needed regardless of press type.
+- Mug presses are sized by mug: 11 oz straight, 12 oz tapered, 17 oz tapered need different attachments; confirm mug size before buying.
+- Hat presses need a curved platen and cap form; pre-curved bills need the right attachment.
+- Budget for accessories: specialty platens, transfer paper, heat tape, pressing pillows.
+- Vinyl cutter key specs: cutting force in grams, speed, width, drive type and software. Buying on force, speed and price alone is a common mistake.
+- Light vinyl and HTV need little force; reflective sheeting, thick films and magnet sheet need much more.
+- A 45 degree blade is standard for vinyl; 30 degree blades suit thin films. Blades are not universally compatible between brands.
+- Set force by test cuts and replace the blade when uncut areas remain even after a modest increase in force.
+- Tangential cutting lifts and rotates the blade at corners to avoid vinyl ears but is slower.
+- Thermal laminators heat adhesive-coated pouches between rollers; pouch thickness is measured in mils and thicker pouches need a machine rated for them.
+- Laminators need warm-up time before feeding; jams come from feeding the open edge first, wrong pouch thickness or cold rollers.
+- Four-roller laminators generally give smoother, better-bonded results than two-roller models.
+- Never laminate items that are heat-sensitive, such as thermal paper receipts, and avoid items that cannot take roller pressure.

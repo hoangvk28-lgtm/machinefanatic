@@ -1,0 +1,14 @@
+# Stand mixers research
+- Tilt-head: head hinges up, bowl locks on pedestal, easy bowl access, smaller batches; bowl-lift: bowl cranked up on arms, steadier under heavy load, taller and heavier.
+- Bowl-lift suits frequent multi-loaf bread; tilt-head handles 1 to 2 loaves, rolls, focaccia, pizza dough.
+- Rated watts are inconsistent across brands; compare gearing, dough capacity and build, not watts alone.
+- Rated quart capacity overstates real dough capacity.
+- Spiral dough hook handles dense dough better than a C-hook.
+- Kneading bread at speed 2 is the usual manufacturer advice; higher speeds strain gears.
+- Metal gear trains outlast plastic; a hot motor housing during long kneads signals strain.
+- Planetary action: beater spins one way while orbiting the other; bowl clearance setting matters.
+- Heavy mixers resist walking at speed; light ones can walk on the counter.
+- Small 3 to 4 quart mixers suit single batches of cookies and cakes, not stiff dough.
+- Attachment hub fits power attachments (pasta, grinder) on many brands.
+- Noise comes from motor and gear train; heavier cast housings damp it.
+- Wide beater-to-bowl gap leaves unmixed batter at the bottom.

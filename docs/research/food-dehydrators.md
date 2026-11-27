@@ -1,0 +1,14 @@
+# Food dehydrators research
+- Rear-mounted fan and heater push air horizontally across all trays; top or bottom fans in stacking designs dry unevenly and need tray rotation.
+- Stackable units are cheaper, compact, expandable; shelf (cabinet) units cost more and hold more.
+- Jerky: units should reach at least 160 F; verify with a probe thermometer at each tray level.
+- Many guides recommend heating meat to 160 F around drying (check USDA/FSIS).
+- Timer and auto shutoff prevent over-drying; digital controls beat dial-only.
+- Stainless steel trays resist staining and odors; plastic trays can hold smells and warp.
+- Wattage influences heat recovery but airflow design matters more.
+- Typical ranges: herbs 95 to 115 F, vegetables 125 F, fruit 135 F, jerky 145 to 165 F.
+- Drying time depends on slice thickness, humidity and load.
+- Fan noise is like a bathroom fan on many units.
+- Tray area determines batch size; large units need shelf space.
+- Mesh sheets and fruit leather sheets help with small items.
+- Wipe trays after each use; greasy residue needs a degreasing soak.

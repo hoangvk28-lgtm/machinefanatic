@@ -746,3 +746,11 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Prefilter skips: dyson-electric-mops, geeetech/monoprice/toybox 3d printers, 600-watt-microwaves, printers-without-ink-subscription-under-250.
 - Writer skips (17, in skip-a/b.txt): microwaves-under-30/50; cd/foil/ghs/uv label printers; chocolate/dlp/dremel/easythreed/formlabs/jgaurora/makerbot/metal/snapmaker/ultimaker/voxelab 3d printers.
 - Lineup overlap: no pair >= 2/3 shared (max 3/5 among label printers). Opener pass: 18 repeated openers cut to <= 5; top remaining opener 9 ("What is the difference", FAQ phrasing). Audit 70/70 ok, tsc + build green.
+
+## Round 52 (2026-11-28): 78 new-cluster guides
+- Topics chosen from Clarity traffic patterns (size/type/use-case/under-N slugs) in clusters with 0 guides on site: stand mixers, meat grinders, food dehydrators, ice cream/soft serve/slushie, deep fryers, waffle makers, popcorn, pasta, yogurt makers, trolling motors, sewing/embroidery machines, heat presses, vinyl cutters, laminators, wet tile saws, dust collectors, planers, reel mowers, cultivators, tower fans, evaporative coolers, self-empty robot vac+mop, water softeners.
+- 87 candidates; neardup 0 hits; same-intent drops before Stage A: electric-hand-planers (published), jointers (= benchtop-jointers), meat-grinders-for-home-use.
+- Stage A2 skips: bowl-lift-stand-mixers (1 real machine), 10-inch-wet-tile-saws and tile-saws-with-stand (<3 real models), frozen-yogurt-makers (lineup = ice-cream-makers), robot-mops (lineup = published robot-vacuum-and-mop-combos), tower-fans-with-remote (same intent).
+- Writers: Sonnet A (39 kitchen + trolling), Sonnet B (18, stopped on context), Sonnet C (remaining 21), Sonnet opener-fix pass. 0 writer skips. Words 3,002 to 3,712.
+- Checks: audit ok 78/78, no 【, neardup at finish 0, tsc + build green.
+- Follow-up: 4-word openers still above 5: "Compared with the Brother" 8 (sewing guides), "Wipe the plates when" 7 (waffle guides), "The listing says the" 7. Rewrite in a later pass.

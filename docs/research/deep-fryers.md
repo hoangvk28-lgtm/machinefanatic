@@ -1,0 +1,12 @@
+# Deep fryers research
+- Capacity is oil volume (about 1 to 10 liters); pick by food and portions, not largest.
+- Wattage is incomplete; oil volume and batch size affect heat recovery.
+- Heat recovery after food enters drives crispness.
+- Oil filtration systems drain, filter and store oil; useful when reusing oil.
+- Safety: lockable lid, cool-touch handles, breakaway or magnetic cord, thermostat and overheat cutout.
+- Never overfill beyond the MAX line; moisture causes boil-over; pat food dry; shake ice off frozen food.
+- Double basket units cook two foods at once or split a batch.
+- Commercial fryers use bigger oil volume and higher watts, often dedicated circuits.
+- Strain oil after each use; replace when dark, foamy or smoky.
+- Removable pot and element ease cleaning.
+- High smoke point oils suit frying around 350 to 375 F.

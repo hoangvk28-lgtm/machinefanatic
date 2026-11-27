@@ -1,0 +1,16 @@
+# Sewing machines research
+- Mechanical machines use dials and levers; computerized use a motherboard, LCD and stepper motors to set stitch length, width and needle position. Mechanical is simpler to repair; computerized gives automatic buttonholes and consistent stitch tension.
+- Stitch count matters less than the useful set: straight, zigzag, stretch, blind hem, buttonhole. Hundreds of decorative stitches rarely get used.
+- Presser feet: some come in the box, others cost extra. Count zipper, buttonhole, blind hem, walking-style and quarter-inch feet.
+- Needle change every 8 to 10 hours of sewing or each new project. Wrong needle type (ballpoint for knits, denim for thick weaves) causes skipped stitches.
+- Lint collects in the bobbin area and under the feed dogs; clean with a brush, not canned air which packs lint deeper. Clean after every few bobbins on fleece or flannel.
+- Oiling: follow the manual; many modern top-loading bobbin machines are not oiled by the owner. Use only light resin-free sewing machine oil, a drop or two.
+- Throat space (distance from needle to right arm) matters for quilting; 6 inches is typical, 8 to 11 inches for quilting models.
+- Heavy-duty claims: metal interior frame, higher-torque motor and stronger needle bar do help with denim and canvas; many "heavy duty" machines still have plastic outer housing. Stitch speed rating around 1,000 spm for domestic machines.
+- Automatic needle threader and drop-in top bobbin with clear cover reduce beginner frustration.
+- Speed control slider lets a beginner cap speed.
+- Walking feet or even-feed help layers of quilt sandwich.
+- Sergers (overlockers) use 3 to 4 threads, cut and overcast edges at once; threading is the main beginner hurdle; they do not replace a regular machine.
+- Embroidery machines need stabilizer, hoop size sets design size; file transfer via USB or Wi-Fi; digitizing software is separate.
+- Kids machines: look for finger guards, low speed, and real stitching; toy-grade chain stitch machines frustrate.
+- Warranty of 1 to 3 years for domestic machines is common; service access matters.

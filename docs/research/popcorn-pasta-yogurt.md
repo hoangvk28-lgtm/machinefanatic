@@ -1,0 +1,13 @@
+# Popcorn machines, pasta makers, yogurt makers research
+- Hot air poppers use no oil and need little cleanup; oil or kettle models taste richer but build grease.
+- Rule of thumb: 1 to 1.5 quarts of finished popcorn per adult; avoid oversized machines for solo use.
+- Check whether bowl, lid, butter tray are dishwasher safe and whether spare parts exist.
+- Manual pasta machines clamp to the counter and thin dough through rollers; electric versions add a motor; extruders push dough through dies for shapes.
+- Extruders make pasta fast; roller machines suit lasagna sheets and ravioli; hand cranks need practice.
+- Extruder dough should be crumbly; too much water clogs dies.
+- Brush dried dough from dies and cutters rather than washing.
+- Yogurt makers hold a steady warm temperature (about 105 to 115 F) for 8 to 12 hours.
+- Glass jars are easier to clean and do not hold odors.
+- Heat milk to about 180 F and cool to about 110 F before adding starter for thicker yogurt.
+- Greek yogurt needs straining after culturing.
+- Single large container suits family batches; small jars suit portions and flavors.

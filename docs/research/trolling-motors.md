@@ -1,0 +1,13 @@
+# Trolling motors research
+- Thrust rule of thumb: at least 2 lb per 100 lb of loaded boat weight (people and gear), more for wind or current.
+- Voltage: 12 V for about 55 lb thrust or less, 24 V for about 68 to 80 lb, 36 V for about 101 to 115 lb; 24 V needs two batteries.
+- Higher voltage draws fewer amps for the same thrust, extending runtime.
+- Shaft length: measure mount point to waterline, propeller at least 12 inches under the surface; take the longer shaft when between sizes.
+- Transom mounts clamp to the stern; bow mounts pull the boat.
+- Kayaks and small boats may need only a compact 12 V motor.
+- Variable speed beats five-speed for fine control and battery life.
+- Pulse-width controllers save battery over resistor controllers.
+- Lithium batteries are lighter with steadier voltage than AGM.
+- Freshwater and saltwater rated motors differ in corrosion protection.
+- Rinse after saltwater use; check prop for fishing line wrap.
+- Undersized cable causes voltage drop and heat.

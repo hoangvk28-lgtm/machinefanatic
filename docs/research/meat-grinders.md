@@ -1,0 +1,14 @@
+# Meat grinders research
+- Horsepower and watts rate the same motor differently; peak watts often exceed sustained draw (a "3000W max" may pull 800 to 1200 W under load).
+- #8 head is the common home size (roughly 4 to 6 lb per minute); #12 is semi-commercial for hunters and big batches.
+- Do not grind fully frozen meat; chill to firm, partially frozen.
+- Bone grinding needs a unit specifically rated for it; most home grinders are not.
+- Metal gears beat plastic gears when meat has sinew; reverse function clears jams.
+- Sharp knife and plate matter more than motor; dull blade smears fat.
+- Stainless heads and trays resist corrosion; aluminum heads must be hand washed and lightly oiled.
+- Whole deer: #8 handles a few deer a season; #12 above about eight deer a year.
+- Sausage stuffing needs a stuffing tube and slow steady feed; coarse plate then fine plate for two-pass grind.
+- Manual grinders clamp to a counter and need muscle; suit small batches.
+- Commercial grinders use larger motors and cast housings with higher duty cycle.
+- Chill head and plate in freezer before use to avoid fat smear.
+- Disassemble and dry parts to prevent rust on plates and knives.
