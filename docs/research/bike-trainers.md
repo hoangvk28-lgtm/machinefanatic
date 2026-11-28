@@ -1,0 +1,13 @@
+# Bike trainers (research notes)
+- Direct drive trainers replace the rear wheel and mount the cassette; quieter, more accurate, no tire wear but pricier.
+- Wheel on trainers clamp the bike and press a roller on the tire; cheaper, wear the tire, less accurate power.
+- Smart trainers control resistance from apps and report power; check accuracy (plus or minus 1 to 2 percent on good units) and maximum simulated grade.
+- Flywheel mass affects ride feel; heavier flywheels feel more road like.
+- Direct drive needs a freehub body that matches your drivetrain and axle standard (quick release or thru axle).
+- Use a trainer tire on wheel on units and check roller tension.
+- Fan cooling and a mat help with sweat and noise.
+- Connectivity: ANT+ FE-C and Bluetooth FTMS.
+- Calibrate wheel on trainers before sessions for power accuracy.
+- A riser block keeps the bike level.
+- Noise matters in apartments.
+- Check frame compatibility with thru axles.

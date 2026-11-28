@@ -1,0 +1,13 @@
+# Desktop CNC routers (research notes)
+- Rigidity limits usable power; a rigid frame with lighter cuts beats a high wattage spindle on a flexible chassis.
+- Check Z axis and spindle mount for play, not just the nameplate.
+- Usable work area is smaller than the listed envelope once clamps and probes take space.
+- Lead screw drive gives better torque and accuracy than belt drive; metal frames are stiffer.
+- Router versus mill: routers are larger and lighter for wood and plastic, mills are stiffer for aluminum.
+- Spindle power for wood and acrylic can be modest if chip evacuation is good; aluminum needs rigidity and light cuts.
+- Software workflow (CAD, CAM, G-code sender) is a real learning curve.
+- Dust collection or a shop vac boot, eye and hearing protection are required.
+- Workholding with clamps or a spoilboard with T-track prevents moving stock.
+- Limit switches and homing improve repeatability; an emergency stop matters.
+- Bit choice: upcut, downcut and compression bits change finish and chip clearing.
+- Check wiring, belts and lubrication periodically.

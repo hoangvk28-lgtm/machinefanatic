@@ -1,0 +1,13 @@
+# Handheld pool vacuums research
+- Battery handheld pool vacuums run on rechargeable lithium packs; stated runtime is 60 to 90 minutes and is a best case at low power.
+- Flow is quoted in GPM; roughly 18 GPM is a practical floor for debris and sand on above-ground pools; much higher figures are often marketing.
+- They collect into a filter bag or basket; bag size and mesh decide how often you empty mid-session; fine silt clouds back through coarse mesh.
+- They are for spot cleaning, not whole-pool routines; big or in-ground pools favour robots.
+- Telescopic pole length decides reach; above-ground depth is 3 to 4 ft so 6 ft poles reach; in-ground deep ends need more.
+- Brush heads: wide heads clean faster, narrow heads handle steps and spa seats; soft liner pools need gentle brush edges.
+- Waterproof rating (IPX8) matters because the motor runs submerged; rinse and dry after each use, store dry.
+- Charging takes 3 to 5 hours; keep packs out of heat; remove from the charger when full.
+- Leaf vacuums versus fine silt: some units are leaf-first with strong flow and a big bag; others handle fine debris with a small head.
+- Not a substitute for filtration, sanitiser and pH balance.
+- Check for spare filter bags and pole adapters; standard pole thread is common.
+- Do not run dry; the pump cools on water.

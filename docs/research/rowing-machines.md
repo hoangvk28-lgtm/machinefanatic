@@ -1,0 +1,13 @@
+# Rowing machines (research notes)
+- Magnetic rowers are the quietest and fit most homes; resistance is constant, less like water.
+- Air rowers resist more as you pull harder, realistic, loudest.
+- Water rowers use a paddle in a tank, closest to on water feel, bigger footprint.
+- Footprint: an air rower is around 8 feet long; many fold or stand upright.
+- Monitors show split, stroke rate and distance; heart rate straps and apps add tracking.
+- Seat comfort, rail length for tall users and footplate fit matter.
+- Maximum user weight and rail stability matter.
+- Rowing is a full body low impact workout; drive legs first, then back, then arms.
+- Chain, belt or strap drives need lubrication or inspection.
+- Water tanks need occasional treatment tablets to stop algae.
+- Upright storage reduces footprint.
+- Air flywheels are loud.

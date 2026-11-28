@@ -1,0 +1,14 @@
+# Water flossers research
+- Countertop units plug in, hold 15 to 22 oz and offer up to 10 pressure settings; cordless units run 5 to 7 oz tanks and 2 to 4 settings.
+- Pressure is often shown as settings, not PSI; brands are not directly comparable.
+- Reservoir size sets session length: a 90 second full-mouth routine uses roughly 300 mL; small tanks need a mid-session refill.
+- ADA Seal of Acceptance means the maker submitted safety and efficacy data; many budget units lack it; check the ADA list.
+- For braces, an orthodontic tip (small tuft of bristles) and a low or medium pressure setting is the usual advice; start low.
+- Replace tips every three to six months; tips are not interchangeable across brands.
+- Cordless packs charge via USB-C or magnetic dock; IPX7 means safe in the shower.
+- Countertop pumps with larger motors tend to run steadier; cordless units run louder per mL.
+- Clean with white vinegar and water monthly; empty after use to limit bacteria and mineral scale.
+- Water flossers help with plaque and gum bleeding; they do not replace brushing.
+- Use warm or room temperature water if teeth are sensitive.
+- After oral surgery follow the dentist advice before use.
+- Pulse frequency is around 1,200 to 1,700 pulses per minute on standard devices.

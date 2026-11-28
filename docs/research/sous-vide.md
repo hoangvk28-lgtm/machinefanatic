@@ -1,0 +1,14 @@
+# Sous vide immersion circulators research
+- Wattage sets how fast a bath heats from tap temperature; 800 W suits small pots, 1,000 to 1,200 W is the normal range for big batches.
+- Accuracy and holding are the core spec; a good unit holds within about 0.1 to 0.2 F; cheap units drift more at low temperatures.
+- Minimum water level and a maximum fill line are printed on the sleeve; check clamp and tank fit.
+- Wi-Fi allows remote start and monitoring; Bluetooth only works near the unit; many users never need either.
+- Circulators clamp to a pot; a lid and floating balls cut evaporation on long cooks (24 hours plus).
+- Quiet motors matter in an open kitchen; some noise comes from the pump.
+- IPX7 splash resistance: the top handles splashes but is not for submerging.
+- Use food-safe bags; vacuum sealers help but are optional; the water displacement method works.
+- Time grows with thickness: chicken breast around 140 to 150 F for 1.5 to 3 hours; steak 129 to 135 F.
+- Descale the heating element with vinegar to maintain accuracy.
+- Sear after the bath for browning.
+- App recipe libraries help beginners; a plain button unit is fine for experts.
+- Check the power cord length and the clamp strength.

@@ -1,0 +1,13 @@
+# Treadmills (research notes)
+- Continuous duty horsepower (CHP) matters more than peak horsepower, which is a marketing figure.
+- Deck length: runners want about 60 inches; walkers can use shorter; width matters for walkers.
+- Cushioning reduces joint impact; adjustable firmness exists on some models.
+- Incline ranges from none on walking pads to 15 percent or more, up to about 40 percent on some.
+- Under desk walking pads are for walking only; pushing them past brisk walking is how they break.
+- Folding frames save space; check ceiling height and the soft drop mechanism.
+- Maximum user weight should exceed your weight with margin.
+- Belt lubrication and alignment keep motor load low.
+- Noise and vibration matter for apartments and under desk use.
+- Consoles with screens add subscription costs on some brands.
+- Safety key and handrail stability.
+- Leave clear space behind the deck for safe dismount.

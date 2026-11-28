@@ -1,0 +1,12 @@
+# Cotton candy and snow cone machines (research notes)
+- Home cotton candy machines hold one or a few servings; commercial models cost far more and run continuously.
+- Cotton candy spins melted sugar through tiny holes in a heated head; use floss sugar or the sugar the maker specifies.
+- Humidity ruins cotton candy; make it in dry conditions and serve quickly.
+- Snow cone machines shave or crush ice; stainless blades and a strong motor give finer texture.
+- Commercial benchmark motors are around 1/3 HP; home units run a few hundred watts.
+- Many home machines need ice cubes of a certain size or frozen blocks.
+- Manual hand crank units are quiet and cheap but slow.
+- Sharpen or replace blades when output turns chunky.
+- Syrups and cups are recurring costs.
+- Clean after every use; sugar residue attracts pests.
+- Rentals are common for one off events.

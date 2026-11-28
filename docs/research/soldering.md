@@ -1,0 +1,14 @@
+# Soldering stations and irons (research notes)
+- Wattage mainly affects tip heat recovery, not maximum temperature; 60 W is comfortable for general electronics, 90 W or more for heavy joints.
+- Temperature controlled stations hold the tip at a set point with sensor feedback; PID digital control is steadier.
+- Typical setpoints about 320 to 360 C for leaded solder and 340 to 380 C for lead free.
+- Lead free alloy melts hotter, needs more power and better recovery.
+- Fine conical tips for SMD and PCB work; chisel tips for thicker wires and connectors.
+- Replacement tip availability matters; keep a spare.
+- ESD safe design protects static sensitive parts.
+- Hot air capability is useful for IC rework.
+- Cordless gas or USB-C irons suit field work but have less sustained power.
+- Keep the tip tinned; clean with brass wool rather than a wet sponge to avoid thermal shock.
+- Do not leave the iron idle at high temperature; tips oxidize and burn out.
+- Use ventilation or a fume extractor for flux fumes.
+- Match input voltage to mains.

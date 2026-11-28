@@ -1,0 +1,14 @@
+# Router tables and spindle sanders (research notes)
+- Benchtop router tables are portable; full size tables give more surface and accuracy for large panels.
+- Fence: micro adjust or split fence with dust port helps edge work and cleanliness.
+- Insert plate must match the router base diameter and mounting holes; a polycarbonate plate can sag, aluminum is stiffer.
+- A router lift allows above-table height adjustment and bit changes without removing the insert ring.
+- Table rigidity and flatness matter; a sagging top ruins joinery accuracy.
+- Check T-track alignment, miter slot and fence bolt alignment before buying.
+- Most table work wants 2 HP or more for large bits; 1/2 inch collet bits run smoother than 1/4 inch.
+- Variable speed is important for large diameter bits.
+- Dust collection at fence and below the table matters.
+- Oscillating spindle sanders move the spindle up and down to spread wear and reduce burning; sets include several drum diameters.
+- Spindle sanders smooth curved edges; table size and dust port matter; combo belt versions add flat sanding.
+- Sleeves wear and clog on resinous woods; keep spares in several grits.
+- Use featherboards and push blocks on router tables; keep hands clear of the bit.

@@ -1,0 +1,13 @@
+# Baby bottle warmers (research notes)
+- Water bath warmers heat slower but more evenly and are generally safer; steam warmers are faster (2 to 4 minutes) but can create hot spots.
+- Always swirl the bottle and check temperature on the inner wrist before feeding.
+- Auto shut off at target temperature or low water is the key safety feature.
+- Steam chambers can trap water and grow mold if not dried and cleaned.
+- Check fit for your bottle brand and size, including wide neck and pouches.
+- Never microwave breast milk or formula; hot spots can scald.
+- Warm breast milk only to about body temperature.
+- Portable travel warmers use USB, car power or hot water and are slower.
+- Some units also defrost and sterilize.
+- Descale regularly with vinegar to keep heater plates working.
+- Use fresh water each time.
+- Formula is safe at room temperature; a warmer is a preference.

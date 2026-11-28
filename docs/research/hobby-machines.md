@@ -1,0 +1,13 @@
+# Pottery wheels, rock tumblers, knitting machines (research notes)
+- Pottery wheel centering capacity is driven by torque; horsepower ratings differ between brands (peak vs average) so are not directly comparable.
+- Heavier wheels and larger flywheels give steadier torque; table top wheels suit small work.
+- Foot pedal versus hand lever is personal preference; check noise and bat pin layout.
+- Splash pan, wheel head size and reversible direction matter for throwing comfort.
+- Rotary rock tumblers round stones and are best for a first purchase; vibratory tumblers finish faster but keep shapes angular.
+- Tumbler size is given in pounds; 3 to 4 lb barrels are common; the largest stone is about half the barrel diameter.
+- Standard grit sequence: coarse, medium, pre-polish, polish; rotary cycles take weeks; double barrels let two stages run at once.
+- Never mix grits; wash stones thoroughly between stages and do not drain slurry into household drains.
+- Knitting machine gauge is needle spacing: standard about 4.5 mm for fine yarn, mid about 6.5 mm, bulky for thick yarn.
+- Beginners should avoid discontinued models since parts are scarce; manual machines are a common start.
+- Hand crank knitting machines need a steady rhythm.
+- Keep yarn tension even and lint cleaned from needles.

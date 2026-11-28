@@ -1,0 +1,14 @@
+# Stump grinders (research notes)
+- Engine horsepower alone does not set productivity; cutter wheel size, tooth count and drive efficiency matter as much.
+- Cutter wheel tooth count ranges from about 12 on the smallest machines to over 100 on the largest; more teeth need more power and suit rocky soil.
+- Teeth are wear items: index (rotate) them after roughly 5 to 15 hours, they can be indexed a couple of times before sharpening or replacement.
+- Cutting depth sets how completely the stump is removed; deeper cut leaves less to fill.
+- Compact walk-behind units fit narrow gates; larger self-propelled machines suit open yards.
+- Tractor PTO grinders scale with tractor horsepower.
+- Safety: one-touch stop for the cutter wheel, debris shield or cage, eye and hearing protection, check for buried utilities and rocks.
+- Sweep the cutter left to right in small depth passes rather than plunging.
+- Check the wheel for cracks, damaged tooth pockets and missing teeth before use.
+- Gas engines need fuel, oil and air filter care; keep belt or chain drive adjusted.
+- Dense hardwood stumps take longer than softwood.
+- Renting is a sensible option for a single stump.
+- Wood chips remain after grinding; plan removal or use as mulch.

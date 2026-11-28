@@ -1,0 +1,13 @@
+# Soda makers, nut milk makers, grain mills, tortilla makers, sous vide, frothers, knife sharpeners
+- Soda makers use CO2 cylinders; cylinder exchange or refill is a recurring cost; check cylinder compatibility.
+- Sous vide cookers are typically around 1000 to 1100 W; higher wattage heats water faster; circulation and clamp depth matter.
+- Nut milk makers blend and filter nuts or grains; heating models make soy milk; fine filters give smoother milk.
+- Grain mills: stone burrs make fine pastry flour, run quietly and dislike oily or wet food; steel burrs handle oily grains and nuts but may need a second pass; impact mills are fast but warm.
+- Quality mills keep flour below roughly 115 to 120 F.
+- Manual grain mills need a firm clamp and effort; electric mills are faster.
+- Tortilla makers are heated presses; plate diameter sets tortilla size; non stick plates ease release.
+- Milk frothers: induction jugs heat and whip; handheld whisks only whip; milk fat and freshness affect foam.
+- Electric knife sharpeners use rotating abrasive wheels in stages; angle guides matter (about 15 degree Asian, 20 degree European knives).
+- Some sharpeners handle serrated blades; overly abrasive machines remove too much metal.
+- Clean metal filings from sharpeners; descale heaters.
+- Check dishwasher safe parts and cord length.

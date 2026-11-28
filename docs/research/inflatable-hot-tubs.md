@@ -1,0 +1,16 @@
+# Inflatable hot tubs research
+- Heaters are usually 1,000 to 1,500 W; warming is slow, often a degree or two per hour, so plan many hours from garden hose temperature.
+- Insulation (cover, wall layers, ground cloth) matters as much as wattage; thin single-layer PVC loses heat quickly in cold weather.
+- Many pump and heater systems cannot run bubbles and heat at once; bubble use cools the water.
+- Drop-stitch walls hold shape under water load and stay rigid; beam or air-chamber designs use inflated beams and rely on the pump to top up air.
+- Air jets are bubble jets, not water jets; they feel like a soft massage.
+- Rated person count is generous; real comfort capacity is about two thirds of the rating.
+- Keep water at or below 104 F; follow the maker guidance on freeze conditions (freeze shield modes protect the pump).
+- Water care: cartridge filters swap every one to two weeks; sanitizer and pH checks; full water change every one to three months.
+- Power: most plug into a GFCI protected outlet; keep the cord clear of puddles.
+- Placement: level, smooth ground with a ground cloth; a full tub weighs thousands of pounds, so do not place on a deck unless rated.
+- Winter: smaller footprints are easier to keep warm; use a locking cover.
+- Wi-Fi app control only matters for pre-heating before you get home.
+- Punctures are patched with the vinyl repair kit; valves and seams are the failure points.
+- Storage: drain, dry, fold with talc; mildew shortens life.
+- Cheap unbranded listings often lack warranty detail or spare parts support.

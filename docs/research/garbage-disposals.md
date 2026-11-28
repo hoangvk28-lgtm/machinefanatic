@@ -1,0 +1,15 @@
+# Garbage disposals research
+- Residential continuous-feed units run 1/3 to 1 HP; 1/2 to 3/4 HP covers most households, 1 HP suits big families and heavy cooks.
+- Horsepower alone is not grind quality: grind chamber stages, stainless vs galvanized parts and RPM matter. Higher HP mostly buys speed and jam resistance.
+- Continuous feed (wall switch) is the norm; batch feed runs only with the stopper in place, safer around children and spoons, slower to use.
+- Sound insulation (jacketed shell, anti-vibration mount, sink baffle) cuts noise more reliably than extra HP. DC and permanent magnet motors run quieter than basic induction units.
+- Septic: a disposal adds solids to the tank, so tanks need adequate size and pumping more often; some units add enzyme or bacteria injection cartridges. Check the tank and local code before buying.
+- Most units have a flywheel with swivel impellers; a hex-key socket on the bottom frees jams by hand. Reset button is on the bottom of the housing.
+- Many units ship without a power cord; a cord kit needs a nearby outlet, otherwise hardwire.
+- Mounting systems (quick lock, EZ mount) matter for replacement; a new disposal usually fits an old flange with the right mount ring.
+- Fibrous waste (celery, corn husks, artichokes), grease, bulk coffee grounds, bones and pasta or rice in volume cause clogs; run cold water during and 15 seconds after.
+- Cleaning: ice cubes with citrus peel, never bleach or drain chemicals, never hands inside.
+- Dishwasher drain knockout plug must be removed on a new unit if a dishwasher connects.
+- Warranty runs from 1 to 8 years by tier.
+- Typical weight 8 to 16 lb; cabinet clearance under the sink decides fit.
+- Noise claims in dB are rarely comparable across brands.

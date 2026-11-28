@@ -1,0 +1,13 @@
+# Massagers (research notes)
+- Massage guns: amplitude (stroke depth in mm) and stall force (pressure before the motor bogs) are the main specs; speed, noise, weight, battery and heads are secondary.
+- Stall force can vary with speed setting; headline numbers can overstate low speed.
+- Some makers do not publish amplitude or stall force.
+- Mini guns trade power for portability.
+- Avoid bones, joints, throat and spine; short sessions per muscle group.
+- Shiatsu foot massagers use rotating nodes and air compression; check size fit and heat.
+- Neck and back massagers use kneading nodes; heat helps; limit sessions and avoid on injuries.
+- Leg massagers use air compression sleeves; people with clotting or circulation conditions should ask a doctor.
+- Massage chairs: roller track (SL or L), zero gravity recline, body scan, footprint and weight are key.
+- Handheld massagers range from wands to percussion; cordless are convenient.
+- Auto shut off timers protect motors.
+- Wipe surfaces and avoid moisture ingress; check warranty for chairs.

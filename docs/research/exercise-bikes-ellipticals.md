@@ -1,0 +1,13 @@
+# Exercise bikes, recumbents, ellipticals, steppers, vibration plates (research notes)
+- Flywheels can weigh up to about 50 pounds; heavier gives a smoother feel.
+- Magnetic resistance is quiet and low maintenance; friction pads wear.
+- Recumbent bikes give back support and are low impact; upright bikes take less space.
+- Under desk pedal bikes are low resistance and for light movement.
+- Elliptical stride length: at least about 17 inches, 16 to 20 inch industry range; adjustable stride suits several users.
+- Rear drive ellipticals offer more stride adjustment; front drive more incline options.
+- Stair steppers and mini steppers are compact; hydraulic ones have fixed resistance.
+- Vibration plates: amplitude and frequency set intensity; check weight limit and noise.
+- Check maximum user weight, pedal and seat adjustability and console tracking.
+- Bolts loosen over time; recheck regularly.
+- Ceiling height matters for ellipticals.
+- Crank or pedal squeaks usually need lubrication.

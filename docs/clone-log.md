@@ -754,3 +754,15 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Writers: Sonnet A (39 kitchen + trolling), Sonnet B (18, stopped on context), Sonnet C (remaining 21), Sonnet opener-fix pass. 0 writer skips. Words 3,002 to 3,712.
 - Checks: audit ok 78/78, no 【, neardup at finish 0, tsc + build green.
 - Follow-up: 4-word openers still above 5: "Compared with the Brother" 8 (sewing guides), "Wipe the plates when" 7 (waffle guides), "The listing says the" 7. Rewrite in a later pass.
+
+### Prefilter skips (2026-11-28)
+| Skipped slug | Reason |
+|---|---|
+| best-boss-podcast-mixers | prefilter: only 2 distinct items match brand boss after extra searches |
+
+## Rounds 53 to 55 (2026-11-28): 102 guides (podcast/streaming mixers, fitness, massagers, kitchen, shop, bread machines, garbage disposals, hot tubs, water flossers, sous vide)
+- Rounds 53/54: 60-slug writer list (r54.ok + r53.rest) plus 20 podcast/streaming mixer guides; 47 written before the session break, last 13 (massagers, ellipticals, stair steppers, vibration plates) finished by a new Sonnet writer. Skip: tc-helicon-streaming-mixers (2 real machines).
+- Round 55: 30 new-cluster topics (r55.topics.txt). add-topics dropped 4 robotic pool cleaner slugs (guide files already exist). Coordinator skips: lithium-jump-starters (lineup = jump-starters), cordless-oscillating-tools (4 items, = oscillating-tools). Same-intent drops before Stage A: burr-coffee-grinders, track-saws, window-vacuums (published; neardup.mjs did NOT flag these exact matches, needs a fix).
+- Writer fabricated 3 products (ASIN not in compact data): KITCHENARM 19-in-1 (small bread machines), Frigidaire FF05 (quiet disposals), Intex Greystone (6-person hot tubs). finish.mjs caught them; removed, lineups now 4/4/5. Sous vide intro spec numbers rewritten.
+- New research: garbage-disposals, inflatable-hot-tubs, pool-vacuums, water-flossers, sous-vide.
+- Checks: neardup 0 on 102, no 【, audit ok, tsc + build green. Follow-up: 4-word opener pass not run; water flosser "ADA Accepted" wording flagged as listing claim.
