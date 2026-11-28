@@ -8,6 +8,30 @@ import { getRelatedGuides } from "@/lib/related-guides";
 import { SITE_URL } from "@/lib/seo";
 import { getDefaultAuthor } from "@/data/authors";
 
+// "How to choose" tables: link a Pick cell to the Amazon listing of the product it names.
+const PICK_HEADER = /pick|model|product|recommend/i;
+const tok = (s: string) => s.toLowerCase().replace(/[^a-z0-9.\- ]+/g, " ").split(/\s+/).filter((t) => t.length > 1 || /\d/.test(t));
+function matchProduct<P extends { name: string; amazonUrl: string }>(part: string, products: P[]): P | undefined {
+  const words = tok(part);
+  if (!words.length) return undefined;
+  let best: P | undefined; let bestScore = 0; let tie = false;
+  for (const p of products) {
+    const name = new Set(tok(p.name));
+    const score = words.filter((w) => name.has(w)).length / words.length;
+    if (score > bestScore) { best = p; bestScore = score; tie = false; } else if (score === bestScore) tie = true;
+  }
+  return bestScore >= 0.6 && !tie ? best : undefined;
+}
+function linkPickCell<P extends { name: string; amazonUrl: string }>(cell: string, products: P[]) {
+  const parts = cell.split(/( or | and |, | \/ )/);
+  const nodes = parts.map((part, i) => {
+    if (i % 2 === 1) return part;
+    const p = matchProduct(part, products);
+    return p ? <a key={i} href={p.amazonUrl} target="_blank" rel="noopener noreferrer sponsored" className="text-cta underline underline-offset-2 hover:text-ink">{part}</a> : part;
+  });
+  return nodes.some((n) => typeof n !== "string") ? <>{nodes}</> : cell;
+}
+
 // ─── Shared shape of a data/guides/<slug>.ts module ────────────────────────────
 // Mirrors the template baked per-guide by scripts/generate-guide-page.mjs.
 // Any data/guides/<slug>.ts file already matches this shape structurally.
@@ -397,7 +421,7 @@ export function RichGuidePage({ slug, guide }: { slug: string; guide: RichGuideM
                             <tbody className="divide-y divide-border">
                               {sub.table.rows.map((row, ri) => (
                                 <tr key={ri} className="hover:bg-cta-light/40">
-                                  {row.map((cell, ci) => <td key={ci} className={`px-4 py-3 align-top ${ci === 0 ? "text-ink font-medium" : "text-ink-secondary"}`}>{cell}</td>)}
+                                  {row.map((cell, ci) => <td key={ci} className={`px-4 py-3 align-top ${ci === 0 ? "text-ink font-medium" : "text-ink-secondary"}`}>{ci > 0 && PICK_HEADER.test(sub.table!.headers[ci] ?? "") ? linkPickCell(cell, products) : cell}</td>)}
                                 </tr>
                               ))}
                             </tbody>
