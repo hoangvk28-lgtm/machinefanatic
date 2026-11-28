@@ -9,28 +9,30 @@ Read ONLY this file. Do not open CLAUDE.md, the runbook, the full brief or refer
 4. Lineup 5 to 7 items (3 or 4 when that is all that really exists); at least 2 (or 40%) with `src: "candidate"` when available. If 3+ distinct on-topic machines exist but candidates cannot meet that quota, write the guide anyway with what exists (never skip a viable topic over the quota). Drop duplicates of the same machine. `priceTier` is for ordering only.
 5. Write `scripts/clone/work/<slug>.spec.json` in ONE Write call (shape below). For products you only need `id` (ASIN): leave amazonUrl, imageUrl, rank, price and heroImage out, the next step fills them.
 6. `node scripts/clone/finish.mjs <slug>` (fills product data, then selfcheck + build + audit in one go). If it prints FIX lines, correct only those with Edit and rerun it. Done when it ends with "audit ok". Do not register, commit or push.
-7. Draft about 3,300 words: selfcheck passes 3,000 to 3,800, so a first draft near 3,000 usually lands under the floor and needs padding rounds.
+7. Draft about 3,300 words by following the per-section word budgets in brackets below (they sum to ~3,300). A draft under 3,000 costs 6 to 10 padding Edits, which doubles the guide's token cost.
+8. Token budget (target 20k per guide, user rule 2026-11-28): at most ~5 tool calls per guide. Read the summaries of a whole cluster at once with `node scripts/clone/summary.mjs <slug> <slug> ...` (open a full compact.json only when a detail is missing), then ONE Write, ONE finish.mjs, and at most ONE fix Edit covering every FIX line together (if words are short, add one big chunk in one Edit, not many small ones). Do not re-read the research file per guide in a cluster, do not re-read a spec you just wrote, do not print long files.
+9. Common FIX traps to avoid in the first draft: first word of any product name inside the intro; spec numbers in the intro; chips over 24 chars; "tested"/"hands-on" even inside other words; in under-N guides any "$" other than the cap; metaTitle over 48 chars.
 
 ## Hard rules
 No em/en dashes. No prices or "$". No star ratings or review counts. Never "tested", "hands-on", "we tried", "in our lab", "we measured" (use "we evaluated", "based on the spec sheet", "owner feedback patterns"). Never paste Amazon bullet text or slogans; rewrite every fact. Only facts from the compact data plus well-established engineering knowledge; never invent numbers. No hype words (amazing, game-changer, must-have, elevate, seamless).
 Voice: experienced mechanic/technician. Mechanism first, decode rated vs peak/marketing specs, year-three ownership reality, firm honest verdicts.
 
-## Spec JSON (2,900 to 3,100 words total)
+## Spec JSON (about 3,300 words total; [word budgets] per section; 4-product guide: add a 7th buyingCriteria and write descriptions at ~280 words)
 ```
 { "guideSlug","categorySlug","mainKeyword" (from compact),
   "guideTitle": "Best X (2026)", "metaTitle": "<=48 chars", "metaDescription": "120-160 chars",
   "lastUpdated": "2026-11-07", "readTime": "12 min", "heroImage": "<rank 1 imageUrl>",
   "expertTake": "3 sentences: top pick, value pick, who should skip the category",
-  "introParagraphs": ["50-70 words", "50-70 words"],  // category level ONLY: no brands, models or spec numbers
+  "introParagraphs": ["60-70 words", "60-70 words"],  // category level ONLY: no brands, models or spec numbers
   "products": [{ "id": ASIN, "rank", "badge": "distinct e.g. Best Overall / Best Value / Best for X",
     "name": "Brand Model key-spec, <=70 chars, own wording", "amazonUrl", "imageUrl", "price": "",
     "specs": ["3-4 chips <=24 chars"], "specList": [{"label","value"} x5],
-    "description": "3 paragraphs split by \n\n, 7-8 sentences total: P1 engineering approach; P2 tradeoffs + fit, compare a named sibling with a number; P3 ownership (upkeep, storage, parts, battery platform, fuel, noise)",
+    "description": "3 paragraphs split by \n\n, [~230 words per product] 9-10 sentences total (finish rejects more than 11): P1 engineering approach; P2 tradeoffs + fit, compare a named sibling with a number; P3 ownership (upkeep, storage, parts, battery platform, fuel, noise)",
     "bestFor": "1 sentence", "pros": ["4 x 50-90 chars, one clause"], "cons": ["2-3, same length, one substantive tradeoff"] }],
-  "buyingCriteria": [{"criterion":"3-6 words","explanation":"3-4 sentences: mechanism, threshold with real numbers, buyer mistake, named lineup products with numbers"} x6],
+  "buyingCriteria": [{"criterion":"3-6 words","explanation":"[90 words] 5 sentences: mechanism, threshold with real numbers, buyer mistake, named lineup products with numbers"} x6],
   "specDecoder": [{"spec","meaning":"2 sentences","watchFor":"1 sentence, cite lineup"} x5],
-  "howWeEvaluated": [{"title","description":"3 sentences, one entry names lineup specs"} x5],
-  "howToChoose": [  // 6, in order; every row/card names a lineup product
+  "howWeEvaluated": [{"title","description":"[45 words] 3-4 sentences, one entry names lineup specs"} x5],
+  "howToChoose": [  // [450 total] 6, in order; every row/card names a lineup product; 4-5 rows per table, Why cells 12-18 words
     {"subheading":"By <primary attribute>","table":{"headers":["Situation","Pick","Why"],"rows":[...]}},
     {"subheading":"By Budget","table":{...relative tiers, no $}},
     {"subheading":"<A> vs <B>","cards":[{"label","text"},{"label","text"}],"note":"who picks which"},
@@ -38,7 +40,7 @@ Voice: experienced mechanic/technician. Mechanism first, decode rated vs peak/ma
     {"subheading":"For <use> Specifically","cards":[{"label":"Look for","text"},{"label":"In this comparison","text"}]},
     {"subheading":"When to Spend More","cards":[{"label":"Spend more if","text"},{"label":"Save if","text"}]} ],
   "maintenance": [{"task","interval","why":"2 sentences"} x5],
-  "faq": [{"q","a":"2-3 sentences"} x6],  // two-type choice, budget, durability, spec myth, safety (only if certain), category-specific
+  "faq": [{"q","a":"[55 words] 3-4 sentences"} x6],  // two-type choice, budget, durability, spec myth, safety (only if certain), category-specific
   "relatedGuides": [] }
 ```
 Final report per slug: products kept (from candidates), words, metaTitle/metaDescription length, audit result; skipped slugs with reasons.

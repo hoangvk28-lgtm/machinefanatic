@@ -1,0 +1,2 @@
+import fs from 'fs';
+for (const s of process.argv.slice(2)) { const j=JSON.parse(fs.readFileSync(`scripts/clone/work/${s}.compact.json`,'utf8')); console.log('##',s,j.mainKeyword,j.items.length); for(const i of j.items) console.log(i.src[0],i.asin,i.priceTier?.[0]+(i.underCap!==undefined?' uc'+i.underCap:''),'|',i.title.slice(0,95),'|',(i.features||[]).slice(0,2).map(f=>f.slice(0,110)).join(' ~ ')); }
