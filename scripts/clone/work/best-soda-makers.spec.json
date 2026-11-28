@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-soda-makers",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "soda makers",
+ "guideTitle": "Best Soda Makers (2026)",
+ "metaTitle": "Best Soda Makers in 2026",
+ "metaDescription": "Six home soda makers compared by CO2 system, bottle type and what you can carbonate: SodaStream Terra, Art, E-Duo, Fountain, Breville and Drinkmate.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/519l3286GdL._SL500_.jpg",
+ "expertTake": "The SodaStream Terra is the best overall because its quick-connect CO2 cylinder system is simple and the machine is built around plain, reliable carbonation. The Drinkmate OmniFizz is the pick for anyone who wants to carbonate juice, tea or cocktails. Households that only drink an occasional glass of seltzer should buy cans.",
+ "introParagraphs": [
+  "A home carbonator dissolves carbon dioxide into water under pressure, so you get sparkling water on demand without carrying cans or bottles from the store. The cost is a gas cylinder you refill or exchange, and the convenience is a stream of fizzy water for the price of tap water.",
+  "What separates the machines is the cylinder connection, whether they can carbonate anything other than water and how the bottles are made. Decide whether you want plain sparkling water, flavored drinks or cocktails before comparing designs."
+ ],
+ "products": [
+  {
+   "id": "B097TD87ZY",
+   "badge": "Best Overall",
+   "name": "SodaStream Terra sparkling water maker with quick-connect CO2",
+   "price": "",
+   "specs": [
+    "Quick connect CO2",
+    "60L cylinders",
+    "Plain water carbonation",
+    "Compact"
+   ],
+   "specList": [
+    {
+     "label": "CO2 system",
+     "value": "CQC quick connect"
+    },
+    {
+     "label": "Cylinders",
+     "value": "60L, two included in bundle"
+    },
+    {
+     "label": "Carbonates",
+     "value": "Water"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual push"
+    },
+    {
+     "label": "Power",
+     "value": "No electricity needed"
+    }
+   ],
+   "description": "The Terra turns tap water into sparkling water in seconds using a CQC quick-connect system, where a cylinder clicks into the back of the machine without threading. A manual push-button carbonation needs no power, so there is nothing to plug in and little to break. Each 60 liter cylinder makes a very large quantity of carbonated water before it runs out.\n\nThe limit is that it is meant for water only. Putting juice or flavored liquid in the bottle can foam over and gum up the machine, so you carbonate plain water and add syrup afterward. Compared with the Drinkmate, it is simpler and more reliable for water, and against the E-Duo it offers a manual push rather than electric operation.\n\nOwnership is about the cylinder routine. Exchange or refill empty cylinders, rinse the bottle after each use and replace carbonating bottles at the end of their date stamp. Keep the cylinder upright and the connection clean, and never use hot water. A bottle brush and a sealed cylinder rack make ownership neater.",
+   "bestFor": "Households that mostly drink plain sparkling water.",
+   "pros": [
+    "Quick-connect cylinder clicks in without threading",
+    "No electricity needed",
+    "Each 60L cylinder makes plenty of fizz",
+    "Simple, reliable design"
+   ],
+   "cons": [
+    "Water only, not for juice or flavored drinks",
+    "Ongoing cost of cylinder exchange"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B097TD87ZY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/519l3286GdL._SL500_.jpg"
+  },
+  {
+   "id": "B09SNH91YJ",
+   "badge": "Best Design",
+   "name": "SodaStream Art sparkling water maker with dishwasher-safe bottles",
+   "price": "",
+   "specs": [
+    "Slim design",
+    "Quick connect CO2",
+    "2 cylinders",
+    "Dishwasher-safe bottles"
+   ],
+   "specList": [
+    {
+     "label": "CO2 system",
+     "value": "Quick connect"
+    },
+    {
+     "label": "Cylinders",
+     "value": "Two 60L included in bundle"
+    },
+    {
+     "label": "Bottles",
+     "value": "Dishwasher-safe"
+    },
+    {
+     "label": "Style",
+     "value": "Designed to stand out"
+    },
+    {
+     "label": "Power",
+     "value": "Manual"
+    }
+   ],
+   "description": "The Art uses the same quick-connect carbonation as the Terra but with a more stylish body and dishwasher-safe bottles, which matter for keeping the bottle clean. It comes in a bundle with two 60 liter cylinders, so you have a spare ready when the first one runs dry. The mechanism is entirely manual and uses no electricity.\n\nThe tradeoff is price for looks. The carbonation quality is the same as the Terra's, so you are paying for the design and the dishwasher-safe bottles. Compared with the Terra, it is the more decorative choice, and against the Drinkmate it is water only.\n\nWash bottles regularly, use cold water and replace the bottles when they expire. Keep the cylinder upright when exchanging. If you host often, an extra bottle lets you carbonate ahead.",
+   "bestFor": "Buyers who want a design piece for the counter with the same reliability.",
+   "pros": [
+    "Stylish body for the kitchen counter",
+    "Dishwasher-safe bottles",
+    "Two cylinders in the bundle",
+    "Same simple quick-connect system"
+   ],
+   "cons": [
+    "Same water-only limitation as the Terra",
+    "Costs more than plain models for the design"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B09SNH91YJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41WY4jQn+qL._SL500_.jpg"
+  },
+  {
+   "id": "B0DGMPXWZF",
+   "badge": "Best Electric",
+   "name": "SodaStream E-Duo sparkling water maker with glass and plastic bottles",
+   "price": "",
+   "specs": [
+    "Electric",
+    "Glass and plastic",
+    "60L CO2",
+    "Black finish"
+   ],
+   "specList": [
+    {
+     "label": "Operation",
+     "value": "Electric carbonation"
+    },
+    {
+     "label": "Bottles",
+     "value": "1 BPA-free plastic and 1 L glass"
+    },
+    {
+     "label": "Cylinder",
+     "value": "60L CO2 included"
+    },
+    {
+     "label": "Finish",
+     "value": "Black"
+    },
+    {
+     "label": "System",
+     "value": "Sparkling water maker"
+    }
+   ],
+   "description": "The E-Duo uses an electric mechanism to carbonate, with a button that sets the fizz level and removes the need to push a lever manually. It comes with a BPA-free plastic carbonating bottle and a 1 liter glass bottle, giving you a choice of material for taste and durability, and a 60 liter cylinder to start.\n\nThe tradeoff is complexity and cost. An electric machine has a motor and a power cord and more parts to fail than a manual push model. Compared with the Terra, it removes the manual effort but adds electronics, and against the Breville it is a water-only unit.\n\nKeep the unit dry and clean, rinse the bottle after each use and replace bottles at the end of their life. Check that the cylinder connection is seated. Test the glass bottle's weight in your hand before choosing it for a child's use.",
+   "bestFor": "Households who want push-button carbonation with a glass bottle option.",
+   "pros": [
+    "Electric carbonation with consistent fizz levels",
+    "Glass and BPA-free plastic bottles included",
+    "60L cylinder included",
+    "Black finish suits many kitchens"
+   ],
+   "cons": [
+    "Motor and cord add parts to fail",
+    "Water only"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DGMPXWZF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41JdDBHV3KL._SL500_.jpg"
+  },
+  {
+   "id": "B07VZRWWPT",
+   "badge": "Best for Carbonating Anything",
+   "name": "Drinkmate OmniFizz sparkling water and soda maker",
+   "price": "",
+   "specs": [
+    "Carbonates any drink",
+    "60L CO2 bundle",
+    "Juice and cocktails",
+    "Manual"
+   ],
+   "specList": [
+    {
+     "label": "Carbonates",
+     "value": "Water, juice, tea, cocktails"
+    },
+    {
+     "label": "CO2",
+     "value": "60L cylinder in bundle"
+    },
+    {
+     "label": "Operation",
+     "value": "Manual"
+    },
+    {
+     "label": "Design",
+     "value": "Anti-foam fizz infuser"
+    },
+    {
+     "label": "Versatility",
+     "value": "Highest in this guide"
+    }
+   ],
+   "description": "The OmniFizz is the one machine here designed to carbonate more than water. Its fizz infuser and venting system let you carbonate juice, tea, cocktails and other drinks without the overflow and gumming that damage a SodaStream, so you can start with flavor and then fizz. It ships in a bundle with a 60 liter CO2 cylinder.\n\nThe tradeoff is complexity and cleanup. Carbonating sugary liquids leaves residue that must be cleaned, and the operation is a little slower than a simple push. Compared with the Terra, it opens up many more recipes, but the cylinder is different from the SodaStream quick-connect type, so check which cylinder your region exchanges.\n\nRinse the bottle and the infuser after each sugary batch, and follow the maker's guidance on fill levels. Use cold liquids and release pressure slowly. Run a small cleaning cycle with warm water after sticky drinks.",
+   "bestFor": "People who want to carbonate juice, tea or cocktails.",
+   "pros": [
+    "Carbonates juice, tea, cocktails and water",
+    "Anti-foam design handles sugary liquids",
+    "60L CO2 cylinder in the bundle",
+    "No electricity needed"
+   ],
+   "cons": [
+    "More cleaning after sugary drinks",
+    "Cylinder type differs from SodaStream"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07VZRWWPT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41LBJEsl16L._SL500_.jpg"
+  },
+  {
+   "id": "B0DBN322HV",
+   "badge": "Best Premium Design",
+   "name": "Breville InFizz Fusion sparkling drink carbonator",
+   "price": "",
+   "specs": [
+    "Fizz after flavor",
+    "Brushed stainless",
+    "Juice and tea",
+    "CO2 not included"
+   ],
+   "specList": [
+    {
+     "label": "Carbonates",
+     "value": "Juice, tea and other drinks"
+    },
+    {
+     "label": "Finish",
+     "value": "Brushed stainless steel"
+    },
+    {
+     "label": "CO2",
+     "value": "Cylinder not included"
+    },
+    {
+     "label": "Model",
+     "value": "BCA800BSS"
+    },
+    {
+     "label": "Workflow",
+     "value": "Start with flavor, then fizz"
+    }
+   ],
+   "description": "The InFizz Fusion lets you start with full flavor and fizz afterward, carbonating juice, tea and other drinks as well as water. Its brushed stainless steel finish gives it a premium look, and the workflow reverses the usual order of adding syrup after carbonation. The CO2 cylinder is sold separately, which affects the starting cost.\n\nThe tradeoff is cost and ownership details. Because the cylinder is not included, you must source it, and cleaning after flavored carbonation is a regular chore. Compared with the Drinkmate, it offers a more refined design, and against the SodaStream models it is more flexible but more expensive.\n\nUse cold liquids, fill to the marked line and rinse the parts after use. Check cylinder compatibility before buying. Check the cylinder supplier in your area before ordering.",
+   "bestFor": "Cooks who want to carbonate flavored drinks in a premium machine.",
+   "pros": [
+    "Carbonates juice, tea and other drinks",
+    "Brushed stainless steel finish",
+    "Flavor-first, fizz-second workflow",
+    "Premium feel"
+   ],
+   "cons": [
+    "CO2 cylinder not included",
+    "Higher cost and regular cleaning"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DBN322HV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31lYxKmg-7L._SL500_.jpg"
+  },
+  {
+   "id": "B0H2F8XK4R",
+   "badge": "Best Starter Kit",
+   "name": "SodaStream Fountain starter kit with 60L CO2",
+   "price": "",
+   "specs": [
+    "60L CO2 included",
+    "Starter kit",
+    "Carbonating bottle",
+    "Silver and black"
+   ],
+   "specList": [
+    {
+     "label": "Kit",
+     "value": "Starter kit"
+    },
+    {
+     "label": "CO2",
+     "value": "60L canister included"
+    },
+    {
+     "label": "Variety",
+     "value": "1000+ drink varieties claim"
+    },
+    {
+     "label": "Finish",
+     "value": "Silver and black"
+    },
+    {
+     "label": "System",
+     "value": "Sparkling water maker"
+    }
+   ],
+   "description": "The Fountain is sold as a starter kit that includes a 60 liter CO2 canister and carbonating bottles, so you can make sparkling water as soon as it arrives. The maker promotes it as a platform for more than a thousand drink varieties, which reflects the large range of syrups and flavor products sold for the system.\n\nThe tradeoff is that the machine is still a water carbonator at heart. The drink variety comes from what you add after fizzing, and ongoing costs include syrups and cylinder exchanges. Compared with the Terra, it is a newer design with a starter kit, and against the Drinkmate it is simpler but less versatile.\n\nStart by carbonating plain cold water, add flavor afterwards and rinse bottles after use. Replace bottles at their expiry date. Keep the box for the first season in case you want to return it.",
+   "bestFor": "Newcomers who want a complete starter kit.",
+   "pros": [
+    "Starter kit with a 60L CO2 canister",
+    "Wide range of compatible flavors and syrups",
+    "Easy to set up",
+    "Silver and black finish"
+   ],
+   "cons": [
+    "Water-only carbonation",
+    "Syrup and cylinder costs add up"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0H2F8XK4R?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41arLkfQInL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Cylinder system and availability",
+   "explanation": "Most home carbonators use a CO2 cylinder, and the connection type decides where you can exchange or refill. SodaStream's quick-connect cylinders are widely exchanged, while other brands use different sizes. Check how easy it is to get cylinders where you live, since running out is a regular annoyance. Before you buy, confirm the exchange or refill program near you, because a machine whose cylinders are hard to find becomes an expensive ornament. Some stores swap empties for full cylinders at a standard fee, and some refill shops fill any compatible cylinder."
+  },
+  {
+   "criterion": "Water only or any drink",
+   "explanation": "SodaStream machines like the Terra, Art and E-Duo are designed for plain water, because carbonating juice or flavored liquid can foam over and damage the machine. The Drinkmate OmniFizz and Breville InFizz Fusion are built to carbonate flavored drinks. If you want cocktails and juice, choose a machine designed for it. If you only occasionally want a cocktail mixer, it is cheaper to carbonate plain water and add the flavor afterward, which works in any machine on this list. Foam is the real danger: a bottle that overflows can send sweet liquid into the valve, where it cakes and sticks."
+  },
+  {
+   "criterion": "Manual versus electric",
+   "explanation": "A manual push, as on the Terra, is simple and needs no power, while an electric machine like the E-Duo sets fizz levels with a button. Electric adds convenience and parts. Choose the one you will trust in five years. Electric machines are friendly to people with limited hand strength, since a button replaces a firm push. An electric machine also gives repeatable results, so two people in a household get the same fizz level from the same setting."
+  },
+  {
+   "criterion": "Bottle material and care",
+   "explanation": "Bottles come in plastic and glass, and many have expiry dates. The Art offers dishwasher-safe bottles and the E-Duo includes a glass bottle. Care for bottles properly, since pressure and age weaken them. Check the expiry stamp on bottles when they arrive, and replace plastic bottles on schedule, because repeated pressure fatigue is real."
+  },
+  {
+   "criterion": "Running cost",
+   "explanation": "Each cylinder lasts a certain number of liters, and refill or exchange costs recur. A 60 liter cylinder makes a lot of sparkling water, but flavors add to the cost. Compare the cost per liter to buying cans. Track how many liters you make per cylinder so you can plan exchanges rather than being surprised by an empty one."
+  },
+  {
+   "criterion": "Cleaning after flavored drinks",
+   "explanation": "Sugary liquids leave residue in the infuser and valve. The Drinkmate and Breville need rinsing after each flavored batch. If cleaning will put you off, stick to plain water. A bottle brush and a regular rinse are enough for plain water; sugary drinks need a deeper clean. If you choose a flavored-drink machine, plan an extra minute of rinsing after every use and let the parts dry."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CO2 cylinder size (60L)",
+   "meaning": "A 60 liter cylinder holds enough gas to carbonate about 60 liters of water. It is the common household size. The rating is approximate, since a stronger fizz uses more gas per liter.",
+   "watchFor": "The Terra, Art, E-Duo, Fountain and Drinkmate bundles list 60L."
+  },
+  {
+   "spec": "Quick connect (CQC)",
+   "meaning": "A connection that clicks the cylinder into the machine without screwing. It makes swapping cylinders easier. Quick connect also reduces cross-threading wear on the cylinder valve.",
+   "watchFor": "The Terra and Art use it."
+  },
+  {
+   "spec": "Carbonation level",
+   "meaning": "How much gas dissolves in the water. More pushes or a longer press make a fizzier drink. Because every machine delivers a slightly different fizz, adjust the number of presses to your taste.",
+   "watchFor": "The E-Duo sets levels electronically."
+  },
+  {
+   "spec": "BPA-free bottle",
+   "meaning": "A bottle made of plastic without bisphenol A. Check its expiry date. Check the expiry date stamped on the bottle's base and neck.",
+   "watchFor": "The E-Duo includes a BPA-free plastic bottle."
+  },
+  {
+   "spec": "Fizz infuser",
+   "meaning": "A mechanism that lets you carbonate flavored liquids without overflow. Fill only to the marked line, since overfilling prevents proper carbonation and causes spray.",
+   "watchFor": "The OmniFizz and InFizz Fusion advertise it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Carbonation system",
+   "description": "We compared cylinder connections and operation. The Terra and Art use quick connect, and the E-Duo is electric. Reliable carbonation scored higher. We also compared how easy it is to find compatible cylinders and refills. We also considered what the maker says about carbonating liquids other than water."
+  },
+  {
+   "title": "Drink versatility",
+   "description": "We checked which machines carbonate more than water. The OmniFizz and InFizz Fusion do. Versatility scored higher for those who want it. We noted whether a manual warns against carbonating anything but water."
+  },
+  {
+   "title": "Bottles and materials",
+   "description": "We looked at bottle types and dishwasher safety. The Art has dishwasher-safe bottles and the E-Duo includes glass. Practical bottles scored higher. We checked which bottles are dishwasher-safe."
+  },
+  {
+   "title": "Kit completeness",
+   "description": "We considered what ships in the box. The Fountain and bundles include cylinders, and the InFizz does not. Complete kits scored higher. We counted what is in the box, including cylinders and bottles."
+  },
+  {
+   "title": "Ownership",
+   "description": "We weighed cleaning, cylinder exchange and owner feedback patterns. Simple routines scored higher. We also weighed how much counter space each machine uses."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By What You Drink",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Plain sparkling water",
+      "SodaStream Terra",
+      "Quick-connect and simple"
+     ],
+     [
+      "Juice, tea and cocktails",
+      "Drinkmate OmniFizz",
+      "Carbonates any drink"
+     ],
+     [
+      "Flavor first, then fizz",
+      "Breville InFizz Fusion",
+      "Flavored carbonation"
+     ],
+     [
+      "Starter kit with flavors",
+      "SodaStream Fountain",
+      "Complete kit"
+     ],
+     [
+      "Glass bottle option",
+      "SodaStream E-Duo",
+      "Glass and plastic bottles"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "SodaStream Fountain",
+      "Starter kit"
+     ],
+     [
+      "Entry mid tier",
+      "SodaStream Terra",
+      "Reliable manual unit"
+     ],
+     [
+      "Design tier",
+      "SodaStream Art",
+      "Style with dishwasher-safe bottles"
+     ],
+     [
+      "Upper tier electric",
+      "SodaStream E-Duo",
+      "Electric carbonation"
+     ],
+     [
+      "Premium",
+      "Breville InFizz Fusion",
+      "Stainless steel and versatility"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Water-Only vs Any-Drink",
+   "cards": [
+    {
+     "label": "Water-only",
+     "text": "The Terra, Art, E-Duo and Fountain make sparkling water and you add flavor later. They are simple and reliable."
+    },
+    {
+     "label": "Any-drink",
+     "text": "The OmniFizz and InFizz Fusion carbonate juices, teas and cocktails. They need more cleaning and cost more."
+    }
+   ],
+   "note": "Most households should pick water-only, and cocktail fans should pick any-drink."
+  },
+  {
+   "subheading": "Operation",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "No power needed",
+      "SodaStream Terra",
+      "Manual quick connect"
+     ],
+     [
+      "Push-button fizz levels",
+      "SodaStream E-Duo",
+      "Electric"
+     ],
+     [
+      "Dishwasher-safe bottles",
+      "SodaStream Art",
+      "Easy cleaning"
+     ],
+     [
+      "Anti-foam design",
+      "Drinkmate OmniFizz",
+      "Venting system"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Everyday Sparkling Water Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for easy cylinder exchange, durable bottles and a design you can wash. Plain water is the simplest and cheapest."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Terra is the most dependable, the Art adds style, and the E-Duo adds electric control."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you want to carbonate flavored drinks. The OmniFizz and InFizz Fusion are built for it."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you only drink plain seltzer. The Terra or Fountain covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Rinse the bottle after each use",
+   "interval": "Every use",
+   "why": "Residue breeds bacteria and odors. Use a bottle brush on the neck, where residue gathers."
+  },
+  {
+   "task": "Replace bottles by their date",
+   "interval": "As stamped",
+   "why": "Pressure weakens bottles over time. Keep a note of the purchase date on each bottle."
+  },
+  {
+   "task": "Exchange empty cylinders",
+   "interval": "As needed",
+   "why": "Never run a machine empty on repeated presses. Store the spare cylinder upright and secured away from heat."
+  },
+  {
+   "task": "Wipe the carbonation head",
+   "interval": "Monthly",
+   "why": "Mineral deposits and syrup can clog it. Wipe away mineral deposits with a cloth dampened in diluted vinegar."
+  },
+  {
+   "task": "Use cold water only",
+   "interval": "Always",
+   "why": "Warm water carbonates poorly and can foam. Stop pressing if the machine vents; extra pressure only wastes gas."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can I carbonate juice in a SodaStream?",
+   "a": "Not in most models, because foaming can damage them. Use the Drinkmate or Breville for flavored liquids. Many owners find a weekly carbonation rhythm the easiest: chill a few bottles of water in the fridge and fizz them just before drinking. If you are new to carbonation, start by making one bottle at a time and learn how many presses your taste prefers."
+  },
+  {
+   "q": "How long does a CO2 cylinder last?",
+   "a": "A 60L cylinder carbonates about 60 liters of water. The actual number depends on the fizz level you choose. Cylinder life varies with how fizzy you like your water, so the stated number is a guide rather than a promise. Never keep a leftover carbonated drink in a sealed bottle in a hot car, since pressure builds."
+  },
+  {
+   "q": "Is sparkling water cheaper than cans?",
+   "a": "Usually, once you account for cylinder cost per liter. Flavors add to the cost. If you have a small kitchen, choose the slimmer design and keep the spare cylinder in a closet. Chill water first, because cold water holds more gas than warm."
+  },
+  {
+   "q": "Do I need electricity?",
+   "a": "Not for the Terra, Art or Drinkmate. The E-Duo is electric. Never fill bottles with hot liquids, which lowers gas solubility and can spray."
+  },
+  {
+   "q": "How do I clean the bottle?",
+   "a": "Rinse after each use and use dishwasher-safe bottles if available. Never use hot water. Check the date code on the bottle and replace it on time."
+  },
+  {
+   "q": "How long do these machines last?",
+   "a": "Manual machines last many years. Bottles and seals are the wear items. Check the manufacturer's care notes before using any cleaner on the head. Replace any bottle that shows cracks, cloudiness or stress marks."
+  }
+ ],
+ "relatedGuides": []
+}

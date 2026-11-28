@@ -1,0 +1,592 @@
+{
+ "guideSlug": "best-4-channel-podcast-mixers",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "4 channel podcast mixer",
+ "guideTitle": "Best 4 Channel Podcast Mixers (2026)",
+ "metaTitle": "Best 4 Channel Podcast Mixers 2026",
+ "metaDescription": "Six four channel podcast mixers compared on true XLR inputs, phantom power, headphone feeds and recording, for shows with up to four voices.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The Tascam Mixcast 4 is the best four channel podcast mixer here because it pairs four XLR and TRS mic inputs with a touchscreen, a recorder and a USB interface in one chassis. The W IN-MIX 4 Channel is the value pick for a USB driven setup that wants per channel phantom power. A solo host should skip four channels entirely.",
+ "introParagraphs": [
+  "Four channels is the natural size for a roundtable show: two hosts, a guest and a spare for a caller or a music feed. The label is slippery, though, because a four channel board may carry four microphone preamps or only two with the rest reserved for line sources.",
+  "The sensible way to shop is to separate recorders that capture on their own from USB boards that rely on a computer, then confirm how many inputs actually take an XLR microphone and supply phantom power. Everything else is secondary."
+ ],
+ "products": [
+  {
+   "id": "B09BD6BC55",
+   "badge": "Best Overall",
+   "name": "Tascam Mixcast 4 podcast mixer, recorder and interface",
+   "specs": [
+    "4 XLR/TRS inputs",
+    "Touchscreen",
+    "Built in recorder",
+    "USB interface"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "4 XLR/TRS combination"
+    },
+    {
+     "label": "Display",
+     "value": "Touchscreen"
+    },
+    {
+     "label": "Recording",
+     "value": "Built in recorder"
+    },
+    {
+     "label": "Computer link",
+     "value": "USB audio interface"
+    },
+    {
+     "label": "Role",
+     "value": "Podcast and streaming mixer"
+    }
+   ],
+   "description": "The Mixcast 4 is built around the idea that four people sit at one table and the mixer should look after the whole session. Four mic inputs accept XLR or TRS connectors, a touchscreen handles routing and settings, and the same chassis records and serves as a USB audio interface, so it works with or without a computer.\n\nThe design trades a bit of simplicity for completeness. It has more menus than a basic USB board, and the first hour goes to learning where processing and recording live. Next to the Zoom PodTrak P4 it adds a touchscreen and a deeper mixer surface, while the Zoom is more of a recorder with simple controls.\n\nOwnership is straightforward. Keep firmware current, format the card inside the unit and give each host a proper boom arm so the preamps are not asked to hide handling noise. The combination of recorder and interface also means you can plan a single desk rather than a stack of boxes. A good habit is to record a ten second test from all four mics before every session and play it back through the headphones, since a loose TRS plug or a muted channel is far cheaper to find before the guest arrives than after the interview. Storing a scene preset for the usual four person layout shortens that routine to a few taps.",
+   "bestFor": "Four person shows that want a touchscreen, recorder and interface in one unit.",
+   "pros": [
+    "Four combo inputs take XLR or TRS",
+    "Touchscreen simplifies routing",
+    "Works with or without a computer",
+    "Records and acts as a USB interface"
+   ],
+   "cons": [
+    "Menu depth takes a short learning period",
+    "Higher price tier than USB only boards"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B09BD6BC55?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41JXUVBU4iL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08F8HL7T7",
+   "badge": "Best Simple Recorder",
+   "name": "Zoom PodTrak P4 4 XLR input podcast recorder",
+   "specs": [
+    "4 XLR inputs",
+    "4 headphone outs",
+    "Phone and USB input",
+    "Sound pads"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "4 XLR with phantom power"
+    },
+    {
+     "label": "Headphones",
+     "value": "4 outputs, individual volume"
+    },
+    {
+     "label": "Remote guests",
+     "value": "Phone and USB input"
+    },
+    {
+     "label": "Pads",
+     "value": "4 programmable sound pads"
+    },
+    {
+     "label": "Recording",
+     "value": "Multitrack for all inputs and pads"
+    }
+   ],
+   "description": "The P4 is the least fussy way to record four people. Four high quality mic inputs with phantom power, four headphone outputs each with its own volume knob, and four programmable sound pads sit on a compact body. Every input and every pad can be recorded on its own track.\n\nWhat it gives up is polish. Controls are knob and button based, there is no touchscreen, and it relies on you to dial in sensible levels before recording. Against the P4next it lacks the AI noise reduction and tone tools, but it avoids the extra menus that come with them.\n\nDay to day it is a rugged little box. Keep fresh batteries or a good USB supply ready, and label the headphone knobs so hosts can find their own level quickly. Because it runs from USB power or batteries, it also doubles as a field recorder for an interview away from the studio, which a computer bound board cannot do. Carry a spare card and a short balanced cable per mic, and the whole kit fits in a small bag.",
+   "bestFor": "Hosts who want a straightforward four person recorder with phone and USB inputs.",
+   "pros": [
+    "Four XLR inputs with phantom power",
+    "Individual headphone volume for four people",
+    "Phone and USB input for remote guests",
+    "Every input recorded on its own track"
+   ],
+   "cons": [
+    "No AI cleanup tools",
+    "No touchscreen, knob driven control"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B08F8HL7T7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41nMB7DJSWL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FX364R93",
+   "badge": "Best for Quiet Mics",
+   "name": "Zoom PodTrak P4next 4 input recorder with AI tools",
+   "specs": [
+    "4 inputs",
+    "+70 dB gain",
+    "AI noise reduction",
+    "Tone enhancement"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "4 XLR"
+    },
+    {
+     "label": "Gain",
+     "value": "Up to 70 dB"
+    },
+    {
+     "label": "AI tools",
+     "value": "Noise reduction, tone enhancement, COMP"
+    },
+    {
+     "label": "Headphones",
+     "value": "4 outputs"
+    },
+    {
+     "label": "Extras",
+     "value": "Sound pads"
+    }
+   ],
+   "description": "P4next updates the P4 formula with gain and cleanup. Its four XLR inputs deliver up to 70 dB, enough for a low output dynamic microphone, and the AI noise reduction, tone enhancement and compressor give the raw recording a head start on the edit.\n\nThe upgrade matters most if your room is noisy or your mics are quiet. If you already own condensers with healthy output, the plain P4 will do the same job for less. The P4next also keeps the headphone and sound pad layout, so four people can still share the desk.\n\nPlace the recorder near the center of the table, use a pop filter on each mic and check the AI settings once before recording, since heavy noise reduction can make voices sound processed. A sensible approach is to treat the AI tools as a safety net: record with them on, keep the raw tracks, and compare a minute of speech with the cleanup off before committing to a setting for the whole season. Moving the mics a hand width closer to each mouth usually does more for the noise floor than any software.",
+   "bestFor": "Four hosts with quiet dynamic microphones in a not entirely silent room.",
+   "pros": [
+    "Up to 70 dB gain for quiet mics",
+    "AI noise reduction reduces editing",
+    "Four headphone outputs",
+    "Sound pads for stingers"
+   ],
+   "cons": [
+    "More processing options to manage",
+    "Costs more than the original P4"
+   ],
+   "src": "candidate",
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FX364R93?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/317HGcuftrL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FD9TYR59",
+   "badge": "Best USB Board With Per Channel Phantom",
+   "name": "W IN-MIX 4 channel mixer, 256 DSP and independent 48V",
+   "specs": [
+    "4 XLR/TRS inputs",
+    "Independent 48V",
+    "256 DSP effects",
+    "3 band EQ"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "4 XLR/TRS"
+    },
+    {
+     "label": "Phantom",
+     "value": "Independent 48V"
+    },
+    {
+     "label": "Effects",
+     "value": "256 DSP"
+    },
+    {
+     "label": "EQ",
+     "value": "3 band per channel"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    }
+   ],
+   "description": "The W IN-MIX stands out by promising what many budget four channel boards leave vague: four XLR or TRS inputs, independent 48V phantom power per channel, and a three band EQ on each strip. A large library of DSP effects and Bluetooth round it out for a small console aimed at a USB workflow.\n\nIndependent phantom control matters when you mix a condenser with a dynamic mic, because you can power one without sending voltage to the other. The tradeoff is that this is a USB board, not a standalone recorder, so the computer does the recording and a crashed laptop ends the session.\n\nTreat the effects library as a toy box and keep the EQ gentle. Pair it with balanced cables, and use a clean power source to keep hiss down. Set the three band EQ conservatively: a small cut around the low mids and a slight lift in the presence range is often enough, and heavy boosts make microphones sound brittle. Because the board feeds a computer, save a recording template in your editing software so channel names and levels load identically each week.",
+   "bestFor": "A USB podcast desk mixing condenser and dynamic microphones on a budget.",
+   "pros": [
+    "Independent 48V per channel",
+    "Three band EQ on each channel",
+    "Four XLR and TRS inputs",
+    "Bluetooth for phone audio"
+   ],
+   "cons": [
+    "Needs a computer to record",
+    "Large effect library adds little to speech"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FD9TYR59?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51xpnBqDe5L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CXD5QHKM",
+   "badge": "Best Entry Board",
+   "name": "TKLBLS 4 channel podcast mixer with 99 DSP effects",
+   "specs": [
+    "4 channels",
+    "99 DSP effects",
+    "48V phantom",
+    "XLR input"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "4"
+    },
+    {
+     "label": "Effects",
+     "value": "99 DSP"
+    },
+    {
+     "label": "Phantom",
+     "value": "48V"
+    },
+    {
+     "label": "Input",
+     "value": "XLR"
+    },
+    {
+     "label": "Form",
+     "value": "Compact mixing console"
+    }
+   ],
+   "description": "TKLBLS offers a compact console that lists 99 DSP effects, 48V phantom power and XLR input. It is aimed at someone who wants a hands on board with a handful of knobs and a USB link.\n\nThe unknowns are the same as with many budget four channel units. The listing speaks of channels, so check how many are true XLR mic channels before planning a four host table. Next to the W IN-MIX it offers fewer details about channel level phantom control and EQ.\n\nUse it as an affordable starter board. Keep expectations modest for gain headroom with dynamic microphones and plan to run condensers where possible. Test each channel with the exact microphone you will use, and listen for hiss with the gain at the level you actually need rather than at a quiet test setting. If it passes that check, the compact console is a perfectly workable starting point for a small show that may later graduate to a standalone recorder.",
+   "bestFor": "A starter board for one or two hosts who want knobs, EQ and phantom power cheaply.",
+   "pros": [
+    "Compact console with hands on knobs",
+    "48V phantom power listed",
+    "99 effects for casual use",
+    "Low entry price tier"
+   ],
+   "cons": [
+    "Check how many channels take XLR mics",
+    "Gain details are thin for dynamic mics"
+   ],
+   "src": "pick",
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0CXD5QHKM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51-rqW2VOlL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0F4WF9QLV",
+   "badge": "Best Playback Features",
+   "name": "Aveek 4 channel audio mixer with USB PC recording",
+   "specs": [
+    "4 channels",
+    "USB recording",
+    "Bluetooth",
+    "48V phantom"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "4"
+    },
+    {
+     "label": "Recording",
+     "value": "USB to PC"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth"
+    },
+    {
+     "label": "Phantom",
+     "value": "48V"
+    },
+    {
+     "label": "Effects",
+     "value": "99 DSP, USB playback"
+    }
+   ],
+   "description": "Aveek's four channel mixer pairs PC recording over USB with Bluetooth, 48V phantom power and USB playback, making it useful for shows that mix in music from a drive or phone. The 99 DSP effects are there for color rather than necessity.\n\nIt behaves like a USB board with a music player attached. It does not record on its own, so it relies on the computer. Compared with the TKLBLS it adds USB playback, which helps for show intros and background beds.\n\nKeep the playback level below the voices and use headphones to check the mix. As with other boards in this price tier, a good microphone and boom arm lift the result more than additional effects. The USB playback port is the practical highlight: load an intro, an outro and a music bed onto a drive, label the files clearly and you can trigger them without leaving the mixer. Check the drive format the manual allows before copying files, because many mixers accept only a limited set of file types and fill sizes.",
+   "bestFor": "Hosts who mix music from a USB drive or phone with live voices.",
+   "pros": [
+    "USB playback for intros and beds",
+    "Bluetooth for phone audio",
+    "Phantom power for condensers",
+    "Records to a PC over USB"
+   ],
+   "cons": [
+    "No standalone recording",
+    "Effects add little for speech"
+   ],
+   "src": "candidate",
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F4WF9QLV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51sLgf6kSzL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "True XLR count",
+   "explanation": "A four channel label counts inputs, not microphone preamps. The Tascam Mixcast 4, Zoom PodTrak P4 and P4next each carry four XLR style inputs, while a board such as the TKLBLS needs checking. Confirm four real mic inputs if four people will talk."
+  },
+  {
+   "criterion": "Standalone or USB",
+   "explanation": "The Mixcast 4 and PodTrak models record without a computer, which protects a long interview from a crash. The W IN-MIX, TKLBLS and Aveek record through a PC. Choose the approach that matches your editing habits and how much you trust your laptop."
+  },
+  {
+   "criterion": "Phantom power control",
+   "explanation": "Condenser microphones need 48V, while dynamic mics do not. The W IN-MIX lists independent 48V, which lets you power one channel without the others. A single global switch is fine only if every mic tolerates it."
+  },
+  {
+   "criterion": "Headphone outputs",
+   "explanation": "Four hosts need four headphone feeds. The PodTrak P4 and P4next provide four outputs with individual volume, while USB boards usually have one. A single output forces you to add a headphone amplifier."
+  },
+  {
+   "criterion": "Gain for dynamic mics",
+   "explanation": "Broadcast dynamics need about 60 to 70 dB of clean gain. The P4next advertises up to 70 dB. Boards that do not state gain should be treated cautiously with quiet mics."
+  },
+  {
+   "criterion": "Mix minus and remote guests",
+   "explanation": "A remote caller needs a feed without their own voice. The PodTrak recorders include phone and USB inputs for this. USB boards depend on software routing and can leave a caller hearing an echo. Portability also plays a part: the Zoom recorders run from USB power or batteries and fit a bag, so a show that sometimes moves to a client office is easier with a PodTrak than with a desk unit such as the Mixcast 4 or a laptop dependent board like the Aveek."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Combo XLR/TRS input",
+   "meaning": "A single jack that accepts either an XLR microphone cable or a quarter inch TRS plug.",
+   "watchFor": "The Mixcast 4 and W IN-MIX list XLR/TRS inputs, which gives you flexibility for line sources."
+  },
+  {
+   "spec": "Independent phantom",
+   "meaning": "Each channel can be powered separately for condenser mics.",
+   "watchFor": "Only the W IN-MIX states independent 48V in this group."
+  },
+  {
+   "spec": "Multitrack recording",
+   "meaning": "Each input is recorded as its own file.",
+   "watchFor": "The PodTrak P4 records all inputs and pads on separate tracks."
+  },
+  {
+   "spec": "Gain (dB)",
+   "meaning": "How much a preamp can amplify a signal. Dynamic mics want about 60 to 70 dB.",
+   "watchFor": "The P4next lists up to 70 dB."
+  },
+  {
+   "spec": "DSP effects",
+   "meaning": "Digital reverbs and echoes built in.",
+   "watchFor": "The W IN-MIX lists 256, while TKLBLS and Aveek list 99. Few matter for speech."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Input integrity",
+   "description": "We checked how many true microphone inputs each unit exposes, valuing the four XLR inputs on the Tascam Mixcast 4 and Zoom recorders. Channel counts alone did not earn points."
+  },
+  {
+   "title": "Recording approach",
+   "description": "We separated standalone recorders from USB boards, since the Mixcast 4 and PodTrak units keep recording if a computer fails. USB boards rely on the host machine."
+  },
+  {
+   "title": "Phantom and gain",
+   "description": "We looked at phantom power control and stated gain, using the W IN-MIX's independent 48V and the P4next's 70 dB as the strongest examples."
+  },
+  {
+   "title": "Monitoring and extras",
+   "description": "We counted headphone outputs, pads and remote inputs because a table of four hosts needs separate monitoring."
+  },
+  {
+   "title": "Value",
+   "description": "We compared relative price tiers, noting that the TKLBLS and Aveek sit at the lower end while the Mixcast 4 sits at the top."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Show Setup",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Four hosts in one room",
+      "Tascam Mixcast 4",
+      "Four mic inputs with recorder and touchscreen"
+     ],
+     [
+      "Simple four person recording",
+      "Zoom PodTrak P4",
+      "Four XLR inputs and four headphone feeds"
+     ],
+     [
+      "Quiet mics in a noisy room",
+      "Zoom PodTrak P4next",
+      "Up to 70 dB gain and AI cleanup"
+     ],
+     [
+      "Mixed condenser and dynamic mics",
+      "W IN-MIX 4 Channel",
+      "Independent 48V per channel"
+     ],
+     [
+      "Music and bumper playback",
+      "Aveek 4 Channel",
+      "USB playback and Bluetooth"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "TKLBLS 4 Channel",
+      "Basic board with phantom and EQ"
+     ],
+     [
+      "Low",
+      "Aveek 4 Channel",
+      "Adds USB playback and Bluetooth"
+     ],
+     [
+      "Mid",
+      "W IN-MIX 4 Channel",
+      "Better phantom and EQ details"
+     ],
+     [
+      "Mid to high",
+      "Zoom PodTrak P4",
+      "Standalone four person recorder"
+     ],
+     [
+      "Highest",
+      "Tascam Mixcast 4",
+      "Touchscreen and full recorder"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Standalone vs Computer Based",
+   "cards": [
+    {
+     "label": "Standalone",
+     "text": "The Mixcast 4 and the Zoom P4 and P4next record without a computer, protecting you from crashes."
+    },
+    {
+     "label": "Computer based",
+     "text": "The W IN-MIX, TKLBLS and Aveek record through a PC, which suits a workflow already centered on editing software."
+    }
+   ],
+   "note": "Choose standalone for roundtable shows and USB boards if your computer is always part of the setup."
+  },
+  {
+   "subheading": "By Remote Guest Needs",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Phone caller",
+      "Zoom PodTrak P4",
+      "Phone input built in"
+     ],
+     [
+      "Software call",
+      "Tascam Mixcast 4",
+      "USB interface and routing"
+     ],
+     [
+      "Local music only",
+      "Aveek 4 Channel",
+      "USB playback"
+     ],
+     [
+      "No remote guests",
+      "TKLBLS 4 Channel",
+      "Keep it simple"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Four Hosts Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Four true mic inputs, four headphone outputs and recording that keeps each voice on its own track."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Zoom PodTrak P4 and P4next give four headphone outputs, and the Tascam Mixcast 4 adds a touchscreen. The USB boards share one headphone feed."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You record four people regularly. The Mixcast 4 or PodTrak P4next give separate monitoring and recording that USB boards cannot."
+    },
+    {
+     "label": "Save if",
+     "text": "You host one or two voices. The W IN-MIX or Aveek cover the basics with a computer doing the recording."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean controls and screen",
+   "interval": "Monthly",
+   "why": "Dust and fingerprints affect touchscreens and knobs. Use a dry cloth and compressed air."
+  },
+  {
+   "task": "Format the SD card",
+   "interval": "Before important sessions",
+   "why": "Formatting inside the recorder avoids file errors. Keep a spare card."
+  },
+  {
+   "task": "Inspect cables",
+   "interval": "Quarterly",
+   "why": "XLR and USB plugs wear. Replace any that crackle."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "Every few months",
+   "why": "Updates fix bugs and add features."
+  },
+  {
+   "task": "Check phantom settings",
+   "interval": "Before each recording",
+   "why": "Wrong phantom settings mute a condenser mic or stress a ribbon."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does four channels mean four microphones?",
+   "a": "Not always. Channel count includes line inputs, so check XLR inputs. The Mixcast 4 and PodTrak recorders carry four real mic inputs."
+  },
+  {
+   "q": "Which four channel mixer is best for beginners?",
+   "a": "The Zoom PodTrak P4 is the easiest, with simple controls and four headphone outputs. USB boards are cheaper but depend on a computer."
+  },
+  {
+   "q": "Do I need phantom power?",
+   "a": "Only for condenser microphones. Dynamic mics do not need it. The W IN-MIX lets you power channels independently."
+  },
+  {
+   "q": "Can I record without a computer?",
+   "a": "Yes with the Tascam Mixcast 4 or Zoom PodTrak recorders, which save to a card and keep working if a laptop freezes. USB boards need a computer running recording software, so a crash can cost the whole take. If you edit on a computer anyway, standalone recording still gives you a backup copy that costs nothing extra."
+  },
+  {
+   "q": "Are DSP effects useful for podcasts?",
+   "a": "Rarely. Compression and noise reduction matter more than reverb, and a podcast voice drowned in echo sounds amateur. The P4next's AI tools are more practical than a library of 99 or 256 effects, and a gentle EQ cut in the low mids usually does more good than any preset."
+  },
+  {
+   "q": "How many headphones can I connect?",
+   "a": "The PodTrak P4 and P4next support four. USB boards usually support one, so add a headphone amplifier for more."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41JXUVBU4iL._SL500_.jpg"
+}

@@ -1,0 +1,605 @@
+{
+ "guideSlug": "best-handheld-pool-vacuums",
+ "categorySlug": "home-machines",
+ "mainKeyword": "handheld pool vacuums",
+ "guideTitle": "Best Handheld Pool Vacuums (2026)",
+ "metaTitle": "Best Handheld Pool Vacuums (2026)",
+ "metaDescription": "Six battery handheld pool vacuums compared on flow rate, runtime, filter bag size, pole reach and which jobs they handle on above-ground pools and spas.",
+ "lastUpdated": "2026-11-28",
+ "readTime": "12 min",
+ "expertTake": "The Enhulk PC15 is the handheld pool vacuum to buy for its wide head and an 18.5 GPM flow that clears sand and leaves on above-ground pools, and the KOKIDO spa model is the pick for hot tubs and small pools. Skip handheld vacuums for large in-ground pools, where a robot or a proper suction vacuum does the job better.",
+ "introParagraphs": [
+  "A handheld pool vacuum is a battery-powered suction head on a telescopic pole. A small submerged motor pulls water through a filter bag, and you push it over the floor like a broom. It is a spot-cleaning tool for leaves, sand and silt, not a replacement for pool filtration.",
+  "The numbers on the box are flow in gallons per minute, runtime in minutes and the length of the pole. Flow and bag size decide how well it picks up debris, and runtime decides how much of a pool you can cover on one charge. The six machines below are compared on those, and on what each is really good for."
+ ],
+ "products": [
+  {
+   "id": "B0DM1FTPZ1",
+   "badge": "Best Overall",
+   "name": "Enhulk PC15 Pool Vacuum, 13.4 in Head, 18.5 GPM",
+   "specs": [
+    "18.5 GPM",
+    "13.4 in head",
+    "60 min runtime",
+    "Side brushes"
+   ],
+   "specList": [
+    {
+     "label": "Flow",
+     "value": "18.5 GPM"
+    },
+    {
+     "label": "Head",
+     "value": "13.4 in wide, removable"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 60 minutes"
+    },
+    {
+     "label": "Battery",
+     "value": "5 x 2000mAh cells"
+    },
+    {
+     "label": "Pole",
+     "value": "Telescopic, 4 sections"
+    }
+   ],
+   "description": "The PC15 pairs a 13.4 inch removable head with side brushes and an upgraded hydrodynamic motor rated at 18.5 gallons per minute, powered by five 2000mAh cells for up to sixty minutes. The wide head covers more floor per pass than a narrow nozzle, so a patch of sand clears in fewer strokes.\n\nFlow near 18.5 GPM is a practical floor for clearing leaves and fine debris on above-ground pools. Compared with the PoolMr in this guide it has a wider head but a shorter runtime, and compared with the Pool Blaster Max it offers more headline flow at a lower cost.\n\nCharge before each session, rinse the bag after use and dry the unit before storage. A telescopic pole with four sections reaches typical above-ground depths. Owners report the wide head is easiest on flat floors and slower around steps and ladders, so keep a small head for those spots.",
+   "bestFor": "Above-ground pool owners who want a wide head and enough flow for sand and leaves.",
+   "pros": [
+    "13.4 inch head covers more floor per pass",
+    "18.5 GPM flow clears sand and leaves",
+    "Side brushes lift debris from edges",
+    "Telescopic pole reaches above-ground depths"
+   ],
+   "cons": [
+    "60 minute runtime is a best case",
+    "Small bag fills quickly with leaves",
+    "Not suited to large in-ground pools"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DM1FTPZ1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41S-eJFKtiL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CB65X7WR",
+   "badge": "Best for Spas",
+   "name": "KOKIDO Cordless Handheld Spa Hot Tub Vacuum, 6 ft Pole",
+   "specs": [
+    "60 min runtime",
+    "Under 3 lb",
+    "60 dB",
+    "2 brush heads"
+   ],
+   "specList": [
+    {
+     "label": "Runtime",
+     "value": "About 60 minutes"
+    },
+    {
+     "label": "Weight",
+     "value": "Under 3 pounds"
+    },
+    {
+     "label": "Length",
+     "value": "17 in without pole"
+    },
+    {
+     "label": "Noise",
+     "value": "About 60 dB"
+    },
+    {
+     "label": "Pole",
+     "value": "6 ft"
+    }
+   ],
+   "description": "KOKIDO builds a light-duty vacuum for spas, hot tubs and small above-ground pools: a 17 inch body under three pounds, a six foot pole, two vacuum brush heads and an automatic power-off for safety. The listing claims about sixty minutes of runtime and 60 dB operation.\n\nLight weight is the point. A spa or hot tub is shallow, so a short pole and a small head do the job without tiring your arm. Compared with the Enhulk PC15 it has less flow and a smaller head, but it is easier to handle and quieter.\n\nUse it for leaves and fine debris, not for heavy sand. Rinse the bag and charge after use, and store the unit dry. The light body suits a quick weekly pass, but you will need to empty the bag often if leaves are heavy.",
+   "bestFor": "Hot tubs, spas and small pools where light weight and low noise matter.",
+   "pros": [
+    "Under three pounds is easy to handle",
+    "Two brush heads for floor and steps",
+    "Automatic power-off for safety",
+    "About 60 dB operation"
+   ],
+   "cons": [
+    "Light-duty flow struggles with heavy sand",
+    "Smaller head covers less floor",
+    "Not for large pools"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CB65X7WR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Sm2dGBjML._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H4KC4L43",
+   "badge": "Best Reach",
+   "name": "PoolMr 3-in-1 Cordless Spa and Pool Vacuum, 90 Minutes",
+   "specs": [
+    "20 GPM",
+    "90 min runtime",
+    "65 in poles",
+    "Any water level"
+   ],
+   "specList": [
+    {
+     "label": "Flow",
+     "value": "20 gallons per minute"
+    },
+    {
+     "label": "Runtime",
+     "value": "90 minutes"
+    },
+    {
+     "label": "Reach",
+     "value": "65 in with 4 extension poles"
+    },
+    {
+     "label": "Heads",
+     "value": "3-in-1 attachments"
+    },
+    {
+     "label": "Water depth",
+     "value": "Works at any water level"
+    }
+   ],
+   "description": "PoolMr states 20 gallons per minute of flow, 90 minutes of runtime from a high-capacity battery, four extension poles reaching 65 inches and operation at any water level. The 3-in-1 design swaps heads for floor, corner and step cleaning.\n\nRuntime and reach set it apart. Ninety minutes covers a bigger pool than a sixty-minute rival, and the four poles stretch to deeper floors. Compared with the Enhulk PC15 it runs longer and stronger on paper but has a narrower head.\n\nBecause it works at any water level, it also suits shallow spa work. Charge fully, rinse the bag and dry it before storage. Because the runtime is long, you can finish a full pool in one go, which saves recharging between sections.",
+   "bestFor": "Larger above-ground pools where longer runtime and a longer reach matter.",
+   "pros": [
+    "90 minute runtime covers more floor",
+    "20 GPM stated flow",
+    "Four poles reach 65 inches",
+    "Works at any water level"
+   ],
+   "cons": [
+    "Narrower head than the Enhulk",
+    "Heavier with all poles attached",
+    "Longer charge time"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0H4KC4L43?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hcyrBXDJL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GT9SZNDL",
+   "badge": "Best Attachment Kit",
+   "name": "Vucaki 5-in-1 Handheld Pool Vacuum, 10.8 ft Pole, 14 in Head",
+   "specs": [
+    "18.9 GPM",
+    "70 min runtime",
+    "45 dB",
+    "4-head system"
+   ],
+   "specList": [
+    {
+     "label": "Flow",
+     "value": "18.9 GPM"
+    },
+    {
+     "label": "Motor",
+     "value": "52W"
+    },
+    {
+     "label": "Runtime",
+     "value": "70 minutes"
+    },
+    {
+     "label": "Noise",
+     "value": "About 45 dB, IPX8"
+    },
+    {
+     "label": "Pole",
+     "value": "10.8 ft telescopic"
+    }
+   ],
+   "description": "Vucaki lists a 52 watt motor delivering 18.9 GPM, a 14 inch eight-wheel wide brush head, a 10.8 foot telescopic pole, a seventy minute runtime and a four-head system. An IPX8 rating and a 45 dB noise claim round out the details.\n\nThe long pole and wheeled head make it a good fit for a deep above-ground pool where you want to stand on the deck. Compared with the Enhulk PC15 it has a longer pole and runtime, and compared with the PoolMr it adds a wheeled head.\n\nWheels make pushing easier, but they can snag on liner folds, so go slowly. Rinse the bag and dry the unit after use. Expect to adjust the pole length as you move from the shallow end to the deep end, which is easy with twist locks.",
+   "bestFor": "Deep above-ground pools where a long pole and wheeled head help.",
+   "pros": [
+    "10.8 ft pole reaches deep floors",
+    "14 inch wheeled head cuts effort",
+    "70 minute runtime",
+    "IPX8 waterproofing"
+   ],
+   "cons": [
+    "Wheels can snag on liner folds",
+    "Heavier with a long pole",
+    "Brand support is limited"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0GT9SZNDL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/513xpTWv89L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B001B3SKN4",
+   "badge": "Best Established Brand",
+   "name": "Blaster Max by Pool Blaster, Cordless Pool Vacuum",
+   "specs": [
+    "Li-Ion battery",
+    "60 min runtime",
+    "USA designed",
+    "UV-stabilized"
+   ],
+   "specList": [
+    {
+     "label": "Runtime",
+     "value": "Up to 60 minutes"
+    },
+    {
+     "label": "Battery",
+     "value": "Rechargeable lithium-ion"
+    },
+    {
+     "label": "Build",
+     "value": "UV-stabilized composites"
+    },
+    {
+     "label": "Origin",
+     "value": "Designed in the USA"
+    },
+    {
+     "label": "Pools",
+     "value": "In-ground and above-ground"
+    }
+   ],
+   "description": "Pool Blaster Max is the long-running brand in this segment, with a rechargeable lithium-ion battery that gives up to sixty minutes, a lightweight body and UV-stabilized composite parts. It is aimed at regular pool maintenance on both in-ground and above-ground pools.\n\nA known brand brings easier access to spare bags and parts, which is the real ownership benefit. Compared with the Enhulk PC15 and Vucaki it lists less headline flow, but it has a longer record of reliability and replacement support.\n\nUse it for debris, not for algae or stains. Rinse the bag after use, charge on schedule and store dry. A trusted brand also means spare bags and heads stay available, which keeps an older unit useful.",
+   "bestFor": "Owners who value a long-running brand and easy parts supply.",
+   "pros": [
+    "Established brand with parts support",
+    "UV-stabilized composite body",
+    "Lightweight and easy to maneuver",
+    "Works on in-ground and above-ground pools"
+   ],
+   "cons": [
+    "Less headline flow than some rivals",
+    "60 minute runtime is a best case",
+    "Small bag fills quickly"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B001B3SKN4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41XATLFk1fL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BVZF865G",
+   "badge": "Best for Leaves",
+   "name": "KOKIDO XV910 Heavy Duty Pool Leaf Vacuum, 62 GPM",
+   "specs": [
+    "62 GPM",
+    "Powerblade",
+    "IPX8",
+    "Standard and fine bags"
+   ],
+   "specList": [
+    {
+     "label": "Flow",
+     "value": "62 GPM"
+    },
+    {
+     "label": "Tech",
+     "value": "Powerblade"
+    },
+    {
+     "label": "Rating",
+     "value": "IPX8 waterproof"
+    },
+    {
+     "label": "Bags",
+     "value": "Standard and fine mesh"
+    },
+    {
+     "label": "Use",
+     "value": "Pool closing, leaf clearing"
+    }
+   ],
+   "description": "KOKIDO's XV910 is a heavy-duty cordless leaf vacuum with Powerblade technology rated at 62 gallons per minute, IPX8 waterproofing and standard and fine filtration mesh bags. It is aimed at pool closing and clearing large amounts of leaves.\n\nThe 62 GPM figure is far above the 18.5 GPM class, which is why this is a leaf machine and not a general sweeper. Compared with the Enhulk PC15 it moves much more water, so large leaf piles vanish quickly, but it is heavier and less precise on fine silt.\n\nUse the fine bag for silt and the standard bag for leaves. Rinse and dry after every session. Use the fine bag for silt after a storm and the standard bag for leaves, and rinse both thoroughly.",
+   "bestFor": "Pool closing and heavy leaf clearing where raw flow matters.",
+   "pros": [
+    "62 GPM clears leaf piles quickly",
+    "Standard and fine bags included",
+    "IPX8 waterproofing",
+    "Built for pool closing"
+   ],
+   "cons": [
+    "Heavier and less precise than light units",
+    "Overkill for spot cleaning",
+    "Shorter practical runtime under load"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0BVZF865G?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MfX9YccNL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Flow rate in GPM",
+   "explanation": "Flow decides how much debris the vacuum pulls per second. Many above-ground models cluster around 18.5 GPM, like the Enhulk PC15, while the PoolMr states 20 and the KOKIDO XV910 states 62. Anything under about 16 GPM struggles with sand, and anything over 40 is a leaf machine. If your pool has a lot of fine silt, favour a fine mesh bag and accept a shorter bag life, because coarse mesh simply blows silt back into the water and leaves a cloud over the floor."
+  },
+  {
+   "criterion": "Runtime and charging",
+   "explanation": "Listed runtimes run from 60 minutes on the Enhulk and KOKIDO to 90 on the PoolMr. The figure is a best case at low power, and suction setting and bag load shorten it. Charge before each session and plan to clean in sections. A battery rated for ninety minutes at low power often gives about half that at full suction, so plan to treat the figure as a ceiling and size your cleaning sessions around forty minutes."
+  },
+  {
+   "criterion": "Filter bag size and mesh",
+   "explanation": "A small bag fills quickly with leaves and clogs with silt, which cuts flow. The KOKIDO XV910 ships standard and fine bags. Empty the bag partway through a session, because a full bag cuts suction in half. Remember to empty the bag while the unit is still in the water, then shake it clear above a bucket, because pulling a full bag out of the pool dumps debris back into the water."
+  },
+  {
+   "criterion": "Pole length and head width",
+   "explanation": "The Vucaki reaches 10.8 feet and the PoolMr 65 inches with its four poles. A 13.4 inch head like the Enhulk's covers more floor per pass than a narrow nozzle. Match the pole to your pool depth and the head to the debris. Hold the pole in the shop or imagine it fully extended: a ten foot aluminium pole with a heavy head adds leverage, and shorter arms tire quickly on long sessions."
+  },
+  {
+   "criterion": "Weight and handling",
+   "explanation": "The KOKIDO spa unit weighs under three pounds, while heavier units tire your arm on a long pole. If you will clean a spa or a small pool, favour weight over flow. For a tub or spa, check that the head can reach the seat corners and step edges, since a wide head that fits the floor can miss the places where debris collects."
+  },
+  {
+   "criterion": "Waterproofing and noise",
+   "explanation": "The IPX8 label on the Vucaki and XV910 means the motor handles submersion. Noise claims of 45 and 60 dB are marketing, but quieter units are easier to use on a still evening. Look for a charge port with a waterproof cover and a clear battery indicator, because charging mishaps and flat batteries are the most common reasons owners give up."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "GPM",
+   "meaning": "Gallons of water moved per minute through the head. It sets how much debris you can pull.",
+   "watchFor": "Compare the PC15 at 18.5 GPM with the XV910 at 62 GPM."
+  },
+  {
+   "spec": "Runtime",
+   "meaning": "Minutes of use per charge, usually measured at low power.",
+   "watchFor": "PoolMr lists 90 minutes and Enhulk 60."
+  },
+  {
+   "spec": "IPX8",
+   "meaning": "A label for continuous submersion. It protects the motor underwater.",
+   "watchFor": "The Vucaki and XV910 state it."
+  },
+  {
+   "spec": "Filter bag mesh",
+   "meaning": "Bag openings that decide which debris is trapped. Fine mesh catches silt but clogs faster.",
+   "watchFor": "The XV910 ships both mesh types."
+  },
+  {
+   "spec": "Telescopic pole",
+   "meaning": "A pole made of sliding sections to reach different depths.",
+   "watchFor": "The Vucaki reaches 10.8 ft."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Flow and suction",
+   "description": "We compared stated GPM across the six units. The XV910 leads on raw flow while the PC15, PoolMr and Vucaki cluster around 18 to 20. We favoured numbers that suit the stated job. We treated every runtime and flow figure as the maker's best case, and favoured units whose listed numbers fit the intended job."
+  },
+  {
+   "title": "Runtime and charging",
+   "description": "We looked at listed runtime and battery layout. PoolMr leads at 90 minutes. We noted that all figures are best cases. We checked pole length against typical pool depths, and noted where a longer pole adds reach but also weight and leverage on the wrist."
+  },
+  {
+   "title": "Reach and head design",
+   "description": "We compared pole length and head width. The Vucaki and PoolMr lead on reach, and the Enhulk leads on head width. We looked at the bag, the head and the seals, because small parts decide whether the unit still works well in its second summer."
+  },
+  {
+   "title": "Handling and noise",
+   "description": "We read for weight and noise claims. The KOKIDO spa model is lightest. Heavier long-pole kits lose points. We counted noise claims as marketing, and relied on motor and housing construction to judge likely comfort."
+  },
+  {
+   "title": "Ownership",
+   "description": "We considered brand support and bag availability. Pool Blaster has the longest record. Newer brands depend on seller support. We compared ownership by checking how easy bags and heads are to replace, and by flagging units that depend on a single seller."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Pool Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Above-ground pool, mixed debris",
+      "Enhulk PC15",
+      "Wide head and 18.5 GPM"
+     ],
+     [
+      "Hot tub or spa",
+      "KOKIDO spa vacuum",
+      "Light and quiet"
+     ],
+     [
+      "Larger above-ground pool",
+      "PoolMr 3-in-1",
+      "90 minute runtime"
+     ],
+     [
+      "Deep pool",
+      "Vucaki 5-in-1",
+      "10.8 ft pole"
+     ],
+     [
+      "Long-term ownership",
+      "Pool Blaster Max",
+      "Established brand"
+     ],
+     [
+      "Leaf piles and closing",
+      "KOKIDO XV910",
+      "62 GPM"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "KOKIDO spa vacuum",
+      "Light-duty"
+     ],
+     [
+      "Lower mid",
+      "Enhulk PC15",
+      "Wide head"
+     ],
+     [
+      "Mid",
+      "PoolMr 3-in-1",
+      "Long runtime"
+     ],
+     [
+      "Upper mid",
+      "Vucaki 5-in-1",
+      "Long pole and kit"
+     ],
+     [
+      "Highest",
+      "KOKIDO XV910",
+      "Heavy-duty leaf power"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Spot Cleaning vs Leaf Clearing",
+   "cards": [
+    {
+     "label": "Spot cleaning",
+     "text": "The PC15, PoolMr and Vucaki sit near 18 to 20 GPM and clear sand and fine debris. They are light enough for repeated use."
+    },
+    {
+     "label": "Leaf clearing",
+     "text": "The XV910 at 62 GPM moves piles of leaves fast. It is heavier and less precise, so it suits pool closing."
+    }
+   ],
+   "note": "Choose spot cleaning for weekly care and leaf clearing for fall or closing."
+  },
+  {
+   "subheading": "By Runtime Need",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Longest runtime",
+      "PoolMr 3-in-1",
+      "90 minutes"
+     ],
+     [
+      "Long enough for most",
+      "Vucaki 5-in-1",
+      "70 minutes"
+     ],
+     [
+      "Standard",
+      "Enhulk PC15",
+      "60 minutes"
+     ],
+     [
+      "Standard",
+      "Pool Blaster Max",
+      "60 minutes"
+     ],
+     [
+      "Short sessions",
+      "KOKIDO spa vacuum",
+      "60 minutes, light"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Above-Ground Pools Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Gentle head edges, a pole long enough for the depth and enough flow to clear sand. Above-ground liners are soft, so avoid hard wheels."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Enhulk PC15 and PoolMr are the best fits, with the Vucaki for deep pools and the KOKIDO spa model for small ones."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You clean weekly or close a large pool. The PoolMr and XV910 save time."
+    },
+    {
+     "label": "Save if",
+     "text": "You clean a spa or a small pool. The KOKIDO spa vacuum is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Rinse the filter bag",
+   "interval": "After every use",
+   "why": "Silt dries and clogs the mesh, cutting flow. Soak the bag in warm water with mild soap if it smells."
+  },
+  {
+   "task": "Charge the battery",
+   "interval": "Before each session",
+   "why": "A partly charged pack gives a shorter run than listed. Keep a spare battery contact cover so a lost cap does not let water in."
+  },
+  {
+   "task": "Dry and store indoors",
+   "interval": "After each use",
+   "why": "Moisture and sun age seals and battery contacts. Wipe the contacts dry before every charge."
+  },
+  {
+   "task": "Check brush heads and seals",
+   "interval": "Monthly",
+   "why": "Worn seals leak and cut suction. Replace torn brush bristles before they scratch a liner."
+  },
+  {
+   "task": "Inspect the pole sections",
+   "interval": "Quarterly",
+   "why": "Sand in the joints makes sections stick. A little silicone lubricant keeps pole twist-locks from seizing."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do handheld pool vacuums work well?",
+   "a": "Yes for spot cleaning leaves, sand and silt. They are not a replacement for filtration or a robot on large pools. Most owners say a handheld cleans in sections, so start at the shallow end and work toward the deep end."
+  },
+  {
+   "q": "Is 18.5 GPM enough?",
+   "a": "For most above-ground pools, yes. Flow near 18 GPM clears sand and fine debris, while leaf piles favour higher flow. A weekly ten-minute pass keeps debris from building up, which is easier than one big monthly clean."
+  },
+  {
+   "q": "How long do the batteries last?",
+   "a": "Runtimes of 60 to 90 minutes are best cases. Expect somewhat less at high suction and with a full bag. Brush the walls first so debris falls to the floor, then vacuum the floor in overlapping strips."
+  },
+  {
+   "q": "Can I use one in a hot tub?",
+   "a": "Yes with a light unit like the KOKIDO spa vacuum or a PoolMr that works at any water level. Check that the head fits the seat shapes. Charge on a shelf away from direct sunlight, and unplug when the light shows full, which helps the battery last."
+  },
+  {
+   "q": "Will it damage a vinyl liner?",
+   "a": "Soft heads are safe, but hard wheels can snag on folds. Go slowly and avoid dragging the head over seams. If the unit sounds different or draws less water, check the bag first, since a full or clogged bag is the cause nine times out of ten."
+  },
+  {
+   "q": "How often should I empty the bag?",
+   "a": "Partway through a session when flow drops. A full bag cuts suction and strains the motor. For a very large or heavily wooded pool, a robot or a suction vacuum with a long hose is a better main tool, with the handheld as a back-up."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41S-eJFKtiL._SL500_.jpg"
+}

@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-quiet-tower-fans",
+ "categorySlug": "home-climate",
+ "mainKeyword": "quiet tower fans",
+ "guideTitle": "Best Quiet Tower Fans (2026)",
+ "metaTitle": "Best Quiet Tower Fans (2026)",
+ "metaDescription": "Six quiet tower fans compared on decibel ratings, DC motors, sleep modes and air speed, for bedrooms and offices where noise matters most.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31DDI+JvQoL._SL500_.jpg",
+ "expertTake": "The Levoit desk tower is the pick when near-silence at arm's length matters, and the DREO 26 ft/s TurboSilent tower is the pick for a bedroom that needs more reach. The Honeywell is the simple choice for someone who wants a familiar name. Buyers who truly need silence at any airflow should accept that physics sets a floor and run any fan one speed lower than they think they need.",
+ "introParagraphs": [
+  "Fan noise comes from two places: the motor and the moving air. A motor hum is the easy part to fix with better engineering, but air noise rises quickly with speed, and no tower fan avoids it at full power.",
+  "That is why a quiet fan is really a fan that is quiet where you use it. A model rated near the threshold of hearing on its lowest setting may still be loud at the top end, so this guide reads the sound figures alongside what each fan offers at the speeds people actually choose for sleeping."
+ ],
+ "products": [
+  {
+   "id": "B0GH7X9FGS",
+   "rank": 1,
+   "badge": "Best Overall for Silence",
+   "name": "Levoit 20 dB Quiet Desk Tower Fan, 23 ft/s, 5 Speeds",
+   "price": "",
+   "specs": [
+    "20 to 43 dB range",
+    "23 ft/s",
+    "5 speeds",
+    "3 angles"
+   ],
+   "specList": [
+    {
+     "label": "Noise range",
+     "value": "20 to 43 dB across speeds"
+    },
+    {
+     "label": "Air speed",
+     "value": "23 ft/s"
+    },
+    {
+     "label": "Speeds",
+     "value": "Five"
+    },
+    {
+     "label": "Tilt angles",
+     "value": "Three"
+    },
+    {
+     "label": "Design",
+     "value": "Tabletop with carrying handle"
+    }
+   ],
+   "description": "The Levoit is a compact tabletop tower with a brushless DC motor and a rated noise range of 20 to 43 dB across its five speeds. At the bottom of that range it is among the quietest fans of any shape, and a soft carrying handle lets you move it from desk to nightstand.\n\nIts VortexAir design gives a quoted 23 ft/s, lower than the 28 ft/s of the taller DREO and Levoit floor towers, so it is a personal fan rather than a room fan. Three angle settings let you tilt the airflow toward your face or torso instead of relying on a wide sweep. Compared with the DREO TurboSilent it trades reach for near-silence.\n\nBecause it plugs in rather than running from a battery, it needs an outlet within reach. Keep the intake grille dusted and the base level, since a small fan on a lumpy surface will rattle. It is the right tool for a desk or a bedside table, and the wrong one for cooling a whole living room.",
+   "bestFor": "A desk or bedside table where silence matters more than reach.",
+   "pros": [
+    "Noise range starts at 20 dB on the lowest speed",
+    "Brushless DC motor with five speeds",
+    "Three tilt angles aim the airflow",
+    "Carrying handle makes it portable"
+   ],
+   "cons": [
+    "23 ft/s is a personal rather than room airflow",
+    "Needs a nearby outlet"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GH7X9FGS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31DDI+JvQoL._SL500_.jpg"
+  },
+  {
+   "id": "B08P5NNNL5",
+   "rank": 2,
+   "badge": "Best Quiet Floor Tower",
+   "name": "DREO 26 ft/s TurboSilent Tower Fan, 90 Degree Sweep, 5 Speeds",
+   "price": "",
+   "specs": [
+    "28 dB quiet",
+    "26 ft/s",
+    "5 speeds",
+    "4 modes"
+   ],
+   "specList": [
+    {
+     "label": "Noise",
+     "value": "About 28 dB"
+    },
+    {
+     "label": "Air speed",
+     "value": "26 ft/s"
+    },
+    {
+     "label": "Speeds",
+     "value": "Five"
+    },
+    {
+     "label": "Oscillation",
+     "value": "90 degrees"
+    },
+    {
+     "label": "Modes",
+     "value": "Four, with remote"
+    }
+   ],
+   "description": "The DREO TurboSilent is a full-height floor tower rated near 28 dB, with five speeds, four modes and a 90 degree sweep. TurboSilent is the maker's name for the motor and airflow tuning that cuts noise, and a remote handles the settings from bed.\n\nIt reaches 26 ft/s, enough to reach across a bedroom, and that is a good balance between reach and sound. It sits a notch below the 28 ft/s DC-motor DREO models in air speed, and that is the price of the extra quiet. Four modes let you move from a steady breeze to a sleep or natural setting.\n\nA floor tower needs floor space and a level base. Clean the grille monthly, because a dusty intake is the commonest reason a quiet fan gets louder. Check that the remote batteries are fresh before a hot night.",
+   "bestFor": "A bedroom where a full-height tower is welcome and quiet running is the priority.",
+   "pros": [
+    "About 28 dB at quiet settings",
+    "26 ft/s reaches across a bedroom",
+    "Four modes and a remote",
+    "90 degree sweep covers the bed"
+   ],
+   "cons": [
+    "Lower air speed than the 28 ft/s DREO models",
+    "Floor tower needs more space than a desk fan"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B08P5NNNL5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/315ub4z9dYL._SL500_.jpg"
+  },
+  {
+   "id": "B09MKPDJRT",
+   "rank": 3,
+   "badge": "Best Upgraded DC Motor",
+   "name": "DREO 28 ft/s Tower Fan, Brushless DC, 8 Speeds, 4 Modes",
+   "price": "",
+   "specs": [
+    "28 ft/s",
+    "Brushless DC",
+    "8 speeds",
+    "Auto mode"
+   ],
+   "specList": [
+    {
+     "label": "Air speed",
+     "value": "28 ft/s"
+    },
+    {
+     "label": "Motor",
+     "value": "Upgraded brushless DC"
+    },
+    {
+     "label": "Speeds",
+     "value": "Eight"
+    },
+    {
+     "label": "Modes",
+     "value": "Normal, Natural, Sleep, Auto"
+    },
+    {
+     "label": "Oscillation",
+     "value": "90 degrees"
+    }
+   ],
+   "description": "This DREO pairs an upgraded brushless DC motor with an algorithmically shaped impeller, a design aimed at reducing the blade-pass whine that makes many fans annoying. It offers eight speeds and four modes, including Auto, which adjusts to room conditions, and Sleep, which steps the fan down overnight.\n\nAir speed reaches 28 ft/s, so it moves more air than the TurboSilent model, and the extra speed steps give finer control at low settings where noise is lowest. The cost is a higher price and a more complex control layout.\n\nBecause it relies on electronics for its modes, keep the control panel dry and the vents clear. Dust the grille monthly. It is the better choice if you want one fan to serve both a hot afternoon and a quiet night.",
+   "bestFor": "A bedroom fan that must be powerful by day and quiet at night.",
+   "pros": [
+    "28 ft/s air speed from a DC motor",
+    "Eight speeds allow fine low-noise tuning",
+    "Auto and Sleep modes",
+    "Impeller shaped to reduce whine"
+   ],
+   "cons": [
+    "More complex controls than basic fans",
+    "Costs more than the TurboSilent model"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B09MKPDJRT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/318XyhpvUuL._SL500_.jpg"
+  },
+  {
+   "id": "B0DZ6VRPT7",
+   "rank": 4,
+   "badge": "Best Simple Quiet Tower",
+   "name": "DREO 26 ft/s Tower Fan, 4 Speeds, 3 Modes, 8H Timer, 28 dB",
+   "price": "",
+   "specs": [
+    "28 dB",
+    "26 ft/s",
+    "4 speeds",
+    "8H timer"
+   ],
+   "specList": [
+    {
+     "label": "Noise",
+     "value": "About 28 dB"
+    },
+    {
+     "label": "Air speed",
+     "value": "26 ft/s"
+    },
+    {
+     "label": "Speeds",
+     "value": "Four"
+    },
+    {
+     "label": "Modes",
+     "value": "Three"
+    },
+    {
+     "label": "Timer",
+     "value": "8 hours"
+    }
+   ],
+   "description": "This DREO powers a 90 degree oscillating tower with four speeds, three modes and an 8 hour timer, rated about 28 dB. The maker says its airflow can reach up to 33 feet, and the hypersilent tuning keeps the motor from adding noise on top of the airflow.\n\nIt is the simpler sibling of the 8-speed model: fewer speed steps and fewer modes, at a lower price. Four speeds are enough for most people, because the difference between each is meaningful rather than fine. The 8 hour timer fits a night's sleep.\n\nClean the intake every month and keep the base on a flat floor. It is a fine pick for a spare bedroom or a child's room.",
+   "bestFor": "A bedroom or nursery where simple controls and low noise matter.",
+   "pros": [
+    "About 28 dB on quiet settings",
+    "8 hour timer covers a night",
+    "Four speeds and three modes",
+    "90 degree sweep with 26 ft/s airflow"
+   ],
+   "cons": [
+    "Fewer speed steps than DC-motor siblings",
+    "Fewer modes than the pricier DREO fans"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DZ6VRPT7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MyHN2nQ3L._SL500_.jpg"
+  },
+  {
+   "id": "B0GLH4CDHV",
+   "rank": 5,
+   "badge": "Best Adjustable Height",
+   "name": "DREO Smart Tower Fan, 40 to 45 Inch Adjustable Height, 9 Speeds",
+   "price": "",
+   "specs": [
+    "40 to 45 in. height",
+    "9 speeds",
+    "28 ft/s",
+    "DC motor"
+   ],
+   "specList": [
+    {
+     "label": "Height",
+     "value": "40 to 45 inch adjustable"
+    },
+    {
+     "label": "Speeds",
+     "value": "Nine"
+    },
+    {
+     "label": "Air speed",
+     "value": "28 ft/s"
+    },
+    {
+     "label": "Motor",
+     "value": "DC"
+    },
+    {
+     "label": "Adjustment",
+     "value": "Foot pedal"
+    }
+   ],
+   "description": "The height of this DREO tower adjusts between 40 and 45 inches with a foot pedal, a one-step mechanism that raises or lowers the head without tools. Nine speeds, four modes and a DC motor sit behind it, with app and timer control for scheduling.\n\nThe height adjustment is useful when the fan must clear a high bed or a piece of furniture, and it lets you aim the airflow higher for a seated user. It matches the other 28 ft/s DREO towers on air speed.\n\nThe telescoping mechanism is one more part that can loosen, so check the joint when you assemble it and after moving the fan. Dust the intake monthly.",
+   "bestFor": "A tall bed or a room where the fan must be aimed higher.",
+   "pros": [
+    "Pedal adjusts the height from 40 to 45 inches",
+    "Nine speeds from a DC motor",
+    "28 ft/s air speed",
+    "App and timer control"
+   ],
+   "cons": [
+    "Adjustment joint adds a part that can loosen",
+    "Smart features add complexity"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GLH4CDHV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31A6bNBxWuL._SL500_.jpg"
+  },
+  {
+   "id": "B01N0LQJN6",
+   "rank": 6,
+   "badge": "Best Familiar Brand",
+   "name": "Honeywell QuietSet HYF290B Whole Room Oscillating Tower Fan",
+   "price": "",
+   "specs": [
+    "QuietSet speeds",
+    "Whole-room tower",
+    "Remote nests in fan",
+    "Oscillating"
+   ],
+   "specList": [
+    {
+     "label": "Model",
+     "value": "HYF290B"
+    },
+    {
+     "label": "Style",
+     "value": "Oscillating tower"
+    },
+    {
+     "label": "Control",
+     "value": "Remote that nests in the housing"
+    },
+    {
+     "label": "Color",
+     "value": "Black"
+    },
+    {
+     "label": "Use",
+     "value": "Bedrooms and living rooms"
+    }
+   ],
+   "description": "The Honeywell QuietSet is a classic whole-room oscillating tower with a remote that nests in the back of the housing so it does not wander off. The QuietSet name refers to its set of low-noise speed settings, and it is sold as a bedroom and living-room fan.\n\nThe maker's data in the listing did not state decibel figures or air speed, so this is the one fan here where the numbers must be checked against the current spec sheet. Its advantage is a familiar brand and simple controls, and its disadvantage is that it likely uses an AC motor with fewer steps than the DREO DC models.\n\nKeep the remote in its slot and dust the grille regularly. It suits buyers who want a recognisable name and a straightforward fan.",
+   "bestFor": "A buyer who values a familiar brand and simple controls.",
+   "pros": [
+    "Remote nests in the fan housing",
+    "Familiar brand with simple controls",
+    "Whole-room oscillating design",
+    "QuietSet low-noise settings"
+   ],
+   "cons": [
+    "Noise and air speed figures are not stated in the listing data",
+    "Likely fewer speed steps than DC-motor rivals"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B01N0LQJN6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41aHp+MyIVL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Decibels at your speed",
+   "explanation": "A noise rating is usually taken at the lowest setting, so 28 dB on the DREO and Levoit towers describes the quietest they can be, not how they sound at medium. The Levoit desk fan publishes a range, 20 to 43 dB across its speeds, which is the honest way to state it. Ask what the fan sounds like at the speed you will actually use."
+  },
+  {
+   "criterion": "Why DC motors help",
+   "explanation": "Brushless DC motors, as in the Levoit and the upgraded DREO models, run cooler and quieter and offer many fine speed steps. The finer steps matter because the quiet end of a fan is where a one-step change can swing the sound level. A fan with four speeds can jump from silent to audible in one press."
+  },
+  {
+   "criterion": "Air speed versus reach",
+   "explanation": "A quieter fan often has lower air speed, because airflow noise climbs quickly. The Levoit desk tower quotes 23 ft/s while the floor towers quote 26 to 28 ft/s. If the fan sits an arm's length away, 23 ft/s is plenty. For a bed across the room you need the faster floor towers. The sensible approach is to measure the distance from fan to pillow first. Within about an arm's length a gentle 23 ft/s breeze at low speed feels perfectly adequate, while at four or five paces the same breeze fades before it arrives and you will push a floor tower to a higher, noisier setting that cancels the benefit of a quiet motor."
+  },
+  {
+   "criterion": "Sleep and Auto modes",
+   "explanation": "A sleep mode that steps the speed down over the night keeps you cool at the start and quiet at the end. The DREO 28 ft/s model offers Sleep and Auto modes, and the 4-speed DREO offers an 8 hour timer. A timer is a simple way to avoid noise after you have fallen asleep. Many people sleep better with a little steady sound, so a fan that stays on at its lowest setting all night can be a feature rather than a flaw. The decision is personal, and a fan that offers both a timer and a continuous low setting suits either sleeper."
+  },
+  {
+   "criterion": "Vibration and placement",
+   "explanation": "A fan on a hard floor transmits vibration, which turns a quiet motor into a buzz. A tall tower on an uneven surface also rattles. A rubber mat or a firm level spot often does more for noise than a small difference in motor rating."
+  },
+  {
+   "criterion": "Dust and noise creep",
+   "explanation": "A fan gets louder as dust builds on the impeller and grille. Quiet fans are more affected because their margins are thin. Vacuum the intake monthly and wipe the slot, or a fan that was quiet in spring will be noisy by autumn. A good habit is to clean it on the day you pull it out for the season and again halfway through, and to treat any new tick or rattle as a hint that something is loose or clogged. Most noise complaints from owners are maintenance problems that a ten-minute clean cures."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Noise (dB)",
+   "meaning": "Sound level at the lowest speed, measured by the maker at a set distance. Small differences are audible at the quiet end.",
+   "watchFor": "The Levoit desk fan is rated 20 to 43 dB, the DREO towers about 28 dB."
+  },
+  {
+   "spec": "Air speed",
+   "meaning": "How fast air leaves the fan, in feet per second.",
+   "watchFor": "The Levoit desk fan reaches 23 ft/s, the DREO models 26 to 28 ft/s."
+  },
+  {
+   "spec": "Brushless DC motor",
+   "meaning": "A motor with no brushes, quieter and finer in speed control.",
+   "watchFor": "Most DREO models and both Levoit fans use DC motors."
+  },
+  {
+   "spec": "Sleep mode",
+   "meaning": "A setting that gradually lowers fan speed during the night.",
+   "watchFor": "The DREO 8-speed model lists Sleep; the Honeywell lists QuietSet settings."
+  },
+  {
+   "spec": "Timer",
+   "meaning": "An automatic shutoff after a set period.",
+   "watchFor": "The DREO 4-speed fan has an 8 hour timer."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Noise at quiet settings",
+   "description": "We compared published decibel figures and motor types. The Levoit desk fan at 20 dB and the DREO towers at about 28 dB lead."
+  },
+  {
+   "title": "Reach and airflow",
+   "description": "We balanced quiet against air speed. The 28 ft/s DREO models have the most reach, and the 23 ft/s Levoit the least."
+  },
+  {
+   "title": "Modes and fine control",
+   "description": "We favoured fans with sleep modes and many speed steps, since fine steps keep the fan at the quietest effective setting."
+  },
+  {
+   "title": "Placement flexibility",
+   "description": "We considered height, tilt and portability. The adjustable DREO and tabletop Levoit offer the most options."
+  },
+  {
+   "title": "Data completeness",
+   "description": "We noted where listings state noise and air speed. The Honeywell listing did not, so we flagged it for checking."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Quiet Priority",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Absolute quietest, at arm's length",
+      "Levoit 20 dB desk tower",
+      "20 dB at its lowest setting"
+     ],
+     [
+      "Quiet and reaches a bed across the room",
+      "DREO TurboSilent 26 ft/s",
+      "About 28 dB with 26 ft/s"
+     ],
+     [
+      "Strongest airflow that is still quiet",
+      "DREO 28 ft/s DC",
+      "Eight speeds and sleep mode"
+     ],
+     [
+      "Simple bedroom fan",
+      "DREO 4-speed 8H timer",
+      "Four speeds, 28 dB"
+     ],
+     [
+      "Tall bed or raised placement",
+      "DREO adjustable height",
+      "40 to 45 inch pedal adjustment"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "DREO 4-speed 8H timer",
+      "Simple and quiet for little"
+     ],
+     [
+      "Low to mid",
+      "Honeywell QuietSet",
+      "Familiar brand and remote"
+     ],
+     [
+      "Mid",
+      "DREO TurboSilent",
+      "Quiet floor tower with remote"
+     ],
+     [
+      "Upper mid",
+      "Levoit desk tower",
+      "Lowest noise range"
+     ],
+     [
+      "Top",
+      "DREO 8-speed DC or adjustable height",
+      "Finest control and most features"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Desk Tower vs Floor Tower",
+   "cards": [
+    {
+     "label": "Desk tower",
+     "text": "The Levoit sits within arm's length and is rated down to 20 dB. It suits a desk or a nightstand but cannot cool a whole room."
+    },
+    {
+     "label": "Floor tower",
+     "text": "The DREO and Honeywell towers stand on the floor and push 26 to 28 ft/s across a room. They are louder than a desk fan but reach a bed or a sofa."
+    }
+   ],
+   "note": "Choose the desk tower for personal use, the floor tower for rooms."
+  },
+  {
+   "subheading": "By Control Preference",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Sleep mode and Auto",
+      "DREO 28 ft/s DC",
+      "Normal, Natural, Sleep and Auto"
+     ],
+     [
+      "Remote that stays with the fan",
+      "Honeywell QuietSet",
+      "Remote nests in the housing"
+     ],
+     [
+      "App and schedule",
+      "DREO adjustable height",
+      "Smart control and timer"
+     ],
+     [
+      "Tilt rather than sweep",
+      "Levoit desk tower",
+      "Three angle settings"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Sleeping Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for noise ratings near 28 dB or lower, a sleep mode or timer, and a dimmable display. Run the fan one speed lower than your first instinct and aim it so that it crosses your body, not your face."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DREO 28 ft/s DC model has Sleep and Auto, the 4-speed DREO has the 8 hour timer, and the Levoit desk tower is the quietest at the bedside."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you are a light sleeper or work in a quiet room; the DC-motor DREO and Levoit models offer finer low-speed steps that keep noise lower. The extra money buys control rather than power: eight or nine steps at the bottom of the range mean you can park the fan at the quietest speed that still keeps you comfortable. Light sleepers notice the difference within the first night, and it is the one upgrade here that a buyer rarely regrets."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if the fan runs for white noise anyway. The 4-speed DREO is quiet enough for most people."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Vacuum the intake",
+   "interval": "Monthly",
+   "why": "Dust raises noise and cuts airflow. A soft brush clears the grille without scratching."
+  },
+  {
+   "task": "Wipe the outlet slot",
+   "interval": "Every few months",
+   "why": "The impeller collects dust that you cannot see. A damp cloth on a long handle reaches it."
+  },
+  {
+   "task": "Place on a mat if it buzzes",
+   "interval": "When installing",
+   "why": "Vibration through a hard floor turns a quiet motor into a hum. A rubber pad stops it. Tall towers on carpet usually stay quiet, but on tile, wood or laminate the base acts like a drum skin. A square of thick rubber, a folded towel or a yoga mat under the base is a free fix, and it also stops the fan from creeping across a smooth floor as it oscillates."
+  },
+  {
+   "task": "Replace remote batteries",
+   "interval": "Yearly",
+   "why": "A dead remote forces you to leave bed. Keep spares nearby."
+  },
+  {
+   "task": "Check the base and joints",
+   "interval": "Each season",
+   "why": "A loose base or height joint rattles. Tighten screws before the hot season."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How quiet can a tower fan be?",
+   "a": "At its lowest speed the best are around 20 to 28 dB, close to a whisper. At full speed all of them are louder, so run the fan one step lower than you think you need."
+  },
+  {
+   "q": "Are DC motors really quieter?",
+   "a": "They run cooler, offer finer speed steps and avoid some of the hum of AC motors. The airflow noise at high speed is similar, so the benefit shows up at low and medium settings."
+  },
+  {
+   "q": "Which is better for sleeping, a desk fan or a tower?",
+   "a": "A desk tower such as the Levoit is the quietest option within arm's length. A floor tower reaches farther but is louder, so choose by distance to the bed."
+  },
+  {
+   "q": "Why does my quiet fan get louder over time?",
+   "a": "Dust builds on the impeller and grille, and a loose base starts to rattle. Clean the intake and check the base before blaming the motor."
+  },
+  {
+   "q": "Does oscillation add noise?",
+   "a": "A little, from the oscillation motor. Most buyers do not notice it, but switch it off if you can hear it in a silent room."
+  },
+  {
+   "q": "Is a smart fan worth it?",
+   "a": "App control helps with schedules and remote use, but the quiet comes from the motor, not the app. A remote and a timer do most of the job."
+  }
+ ],
+ "relatedGuides": []
+}

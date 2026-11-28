@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-evaporative-air-coolers",
+ "categorySlug": "home-climate",
+ "mainKeyword": "evaporative air coolers",
+ "guideTitle": "Best Evaporative Air Coolers (2026)",
+ "metaTitle": "Best Evaporative Air Coolers (2026)",
+ "metaDescription": "Six evaporative air coolers compared on airflow, tank size, pad design and coverage, with honest advice on dry-climate use and humidity limits.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/5125hS8bPGL._SL500_.jpg",
+ "expertTake": "The Hessaire 5300 CFM is the pick for a large open space in a dry climate, and the VEVOR 4129 CFM with a 12.7 gallon tank is the pick for a bedroom or workshop that needs a big reservoir. Anyone in a humid region should skip the category, because evaporation cools poorly when the air is already damp.",
+ "introParagraphs": [
+  "An evaporative cooler works the way sweating does. Warm air is drawn across a wet pad, water evaporates into it, and that evaporation absorbs heat, so the air leaving the machine is cooler and more humid than the air that went in.",
+  "That physics sets the rules. In dry air the effect is strong and cheap, and in humid air it fades fast and can leave a room clammy. Tank size, pad design and airflow decide how well each machine uses the effect, and the climate decides whether it is worth owning at all."
+ ],
+ "products": [
+  {
+   "id": "B00LBQKTBC",
+   "rank": 1,
+   "badge": "Best for Large Spaces",
+   "name": "Hessaire 5300 CFM 3-Speed Portable Evaporative Cooler",
+   "price": "",
+   "specs": [
+    "5,300 CFM",
+    "3 speeds",
+    "Up to 1,600 sq ft",
+    "Portable"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "5,300 CFM"
+    },
+    {
+     "label": "Speeds",
+     "value": "Three"
+    },
+    {
+     "label": "Rated coverage",
+     "value": "Up to 1,600 sq ft"
+    },
+    {
+     "label": "Use",
+     "value": "Indoor and outdoor"
+    },
+    {
+     "label": "Type",
+     "value": "Portable swamp cooler"
+    }
+   ],
+   "description": "The Hessaire 5300 is a high-velocity portable cooler rated by the maker for spaces up to about 1,600 square feet, with three speeds and an airflow of 5,300 CFM. That makes it the strongest machine in this guide and the one aimed at garages, patios and open workshops.\n\nBig airflow brings big trade-offs. It is a large, heavy unit and its fan is loud at the top speed, so it suits spaces where noise is not a concern. The cooling works through a wet pad, and the effect depends heavily on how dry the air is. Against the Hessaire 3100 CFM it moves roughly seventy percent more air and takes more floor space.\n\nOwnership is a water story. Fill the tank, keep the pads wet and replace them when they scale up with minerals. Drain and dry the machine before storage so mold does not take hold. It rewards owners who live in dry climates and use it outdoors.",
+   "bestFor": "A garage, patio or open workshop in a dry climate.",
+   "pros": [
+    "5,300 CFM is the strongest airflow here",
+    "Rated for up to 1,600 square feet",
+    "Portable with three speeds",
+    "Suits indoor and outdoor use"
+   ],
+   "cons": [
+    "Loud and bulky",
+    "Cooling fades sharply in humid weather"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00LBQKTBC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/5125hS8bPGL._SL500_.jpg"
+  },
+  {
+   "id": "B0DXDRL7CQ",
+   "rank": 2,
+   "badge": "Best Large Tank",
+   "name": "VEVOR 4129 CFM Evaporative Air Cooler, 12.7-Gallon Tank, 12H Timer",
+   "price": "",
+   "specs": [
+    "4,129 CFM",
+    "12.7 gal tank",
+    "4 ice boxes",
+    "12H timer"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "4,129 CFM"
+    },
+    {
+     "label": "Tank",
+     "value": "12.7 gallons, detachable"
+    },
+    {
+     "label": "Pad",
+     "value": "1.18 inch honeycomb water curtain"
+    },
+    {
+     "label": "Ice boxes",
+     "value": "Four"
+    },
+    {
+     "label": "Timer",
+     "value": "12 hours"
+    }
+   ],
+   "description": "The VEVOR carries the biggest tank in the group at 12.7 gallons, a 1.18 inch honeycomb water curtain for faster evaporation and a detachable top-fill reservoir so you do not have to bend to refill it. Four ice boxes can be frozen and loaded to chill the airflow further.\n\nAirflow is quoted at 4,129 CFM, below the Hessaire 5,300 but well above the small desk-style units. A 12 hour timer and remote-style controls make it a room cooler rather than a patio machine. It also works as a humidifier, which is the same physics: it adds moisture to the air.\n\nA large tank means a long runtime between refills, but a stale tank grows slime, so empty it if the machine will sit for a few days. Clean the water curtain periodically and drain it fully before storage.",
+   "bestFor": "A bedroom, workshop or shop where long runtimes between refills matter.",
+   "pros": [
+    "12.7 gallon tank gives long runtimes",
+    "Honeycomb water curtain evaporates quickly",
+    "Four ice boxes add chill",
+    "12 hour timer"
+   ],
+   "cons": [
+    "Stale water in a big tank can grow slime",
+    "Takes up more room than small coolers"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0DXDRL7CQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41og5Y+YOtL._SL500_.jpg"
+  },
+  {
+   "id": "B00MYWQL96",
+   "rank": 3,
+   "badge": "Best Mid-Size Portable",
+   "name": "Hessaire MC37M 3,100 CFM Portable Evaporative Cooler",
+   "price": "",
+   "specs": [
+    "3,100 CFM",
+    "Portable",
+    "High velocity",
+    "Indoor and outdoor"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "3,100 CFM"
+    },
+    {
+     "label": "Type",
+     "value": "Portable evaporative cooler"
+    },
+    {
+     "label": "Use",
+     "value": "Indoor and outdoor"
+    },
+    {
+     "label": "Class",
+     "value": "High velocity"
+    },
+    {
+     "label": "Model",
+     "value": "MC37M"
+    }
+   ],
+   "description": "The MC37M is Hessaire's smaller portable, rated at 3,100 CFM and sold for both indoor and outdoor use. It trades the reach of the 5,300 CFM unit for a smaller footprint and a lighter body.\n\nIt keeps the controls simple. There are no timers or apps in the listing data, and that simplicity is the appeal: fill the tank, plug it in and switch it on. It cools the immediate area rather than a whole floor.\n\nLike all evaporative coolers it depends on dry air, and it will feel like a humid fan in a damp climate. Replace the pads when they scale, clean the tank and drain it before storage.",
+   "bestFor": "A small garage or covered patio where a lighter portable is enough.",
+   "pros": [
+    "3,100 CFM from a lighter body",
+    "Indoor and outdoor use",
+    "Simple controls",
+    "Smaller than the 5,300 CFM model"
+   ],
+   "cons": [
+    "Less reach than larger coolers",
+    "No timer or smart features in the listing"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00MYWQL96?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51pbFEaazIL._SL500_.jpg"
+  },
+  {
+   "id": "B0H2ZX29LB",
+   "rank": 4,
+   "badge": "Best Oscillating Cooler",
+   "name": "SereneLife 17L Evaporative Air Cooler, 1,800 CFM, Oscillating",
+   "price": "",
+   "specs": [
+    "1,800 CFM",
+    "17L tank",
+    "3 wind modes",
+    "Oscillating"
+   ],
+   "specList": [
+    {
+     "label": "Airflow",
+     "value": "1,800 CFM"
+    },
+    {
+     "label": "Tank",
+     "value": "17 litres, detachable"
+    },
+    {
+     "label": "Wind modes",
+     "value": "Three"
+    },
+    {
+     "label": "Oscillation",
+     "value": "Wide"
+    },
+    {
+     "label": "Use",
+     "value": "Indoor and outdoor"
+    }
+   ],
+   "description": "The SereneLife has a 17 litre detachable tank, about 4.5 gallons, and 1,800 CFM of airflow, with three wind modes and wide oscillation. It doubles as a fan when you turn the water off.\n\nIts airflow is a third of the Hessaire 5,300, so it is a bedroom-scale cooler, not a patio one. The oscillation spreads the cooled air across a room, and the detachable tank is easy to refill at a sink.\n\nClean the tank every week or two in regular use, and replace the pad when scale builds up. It is the machine for a single room in a dry climate.",
+   "bestFor": "A single room where an oscillating, quieter cooler is wanted.",
+   "pros": [
+    "Wide oscillation spreads cool air",
+    "17 litre detachable tank",
+    "Works as a fan with the water off",
+    "Three wind modes"
+   ],
+   "cons": [
+    "1,800 CFM is modest",
+    "Smaller tank than the VEVOR"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0H2ZX29LB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SLa+tJuNL._SL500_.jpg"
+  },
+  {
+   "id": "B0CT352LX6",
+   "rank": 5,
+   "badge": "Best Low-Power Cooler",
+   "name": "CAYNEL 120W Evaporative Air Cooler, 8-Gallon Tank, 12H Timer",
+   "price": "",
+   "specs": [
+    "120W",
+    "8 gal tank",
+    "12H timer",
+    "3 speeds"
+   ],
+   "specList": [
+    {
+     "label": "Power draw",
+     "value": "120W"
+    },
+    {
+     "label": "Tank",
+     "value": "8 gallons"
+    },
+    {
+     "label": "Timer",
+     "value": "12 hours"
+    },
+    {
+     "label": "Fan speeds",
+     "value": "Three"
+    },
+    {
+     "label": "Controls",
+     "value": "Touch screen and remote"
+    }
+   ],
+   "description": "The CAYNEL draws only 120W, an unusually low figure for an evaporative cooler with an 8 gallon tank. A touch screen and remote handle three speeds and a 12 hour timer, and the maker highlights low noise.\n\nIts power use is the draw: running costs are small, and the tank gives long runs between refills. The listing data did not state an airflow figure, so check the current spec sheet against your room size. Compared with the Hessaire units it is a bedroom machine, not a garage one.\n\nKeep the tank clean, because an 8 gallon reservoir that sits for days will grow slime. Wipe the pad and drain the water when it is not in use.",
+   "bestFor": "A bedroom where low power draw and a big tank matter.",
+   "pros": [
+    "Only 120W of power",
+    "8 gallon tank for long runs",
+    "12 hour timer",
+    "Touch and remote control"
+   ],
+   "cons": [
+    "Airflow figure is not stated in the listing data",
+    "Smaller than the Hessaire units"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CT352LX6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41B07vKEC6L._SL500_.jpg"
+  },
+  {
+   "id": "B0GN9G7NTL",
+   "rank": 6,
+   "badge": "Best Misting Fan",
+   "name": "DREO TurboCool 765S Ultrasonic Misting Fan, 34 ft/s, 6L Tank",
+   "price": "",
+   "specs": [
+    "Ultrasonic mist",
+    "34 ft/s",
+    "6L tank",
+    "Up to 7 hours"
+   ],
+   "specList": [
+    {
+     "label": "Cooling method",
+     "value": "Ultrasonic misting"
+    },
+    {
+     "label": "Air speed",
+     "value": "34 ft/s"
+    },
+    {
+     "label": "Tank",
+     "value": "6 litres"
+    },
+    {
+     "label": "Runtime",
+     "value": "Up to 7 hours"
+    },
+    {
+     "label": "Claimed drop",
+     "value": "About 10 degrees F"
+    }
+   ],
+   "description": "The DREO TurboCool is a different design: an ultrasonic misting fan that breaks water into a fine fog and blows it with 34 ft/s airflow. The maker claims a cooling effect of about 10 degrees F and a runtime of up to 7 hours from a 6 litre tank.\n\nMisting cools by evaporation like the pad coolers, but it adds water to the air faster, so it feels damp in humid weather. It is a personal or small-room machine, and it is quieter than a pad-and-blower cooler. Against the VEVOR it is smaller, quieter and less powerful.\n\nUse clean or distilled water if you can, because minerals leave white dust. Rinse the tank every few days to avoid slime, and dry it before storage.",
+   "bestFor": "A small room or desk in a dry climate where quiet matters.",
+   "pros": [
+    "Ultrasonic mist adds a fast cooling effect",
+    "34 ft/s airflow",
+    "6 litre tank runs up to 7 hours",
+    "Quieter than pad-and-blower coolers"
+   ],
+   "cons": [
+    "Mist raises humidity quickly",
+    "White mineral dust with hard water"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GN9G7NTL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31gdV7NF4XL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Climate decides everything",
+   "explanation": "Evaporative cooling works by turning water into vapour, and that needs dry air to absorb it. In a desert climate the air leaving the machine can be many degrees cooler, but in humid air the effect can vanish and leave the room clammy. If your summer humidity is regularly above about sixty percent, an air conditioner is the right tool, not a swamp cooler. A useful test is the dew point rather than the temperature: when the dew point climbs above the low sixties Fahrenheit, evaporation slows to a crawl no matter how big the fan is. Many regions have a dry spell and a monsoon or humid season, in which case a cooler is a seasonal tool that works for weeks and then sits idle."
+  },
+  {
+   "criterion": "CFM and room size",
+   "explanation": "The Hessaire 5,300 CFM is rated for roughly 1,600 square feet, the 3,100 CFM unit for far less, and the SereneLife 1,800 CFM for a single room. An evaporative cooler needs airflow to carry the cooled air, and it needs an open window or door to let humid air out. Match CFM to space and plan the ventilation. A common mistake is to close every door and window to keep the cool in, which traps humidity and makes the room feel worse within an hour. The right approach is a gentle exit path for air: a cracked window on the far side of the room pulls the cooled air across you and carries the moisture away, so the cooler can keep working."
+  },
+  {
+   "criterion": "Tank size and refills",
+   "explanation": "A large tank means fewer trips to the sink. The VEVOR holds 12.7 gallons, the CAYNEL 8, the SereneLife about 4.5 and the DREO 6 litres. A bigger tank lasts longer between refills, but stale water breeds slime, so a large tank must be emptied if you skip a few days. Weight matters too: a full 12.7 gallon tank holds over a hundred pounds of water, so a detachable tank you can carry to a sink is worth more than a bigger fixed one. Check how the tank is filled, whether from the top or through a hose, because a hard-to-fill tank is the quickest way to turn a good cooler into a shelf ornament."
+  },
+  {
+   "criterion": "Pad design and scale",
+   "explanation": "The pad is where the cooling happens. The VEVOR uses a 1.18 inch honeycomb water curtain that evaporates quickly. In hard water areas, minerals build up on pads and cut airflow and cooling. Plan to rinse or replace the pad each season, and use softened or filtered water where you can. Mineral scale looks like a white crust, and it is the main reason a cooler that worked well in June feels weak by August. A pad that has gone stiff or smells sour has stopped working properly, and a fresh set restores much of the original cooling at a modest cost compared with the price of the machine."
+  },
+  {
+   "criterion": "Misting versus pad cooling",
+   "explanation": "A misting fan like the DREO TurboCool uses ultrasonic atomization, which makes a fast cooling effect at the cost of rapidly rising humidity. A pad cooler adds moisture more slowly. For a small personal space the misting fan is quieter, but a room can feel damp. Choose according to how well the space ventilates. A small bedroom with the door shut is the worst place for a misting fan, because the humidity builds quickly and the cooling feeling disappears once the room is saturated. A covered porch or a shop with an open door suits it better, since the moist air leaves as fast as it arrives."
+  },
+  {
+   "criterion": "Noise and power use",
+   "explanation": "A high-CFM blower is loud, and the Hessaire 5,300 is not a bedroom machine. The CAYNEL draws only 120W and is designed for quieter use. Power draw is small for all of them compared with an air conditioner, but fan noise is the daily cost. A portable air conditioner can draw ten times the power of a cooler like the CAYNEL, which is the real argument for evaporative cooling in a dry region. Remember that this advantage disappears if you must run the cooler with every window open and still end up uncomfortable."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "CFM",
+   "meaning": "Cubic feet of air moved per minute. Higher figures move more cooled air.",
+   "watchFor": "The Hessaire is 5,300 CFM, the SereneLife 1,800."
+  },
+  {
+   "spec": "Tank capacity",
+   "meaning": "How much water the cooler holds, which sets runtime between refills.",
+   "watchFor": "The VEVOR holds 12.7 gallons, the DREO 6 litres."
+  },
+  {
+   "spec": "Water curtain pad",
+   "meaning": "A honeycomb or cellulose pad that the water flows across so the air evaporates it.",
+   "watchFor": "The VEVOR uses a 1.18 inch honeycomb curtain."
+  },
+  {
+   "spec": "Ultrasonic mist",
+   "meaning": "A vibrating plate that atomises water into a fog without a pad.",
+   "watchFor": "The DREO TurboCool uses it, and mineral dust is a risk with hard water."
+  },
+  {
+   "spec": "Power draw",
+   "meaning": "The wattage the cooler uses, far lower than an air conditioner.",
+   "watchFor": "The CAYNEL is listed at 120W."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Airflow and coverage",
+   "description": "We compared CFM figures and rated coverage. The Hessaire 5,300 leads, followed by the VEVOR at 4,129 CFM."
+  },
+  {
+   "title": "Water handling",
+   "description": "We weighed tank size and the ease of refilling. The VEVOR top-fill 12.7 gallon tank leads."
+  },
+  {
+   "title": "Cooling design",
+   "description": "We compared pad coolers with the misting fan. A honeycomb curtain like the VEVOR scores well, and the DREO misting design earns credit for quiet use."
+  },
+  {
+   "title": "Noise and power",
+   "description": "We considered fan noise and wattage. The CAYNEL at 120W and the DREO misting fan lead for quiet."
+  },
+  {
+   "title": "Data completeness",
+   "description": "We noted which listings state airflow. The CAYNEL listing did not, so we flagged it for checking."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Space",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Garage or patio up to 1,600 sq ft",
+      "Hessaire 5300 CFM",
+      "Highest airflow"
+     ],
+     [
+      "Small garage or covered porch",
+      "Hessaire MC37M 3100 CFM",
+      "Lighter portable"
+     ],
+     [
+      "Bedroom or workshop",
+      "VEVOR 4129 CFM",
+      "Large tank and timer"
+     ],
+     [
+      "Single room, oscillating",
+      "SereneLife 17L",
+      "Wide sweep and detachable tank"
+     ],
+     [
+      "Quiet bedroom",
+      "CAYNEL 120W",
+      "Low power draw"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "SereneLife 17L",
+      "Small and cheap"
+     ],
+     [
+      "Low to mid",
+      "CAYNEL 120W",
+      "Large tank and low power draw"
+     ],
+     [
+      "Mid",
+      "Hessaire MC37M",
+      "Proven brand, simple"
+     ],
+     [
+      "Upper mid",
+      "VEVOR 4129 CFM",
+      "Big tank and honeycomb pad"
+     ],
+     [
+      "Top",
+      "Hessaire 5300 CFM or DREO TurboCool",
+      "Largest airflow or the mist design"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Pad Cooler vs Misting Fan",
+   "cards": [
+    {
+     "label": "Pad cooler",
+     "text": "The Hessaire, VEVOR, SereneLife and CAYNEL pass air across a wet pad. They add humidity more slowly and handle large spaces, but need pad care."
+    },
+    {
+     "label": "Misting fan",
+     "text": "The DREO TurboCool makes a fine fog with an ultrasonic plate. It is quiet and feels cool quickly, but it raises humidity fast and leaves mineral dust with hard water."
+    }
+   ],
+   "note": "Pad coolers for large, ventilated spaces, a misting fan for a small dry room. If you are unsure, buy for the space rather than the technology: a garage wants a blower, a bedroom wants a quiet tank, and a desk wants a mist. The wrong choice usually comes from buying a machine sized for a bigger or smaller area than the one you actually want to cool."
+  },
+  {
+   "subheading": "By Climate",
+   "table": {
+    "headers": [
+     "Climate",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Very dry desert",
+      "Hessaire 5300 CFM",
+      "Strongest evaporation and airflow"
+     ],
+     [
+      "Dry with cool nights",
+      "VEVOR 4129 CFM",
+      "Large tank and ice boxes"
+     ],
+     [
+      "Moderately dry",
+      "SereneLife 17L",
+      "Smaller output, less added humidity"
+     ],
+     [
+      "Humid summers",
+      "None of these",
+      "An air conditioner is the right tool"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Workshop or Garage Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for high airflow, a robust body and a way to keep ventilation open. A garage is dusty and drafty, so a rugged unit with easily changed pads suits it."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Hessaire 5300 CFM is the clear choice for a large garage, and the 3100 CFM unit covers a smaller space."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you cool a big space in a dry climate, where the Hessaire 5300 or VEVOR saves air conditioning. A larger tank also means fewer refills."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you cool a single desk or a small room occasionally. The SereneLife or CAYNEL is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Drain and dry the tank",
+   "interval": "After each season or a few days idle",
+   "why": "Stale water grows slime and mold. Drain, wipe and air dry before storage."
+  },
+  {
+   "task": "Rinse the pad",
+   "interval": "Every few weeks in use",
+   "why": "Mineral scale cuts airflow and cooling. Rinse with clean water and replace pads when stiff."
+  },
+  {
+   "task": "Clean the water pump and filter",
+   "interval": "Monthly",
+   "why": "Debris clogs the pump and starves the pad of water."
+  },
+  {
+   "task": "Open a window slightly",
+   "interval": "Every use",
+   "why": "The cooler adds humidity, which must escape. A cracked window keeps the air from feeling damp."
+  },
+  {
+   "task": "Use clean water",
+   "interval": "Every fill",
+   "why": "Hard water leaves scale on pads and, with misting fans, a white dust. Filtered water avoids both."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do evaporative coolers work in humid climates?",
+   "a": "Poorly. Evaporation needs dry air to take up moisture, so in high humidity the cooling effect fades and the room feels damp. An air conditioner is the better tool there."
+  },
+  {
+   "q": "Is an evaporative cooler the same as an air conditioner?",
+   "a": "No. It cools by adding water vapour to the air, uses far less power and needs ventilation. An air conditioner removes heat and moisture."
+  },
+  {
+   "q": "How often should I change the water?",
+   "a": "Every few days, or sooner in hot weather. Stale water breeds slime and odour. Drain the tank fully if the machine will sit unused."
+  },
+  {
+   "q": "Why does the room feel damp?",
+   "a": "The cooler adds moisture to the air. Open a window or door slightly so the humid air can leave, or reduce the fan speed."
+  },
+  {
+   "q": "Can I use ice in the tank?",
+   "a": "Many models have ice boxes that chill the airflow further. Ice helps for a few hours in dry heat but does not change the basic limits."
+  },
+  {
+   "q": "Are misting fans better?",
+   "a": "They cool quickly and run quietly, but they add moisture very fast and can leave mineral dust. They suit small, dry spaces rather than large rooms."
+  }
+ ],
+ "relatedGuides": []
+}

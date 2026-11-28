@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-rv-generator-transfer-switch",
+ "categorySlug": "power-machines",
+ "mainKeyword": "rv generator transfer switch",
+ "guideTitle": "Best RV Generator Transfer Switches (2026)",
+ "metaTitle": "Best RV Generator Transfer Switches (2026)",
+ "metaDescription": "Six RV automatic transfer switches compared on 30 amp and 50 amp ratings, source priority, transfer delay and inverter compatibility for campers and vans.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41BN9It7izL._SL500_.jpg",
+ "expertTake": "The Nirakoka 50 Amp ATS is the best pick for a 50 amp coach because it is pre-wired and handles shore power and generator sources without manual cord swaps. The Nirakoka 30 Amp is the value pick for smaller rigs. Anyone with a factory-installed transfer switch should skip aftermarket units entirely.",
+ "introParagraphs": [
+  "An RV transfer switch decides where the coach gets its power: the campground pedestal, an onboard generator, an inverter or a portable unit. A good one switches sources automatically and never lets two live sources connect, which protects both the appliances and the people wiring them.",
+  "Most buyers compare amp ratings, but the behavior around the handoff matters just as much. How long the switch waits before connecting, which source it prefers and how it handles a flickering campground supply all decide whether the air conditioner survives the change."
+ ],
+ "products": [
+  {
+   "id": "B0CY1LLFJL",
+   "badge": "Best Overall",
+   "name": "Nirakoka RV Automatic Transfer Switch 50A 70A 240VAC With Neutral",
+   "price": "",
+   "specs": [
+    "50A to 70A",
+    "240VAC",
+    "Pre-wired",
+    "Automatic"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp class, 240VAC"
+    },
+    {
+     "label": "Neutral",
+     "value": "Switched neutral design"
+    },
+    {
+     "label": "Wiring",
+     "value": "Pre-wired for automatic source change"
+    },
+    {
+     "label": "Applications",
+     "value": "RV, speedboats"
+    },
+    {
+     "label": "Type",
+     "value": "Automatic transfer"
+    }
+   ],
+   "description": "The Nirakoka 50 amp is the straightforward option for a 50 amp coach. It is pre-wired to switch the primary AC source automatically, which means the installer connects the shore power cord, the generator and the coach panel rather than building the logic from relays. A 240VAC rating with a switched neutral suits the 120/240V split-phase system used in 50 amp RVs.\n\nThe switched neutral matters. In a split-phase RV, the neutral must follow the active source so that the coach never sees two neutrals tied together, which can produce stray current and false trips on GFCI protection. Against the LINKCRO and KUTTOLE 50 amp units, the Nirakoka lists its neutral handling clearly, and against the 30 amp options it serves a coach with two air conditioners and a residential refrigerator.\n\nPlan the install around access. Mount the switch near the main panel, keep wire runs short and use the gauge the manual specifies. Test the transfer with the air conditioner off first, then with it on, to hear whether it reconnects cleanly after the delay.",
+   "bestFor": "50 amp coaches that switch between shore power and a generator.",
+   "pros": [
+    "Pre-wired automatic source change",
+    "Switched neutral for split-phase 50 amp systems",
+    "240VAC rating suits two-air-conditioner coaches",
+    "Fits RVs and boats"
+   ],
+   "cons": [
+    "Needs careful wiring and an electrician's check",
+    "Less recognized brand than factory switches",
+    "Larger and costlier than 30 amp units"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CY1LLFJL?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41BN9It7izL._SL500_.jpg"
+  },
+  {
+   "id": "B0DGKHV9GX",
+   "badge": "Best Automatic Handoff",
+   "name": "LINKCRO RV 50 Amp Automatic Transfer Switch for RV and Standby",
+   "price": "",
+   "specs": [
+    "50A",
+    "Automatic",
+    "Generator start detect",
+    "RV and standby"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120/240V"
+    },
+    {
+     "label": "Behavior",
+     "value": "Switches when onboard generator starts"
+    },
+    {
+     "label": "Applications",
+     "value": "RV, speedboat, home standby"
+    },
+    {
+     "label": "Type",
+     "value": "Automatic transfer"
+    }
+   ],
+   "description": "The LINKCRO 50 amp is described as switching to the generator automatically once the onboard generator or backup power unit turns on. That is the behavior most RV owners want: start the generator, wait a few seconds and let the coach transfer without a trip to the panel. It lists 50 amp 120/240V capability and applications in RVs, speedboats and home standby.\n\nIts value is in the clear automatic logic, but the same detail raises a question that every ATS buyer should ask: how long does it wait? A switch that connects the generator the instant it senses voltage can overload an engine that is still warming up. Against the Nirakoka, it is similarly capable, and against the KUTTOLE it describes the handoff in more detail.\n\nIn ownership, treat the first week as a testing period. Run the generator, watch the transfer, then plug into shore power and watch it switch back. Note any delay and confirm that sensitive electronics, like a television or a router, tolerate the brief interruption.",
+   "bestFor": "Owners who want the coach to move to the generator on its own.",
+   "pros": [
+    "Switches when the onboard generator starts",
+    "Fifty amp 120/240V capability",
+    "Suits RV, boat and standby use",
+    "Straightforward automatic logic"
+   ],
+   "cons": [
+    "Transfer delay and source priority need checking",
+    "Less established brand than factory switches",
+    "Wiring needs care to match the coach panel"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DGKHV9GX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41b1hAzJc2L._SL500_.jpg"
+  },
+  {
+   "id": "B0DFTJ5WKZ",
+   "badge": "Best Generator-First Priority",
+   "name": "KUTTOLE RV 50 Amp Automatic Transfer Switch PD50",
+   "price": "",
+   "specs": [
+    "50A",
+    "Generator priority",
+    "Automatic",
+    "RV and home standby"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Priority",
+     "value": "Generator power first"
+    },
+    {
+     "label": "Type",
+     "value": "Automatic transfer"
+    },
+    {
+     "label": "Applications",
+     "value": "RV, speedboat, home standby"
+    },
+    {
+     "label": "Model",
+     "value": "PD50"
+    }
+   ],
+   "description": "The KUTTOLE PD50 is configured to prioritize generator power. That is a specific design choice: when both sources are live, the switch chooses the generator, which suits a coach whose owner starts the generator on purpose and wants the coach to follow. It is a 50 amp automatic switch for RV, speedboat and home standby use.\n\nPriority behavior is the key difference. Other switches in this group are generally shore-first, preferring the campground pedestal when it is available, which saves fuel but can leave you on a weak pedestal. A generator-first design suits boondocking and tailgating, where the generator is the main source, but it can run the generator unnecessarily if you forget to shut it off at a site with hookups.\n\nCheck that the transfer delay is long enough for the generator to stabilize and that the switch returns to shore power when the generator stops. Label the panel so guests know what happens when the engine starts. A short sticker beside the switch with the source priority and delay time saves confusion on a trip with a borrowed coach.",
+   "bestFor": "Boondockers who want the generator to take priority over shore power.",
+   "pros": [
+    "Generator-first priority for boondocking",
+    "Fifty amp automatic switching",
+    "Suits RV, boat and home standby",
+    "Clear single-model design"
+   ],
+   "cons": [
+    "Generator-first priority can waste fuel at hookup sites",
+    "Wiring and delay need verification",
+    "Less documentation than major brands"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0DFTJ5WKZ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41MWK13t9BL._SL500_.jpg"
+  },
+  {
+   "id": "B00PVG2I3A",
+   "badge": "Best Protective Delay",
+   "name": "50A Low Cost RV Transfer Switch With 30 Second Delay",
+   "price": "",
+   "specs": [
+    "50A",
+    "30-second delay",
+    "Park power protection",
+    "Permanent install"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp"
+    },
+    {
+     "label": "Delay",
+     "value": "30 seconds before generator transfer"
+    },
+    {
+     "label": "Protection",
+     "value": "Protects from faulty park power"
+    },
+    {
+     "label": "Install",
+     "value": "Permanent in the RV"
+    },
+    {
+     "label": "Type",
+     "value": "Automatic transfer"
+    }
+   ],
+   "description": "This low-cost 50 amp switch installs permanently in the RV, protects against faulty park power and transfers to generator power automatically once the generator is energized, after a 30 second delay. That delay is the notable feature, because it lets the generator warm up and stabilize before the coach loads it.\n\nA thirty-second wait is useful in practice. An engine that has just started produces unstable voltage and frequency for a few seconds, and connecting an air conditioner compressor at that moment can stall the engine or damage the compressor. Against the other 50 amp switches in this group, the delay is a clear and verifiable protection, while the lower cost reflects simpler hardware and thinner documentation.\n\nOwnership is simple but needs discipline. Check the switch's behavior when both shore power and generator are live, since the manual specifies which source wins. Keep the unit dry and tighten connections after the first few trips. Because it costs less, it makes a sensible choice for a first conversion where the budget is tight and the electrical system is simple.",
+   "bestFor": "Budget 50 amp coaches that need a protective start-up delay.",
+   "pros": [
+    "Thirty-second delay lets the generator stabilize",
+    "Protects against faulty park power",
+    "Permanent RV installation",
+    "Lowest cost 50 amp option here"
+   ],
+   "cons": [
+    "Simpler hardware and thinner documentation",
+    "Delay may feel long if you want fast transfer",
+    "Less recognized brand"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B00PVG2I3A?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31q82Hn9n7L._SL500_.jpg"
+  },
+  {
+   "id": "B0DC3YMZJC",
+   "badge": "Best 30A Value",
+   "name": "Nirakoka 30 Amp Automatic Transfer Switch 120VAC for RV",
+   "price": "",
+   "specs": [
+    "30A",
+    "120VAC",
+    "Shore, inverter, genset",
+    "Automatic"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp"
+    },
+    {
+     "label": "Voltage",
+     "value": "120VAC"
+    },
+    {
+     "label": "Sources",
+     "value": "Inverter, shore power, generator"
+    },
+    {
+     "label": "Applications",
+     "value": "RV"
+    },
+    {
+     "label": "Type",
+     "value": "Automatic switching"
+    }
+   ],
+   "description": "The 30 amp Nirakoka is the right size for a coach with a single air conditioner and a 30 amp service, which is about 3,600 watts at 120V. It integrates inverters, shore power and generators for automatic switching between sources, which makes it a useful hub for a smaller coach that adds a solar and battery system.\n\nA 30 amp, 120VAC switch is simpler than a 50 amp split-phase one, with fewer conductors and no second hot leg. That makes it cheaper and easier to install, but it cannot serve a coach with two air conditioners and a large inverter. Against the Renogy 30 amp, it is less specialized for inverters, and against the 50 amp units it is a smaller, less costly choice.\n\nIn ownership, treat the 3,600 watt ceiling as a hard limit. An air conditioner, a microwave and a hair dryer together will exceed it, so use a load monitor or learn which appliances cannot run at once.",
+   "bestFor": "Smaller 30 amp coaches with a single air conditioner.",
+   "pros": [
+    "Right size for 30 amp coaches",
+    "Handles shore, inverter and generator sources",
+    "Simpler wiring than split-phase 50 amp units",
+    "Lower cost than 50 amp switches"
+   ],
+   "cons": [
+    "Limited to about 3,600 watts",
+    "Cannot serve two air conditioners",
+    "Less specialized than inverter-focused switches"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0DC3YMZJC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41TL8NPgO0L._SL500_.jpg"
+  },
+  {
+   "id": "B0F5PQWYQ3",
+   "badge": "Best for Inverters",
+   "name": "Renogy 30 Amp Transfer Switch for Pure Sine Wave Inverter",
+   "price": "",
+   "specs": [
+    "30A",
+    "Inverter focus",
+    "Auto return",
+    "Solar compatible"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp"
+    },
+    {
+     "label": "Best match",
+     "value": "Pure sine wave inverters"
+    },
+    {
+     "label": "Behavior",
+     "value": "Switches to backup, then returns"
+    },
+    {
+     "label": "Applications",
+     "value": "Solar inverters, home generators"
+    },
+    {
+     "label": "Brand",
+     "value": "Renogy"
+    }
+   ],
+   "description": "The Renogy 30 amp switch is designed around inverter systems. It switches automatically to backup power when the main source fails and returns when it is restored, with no manual step. That suits an RV or van with a Renogy or similar pure sine wave inverter and a solar battery bank, where the inverter is the primary source and shore power or a generator is the backup.\n\nThe pairing matters. A pure sine wave inverter produces clean power for sensitive electronics, and a switch built for it keeps the transitions tidy. Against the Nirakoka 30 amp, the Renogy is more specifically aimed at solar and inverter users and comes from a brand known for off-grid gear. Against the 50 amp switches, it is limited to 3,600 watts.\n\nOwnership notes: match the inverter's output to the switch, keep wiring short and verify the transfer on a battery that is not fully charged. A switch is only as good as the source feeding it. If the battery bank sags below the inverter's low-voltage cutoff, the inverter shuts off and the switch will move to the backup source, so size the battery bank for your evening load.",
+   "bestFor": "Van and small RV owners with a solar and inverter system.",
+   "pros": [
+    "Designed for pure sine wave inverters",
+    "Automatic switch to backup and return",
+    "Suits solar and generator systems",
+    "Brand known for off-grid equipment"
+   ],
+   "cons": [
+    "Limited to 30 amps and about 3,600 watts",
+    "Best value only with an inverter system",
+    "Needs wiring matched to the inverter"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0F5PQWYQ3?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3115bW8E+kL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "30 amp or 50 amp service",
+   "explanation": "A 30 amp RV runs on 120V and is limited to about 3,600 watts, while a 50 amp RV uses 120/240V split-phase and can reach about 12,000 watts. The Nirakoka 30 amp and Renogy 30 amp switches suit the first, while the Nirakoka, LINKCRO, KUTTOLE and low-cost 50 amp units suit the second. Check your coach's shore power inlet before buying, because the wrong rating forces rewiring. A 30 amp plug has three prongs and a 50 amp plug has four, which makes the check easy, and adapters between them do not change how much current the coach's wiring can safely carry. Plugging a 50 amp coach into a 30 amp pedestal through a dogbone adapter simply limits you to 3,600 watts, so the switch should be sized to the coach, not to the pedestal."
+  },
+  {
+   "criterion": "Source priority",
+   "explanation": "Some switches prefer shore power when both are live, while the KUTTOLE PD50 prioritizes the generator. Generator-first suits boondocking, where you start the generator on purpose. Shore-first suits campgrounds, where the pedestal is the primary source and the generator is for backup."
+  },
+  {
+   "criterion": "Transfer delay",
+   "explanation": "The low-cost 50 amp switch waits thirty seconds before moving to the generator, which gives the engine time to settle. A switch that transfers instantly can load a cold engine and stall it. Look for a delay of at least ten seconds, and know that the coach's air conditioner may have its own restart delay."
+  },
+  {
+   "criterion": "Neutral handling",
+   "explanation": "In a 50 amp split-phase coach, the neutral and ground must be handled correctly or you can create stray current and GFCI trips. The Nirakoka 50 amp lists a switched neutral design. If you have a generator with a floating neutral or a bonded neutral, check the manual before wiring. Portable generators often have a floating neutral, which means the coach must supply the neutral-to-ground bond, while onboard generators are usually bonded. Getting this wrong can leave the chassis energized or trip the generator's GFCI, so confirm the setup with a multimeter before the first trip."
+  },
+  {
+   "criterion": "Inverter compatibility",
+   "explanation": "The Renogy 30 amp and the Nirakoka 30 amp integrate with inverters. An inverter charger may have its own internal transfer relay, so you may not need a separate switch. Check the inverter manual first, since adding a second switch can create a conflict. Many inverter chargers include a pass-through relay that already switches between shore and inverter power, and in that case an external switch is only useful for adding a generator input. Draw a simple diagram of every source before you buy, and ask the inverter maker which source it expects on its AC input."
+  },
+  {
+   "criterion": "Listing and installation",
+   "explanation": "Most aftermarket RV switches in this price range are not UL listed to the same standard as factory equipment. Have a qualified RV technician or electrician check the install, and consider whether your insurer or campground has rules about modifications. Keep a copy of the wiring diagram in the coach, label each wire at both ends and photograph the install before closing the panel, since the next owner or technician will need it."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "30A versus 50A RV service",
+   "meaning": "30A is 120V and about 3,600 W, while 50A is 120/240V split-phase and about 12,000 W.",
+   "watchFor": "They use different inlets and cords."
+  },
+  {
+   "spec": "Automatic transfer switch",
+   "meaning": "A device that selects between sources and prevents two live sources from connecting at once.",
+   "watchFor": "Delay and priority decide how it behaves in real use."
+  },
+  {
+   "spec": "Switched neutral",
+   "meaning": "A design where the neutral follows the active source, as on the Nirakoka 50 amp.",
+   "watchFor": "Do not bond neutral to ground twice."
+  },
+  {
+   "spec": "Transfer delay",
+   "meaning": "The wait before connecting the generator, 30 seconds on the low-cost 50 amp unit.",
+   "watchFor": "A short delay can stall a cold engine."
+  },
+  {
+   "spec": "Pure sine wave inverter",
+   "meaning": "An inverter that produces clean AC power, the type the Renogy switch targets.",
+   "watchFor": "Modified sine inverters can upset some electronics."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Rating and coach fit",
+   "description": "We evaluated whether each switch matches a 30 amp or 50 amp coach. The Nirakoka 30 amp and Renogy are 30 amp, while the Nirakoka 50 amp, LINKCRO, KUTTOLE and low-cost 50 amp units serve split-phase coaches."
+  },
+  {
+   "title": "Handoff behavior",
+   "description": "We considered delay and source priority, including the 30 second delay on the low-cost 50 amp unit and the KUTTOLE's generator-first design."
+  },
+  {
+   "title": "Wiring and neutral handling",
+   "description": "We looked at how each switch describes its neutral and pre-wiring. The Nirakoka 50 amp's switched neutral and pre-wired layout reduce installation errors."
+  },
+  {
+   "title": "System compatibility",
+   "description": "We compared fit for inverter, solar and generator systems. The Renogy and Nirakoka 30 amp switches are described for those sources."
+  },
+  {
+   "title": "Ownership and support",
+   "description": "Based on owner feedback patterns, wiring mistakes cause more failures than hardware faults, and a switch that survives a few seasons of vibration is as valuable as one that looks good on paper. We favored clear documentation and simple installs."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By RV Service Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "30 amp coach, one AC",
+      "Nirakoka 30 Amp",
+      "120VAC switching for shore, inverter and generator"
+     ],
+     [
+      "50 amp coach, two ACs",
+      "Nirakoka 50 Amp",
+      "240VAC with switched neutral"
+     ],
+     [
+      "Van or small rig with inverter",
+      "Renogy 30 Amp",
+      "Designed for pure sine wave inverters"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "50A Low Cost RV Transfer Switch",
+      "Basic 50 amp with a protective delay"
+     ],
+     [
+      "Middle ground",
+      "LINKCRO 50 Amp",
+      "Automatic handoff when the generator starts"
+     ],
+     [
+      "Highest outlay",
+      "Nirakoka 50 Amp 70A",
+      "Pre-wired with switched neutral"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Shore-First vs Generator-First",
+   "cards": [
+    {
+     "label": "Shore-first",
+     "text": "Most switches prefer the campground pedestal and fall back to the generator. That saves fuel and suits full-hookup travel."
+    },
+    {
+     "label": "Generator-first",
+     "text": "The KUTTOLE PD50 prioritizes generator power. It suits boondocking, but can waste fuel if you forget to stop the generator at a hookup site."
+    }
+   ],
+   "note": "Choose shore-first for campgrounds; choose generator-first for boondocking."
+  },
+  {
+   "subheading": "Inverter vs Generator Backup",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Solar and battery system",
+      "Renogy 30 Amp",
+      "Matches pure sine wave inverters"
+     ],
+     [
+      "Onboard generator",
+      "LINKCRO 50 Amp",
+      "Switches when the generator starts"
+     ],
+     [
+      "Protect the generator at startup",
+      "50A Low Cost RV Transfer Switch",
+      "Thirty-second delay"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Boondocking Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A delay long enough for the generator to stabilize, clear source priority and wiring that suits your inverter. Test every transfer at home before a trip."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The KUTTOLE PD50 and low-cost 50 amp switch suit generator use, while the Renogy suits solar systems."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a 50 amp coach and run expensive appliances. A pre-wired unit like the Nirakoka 50 amp reduces installation mistakes."
+    },
+    {
+     "label": "Save if",
+     "text": "You have a small rig and only use a generator occasionally. The Nirakoka 30 amp covers it."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test transfers",
+   "interval": "Before each trip",
+   "why": "Run the generator and shore power transfer. Catching a fault at home beats finding it at a campsite."
+  },
+  {
+   "task": "Inspect connections",
+   "interval": "Every 6 months",
+   "why": "Vibration loosens terminals. Check and tighten with the power off."
+  },
+  {
+   "task": "Check the enclosure",
+   "interval": "Yearly",
+   "why": "Moisture and dust shorten switch life. Keep the cover on and dry."
+  },
+  {
+   "task": "Verify the neutral setup",
+   "interval": "After any wiring change",
+   "why": "Neutral errors cause GFCI trips and stray current."
+  },
+  {
+   "task": "Service the generator",
+   "interval": "Per its schedule",
+   "why": "A stable generator makes any transfer switch work better."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Does my RV need an aftermarket transfer switch?",
+   "a": "Most RVs with onboard generators already have a factory switch. Aftermarket switches suit conversions, vans and coaches with a portable generator inlet."
+  },
+  {
+   "q": "Can a 30 amp switch run a 50 amp RV?",
+   "a": "No. The ratings and wiring differ. Use a 50 amp switch for a 50 amp coach."
+  },
+  {
+   "q": "Why does the switch wait before connecting?",
+   "a": "A delay lets the generator stabilize. Connecting a large load to a cold engine can stall it."
+  },
+  {
+   "q": "Do I need an electrician?",
+   "a": "A qualified technician is advisable, since neutral and grounding errors are common and can be dangerous."
+  },
+  {
+   "q": "Can I use a transfer switch with solar?",
+   "a": "Yes, if it is rated for the inverter. The Renogy 30 amp is designed for inverter and solar systems."
+  },
+  {
+   "q": "What if shore power fails?",
+   "a": "A good ATS moves to the backup source automatically. Check that it also returns to shore power when it is restored."
+  }
+ ],
+ "relatedGuides": []
+}

@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-printers-for-high-volume-printing",
+ "categorySlug": "home-machines",
+ "mainKeyword": "printer for high volume printing",
+ "guideTitle": "Best Printers for High Volume Printing (2026)",
+ "metaTitle": "Best Printers for High Volume Printing 2026",
+ "metaDescription": "Six printers built for heavy home and small office use compared: mono laser, color laser, ink tank and heat-free inkjet, with speeds and yields.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg",
+ "expertTake": "The Brother DCP-L2640DW is the best overall for heavy text printing because mono laser toner is the cheapest per page and the fastest to deliver. The Epson EcoTank ET-4950 is the value pick for color-heavy households. Anyone printing under a few dozen pages a month should skip this category and buy a basic inkjet.",
+ "introParagraphs": [
+  "Heavy printing changes the buying logic. A low purchase price stops mattering, and what you pay per page, how fast the first page appears, and how often the paper path jams take over as the real measures of a printer.",
+  "The three technologies, laser, ink tank and heat-free business inkjet, each win on a different axis. Decide how many pages you print a month, whether you need color, and how much downtime you can tolerate before comparing anything else."
+ ],
+ "products": [
+  {
+   "id": "B0CPLFTPCV",
+   "badge": "Best Overall",
+   "name": "Brother DCP-L2640DW wireless mono laser multifunction",
+   "price": "",
+   "specs": [
+    "Up to 36 ppm",
+    "Mono laser",
+    "Duplex",
+    "Wireless"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Monochrome laser"
+    },
+    {
+     "label": "Print speed",
+     "value": "Up to 36 ppm"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, copy, scan"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic 2-sided"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wireless and mobile printing"
+    }
+   ],
+   "description": "The DCP-L2640DW is a monochrome laser multifunction machine, and the engineering choice that matters is the toner system. A laser fuses dry toner onto the page, so nothing dries out between jobs and a cartridge can sit for months without a clogged nozzle. Print speeds reach up to 36 pages per minute, which is the fastest figure among the picks here, and automatic duplexing halves paper use on long documents.\n\nThe tradeoff is that it prints in black only. A household that needs color photos or school projects will find it limiting, and the multifunction unit uses a drum and toner that wear out separately over many thousands of pages. Compared with the color laser, it is smaller, cheaper to run per black page and quicker to first print, while the Epson ink tank models give you color at the cost of speed.\n\nOwnership is quiet and low drama. Dust the paper path, wipe the pickup rollers with a damp lint-free cloth, and keep paper flat and sealed so it does not curl and jam in the duplex path. Check the yield of the replacement cartridge, because starter toner often holds far fewer pages than a full-size one, and treat the monthly duty rating as a ceiling rather than a target.",
+   "bestFor": "Heavy black and white printing at home or in a small office.",
+   "pros": [
+    "Up to 36 ppm for fast long documents",
+    "Toner never dries out between infrequent jobs",
+    "Automatic duplex saves paper on large reports",
+    "Compact multifunction with wireless printing"
+   ],
+   "cons": [
+    "Black and white only, so no color documents",
+    "Drum and toner are separate wear parts"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0CPLFTPCV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41Pb1fcUXbL._SL500_.jpg"
+  },
+  {
+   "id": "B0CFCYYZLM",
+   "badge": "Best Compact Color Laser",
+   "name": "Brother wireless color laser printer 19 ppm duplex",
+   "price": "",
+   "specs": [
+    "19 ppm color laser",
+    "250-sheet tray",
+    "Duplex",
+    "Wireless"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Color laser"
+    },
+    {
+     "label": "Print speed",
+     "value": "19 ppm"
+    },
+    {
+     "label": "Paper tray",
+     "value": "250 sheets"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wireless and mobile"
+    }
+   ],
+   "description": "This color laser is a single-function printer that trades scanning for speed and a larger tray. It uses four toner cartridges, delivers crisp text and prints smudge and water-resistant pages, which matters for documents that get handled. A 250-sheet tray means fewer refills during a long job, and automatic duplex keeps paper use down.\n\nThe compromise is speed and cost. At 19 ppm, it is slower than the mono laser and its toner set costs more to replace, so a color laser only pays off when you actually need color pages in bulk. Photographic gradation is also weaker than on an inkjet, which makes it a document printer rather than a photo machine. Against the Canon color laser, it is the simpler, lighter option without a scanner.\n\nTreat it as a workhorse. Keep a spare set of toner on hand, because running one color empty can stop a job, and clean the paper path once in a while. Imaging units and drums are wear parts on many color lasers, so check their cost before you commit.",
+   "bestFor": "Heavy office documents that need color text and graphics.",
+   "pros": [
+    "Four-toner color laser with crisp, smudge-resistant text",
+    "Generous 250-sheet paper tray",
+    "Automatic duplex printing",
+    "Wireless and mobile printing built in"
+   ],
+   "cons": [
+    "Slower than the mono laser at 19 ppm",
+    "Toner set costs more per page than black only"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CFCYYZLM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/311SOXNvLIL._SL500_.jpg"
+  },
+  {
+   "id": "B0FP3LJ74G",
+   "badge": "Best Color Laser Multifunction",
+   "name": "Canon imageCLASS MF753Cdw II color laser all-in-one",
+   "price": "",
+   "specs": [
+    "4-in-1",
+    "Color laser",
+    "Duplex",
+    "Fax and ADF"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Color laser"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy, fax"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic"
+    },
+    {
+     "label": "Document feeder",
+     "value": "Automatic"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wireless"
+    }
+   ],
+   "description": "The imageCLASS MF753Cdw II is a four-in-one color laser that prints, scans, copies and faxes, with an automatic document feeder for stacks of paper. It uses laser technology with four toner cartridges, so text is sharp and pages come out dry. Automatic duplexing and wireless printing round out a package that is clearly aimed at a small office.\n\nIts tradeoff is size and cost per unit. It is bigger and heavier than the Brother color laser, and a full set of toner is a real expense. Compared with the Epson ink tank models, it is faster and prints durable documents, but it cannot match their color cost per page for photos. Its scanner and feeder make it more useful than the print-only color laser if you also digitize paper.\n\nPlan on a permanent shelf with space for paper and toner. Check the ADF sheet limit before loading a stack, because overfilling is a common jam cause, and print on single sides for labels and glossy media. Keep the firmware current and use genuine toner to avoid chip-related warnings.",
+   "bestFor": "A small office that needs color print, scan, copy and fax in one machine.",
+   "pros": [
+    "Four functions in one color laser",
+    "Automatic document feeder for stacks of paper",
+    "Dry toner pages resist smudging and water",
+    "Automatic duplex and wireless printing"
+   ],
+   "cons": [
+    "Large and heavy for a home desk",
+    "Full toner sets are a notable expense"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FP3LJ74G?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg"
+  },
+  {
+   "id": "B0FC5KYF71",
+   "badge": "Best Value for Color",
+   "name": "Epson EcoTank ET-4950 wireless supertank all-in-one",
+   "price": "",
+   "specs": [
+    "Cartridge-free",
+    "6,600 black pages",
+    "5,500 color pages",
+    "Fax and ADF"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Ink tank inkjet"
+    },
+    {
+     "label": "Included ink",
+     "value": "Up to 6,600 black, 5,500 color pages"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, scan, copy, fax"
+    },
+    {
+     "label": "Refilling",
+     "value": "Keyed EcoFit bottles"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wireless and mobile"
+    }
+   ],
+   "description": "The ET-4950 replaces cartridges with refillable tanks, which is why it has the lowest cost per page of any color printer in the group. It ships with enough ink for up to 6,600 black or 5,500 color pages, and the keyed EcoFit bottles prevent a messy or incorrect fill. A four-in-one body with fax and a document feeder makes it a complete home office machine.\n\nThe tradeoff is speed and first-page time. An inkjet carriage moves across the page, so long jobs are slower than on a laser, and a unit that sits unused can suffer from dried nozzles. Compared with the WF-4930, the ET-4950 has a much cheaper per-page cost, while the WF-4930 prints faster and uses pigment ink for durability. It is the pick for a family that prints colour schoolwork and photos in bulk.\n\nOwnership rewards regular use. Print a few pages weekly to keep nozzles clear, run a nozzle check when colors look off, and store the bottles upright. Refilling is simple, and the supersized tanks mean you only top up occasionally.",
+   "bestFor": "A household that prints a lot of color documents and photos on a tight running cost.",
+   "pros": [
+    "Cartridge-free tanks with very low cost per page",
+    "Up to 6,600 black or 5,500 color pages of included ink",
+    "Keyed EcoFit bottles make refilling tidy",
+    "Print, scan, copy and fax with a document feeder"
+   ],
+   "cons": [
+    "Slower than a laser on long jobs",
+    "Nozzles can dry if the printer sits unused"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0FC5KYF71?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg"
+  },
+  {
+   "id": "B0H6NKYQPP",
+   "badge": "Best Fast Inkjet",
+   "name": "Epson WorkForce Pro WF-4930 heat-free business inkjet",
+   "price": "",
+   "specs": [
+    "25/12 ISO ppm",
+    "Heat-free",
+    "50-page ADF",
+    "Pigment ink"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "PrecisionCore heat-free inkjet"
+    },
+    {
+     "label": "Speed",
+     "value": "25 black / 12 color ISO ppm"
+    },
+    {
+     "label": "Ink",
+     "value": "DURABrite Ultra pigment"
+    },
+    {
+     "label": "Document feeder",
+     "value": "50-page ADF"
+    },
+    {
+     "label": "Duplex",
+     "value": "Automatic 2-sided"
+    }
+   ],
+   "description": "The WF-4930 is a business inkjet that uses PrecisionCore heat-free technology, which pushes ink out of the printhead without heating it. That reduces wear and allows quick, accurate dot placement at 25 ISO pages per minute in black and 12 in color. DURABrite Ultra pigment ink dries instantly and resists water and fading, so documents come out ready to handle.\n\nThe cost is a higher purchase price and cartridge-based ink, so it lacks the very low running cost of a tank printer. Compared with the ET-4950, it is faster and more rugged, but it is more expensive to feed. A 50-page document feeder and automatic duplex make it comfortable for scanning and copying thick files, which is why it appeals to a home business.\n\nIn ownership terms, it is a workhorse that expects regular use. Keep the paper path clean, check the ADF limit before loading stacks and choose high-yield cartridges to reduce cost. Check your replacement ink yield rather than the starter set, which holds less.",
+   "bestFor": "A home business that needs fast, durable inkjet pages with a big document feeder.",
+   "pros": [
+    "Heat-free printhead built for heavy workloads",
+    "25 black and 12 color ISO ppm speeds",
+    "Instant-dry pigment ink resists water and fading",
+    "50-page document feeder and automatic duplex"
+   ],
+   "cons": [
+    "Cartridge ink costs more per page than a tank printer",
+    "Higher purchase price than basic inkjets"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0H6NKYQPP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31XPC6v1qKL._SL500_.jpg"
+  },
+  {
+   "id": "B0GVKNJ14P",
+   "badge": "Best Low-Cost Tank Option",
+   "name": "HP Smart Tank 5003 wireless ink tank all-in-one",
+   "price": "",
+   "specs": [
+    "3 years of ink",
+    "6,000 pages",
+    "Cartridge-free",
+    "Wireless"
+   ],
+   "specList": [
+    {
+     "label": "Technology",
+     "value": "Ink tank inkjet"
+    },
+    {
+     "label": "Included ink",
+     "value": "Up to 3 years, about 6,000 pages"
+    },
+    {
+     "label": "Functions",
+     "value": "Print, copy, scan"
+    },
+    {
+     "label": "Borderless",
+     "value": "Yes"
+    },
+    {
+     "label": "Connectivity",
+     "value": "Wireless and mobile"
+    }
+   ],
+   "description": "The Smart Tank 5003 is built around bulk ink. It ships with up to three years of ink, rated at around 6,000 pages, and refills from bottles rather than cartridges. That arrangement is meant for low-cost, high-volume printing, and it supports borderless prints and wireless printing from a phone.\n\nIts limitation is that it is a three-function machine with no fax and a more basic feeder arrangement than the ET-4950. Compared with the Epson tank, you get a similar philosophy at a simpler spec, and compared with a laser, you give up speed. If your printing is steady but not office-grade, it is a very economical choice.\n\nOwnership comes down to using it. Print a few pages every week, refill carefully with the supplied bottles and read the terms of any ink program that comes with the printer. Check that the printer works without a subscription before you buy, and keep its firmware up to date.",
+   "bestFor": "A family that prints thousands of pages a year without wanting a cartridge bill.",
+   "pros": [
+    "Up to three years of ink included",
+    "Bottle-fed tanks keep cost per page low",
+    "Borderless printing and wireless support",
+    "Simple three-in-one design"
+   ],
+   "cons": [
+    "No fax and a simpler feeder than the ET-4950",
+    "Slower than a laser on long documents"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0GVKNJ14P?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/417KMYvs5iL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Cost per page, not sticker price",
+   "explanation": "Cost per page is the consumable price divided by its ISO page yield, rated at 5 percent page coverage. A mono laser like the DCP-L2640DW has the lowest black cost, and an ink tank like the ET-4950 has the lowest color cost. Dense pages cost more than the rating implies, so treat the rating as a best case."
+  },
+  {
+   "criterion": "Monthly volume and duty cycle",
+   "explanation": "Above about 200 pages a month, the running-cost savings of a laser or ink tank offset their higher hardware price. The duty cycle is a ceiling, not a target, so the honest number is the recommended monthly volume. Pick a machine whose recommended volume is comfortably above what you print."
+  },
+  {
+   "criterion": "Speed and first page time",
+   "explanation": "The DCP-L2640DW reaches 36 ppm, the WF-4930 reaches 25 black and 12 color ISO ppm, and the color laser runs at 19 ppm. Ink tank printers are slower for long jobs. If you print long reports, speed saves real time over a year."
+  },
+  {
+   "criterion": "Paper path and jams",
+   "explanation": "Duplex printing forces each sheet to reverse and re-enter the path, so curled, damp, thin or heavy paper causes most jams. Keep paper flat and sealed, and avoid overloading trays. The ADF sheet limit on scanner models, such as the 50 pages on the WF-4930, is another jam cause when overfilled."
+  },
+  {
+   "criterion": "Technology fit",
+   "explanation": "Laser suits text and dry-toner reliability. Ink tank suits color and low cost per page. A heat-free business inkjet like the WF-4930 suits fast color documents with pigment ink durability. Match the technology to the kind of pages you print most."
+  },
+  {
+   "criterion": "Ink program traps",
+   "explanation": "Subscription ink programs bundle ink by page count but can lock the printer to the plan, and some firmware updates can reject non-original cartridges. Read the terms before you buy. A tank printer with bottle refills, such as the ET-4950, avoids most of that."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "ppm (pages per minute)",
+   "meaning": "The speed of continuous printing of a simple document. First page time and duplex speed are usually slower.",
+   "watchFor": "The DCP-L2640DW lists up to 36 ppm, the color laser 19 ppm, and the WF-4930 25 black and 12 color ISO ppm."
+  },
+  {
+   "spec": "ISO page yield",
+   "meaning": "The number of pages a cartridge or bottle set prints at 5 percent coverage under a standard method. It lets you compare cost per page.",
+   "watchFor": "The ET-4950 lists up to 6,600 black and 5,500 color pages for its included ink."
+  },
+  {
+   "spec": "Duty cycle",
+   "meaning": "The maximum monthly page count a printer is built to handle. It is a ceiling, not a recommended workload.",
+   "watchFor": "Look for the recommended monthly volume for an honest number."
+  },
+  {
+   "spec": "ADF capacity",
+   "meaning": "How many sheets the automatic document feeder holds. Overfilling is a common jam cause.",
+   "watchFor": "The WF-4930 has a 50-page ADF."
+  },
+  {
+   "spec": "Pigment vs dye ink",
+   "meaning": "Pigment ink resists water and fading, which suits documents. Dye ink gives vivid photo color on glossy paper.",
+   "watchFor": "The WF-4930 uses DURABrite Ultra pigment ink."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Running cost",
+   "description": "We compared consumable type, included ink and yields for each printer. The ET-4950 includes up to 6,600 black pages, and the HP Smart Tank 5003 includes up to three years of ink. Lower cost per page scored higher for heavy users."
+  },
+  {
+   "title": "Speed and throughput",
+   "description": "We looked at rated page speeds and duplex behavior. The DCP-L2640DW reaches 36 ppm and the WF-4930 reaches 25 black ISO ppm. Faster long-job output raised the scores."
+  },
+  {
+   "title": "Paper handling",
+   "description": "We checked tray capacity, ADF size and duplex. The color laser has a 250-sheet tray and the WF-4930 has a 50-page ADF. Fewer refills and cleaner paths scored higher."
+  },
+  {
+   "title": "Print quality and durability",
+   "description": "We considered text sharpness, smudge resistance and ink type. Laser toner and pigment ink score well for documents. Dye ink and tank printers score well for color."
+  },
+  {
+   "title": "Ownership",
+   "description": "We weighed drum wear, nozzle clogging and firmware policies. Owner feedback patterns on ink programs and cartridge locks informed the scores. Simple maintenance scored higher."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Type of Pages",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Long black and white reports",
+      "Brother DCP-L2640DW",
+      "Up to 36 ppm and cheap toner"
+     ],
+     [
+      "Color documents with sharp text",
+      "Brother color laser",
+      "Four-toner laser with 250-sheet tray"
+     ],
+     [
+      "Color, scan, copy and fax",
+      "Canon MF753Cdw II",
+      "Four-in-one color laser with ADF"
+     ],
+     [
+      "Color photos and schoolwork",
+      "Epson ET-4950",
+      "Tank ink at a low cost per page"
+     ],
+     [
+      "Fast durable inkjet pages",
+      "Epson WF-4930",
+      "Heat-free printhead and pigment ink"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest running cost for black",
+      "Brother DCP-L2640DW",
+      "Mono laser toner"
+     ],
+     [
+      "Low running cost for color",
+      "Epson ET-4950",
+      "Refillable supertanks"
+     ],
+     [
+      "Simple tank option",
+      "HP Smart Tank 5003",
+      "Bottle ink with years included"
+     ],
+     [
+      "Upper tier laser",
+      "Brother color laser",
+      "Color laser at a mid tier"
+     ],
+     [
+      "Premium office",
+      "Canon MF753Cdw II",
+      "Four functions and ADF"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Laser vs Ink Tank",
+   "cards": [
+    {
+     "label": "Laser",
+     "text": "The DCP-L2640DW, Brother color laser and Canon MF753Cdw II print fast and dry pages. Toner does not dry out, but drums and imaging units wear."
+    },
+    {
+     "label": "Ink tank",
+     "text": "The ET-4950 and Smart Tank 5003 have the lowest color cost per page and very high bottle yields. They are slower on long jobs and need regular use."
+    }
+   ],
+   "note": "Text-heavy offices should pick laser, and color-heavy families should pick ink tank."
+  },
+  {
+   "subheading": "Document Handling",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Scanning thick files",
+      "Epson WF-4930",
+      "50-page document feeder"
+     ],
+     [
+      "Fax plus scan plus copy",
+      "Epson ET-4950",
+      "Four-in-one with ADF"
+     ],
+     [
+      "Print-only color",
+      "Brother color laser",
+      "Single-function with a large tray"
+     ],
+     [
+      "Compact multifunction",
+      "Brother DCP-L2640DW",
+      "Print, copy and scan"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For High Volume Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a recommended monthly volume well above your needs, high-yield consumables and a large tray. A machine that fills and empties quickly costs time. Avoid starter cartridges."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The DCP-L2640DW is the strongest for pure volume with its speed and cheap toner. The ET-4950 and Smart Tank 5003 win on color volume, and the WF-4930 balances speed and color."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you print thousands of pages a month or need color laser speed. The Canon MF753Cdw II and WF-4930 suit that workload."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you print mostly black text. The DCP-L2640DW covers it with low running cost."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean the paper path and pickup rollers",
+   "interval": "Every few months",
+   "why": "Dust and toner on rollers cause misfeeds. Wipe with a damp lint-free cloth."
+  },
+  {
+   "task": "Run a nozzle check on inkjets",
+   "interval": "Monthly",
+   "why": "A check shows dried nozzles early. A cleaning cycle usually clears them."
+  },
+  {
+   "task": "Print a few pages weekly",
+   "interval": "Weekly",
+   "why": "Regular use keeps ink moving through the nozzles. Idle tank printers clog faster."
+  },
+  {
+   "task": "Store paper flat and sealed",
+   "interval": "Always",
+   "why": "Damp or curled paper is the main cause of duplex jams."
+  },
+  {
+   "task": "Check toner and drum life",
+   "interval": "Every few months",
+   "why": "A drum is a separate wear part. Order replacements before a job fails."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which printer is cheapest per page?",
+   "a": "A mono laser such as the DCP-L2640DW is cheapest per black page, and an ink tank such as the ET-4950 is cheapest per color page. Check the consumable yield rather than the sticker price."
+  },
+  {
+   "q": "Is laser better than inkjet for heavy use?",
+   "a": "Laser is faster for text and does not clog, but ink tank printers win on color cost. Pick by the pages you print most."
+  },
+  {
+   "q": "How many pages a month justifies a better printer?",
+   "a": "Above about 200 pages a month, laser or ink tank running costs offset the higher purchase price. Below that, a basic inkjet is fine."
+  },
+  {
+   "q": "Will a printer lock me into an ink plan?",
+   "a": "Some programs bundle ink and can tie the printer to the plan, and firmware updates can reject non-original cartridges. Read the terms before buying."
+  },
+  {
+   "q": "Why does my duplex printing jam?",
+   "a": "Each sheet must reverse and re-enter the path, so curled or damp paper jams easily. Keep paper flat and avoid overloading the tray."
+  },
+  {
+   "q": "How long will these printers last?",
+   "a": "Lasers can run many years with regular cleaning. Tank printers last well if used weekly, and the wear parts are rollers, drums and printheads."
+  }
+ ],
+ "relatedGuides": []
+}

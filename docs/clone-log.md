@@ -766,3 +766,10 @@ Finish: register-dynamic + register-new on all 76, mark done/skip, `audit-guides
 - Writer fabricated 3 products (ASIN not in compact data): KITCHENARM 19-in-1 (small bread machines), Frigidaire FF05 (quiet disposals), Intex Greystone (6-person hot tubs). finish.mjs caught them; removed, lineups now 4/4/5. Sous vide intro spec numbers rewritten.
 - New research: garbage-disposals, inflatable-hot-tubs, pool-vacuums, water-flossers, sous-vide.
 - Checks: neardup 0 on 102, no 【, audit ok, tsc + build green. Follow-up: 4-word opener pass not run; water flosser "ADA Accepted" wording flagged as listing claim.
+
+## Rounds 56 + 57 (2026-11-28): 92 guides (Clarity-driven topics + under-N budget caps)
+- Round 56: 56 Clarity topics (label printer, 3D printer, bread maker, generator, air fryer, shredder, log splitter, chainsaw, steam mop, etc.); 17 invented slugs dropped as same-intent before add-topics.
+- Round 57: 46 live under-N budget topics; last 14 finished by a fresh Sonnet writer (12 of 14 first drafts under 3,000 words, so the lean brief word budgets still undershoot).
+- Skips: embroidery-machines-under-500, quiet-vacuum-sealers, quiet-ice-makers, quiet-food-dehydrators, transfer-switches-under-100/200/1000, label-printers-under-150/300.
+- Lineup overlap flagged, kept per user: food-dehydrators-under-50 shares all 5 picks with published under-100. Partial: hot-tubs-under-500 vs hot-tubs 4/6, label-printers-under-30 vs under-50 3/5, stand-mixers-under-300 vs under-100 3/5.
+- Checks: neardup 0 on 92, no 【, audit ok, tsc + build green.

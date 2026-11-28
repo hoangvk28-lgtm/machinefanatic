@@ -1,0 +1,605 @@
+{
+ "guideSlug": "best-jump-starters",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "jump starters",
+ "guideTitle": "Best Jump Starters (2026)",
+ "metaTitle": "Best Jump Starters in 2026",
+ "metaDescription": "Six portable jump starters compared on engine size limits, spark-proof protection, clamp cable, air compressors and which batteries each one can start.",
+ "lastUpdated": "2026-11-28",
+ "readTime": "13 min",
+ "expertTake": "The NOCO Boost GBX155 is the jump starter to buy for big gas engines and fast USB-C recharging, and the NOCO Boost GB40 is the pick for ordinary cars that want a small, safe pack. Skip lithium packs if the vehicle lives in a freezing garage or a hot trunk, because a lead-acid unit such as the Clore tolerates abuse better.",
+ "introParagraphs": [
+  "A portable jump starter is a battery pack with heavy clamps that delivers a short burst of current to a dead car battery. It replaces a second vehicle and a set of cables, which makes it safer for many drivers, because you cannot reverse the clamps and spark.",
+  "Peak amp ratings dominate the box, but they are a short-burst figure and not a promise. What decides whether a unit starts your engine is cell quality, cable gauge and engine size limits, along with safety features such as spark-proof clamps. The six units below are compared on those details."
+ ],
+ "products": [
+  {
+   "id": "B08WZFPXFM",
+   "badge": "Best Overall",
+   "name": "NOCO Boost X GBX155 4250A UltraSafe Jump Starter",
+   "specs": [
+    "4250A peak",
+    "Gas up to 10.0L",
+    "USB-C recharge",
+    "UltraSafe 2.0"
+   ],
+   "specList": [
+    {
+     "label": "Peak amps",
+     "value": "4250A"
+    },
+    {
+     "label": "Engine limit",
+     "value": "Gas up to 10.0L"
+    },
+    {
+     "label": "Recharge",
+     "value": "USB-C PD in about 2.7 hours"
+    },
+    {
+     "label": "Boost charge",
+     "value": "Jump-ready in about 5 minutes"
+    },
+    {
+     "label": "Safety",
+     "value": "UltraSafe 2.0"
+    }
+   ],
+   "description": "The GBX155 is rated at 4,250 peak amps and starts gas engines up to 10.0 litres, a class that covers large trucks and V8 pickups. UltraSafe 2.0 adds spark-proof and reverse polarity protection with improved thermal efficiency, and the pack recharges in about 2.7 hours over USB-C Power Delivery or takes a five-minute turbo charge for a jump.\n\nThe engine limit matters more than the peak figure. A 10.0L rating means it handles the largest gas engines, while smaller packs state 6.0L or 8.0L. Compared with the NOCO GB40 in this guide it is bigger, faster to recharge and far more powerful, though pricier and heavier.\n\nKeep it in the cabin, not a hot trunk, and top it up every few months. NOCO sells replacement clamps, which helps long-term ownership. Keep it in the cabin during winter, since cold drops its output well below the rated figure.",
+   "bestFor": "Truck, SUV and V8 owners who need big-engine capability and quick recharging.",
+   "pros": [
+    "Starts gas engines up to 10.0 litres",
+    "USB-C PD recharge in about 2.7 hours",
+    "Spark-proof and reverse polarity protection",
+    "Boost charge gives a jump in about five minutes"
+   ],
+   "cons": [
+    "Costs far more than small packs",
+    "Larger and heavier than car-only units",
+    "Lithium cells weaken in deep cold"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B08WZFPXFM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41hGhmY2sES._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B015TKUPIC",
+   "badge": "Best for Cars",
+   "name": "NOCO Boost GB40 1000A UltraSafe Jump Starter",
+   "specs": [
+    "1000A peak",
+    "Up to 20 starts",
+    "Spark-proof",
+    "Power bank"
+   ],
+   "specList": [
+    {
+     "label": "Peak amps",
+     "value": "1000A"
+    },
+    {
+     "label": "Starts per charge",
+     "value": "Up to 20"
+    },
+    {
+     "label": "Safety",
+     "value": "Spark-proof and reverse polarity"
+    },
+    {
+     "label": "Power bank",
+     "value": "USB output for phones"
+    },
+    {
+     "label": "Class",
+     "value": "Compact lithium"
+    }
+   ],
+   "description": "The GB40 is a compact 1,000 peak amp lithium pack that the maker rates for up to 20 starts per charge, with patented spark-proof and reverse polarity protection and an integrated power bank for phones and tablets.\n\nA 1000A rating is enough for most four and six cylinder cars and small SUVs, and the small body fits a glovebox. Compared with the GBX155 it is far smaller, cheaper and slower to recharge, and compared with the GB70 it halves the claimed starts. Starts per charge matter, since a winter of failed attempts drains a small pack quickly.\n\nUse it in mild weather and keep it warm in winter. Check the charge every few months and clean the clamp teeth. Plan on a top-up every few months and keep the USB-C cable in the pack's bag.",
+   "bestFor": "Everyday drivers who want a small, safe pack for a four or six cylinder car.",
+   "pros": [
+    "Compact body fits a glovebox",
+    "Spark-proof and reverse polarity protection",
+    "Up to 20 starts per charge",
+    "Doubles as a phone power bank"
+   ],
+   "cons": [
+    "Struggles with large V8 or diesel engines",
+    "Fewer starts than larger packs",
+    "Lithium weakens in freezing cold"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B015TKUPIC?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/413QJ52orPL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0D4DLXNR1",
+   "badge": "Best Multi-Tool",
+   "name": "GOOLOO A3 3000A Jump Starter with Air Compressor",
+   "specs": [
+    "3000A peak",
+    "Air compressor",
+    "9L gas, 6.5L diesel",
+    "7-in-1"
+   ],
+   "specList": [
+    {
+     "label": "Peak amps",
+     "value": "3000A"
+    },
+    {
+     "label": "Engines",
+     "value": "Up to 9L gas, 6.5L diesel"
+    },
+    {
+     "label": "Compressor",
+     "value": "5 inflation modes"
+    },
+    {
+     "label": "Design",
+     "value": "7-in-1 toolkit"
+    },
+    {
+     "label": "Technology",
+     "value": "JUMPCORE and TOOLCORE"
+    }
+   ],
+   "description": "The A3 is a 3,000 peak amp jump starter with an air compressor, rated for gas engines up to 9 litres and diesels up to 6.5 litres. It offers five inflation modes, and the maker describes a seven-in-one design that also serves as a power bank and flashlight.\n\nThe compressor is the draw. A dead battery and a flat tire are both roadside problems, and a single unit that handles both saves space. Inflation, however, draws heavily on the same battery, so use it sparingly before a jump.\n\nCompared with the DEWALT in this guide it lists a higher peak rating and a diesel limit, while the DEWALT adds an AC inverter and a trade brand. Keep the pack charged, and inspect hoses and clamps regularly. Use the compressor only after the engine is running, so the jump battery is not left empty.",
+   "bestFor": "Drivers who want jump starting and tire inflation in one unit.",
+   "pros": [
+    "3,000A peak with gas and diesel limits stated",
+    "Five inflation modes",
+    "Seven-in-one design with flashlight and power bank",
+    "Compressor saves carrying a separate pump"
+   ],
+   "cons": [
+    "Compressor drains the same battery",
+    "Bulkier than jump-only packs",
+    "Brand support is less established than NOCO"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0D4DLXNR1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/415p96MAc+L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CL8RYBKX",
+   "badge": "Best Jobsite Pack",
+   "name": "DEWALT DXAEPS14 2000A Jump Starter, 120 PSI, 500W Inverter",
+   "specs": [
+    "2000 peak amps",
+    "120 PSI inflator",
+    "500W AC inverter",
+    "Gas or diesel"
+   ],
+   "specList": [
+    {
+     "label": "Peak amps",
+     "value": "2000A"
+    },
+    {
+     "label": "Inflator",
+     "value": "120 PSI digital, auto shutoff"
+    },
+    {
+     "label": "Inverter",
+     "value": "500W AC"
+    },
+    {
+     "label": "Engines",
+     "value": "4, 6 and 8 cylinder gas or diesel"
+    },
+    {
+     "label": "Brand",
+     "value": "DEWALT"
+    }
+   ],
+   "description": "The DXAEPS14 is a 2,000 peak amp unit for four, six and eight cylinder gas or diesel cars and trucks, with a 120 PSI digital air inflator that shuts off at a set pressure and a 500 watt AC inverter for small electronics. It is aimed at roadside, jobsite and emergency use.\n\nThe inverter is the unusual feature. It can run a small tool or charger when the power is out, which suits a contractor. Compared with the GOOLOO A3 it has a lower peak rating and no stated engine volume, but it adds the inverter and a trade brand.\n\nBecause it is a larger, heavier unit, store it in the cabin or a garage, and charge it after any heavy use. Carry a small set of tools and gloves in the same bag, since a roadside fix often needs both.",
+   "bestFor": "Contractors who want jump starting, inflation and AC power on a jobsite.",
+   "pros": [
+    "500W AC inverter powers small tools",
+    "Digital inflator with auto shutoff",
+    "Handles 4, 6 and 8 cylinder engines",
+    "Trade brand with service support"
+   ],
+   "cons": [
+    "Heavier than lithium-only packs",
+    "No stated litre limit for engines",
+    "Costs more than basic jump packs"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CL8RYBKX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51BA1KzsRpL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B000JFJLP6",
+   "badge": "Best Heavy Duty",
+   "name": "Clore Automotive Jump-N-Carry JNC660 1700A Jump Starter",
+   "specs": [
+    "1700 peak amps",
+    "22Ah lead-acid",
+    "46 in cables",
+    "Voltmeter"
+   ],
+   "specList": [
+    {
+     "label": "Peak amps",
+     "value": "1700A"
+    },
+    {
+     "label": "Battery",
+     "value": "22Ah Proformer lead-acid"
+    },
+    {
+     "label": "Cables",
+     "value": "46 in, #2 AWG heavy duty"
+    },
+    {
+     "label": "Gauge",
+     "value": "Charge voltmeter"
+    },
+    {
+     "label": "Type",
+     "value": "Jump-N-Carry"
+    }
+   ],
+   "description": "The JNC660 is a lead-acid jump starter with a 22Ah Proformer battery, 1,700 peak amps, 46 inch heavy-duty #2 AWG cables and a voltmeter that shows the charge level of the onboard battery. It is the classic garage jump pack.\n\nLead-acid is heavy and bulky, but it tolerates cold, heat and rough handling better than lithium, and it holds its charge for long periods. The thick cables lose less current, which is why it starts engines that small lithium packs struggle with. Compared with the NOCO GB40 it is far heavier but more rugged.\n\nExpect to keep it on a charger and check the voltmeter before each use. It is a shop tool, not a glovebox tool. Keep it on a trickle charger in the garage, and check the voltmeter before each use.",
+   "bestFor": "Garages and farms that want a rugged pack with heavy cables.",
+   "pros": [
+    "Heavy-duty 46 inch #2 AWG cables",
+    "Lead-acid battery tolerates temperature extremes",
+    "Voltmeter shows charge status",
+    "Long record in shops and fleets"
+   ],
+   "cons": [
+    "Heavy and bulky",
+    "No spark-proof electronics stated",
+    "Needs regular charging"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B000JFJLP6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51sJMMtZkrL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CRRKRJ2S",
+   "badge": "Best Fast Charging Value",
+   "name": "WOLFBOX 4000A Jump Starter, 88.8Wh, 65W USB-C",
+   "specs": [
+    "4000A peak",
+    "88.8Wh",
+    "65W USB-C",
+    "LCD display"
+   ],
+   "specList": [
+    {
+     "label": "Peak amps",
+     "value": "4000A"
+    },
+    {
+     "label": "Capacity",
+     "value": "88.8Wh"
+    },
+    {
+     "label": "Charging",
+     "value": "65W USB-C in and out"
+    },
+    {
+     "label": "Display",
+     "value": "HD LCD screen"
+    },
+    {
+     "label": "Ports",
+     "value": "USB-A QC3.0"
+    }
+   ],
+   "description": "WOLFBOX offers 4,000 peak amps from an 88.8Wh battery, an LCD display that shows status, a 65 watt USB-C port that charges the pack and also powers a laptop, and a QC3.0 USB-A port. A quick charger is included.\n\nThe 88.8Wh capacity is useful because it sets how many jumps and phone charges you get, and it is under the common 100Wh airline limit for power banks. Compared with the NOCO GBX155 it has a lower stated engine range and a less established safety story, but it costs less.\n\nCheck that the clamps include protection and read the manual on the engine size limits. Keep it charged and out of a hot trunk. Keep the clamps clean and check the display for a charge reading before each trip.",
+   "bestFor": "Buyers who want a large battery, a USB-C laptop port and a clear display at a lower cost.",
+   "pros": [
+    "88.8Wh capacity is under the 100Wh airline limit",
+    "65W USB-C charges the pack and devices",
+    "LCD display shows status clearly",
+    "4,000A peak rating"
+   ],
+   "cons": [
+    "Safety details are less documented than NOCO",
+    "Brand support is less established",
+    "Lithium weakens in deep cold"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0CRRKRJ2S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41t2Z7t3NkL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Engine size limits",
+   "explanation": "Peak amps are a short-burst number, and the engine limit is the practical one. The NOCO GBX155 lists gas engines up to 10.0 litres, the GOOLOO A3 lists 9L gas and 6.5L diesel, and the GB40 suits cars. Match the limit to your engine, and give diesels more headroom because they need more current. As a rule, size up for diesels: a pack that starts a 3.0L gas engine with ease can struggle on a diesel of the same size, since compression ratios are higher and glow plugs add load."
+  },
+  {
+   "criterion": "Safety electronics",
+   "explanation": "Spark-proof clamps and reverse polarity protection stop sparks and damage when clamps are connected wrong, which matters near a battery that can vent hydrogen. NOCO UltraSafe packs state both. The Clore lead-acid unit has no such electronics stated, so connect it with extra care. Remember that a pack used as a power bank has no reserve if you drain it first, so keep a habit of leaving it at least half full and check the indicator before any long trip."
+  },
+  {
+   "criterion": "Battery chemistry",
+   "explanation": "Lithium packs like the GB40 and WOLFBOX are small but weaken in freezing weather and suffer in a hot trunk. The Clore uses lead-acid, which is heavy but tolerates temperature swings. If your car sits outside in winter, chemistry matters. If you carry a pack in the cabin, make sure it is secured, because a loose lithium unit in a crash is a hazard, and a small bag under a seat is better than a bare pack on the dash."
+  },
+  {
+   "criterion": "Clamp cable gauge",
+   "explanation": "Thick cable and clean copper jaws deliver more current. The Clore lists 46 inch #2 AWG cables, which lose little current. Thin cables on small packs limit starting ability regardless of the peak number. Look at the clamp teeth and the strain relief where the cable meets the clamp, since that point is where cheap packs fail after a few winters."
+  },
+  {
+   "criterion": "Extra features",
+   "explanation": "The GOOLOO A3 and DEWALT add air compressors, and the DEWALT adds a 500W inverter. Inflation drains the same battery, so use it sparingly. Extra features add bulk and cost, so choose them only if you will use them. Read the temperature range in the manual before you buy, because makers often list a narrow band for storage and a wider one for use."
+  },
+  {
+   "criterion": "Recharge and storage",
+   "explanation": "The GBX155 recharges in about 2.7 hours over USB-C, while lead-acid units need a plug-in charger. Lithium packs lose charge slowly, so top them up every few months. Never leave a pack at zero. A pack with a bright flashlight and a hazard strobe is genuinely useful on a roadside at night, but it drains the cells, so use it sparingly."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Peak amps",
+   "meaning": "A short-burst current figure, often measured briefly into a very low resistance. It is not a guarantee of starting ability. Treat the number as a marketing figure unless an engine limit is stated.",
+   "watchFor": "A 1000A pack can start most cars, while 4000A is mostly marketing."
+  },
+  {
+   "spec": "Engine limit",
+   "meaning": "The largest gas or diesel engine the maker says the pack can start. A bigger limit usually means a bigger and heavier pack.",
+   "watchFor": "The GBX155 lists 10.0L gas and the GOOLOO lists 6.5L diesel."
+  },
+  {
+   "spec": "Spark-proof",
+   "meaning": "Clamps that will not spark when touched together or connected wrong. Check the clamp description as well as the pack.",
+   "watchFor": "NOCO UltraSafe packs state it."
+  },
+  {
+   "spec": "Wh capacity",
+   "meaning": "Watt-hours of stored energy. It sets jumps and phone charges per pack. Higher capacity means more phone charges per pack.",
+   "watchFor": "The WOLFBOX lists 88.8Wh, below the 100Wh airline limit."
+  },
+  {
+   "spec": "AWG",
+   "meaning": "Wire gauge, where a smaller number means a thicker cable. A thicker cable carries more current over the same distance.",
+   "watchFor": "The Clore lists #2 AWG heavy-duty cables."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Starting capability",
+   "description": "We compared engine limits more than peak amps. The GBX155 and GOOLOO A3 state litre limits. Peak ratings alone earned little credit. We started from the engine limit stated in each listing and compared it with typical vehicles, treating peak amps as a secondary hint."
+  },
+  {
+   "title": "Safety",
+   "description": "We looked for spark-proof and reverse polarity protection. NOCO UltraSafe packs lead. Units with no stated protection lose points. We read for safety electronics and noted where a listing was silent, because silence is a reason for caution, not a feature."
+  },
+  {
+   "title": "Durability",
+   "description": "We considered battery chemistry and cable gauge. The Clore lead-acid and thick cables lead for rough use. Lithium packs lose points in extreme temperatures. We considered chemistry and storage, since a pack that dies in a cold garage is no use in the season you need it."
+  },
+  {
+   "title": "Extras",
+   "description": "We counted compressors, inverters and USB-C ports. The DEWALT and GOOLOO lead on tools, and the WOLFBOX leads on USB-C. We counted extras only when they add real roadside value, such as a compressor or an inverter."
+  },
+  {
+   "title": "Ownership",
+   "description": "We considered brand support, recharge methods and clamp replacement. NOCO and DEWALT are easiest. We kept cost to relative tiers and flagged that a larger pack is wasteful for a small car."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Vehicle",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Compact car or small SUV",
+      "NOCO Boost GB40",
+      "1000A and compact"
+     ],
+     [
+      "V8 truck or large SUV",
+      "NOCO Boost X GBX155",
+      "Gas engines to 10.0L"
+     ],
+     [
+      "Diesel pickup",
+      "GOOLOO A3",
+      "6.5L diesel limit stated"
+     ],
+     [
+      "Jobsite and AC power",
+      "DEWALT DXAEPS14",
+      "500W inverter"
+     ],
+     [
+      "Garage or farm",
+      "Clore JNC660",
+      "Rugged lead-acid"
+     ],
+     [
+      "Laptop and phone charging",
+      "WOLFBOX 4000A",
+      "65W USB-C"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "NOCO Boost GB40",
+      "Compact and safe"
+     ],
+     [
+      "Lower mid",
+      "WOLFBOX 4000A",
+      "Large battery"
+     ],
+     [
+      "Mid",
+      "GOOLOO A3",
+      "Compressor included"
+     ],
+     [
+      "Upper mid",
+      "Clore JNC660",
+      "Rugged lead-acid"
+     ],
+     [
+      "Highest",
+      "NOCO Boost X GBX155",
+      "Big-engine capability"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Lithium vs Lead-Acid",
+   "cards": [
+    {
+     "label": "Lithium",
+     "text": "The NOCO, GOOLOO, DEWALT and WOLFBOX units are small and light. They weaken in freezing cold and dislike hot trunks."
+    },
+    {
+     "label": "Lead-acid",
+     "text": "The Clore JNC660 is heavy and bulky but tolerates temperature swings and rough handling. It needs a plug-in charger."
+    }
+   ],
+   "note": "Choose lithium for convenience and lead-acid for ruggedness."
+  },
+  {
+   "subheading": "By Extra Features",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Tire inflation",
+      "GOOLOO A3",
+      "Five inflation modes"
+     ],
+     [
+      "Digital inflator",
+      "DEWALT DXAEPS14",
+      "120 PSI auto shutoff"
+     ],
+     [
+      "AC power",
+      "DEWALT DXAEPS14",
+      "500W inverter"
+     ],
+     [
+      "Fast recharging",
+      "NOCO Boost X GBX155",
+      "USB-C PD"
+     ],
+     [
+      "Voltage readout",
+      "Clore JNC660",
+      "Charge voltmeter"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Cold Climates Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A lead-acid pack or a lithium pack kept indoors, plus a boost mode. Lithium cells lose capacity in freezing weather."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Clore JNC660 is the cold-tolerant choice. The NOCO GBX155 works if you store it in the cabin."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You drive a big truck or want fast recharging. The GBX155 is that unit."
+    },
+    {
+     "label": "Save if",
+     "text": "You drive a compact car. The GB40 is enough."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Charge the pack",
+   "interval": "Every 3 months",
+   "why": "Lithium packs self-discharge slowly, and a flat pack will not jump. A small wire brush keeps the clamp teeth bright."
+  },
+  {
+   "task": "Inspect clamps and cables",
+   "interval": "Every 6 months",
+   "why": "Cracked insulation or corroded jaws lose current. Keep the pack in a padded bag so the clamps do not scratch the case."
+  },
+  {
+   "task": "Store away from heat",
+   "interval": "Seasonally",
+   "why": "A hot trunk shortens lithium life and raises risk. Charge before winter and before a long trip."
+  },
+  {
+   "task": "Check the voltmeter",
+   "interval": "Before each use",
+   "why": "Lead-acid packs need a full charge to deliver rated current. Do not use it as a power bank without leaving a reserve for a jump."
+  },
+  {
+   "task": "Test the flashlight and ports",
+   "interval": "Every 6 months",
+   "why": "A dead flashlight or port means a drained or failing pack. Replace a swollen or damaged pack immediately."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many amps do I need?",
+   "a": "Match the engine limit rather than the peak number. A 1000A pack suits most cars, and big trucks need a pack with an 8.0L or 10.0L rating. Practise the connection once in your driveway so the sequence is automatic when a car refuses to start in the dark."
+  },
+  {
+   "q": "Can a jump starter damage my car?",
+   "a": "A pack with reverse polarity protection avoids most damage. Always connect red to positive and black to bare metal away from the battery. If the pack clicks and the car still will not crank, the starter or a bad cable may be at fault, and a bigger pack will not fix it."
+  },
+  {
+   "q": "Do jump starters work in the cold?",
+   "a": "Lithium packs weaken in freezing cold, so keep them warm. Lead-acid packs tolerate cold better but are heavy. Never connect clamps to a frozen or leaking battery, because the risk of a spill or an explosion is real."
+  },
+  {
+   "q": "How often should I charge it?",
+   "a": "Every three months for lithium packs, and keep a reserve if you use it as a power bank. Keep a paper copy of the engine size and the pack's limit in the glovebox, so a passenger can check it quickly."
+  },
+  {
+   "q": "Can I jump a completely dead battery?",
+   "a": "Some packs have a force or boost button for batteries near zero volts. Use it only with correct polarity. Wipe terminal corrosion off the car battery with a wire brush before connecting, since a dirty post wastes current."
+  },
+  {
+   "q": "Is a compressor worth it?",
+   "a": "It adds convenience for roadside tire problems, but inflation drains the same battery. Use it sparingly before a jump. A pack can often jump a second car after the first, but wait a few minutes between attempts to avoid overheating."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/41hGhmY2sES._SL500_.jpg"
+}

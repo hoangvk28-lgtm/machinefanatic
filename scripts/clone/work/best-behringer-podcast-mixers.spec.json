@@ -1,0 +1,605 @@
+{
+ "guideSlug": "best-behringer-podcast-mixers",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "behringer podcast mixer",
+ "guideTitle": "Best Behringer Podcast Mixers (2026)",
+ "metaTitle": "Best Behringer Podcast Mixers in 2026",
+ "metaDescription": "Six Behringer mixers compared for podcasting on XENYX preamps, USB streaming, compressors and digital control, from a mini USB board to a rack digital mixer.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "expertTake": "The Behringer XENYX 1204USB is the best Behringer podcast mixer here because four XENYX mic preamps with compressors and a USB interface cover a four person show on one analog desk. The XENYX 302USB is the value pick for a solo host. Anyone who wants faders under every voice should avoid the faderless X AIR XR18.",
+ "introParagraphs": [
+  "One maker can sell mixers at almost every size and price, which makes a single brand easy to follow from a first USB box to a full digital console. Its analog and digital families overlap in ways that can confuse a podcaster, so it helps to sort them by purpose before comparing models.",
+  "The practical split is analog versus digital. Analog boards give a knob for every job and no menus, while the digital units add scenes, app control and routing at the cost of a screen based workflow and, in one case, no faders at all."
+ ],
+ "products": [
+  {
+   "id": "B00871VO5Y",
+   "badge": "Best Overall",
+   "name": "Behringer XENYX 1204USB 12 input mixer with compressors",
+   "specs": [
+    "12 inputs",
+    "XENYX preamps",
+    "Compressors",
+    "USB interface"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "12"
+    },
+    {
+     "label": "Buses",
+     "value": "2/2 bus"
+    },
+    {
+     "label": "Preamps",
+     "value": "XENYX mic preamps"
+    },
+    {
+     "label": "Dynamics",
+     "value": "Compressors"
+    },
+    {
+     "label": "Computer link",
+     "value": "USB interface"
+    }
+   ],
+   "description": "The 1204USB is the sensible centre of the Behringer analog range for a podcast. Twelve inputs with XENYX mic preamps and onboard compressors cover several microphones plus a stereo source, and the USB interface sends the mix to a computer without a separate box. The compressors are the standout, since they even out speaking levels before the signal reaches the recording.\n\nIt is a conventional analog mixer, so there are no scenes and no multitrack USB. The computer receives a stereo mix, which makes later repair harder than on a multitrack recorder. Against the XENYX 802S it adds more inputs and compressors, at a higher price tier and a larger footprint.\n\nOwnership is easy. Analog circuits age well, the faders are standard parts and there is little software to maintain. Set gain with each host speaking at normal volume, engage the compressor lightly and keep the master fader near its marked position for headroom. Because the USB output is a stereo mix, get the balance right at the desk: bring up the quieter host with the channel fader instead of boosting later in software, and keep music beds well under speech. A short test recording before the guests arrive catches most problems.",
+   "bestFor": "Four person shows that want compressors and USB on an analog desk.",
+   "pros": [
+    "Four mic preamps with onboard compression",
+    "USB interface to a computer",
+    "Standard analog layout, no menus",
+    "Plenty of inputs for guests and music"
+   ],
+   "cons": [
+    "Stereo USB mix, not multitrack",
+    "Large for a small desk"
+   ],
+   "src": "pick",
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00871VO5Y?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51dd3J2H7wL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0C2BTT3DX",
+   "badge": "Best Compact Streaming Board",
+   "name": "Behringer XENYX 802S analog mixer with USB streaming interface",
+   "specs": [
+    "8 inputs",
+    "USB streaming",
+    "XENYX preamps",
+    "Analog"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "8"
+    },
+    {
+     "label": "Type",
+     "value": "Premium analog mixer"
+    },
+    {
+     "label": "Computer link",
+     "value": "USB streaming interface"
+    },
+    {
+     "label": "Preamps",
+     "value": "XENYX mic preamps"
+    },
+    {
+     "label": "Use",
+     "value": "Streaming and podcasting"
+    }
+   ],
+   "description": "The 802S shrinks the XENYX idea into an eight input board with a USB streaming interface. It handles a microphone or two, a stereo music source and a few line devices, which is enough for most small shows.\n\nIt lacks the compressors of the 1204USB and the scene recall of the digital units, so a host who wants processing must add it in software. It also has fewer inputs, which limits a larger table. In exchange it is smaller and cheaper, and it presents the same simple analog surface.\n\nA sensible setup sends the stereo USB mix to the computer and uses the headphone output for monitoring. Label the cables, set gain conservatively and keep the board away from wall adapters. If you run two microphones, set both gains with the guests speaking naturally, and keep the stereo music channel below the voices. A small board like this rewards a written note of your usual knob positions, since there are no scenes to recall.",
+   "bestFor": "Small shows that want an analog board with a USB streaming interface.",
+   "pros": [
+    "Eight inputs on a compact body",
+    "USB streaming interface included",
+    "XENYX preamps at a low price tier",
+    "No menus or software"
+   ],
+   "cons": [
+    "No onboard compressors",
+    "Few mic preamps among eight inputs"
+   ],
+   "src": "pick",
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0C2BTT3DX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51FzRhDebOL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B08NDBQM5W",
+   "badge": "Best Digital Control",
+   "name": "Behringer FLOW 8 digital mixer with Bluetooth and app control",
+   "specs": [
+    "8 inputs",
+    "Digital mixer",
+    "Bluetooth",
+    "App control"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "8"
+    },
+    {
+     "label": "Type",
+     "value": "Digital mixer"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth audio and app control"
+    },
+    {
+     "label": "Faders",
+     "value": "60 mm channel faders"
+    },
+    {
+     "label": "Processing",
+     "value": "Onboard digital effects"
+    }
+   ],
+   "description": "FLOW 8 is the compact digital option: eight inputs, Bluetooth audio, app control and 60 mm faders on a small chassis. The app puts scenes, effects and routing on a phone or tablet, while the faders keep the basic mix under your hands.\n\nThe digital design gives more processing than an analog board, but the workflow depends on an app and the learning curve is longer. Beside the 1204USB it offers recall and control by phone, while the 1204USB offers a simpler analog surface and compressors.\n\nKeep the app updated and save scenes for each show format. A wired connection is steadier than wireless, and a spare device with the app installed is cheap insurance. Because the faders are physical, a host can still fix a level if the app drops, which is a real advantage over a faderless unit. Check the Bluetooth link before a guest call and keep the phone volume moderate to avoid distortion.",
+   "bestFor": "Hosts who want digital scenes and app control with real faders on a small body.",
+   "pros": [
+    "Real faders with app control",
+    "Bluetooth audio for phone callers",
+    "Digital effects and scenes",
+    "Compact eight input body"
+   ],
+   "cons": [
+    "App based workflow takes learning",
+    "Wireless link is less steady than a cable"
+   ],
+   "src": "pick",
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B08NDBQM5W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41bCLqacPiL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0CBWZWNBM",
+   "badge": "Best Mid Size Streaming Mixer",
+   "name": "Behringer Xenyx 1002SFX 10 channel analog streaming mixer",
+   "specs": [
+    "10 channels",
+    "Streaming mixer",
+    "Effects",
+    "Analog"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "10"
+    },
+    {
+     "label": "Type",
+     "value": "Analog streaming mixer"
+    },
+    {
+     "label": "Effects",
+     "value": "Built in effects"
+    },
+    {
+     "label": "Computer link",
+     "value": "USB for streaming"
+    },
+    {
+     "label": "Brand line",
+     "value": "XENYX"
+    }
+   ],
+   "description": "The 1002SFX is a ten channel analog streaming mixer in the XENYX family. It sits between the 802S and the 1204USB, giving more inputs than the first and a smaller body than the second.\n\nIt is built for streamers, so effects and a computer connection are part of the design. A podcaster will use the effects sparingly and care more about the preamps and EQ. Compared with the 1204USB it lacks the compressor emphasis but offers a more compact layout.\n\nKeep the effects subtle and check the manual for how the USB path carries your mix. A tidy desk and short cables help on a board this size. Because the effects are made for streamers, a podcaster can leave them off and use only the EQ and gain controls, which keeps the board predictable. If you later need compression, a software compressor in your editor fills the gap, though it adds a step to every episode.",
+   "bestFor": "Streamer podcasters who want a ten channel analog board with effects.",
+   "pros": [
+    "Ten channels in a mid size body",
+    "Effects built in for streaming",
+    "XENYX family sound",
+    "Analog layout without menus"
+   ],
+   "cons": [
+    "Less compressor emphasis than the 1204USB",
+    "Effects add little for speech"
+   ],
+   "src": "candidate",
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0CBWZWNBM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51XmkniIfvL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B01JMYNDN0",
+   "badge": "Best for Large Panels",
+   "name": "Behringer X AIR XR18 18 channel digital mixer with tablet control",
+   "specs": [
+    "18 channels",
+    "12 buses",
+    "16 preamps",
+    "Tablet control"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "18"
+    },
+    {
+     "label": "Buses",
+     "value": "12"
+    },
+    {
+     "label": "Preamps",
+     "value": "16 programmable"
+    },
+    {
+     "label": "Control",
+     "value": "iPad or Android tablet"
+    },
+    {
+     "label": "Surface",
+     "value": "No faders, app only"
+    }
+   ],
+   "description": "The XR18 puts eighteen channels, twelve buses and sixteen programmable preamps into a small rack style box, controlled entirely from a tablet. It is the one Behringer here that can feed a large panel with separate microphones and mixes.\n\nThe lack of faders is the dealbreaker for some. Everything happens on a screen, which suits a producer who sets levels and leaves them but frustrates a host who wants to ride a fader. Next to the FLOW 8 it offers far more channels but no physical controls.\n\nPlan the network carefully. The unit creates its own wireless connection, so keep the tablet charged, place the box within range and use a wired link for important shows. Save scenes before each session. A router with a wired link is the steadiest way to connect, and a second tablet loaded with the app is a sensible backup. Name each channel after its host in the app so the layout stays readable, and leave the unit powered with a UPS or a surge protector if your studio has unreliable mains.",
+   "bestFor": "Producers running large panels who can work from a tablet.",
+   "pros": [
+    "Sixteen programmable preamps",
+    "Eighteen channels and twelve buses",
+    "Tablet control saves desk space",
+    "Great capacity for the price tier"
+   ],
+   "cons": [
+    "No physical faders",
+    "Depends on a tablet and a stable link"
+   ],
+   "src": "pick",
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B01JMYNDN0?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41NHiILJyjL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B005EHILV4",
+   "badge": "Best Solo Starter",
+   "name": "Behringer XENYX 302USB 5 input mixer with USB audio interface",
+   "specs": [
+    "5 inputs",
+    "USB interface",
+    "XENYX preamp",
+    "Mini mixer"
+   ],
+   "specList": [
+    {
+     "label": "Inputs",
+     "value": "5"
+    },
+    {
+     "label": "Computer link",
+     "value": "USB audio interface"
+    },
+    {
+     "label": "Preamp",
+     "value": "XENYX mic preamp"
+    },
+    {
+     "label": "Size",
+     "value": "Mini mixer"
+    },
+    {
+     "label": "Use",
+     "value": "Solo recording and streaming"
+    }
+   ],
+   "description": "The 302USB is the smallest mixer in the family, with five inputs, a USB audio interface and a XENYX mic preamp. It is the starter board for a solo host who wants an analog feel without a large desk footprint.\n\nWith a single mic preamp it suits one voice, and its simple controls leave no room for effects. Next to the 802S it has fewer inputs and a smaller body, but it also costs less.\n\nGive it a dynamic microphone, set gain carefully and use the headphone output for monitoring. The single preamp means a second guest needs either a second board or a small interface alongside it, so treat the 302USB as a solo tool or a backup. Its light weight also makes it easy to take to a friend's house for a remote recording, and a short USB lead completes the kit. If hiss appears, move the microphone closer and lower the gain rather than raising it.",
+   "bestFor": "Solo hosts who want a tiny analog mixer with USB.",
+   "pros": [
+    "Smallest XENYX board with USB",
+    "XENYX mic preamp",
+    "Very low price tier",
+    "Simple analog controls"
+   ],
+   "cons": [
+    "One mic preamp",
+    "No effects or compressor"
+   ],
+   "src": "candidate",
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B005EHILV4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51I7ZMGx4wL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Analog versus digital",
+   "explanation": "The XENYX boards are analog, with a knob per job and no menus. The FLOW 8 and XR18 are digital, with scenes, effects and app control. Choose analog if you want to mix by feel and digital if you want recall and routing."
+  },
+  {
+   "criterion": "Real mic preamp count",
+   "explanation": "The 1204USB carries four XENYX mic preamps, the 302USB one and the XR18 sixteen. Input counts such as eight, ten or twelve include line channels, so count preamps for the microphones you need."
+  },
+  {
+   "criterion": "Compression",
+   "explanation": "The 1204USB lists onboard compressors, which even out speech before it reaches the recording. Boards without them need compression in software. Compression is one of the biggest improvements you can give a spoken voice."
+  },
+  {
+   "criterion": "USB mix type",
+   "explanation": "The XENYX USB boards send a stereo mix to the computer. The XR18 and similar digital units can offer multichannel USB. A stereo mix is final once recorded, while multitrack lets you fix each voice later."
+  },
+  {
+   "criterion": "Physical controls",
+   "explanation": "The FLOW 8 has 60 mm faders and the XENYX boards have knobs and faders. The XR18 has none. A host who rides levels live should avoid a faderless unit. A tablet interface can be fast for an engineer, but it takes attention from the conversation, and a physical fader can be adjusted by feel while looking at a guest."
+  },
+  {
+   "criterion": "Size and desk space",
+   "explanation": "The 302USB is tiny, the 1204USB is large and the XR18 is compact but needs a tablet. Measure your space and leave room for cables at the back. A mixer that fits on paper can still crowd a desk once XLR, USB and headphone leads are attached, and a board pushed against a wall invites bent plugs. Allow a few extra centimeters behind the unit."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "XENYX preamp",
+   "meaning": "Behringer's mic preamp design used across its analog mixers.",
+   "watchFor": "The 302USB has one, the 1204USB four."
+  },
+  {
+   "spec": "2/2 bus",
+   "meaning": "Two group buses and two stereo returns for routing.",
+   "watchFor": "The 1204USB lists 2/2 bus."
+  },
+  {
+   "spec": "Compressor",
+   "meaning": "A processor that reduces the gap between loud and quiet sounds.",
+   "watchFor": "The 1204USB has onboard compressors."
+  },
+  {
+   "spec": "Programmable preamp",
+   "meaning": "A preamp whose gain is set digitally.",
+   "watchFor": "The XR18 lists sixteen."
+  },
+  {
+   "spec": "Scene recall",
+   "meaning": "Saved mixer settings that restore with a tap.",
+   "watchFor": "The FLOW 8 and XR18 offer scenes."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Preamp count",
+   "description": "We counted real mic preamps, from one on the 302USB to sixteen on the XR18. Input counts such as five, eight, ten or twelve include line channels, so we looked for the number of XLR capable inputs that a host could actually use, and we flagged where a listing leaves that number unstated."
+  },
+  {
+   "title": "Processing",
+   "description": "We checked for compressors and effects, noting the 1204USB's compressors and the digital units' effects. For speech, compression and EQ do the heavy lifting while reverb is a seasoning, so we weighted dynamics processing above the number of effect programs on offer."
+  },
+  {
+   "title": "Computer link",
+   "description": "We compared USB interfaces and stereo versus multichannel output. A stereo mix is simple to record but permanent, while multichannel output preserves each voice for later repair, and we noted which Behringer boards offer which so a buyer can match the output to the editing workflow."
+  },
+  {
+   "title": "Controls",
+   "description": "We weighed faders, knobs and app control. A podcast host needs to react to a loud laugh in a second, so physical controls were rated above screen based ones, and the faderless XR18 was credited for capacity rather than speed of use."
+  },
+  {
+   "title": "Value",
+   "description": "We compared price tiers, with the 302USB lowest and the XR18 and 1204USB higher. Behringer's value case rests on offering a lot of channels and processing for the money, so we judged each model by how much of its capacity a typical podcast would actually use, not by its raw specification."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Show Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Solo host",
+      "XENYX 302USB",
+      "Tiny board with one preamp"
+     ],
+     [
+      "Small show",
+      "XENYX 802S",
+      "Eight inputs and USB"
+     ],
+     [
+      "Streamer with effects",
+      "XENYX 1002SFX",
+      "Ten channels and effects"
+     ],
+     [
+      "Four person show",
+      "XENYX 1204USB",
+      "Four preamps and compressors"
+     ],
+     [
+      "Digital scenes",
+      "FLOW 8",
+      "App control and faders"
+     ],
+     [
+      "Large panel",
+      "X AIR XR18",
+      "Sixteen preamps"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "XENYX 302USB",
+      "Mini mixer"
+     ],
+     [
+      "Low",
+      "XENYX 802S",
+      "Streaming board"
+     ],
+     [
+      "Low to mid",
+      "XENYX 1002SFX",
+      "Ten channels"
+     ],
+     [
+      "Mid",
+      "XENYX 1204USB",
+      "Compressors"
+     ],
+     [
+      "Mid to high",
+      "FLOW 8",
+      "Digital control"
+     ],
+     [
+      "Higher",
+      "X AIR XR18",
+      "Large capacity"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Analog vs Digital",
+   "cards": [
+    {
+     "label": "Analog",
+     "text": "The XENYX 1204USB and 802S give a simple surface and no software."
+    },
+    {
+     "label": "Digital",
+     "text": "The FLOW 8 and XR18 add scenes, effects and app control."
+    }
+   ],
+   "note": "Choose analog for simplicity and digital for recall and capacity."
+  },
+  {
+   "subheading": "By Computer Link",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Stereo USB",
+      "XENYX 802S",
+      "Streaming interface"
+     ],
+     [
+      "Compact USB",
+      "XENYX 302USB",
+      "USB audio interface"
+     ],
+     [
+      "Large routing",
+      "X AIR XR18",
+      "Digital routing"
+     ],
+     [
+      "Phone audio",
+      "FLOW 8",
+      "Bluetooth"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Multi Host Shows Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Enough real mic preamps for every host and a way to give each person a monitor mix."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The XENYX 1204USB offers four preamps and the XR18 sixteen with twelve buses."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You record several voices. The 1204USB or XR18 give the capacity."
+    },
+    {
+     "label": "Save if",
+     "text": "You record solo. The 302USB covers the basics."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean faders",
+   "interval": "Quarterly",
+   "why": "Dust and skin oil cause crackle and uneven travel. Use compressed air and contact cleaner sparingly, and work each fader through its range afterward."
+  },
+  {
+   "task": "Check cables",
+   "interval": "Quarterly",
+   "why": "XLR and USB plugs wear with repeated use. Replace any cable that crackles when moved, and keep a spare for the day one fails during a recording."
+  },
+  {
+   "task": "Update app and firmware",
+   "interval": "Every few months",
+   "why": "Digital units receive updates that fix bugs and add features. Read the notes, save your scenes first and update between recordings, never just before one."
+  },
+  {
+   "task": "Back up scenes",
+   "interval": "After changes",
+   "why": "Saved scenes restore your routing and processing after a reset or a replacement. Keep a copy on a computer and a second copy in cloud storage."
+  },
+  {
+   "task": "Test gain",
+   "interval": "Each session",
+   "why": "Knobs drift when they are bumped, and a small change is easy to miss. Speak a test sentence at normal volume and check the meter before each recording."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which Behringer mixer is best for podcasting?",
+   "a": "The XENYX 1204USB suits most shows, because four XENYX preamps, onboard compressors and a USB interface cover a table of guests without a separate interface. If your show is small, the 802S gives the same character at a lower price tier. If you want recall and app control, the FLOW 8 is the digital alternative."
+  },
+  {
+   "q": "Is the XR18 good for podcasts?",
+   "a": "It suits large panels but has no faders, so everything is controlled from a tablet. Sixteen programmable preamps and twelve buses handle a big table with separate monitor mixes, which no other Behringer here can match. A host who wants to ride a level with a hand should look at the FLOW 8 or a XENYX board instead."
+  },
+  {
+   "q": "Do XENYX boards record multitrack?",
+   "a": "They send a stereo mix over USB, so the computer records one blended file. That is fine for a simple show but makes repairs harder, because a cough cannot be removed from one voice without touching the others. For separate tracks you need a digital unit with multichannel USB or an external recorder."
+  },
+  {
+   "q": "Which is best for a solo host?",
+   "a": "The XENYX 302USB is the smallest and cheapest, with one XENYX mic preamp and a USB audio interface. It sits comfortably beside a laptop and asks for little setup. If you expect a guest, step up to the 802S, which has more inputs and a similar layout."
+  },
+  {
+   "q": "Do I need compressors?",
+   "a": "They help even out speech by reducing the gap between loud and quiet moments, so listeners in a car or on a train never reach for the volume. The 1204USB lists onboard compressors. Other boards leave compression to software, which works well too but adds a step to the edit."
+  },
+  {
+   "q": "Are Behringer mixers reliable?",
+   "a": "They offer good value, and the analog XENYX line has a long record in home studios. Expect budget parts in the controls, so treat faders and knobs gently and keep the board covered. Digital units depend on firmware and apps, which are updated over time, so check recent owner feedback for the specific model."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51dd3J2H7wL._SL500_.jpg"
+}

@@ -1,0 +1,570 @@
+{
+ "guideSlug": "best-well-pump-generator-transfer-switch",
+ "categorySlug": "power-machines",
+ "mainKeyword": "well pump generator transfer switch",
+ "guideTitle": "Best Well Pump Generator Transfer Switches (2026)",
+ "metaTitle": "Best Well Pump Generator Transfer Switches",
+ "metaDescription": "Six transfer switches for running a well pump from a generator compared on voltage, amp rating, single-circuit design and inlet box, with sizing guidance.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31LOqbAOADL._SL500_.jpg",
+ "expertTake": "The Reliance Controls CSR301 is the best pick for a well pump because it is a purpose-built single-circuit switch for wells and farm loads. The Nature's Generator 50 amp is the pick for a household that wants the pump plus other circuits. Anyone with a 240V pump should skip every 120V-only switch on this list.",
+ "introParagraphs": [
+  "A well pump turns a power outage into a water outage, and that makes it one of the most common reasons homeowners buy a generator. Without a safe way to connect the pump to the generator, the only options are an extension cord to a dead outlet or an unsafe backfeed, and neither belongs in a home.",
+  "The switch you need depends on the pump's voltage and starting load, which are printed on its nameplate. Many buyers choose a switch by circuit count and discover too late that it cannot carry the pump. This guide starts with the pump and works back to the switch."
+ ],
+ "products": [
+  {
+   "id": "B00AHTWOH6",
+   "badge": "Best Overall",
+   "name": "Reliance Controls CSR301 Easy/Tran Single-Circuit Transfer Switch",
+   "price": "",
+   "specs": [
+    "Single circuit",
+    "Well and farm loads",
+    "Up to about 3,750 W",
+    "Easy/Tran"
+   ],
+   "specList": [
+    {
+     "label": "Design",
+     "value": "Single-circuit transfer switch"
+    },
+    {
+     "label": "Intended use",
+     "value": "Wells, irrigation, farm buildings"
+    },
+    {
+     "label": "Generator size",
+     "value": "Up to about 3,750 W"
+    },
+    {
+     "label": "Brand",
+     "value": "Reliance Controls"
+    },
+    {
+     "label": "Series",
+     "value": "Easy/Tran"
+    }
+   ],
+   "description": "The CSR301 is built for this exact job. Reliance describes it as ideal for single-circuit control of farm buildings, irrigation systems, community wells and water lift stations, and it is designed for generators up to roughly 3,750 watts. A switch dedicated to one circuit keeps the wiring simple, because only the pump's circuit is moved between utility and generator.\n\nThe benefit of a single-circuit switch is clarity. There is no panel full of breakers to manage and no chance of overloading the generator by adding circuits, since the only load is the pump. Against the multi-circuit Nature's Generator and Generac kits, it is cheaper and simpler, but it gives no way to add a refrigerator or furnace later. Against the 120V Joinfworld, it is the better-established product.\n\nOwnership comes down to matching the switch to the pump. Read the pump nameplate for voltage and running amps, add the starting surge, which for a submersible pump is often three to five times the running current, and size the generator accordingly. Have an electrician wire the switch at the pump circuit and label it. Run the pump on the generator once a year before storm season so you know the starting surge is handled and the procedure is fresh in your mind.",
+   "bestFor": "Homes and farms that only need to keep the well pump running.",
+   "pros": [
+    "Purpose-built for wells, irrigation and farm loads",
+    "Single circuit keeps wiring and load management simple",
+    "Established brand with a long product history",
+    "Cannot be overloaded by adding extra circuits"
+   ],
+   "cons": [
+    "Serves only one circuit",
+    "Limited to generators of about 3,750 watts",
+    "Cannot add other loads later without a second switch"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B00AHTWOH6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31LOqbAOADL._SL500_.jpg"
+  },
+  {
+   "id": "B0D9LG1QWY",
+   "badge": "Best Multi-Circuit",
+   "name": "Nature's Generator 50 Amp 12-Circuit 120/240V Manual Transfer Switch",
+   "price": "",
+   "specs": [
+    "50A 120/240V",
+    "12 circuits",
+    "UL listed",
+    "Non-automatic"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240V"
+    },
+    {
+     "label": "Circuits",
+     "value": "Up to 12"
+    },
+    {
+     "label": "Pump support",
+     "value": "240V two-pole circuits"
+    },
+    {
+     "label": "Listing",
+     "value": "UL listed"
+    },
+    {
+     "label": "Type",
+     "value": "Non-automatic"
+    }
+   ],
+   "description": "The Nature's Generator 50 amp panel is the choice for a household that wants a 240V well pump plus other circuits on the same system. A 120/240V rating and a two-pole circuit option let it carry a 240V submersible pump alongside a refrigerator, furnace blower, lighting and more, up to twelve circuits in total.\n\nA bigger system brings bigger planning. A 50 amp panel suggests a generator in the 9,000 to 12,000 watt class, and the pump's starting surge has to fit within that, together with whatever else is running. Against the single-circuit Reliance, it offers more flexibility for a higher cost and a larger generator, and against the Generac HomeLink 50 amp it is a lower-cost listed alternative.\n\nIn practice, put the pump circuit on a double-pole breaker, start it first, then add other loads one at a time. Label every circuit and keep a written load list at the panel.",
+   "bestFor": "Households with a 240V pump that also want furnace and refrigeration backup.",
+   "pros": [
+    "Supports 240V two-pole circuits for submersible pumps",
+    "Up to twelve circuits for pump plus essentials",
+    "UL-listed non-automatic switch",
+    "Fifty amp rating matches large portable generators"
+   ],
+   "cons": [
+    "Requires a large generator to be useful",
+    "More complex install than a single-circuit switch",
+    "Less established brand than Generac or Reliance"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0D9LG1QWY?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51Va3rkOMhL._SL500_.jpg"
+  },
+  {
+   "id": "B079CZFCTT",
+   "badge": "Best Brand Panel",
+   "name": "Generac HomeLink 50 Amp Portable Generator Manual Transfer Switch Kit",
+   "price": "",
+   "specs": [
+    "50A 120/240V",
+    "10 circuits",
+    "Indoor pre-wired",
+    "Upgradeable"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "50 amp, 120/240V"
+    },
+    {
+     "label": "Circuits",
+     "value": "10 hard-wired"
+    },
+    {
+     "label": "Mounting",
+     "value": "Indoor pre-wired panel"
+    },
+    {
+     "label": "Pump support",
+     "value": "240V circuits via breakers"
+    },
+    {
+     "label": "Brand",
+     "value": "Generac"
+    }
+   ],
+   "description": "The Generac HomeLink 50 amp offers the same 120/240V, 50 amp capability as the Nature's Generator panel in a brand-name, pre-wired indoor enclosure with ten circuits. For a well pump, that means a double-pole breaker slot for the pump circuit and room for a furnace, refrigerator and lighting alongside it.\n\nIts value is in the finish. A pre-wired panel reduces installation time, and the brand's documentation and parts network help an electrician and an inspector. Against the Nature's Generator, it has fewer circuits and a higher price, while against the Reliance CSR301 it is far more capable but also more complex to install and size.\n\nPlan the layout around the pump. Choose a generator that can start the pump with a margin, use a soft start device if the pump is hard on the generator and keep the panel accessible for quick transfer in an outage.",
+   "bestFor": "Homeowners wanting a brand-name panel that handles a 240V pump and more.",
+   "pros": [
+    "Fifty amp 120/240V capacity with ten circuits",
+    "Pre-wired indoor panel simplifies installation",
+    "Established brand with documentation and parts",
+    "Upgradeable design for later expansion"
+   ],
+   "cons": [
+    "Costs more than single-circuit switches",
+    "Needs a large generator for pump surge",
+    "Indoor panel needs wall space near the main panel"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B079CZFCTT?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41XIMsMULEL._SL500_.jpg"
+  },
+  {
+   "id": "B0H444TNC4",
+   "badge": "Best 120V Pump Pick",
+   "name": "Joinfworld 30A 125V L5-30P Manual Generator Transfer Switch",
+   "price": "",
+   "specs": [
+    "30A 125V",
+    "L5-30P inlet",
+    "UL-listed receptacle",
+    "Manual"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "30 amp, 125V"
+    },
+    {
+     "label": "Inlet",
+     "value": "L5-30"
+    },
+    {
+     "label": "Listing",
+     "value": "UL-listed receptacle and breaker"
+    },
+    {
+     "label": "Voltage",
+     "value": "120V circuits only"
+    },
+    {
+     "label": "Use",
+     "value": "Home backup, RV and well pump"
+    }
+   ],
+   "description": "The Joinfworld is a 30 amp, 125V manual switch with an L5-30 inlet and UL-listed receptacle and breaker components. It is aimed at home backup, RV and well pump use on 120V circuits, which covers shallow-well and jet pumps and smaller submersibles that run on 120V.\n\nThe critical limit is voltage. A 120V switch cannot carry a 240V pump, and many deeper wells use 240V submersibles. Check the pump nameplate before ordering. For a 120V pump that draws a few amps running, a 30 amp circuit with a 3,600-watt generator is a workable pairing, provided the starting surge fits.\n\nAgainst the Reliance CSR301, the Joinfworld is less established, and its L5-30 inlet is less common than the L14-30 on larger generators. It is the cheapest route for a small pump and a small generator, and it is wise to confirm that the receptacle matches your generator before you buy. A small inverter generator may not have an L5-30 outlet at all, so an adapter or a different inlet may be needed.",
+   "bestFor": "Owners of 120V pumps and small generators with an L5-30 outlet.",
+   "pros": [
+    "UL-listed receptacle and breaker components",
+    "Thirty amp capacity suits 120V pumps",
+    "Low cost for small systems",
+    "Compact manual switch"
+   ],
+   "cons": [
+    "120V only, so it cannot run a 240V pump",
+    "L5-30 inlet is less common on generators",
+    "Less established brand"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0H444TNC4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41tBfn8LYxL._SL500_.jpg"
+  },
+  {
+   "id": "B082DPQ14G",
+   "badge": "Best Weatherproof Single Circuit",
+   "name": "Journeyman-Pro 20 Amp Single Circuit Generator Transfer Switch NEMA 3R",
+   "price": "",
+   "specs": [
+    "20A 120V",
+    "Single circuit",
+    "NEMA 3R",
+    "Works with generators"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "20 amp, 120V"
+    },
+    {
+     "label": "Circuit",
+     "value": "One"
+    },
+    {
+     "label": "Enclosure",
+     "value": "NEMA 3R"
+    },
+    {
+     "label": "Intended loads",
+     "value": "Furnace, boiler, freezer"
+    },
+    {
+     "label": "Use",
+     "value": "Any 20 amp 120V circuit"
+    }
+   ],
+   "description": "The Journeyman-Pro is a single-circuit, 20 amp, 120V switch in a NEMA 3R enclosure, described by the seller for furnaces, boilers and freezers on any 20 amp 120V circuit. A weather-rated enclosure means it can be mounted outdoors near a pump house or utility room without a separate box.\n\nFor a well pump it works only if the pump is a 120V model within the 20 amp limit. A small jet pump or a half-horsepower submersible can fit, while a larger or 240V pump cannot. Against the Reliance CSR301, it is simpler and smaller, with a lower capacity ceiling, and against the Joinfworld it offers a weather-rated enclosure at a lower amp rating.\n\nBe realistic about starting current. A half-horsepower pump can draw 15 to 20 amps for a moment at startup, which is near the limit of a 20 amp circuit. Check the nameplate and consider a soft starter if the margin is thin. The enclosure is also helpful for a pump house or barn, where dust and humidity are higher than in a basement panel room.",
+   "bestFor": "Small 120V pumps and heating loads that need an outdoor-rated switch.",
+   "pros": [
+    "NEMA 3R enclosure for outdoor mounting",
+    "Single-circuit design is simple to wire",
+    "Also suits furnaces, boilers and freezers",
+    "Works with common portable generators"
+   ],
+   "cons": [
+    "Only 20 amps at 120V",
+    "Cannot serve a 240V well pump",
+    "Startup surge can approach the circuit limit"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B082DPQ14G?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51gAudoEoYL._SL500_.jpg"
+  },
+  {
+   "id": "B0G1SS8RKH",
+   "badge": "Best Budget Inlet Box",
+   "name": "Afurkuot 20 Amp Generator Transfer Switch With NEMA 5-20P Inlet Box",
+   "price": "",
+   "specs": [
+    "20A",
+    "NEMA 5-20P inlet",
+    "Circuit breaker",
+    "Pre-drilled box"
+   ],
+   "specList": [
+    {
+     "label": "Rating",
+     "value": "20 amp"
+    },
+    {
+     "label": "Inlet",
+     "value": "NEMA 5-20P power inlet"
+    },
+    {
+     "label": "Enclosure",
+     "value": "Pre-drilled inlet box"
+    },
+    {
+     "label": "Protection",
+     "value": "Circuit breaker"
+    },
+    {
+     "label": "Use",
+     "value": "Single-circuit backup"
+    }
+   ],
+   "description": "The Afurkuot combines a 20 amp transfer switch with a pre-drilled NEMA 5-20P inlet box and a circuit breaker. It is a low-cost way to feed a single 120V circuit, such as a small well pump, from a generator plugged into a standard outdoor inlet.\n\nIts selling point is simplicity and cost. A 5-20P inlet matches common 120V generator outlets and household extension cords, which makes setup easier than with 30 amp twist-lock plugs. Against the Journeyman-Pro, it is similar in rating but more basic in enclosure and documentation, and against the Reliance CSR301 it is less specialized.\n\nTreat it as an option for a small 120V pump and an electrician's careful install. Confirm the listing, verify that the breaker size suits the wire and put the inlet outdoors with a proper weather cover.",
+   "bestFor": "Budget installs for a small 120V pump on a standard outlet.",
+   "pros": [
+    "Low cost single-circuit solution",
+    "NEMA 5-20P inlet matches common outlets",
+    "Includes a circuit breaker",
+    "Pre-drilled box simplifies mounting"
+   ],
+   "cons": [
+    "Only 20 amps at 120V",
+    "Cannot serve a 240V pump",
+    "Less documentation and brand history"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0G1SS8RKH?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41wCrV71+QL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Pump voltage and amps",
+   "explanation": "Read the pump's nameplate before looking at switches. A shallow-well or jet pump may be 120V, while many submersible pumps for deeper wells are 240V and need a two-pole switch such as the Nature's Generator 50 amp or Generac HomeLink. A 120V-only switch like the Joinfworld or Journeyman-Pro cannot serve a 240V pump no matter how it is wired."
+  },
+  {
+   "criterion": "Starting surge",
+   "explanation": "A well pump motor draws a brief surge when it starts, often three to five times its running current. A pump that runs at 8 amps may pull 30 to 40 amps for a moment, and a small generator can stall or trip. Size the generator for the starting load, and consider a soft start device if the margin is slim. As a rough guide, a half-horsepower 120V pump often wants a 3,000 to 3,500 watt generator, a one-horsepower 240V submersible wants 5,000 watts or more and a one-and-a-half horsepower pump wants 7,500 watts. Those figures change with pump age and depth, so confirm the nameplate amps and ask a pump technician if the well is deep."
+  },
+  {
+   "criterion": "Single circuit versus panel",
+   "explanation": "The Reliance CSR301, Journeyman-Pro and Afurkuot are single-circuit switches that serve only the pump, while the Nature's Generator and Generac panels serve many circuits. A single-circuit switch limits load and keeps the generator small. A panel adds a refrigerator and furnace but needs a larger generator and a longer install. Many owners start with a single-circuit switch for the pump and later add a second switch for the furnace, which spreads cost and keeps each job simple. Consider this staged approach if you are not sure how much backup you want."
+  },
+  {
+   "criterion": "Inlet and generator match",
+   "explanation": "Inlets vary: L5-30 on the Joinfworld, 5-20P on the Afurkuot and L14-30 or 14-50 on larger panels. The generator's outlet must match the inlet and cord. A mismatched inlet forces adapters, which are a common source of overheated connections. If you buy a new generator later, check its outlet panel before you wire anything, because swapping an inlet box is more work than choosing the right switch the first time. Keep the generator at least several meters from windows and doors, outdoors only, to avoid carbon monoxide entering the house."
+  },
+  {
+   "criterion": "Listing, permits and electrician",
+   "explanation": "Look for UL or ETL listing, outdoor ratings such as NEMA 3R for any box exposed to weather and check whether your area requires a permit and a licensed electrician. A switch connected to the pump circuit is a hardwired install, not a plug-in accessory. The wire from the inlet to the switch is usually 10 gauge or larger for a 30 amp run, and the manual will specify the minimum for your model. Never connect a switch with a male-to-male cord, since that creates energized prongs and a lethal hazard."
+  },
+  {
+   "criterion": "Pressure tank and water needs",
+   "explanation": "A pressure tank stores a few gallons, so the pump cycles often when you use water. A generator running only the pump will give you running water, but not hot water, since the water heater is a separate load. Decide whether you also need to power a water heater, which can draw 4,500 watts or more. Many households skip the water heater during an outage and simply use the tank's stored hot water, which stays warm for a day or two. Fill the bathtub or a few containers early in a storm, because a generator that fails to start leaves you with only what you stored."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "120V versus 240V",
+   "meaning": "Shallow pumps often run at 120V, deeper submersible pumps usually at 240V on two hot legs.",
+   "watchFor": "A 120V-only switch cannot run a 240V pump."
+  },
+  {
+   "spec": "Starting amps",
+   "meaning": "The brief surge when a pump motor starts, often three to five times running current.",
+   "watchFor": "Generators are rated in running watts, so a surge can stall them."
+  },
+  {
+   "spec": "Single-circuit switch",
+   "meaning": "A switch that moves one circuit between utility and generator, like the Reliance CSR301.",
+   "watchFor": "It cannot be expanded to other loads."
+  },
+  {
+   "spec": "NEMA 3R",
+   "meaning": "An enclosure rating for outdoor use, offered on the Journeyman-Pro.",
+   "watchFor": "Check the inlet box rating, not only the switch."
+  },
+  {
+   "spec": "L5-30 inlet",
+   "meaning": "A 30 amp, 125V twist-lock inlet used on the Joinfworld.",
+   "watchFor": "It is not the same as the L14-30 found on many larger generators."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Pump voltage coverage",
+   "description": "We evaluated whether each switch can serve 120V or 240V pumps. The Nature's Generator and Generac panels support 240V, while the Joinfworld, Journeyman-Pro and Afurkuot are limited to 120V."
+  },
+  {
+   "title": "Fit for a single pump",
+   "description": "We considered purpose-built designs. The Reliance CSR301 is described for wells and farm loads, which makes it the closest fit for a pump-only setup."
+  },
+  {
+   "title": "Listing and enclosure",
+   "description": "We looked at listings and weather ratings, such as the NEMA 3R enclosure on the Journeyman-Pro and UL-listed components on the Joinfworld. Safe connection mattered more than price. A well pump circuit is a motor load that runs unattended, so a poorly made connection has more time to overheat than a short-use appliance."
+  },
+  {
+   "title": "Generator pairing",
+   "description": "We compared inlet types and capacity, from the 5-20P on the Afurkuot to the L5-30 on the Joinfworld and the 50 amp panels. Matching the generator outlet reduces adapters."
+  },
+  {
+   "title": "Ownership and support",
+   "description": "Based on owner feedback patterns, established brands like Reliance and Generac offer easier parts and documentation, while lesser-known switches cost less but need more care."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Pump Voltage",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "120V jet or shallow pump",
+      "Joinfworld 30A",
+      "30 amp 125V capacity with UL-listed parts"
+     ],
+     [
+      "Small 120V pump near a pump house",
+      "Journeyman-Pro 20A",
+      "NEMA 3R single-circuit enclosure"
+     ],
+     [
+      "240V submersible with other loads",
+      "Nature's Generator 50A",
+      "Two-pole 120/240V panel"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest outlay",
+      "Afurkuot 20A",
+      "Single-circuit switch with inlet box"
+     ],
+     [
+      "Middle ground",
+      "Reliance CSR301",
+      "Purpose-built single-circuit switch"
+     ],
+     [
+      "Highest outlay",
+      "Generac HomeLink 50A",
+      "Pre-wired 50A panel for pump plus home"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Pump Only vs Pump Plus Home",
+   "cards": [
+    {
+     "label": "Pump only",
+     "text": "The Reliance CSR301, Journeyman-Pro and Afurkuot serve one circuit, so a small generator is enough. They are simple but cannot add other loads."
+    },
+    {
+     "label": "Pump plus home",
+     "text": "The Nature's Generator and Generac panels serve many circuits, including a 240V pump. They need a large generator and a bigger install."
+    }
+   ],
+   "note": "Pick pump-only if water is the one priority; pick a panel if you want heat and refrigeration too."
+  },
+  {
+   "subheading": "Inlet Type",
+   "table": {
+    "headers": [
+     "Preference",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Standard 5-20 outlet",
+      "Afurkuot 20A",
+      "NEMA 5-20P inlet box"
+     ],
+     [
+      "L5-30 twist-lock",
+      "Joinfworld 30A",
+      "L5-30 inlet at 125V"
+     ],
+     [
+      "Large generator inlet",
+      "Generac HomeLink 50A",
+      "50 amp inlet for large portables"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Well Pump Backup Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "A switch that matches the pump voltage, a generator sized for the starting surge and a weatherproof inlet. Read the pump nameplate before buying anything."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Reliance CSR301 is the closest fit for a pump-only setup, the Nature's Generator 50 amp suits a 240V pump with other circuits and the Joinfworld suits a small 120V pump."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You have a 240V pump or want furnace and refrigeration backup. The Nature's Generator or Generac panels cover both."
+    },
+    {
+     "label": "Save if",
+     "text": "You only need water from a 120V pump. The Afurkuot or Journeyman-Pro handles it for less."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Test the system under load",
+   "interval": "Every 6 months",
+   "why": "A switch left idle can seize. Run the generator and start the pump."
+  },
+  {
+   "task": "Check pump nameplate against switch",
+   "interval": "When you change the pump",
+   "why": "A new pump may have different voltage or amps."
+  },
+  {
+   "task": "Inspect the inlet and cord",
+   "interval": "Before each use",
+   "why": "Cracked jackets and corroded pins cause heat and shock risk."
+  },
+  {
+   "task": "Retighten terminals",
+   "interval": "Yearly",
+   "why": "Heat cycles loosen terminals. Have an electrician check torque."
+  },
+  {
+   "task": "Keep fuel fresh",
+   "interval": "Every 6 months",
+   "why": "Stale fuel makes the generator hard to start when the pump needs power."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What transfer switch do I need for a well pump?",
+   "a": "It depends on the pump's voltage and amps. A 120V pump can use a 120V switch, while a 240V submersible needs a two-pole 120/240V switch."
+  },
+  {
+   "q": "Can a small generator run a well pump?",
+   "a": "Often, for a 120V pump, if it can supply the starting surge. A 240V submersible usually needs 5,000 watts or more."
+  },
+  {
+   "q": "Can I just plug the pump into the generator?",
+   "a": "Hard-wired pumps cannot be plugged in. A transfer switch connects the pump circuit safely and prevents backfeed to the utility."
+  },
+  {
+   "q": "Do I need a soft starter?",
+   "a": "Not always, but it reduces starting surge and helps a smaller generator. Check your pump and generator specs."
+  },
+  {
+   "q": "Is a single-circuit switch enough?",
+   "a": "For a pump only, yes. If you want a furnace or refrigerator too, choose a multi-circuit panel."
+  },
+  {
+   "q": "Do I need a permit?",
+   "a": "Many areas require a permit and a licensed electrician for any hardwired transfer switch. Check local rules."
+  }
+ ],
+ "relatedGuides": []
+}

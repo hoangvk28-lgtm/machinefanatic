@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-zoom-podcast-mixers",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "zoom podcast mixer",
+ "guideTitle": "Best Zoom Podcast Mixers (2026)",
+ "metaTitle": "Best Zoom Podcast Mixers in 2026",
+ "metaDescription": "Six Zoom podcast recorders and mixers compared by XLR inputs, headphone outputs, mix-minus and SD card tracks, with picks for solo hosts and four-person shows.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "heroImage": "https://m.media-amazon.com/images/I/317HGcuftrL._SL500_.jpg",
+ "expertTake": "The PodTrak P4next is the best overall Zoom for most shows because it pairs four XLR inputs with enough gain for hungry dynamic mics. The PodTrak P2 is the value pick for a two-person USB show. Anyone who only records alone should skip a mixer entirely and buy a single good microphone.",
+ "introParagraphs": [
+  "A podcast mixer replaces a pile of cables, a laptop interface and a separate recorder with one box that has a fader for every voice. The real decision is whether you want a purpose-built podcast recorder with sound pads and phone input, or a general mixer that also happens to record.",
+  "Most buying mistakes come from counting channels instead of microphone inputs, or from assuming every unit can feed a remote guest a clean mix. Decide how many people talk at once, whether you edit each voice separately, and where the recording will live before you compare anything else."
+ ],
+ "products": [
+  {
+   "id": "B0FX364R93",
+   "badge": "Best Overall",
+   "name": "Zoom PodTrak P4next 4-input podcast recorder",
+   "price": "",
+   "specs": [
+    "4 XLR inputs",
+    "4 headphone outs",
+    "AI noise tools",
+    "Sound pads"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "4 XLR"
+    },
+    {
+     "label": "Max preamp gain",
+     "value": "Up to 70 dB"
+    },
+    {
+     "label": "Headphone outputs",
+     "value": "4, individual level"
+    },
+    {
+     "label": "Processing",
+     "value": "AI noise reduction, tone, COMP"
+    },
+    {
+     "label": "Recording",
+     "value": "Multitrack to SD card"
+    }
+   ],
+   "description": "The P4next is a purpose-built four-person podcast recorder, and the engineering choice that matters is its preamp stage. Four XLR inputs offer up to 70 dB of gain, which is the range a low-output dynamic broadcast mic needs to sit at a healthy level without an inline booster. On top of that sits a layer of processing that applies noise reduction, tone shaping and compression per channel, so a rough room sounds closer to finished before the file ever reaches an editor.\n\nThe tradeoff is that it is a recorder first and an interface second, so it suits shows that edit afterward rather than live streams that need deep routing. Against the older P4 below it, the next generation adds the AI tools and the extra gain headroom, while the physical layout of four inputs, four headphone outputs and a bank of sound pads stays the same. If you only ever host with one guest, the P2 does the same job for less money and desk space, but the P4next is the one that keeps working when a third and fourth voice join.\n\nOwnership is simple. Recordings land on an SD card you swap or copy from, there is no fan, and the unit runs from mains or a USB power source, so the only consumable is the card. Plan on balanced XLR cables of reasonable length, because the four headphone outputs only help if each host can hear the mix at a comfortable level. Expect to learn the menu once, then leave it alone for a year.",
+   "bestFor": "Two to four person shows that edit each voice separately.",
+   "pros": [
+    "Four XLR inputs with 70 dB of gain for demanding dynamic mics",
+    "Four headphone outputs, each with its own level control",
+    "AI noise, tone and compression tools lighten the editing load",
+    "Multitrack SD card recording keeps every voice separate"
+   ],
+   "cons": [
+    "Less routing flexibility than a general mixer for live streaming",
+    "Sound pads are wasted if you never play jingles"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FX364R93?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/317HGcuftrL._SL500_.jpg"
+  },
+  {
+   "id": "B0DZBMLWYV",
+   "badge": "Best Value",
+   "name": "Zoom PodTrak P2 two-USB-mic podcast recorder",
+   "price": "",
+   "specs": [
+    "2 USB mic inputs",
+    "2 headphone outs",
+    "AI noise reduction",
+    "Remote guest"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "2 USB"
+    },
+    {
+     "label": "Headphone outputs",
+     "value": "2"
+    },
+    {
+     "label": "Remote guests",
+     "value": "Phone or computer with mix-minus"
+    },
+    {
+     "label": "Processing",
+     "value": "AI noise, de-esser, compressor"
+    },
+    {
+     "label": "Best size of show",
+     "value": "Host plus one guest"
+    }
+   ],
+   "description": "The P2 takes a different route from every other recorder here: it has two USB microphone inputs rather than XLR sockets. That means no phantom power, no preamp to set and no cable that can pick up hum, because the digital conversion happens inside each USB microphone. A built-in noise reduction, tone shaping, compressor and de-esser chain keeps a voice forward in an untreated room.\n\nThe cost of that simplicity is a ceiling. You are tied to USB mics, so you cannot attach a studio dynamic like the ones used on the larger units, and you cannot grow past two voices. Compared with the P4next, it gives up two inputs and the headroom for hard-to-drive mics, but it is dramatically easier to set up, which is the real reason a new podcaster should consider it.\n\nThe remote guest feature is the practical highlight: connect a phone or computer and the guest hears everyone except themselves, which stops the echo that ruins most video-call interviews. Ownership is light, with a small footprint, no moving parts and a card or computer to store files. The one limitation to plan for is the lack of an upgrade path, so treat it as a first recorder you may later outgrow.",
+   "bestFor": "A host with one in-room or remote guest who wants the easiest setup.",
+   "pros": [
+    "USB mics remove phantom power and preamp setup entirely",
+    "Built-in mix-minus for clean remote guest audio",
+    "AI noise reduction, compressor and de-esser in one chain",
+    "Small footprint fits any desk"
+   ],
+   "cons": [
+    "Limited to two USB microphones with no XLR option",
+    "No upgrade path past a two-person show"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0DZBMLWYV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31MyJ3VnNRL._SL500_.jpg"
+  },
+  {
+   "id": "B08F8HL7T7",
+   "badge": "Best for Four Hosts on a Budget",
+   "name": "Zoom PodTrak P4 four-XLR podcast recorder",
+   "price": "",
+   "specs": [
+    "4 XLR inputs",
+    "4 headphone outs",
+    "4 sound pads",
+    "Phone and USB input"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "4 XLR with phantom"
+    },
+    {
+     "label": "Headphone outputs",
+     "value": "4, individual volume"
+    },
+    {
+     "label": "Sound pads",
+     "value": "4 programmable"
+    },
+    {
+     "label": "Extra inputs",
+     "value": "Phone and USB"
+    },
+    {
+     "label": "Recording",
+     "value": "Multitrack incl. pads"
+    }
+   ],
+   "description": "The original P4 established the layout the newer P4next still uses: four microphone inputs with phantom power, four headphone outputs with individual volume, and four programmable sound pads that record on their own track. Because pad audio and each microphone get separate tracks, an editor can drop or reposition a jingle later without touching a voice. A phone input and USB connection let a remote caller join the mix.\n\nIts compromise is the analog front end and the missing automatic processing. The preamps are fine for condenser microphones and typical dynamics, but a quiet broadcast dynamic will want you to run gain high, and there is no AI cleanup to help a noisy room. Next to the P4next, you are trading modern tools for a lower purchase cost, and next to the P8, you give up two inputs and four sound pads but keep the same simple workflow.\n\nFor ownership this is a very forgiving box. The SD card is the only part that wears, the knobs are sturdy and the firmware is stable, so a second-hand unit is a reasonable buy. Keep spare SD cards formatted in the unit itself, and run a short test record before every episode so a failing card never costs a full interview.",
+   "bestFor": "A four-person show that wants separate tracks without paying for the newest unit.",
+   "pros": [
+    "Four XLR inputs with phantom power for condenser mics",
+    "Pad audio and each mic record to separate tracks",
+    "Phone and USB input for remote guests",
+    "Simple, stable workflow with sturdy controls"
+   ],
+   "cons": [
+    "No AI noise tools, so room noise stays in the recording",
+    "Quiet dynamic mics need gain pushed high"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B08F8HL7T7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41nMB7DJSWL._SL500_.jpg"
+  },
+  {
+   "id": "B08HKL3T1S",
+   "badge": "Best for Large Panels",
+   "name": "Zoom PodTrak P8 six-XLR podcast recorder",
+   "price": "",
+   "specs": [
+    "6 XLR inputs",
+    "6 headphone outs",
+    "Touchscreen",
+    "Mix-minus"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "6 XLR"
+    },
+    {
+     "label": "Headphone outputs",
+     "value": "6"
+    },
+    {
+     "label": "Display",
+     "value": "4.3 inch color touchscreen"
+    },
+    {
+     "label": "Tracks",
+     "value": "Up to 13 simultaneous"
+    },
+    {
+     "label": "Remote guests",
+     "value": "Built-in mix-minus"
+    }
+   ],
+   "description": "The P8 is the panel-show machine. Six XLR inputs, six headphone outputs and a 4.3 inch color touchscreen put the preamp levels, EQ, compression, de-essing and noise gate under a fingertip instead of behind a menu wheel. It can record up to 13 tracks at once, so six voices, a phone caller and the sound pads all land on separate files.\n\nThe trade is size and learning curve. It takes more desk than the four-input units, and a touchscreen is only as fast as you are comfortable with it. For a show with three or fewer people, the P4next gives you the same quality of recording at a lower cost, so only choose the P8 if six chairs around the table is a regular reality.\n\nLong term, the touchscreen is the part to watch. Keep it clean, keep a screen protector on if you transport it, and back up the SD card regularly. In return you get a unit that runs unattended through a two hour panel without the operator hunting for a menu, which is the real value on a live-feeling set.",
+   "bestFor": "Panel shows or classrooms with up to six people on mics.",
+   "pros": [
+    "Six XLR inputs and six headphone outputs",
+    "Touchscreen puts EQ, compression and gate in reach",
+    "Up to 13 simultaneous tracks for clean editing",
+    "Built-in mix-minus for phone and remote guests"
+   ],
+   "cons": [
+    "Bulky for a one or two person show",
+    "Touchscreen is a wear item on a travelling unit"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B08HKL3T1S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41HR8FWCNOL._SL500_.jpg"
+  },
+  {
+   "id": "B0FQ5YS2LF",
+   "badge": "Best for Music and Podcast Hybrids",
+   "name": "Zoom LiveTrak L6max 12-channel mixer recorder",
+   "price": "",
+   "specs": [
+    "12 channels",
+    "32-bit float",
+    "4 combo inputs",
+    "AI noise reduction"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "12"
+    },
+    {
+     "label": "Combo inputs",
+     "value": "4 with Hi-Z"
+    },
+    {
+     "label": "Line inputs",
+     "value": "8"
+    },
+    {
+     "label": "Recording",
+     "value": "Up to 14 tracks"
+    },
+    {
+     "label": "Converters",
+     "value": "Dual AD on channels 1 to 4"
+    }
+   ],
+   "description": "The L6max is a real mixer with faders rather than a podcast recorder with a mixer layout, and that distinction shapes everything. Its first four inputs use dual analog to digital converters, so a loud laugh or a shout cannot clip the recording, and that frees you from the ritual of setting gain with a test sentence. Eight additional line inputs mean a music bed, a phone and a guitar can sit alongside the voices.\n\nThe tradeoff is that general mixers do not have a mix-minus workflow or dedicated sound pads tuned for podcasts. If your show is mostly talk with a remote guest, the P8 or P4next does that task with fewer steps. If you record a band, run a hybrid live show, or want a channel for an instrument and four voices, the L6max is the better tool.\n\nOwnership favors people who like hardware. Faders and knobs are replaceable, the firmware can be updated, and the unit doubles as a computer interface, so it will not feel obsolete in three years. Budget for a quality SD card and keep the AI reduction off for music takes, where it can interfere with natural room tone.",
+   "bestFor": "Creators who record voices plus instruments or music beds.",
+   "pros": [
+    "Dual converters on inputs 1 to 4 prevent clipping",
+    "Four combo inputs including Hi-Z for instruments",
+    "Eight line inputs for beds, phones and extras",
+    "Works as a computer audio interface too"
+   ],
+   "cons": [
+    "No dedicated podcast-style sound pads",
+    "More controls to learn than a pure podcast recorder"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0FQ5YS2LF?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41SWCXCIaIL._SL500_.jpg"
+  },
+  {
+   "id": "B074G25D6Y",
+   "badge": "Best for Multi-Person Live Sets",
+   "name": "Zoom LiveTrak L-12 14-channel mixer recorder",
+   "price": "",
+   "specs": [
+    "14 channels",
+    "5 headphone outs",
+    "-128 dBu EIN",
+    "16 effects"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "12 input, 14 channel"
+    },
+    {
+     "label": "Tracks",
+     "value": "Up to 14 at 24-bit/96 kHz"
+    },
+    {
+     "label": "Preamp",
+     "value": "-128 dBu EIN, up to 60 dB gain"
+    },
+    {
+     "label": "Headphone outputs",
+     "value": "5 powered"
+    },
+    {
+     "label": "Effects",
+     "value": "16 onboard"
+    }
+   ],
+   "description": "The L-12 is the biggest Zoom here and is built around the idea of giving each performer a separate monitor mix. Five powered headphone outputs let a host, a guest and a musician each hear a different blend, and 14 simultaneous tracks at 24-bit/96 kHz capture all of it to SD. Low-noise preamps with up to 60 dB of gain handle dynamic microphones without a separate booster.\n\nIt is overbuilt for a two-person show, and the knobs and faders reward familiarity. Compared with the L6max, you get more channels and more monitor mixes in exchange for size and a heavier workload at setup. If your guests are mostly remote, a P-series recorder with built-in mix-minus is simpler and faster to run.\n\nPlan on a permanent home on a desk or rack shelf. Expect to clean the faders now and then, and keep the SD card well within its rated speed so a 14 track recording does not drop frames. It rewards a team that treats audio as a hobby of its own.",
+   "bestFor": "Studios with several talkers or musicians who each want a personal headphone mix.",
+   "pros": [
+    "Five powered headphone outputs with separate monitor mixes",
+    "14 simultaneous tracks at 24-bit/96 kHz",
+    "Low-noise preamps with up to 60 dB of gain",
+    "Sixteen onboard effects and EQ for live shaping"
+   ],
+   "cons": [
+    "Oversized for two-person talk shows",
+    "More controls, and more setup time, than a purpose-built podcast recorder"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B074G25D6Y?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51lMUw63VIL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Count XLR inputs, not channels",
+   "explanation": "A channel count includes stereo line channels, which cannot take a microphone, so it overstates how many people you can record. The P4next has four XLR inputs while the L6max has twelve channels but only four combo inputs. Count the number of simultaneous speakers, add one for a spare, and then confirm that many true mic inputs exist. Buying by channel count is the most common mistake in this category."
+  },
+  {
+   "criterion": "Preamp gain for dynamic mics",
+   "explanation": "Broadcast dynamic microphones are low output and want roughly 60 to 70 dB of clean gain. The P4next offers up to 70 dB, the L-12 up to 60 dB, and the L-8 up to 54 dB. If you plan to use a hungry dynamic mic, favour the higher-gain units, because running gain at the limit adds hiss and forces you to boost in software later."
+  },
+  {
+   "criterion": "Separate tracks versus a stereo mix",
+   "explanation": "Multitrack recording keeps each voice, the phone caller and the sound pads on their own file, so you can fix a cough or level a quiet guest without touching anyone else. The P8 records up to 13 tracks and the L-12 up to 14. A stereo only recording is cheaper but permanent, so decide how much editing you plan to do before choosing."
+  },
+  {
+   "criterion": "Mix-minus for remote guests",
+   "explanation": "Mix-minus sends a caller everything except their own voice, which is what stops the echo in a video-call interview. The P2, P4 and P8 offer it for phone or computer input, while the general mixers in the LiveTrak line do not follow the same workflow. If remote guests are central to your show, treat built-in mix-minus as mandatory."
+  },
+  {
+   "criterion": "Headphone outputs per person",
+   "explanation": "Each host should hear the mix at their own level, which means one headphone output per person. The P4 and P4next have four, the P8 has six, and the L-12 has five with separate monitor mixes. A shared output forces you to buy a headphone amplifier, which adds cables and another thing to plug in."
+  },
+  {
+   "criterion": "Phantom power on every channel",
+   "explanation": "Condenser microphones need 48V phantom power from the XLR input. Some low-cost mixers only supply it on the first one or two channels, which strands a third condenser. All of the XLR Zoom recorders here provide phantom power per input, but confirm it before buying a mixed set of microphones."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "EIN (equivalent input noise)",
+   "meaning": "EIN is the noise floor of the microphone preamp, expressed in dBu, where a more negative number means a quieter preamp. It matters most at high gain.",
+   "watchFor": "The L-12 lists -128 dBu EIN while the L-8 lists a -121 dBu noise floor, so the L-12 is the better match for a quiet dynamic mic."
+  },
+  {
+   "spec": "Bit depth and 32-bit float",
+   "meaning": "32-bit float recording keeps an enormous amount of headroom, so a shout will not clip. 24-bit recording is standard and fine if you set gain carefully.",
+   "watchFor": "The L6max uses dual converters to protect clipping on inputs 1 to 4, but other channels still behave like conventional inputs."
+  },
+  {
+   "spec": "Combo versus XLR input",
+   "meaning": "A combo input accepts an XLR microphone or a quarter inch jack, while a pure XLR input only takes microphones. Combo inputs are useful for guitars and keyboards.",
+   "watchFor": "The L6max and L-8 offer combo inputs, whereas the P4 and P8 are microphone-first."
+  },
+  {
+   "spec": "Tracks recorded simultaneously",
+   "meaning": "This number is how many independent files the unit writes at once. It sets how much clean-up is possible later.",
+   "watchFor": "The P8 writes up to 13 and the L-12 up to 14, but the P2 only records the two USB mics and extras."
+  },
+  {
+   "spec": "Sample rate",
+   "meaning": "Podcast audio at 44.1 or 48 kHz is already broadcast quality. Higher rates such as 96 kHz only help when you plan heavy processing.",
+   "watchFor": "The L-8 and L-12 can record at 96 kHz, which fills a card faster without improving a spoken-word show."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Microphone input design",
+   "description": "We compared XLR input count, USB input count and preamp gain on the spec sheet. The P4next at 70 dB and the L-8 at 54 dB sit at opposite ends of the lineup. Hard-to-drive dynamic mics decided how high a unit scored."
+  },
+  {
+   "title": "Recording workflow",
+   "description": "We looked at how many tracks each unit writes and where they go. The P8 and L-12 record up to 13 and 14 tracks, while the P2 is tied to its two USB mics. A workflow that preserves separate tracks scored higher for editing."
+  },
+  {
+   "title": "Remote guest support",
+   "description": "We checked whether each model has a phone or USB input and a mix-minus function. The P2, P4 and P8 offer it directly. Models that lacked it needed an extra routing step."
+  },
+  {
+   "title": "Monitoring",
+   "description": "We compared headphone output count and whether each person can set their own level. The P8 supports six outputs and the L-12 supports five separate monitor mixes. A shared output scored lower for group shows."
+  },
+  {
+   "title": "Ownership burden",
+   "description": "We weighed setup effort, upgrade path and wear parts such as faders and touchscreens. A unit that stays simple for years scored higher than one that needs frequent tweaking. Owner feedback patterns informed this part."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Number of Speakers",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Host plus one guest, USB mics",
+      "PodTrak P2",
+      "Two USB inputs and built-in mix-minus"
+     ],
+     [
+      "Two to four people in one room",
+      "PodTrak P4next",
+      "Four XLR inputs with 70 dB gain"
+     ],
+     [
+      "Four hosts on a limited outlay",
+      "PodTrak P4",
+      "Same layout without the AI tools"
+     ],
+     [
+      "Panel of five or six",
+      "PodTrak P8",
+      "Six XLR inputs and six headphone outputs"
+     ],
+     [
+      "Band plus vocals",
+      "LiveTrak L-12",
+      "Five monitor mixes, 14 tracks"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cheapest way to start",
+      "PodTrak P2",
+      "Lowest tier here and USB simple"
+     ],
+     [
+      "Mid tier for XLR mics",
+      "PodTrak P4",
+      "Older design with four XLR inputs"
+     ],
+     [
+      "Upper-middle with modern tools",
+      "PodTrak P4next",
+      "AI noise reduction and 70 dB gain"
+     ],
+     [
+      "Premium for panels",
+      "PodTrak P8",
+      "Touchscreen and six inputs"
+     ],
+     [
+      "Top tier hybrid use",
+      "LiveTrak L6max",
+      "Dual converters and 12 channels"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Podcast Recorder vs General Mixer",
+   "cards": [
+    {
+     "label": "Podcast recorder",
+     "text": "Units like the P4next and P8 are built for voices, with sound pads, phone input and mix-minus. They are quicker to run, and their menus assume a talk show. Choose one if your show is primarily conversation."
+    },
+    {
+     "label": "General mixer recorder",
+     "text": "The L6max and L-12 are real mixers that suit music, live events and complex monitoring. They lack podcast-specific tools, so remote guests take extra routing. Choose one if you mix live sound or instruments."
+    }
+   ],
+   "note": "Talk shows should pick a PodTrak, and musicians or live hybrid creators should pick a LiveTrak."
+  },
+  {
+   "subheading": "Input type: USB vs XLR",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "You already own USB mics",
+      "PodTrak P2",
+      "Takes two USB microphones directly"
+     ],
+     [
+      "You own condenser XLR mics",
+      "PodTrak P4",
+      "Phantom power on each input"
+     ],
+     [
+      "You want a studio dynamic mic",
+      "PodTrak P4next",
+      "70 dB gain avoids an inline booster"
+     ],
+     [
+      "Instruments and mics together",
+      "LiveTrak L6max",
+      "Combo inputs with Hi-Z"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Remote Guests Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a phone or USB input with mix-minus so a remote guest hears everyone but themselves. Without it, the guest hears their own delayed voice, which ruins the call. It should also record the caller on a separate track."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The PodTrak P2 handles one remote guest simply, and the P8 handles multiple in-room voices plus a remote caller with six headphone outputs. The L-12 can take remote audio but needs manual routing."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you have three or more regular speakers, plan to grow, or edit each voice separately. The P4next and P8 reduce editing time and handle demanding mics. They also have headroom for sound pads and call-ins."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you host with a single guest and already own USB mics. The P2 gives you separate tracks, mix-minus and noise cleanup at the lowest tier here. A bigger unit adds knobs you will not use."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Format the SD card in the recorder",
+   "interval": "Every few months",
+   "why": "Formatting in the unit rewrites the card structure it expects. This prevents dropped frames and corrupt files during long takes."
+  },
+  {
+   "task": "Back up and clear recordings",
+   "interval": "After every episode",
+   "why": "A full card can stop a recording mid-sentence. Copy files to two places before deleting."
+  },
+  {
+   "task": "Check firmware",
+   "interval": "Twice a year",
+   "why": "Updates fix input and pad bugs on these recorders. Only update between episodes, never before a live recording."
+  },
+  {
+   "task": "Clean faders and knobs",
+   "interval": "Twice a year",
+   "why": "Dust on mixer faders causes crackle. A short burst of contact cleaner usually restores smooth travel."
+  },
+  {
+   "task": "Inspect XLR and USB cables",
+   "interval": "Every few months",
+   "why": "A failing cable adds crackle that sounds like a faulty preamp. Swap cables first before blaming the unit."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a mixer or just a USB interface?",
+   "a": "A mixer is worth it if you want a fader per voice, headphone outputs for each person and recording without a computer. A single USB interface is cheaper for a solo host who records to a laptop."
+  },
+  {
+   "q": "Which Zoom is best on a tight budget?",
+   "a": "The PodTrak P2 is the lowest-tier option here and suits a host with one guest. If you need XLR mics, the older PodTrak P4 costs less than the P4next but drops the AI tools."
+  },
+  {
+   "q": "Does more gain mean a better recorder?",
+   "a": "More gain only helps if the preamp stays quiet at that level. The L-12 pairs 60 dB of gain with a very low noise floor, while a higher number on its own tells you little. Read the noise spec alongside the gain figure."
+  },
+  {
+   "q": "How long will a Zoom recorder last?",
+   "a": "The electronics are solid state, and the wear items are the SD card, the knobs and, on the P8, the touchscreen. With a clean desk and careful cable handling, a unit can run for many years."
+  },
+  {
+   "q": "Are 32-bit float recordings necessary?",
+   "a": "Not for most podcasts. Careful gain setting on 24-bit recording is fine for a spoken-word show. 32-bit float is a safety net for unpredictable live events."
+  },
+  {
+   "q": "Can I record a remote guest without echo?",
+   "a": "Yes, if the recorder has mix-minus. The P2, P4 and P8 send the caller everything except their own voice, which removes the echo. Without that feature, the guest should wear headphones and the host should use a separate call app."
+  }
+ ],
+ "relatedGuides": []
+}

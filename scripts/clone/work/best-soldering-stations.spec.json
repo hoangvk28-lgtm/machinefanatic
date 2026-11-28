@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-soldering-stations",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "soldering stations",
+ "guideTitle": "Best Soldering Stations (2026)",
+ "metaTitle": "Best Soldering Stations in 2026",
+ "metaDescription": "Six temperature controlled soldering stations compared by wattage, tip recovery and ESD safety: Hakko, Weller, Yihua, WEP and FNIRSI for electronics and repair.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/319cZZIybkL._SL500_.jpg",
+ "expertTake": "The Hakko FX888DX is the best overall for general electronics because its heater recovers fast and tips are easy to find for years. The Yihua 926 III is the value pick for a beginner kit. Anyone who solders once a year should buy a basic iron and skip the station.",
+ "introParagraphs": [
+  "A soldering station separates the heater and temperature control from the pen you hold, which is what lets it hold a set temperature while you work. That steadiness is the main difference between a station and the cheap iron that overheats until the tip is black.",
+  "Wattage affects how fast a tip recovers heat after touching a cold joint, not how hot it can get. Match the power to the joints you solder, then check tip availability, ESD safety and whether a hot air gun or presets would actually help your work."
+ ],
+ "products": [
+  {
+   "id": "B0D4DJW54S",
+   "badge": "Best Overall",
+   "name": "Hakko FX888DX digital soldering station",
+   "price": "",
+   "specs": [
+    "120 to 899 F",
+    "Digital display",
+    "Rotary encoder",
+    "F or C"
+   ],
+   "specList": [
+    {
+     "label": "Temperature range",
+     "value": "120 to 899 F"
+    },
+    {
+     "label": "Display",
+     "value": "Digital, F or C"
+    },
+    {
+     "label": "Control",
+     "value": "Rotary encoder"
+    },
+    {
+     "label": "Type",
+     "value": "Temperature controlled station"
+    },
+    {
+     "label": "Tips",
+     "value": "Widely available"
+    }
+   ],
+   "description": "The FX888DX is a digital temperature controlled station with a range of 120 to 899 degrees Fahrenheit, a rotary encoder for setting temperature and a display that shows Fahrenheit or Celsius. Its value comes from the heater and sensor in the pen, which recover quickly after touching a cold pad, and from a tip family that is stocked everywhere, so replacement tips are never a problem.\n\nThe tradeoff is that you pay for the brand and a sound design rather than a pile of extras. It has no hot air function and the kit includes few accessories, so a beginner may still buy helping hands and extra tips. Compared with the Weller WE1010NA, it is similar in class but has a digital readout and a rotary encoder, and against the Yihua 939D+ it is the better supported product.\n\nIn ownership terms, keep the tip tinned and clean it on brass wool rather than a wet sponge, which shocks the tip. Turn the temperature down when idle, since a hot idle iron oxidizes the tip quickly. Replace the tip when it will not wet, not when it looks worn.",
+   "bestFor": "Regular electronics hobbyists who want a dependable station.",
+   "pros": [
+    "Fast heat recovery in a pen-mounted heater",
+    "Digital display in F or C with a rotary encoder",
+    "Tips and parts are available everywhere",
+    "Temperature range of 120 to 899 F covers leaded and lead-free"
+   ],
+   "cons": [
+    "No hot air function and few accessories",
+    "Costs more than kit-style budget stations"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0D4DJW54S?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/319cZZIybkL._SL500_.jpg"
+  },
+  {
+   "id": "B077JDGY1J",
+   "badge": "Best ESD-Safe Pick",
+   "name": "Weller WE1010NA 70 watt digital soldering station",
+   "price": "",
+   "specs": [
+    "70 W",
+    "ESD safe",
+    "Digital",
+    "Safety rest"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "70 W"
+    },
+    {
+     "label": "Safety",
+     "value": "ESD safe"
+    },
+    {
+     "label": "Iron",
+     "value": "WEP70 with tip retainer"
+    },
+    {
+     "label": "Holder",
+     "value": "PH70 safety rest with sponge"
+    },
+    {
+     "label": "Tip",
+     "value": "ETA 0.062 inch included"
+    }
+   ],
+   "description": "The WE1010NA is a one-channel digital station with a 70 watt iron and ESD safe construction, which protects static-sensitive parts. A PH70 safety rest with a sponge holds the iron, and an ETA tip is included, so the station is ready to work out of the box. The 70 watt rating gives good tip recovery on typical PCB joints and moderate wire.\n\nIts compromise is that it offers a single channel and a modest feature list for its tier. Compared with the Hakko FX888DX, it is comparable in class, and compared with the 110 watt WEP 927-IV, it has less power but a more established tip and support ecosystem. It is the sort of station that suits a bench where static control matters.\n\nUpkeep follows the usual rules: keep the tip tinned, clean it often and replace it when it will not wet. Store the iron in its rest, and avoid dropping the pen because the heater element is delicate. Pair it with a decent stand and a good fume extractor and the setup lasts for years.",
+   "bestFor": "Electronics work where static protection matters.",
+   "pros": [
+    "ESD safe design protects sensitive components",
+    "70 W iron recovers heat well on PCB joints",
+    "Includes a safety rest and an ETA tip",
+    "Well supported tip ecosystem"
+   ],
+   "cons": [
+    "Single channel with a short feature list",
+    "Less power than 110 W stations"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B077JDGY1J?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41yRK+nzODL._SL500_.jpg"
+  },
+  {
+   "id": "B09TXP1KDV",
+   "badge": "Best High-Power Kit",
+   "name": "WEP 927-IV 110 watt soldering station kit",
+   "price": "",
+   "specs": [
+    "110 W",
+    "3 preset channels",
+    "Sleep mode",
+    "LED magnifier"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "110 W"
+    },
+    {
+     "label": "Presets",
+     "value": "3 preset channels"
+    },
+    {
+     "label": "Safety",
+     "value": "Sleep mode"
+    },
+    {
+     "label": "Extras",
+     "value": "LED magnifier, 5 extra tips"
+    },
+    {
+     "label": "Type",
+     "value": "Kit"
+    }
+   ],
+   "description": "The 927-IV is a high-power kit with a 110 watt heating element, three preset channels, a sleep mode that cools the tip when the pen sits idle, and a lamp with an LED magnifier. The extra power means the tip recovers quickly on large joints, heatsink tabs and thick wire, which is where lower-watt stations drag. Five spare tips are included.\n\nThe tradeoff is brand maturity and finish. Kit stations rely on bundled accessories, and the support behind them is less established than for Hakko or Weller. Compared with the Yihua 926 III, it offers far more power and presets, and against the FNIRSI DWS-200, it is a more conventional design with a simpler interface.\n\nUse the presets for your two or three common temperatures, let sleep mode protect the tip and clean it on brass wool. Replace tips when plating wears through.",
+   "bestFor": "Heavier joints and wire where tip recovery matters.",
+   "pros": [
+    "110 W element recovers quickly on large joints",
+    "Three preset temperature channels",
+    "Sleep mode protects the tip when idle",
+    "Includes an LED magnifier and five extra tips"
+   ],
+   "cons": [
+    "Less established brand support",
+    "Accessory quality varies in kit stations"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B09TXP1KDV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51-97nkYLSL._SL500_.jpg"
+  },
+  {
+   "id": "B07RVMZNYR",
+   "badge": "Best Mid-Range Digital",
+   "name": "Yihua 939D+ 75 watt equivalent digital soldering station",
+   "price": "",
+   "specs": [
+    "75 W equivalent",
+    "392 to 896 F",
+    "Built-in transformer",
+    "Digital"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "75 W equivalent"
+    },
+    {
+     "label": "Temperature range",
+     "value": "392 to 896 F"
+    },
+    {
+     "label": "Control",
+     "value": "Precision heat control"
+    },
+    {
+     "label": "Type",
+     "value": "Digital station"
+    },
+    {
+     "label": "Use",
+     "value": "Regular soldering"
+    }
+   ],
+   "description": "The 939D+ is a digital station rated at about 75 watts with a temperature range of 392 to 896 degrees Fahrenheit. It is built for people who solder regularly, with precision heat control and a safety transformer design. The control logic holds temperature more steadily than a plain thermostat iron, and the range covers leaded and lead-free solder.\n\nThe limitation is that tip choice and long-term support are narrower than for Hakko. Compared with the 926 III, it offers more power and a higher-tier build, and against the Hakko FX888DX it costs less but has fewer replacement options.\n\nKeep the tip tinned, avoid keeping it hot while idle and replace tips with ones that match the pen. A stable bench and a decent fume extractor complete the setup. Because the unit has presets, mark your common temperatures on a card beside the bench.",
+   "bestFor": "Someone who solders weekly and wants more power than a basic kit.",
+   "pros": [
+    "75 W equivalent heat for general electronics",
+    "392 to 896 F range covers leaded and lead-free",
+    "Precision heat control",
+    "Lower cost than the Hakko and Weller"
+   ],
+   "cons": [
+    "Narrower tip and support ecosystem",
+    "No ESD detail on the listing"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B07RVMZNYR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41l0ECVpfIL._SL500_.jpg"
+  },
+  {
+   "id": "B082F1WKP9",
+   "badge": "Best Beginner Kit",
+   "name": "Yihua 926 III 60 watt digital station kit",
+   "price": "",
+   "specs": [
+    "60 W",
+    "Digital display",
+    "6 extra tips",
+    "2 helping hands"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "60 W"
+    },
+    {
+     "label": "Display",
+     "value": "Digital"
+    },
+    {
+     "label": "Extras",
+     "value": "6 extra tips, 2 helping hands"
+    },
+    {
+     "label": "Solder",
+     "value": "Lead-free roll included"
+    },
+    {
+     "label": "Type",
+     "value": "Kit"
+    }
+   ],
+   "description": "The 926 III is a compact 60 watt digital station sold as a kit with two helping hands, six spare tips and lead-free solder. Fast heating and an adjustable temperature range make it comfortable for general electronics, and the compact body saves bench space. Everything needed to start is in the box.\n\nThe compromise is power and construction. A 60 watt station handles ordinary PCB joints, but it is slower on large pads and heavy ground planes, and the build is lighter than the Hakko or Weller. Against the 939D+, it costs less and offers fewer watts, and against the WEP 927-IV, it is the simpler, lower tier option.\n\nKeep the tip tinned, use the helping hands to steady boards and clean the tip regularly. If you outgrow it, the spare tips and helping hands remain useful.",
+   "bestFor": "Beginners who want everything needed to start soldering.",
+   "pros": [
+    "Complete kit with helping hands and extra tips",
+    "60 W is enough for most PCB work",
+    "Compact digital station",
+    "Lowest cost in this guide"
+   ],
+   "cons": [
+    "Slower on large pads and heavy wire",
+    "Lighter build than premium brands"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B082F1WKP9?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/518z061SWZL._SL500_.jpg"
+  },
+  {
+   "id": "B0D8YBWWB6",
+   "badge": "Best High-Power Specialist",
+   "name": "FNIRSI DWS-200 200 watt soldering station kit",
+   "price": "",
+   "specs": [
+    "200 W",
+    "3S melting",
+    "212 to 842 F",
+    "C245 and C210 tips"
+   ],
+   "specList": [
+    {
+     "label": "Power",
+     "value": "200 W"
+    },
+    {
+     "label": "Temperature range",
+     "value": "212 to 842 F"
+    },
+    {
+     "label": "Melt time",
+     "value": "About 3 seconds"
+    },
+    {
+     "label": "Tips",
+     "value": "6 F245 and 3 F210"
+    },
+    {
+     "label": "Extras",
+     "value": "2 helping hands"
+    }
+   ],
+   "description": "The DWS-200 pushes power to 200 watts and advertises about 3 second melting over a range of 212 to 842 degrees Fahrenheit. It ships with six F245 and three F210 tips plus helping hands, and a built-in copper heating core helps it hold temperature when a big joint draws heat. For heavy work such as XT60 connectors, ground planes and thick wire, the extra power is a real advantage.\n\nIts tradeoff is that power does not equal precision, and a 200 watt station on delicate SMD work needs lower temperature settings and careful handling. Compared with the Hakko FX888DX, it is far stronger but less proven, and against the WEP 927-IV it offers nearly twice the power.\n\nSet a lower temperature for small parts, keep tips clean and watch for tip wear since high power stresses plating. Make sure your bench has adequate ventilation.",
+   "bestFor": "Heavy connectors, ground planes and thick wire.",
+   "pros": [
+    "200 W heats big joints very quickly",
+    "About 3 second melting time",
+    "Includes six F245 and three F210 tips",
+    "Helping hands in the kit"
+   ],
+   "cons": [
+    "Less proven than Hakko or Weller",
+    "Needs care on delicate SMD work"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0D8YBWWB6?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/519hITG1rCL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Wattage means recovery, not temperature",
+   "explanation": "Wattage mainly sets how quickly the tip regains heat after touching a cold joint, not how hot it can get. A 60 watt Yihua 926 III suits general PCB work, 70 to 75 watts as on the Weller and Yihua 939D+ is comfortable for mixed work, and 110 to 200 watts as on the WEP 927-IV and FNIRSI DWS-200 suits big joints. Buy for your largest regular joint. A useful test is to tin a thick wire and watch how quickly the solder flows again after touching it; a station that droops and stalls needs more wattage."
+  },
+  {
+   "criterion": "Temperature control quality",
+   "explanation": "A station holds a set temperature through a sensor feedback loop, which is the main advantage over a basic iron. Digital PID control, as on the Hakko FX888DX, is steadier than a thermostat. Typical set points are 320 to 360 C for leaded solder and 340 to 380 C for lead-free. Check that the display reads the tip temperature rather than the heater temperature, since some budget units report the latter and drift under load."
+  },
+  {
+   "criterion": "Lead-free capability",
+   "explanation": "Lead-free alloy melts at a higher temperature, so a station needs more power and better recovery. A weak iron may reach the temperature but then burn out tips quickly. If you use lead-free solder, favor 70 watts or more. Do not simply raise the temperature to compensate for a weak iron, because higher heat shortens tip life and burns flux."
+  },
+  {
+   "criterion": "Tip availability and type",
+   "explanation": "Fine conical tips suit PCB and SMD work and chisel tips suit connectors and thicker wire. The Hakko and Weller ecosystems offer replacement tips nearly everywhere, while smaller brands may be limited. Check that spare tips exist before you buy. Keep one fine tip and one chisel tip on hand, since swapping tips is cheaper than forcing the wrong shape to work."
+  },
+  {
+   "criterion": "ESD safety",
+   "explanation": "Static can damage sensitive components, so an ESD safe station grounds the tip and body. The Weller WE1010NA lists ESD safe construction. If you repair modern electronics, it is a worthwhile feature."
+  },
+  {
+   "criterion": "Extras that matter",
+   "explanation": "Presets, sleep mode, helping hands and magnifiers are convenient, but they are not the core. The WEP 927-IV adds three presets, sleep mode and an LED magnifier, and the Yihua 926 III adds helping hands. Treat extras as bonuses and spend the money on the iron and tips. A decent fume extractor or a small fan pulling air away from your face is worth more than a magnifier lamp."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Wattage",
+   "meaning": "The heater's power rating, which governs how quickly the tip recovers heat. It does not set maximum temperature. A higher number helps most when soldering thick copper or large ground planes.",
+   "watchFor": "The Yihua 926 III is 60 W, the Weller is 70 W, the WEP 927-IV is 110 W and the FNIRSI is 200 W."
+  },
+  {
+   "spec": "Temperature range",
+   "meaning": "The span of set points the station allows. A wider range covers more solder types. A range that starts near 200 C is useful for low-temperature solder and heat-sensitive parts.",
+   "watchFor": "The Hakko covers 120 to 899 F while the Yihua 939D+ covers 392 to 896 F."
+  },
+  {
+   "spec": "PID control",
+   "meaning": "A control method that adjusts heater power smoothly to hold temperature. It reduces overshoot. Without it, a cheap iron can overshoot by tens of degrees before settling.",
+   "watchFor": "Digital stations like the Hakko FX888DX use this style of control."
+  },
+  {
+   "spec": "ESD safe",
+   "meaning": "The iron and station are grounded to prevent static discharge to components. A grounded wrist strap adds protection on sensitive boards.",
+   "watchFor": "The Weller WE1010NA lists it explicitly."
+  },
+  {
+   "spec": "Sleep mode",
+   "meaning": "The station lowers the tip temperature when the pen sits idle. It protects the tip from oxidizing. Check the idle timeout so it does not cool while you reposition a board.",
+   "watchFor": "The WEP 927-IV includes it."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Heat delivery",
+   "description": "We compared rated wattage and temperature range. The FNIRSI is 200 W and the Yihua 926 III is 60 W. Better recovery for the stated job scored higher. We also noted how quickly each unit reaches its set point."
+  },
+  {
+   "title": "Control quality",
+   "description": "We looked at digital display, PID control and presets. The Hakko FX888DX has a rotary encoder and the WEP 927-IV has three presets. Steady temperature scored higher. We looked at how clearly each model shows its set point."
+  },
+  {
+   "title": "Tips and support",
+   "description": "We considered tip families and availability. Hakko and Weller tips are common, while smaller brands are narrower. Easy replacement scored higher. We counted the tips included in each kit."
+  },
+  {
+   "title": "Safety features",
+   "description": "We checked ESD design, sleep mode and holders. The Weller is ESD safe and the WEP 927-IV has sleep mode. Safer designs scored higher. We also noted whether a stand with tip cleaner is provided."
+  },
+  {
+   "title": "Ownership",
+   "description": "We weighed build quality and owner feedback patterns on tip life and heater reliability. Stations with robust pens scored higher. We looked at how comfortable the pen is for long sessions."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Type of Work",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "General electronics repair",
+      "Hakko FX888DX",
+      "Fast recovery and common tips"
+     ],
+     [
+      "Static-sensitive repair",
+      "Weller WE1010NA",
+      "ESD safe construction"
+     ],
+     [
+      "Heavy joints and connectors",
+      "FNIRSI DWS-200",
+      "200 W and quick melting"
+     ],
+     [
+      "Large pads and thick wire",
+      "WEP 927-IV",
+      "110 W with presets"
+     ],
+     [
+      "First station",
+      "Yihua 926 III",
+      "Kit with helping hands"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Yihua 926 III",
+      "Complete beginner kit"
+     ],
+     [
+      "Entry digital",
+      "Yihua 939D+",
+      "75 W equivalent"
+     ],
+     [
+      "Mid tier power",
+      "WEP 927-IV",
+      "110 W with extras"
+     ],
+     [
+      "Upper tier power",
+      "FNIRSI DWS-200",
+      "200 W"
+     ],
+     [
+      "Premium brand",
+      "Hakko FX888DX",
+      "Proven pen and tips"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Standard Station vs High-Power Station",
+   "cards": [
+    {
+     "label": "Standard 60 to 75 W",
+     "text": "The Yihua 926 III, 939D+ and Weller handle PCB work and wire. They are easier on delicate parts and cheaper."
+    },
+    {
+     "label": "High power 110 to 200 W",
+     "text": "The WEP 927-IV and FNIRSI DWS-200 heat large joints fast. They need lower settings on fine work and a careful hand."
+    }
+   ],
+   "note": "Fine electronics should pick standard power, and heavy repairs should pick high power."
+  },
+  {
+   "subheading": "Solder Type",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Leaded solder, low heat",
+      "Yihua 926 III",
+      "Lower power is adequate"
+     ],
+     [
+      "Lead-free on PCB",
+      "Weller WE1010NA",
+      "70 W recovery and ESD safety"
+     ],
+     [
+      "Lead-free on large joints",
+      "WEP 927-IV",
+      "110 W element"
+     ],
+     [
+      "Wide set range",
+      "Hakko FX888DX",
+      "120 to 899 F"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For PCB Repair Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for 60 to 75 watts, steady temperature control and fine tips. Too much power burns pads, and too little drags on ground planes. Use a fume extractor."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Hakko FX888DX and Weller WE1010NA are best here, with the Yihua 939D+ as a value alternative."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you solder daily or repair valuable devices. The Hakko and Weller reward you with tip support and steady temperature."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you solder occasionally. The Yihua 926 III and 939D+ cover general work."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Tin the tip after use",
+   "interval": "Every session",
+   "why": "A tinned tip resists oxidation. A bare hot tip turns black and stops wetting. Use a small amount of fresh solder rather than old blobs, which contain burnt flux."
+  },
+  {
+   "task": "Clean on brass wool",
+   "interval": "During use",
+   "why": "Brass wool removes oxide without the thermal shock of a wet sponge. Keep brass wool in a dish so it never drags across the bench."
+  },
+  {
+   "task": "Lower temperature when idle",
+   "interval": "Every break",
+   "why": "A hot idle iron oxidizes the tip fast. Sleep mode or a lower set point helps."
+  },
+  {
+   "task": "Replace worn tips",
+   "interval": "When they will not wet",
+   "why": "A worn tip transfers heat poorly and slows every joint. Keep a spare tip in the same family as your main one."
+  },
+  {
+   "task": "Check the cord and pen connector",
+   "interval": "Twice a year",
+   "why": "Heat and flexing wear the cable. A frayed lead is a safety hazard."
+  }
+ ],
+ "faq": [
+  {
+   "q": "How many watts do I need?",
+   "a": "Sixty to 75 watts suits general electronics, and 110 to 200 watts suits heavy joints. Wattage sets recovery, not maximum temperature. If you are unsure, a 70 watt station is the safest middle path for mixed work."
+  },
+  {
+   "q": "Is lead-free solder harder?",
+   "a": "Yes. It melts hotter and needs more power and better recovery. Choose a station with at least 70 watts for regular lead-free work."
+  },
+  {
+   "q": "Do I need a hot air station?",
+   "a": "Only for surface-mount rework and desoldering. A soldering iron alone covers through-hole and basic SMD work. If your work involves large heatsinks or battery packs, plan on 110 watts or more."
+  },
+  {
+   "q": "Why does my tip turn black?",
+   "a": "Oxidation from heat and a lack of tinning. Keep the tip coated with solder and lower the temperature when idle. Cleaning with brass wool and tinning right after is the simplest habit that doubles tip life."
+  },
+  {
+   "q": "What is ESD safe and do I need it?",
+   "a": "It grounds the iron to protect components from static. It matters when repairing modern boards."
+  },
+  {
+   "q": "How long does a station last?",
+   "a": "The station can last many years. Tips and heaters are the wear items, and Hakko and Weller parts are easy to find. Use a quality flux and fresh solder, because the best station cannot fix old oxidized solder."
+  }
+ ],
+ "relatedGuides": []
+}

@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-electric-cultivators",
+ "categorySlug": "outdoor-power",
+ "mainKeyword": "electric cultivators",
+ "guideTitle": "Best Electric Cultivators (2026)",
+ "metaTitle": "Best Electric Cultivators (2026)",
+ "metaDescription": "Six corded electric cultivators compared on motor amps, tilling width and depth, tine design, weight and overload protection for garden beds.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "14 min",
+ "heroImage": "https://m.media-amazon.com/images/I/31w9Ii+PquL._SL500_.jpg",
+ "expertTake": "The LawnMaster TE1318M is the pick for a garden of average size where a stall protection clutch saves the motor, and the BILT HARD 14 inch is the value choice for narrow raised beds. Anyone breaking compacted sod for the first time should rent a gas tiller instead and save the electric machine for annual bed prep.",
+ "introParagraphs": [
+  "A corded electric cultivator is the quiet middle ground between a hand fork and a gas tiller. It has no fuel to mix and no pull cord, and it starts every time the switch is pressed, so it suits gardeners who till a bed or two each season.",
+  "The trade is reach and brute force. The cord limits where it can work, and an electric motor will stall in ground that a gas engine would grind through. The six machines here differ mostly in width, motor strength and what they do when a tine hits a rock."
+ ],
+ "products": [
+  {
+   "id": "B08XQ8NN7D",
+   "rank": 1,
+   "badge": "Best Overall",
+   "name": "LawnMaster TE1318M 13.5-Amp 18-Inch Electric Tiller",
+   "price": "",
+   "specs": [
+    "13.5 amp motor",
+    "18 in. width",
+    "9 in. depth",
+    "Overload shutoff"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "13.5 amp, corded"
+    },
+    {
+     "label": "Tilling width",
+     "value": "18 inch maximum"
+    },
+    {
+     "label": "Tilling depth",
+     "value": "9 inch"
+    },
+    {
+     "label": "Tines",
+     "value": "Six rust-resistant steel blades"
+    },
+    {
+     "label": "Protection",
+     "value": "Mechanical overload shutoff"
+    }
+   ],
+   "description": "The TE1318M pairs a 13.5-amp motor with six steel blades that turn at 380 rpm, cutting an 18 inch swath up to 9 inches deep. That depth is what a vegetable bed needs, since most roots live in the top 8 inches, and it matches the depth of the best corded machines.\n\nIts defining feature is mechanical overload protection: if a tine jams on a root or a stone, the machine shuts itself off instead of burning the motor. That matters more than a headline amp rating, because the most common cause of a dead electric tiller is a stalled motor. Against the 15 amp Dovaman it gives up a little power but adds that protection.\n\nPlan the cord before you start, because a 13.5-amp tool needs a heavy extension cord of 14 gauge or thicker. Clear stones before tilling, work in overlapping passes and let the tines do the work rather than pushing. Wipe soil off the tines and the shield after use, and store the machine dry with the handle folded.",
+   "bestFor": "An average-size vegetable garden that is tilled once or twice a year.",
+   "pros": [
+    "Overload shutoff protects the motor from jams",
+    "18 inch width covers beds quickly",
+    "9 inch depth suits vegetable root zones",
+    "Six steel blades turn at 380 rpm"
+   ],
+   "cons": [
+    "Needs a heavy gauge extension cord",
+    "Will stall in hard or rocky ground"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B08XQ8NN7D?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31w9Ii+PquL._SL500_.jpg"
+  },
+  {
+   "id": "B0GLYLL379",
+   "rank": 2,
+   "badge": "Best High-Torque Pick",
+   "name": "DOVAMAN 18-Inch 15-Amp Electric Garden Tiller, 4 Wheel Positions",
+   "price": "",
+   "specs": [
+    "15 amp motor",
+    "18 in. width",
+    "9 in. depth",
+    "Foldable handle"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "15 amp, 380 rpm"
+    },
+    {
+     "label": "Tilling width",
+     "value": "18 inch"
+    },
+    {
+     "label": "Tilling depth",
+     "value": "Up to 9 inch"
+    },
+    {
+     "label": "Wheel positions",
+     "value": "Four"
+    },
+    {
+     "label": "Handle",
+     "value": "Foldable"
+    }
+   ],
+   "description": "The Dovaman puts a 15-amp motor behind the same 18 inch by 9 inch swath as the LawnMaster, which is the maximum draw a standard 15 amp household circuit can carry. The maker emphasises steady high torque at 380 rpm, and four adjustable wheel positions help it stay level.\n\nThe extra amps buy a bit more ability to power through firmer soil than a 12-amp machine, though no electric motor makes up for hard clay. The wheel positions let you tilt the machine to a more upright stance, which changes how aggressively the tines bite. It lacks the explicit overload shutoff that the LawnMaster lists, so you have to watch for jams yourself.\n\nBecause a 15-amp motor draws most of a household circuit, do not share it with another appliance. Use a thick extension cord and keep it short. Fold the handle for storage and clean the tines after each use.",
+   "bestFor": "A garden with moderately firm soil that wants the strongest corded motor.",
+   "pros": [
+    "15 amp motor is the strongest in this group",
+    "18 inch width and 9 inch depth",
+    "Four wheel positions for stability",
+    "Foldable handle stores compactly"
+   ],
+   "cons": [
+    "Draws nearly a full household circuit",
+    "No overload shutoff listed"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0GLYLL379?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41o1+CiGsYL._SL500_.jpg"
+  },
+  {
+   "id": "B00V6IEVXM",
+   "rank": 3,
+   "badge": "Best Adjustable Depth",
+   "name": "Sun Joe TJ603E 12-Amp 16-Inch Electric Tiller and Cultivator",
+   "price": "",
+   "specs": [
+    "12 amp motor",
+    "16 in. width",
+    "3 depth settings",
+    "6 steel tines"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "12 amp"
+    },
+    {
+     "label": "Tilling width",
+     "value": "16 inch"
+    },
+    {
+     "label": "Depth settings",
+     "value": "Three positions"
+    },
+    {
+     "label": "Tines",
+     "value": "Six angled, rust-proof steel"
+    },
+    {
+     "label": "Handle",
+     "value": "Folding"
+    }
+   ],
+   "description": "The Sun Joe TJ603E is built around a 12-amp motor and six rust-proof angled steel tines on a 16 inch path. It adds a three-position depth control, which lets you choose a shallow pass for weeding and a deeper one for bed prep without changing tools.\n\nAt 12 amps it sits below the 13.5 and 15 amp machines on power, so it is better suited to loamy or already-worked soil than to dense ground. The three depth positions are a practical way to avoid overloading it, since a shallow first pass loosens the surface and a second pass goes deeper. A folding handle makes it easy to carry and to store.\n\nSun Joe is a widely sold electric tool brand, which helps when you need replacement tines. Keep the cord clear of the tines, check the tine bolts for tightness, and brush off soil after each session so the shield does not rust.",
+   "bestFor": "A gardener who alternates between weeding and bed prep and wants depth control.",
+   "pros": [
+    "Three depth positions for different jobs",
+    "Six rust-proof angled steel tines",
+    "Folding handle for storage",
+    "12 amp motor draws modest current"
+   ],
+   "cons": [
+    "Lower power than the 13.5 and 15 amp rivals",
+    "16 inch path needs more passes than 18 inch machines"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00V6IEVXM?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41J6-bZnorL._SL500_.jpg"
+  },
+  {
+   "id": "B0C1GPT1XS",
+   "rank": 4,
+   "badge": "Best Mid-Width Value",
+   "name": "BILT HARD 16-Inch 13.5-Amp Electric Tiller, 6 Steel Tines",
+   "price": "",
+   "specs": [
+    "13.5 amp motor",
+    "16 in. width",
+    "8.7 in. depth",
+    "6 tines"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "13.5 amp AC"
+    },
+    {
+     "label": "Tilling width",
+     "value": "Up to 16 inch"
+    },
+    {
+     "label": "Tilling depth",
+     "value": "Up to 8.7 inch"
+    },
+    {
+     "label": "Tine speed",
+     "value": "360 rpm"
+    },
+    {
+     "label": "Handle",
+     "value": "Foldable H-handle"
+    }
+   ],
+   "description": "The BILT HARD 16 inch machine uses a 13.5-amp AC motor with six rust-resistant front tines turning at about 360 rpm, cultivating up to 16 inches wide and 8.7 inches deep. Those are respectable numbers for a mid-priced corded tiller.\n\nIt gives up two inches of width against the LawnMaster, but matches the 13.5 amp power rating, so it is a practical choice for beds that are narrower than 20 feet. The foldable H handle uses quick bolt knobs, and the machine can be taken apart for storage in a small shed.\n\nCheck that all the handle bolts are tight each season, since vibration loosens them. Clean the tines and the shield, and store with the cord coiled loosely. First-time electric tiller buyers will find it a comfortable starting point.",
+   "bestFor": "A small to medium garden where the budget matters and 16 inches is wide enough.",
+   "pros": [
+    "13.5 amp motor at a mid-range width",
+    "Foldable H handle with quick knobs",
+    "Six rust-resistant tines",
+    "8.7 inch maximum depth"
+   ],
+   "cons": [
+    "Narrower than the 18 inch machines",
+    "Less brand support than the large names"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0C1GPT1XS?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gVF3TrtML._SL500_.jpg"
+  },
+  {
+   "id": "B00TZIZ2ZQ",
+   "rank": 5,
+   "badge": "Best Mechanical Clutch",
+   "name": "LawnMaster TE1216M 12-Amp 16-Inch Electric Tiller",
+   "price": "",
+   "specs": [
+    "12 amp motor",
+    "16 in. width",
+    "9 in. depth",
+    "Mechanical clutch"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "12 amp"
+    },
+    {
+     "label": "Tilling width",
+     "value": "16 inch"
+    },
+    {
+     "label": "Tilling depth",
+     "value": "9 inch"
+    },
+    {
+     "label": "Blades",
+     "value": "Rust-resistant"
+    },
+    {
+     "label": "Safety",
+     "value": "Anti-clock mechanical clutch"
+    }
+   ],
+   "description": "The TE1216M is the smaller sibling of the LawnMaster 18 inch machine, with a 12-amp motor, a 16 inch width and a 9 inch depth. It carries the same family of rust-resistant blades and an anti-clock mechanical clutch that guards against jams.\n\nCompared with the TE1318M it gives away two inches of width and about an amp and a half of motor, in return for a lighter draw on the circuit. The mechanical clutch is the feature to value, since a jam on a buried stone is the usual cause of tiller damage.\n\nKeep the clutch clear of dirt and check that the blades are tight. It suits a garden where soil is already loose and stones are rare.",
+   "bestFor": "A gardener who wants the LawnMaster protection in a lighter, 12 amp package.",
+   "pros": [
+    "Mechanical clutch protects against jams",
+    "9 inch depth for vegetable beds",
+    "12 amp draw is easy on household circuits",
+    "Rust-resistant blades"
+   ],
+   "cons": [
+    "12 amp motor is the weakest of the 16 inch group",
+    "Smaller width than the TE1318M"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B00TZIZ2ZQ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/3115GiS8KVL._SL500_.jpg"
+  },
+  {
+   "id": "B0CT5HDZNB",
+   "rank": 6,
+   "badge": "Best Narrow Pick",
+   "name": "BILT HARD 14-Inch 10-Amp Electric Tiller, 4 Steel Tines",
+   "price": "",
+   "specs": [
+    "10 amp motor",
+    "14 in. width",
+    "4 tines",
+    "Foldable handle"
+   ],
+   "specList": [
+    {
+     "label": "Motor",
+     "value": "10 amp AC, up to 17,000 rpm"
+    },
+    {
+     "label": "Tilling width",
+     "value": "Up to 14 inch"
+    },
+    {
+     "label": "Tines",
+     "value": "Four rust-resistant blades"
+    },
+    {
+     "label": "Tine speed",
+     "value": "360 rpm"
+    },
+    {
+     "label": "Handle",
+     "value": "Foldable H-handle"
+    }
+   ],
+   "description": "The 14 inch BILT HARD pairs a 10-amp AC motor, which spins at up to 17,000 rpm before gearing, with four rust-resistant front tines turning at 360 rpm. That is the least powerful machine in the group, and the narrowest.\n\nIts narrow 14 inch path is a strength in raised beds and between rows, where a wide tiller would not fit. The foldable handle and light weight make it easy to carry. It will bog in firm soil, so use it on beds that were worked last season.\n\nUse shallow passes and let the tines take small bites. Clean the tines and keep the vents clear.",
+   "bestFor": "Raised beds and narrow rows where an 18 inch machine will not fit.",
+   "pros": [
+    "14 inch path fits raised beds",
+    "10 amp draw suits any circuit",
+    "Foldable handle stores compactly",
+    "Light and easy to carry"
+   ],
+   "cons": [
+    "Least power of the corded group",
+    "Four tines and a narrow path mean many passes"
+   ],
+   "amazonUrl": "https://www.amazon.com/dp/B0CT5HDZNB?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41d5UC3mCRL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Amps and real torque",
+   "explanation": "Amps measure current, not torque, but within a corded class they track power well. The 15-amp Dovaman and 13.5-amp LawnMaster TE1318M and BILT HARD 16 inch pull harder than the 12-amp Sun Joe and TE1216M. A 10-amp BILT HARD 14 inch is for loosened soil only. If your ground is clay, none of them will match a gas machine."
+  },
+  {
+   "criterion": "Width versus bed size",
+   "explanation": "An 18 inch swath such as the LawnMaster TE1318M covers a large vegetable plot quickly, but it will not fit between rows 16 inches apart. The 14 inch BILT HARD suits raised beds and rows. Measure your narrowest bed before you buy, because width is the one thing you cannot change later."
+  },
+  {
+   "criterion": "Tilling depth",
+   "explanation": "Most vegetables root in the top 8 inches, so a 9 inch depth like that of the LawnMaster, Dovaman and TE1216M is enough. The BILT HARD 16 inch reaches 8.7 inches. Depth is also a trap, because an electric motor will stall if you ask for the full depth in one pass. Make two or three passes instead. A good routine is a shallow first pass at two or three inches to break the crust, a second pass at about six inches, and a final pass at full depth only where the soil has already loosened. Tilling when the soil is damp but not wet gives the best result, because dry soil raises dust and wet soil forms clods that bake hard."
+  },
+  {
+   "criterion": "Overload protection",
+   "explanation": "A mechanical clutch or overload shutoff, as on the LawnMaster TE1318M and TE1216M, protects the motor when a tine hits a rock or a root. Without it, a stall can burn the windings in seconds. Even with protection, pull the plug before you clear a jam."
+  },
+  {
+   "criterion": "Cord and circuit",
+   "explanation": "A 13.5 or 15 amp tool needs a 14 gauge or heavier extension cord, kept as short as possible. A thin cord drops voltage and overheats the motor. A shared circuit will trip the breaker mid-pass, so plug the tiller into its own outlet. Outdoor outlets should be on a ground-fault circuit, and the cord should be kept behind you as you work, looped over a shoulder or laid in a wide arc so the tines never run over it. A cord you have cut once is a cord you replace, not one you tape."
+  },
+  {
+   "criterion": "Weight and storage",
+   "explanation": "These machines weigh roughly 25 pounds or more, and a folding handle, as on the BILT HARD and Sun Joe models, makes storage practical. A tiller that fits on a shelf is a tiller you will use more often. Check that the handle fold does not need tools. A tiller that takes ten minutes of fiddling with bolts before every use tends to stay in the shed, while one that folds with four knobs gets used for the odd twenty-minute job. Also consider where the cord will wind up, because a machine with a hook or a cord retainer on the handle is far less annoying to put away."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Amp rating",
+   "meaning": "The current the motor draws at full load. Higher amps mean more power but a heavier extension cord.",
+   "watchFor": "The Dovaman is 15 amps, the BILT HARD 14 inch only 10."
+  },
+  {
+   "spec": "Tilling width",
+   "meaning": "The swath width the tines cover in one pass.",
+   "watchFor": "The LawnMaster and Dovaman cut 18 inches, the BILT HARD 14 inch cuts 14."
+  },
+  {
+   "spec": "Tilling depth",
+   "meaning": "How deep the tines dig, usually a maximum that needs several passes.",
+   "watchFor": "The LawnMaster and Dovaman reach 9 inches, the BILT HARD 16 inch 8.7."
+  },
+  {
+   "spec": "Tine speed",
+   "meaning": "Revolutions per minute of the tines, usually 360 to 380 on corded machines.",
+   "watchFor": "The LawnMaster and Dovaman run at 380 rpm, the BILT HARD at 360."
+  },
+  {
+   "spec": "Mechanical clutch",
+   "meaning": "A clutch that disengages when the tines jam, protecting the motor.",
+   "watchFor": "The two LawnMaster models list it, the others do not."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Motor power",
+   "description": "We compared amp ratings and tine speed as a guide to stall resistance. The 15-amp Dovaman and 13.5-amp LawnMaster lead, and the 10-amp BILT HARD 14 inch trails."
+  },
+  {
+   "title": "Working width and depth",
+   "description": "We weighed width and depth against typical bed sizes. The 18 inch by 9 inch machines lead, and the 14 inch BILT HARD scores for narrow beds."
+  },
+  {
+   "title": "Protection against jams",
+   "description": "We gave credit to a mechanical clutch or overload shutoff, which the two LawnMaster models list. Others rely on the user to watch for stalls."
+  },
+  {
+   "title": "Handling and storage",
+   "description": "We looked at weight, wheel adjustment and folding handles. The Dovaman four wheel positions and the BILT HARD foldable handles stand out."
+  },
+  {
+   "title": "Circuit demands",
+   "description": "We considered how much of a household circuit each motor draws, since a 15-amp machine leaves no spare capacity."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Garden Layout",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Large vegetable plot",
+      "LawnMaster TE1318M",
+      "18 inches wide with jam protection"
+     ],
+     [
+      "Firmer soil, strong motor wanted",
+      "DOVAMAN 18-inch",
+      "15 amp motor at 380 rpm"
+     ],
+     [
+      "Weeding and bed prep",
+      "Sun Joe TJ603E",
+      "Three depth settings"
+     ],
+     [
+      "Mid-size beds, budget",
+      "BILT HARD 16-inch",
+      "13.5 amp motor at 16 inches"
+     ],
+     [
+      "Raised beds and narrow rows",
+      "BILT HARD 14-inch",
+      "14 inches wide and light"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest",
+      "BILT HARD 14-inch",
+      "Cheapest and lightest"
+     ],
+     [
+      "Low",
+      "BILT HARD 16-inch",
+      "More power and width"
+     ],
+     [
+      "Mid",
+      "LawnMaster TE1216M",
+      "Brand clutch protection"
+     ],
+     [
+      "Upper mid",
+      "Sun Joe TJ603E",
+      "Depth control and a known brand"
+     ],
+     [
+      "Top",
+      "LawnMaster TE1318M or DOVAMAN",
+      "Widest and strongest electric options"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Cultivator vs Tiller Work",
+   "cards": [
+    {
+     "label": "Cultivating",
+     "text": "Cultivating means loosening soil that is already worked and removing weeds. The lighter 12 amp Sun Joe TJ603E and TE1216M suit this job well, with shallow passes."
+    },
+    {
+     "label": "Tilling",
+     "text": "Tilling breaks up firm ground and mixes in compost. The 13.5 and 15 amp LawnMaster TE1318M and Dovaman are better, though still limited by soil."
+    }
+   ],
+   "note": "For annual bed prep a 12 amp machine will do; for breaking new ground, rent a gas tiller."
+  },
+  {
+   "subheading": "By Soil Condition",
+   "table": {
+    "headers": [
+     "Soil",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Loose loam or last year's bed",
+      "Sun Joe TJ603E",
+      "Enough power with depth control"
+     ],
+     [
+      "Moderately firm soil",
+      "LawnMaster TE1318M",
+      "Strong motor and clutch"
+     ],
+     [
+      "Firm soil, wants torque",
+      "DOVAMAN 18-inch",
+      "Highest amp rating"
+     ],
+     [
+      "Raised beds with amended soil",
+      "BILT HARD 14-inch",
+      "Light motor is enough"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For a Backyard Vegetable Garden Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for 9 inches of depth, a width that fits your rows, and a way to guard against stalls. A garden is tilled at most twice a year, so weight and storage matter as much as power."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The LawnMaster TE1318M gives depth, width and protection in one package, and the BILT HARD 16 inch is the budget alternative."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if your plot is large or your soil firm; the LawnMaster TE1318M or Dovaman saves passes and strain. Pay for the clutch if your garden has stones."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you only prep raised beds. The BILT HARD 14 inch handles loosened soil and stores in a small shed."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Inspect the cord and plug",
+   "interval": "Before each use",
+   "why": "A nicked cord and a hot plug are fire hazards. Use a heavy gauge outdoor extension cord."
+  },
+  {
+   "task": "Clean soil from tines and shield",
+   "interval": "After each use",
+   "why": "Wet soil dries into a crust and rusts the tines. Scrape and wipe before storing."
+  },
+  {
+   "task": "Tighten bolts and handle knobs",
+   "interval": "Each season",
+   "why": "Vibration loosens fasteners. Check the tine bolts and handle knobs before the first pass."
+  },
+  {
+   "task": "Check the vents",
+   "interval": "Monthly in season",
+   "why": "Soil dust clogs the motor vents and causes overheating. Brush them clear."
+  },
+  {
+   "task": "Inspect the tines",
+   "interval": "Yearly",
+   "why": "Bent or worn tines cut poorly. Replace them as a set to keep the machine balanced."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Is an electric cultivator powerful enough for a garden?",
+   "a": "For beds that are already worked, yes. A 13.5 or 15 amp machine handles most vegetable plots. For breaking sod or heavy clay, a gas tiller is a better tool."
+  },
+  {
+   "q": "What size extension cord do I need?",
+   "a": "A 14 gauge cord for runs under 50 feet is the minimum for 13.5 and 15 amp machines. Thinner cords drop voltage and overheat the motor."
+  },
+  {
+   "q": "How deep can an electric tiller dig?",
+   "a": "Up to 9 inches on the larger models, but it takes two or three passes. Asking for the full depth at once stalls the motor."
+  },
+  {
+   "q": "Why does my tiller keep stopping?",
+   "a": "Usually a jam on a root or a stone, or overload from digging too deep at once. Unplug it, clear the tines and take shallower passes."
+  },
+  {
+   "q": "Can I use it near plants?",
+   "a": "A narrow machine such as the BILT HARD 14 inch works between rows. Keep tines away from roots and take care not to dig deeper than the plant's feeder roots."
+  },
+  {
+   "q": "How long will an electric tiller last?",
+   "a": "A well-kept machine runs for years because there is no engine to maintain. Tines wear fastest, and stalls shorten motor life."
+  }
+ ],
+ "relatedGuides": []
+}

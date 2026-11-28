@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-knitting-machines",
+ "categorySlug": "home-machines",
+ "mainKeyword": "knitting machines",
+ "guideTitle": "Best Knitting Machines (2026)",
+ "metaTitle": "Best Knitting Machines in 2026",
+ "metaDescription": "Six circular knitting machines compared: Caydo electric and crank, Sentro 40 and 48 needle looms and addi Express models, with needle counts and yarn choices.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/51gBuJwaokL._SL500_.jpg",
+ "expertTake": "The addi Express Kingsize is the best overall because its 46 needles, sturdy hand crank and long record make it the most dependable hat and scarf machine. The Sentro 48 with a row counter is the value pick. Anyone who wants shaped garments with fine yarn should look at a flatbed machine, not these circular looms.",
+ "introParagraphs": [
+  "A circular knitting machine turns a hand crank, or a motor, around a ring of needles so a tube of knitted fabric grows in minutes. It is a fast way to make hats, scarves, socks and blankets, and it suits people who enjoy the result more than the slow rhythm of hand needles.",
+  "Machines differ in needle count, gauge, crank mechanics and counters, and the yarn you want to use narrows the field quickly. Choose by the projects you plan and the weight of yarn they need, then check how easy the machine is to thread and clear after a dropped stitch."
+ ],
+ "products": [
+  {
+   "id": "B0FM6DQNJN",
+   "badge": "Best Overall",
+   "name": "addiExpress Kingsize hand-crank knitting machine, 46 needles",
+   "price": "",
+   "specs": [
+    "46 needles",
+    "Hand crank",
+    "Circular",
+    "Hats and scarves"
+   ],
+   "specList": [
+    {
+     "label": "Needles",
+     "value": "46"
+    },
+    {
+     "label": "Drive",
+     "value": "Hand crank"
+    },
+    {
+     "label": "Format",
+     "value": "Circular"
+    },
+    {
+     "label": "Projects",
+     "value": "Hats, scarves, sweaters, blankets"
+    },
+    {
+     "label": "Set",
+     "value": "Machine with yarn cake and hat pattern"
+    }
+   ],
+   "description": "The Kingsize is a 46 needle circular knitting machine that has been a standard for years, and its appeal is mechanical simplicity. A hand crank turns the needle cylinder, a cam lifts each needle as it passes, and a hook latch captures the yarn to form each stitch, so there is little to go wrong beyond a dropped stitch or a tangled yarn. The kit includes a yarn cake and a hat pattern, which gives a first project straight away.\n\nThe tradeoff is that it is a manual machine with limited gauge flexibility. It is built for medium to chunky yarn and tube knitting, so fine garments and shaped pieces are beyond it. Compared with the Sentro 48, it has a long reputation for parts and instructions, and against the Caydo M1 Pro it asks you to turn the crank yourself but never asks you to charge anything.\n\nOwnership is easy: keep the needles free of lint, apply a drop of sewing machine oil occasionally and store the machine covered. Practice an even cranking speed, since uneven turning is the main cause of dropped stitches. A table clamp is part of the package, and it is worth setting it up on a stable surface.",
+   "bestFor": "Hand knitters who want fast hats and scarves from a dependable machine.",
+   "pros": [
+    "46 needles give a generous tube size",
+    "Simple hand-crank mechanism with few failure points",
+    "Long-established brand with instructions and parts",
+    "Kit includes yarn and a hat pattern"
+   ],
+   "cons": [
+    "Medium to chunky yarn only",
+    "Manual cranking needs a steady rhythm"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0FM6DQNJN?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51gBuJwaokL._SL500_.jpg"
+  },
+  {
+   "id": "B0CLJJ6FQ7",
+   "badge": "Best Value",
+   "name": "Sentro 48 needle knitting machine with smart row counter",
+   "price": "",
+   "specs": [
+    "48 needles",
+    "Row counter",
+    "Tube and panel",
+    "Manual crank"
+   ],
+   "specList": [
+    {
+     "label": "Needles",
+     "value": "48"
+    },
+    {
+     "label": "Modes",
+     "value": "Tube and panel dual mode"
+    },
+    {
+     "label": "Counter",
+     "value": "Smart row counter"
+    },
+    {
+     "label": "Drive",
+     "value": "Manual crank"
+    },
+    {
+     "label": "Audience",
+     "value": "Beginners"
+    }
+   ],
+   "description": "The Sentro 48 is a manual circular machine with a smart row counter and a dual mode design that knits either a continuous tube or a flat panel. Forty-eight needles give a slightly larger circumference than the Kingsize, and the counter takes the guesswork out of measuring a long scarf or blanket. A hand crank turns the cylinder and the loom rotates smoothly under steady pressure.\n\nThe compromise is build quality and durability. Plastic bodies can flex and the needles can bend if a yarn snag is forced, and parts support is less established than for addi. Compared with the addi Kingsize, it adds a counter and panel mode at a lower tier, and against the Caydo M1 Lite it offers similar features with a simpler counter.\n\nKeep needles clean and straight, avoid forcing a jammed crank and store the machine in a box. Start with smooth worsted or chunky yarn and let the machine do the work.",
+   "bestFor": "Beginners who want a counter and panel mode at a low cost.",
+   "pros": [
+    "48 needles with tube and panel modes",
+    "Smart row counter tracks length",
+    "Manual crank with no charging",
+    "Low entry cost"
+   ],
+   "cons": [
+    "Plastic body is less durable than addi",
+    "Needles can bend if forced"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0CLJJ6FQ7?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51YvS2+JdQL._SL500_.jpg"
+  },
+  {
+   "id": "B0HDZP6XHP",
+   "badge": "Best Electric",
+   "name": "Caydo M1 Pro electric 48 needle automatic knitting machine",
+   "price": "",
+   "specs": [
+    "48 needles",
+    "Electric",
+    "One-touch",
+    "Preset rows"
+   ],
+   "specList": [
+    {
+     "label": "Needles",
+     "value": "48"
+    },
+    {
+     "label": "Drive",
+     "value": "Electric, one-touch automatic"
+    },
+    {
+     "label": "Control",
+     "value": "Preset rows"
+    },
+    {
+     "label": "Format",
+     "value": "Circular"
+    },
+    {
+     "label": "Operation",
+     "value": "Hands-free"
+    }
+   ],
+   "description": "The M1 Pro replaces the hand crank with an electric motor and a preset row system, so a single touch starts the knitting and the machine stops at the row count you set. Its proprietary control logic holds an even rotation speed, which removes the biggest cause of dropped stitches in manual machines: an uneven crank. Forty-eight needles give a generous tube.\n\nThe tradeoff is complexity and cost. A motorized machine has more parts that can fail, needs a power source and costs more than the crank models, and a jam can stall the motor against the yarn. Compared with the addi Kingsize, it is hands-free, and against the Caydo M1 Lite it is the automatic version of the same layout.\n\nKeep the yarn path clear, load a smooth, evenly spun yarn and watch the first few rows until you trust the machine. Do not leave it running unattended on heavy yarn, and keep the motor free of lint. Keep the packaging for the first month in case you want to return it.",
+   "bestFor": "Knitters with hand or wrist pain, or anyone who dislikes cranking.",
+   "pros": [
+    "Electric one-touch operation removes hand cranking",
+    "Preset rows stop the machine automatically",
+    "Even rotation reduces dropped stitches",
+    "48 needles for a generous tube"
+   ],
+   "cons": [
+    "More parts and a power source to manage",
+    "Costs more than manual models"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0HDZP6XHP?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51znLrOV99L._SL500_.jpg"
+  },
+  {
+   "id": "B0HDZS3Z39",
+   "badge": "Best Magnetic Counter",
+   "name": "Caydo M1 Lite 48 needle circular knitting loom machine",
+   "price": "",
+   "specs": [
+    "48 needles",
+    "Magnetic row counter",
+    "Hand crank",
+    "Circular"
+   ],
+   "specList": [
+    {
+     "label": "Needles",
+     "value": "48"
+    },
+    {
+     "label": "Drive",
+     "value": "Hand crank"
+    },
+    {
+     "label": "Counter",
+     "value": "Upgraded magnetic row counter"
+    },
+    {
+     "label": "Format",
+     "value": "Circular"
+    },
+    {
+     "label": "Audience",
+     "value": "Beginners and hobbyists"
+    }
+   ],
+   "description": "The M1 Lite is the manual sibling of the M1 Pro, with a hand crank and an upgraded magnetic row counter. The counter counts accurately through each rotation without a mechanical plunger that can miss a pass, which helps when you make long or repeated panels. It has 48 needles and the same circular layout as the Pro.\n\nThe limitation is the crank. Manual turning demands an even rhythm and is tiring on long projects, and the machine has fewer automation features than the Pro. Compared with the Sentro 48, it has a better counter, and against the addi Kingsize it is newer with less record behind it.\n\nKeep the counter magnet clean and the crank turning smoothly. Check for stuck latches after a long session, and store the machine away from dust.",
+   "bestFor": "Hobbyists who want an accurate counter on a manual machine.",
+   "pros": [
+    "Magnetic row counter counts reliably",
+    "48 needles on a manual crank machine",
+    "Same layout as the Pro for easy upgrade",
+    "Lower cost than the electric version"
+   ],
+   "cons": [
+    "Manual cranking is tiring on long jobs",
+    "Less established than addi"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0HDZS3Z39?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51AGQFv1W2L._SL500_.jpg"
+  },
+  {
+   "id": "B0BDFFW3FR",
+   "badge": "Best Smaller Tube",
+   "name": "Sentro 40 needle smart circular knitting machine",
+   "price": "",
+   "specs": [
+    "40 needles",
+    "Circular",
+    "Double knitting",
+    "Manual crank"
+   ],
+   "specList": [
+    {
+     "label": "Needles",
+     "value": "40"
+    },
+    {
+     "label": "Format",
+     "value": "Circular"
+    },
+    {
+     "label": "Mode",
+     "value": "Double knitting loom"
+    },
+    {
+     "label": "Drive",
+     "value": "Manual crank"
+    },
+    {
+     "label": "Audience",
+     "value": "Beginners"
+    }
+   ],
+   "description": "The Sentro 40 is a smaller circular machine with forty needles and a double knitting design. Fewer needles mean a smaller tube, so it suits child-size hats, cuffs, headbands and small scarves better than a full adult hat. The smaller frame is easier to hold and store, and it works with the same crank technique as the larger models.\n\nThe tradeoff is capacity. A 40 needle tube makes adult hats snug and wide scarves impossible, so you will find yourself wanting the 48. Compared with the addi Kingsize, it has fewer needles and lower cost, and against the Sentro 48 it is the smaller sibling.\n\nUse medium weight yarn, keep the needles straight and clean and crank at an even pace. If you enjoy the hobby, expect to step up to a bigger machine. If your yarn is thin, choose the machine's finest gauge setting to avoid loose stitches.",
+   "bestFor": "Smaller projects, kids' hats and accessories.",
+   "pros": [
+    "Compact 40 needle body",
+    "Double knitting loom design",
+    "Easy for beginners to handle",
+    "Lower cost than the 48 needle models"
+   ],
+   "cons": [
+    "Small tube limits adult hat and wide scarf size",
+    "Plastic parts are less durable"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0BDFFW3FR?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41gOW7f9VFL._SL500_.jpg"
+  },
+  {
+   "id": "B000XT3OPG",
+   "badge": "Best for Small Items",
+   "name": "addi Express Professional 22 needle knitting machine",
+   "price": "",
+   "specs": [
+    "22 needles",
+    "4 to 6 inch circular",
+    "Hand crank",
+    "Professional"
+   ],
+   "specList": [
+    {
+     "label": "Needles",
+     "value": "22"
+    },
+    {
+     "label": "Circular diameter",
+     "value": "10 to 15 cm (4 to 6 inches)"
+    },
+    {
+     "label": "Drive",
+     "value": "Hand crank"
+    },
+    {
+     "label": "Use",
+     "value": "Socks, cuffs, small tubes"
+    },
+    {
+     "label": "Model",
+     "value": "addi Express Professional"
+    }
+   ],
+   "description": "The Professional is a 22 needle machine that knits small circular items from 4 to 6 inches across, which makes it the sock, cuff and mitten machine. The small ring of needles keeps tubes narrow, and a precision build gives crisp stitches on finer yarn than the bigger looms accept. It is a specialist rather than a general tool.\n\nIts tradeoff is breadth. Twenty-two needles cannot make an adult hat, and it only suits small tubes, so most owners pair it with a larger machine. Compared with the addi Kingsize, it handles smaller sizes and finer detail, and against the Sentro 40 it is the more precise tool.\n\nKeep the needles lint-free and lightly oiled, crank slowly on fine yarn and handle the latches gently. It is a good choice if you make many socks or small accessories.",
+   "bestFor": "Socks, cuffs and small circular accessories.",
+   "pros": [
+    "22 needles for 4 to 6 inch tubes",
+    "Precision build for finer yarns",
+    "Ideal for socks and mittens",
+    "Part of the established addi line"
+   ],
+   "cons": [
+    "Too small for hats and scarves",
+    "Specialist tool rather than a general machine"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B000XT3OPG?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51e18XCs4SL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Needle count and tube size",
+   "explanation": "Needle count sets the circumference of the tube, so 22 needles make a sock, 40 needles make a child hat and 46 to 48 needles make an adult hat or scarf. The addi Kingsize has 46, the Sentro and Caydo machines have 48 and the Professional has 22. Buy for the largest item you plan to make. A quick way to size is to measure the head or neck you are knitting for, then multiply by how much stretch your yarn has; most beginners are surprised by how much a tube relaxes after leaving the machine."
+  },
+  {
+   "criterion": "Gauge and yarn weight",
+   "explanation": "Gauge is the spacing between needles, measured from the center of one needle to the next. Standard gauge is about 4.5 mm and suits fine yarn, mid gauge is about 6.5 mm, and chunky gauge suits thick yarn. Circular looms like these favor medium to chunky yarn, and fine yarn catches in the latches. If you want to use the fine yarns that are common in commercial knitwear, a dedicated fine-gauge flatbed machine is the correct tool, and these circular looms will frustrate you."
+  },
+  {
+   "criterion": "Crank versus motor",
+   "explanation": "A hand crank is simple and reliable but demands an even rhythm and tires the wrist, while an electric drive like the Caydo M1 Pro holds a steady speed. Uneven cranking is the top cause of dropped stitches. If you have hand pain, a motor is a real advantage. Whichever drive you choose, keep a steady hand on the yarn so tension stays even, since the machine can only form stitches as well as the yarn is fed."
+  },
+  {
+   "criterion": "Row counters",
+   "explanation": "A counter measures length without you tallying turns, which matters for scarves, blankets and matching pairs. The Sentro 48 has a smart counter and the Caydo M1 Lite has a magnetic one. A counter you trust saves unraveling. Write the row count in a notebook as well, since a counter can be knocked by accident and a written note recovers the lost number."
+  },
+  {
+   "criterion": "Parts and support",
+   "explanation": "Buying a machine that is discontinued means parts are not produced, and a beginner should avoid discontinued or used models because it is hard to tell whether a problem is the machine or the technique. The addi line has a long record, while newer models are less proven. Check that spare needles and latches are available. Read recent owner feedback patterns on needle quality, since a shipment with weak latches is a common complaint on cheaper looms."
+  },
+  {
+   "criterion": "Mode: tube, panel and double knit",
+   "explanation": "Some machines knit a continuous tube only, while dual-mode models like the Sentro 48 can knit a flat panel. Panels allow blankets and larger items. Choose the mode that matches your first project. If panels interest you, check whether the manual shows how to bind off and join sides, which is where beginners often get stuck."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Needle count",
+   "meaning": "The number of latch needles in the cylinder. It sets the circumference of a tube. A larger needle count does not make a machine better, only larger.",
+   "watchFor": "The Kingsize has 46, the Sentro 48 and Caydo machines have 48, the Sentro 40 has 40 and the Professional has 22."
+  },
+  {
+   "spec": "Gauge",
+   "meaning": "The needle spacing, from center to center. It sets how fine or chunky the yarn can be. A thin tube of fine yarn tends to curl, so fine gauge is better left to flatbed machines.",
+   "watchFor": "These circular looms are not fine-gauge machines."
+  },
+  {
+   "spec": "Row counter",
+   "meaning": "A device that counts rotations. It measures how long the knitting is.",
+   "watchFor": "The Sentro 48 lists a smart counter and the Caydo M1 Lite a magnetic counter."
+  },
+  {
+   "spec": "Latch needle",
+   "meaning": "A needle with a small hinged latch that opens to take yarn and closes to form a stitch. If a latch sticks, a drop of oil and a gentle flex usually frees it.",
+   "watchFor": "Bent latches are the most common fault, so store the machine carefully."
+  },
+  {
+   "spec": "Preset rows",
+   "meaning": "A set count after which the machine stops automatically. It is a feature of the electric model.",
+   "watchFor": "The Caydo M1 Pro supports preset rows."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Tube size and needles",
+   "description": "We compared needle counts and finished sizes. The Kingsize has 46 needles and the Professional has 22. Matching size to project mattered. We also considered how well each size matches a common project, such as an adult beanie."
+  },
+  {
+   "title": "Drive and control",
+   "description": "We looked at hand crank versus electric drive. The Caydo M1 Pro is electric with preset rows, and the others are manual. Steady rotation scored higher. We compared how clearly each manual explains casting on."
+  },
+  {
+   "title": "Counter and features",
+   "description": "We checked row counters and modes. The Sentro 48 and Caydo M1 Lite have counters. Useful features scored higher. We noted which counters work without batteries."
+  },
+  {
+   "title": "Build and support",
+   "description": "We considered materials and brand history. The addi line has a long record. Established parts availability scored higher. We read feedback patterns on bent needles."
+  },
+  {
+   "title": "Ownership",
+   "description": "We weighed setup, cleaning and owner feedback patterns. Machines that clear dropped stitches easily scored higher. We considered how easily each machine clamps to a table."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Project",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Adult hats and scarves",
+      "addiExpress Kingsize",
+      "46 needles and sturdy crank"
+     ],
+     [
+      "Blankets with a counter",
+      "Sentro 48",
+      "Panel mode and smart counter"
+     ],
+     [
+      "Hands-free knitting",
+      "Caydo M1 Pro",
+      "Electric with preset rows"
+     ],
+     [
+      "Accurate lengths on a crank",
+      "Caydo M1 Lite",
+      "Magnetic counter"
+     ],
+     [
+      "Socks and cuffs",
+      "addi Express Professional",
+      "22 needles"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "Sentro 40",
+      "Smaller starter"
+     ],
+     [
+      "Entry 48 needles",
+      "Sentro 48",
+      "Counter included"
+     ],
+     [
+      "Mid tier crank",
+      "Caydo M1 Lite",
+      "Magnetic counter"
+     ],
+     [
+      "Upper tier",
+      "addiExpress Kingsize",
+      "Proven design"
+     ],
+     [
+      "Premium",
+      "Caydo M1 Pro",
+      "Electric automation"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Manual vs Electric",
+   "cards": [
+    {
+     "label": "Manual crank",
+     "text": "The Kingsize, Sentro and Caydo M1 Lite are simple and need no power. They demand an even rhythm and can tire the hand."
+    },
+    {
+     "label": "Electric",
+     "text": "The Caydo M1 Pro holds steady speed and stops at a preset count. It costs more and has more parts to fail."
+    }
+   ],
+   "note": "Casual knitters should pick manual, and anyone with hand pain should pick electric."
+  },
+  {
+   "subheading": "Tube Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Adult hat",
+      "addiExpress Kingsize",
+      "46 needles"
+     ],
+     [
+      "Wide scarf or cowl",
+      "Sentro 48",
+      "48 needles"
+     ],
+     [
+      "Child hat or headband",
+      "Sentro 40",
+      "40 needles"
+     ],
+     [
+      "Socks and mittens",
+      "addi Express Professional",
+      "22 needles"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Beginners Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for a clear manual, a row counter, easy needle replacement and a design with a good community. Start with smooth, medium weight yarn."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Sentro 48 and addi Kingsize are the best beginner picks, with the Caydo M1 Pro as the hands-free upgrade."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you knit weekly or have hand pain. The addi Kingsize and Caydo M1 Pro reward heavy use."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you want to try the craft. The Sentro 40 and 48 cover first projects."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean lint from needles",
+   "interval": "After each project",
+   "why": "Lint builds up in the latches and causes dropped stitches. A soft brush and a pair of tweezers clear the lint quickly."
+  },
+  {
+   "task": "Oil lightly",
+   "interval": "Every few projects",
+   "why": "A drop of sewing machine oil keeps latches moving."
+  },
+  {
+   "task": "Straighten or replace bent needles",
+   "interval": "As needed",
+   "why": "A bent latch snags yarn and drops stitches. Store spare needles in a labeled bag so they are never mixed."
+  },
+  {
+   "task": "Store covered",
+   "interval": "Always",
+   "why": "Dust and pets add lint and damage latches. Cover it with a cloth instead of plastic to let moisture escape."
+  },
+  {
+   "task": "Check the crank or motor",
+   "interval": "Every few months",
+   "why": "A stiff crank or noisy motor signals lint or a loose part."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Which knitting machine is best for beginners?",
+   "a": "The Sentro 48 and addiExpress Kingsize are the easiest starts. Choose the Sentro for a counter and panel mode and the addi for durability. Many knitters start with the machine's own kit yarn and then move to a smooth acrylic or cotton blend."
+  },
+  {
+   "q": "What yarn should I use?",
+   "a": "Medium to chunky smooth yarn works best. Fine, fuzzy or slubby yarn catches in the latches."
+  },
+  {
+   "q": "Why does my machine drop stitches?",
+   "a": "Uneven cranking, bent latches or tight yarn tension are the usual causes. Slow down and check the needles. Check that the yarn is not tangled behind the machine, since a snag pulls hard on the needles."
+  },
+  {
+   "q": "Can I make clothes?",
+   "a": "Yes, hats, scarves and tubes. Shaped garments need a flatbed machine."
+  },
+  {
+   "q": "Is an electric machine worth it?",
+   "a": "Yes if hand cranking hurts or you knit often. The Caydo M1 Pro holds steady speed. A motor lets you watch the yarn feed rather than the crank, which improves results."
+  },
+  {
+   "q": "How long will a machine last?",
+   "a": "With cleaning and oil, many years. Latches and needles are the parts to replace. Plan on a little regular cleaning and the machine will keep running for a long time."
+  }
+ ],
+ "relatedGuides": []
+}

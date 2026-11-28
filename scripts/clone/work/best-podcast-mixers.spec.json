@@ -1,0 +1,590 @@
+{
+ "guideSlug": "best-podcast-mixers",
+ "categorySlug": "kitchen-machines",
+ "mainKeyword": "podcast mixer",
+ "guideTitle": "Best Podcast Mixers (2026)",
+ "metaTitle": "Best Podcast Mixers in 2026",
+ "metaDescription": "Six podcast mixers compared on XLR inputs, preamp gain, USB routing and recording options, so you can match the board to your show size.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "12 min",
+ "expertTake": "The RØDECaster Pro II is the best podcast mixer in this group because it gives four hosts their own preamp, fader and processing without a computer. The MAONO E2 Gen2 is the value pick for a two person show on a desk. Anyone who records alone and never takes a remote caller should skip the mixer category and buy a single channel interface.",
+ "introParagraphs": [
+  "A podcast mixer earns its place by solving three jobs at once: feeding clean power and gain to every microphone, giving each voice a fader you can ride by hand, and sending a tidy mix to the computer or recorder. Boards that do all three well are far fewer than the product listings suggest.",
+  "Most buyers end up choosing between a standalone recorder that works without a laptop and a USB mixer that depends on one. The right answer comes from how many voices you record, whether guests dial in remotely, and how much editing you plan to do afterward."
+ ],
+ "products": [
+  {
+   "id": "B0B17V8NGX",
+   "badge": "Best Overall",
+   "name": "RØDECaster Pro II 4 preamp podcast studio",
+   "specs": [
+    "4 XLR preamps",
+    "Aphex processing",
+    "Standalone recording",
+    "SMART pads"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "4 studio preamps"
+    },
+    {
+     "label": "Processing",
+     "value": "Aphex voice chain"
+    },
+    {
+     "label": "Recording",
+     "value": "Multitrack to computer, microSD or USB drive"
+    },
+    {
+     "label": "Pads",
+     "value": "8 SMART pads"
+    },
+    {
+     "label": "Computer needed",
+     "value": "No, runs standalone"
+    }
+   ],
+   "description": "This is the board that treats a podcast as a production line. Four studio preamps feed an Aphex based voice chain that applies compression, noise gating and tone shaping per channel, and the results can be recorded as separate tracks to a computer, a microSD card or a USB drive. Eight programmable SMART pads hold jingles, bumpers and sound effects, so a solo host can run a full show without a second person on the board.\n\nThe tradeoff is size and weight of the learning curve. The touchscreen menu has real depth, and a first session spent mapping pads and routing a phone caller feels like configuring a small broadcast desk. Against the RØDECaster Duo, which carries two combo inputs and four faders, the Pro II doubles the number of microphones you can feed, and that matters the day a third host or a studio guest shows up.\n\nOwnership is easy once the setup is saved. Firmware updates arrive through the unit itself, the pads and presets stay stored on board, and because it records without a computer a crashed laptop does not end an episode. Allow desk space for a console that is much larger than a USB box, and budget for four boom arms and balanced cables, since a deck this capable shows every weak link around it.",
+   "bestFor": "Three or four person shows that want broadcast processing and recording with no laptop in the chain.",
+   "pros": [
+    "Four preamps with per channel voice processing",
+    "Records standalone to microSD or USB drive",
+    "Eight pads for jingles and effects",
+    "Multitrack output simplifies later editing"
+   ],
+   "cons": [
+    "Large and heavy next to USB mixers",
+    "Menu depth takes a few sessions to learn",
+    "Overbuilt for a solo, one mic show"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0B17V8NGX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51VJGEJzlXL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0BQLJYSBX",
+   "badge": "Best Compact Studio",
+   "name": "RØDECaster Duo compact studio, two combo inputs",
+   "specs": [
+    "2 combo inputs",
+    "4 faders",
+    "Touchscreen",
+    "6 SMART pads"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "2 Neutrik combo jacks"
+    },
+    {
+     "label": "Faders",
+     "value": "4 broadcast faders"
+    },
+    {
+     "label": "Display",
+     "value": "Touchscreen with haptic feedback"
+    },
+    {
+     "label": "Pads",
+     "value": "6 SMART pads with bank switching"
+    },
+    {
+     "label": "Use",
+     "value": "Podcasting, streaming, music"
+    }
+   ],
+   "description": "The Duo shrinks the same philosophy into a unit that fits beside a monitor. Two Neutrik combo jacks take microphones or instruments through low noise, high gain preamps, four faders cover the two mics plus computer and phone feeds, and a touchscreen with haptic feedback handles routing. Six SMART pads with bank switching mean the sound library does not shrink as much as the pad count suggests.\n\nIt is the better choice for a pair of hosts, and the worse choice for anyone who expects growth. Two mic inputs is the hard ceiling, so adding a third voice means buying a different console. Next to the E2 Gen2 it adds real faders and onboard processing, but it also sits several steps higher in the price ladder, so the case rests on faders and recording depth rather than raw input count.\n\nDay to day it behaves like a polished instrument: the touch controls respond immediately, the layout is readable at arm's length, and the finish stays free of the creaks that show up in cheaper boards. Keep the supplied USB cable tidy and avoid leaving it on a power strip with noisy switching adapters.",
+   "bestFor": "Two hosts or a host plus guest who want faders and a touchscreen on a small desk.",
+   "pros": [
+    "Four faders on a very small footprint",
+    "Haptic touchscreen reads clearly at a glance",
+    "Bank switching expands six pads further",
+    "Quiet preamps handle dynamic mics well"
+   ],
+   "cons": [
+    "Only two mic inputs",
+    "Costs well above entry level USB mixers"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0BQLJYSBX?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41yuUOBFa3L._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0FX364R93",
+   "badge": "Best Standalone Recorder",
+   "name": "Zoom PodTrak P4next 4 input recorder with AI tools",
+   "specs": [
+    "4 XLR inputs",
+    "+70 dB gain",
+    "AI noise reduction",
+    "4 headphone outs"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "4 XLR with phantom"
+    },
+    {
+     "label": "Gain",
+     "value": "Up to 70 dB"
+    },
+    {
+     "label": "Headphones",
+     "value": "4 outputs"
+    },
+    {
+     "label": "Processing",
+     "value": "AI noise reduction, tone enhancement, compression"
+    },
+    {
+     "label": "Extras",
+     "value": "Sound pads, phone and USB input"
+    }
+   ],
+   "description": "Zoom built the P4next around a single idea: a table with four people and a recorder in the middle of it. Four XLR inputs deliver up to 70 dB of gain, enough for quiet dynamic microphones, and four separate headphone outputs with their own volume knobs mean nobody shares a splitter. AI noise reduction, tone enhancement and a compressor take the first pass at cleanup so the raw recording sounds closer to finished.\n\nIt behaves like a recorder with mixer manners rather than a mixer with recording added. The faders are short and the controls are button and pad driven, which suits a fixed setup but feels less hands on than the RØDECaster Pro II when you want to ride levels live. For four voices on a tight budget it still beats any USB board in this group, because each host gets a dedicated preamp and a headphone feed.\n\nPlan for memory cards and a reliable power source. Recordings are only as safe as the card, so format it in the unit before an important session and keep a spare. Because four people share one box, check each headphone level before you hit record rather than adjusting during the interview.",
+   "bestFor": "Four person shows that record to a card and edit afterward on a modest budget.",
+   "pros": [
+    "Four XLR inputs and four headphone feeds",
+    "70 dB of gain suits quiet dynamic mics",
+    "AI cleanup shortens editing time",
+    "Phone and USB inputs support remote guests"
+   ],
+   "cons": [
+    "Short faders limit live level riding",
+    "Menu driven controls feel less direct than a desk"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0FX364R93?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/317HGcuftrL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0DJ13Q47W",
+   "badge": "Best Value Two Host Kit",
+   "name": "MAONO E2 Gen2 dual XLR mixer with loopback",
+   "specs": [
+    "2 XLR inputs",
+    "Loopback",
+    "Bluetooth",
+    "8 sound effects"
+   ],
+   "specList": [
+    {
+     "label": "Mic inputs",
+     "value": "Dual XLR"
+    },
+    {
+     "label": "Routing",
+     "value": "Loopback for computer audio"
+    },
+    {
+     "label": "Wireless",
+     "value": "Bluetooth input"
+    },
+    {
+     "label": "Effects",
+     "value": "8 customizable sound effects"
+    },
+    {
+     "label": "Preamps",
+     "value": "Low noise, two channel"
+    }
+   ],
+   "description": "The E2 Gen2 is aimed squarely at the first podcast set up: two XLR preamps, loopback so computer audio reaches the recording, Bluetooth for phone calls, and eight customizable sound effects at the touch of a button. It presents itself to a computer as a sound card, so a Windows or Mac session usually starts without a driver hunt.\n\nWhat you give up is depth. There is no multitrack recording from the unit itself, the processing is simpler than Rode's, and the controls favor knobs and buttons over faders. Beside the Elgato Wave XLR MK.2 it adds a second microphone input, which is the whole reason to prefer it for two hosts, while the Elgato offers a more polished single voice chain.\n\nIt is easy to live with. Cable runs are short, the desk footprint is small, and the sound effect buttons are handy for a quick bumper. Keep it on its own USB port rather than a crowded hub, and use balanced XLR cables so the preamps are not asked to fight hum.",
+   "bestFor": "Two hosts on a desk who need loopback, Bluetooth and effects at the lowest sensible entry price.",
+   "pros": [
+    "Two XLR inputs with phantom ready preamps",
+    "Loopback sends computer audio to the stream",
+    "Bluetooth input takes phone calls",
+    "Compact enough for a crowded desk"
+   ],
+   "cons": [
+    "No multitrack recording from the unit",
+    "Gain is modest for demanding dynamic mics"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0DJ13Q47W?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51BTiZvf8PL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0GGYXY67H",
+   "badge": "Best for One Voice",
+   "name": "Elgato Wave XLR MK.2 USB interface and DSP mixer",
+   "specs": [
+    "80 dB gain",
+    "DSP voice chain",
+    "LED level meter",
+    "Low latency"
+   ],
+   "specList": [
+    {
+     "label": "Gain",
+     "value": "80 dB"
+    },
+    {
+     "label": "Processing",
+     "value": "Voice enhancer, compressor, EQ"
+    },
+    {
+     "label": "Monitoring",
+     "value": "Ultra low latency"
+    },
+    {
+     "label": "Feedback",
+     "value": "LED level display"
+    },
+    {
+     "label": "Connection",
+     "value": "USB to computer"
+    }
+   ],
+   "description": "Where the cheaper boards chase channel count, the Wave XLR MK.2 chases one clean voice. Eighty decibels of gain is enough for a power hungry dynamic mic without a booster, the onboard DSP applies a voice enhancer, compressor and EQ before the signal reaches the computer, and LED level feedback shows clipping before it ruins a take.\n\nIt does not try to be a table mixer. There is one voice channel, which makes it the right pick for a solo host and the wrong one for a pair. Its processing is tidier than the E2 Gen2's, and its monitoring path adds almost no delay, so you hear yourself without the echo that plagues software monitoring.\n\nSetup is quick and the driver software is polished, though you are tied to a computer for settings. Keep the cable short and give the mic its own boom arm so the interface does not pick up desk thumps.",
+   "bestFor": "A solo host who wants a clean, high gain, low latency chain for a hungry dynamic microphone.",
+   "pros": [
+    "80 dB gain drives hungry dynamic mics",
+    "Onboard voice chain cuts editing",
+    "Very low latency headphone monitoring",
+    "LED meter flags clipping instantly"
+   ],
+   "cons": [
+    "One voice channel limits it to solo shows",
+    "Settings depend on companion software"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0GGYXY67H?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/31U9xyqHFGL._SL500_.jpg",
+   "price": ""
+  },
+  {
+   "id": "B0H5R3CB1P",
+   "badge": "Best Budget Analog Style Board",
+   "name": "Kaschun 4 channel Bluetooth mixer with XLR and USB",
+   "specs": [
+    "4 channels",
+    "48V phantom",
+    "99 DSP effects",
+    "7 band EQ"
+   ],
+   "specList": [
+    {
+     "label": "Channels",
+     "value": "4"
+    },
+    {
+     "label": "Phantom",
+     "value": "+48V"
+    },
+    {
+     "label": "Effects",
+     "value": "99 DSP effects"
+    },
+    {
+     "label": "EQ",
+     "value": "7 band"
+    },
+    {
+     "label": "Connections",
+     "value": "XLR, USB audio interface, Bluetooth"
+    }
+   ],
+   "description": "The Kaschun looks like a small studio console and behaves like one at a fraction of the cost: four channels, +48V phantom power, a seven band EQ and a library of 99 DSP effects, plus Bluetooth and a USB audio interface for the computer. For a first board it covers a lot of connection types.\n\nThe warning is about how it counts. A four channel label does not guarantee four XLR microphone inputs, so check which channels carry preamps before planning a multi host show. Against the Dejasound FX-6usb it is smaller and simpler, and it stays closer to a pocket board than a true desk.\n\nOwnership is mostly about noise discipline. Cheap switching power supplies can add hiss, so use a clean outlet, keep gain staged properly and treat the DSP effects as seasoning rather than a fix for a weak microphone.",
+   "bestFor": "A first board that needs XLR phantom power, Bluetooth and EQ on a tight budget.",
+   "pros": [
+    "Phantom power for condenser microphones",
+    "Seven band EQ for shaping voices",
+    "Bluetooth and USB both included",
+    "Hands on knobs instead of menus"
+   ],
+   "cons": [
+    "Channel count overstates XLR inputs",
+    "No standalone recording"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B0H5R3CB1P?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51kBfD4jjLL._SL500_.jpg",
+   "price": ""
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Count XLR inputs first",
+   "explanation": "Channel count on a box is marketing; the number of mic preamps is what lets four hosts talk at once. The RØDECaster Pro II and Zoom PodTrak P4next each carry four XLR inputs, the Duo and MAONO E2 Gen2 carry two, and the Elgato Wave XLR MK.2 carries one. A four channel label such as the Kaschun's does not promise four microphones, so confirm before buying."
+  },
+  {
+   "criterion": "Phantom power per channel",
+   "explanation": "Condenser microphones need 48V phantom power over XLR, and some budget boards supply it to only the first channels or switch it on globally. Dynamic microphones do not need it but should never be hurt by it, so a global switch is fine for dynamics. The Kaschun and MAONO boards list phantom support, so read the manual for which inputs receive it."
+  },
+  {
+   "criterion": "Preamp gain for dynamic mics",
+   "explanation": "Broadcast dynamic microphones are low output and want about 60 to 70 dB of clean gain. The Elgato Wave XLR MK.2 provides 80 dB and the P4next provides 70 dB, so both can run an SM7B style mic. A weak preamp forces you to crank gain until it hisses, then fix it in software, which never sounds as clean as getting level right at the source."
+  },
+  {
+   "criterion": "Mix minus for remote guests",
+   "explanation": "Mix minus feeds a remote caller everything except their own voice, which prevents echo. The Zoom PodTrak P4next has a phone input built for this, and the RØDECaster boards handle it through routing. Loopback boards such as the MAONO E2 Gen2 send computer audio into the recording, but they need software or careful routing to avoid echo."
+  },
+  {
+   "criterion": "Recording location",
+   "explanation": "A mixer that records to an SD card keeps working if the laptop freezes, while a USB mixer depends entirely on the computer. The RØDECaster Pro II and PodTrak P4next record standalone with separate tracks, which makes editing cleaner. A stereo only USB mix is fixed once recorded, so a loud laugh on one mic cannot be reduced later."
+  },
+  {
+   "criterion": "Faders versus knobs",
+   "explanation": "Faders give live level control by feel, which is the main reason to buy a mixer instead of a bare interface. The RØDECaster Duo carries four, the Pro II carries one per input, and cheaper boards use rotary knobs. Rotary knobs are fine for set and forget levels, but a fast moving conversation rewards faders."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Preamp gain (dB)",
+   "meaning": "How much the preamp can amplify a quiet microphone before noise appears. Dynamic broadcast mics want around 60 to 70 dB.",
+   "watchFor": "The Elgato Wave XLR MK.2 lists 80 dB while the P4next lists 70 dB, which is a real difference for a hungry mic."
+  },
+  {
+   "spec": "Phantom power (+48V)",
+   "meaning": "A DC voltage sent down the XLR cable to power condenser microphones. Dynamic mics ignore it.",
+   "watchFor": "Check whether the board powers every channel; the Kaschun lists +48V but you should confirm the channel map."
+  },
+  {
+   "spec": "Loopback",
+   "meaning": "A USB mode that returns computer audio into the recording without creating feedback, so you can capture a caller or music alongside your mic.",
+   "watchFor": "The MAONO E2 Gen2 lists loopback; boards without it need extra software to route a remote guest."
+  },
+  {
+   "spec": "Multitrack recording",
+   "meaning": "Each microphone is saved as its own file, so levels can be fixed after the interview.",
+   "watchFor": "The RØDECaster Pro II and P4next record multitrack; the E2 Gen2 sends a mix to the computer."
+  },
+  {
+   "spec": "Channel count",
+   "meaning": "The number of input strips on the surface, mixing mono mic channels and stereo line channels.",
+   "watchFor": "Do not treat the Kaschun's four channels as four microphone inputs."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Microphone capacity",
+   "description": "We counted the true XLR mic preamps on each board rather than the advertised channel total. The lineup ranges from one XLR input on the Elgato Wave XLR MK.2 to four on the RØDECaster Pro II and PodTrak P4next. This decides how many hosts can sit at the same table."
+  },
+  {
+   "title": "Gain and noise",
+   "description": "We compared stated gain ceilings against what a quiet dynamic mic needs, using the 70 dB and 80 dB figures on the P4next and Wave XLR MK.2 as the high end. Boards without a published gain figure were treated cautiously. Clean gain at the source is worth more than any software fix."
+  },
+  {
+   "title": "Recording and routing",
+   "description": "We looked at whether each unit records on its own, supports loopback or phone input, and keeps tracks separate. A standalone multitrack recorder and a USB only mixer solve different problems, and we scored them on fit for the show described."
+  },
+  {
+   "title": "Controls and workflow",
+   "description": "We weighed faders, knobs, pads and touchscreens by how fast a host can fix a level mid conversation. Rode's touchscreen desks and Zoom's pad based recorder sit near the top, with simple USB boxes below."
+  },
+  {
+   "title": "Value and ownership",
+   "description": "We considered relative price tier, desk footprint, power supply quality and how well a unit scales if the show grows. Boards that lock you into two voices lose points if your plans include a third host."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Number of Hosts",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Solo host with one dynamic mic",
+      "Elgato Wave XLR MK.2",
+      "80 dB gain and a clean DSP chain for one voice"
+     ],
+     [
+      "Two hosts at a desk",
+      "RØDECaster Duo",
+      "Two combo inputs with four faders and a touchscreen"
+     ],
+     [
+      "Two hosts on a tight budget",
+      "MAONO E2 Gen2",
+      "Dual XLR with loopback and Bluetooth"
+     ],
+     [
+      "Three or four hosts around a table",
+      "RØDECaster Pro II",
+      "Four preamps with full voice processing"
+     ],
+     [
+      "Four hosts recording to a card",
+      "Zoom PodTrak P4next",
+      "Four XLR inputs and four headphone feeds"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Budget tier",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest entry",
+      "Kaschun 4 channel board",
+      "Phantom power, EQ and Bluetooth in one cheap board"
+     ],
+     [
+      "Entry to mid",
+      "MAONO E2 Gen2",
+      "Two XLR inputs and loopback for a modest outlay"
+     ],
+     [
+      "Mid range",
+      "Zoom PodTrak P4next",
+      "Four inputs with standalone recording"
+     ],
+     [
+      "Higher mid",
+      "Elgato Wave XLR MK.2",
+      "Polished chain for a single voice"
+     ],
+     [
+      "Premium",
+      "RØDECaster Pro II",
+      "A full broadcast desk with pads and processing"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Standalone Recorder vs USB Mixer",
+   "cards": [
+    {
+     "label": "Standalone recorder",
+     "text": "The RØDECaster Pro II and Zoom PodTrak P4next record without a computer, so a crashed laptop cannot end a session. They suit in person shows where a table of hosts and a card save multitrack files."
+    },
+    {
+     "label": "USB mixer",
+     "text": "The MAONO E2 Gen2, Kaschun and Elgato Wave XLR MK.2 depend on a computer for recording. They suit a desk where you already edit in software and stream or call remote guests."
+    }
+   ],
+   "note": "Pick a standalone recorder for in person shows and a USB board if your recording software is already part of the setup."
+  },
+  {
+   "subheading": "Remote Guest Handling",
+   "table": {
+    "headers": [
+     "Need",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Dial in by phone",
+      "Zoom PodTrak P4next",
+      "Phone input built into the recorder"
+     ],
+     [
+      "Software call with computer audio",
+      "MAONO E2 Gen2",
+      "Loopback returns the call into the recording"
+     ],
+     [
+      "Full routing control",
+      "RØDECaster Pro II",
+      "Flexible routing for calls and pads"
+     ],
+     [
+      "Single voice with software mix",
+      "Elgato Wave XLR MK.2",
+      "Companion software handles the mix"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Quiet Dynamic Mics Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Quiet broadcast dynamic microphones need 60 to 70 dB of clean preamp gain. A board with weak gain forces you to boost in software, which raises the noise floor along with the voice."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The Elgato Wave XLR MK.2 at 80 dB and the Zoom PodTrak P4next at 70 dB give the most headroom. The RØDECaster Pro II also drives these mics, while the MAONO E2 Gen2 suits more forgiving microphones."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "You record three or more voices, want pads and processing, or plan to grow. The RØDECaster Pro II holds up through all of that, while the Duo suits two hosts who value faders."
+    },
+    {
+     "label": "Save if",
+     "text": "You record one or two voices and edit afterward. The MAONO E2 Gen2 or Kaschun covers the basics, and a better microphone and boom arm will improve the recording more than a pricier mixer."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Dust the faders and knobs",
+   "interval": "Monthly",
+   "why": "Dust and skin oil collect around moving parts. Use compressed air and a dry brush, never spray cleaner into the controls."
+  },
+  {
+   "task": "Reformat the recording card",
+   "interval": "Before each important session",
+   "why": "A freshly formatted card avoids file system errors. Always format in the recorder, not on a computer."
+  },
+  {
+   "task": "Check cables and connectors",
+   "interval": "Quarterly",
+   "why": "XLR and USB cables wear at the plug. Replace any that crackle when moved, since intermittent noise ruins a take."
+  },
+  {
+   "task": "Update firmware",
+   "interval": "Every few months",
+   "why": "Updates fix bugs and sometimes add routing features. Back up presets first so settings are not lost."
+  },
+  {
+   "task": "Test phantom power and levels",
+   "interval": "Before each recording",
+   "why": "A quick test confirms that condenser mics are powered and gain is set correctly. It takes a minute and saves a lost episode."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Do I need a mixer or an audio interface for a podcast?",
+   "a": "A mixer helps when you have two or more hosts or want to ride levels by hand. A single channel interface such as the Elgato Wave XLR MK.2 is simpler for a solo host. If you only ever record one voice, skip the mixer."
+  },
+  {
+   "q": "Which is the best podcast mixer for beginners?",
+   "a": "The MAONO E2 Gen2 is easy to use and has two XLR inputs, loopback and Bluetooth. It presents as a sound card, so setup is quick. If you expect more hosts, step up to a four input unit."
+  },
+  {
+   "q": "How much should I spend on a podcast mixer?",
+   "a": "Match the spend to the number of voices and your editing needs. A modest board handles one or two hosts, while a four input standalone recorder costs more but saves editing time. A good microphone and boom arm often matter more."
+  },
+  {
+   "q": "Does more channels mean better sound?",
+   "a": "No. Channel count is a measure of inputs, not quality. The number of true XLR preamps and the quality of their gain matter far more. A four channel board can have only one XLR input."
+  },
+  {
+   "q": "What is mix minus and do I need it?",
+   "a": "Mix minus sends a remote caller everything except their own voice so they do not hear an echo. You need it if you interview guests by phone or video call. Not every mixer supports it, so check before you buy."
+  },
+  {
+   "q": "Can I record without a computer?",
+   "a": "Yes, with a standalone recorder such as the RØDECaster Pro II or Zoom PodTrak P4next, which save to a card. USB mixers like the MAONO E2 Gen2 need a computer or phone to record."
+  }
+ ],
+ "relatedGuides": [],
+ "heroImage": "https://m.media-amazon.com/images/I/51VJGEJzlXL._SL500_.jpg"
+}

@@ -1,0 +1,589 @@
+{
+ "guideSlug": "best-cnc-routers-for-woodworking",
+ "categorySlug": "shop-garage",
+ "mainKeyword": "cnc routers for woodworking",
+ "guideTitle": "Best CNC Routers for Woodworking (2026)",
+ "metaTitle": "Best CNC Routers for Woodworking in 2026",
+ "metaDescription": "Six CNC routers for woodworking compared by trim router power, linear rails, ball screws and work area, from a 4040 PRO MAX to a 33 inch FoxAlien XE-Ultra.",
+ "lastUpdated": "2026-11-07",
+ "readTime": "13 min",
+ "heroImage": "https://m.media-amazon.com/images/I/41f05-+19iL._SL500_.jpg",
+ "expertTake": "The Genmitsu 4040-PRO MAX is the best overall for a woodworker because its linear rail X axis and 710W trimmer cut hardwood without the flex of lighter machines. The FoxAlien Masuter Pro is the value pick for sign work and plaques. Anyone who needs full 4 by 8 foot sheet capacity should look at a gantry machine, not a desktop one.",
+ "introParagraphs": [
+  "A woodworking CNC router carves, engraves and cuts joinery from a digital design, and the tradeoffs are different from a metal-cutting mill. Wood is forgiving of modest rigidity but demands dust control, good chip evacuation and sharp bits that do not burn.",
+  "Match the bed to your typical board, then judge the motion system and the cutting tool. Trim routers deliver high speed and low cost, and brushless spindles add quiet and continuous duty, but frame stiffness decides which of them you can actually use."
+ ],
+ "products": [
+  {
+   "id": "B0DFWLVQC4",
+   "badge": "Best Overall",
+   "name": "Genmitsu 4040-PRO MAX CNC router with 710W trimmer",
+   "price": "",
+   "specs": [
+    "710W trimmer",
+    "16 x 16 inch bed",
+    "Linear rail X axis",
+    "3 axis"
+   ],
+   "specList": [
+    {
+     "label": "Cutter",
+     "value": "710W trimmer router"
+    },
+    {
+     "label": "Work area",
+     "value": "16.1 by 15.9 by 3.0 inches"
+    },
+    {
+     "label": "X axis",
+     "value": "Modified SBR16 linear rail"
+    },
+    {
+     "label": "Bed",
+     "value": "Reinforced spoilboard"
+    },
+    {
+     "label": "Control",
+     "value": "GRBL"
+    }
+   ],
+   "description": "The 4040-PRO MAX uses a 710 watt trimmer router, which spins fast enough to leave a clean finish in hardwood, and rides on a modified SBR16 linear rail X axis with a linear guideway Z axis for motion stability. The work area is 16.1 by 15.9 by 3.0 inches, enough for cutting boards, small furniture parts and plaques, and a reinforced spoilboard keeps stock flat.\n\nThe tradeoff is bed size. Sixteen inches is fine for small projects, but a full-size cabinet door will not fit, and a three inch Z height limits thick stock. Compared with the LUNYEE 4040 Pro Max, the Genmitsu has a similar footprint with a slightly lower-power cutter, and against the XE-Ultra 8080 it is much smaller but also easier to house.\n\nGood habits matter. Use downcut or compression spiral bits for plywood, vacuum chips as they form, and resurface the spoilboard when it wears. Keep the rails clean and the trimmer's collet tight, and always wear eye and ear protection. Add a router lift or a good collet extension and the machine copes with most furniture parts.",
+   "bestFor": "Woodworkers cutting small furniture parts, signs and boards.",
+   "pros": [
+    "710W trimmer gives clean results in hardwood",
+    "Linear rail X and Z axes for stability",
+    "Reinforced spoilboard keeps stock flat",
+    "Compact enough for a workbench"
+   ],
+   "cons": [
+    "16 inch bed limits larger projects",
+    "Only 3 inches of Z travel"
+   ],
+   "rank": 1,
+   "amazonUrl": "https://www.amazon.com/dp/B0DFWLVQC4?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41f05-+19iL._SL500_.jpg"
+  },
+  {
+   "id": "B0FJ88LMG5",
+   "badge": "Best Large Format",
+   "name": "FoxAlien XE-Ultra 8080 CNC router with NEMA 23 closed-loop steppers",
+   "price": "",
+   "specs": [
+    "33 x 33 inch bed",
+    "4.72 inch Z",
+    "NEMA 23 closed loop",
+    "3 axis"
+   ],
+   "specList": [
+    {
+     "label": "Work area",
+     "value": "33 by 33 by 4.72 inches"
+    },
+    {
+     "label": "Motors",
+     "value": "NEMA 23 closed-loop steppers"
+    },
+    {
+     "label": "Class",
+     "value": "Large benchtop"
+    },
+    {
+     "label": "Use",
+     "value": "Engraving and milling"
+    },
+    {
+     "label": "Frame",
+     "value": "Industrial rigidity design"
+    }
+   ],
+   "description": "The XE-Ultra 8080 is the large-format machine, with a 33 by 33 by 4.72 inch work area that accepts full-size panels and long boards. NEMA 23 closed-loop steppers monitor position and correct lost steps, which is valuable on a big machine where missed steps ruin hours of work, and the frame is designed for rigidity across its size.\n\nThe limit is footprint and cost. A machine this large needs a dedicated table or stand, a long dust shoe and a decent amount of space around it, and the larger gantry flexes more than a compact frame. Compared with the 4040-PRO MAX, it gives more than four times the area but a heavier setup, and against the Masuter Pro it adds closed-loop motors and a bigger bed.\n\nPlan for ongoing care: clean and lubricate rails and screws, tighten fasteners and keep the spoilboard flat. Large panels need good clamping, because the moving stock is the biggest risk on a big bed.",
+   "bestFor": "Woodworkers who cut full panels, large signs and cabinet doors.",
+   "pros": [
+    "33 by 33 inch bed fits large panels",
+    "Closed-loop NEMA 23 steppers catch lost steps",
+    "4.72 inches of Z travel for thicker stock",
+    "Rigid design for its size"
+   ],
+   "cons": [
+    "Needs a large dedicated table",
+    "Higher tier than compact desktop machines"
+   ],
+   "rank": 2,
+   "amazonUrl": "https://www.amazon.com/dp/B0FJ88LMG5?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/412nfnxZA4L._SL500_.jpg"
+  },
+  {
+   "id": "B0GYZPDHN1",
+   "badge": "Best Trim Router Power",
+   "name": "LUNYEE 4040 Pro Max CNC router with 800W router",
+   "price": "",
+   "specs": [
+    "800W router",
+    "400 x 400 x 90 mm",
+    "Linear Z guide",
+    "Ball screw"
+   ],
+   "specList": [
+    {
+     "label": "Cutter",
+     "value": "800W trim router"
+    },
+    {
+     "label": "Work area",
+     "value": "400 by 400 by 90 mm"
+    },
+    {
+     "label": "Z axis",
+     "value": "Linear guide"
+    },
+    {
+     "label": "Drive",
+     "value": "Ball screw"
+    },
+    {
+     "label": "Frame",
+     "value": "Reinforced"
+    }
+   ],
+   "description": "The LUNYEE 4040 Pro Max swaps a spindle for an 800 watt trim router, which delivers stronger cutting for hardwood, and uses a linear guide on the Z axis and ball screws for accurate motion. A reinforced frame supports the stronger cutter, and the 400 by 400 by 90 millimeter work area suits small furniture parts and signs.\n\nThe tradeoff is noise and dust. A trim router is louder than a spindle and throws more chips, and the 90 millimeter Z travel is modest. Compared with the Genmitsu 4040-PRO MAX, it has a stronger cutter and ball screws but a smaller Z height, and against the 3020 Nova it has a bigger bed.\n\nUse ear protection and a dust shoe. Check the router collet and bits regularly, grease the ball screws and keep the frame bolts tight. Treat the ball screws like a precision instrument and keep them lubricated.",
+   "bestFor": "Woodworkers who want a strong trim router on a compact frame.",
+   "pros": [
+    "800W trim router for tougher cuts",
+    "Ball screws for accurate motion",
+    "Linear guide Z axis",
+    "Reinforced frame"
+   ],
+   "cons": [
+    "Trim router is loud and messy",
+    "90 mm Z travel is limited"
+   ],
+   "rank": 3,
+   "amazonUrl": "https://www.amazon.com/dp/B0GYZPDHN1?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/519txfFawGL._SL500_.jpg"
+  },
+  {
+   "id": "B0G4MDB99Q",
+   "badge": "Best Compact All-Metal",
+   "name": "LUNYEE 3020 Nova CNC router with 800W trimmer",
+   "price": "",
+   "specs": [
+    "800W trimmer",
+    "Linear guides XYZ",
+    "Ball screws",
+    "All metal"
+   ],
+   "specList": [
+    {
+     "label": "Cutter",
+     "value": "800W trimmer router"
+    },
+    {
+     "label": "Motion",
+     "value": "Linear guides and ball screws on XYZ"
+    },
+    {
+     "label": "Frame",
+     "value": "All metal"
+    },
+    {
+     "label": "Class",
+     "value": "Compact 3020"
+    },
+    {
+     "label": "Drive",
+     "value": "Industrial-grade"
+    }
+   ],
+   "description": "The 3020 Nova puts linear guides and ball screws on every axis in a compact 3020 class machine, driven by an 800 watt trimmer router. That industrial-style drive system is rare in this size and gives accurate, repeatable motion for small precise work such as inlays, small boxes and lettering. An all-metal frame supports the cutter.\n\nIts limit is bed size. A 3020 class machine cuts a small area, so it suits small parts and engraving rather than furniture panels. Compared with the 4040-PRO MAX, it has finer motion but far less area, and against the TTC450 Pro it has a stronger cutter but a simpler interface.\n\nKeep the linear guides and screws clean and lubricated, and use a dust shoe because the trimmer throws chips. Check the cutter mount often.",
+   "bestFor": "Small precise work such as inlays, lettering and boxes.",
+   "pros": [
+    "Linear guides and ball screws on all three axes",
+    "800W trimmer for solid cutting",
+    "All-metal frame",
+    "Compact footprint"
+   ],
+   "cons": [
+    "Small bed limits project size",
+    "Trim router is loud"
+   ],
+   "rank": 4,
+   "amazonUrl": "https://www.amazon.com/dp/B0G4MDB99Q?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/51r2nM8HY9L._SL500_.jpg"
+  },
+  {
+   "id": "B0D8T9CQVV",
+   "badge": "Best Touchscreen Control",
+   "name": "Twotrees TTC450 Pro all-metal CNC router with touchscreen",
+   "price": "",
+   "specs": [
+    "NEMA 57 stepper",
+    "3.5 inch touchscreen",
+    "All metal",
+    "3 axis"
+   ],
+   "specList": [
+    {
+     "label": "Display",
+     "value": "3.5 inch IPS capacitive touchscreen"
+    },
+    {
+     "label": "Motors",
+     "value": "NEMA 57 stepper"
+    },
+    {
+     "label": "Frame",
+     "value": "All metal"
+    },
+    {
+     "label": "Axes",
+     "value": "3"
+    },
+    {
+     "label": "Use",
+     "value": "Engraving and routing"
+    }
+   ],
+   "description": "The TTC450 Pro stands out for its 3.5 inch IPS capacitive touchscreen, which lets you set zero, jog and run jobs from the machine itself, and for NEMA 57 stepper motors that deliver strong torque. An all-metal frame gives it stiffness, and the kit is geared toward users who want a premium experience without a laptop at the bench.\n\nThe tradeoff is spindle power and ecosystem. It is a lower-power machine than the trim router models, and the support network is smaller than Genmitsu's. Compared with the Masuter Pro, it adds a touchscreen and stronger motors, and against the 3020 Nova it has less cutting force.\n\nKeep the screen clean and the cables strain relieved, grease moving parts and use sharp bits. Learn the controller menus on a scrap board first. Pair it with a decent laptop for CAM prep and the touchscreen handles the rest.",
+   "bestFor": "Users who want touchscreen control and strong stepper torque.",
+   "pros": [
+    "3.5 inch capacitive touchscreen runs jobs from the machine",
+    "NEMA 57 steppers give strong torque",
+    "All-metal frame",
+    "Premium finish and feel"
+   ],
+   "cons": [
+    "Lower cutting power than trim router models",
+    "Smaller support community"
+   ],
+   "rank": 5,
+   "amazonUrl": "https://www.amazon.com/dp/B0D8T9CQVV?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/517sjcxwvcL._SL500_.jpg"
+  },
+  {
+   "id": "B09ZTYGGTJ",
+   "badge": "Best Value",
+   "name": "FoxAlien Masuter Pro 3-axis all-aluminum CNC router",
+   "price": "",
+   "specs": [
+    "All aluminum",
+    "Linear rail Z",
+    "Dust-proof upgrades",
+    "3 axis"
+   ],
+   "specList": [
+    {
+     "label": "Frame",
+     "value": "All aluminum"
+    },
+    {
+     "label": "Z axis",
+     "value": "Linear rail"
+    },
+    {
+     "label": "Dust protection",
+     "value": "Upgraded dust-proof design"
+    },
+    {
+     "label": "Axes",
+     "value": "3"
+    },
+    {
+     "label": "Use",
+     "value": "Wood, acrylic, hobby engraving"
+    }
+   ],
+   "description": "The Masuter Pro is an all-aluminum, three-axis hobby router with a linear rail Z axis and an upgraded dust-proof design. Stiffer aluminum construction and a linear Z give it better stability than plastic or stamped steel frames, and the dust protection extends the life of the rails and screws in a chip-heavy workshop.\n\nThe tradeoff is cutting power and size. It uses a smaller spindle than the trimmer-router machines, so it is better suited to sign work, plaques and softwood than to large hardwood roughing. Compared with the TTC450 Pro, it is less feature-rich, and against the 4040-PRO MAX it has less power and area.\n\nWipe down the rails, use a dust shoe and keep the bit sharp. Treat it as a hobby machine, and cut in light passes for best results. If you outgrow it, the clamps, bits and software all move to a bigger machine.",
+   "bestFor": "Hobbyists making signs, plaques and carvings on a budget.",
+   "pros": [
+    "All-aluminum structure with a linear rail Z axis",
+    "Dust-proof upgrades protect moving parts",
+    "Good stability for the price",
+    "Suited to wood and acrylic"
+   ],
+   "cons": [
+    "Lower power than trim router machines",
+    "Not for heavy hardwood roughing"
+   ],
+   "rank": 6,
+   "amazonUrl": "https://www.amazon.com/dp/B09ZTYGGTJ?tag=machinefanatic-20",
+   "imageUrl": "https://m.media-amazon.com/images/I/41l4Ct5s0wL._SL500_.jpg"
+  }
+ ],
+ "buyingCriteria": [
+  {
+   "criterion": "Bed size for your boards",
+   "explanation": "The bed should fit your widest regular board with a margin for clamps. A 16 inch bed on the 4040-PRO MAX suits cutting boards and plaques, while a 33 inch bed on the XE-Ultra 8080 accepts panels and doors. Do not buy a bed that is smaller than your usual project. Lay out your three most common projects at full size on the floor and measure them, since an honest tally often shows that a mid-size bed covers nearly everything."
+  },
+  {
+   "criterion": "Trim router versus spindle",
+   "explanation": "A trim router such as the 800 watt unit on the LUNYEE models is cheap and powerful but loud and dusty. A dedicated spindle runs quieter and cooler. Woodworkers on a budget get more cutting from a trimmer, and those who run long jobs prefer a spindle. If you choose a trimmer, plan a low-noise enclosure or good hearing protection, because the sound level is the usual complaint."
+  },
+  {
+   "criterion": "Motion system",
+   "explanation": "Linear guides and ball screws on every axis, as on the 3020 Nova, give accurate repeatable motion. Closed-loop steppers like those on the XE-Ultra 8080 catch lost steps. A rigid motion system matters more than cutter wattage. Check the controller board for upgrade paths, since a good motion system deserves a good controller."
+  },
+  {
+   "criterion": "Z height and thickness",
+   "explanation": "Z travel limits the thickness you can cut. The 4040-PRO MAX offers 3.0 inches, the LUNYEE 4040 offers 90 millimeters and the XE-Ultra 8080 offers 4.72 inches. Check the height against the thickest stock you plan to cut. Remember that spoilboard thickness eats into Z travel, so a stated three inches may become two and a half in practice."
+  },
+  {
+   "criterion": "Dust and chip control",
+   "explanation": "Wood makes enormous amounts of dust. A dust shoe and shop vacuum prevent chips from clogging the cut and wearing the rails. The Masuter Pro adds dust-proof upgrades. Good chip evacuation also reduces burning. Wear a respirator, not a paper mask, because fine wood dust is a lasting health hazard."
+  },
+  {
+   "criterion": "Workholding",
+   "explanation": "A reinforced spoilboard and good clamps keep stock from moving during a cut. The 4040-PRO MAX has a reinforced spoilboard and T-track style holding. Stock that shifts is the main cause of ruined parts. A sacrificial board under the stock, plus tabs on cutouts, prevents parts from flying loose at the last pass."
+  }
+ ],
+ "specDecoder": [
+  {
+   "spec": "Work area (X by Y by Z)",
+   "meaning": "The travel of each axis, which sets the largest part and thickness you can cut. Usable area is smaller after clamps. Always subtract the width of your clamps and the cutter diameter from the stated travel.",
+   "watchFor": "The 4040-PRO MAX lists 16.1 by 15.9 by 3.0 inches, and the XE-Ultra lists 33 by 33 by 4.72 inches."
+  },
+  {
+   "spec": "Closed-loop stepper",
+   "meaning": "A motor with position feedback that corrects missed steps. It prevents mid-job misalignment. It costs more, but on a big bed the correction pays for itself.",
+   "watchFor": "The XE-Ultra 8080 uses NEMA 23 closed-loop steppers."
+  },
+  {
+   "spec": "Linear rail and ball screw",
+   "meaning": "Precision rails and screws reduce play and give smooth, accurate movement. Dust, not wear, is the usual reason for rough motion, so cleaning matters.",
+   "watchFor": "The LUNYEE 3020 Nova uses linear guides and ball screws on XYZ."
+  },
+  {
+   "spec": "Trimmer router watts",
+   "meaning": "The router's electrical power. It sets maximum cutting force. A smaller collet adapter may be needed for narrow bits.",
+   "watchFor": "The LUNYEE models list 800W and the Genmitsu lists 710W."
+  },
+  {
+   "spec": "NEMA frame size",
+   "meaning": "The stepper motor body size. Larger NEMA numbers generally provide more torque. Higher torque helps avoid missed steps on stiff cuts.",
+   "watchFor": "The TTC450 Pro uses NEMA 57."
+  }
+ ],
+ "howWeEvaluated": [
+  {
+   "title": "Motion and rigidity",
+   "description": "We compared rails, screws and frame material. The 3020 Nova has linear guides and ball screws on every axis, and the XE-Ultra has closed-loop steppers. Stiff, accurate motion scored higher. We also noted how the machine behaves with a long bit at full depth."
+  },
+  {
+   "title": "Cutter power",
+   "description": "We looked at spindle or router wattage. The LUNYEE models list 800W and the Genmitsu lists 710W. Usable power on a stiff frame scored higher. We compared collet sizes and bit compatibility."
+  },
+  {
+   "title": "Work area and Z",
+   "description": "We compared bed size and Z travel. The XE-Ultra offers 33 inch and 4.72 inches Z. Practical capacity for wood scored higher. We looked at how simple it is to resurface the bed."
+  },
+  {
+   "title": "Dust and workholding",
+   "description": "We checked dust protection and spoilboards. The Masuter Pro has dust-proof upgrades and the 4040-PRO MAX has a reinforced spoilboard. Cleaner and steadier setups scored higher. We considered whether dust shoes are included or available."
+  },
+  {
+   "title": "Ownership",
+   "description": "We weighed setup effort, controls and owner feedback patterns. A touchscreen on the TTC450 Pro and well documented GRBL support scored higher. We looked at how the software ecosystem eases first projects."
+  }
+ ],
+ "howToChoose": [
+  {
+   "subheading": "By Project Size",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Cutting boards and plaques",
+      "Genmitsu 4040-PRO MAX",
+      "16 inch bed with a 710W trimmer"
+     ],
+     [
+      "Full panels and cabinet doors",
+      "FoxAlien XE-Ultra 8080",
+      "33 by 33 inch bed"
+     ],
+     [
+      "Small inlays and lettering",
+      "LUNYEE 3020 Nova",
+      "Ball screws on every axis"
+     ],
+     [
+      "Signs and furniture parts",
+      "LUNYEE 4040 Pro Max",
+      "400 mm bed with 800W router"
+     ],
+     [
+      "Hobby carvings",
+      "FoxAlien Masuter Pro",
+      "All-aluminum and dust-proof"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "By Budget",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Lowest tier",
+      "FoxAlien Masuter Pro",
+      "Aluminum hobby router"
+     ],
+     [
+      "Entry mid tier",
+      "TTC450 Pro",
+      "Touchscreen and NEMA 57"
+     ],
+     [
+      "Mid tier power",
+      "LUNYEE 3020 Nova",
+      "800W and linear guides"
+     ],
+     [
+      "Upper mid tier",
+      "Genmitsu 4040-PRO MAX",
+      "Linear rails and 710W"
+     ],
+     [
+      "Premium",
+      "FoxAlien XE-Ultra 8080",
+      "Large format"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "Trim Router vs Spindle",
+   "cards": [
+    {
+     "label": "Trim router",
+     "text": "The LUNYEE 4040 Pro Max, 3020 Nova and Genmitsu 4040-PRO MAX use trimmers. They are powerful and affordable but louder and messier."
+    },
+    {
+     "label": "Spindle",
+     "text": "Spindle-based machines like the Masuter Pro run quieter and cooler. They cost more for the same power."
+    }
+   ],
+   "note": "Hardwood roughing suits trimmers, and long quiet jobs suit spindles."
+  },
+  {
+   "subheading": "Motion System",
+   "table": {
+    "headers": [
+     "Situation",
+     "Pick",
+     "Why"
+    ],
+    "rows": [
+     [
+      "Closed-loop reliability on a big bed",
+      "XE-Ultra 8080",
+      "Position feedback"
+     ],
+     [
+      "Ball screws on all axes",
+      "LUNYEE 3020 Nova",
+      "Accurate small work"
+     ],
+     [
+      "Linear rail X and Z",
+      "Genmitsu 4040-PRO MAX",
+      "Stable motion"
+     ],
+     [
+      "Touchscreen workflow",
+      "TTC450 Pro",
+      "On-machine control"
+     ]
+    ]
+   }
+  },
+  {
+   "subheading": "For Hardwood Specifically",
+   "cards": [
+    {
+     "label": "Look for",
+     "text": "Look for at least 700 watts, linear rails and a rigid Z axis. Use sharp compression bits, take shallow passes and vacuum chips to avoid burning."
+    },
+    {
+     "label": "In this comparison",
+     "text": "The 4040-PRO MAX and LUNYEE 4040 Pro Max are the most suited, with the XE-Ultra for large parts."
+    }
+   ]
+  },
+  {
+   "subheading": "When to Spend More",
+   "cards": [
+    {
+     "label": "Spend more if",
+     "text": "Spend more if you cut for income or need panels. The XE-Ultra 8080 and 4040-PRO MAX hold accuracy over long jobs."
+    },
+    {
+     "label": "Save if",
+     "text": "Save if you make small signs. The Masuter Pro covers that work."
+    }
+   ]
+  }
+ ],
+ "maintenance": [
+  {
+   "task": "Clean and lubricate rails and screws",
+   "interval": "Every 20 hours",
+   "why": "Wood dust packs bearings and wears rails. Regular cleaning keeps motion smooth."
+  },
+  {
+   "task": "Resurface the spoilboard",
+   "interval": "As needed",
+   "why": "Worn spoilboards have uneven depth. A facing pass restores flatness. Use a flycutter or a wide bit to take off a thin layer evenly."
+  },
+  {
+   "task": "Check collet and bits",
+   "interval": "Each session",
+   "why": "A worn collet lets bits slip and burn wood. Replace a worn collet instead of overtightening it."
+  },
+  {
+   "task": "Tighten fasteners",
+   "interval": "Monthly",
+   "why": "Vibration loosens frame and coupler screws, causing lost steps. Apply a drop of thread locker on grub screws."
+  },
+  {
+   "task": "Empty the dust collection",
+   "interval": "Each session",
+   "why": "Packed chips recut and heat the bit."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Can a desktop CNC cut hardwood?",
+   "a": "Yes, with sharp bits and shallow passes. Machines with linear rails and 700 watts or more, such as the 4040-PRO MAX, handle it best. A good approach is to rough with a larger bit and finish with a smaller one so each pass cuts less."
+  },
+  {
+   "q": "What bit should I use?",
+   "a": "Downcut or compression spiral bits give clean edges in plywood and solid wood. Use sharp bits to avoid burning. Test with a scrap board first, then move to expensive stock."
+  },
+  {
+   "q": "Do I need a dust collector?",
+   "a": "Yes. Wood makes large amounts of chips, and a dust shoe and vacuum keep the cut clear. Dust shoes are cheap, and many users print their own."
+  },
+  {
+   "q": "How big should the bed be?",
+   "a": "Choose one that fits your widest regular board with a margin for clamps. A 16 inch bed suits small projects and 33 inch suits panels. If your design needs full sheets, check a gantry router rather than stretching a desktop machine."
+  },
+  {
+   "q": "Is a trim router or a spindle better?",
+   "a": "A trim router is cheaper and strong but loud. A spindle is quieter for long jobs. A shop vacuum with a cyclone separator makes cleanup much easier."
+  },
+  {
+   "q": "How long will a CNC router last?",
+   "a": "With cleaning and lubrication, many years. Bits, collets and belts are consumables."
+  }
+ ],
+ "relatedGuides": []
+}
